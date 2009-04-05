@@ -695,6 +695,7 @@ BPMerchantStorage.esp
 % {{BASH:Invent}}
 
 Cats & Rats.esp
+OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
 ChaseCameraMod.esp
 Third Person View Camera Distance Lock -Tight-.esp
@@ -720,7 +721,8 @@ CFVBloodgrass.esp
 
 CLS-Sailboats.esp
 CLS-Sailboats-COBL.esp
-OCLR-Sailbot-Patch.esp 
+OCLR-Sailbot-Patch.esp
+OCLR-Sailboat-Patch.esp
 
 CM_Better Wine.esp 
 ? Not compatible with OOO. OOO contains a similar mod.
@@ -754,6 +756,7 @@ Elytramount.esp
 Encyclopaedia Cyrodilica.esp
 ES4_Alchemists Reference.esp
 Eterniums Chest Of Arrows.esp
+OCC-Eternium-Patch.esp
 Extended Death Camera.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
 
@@ -1018,6 +1021,7 @@ FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 
 Terran Vampires Beta.esp
+OCC-TVamp-Patch.esp
 
 bartholm.esp
 
@@ -1406,6 +1410,7 @@ HiddenSkulls.esp
 ? {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
 Hiyoko_Store.esp
+OCC-Hiyoko-Patch.esp
 Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
@@ -2229,6 +2234,7 @@ FCOM_WarCryNoSpawn.esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
+OCC-OOO-Patch.esp
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -3102,7 +3108,6 @@ HeartlandFarm.esp
 HeartoftheDead.esp
 % {{BASH:Hair}}
 OC-HOD-Patch.esp
-% {{BASH:Hair}}
 
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
@@ -3145,6 +3150,7 @@ Kriegerburg.esp
 Corpse_Kvatch.esp
 KvatchAftermath.esp
 Kvatch Rebuilt.esp
+OCC-KR-Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
@@ -3166,8 +3172,6 @@ Lenawiln_Cottagev2.11.esp
 
 LetThePeopleDrink.esp
 LetThePeopleDrink-Cobl.esp
-
-NRB4+LtPD Patch.esp 
 
 Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
@@ -3367,6 +3371,10 @@ thievery.esp
 tollingbrookhollowhome.esp
 Tomb of the Unknown Knight.esp
 TR_Stirk_v0.9.esp
+? Obsolete beta. Need to update to released version.
+TR_Stirk.esp
+Stirk_Compatibility_Patch.esp
+? Requires TR_Stirk.
 Transmutation.esp
 Treasure Maps Blood Ransom.esp
 Treasure Maps_Boethia's Burden.esp
@@ -3507,7 +3515,7 @@ Thieves Highway.esp
 Lynges Thieves Highway.esp
 
 \-----------
-\DLC Instert
+\DLC Insert
 \-----------
 
 DLCFrostcrag.esp
@@ -3619,9 +3627,11 @@ OOO_Mannimarco_Fix.esp
 
 Prince of Order.esp
 
+Shadowcrest_Vineyard.esp
+
 Faregyl.esp
 Faregyl-FGRoad-Patch.esp
-? Move after ElseweyrAnrquina.esp if using it.
+? Move after ElsweyrAnequina.esp if using it.
 
 \-------------------------
 \FCOM compatibility insert
@@ -3674,7 +3684,11 @@ FCC-IC-Talosplaza.esp
 FCC-Bruma.esp
 FCC-Cheydinhal.esp
 
+ElsweyrAnequina.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+
 road+bridges.esp
+NRB4+Vineyard Patch.esp
 
 TVIcar.esp
 
@@ -3688,6 +3702,7 @@ xuldarkforest.esp
 Silverfish.esp
 
 xulBrenaRiverRavine02.esp
+? Obsolete beta. Need to upgrade to released version.
 
 xulStendarrValley.esp
 Ravenpride-Stendarr patch.esp
@@ -3708,6 +3723,7 @@ ULFallenLeafEverglade.esp
 xulFallenLeafEverglade.esp
 LostSpires-Everglade patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
+Anequina-Fallenleaf-Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
@@ -3777,15 +3793,14 @@ xulBrenaRiverRavine.esp
 
 xulImperialIsle.esp
 
+NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
 NRB4+UL-II Patch.esp
 PlayerHomeNaheema-ImperialIsle patch.esp
 ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
-
-ElsweyrAnequina.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+? Obsolete. Patch needs to be updated, then delete this file.
 
 \Post UL
 \'''''''
@@ -3945,7 +3960,8 @@ Natural Interiors - NE Compatibility.esp
 Natural Interiors - Windows to the World.esp
 NI-Fullcity-Anvilhome.esp
 
-HTS.esp 
+HTS.esp
+OCC-HTS-Patch.esp
 
 \Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
@@ -3963,22 +3979,33 @@ Open Cities + Cats & Rats for Francescos.esp
 ? Not compatible with newer post-2006 versions of Open Cities.
 ? Deactivate 'Open Cities.esp'.
 
+Open Cities New Sheoth.esp
+? Requires Shivering Isles expansion.
+
+Open Cities Bartholm.esp
+? Requires Bartholm.
+
 Open Cities Anvil.esp
 Open Cities Bravil.esp
+
 Open Cities Bravil Blood&Mud.esp
+? Requires Bravil Blood&Mud.
+
 Open Cities Bruma.esp
 Open Cities Cheydinhal.esp
 Open Cities Chorrol.esp
 Open Cities Leyawiin.esp
 Open Cities Leyawiin Reborn.esp
 Open Cities Skingrad.esp
+Open Cities Outer Districts.esp
 Open Cities Full.esp
+
 Open Cities Full + Bravil Blood & Mud.esp
+? Requires Bravil Blood&Mud.
+
 Open Cities Full + Leyawiin Reborn.esp
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
-Open Cities Outer Districts.esp 
-NRB4+UL-II+OCOD Patch.esp
-NRB4+UL-II+LtPD+OCOD Patch.esp
+? Requires Bravil Blood&Mud.
 
 OC+Bravil Docks Patch.esp
 OCC-ABE-LC-Land Patch.esp
@@ -3987,27 +4014,19 @@ OCC-Lost Spires-Patch.esp
 ? Requires The Lost Spires.
 OCC-ABE-Patch.esp
 ? Obsolete. Now part of OCC v3.0+. Update and delete.
-OCC-OOO-Patch.esp
-OCC-TVamp-Patch.esp
-OCC-HTS-Patch.esp
-OCC-Hiyoko-Patch.esp
-OCC-Eternium-Patch.esp
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
 OCC-COBL-Wells.esp
-Open Cities New Sheoth.esp
-? Requires Shivering Isles expansion.
 
-Open Cities Road Record.esp
-? Use either 'Open Cities Road Record.esp' or 'Open Cities LR Road Record.esp' but not both.
-Open Cities LR Road Record.esp
-? Use either 'Open Cities Road Record.esp' or 'Open Cities LR Road Record.esp' but not both.
-
-OCC-KR-Patch.esp
+NRB4+UL-II+OCOD Patch.esp
+NRB4+UL-II+LtPD+OCOD Patch.esp
 
 \Late loading quests and locations
 \'''''''''''''''''''''''''''''''''
+
+RegionReviveLakeRumare-ImperialIsle patch.esp
+NRB4+RR Patch.esp
 
 AncientSource-ChorrolHinterland patch.esp
 ICTowerObservatory.esp
@@ -6142,6 +6161,15 @@ Duke Patrick's more & better loot.esp
 Cobl Filter Late MERGE ONLY.esp
 ? Make sure it is deactivated.
 Cobl Silent Equip Misc.esp
+
+Open Cities Road Record.esp
+? Use only one road record file. Recommend importing into Bashed Patch.
+Open Cities LR Road Record.esp
+? Use only one road record file. Recommend importing into Bashed Patch.
+NRB4 Standard Road Record.esp
+? Use only one road record file. Recommend importing into Bashed Patch.
+NRB4 OCLR Road Record.esp
+? Use only one road record file. Recommend importing into Bashed Patch.
 
 \------------
 \Bashed Patch

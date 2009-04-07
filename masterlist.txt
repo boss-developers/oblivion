@@ -665,6 +665,7 @@ ANBToggleGrab.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
 autosavertest.esp
+Ayleid Loot EXtension.esp
 Azura's Soul-ob.esp
 
 AFC v2 Combo Chains.esp
@@ -2277,6 +2278,8 @@ ArmamentariumLL.esp
 Choices and Consequences - OOO.esp
 ArmamentariumLLVendor.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
+ArmamentariumLLVendors.esp
+? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp 
 
@@ -3394,6 +3397,7 @@ Topal Island - Safe Water.esp
 UFF Gypsy Market.esp
 UnfathomedTower.esp
 Unique Dungeons - Lichs Lair.esp 
+Unique Dungeons - Lost Glory.esp
 Ushnars Skinned Hound.esp
 
 Valley_View_Estate.esp
@@ -3530,6 +3534,7 @@ DLCFrostcragMysticEmporiumPatch.esp
 DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
+Frostcrag Revisited Coblised.esp
 
 Knights.esp
 
@@ -3823,7 +3828,9 @@ PersonalPackGuars.esp
 \Better Cities - English version + patches
 \'''''''''''''''''''''''''''''''''''''''''
 
+Better Cities .esp
 Better Cities Full.esp
+Better Cities Full - B&M Edition.esp
 Better Cities - Full Additions.esp
 Better Cities - Full City Defences.esp
 Better Cities Full - City Defences.esp
@@ -4975,6 +4982,7 @@ dyseso_Light_Ingred_Appar.esp
 5869-1-Enchant Paralysis-TESSource.esp
 Tweaks and Alterations GG.esp
 A_Vampire Alchemy.esp
+AlchExp - Potion Mixer.esp
 
 Herbalism.esp
 Herbalism - Shivering Isles.esp
@@ -5237,6 +5245,7 @@ nGCD.esp
 nGCD Birthsigns.esp
 nGCD Character Generation.esp
 nGCD Oghma Infinium.esp
+nGCD Skeleton Key.esp
 
 Progress.esp
 ProgressGSD.esp
@@ -5527,6 +5536,7 @@ BadderFireFX.esp
 BadderFrostFX.esp
 BadderShockFX.esp
 bgMagicEVShader.esp
+bgMagicShaderLifeDetect.esp
 bgMagicLightningbolt.esp
 BNewShockBoltEffects20.esp
 BNewShockFunnelEffects20.esp

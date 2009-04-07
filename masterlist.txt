@@ -454,6 +454,8 @@ PowerAttack Voicemod.esp
 ? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 Distant Chapel Bells.esp
 Soundscaper.esp
+PowerAttack Voicemod.esp
+PowerAttack Voicemod - The Shivering Isles.esp
 
 Diverse Voices (Vanilla).esp
 Diverse Voices.esp
@@ -2171,19 +2173,19 @@ FCOM_KDCircletsOOOOptimizedNPCEquip.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 ExnemRuneskulls.esp
-? Requires 'FCOM_ExnemRuneskulls.esp' if using FCOM.
+>? Requires 'FCOM_ExnemRuneskulls.esp'.
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
 
 Slof's Oblivion Robe Trader.esp
-? Requires 'FCOM_SlofsRobeTrader.esp' if using FCOM.
+>? Requires 'FCOM_SlofsRobeTrader.esp'.
 
 Tamrielic_Ingredients_cOMbo.esp
 FCOM_TamrielicIngredients.esp
 ? Requires 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
 
 Cobl Glue.esp
-? Requires 'FCOM_Cobl.esp' if using FCOM.
+>? Requires 'FCOM_Cobl.esp'.
 Cobl Si.esp
 ? Requires Shivering Isles expansion.
 OOO 1.32-Cobl.esp
@@ -2204,7 +2206,7 @@ COBL-FransNewCre.esp
 PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
-? Requires 'FCOM_BobsArmory.esp' if using FCOM.
+>? Requires 'FCOM_BobsArmory.esp'.
 Cheat Bob's Armory Oblivion.esp
 FCOM_BobsArmory.esp
 ? Requires 'Bob's Armory Oblivion.esp'.
@@ -2214,7 +2216,7 @@ Loth's Blunt Weapons.esp
 Loth's Blunt Weapons- Mobs.esp
 * Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' and 'FCOM_LothsBluntWeapons.esp'.
 Loth's Blunt Weapons for NPCs.esp
-? Requires 'FCOM_LothsBluntWeapons.esp' if using FCOM.
+>? Requires 'FCOM_LothsBluntWeapons.esp'.
 FCOM_LothsBluntWeapons.esp
 ? Requires 'Loths Blunt Weapons for NPCs.esp'.
 
@@ -2222,7 +2224,7 @@ Oblivion WarCry.esp
 * Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
 Oblivion WarCry EV.esp
-? Requires either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp' if using FCOM.
+>? Requires either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 FCOM_WarCryNoSpawn.esp
@@ -2561,9 +2563,9 @@ Travellers4MMMHostileFactions.esp
 TamrielTravellersFactionAll.esp
 * Delete. Not FCOM compatible.
 TamrielTravellers4000.esp
-? Requires 'FCOM_TamrielTravelers.esp' if using FCOM.
+>? Requires 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
-? Requires 'FCOM_TamrielTravelers.esp' if using FCOM.
+>? Requires 'FCOM_TamrielTravelers.esp'.
 TamrielTravellersItemsNPC.esp
 TamrielTravellersItemsCobl.esp
 ? Requires COBL.
@@ -3504,7 +3506,7 @@ Ash's DB Kah'Lil Quest.esp
 Z's Skeleton Horse.esp
 
 Slof's Oblivion Robe Trader - OOO Patch.esp
-? If using FCOM, use FCOM compatibility version instead
+>? Use FCOM compatibility version instead
 Babarized Slof's Robe Trader Full.esp
 
 Lynges_Thieves_Highway.esp

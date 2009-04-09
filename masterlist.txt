@@ -3633,10 +3633,6 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 
-Faregyl.esp
-Faregyl-FGRoad-Patch.esp
-? Move after ElsweyrAnequina.esp if using it.
-
 \-------------------------
 \FCOM compatibility insert
 \-------------------------
@@ -3693,6 +3689,9 @@ ElsweyrAnequina.esp
 
 road+bridges.esp
 NRB4+Vineyard Patch.esp
+
+Faregyl.esp
+Faregyl-FGRoad-Patch.esp
 
 TVIcar.esp
 
@@ -3757,7 +3756,6 @@ anvil bay+ul tweak.esp
 
 xulbravilbarrowfields.esp
 LostSpires-BravilBarrowfields patch.esp
-BarrowFields-Blood&Mud-Patch.esp
 
 xulLushWoodlands.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
@@ -4032,6 +4030,8 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 
 \Late loading quests and locations
 \'''''''''''''''''''''''''''''''''
+
+BarrowFields-Blood&Mud-Patch.esp
 
 RegionReviveLakeRumare-ImperialIsle patch.esp
 NRB4+RR Patch.esp

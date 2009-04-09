@@ -982,9 +982,6 @@ Harvest[Containers] - Havok Crates Add-on.esp
 
 Piratelords Trade Fixes.esp
 
-VHBloodlines 1.2.esp
-OCC-Verona-Patch.esp
-
 Living Economy.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
@@ -3407,6 +3404,8 @@ Vampire Haven.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
+VHBloodlines 1.2.esp
+OCC-Verona-Patch.esp
 VG0HalloweenSpecial.esp
 Vibliribland-4489-Blackrock_Mountain.esp
 Vibliribland-4490-Lair_of_the_Hydra.esp

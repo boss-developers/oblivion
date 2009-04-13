@@ -25,6 +25,7 @@ Bloodmoon_ob.esm
 NPC With Jobs.esm
 MathFunctions.esm
 piCore.esm
+CyrodiilUpgradeResourcePack.esm
 ScreenEffects.esm
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
@@ -86,12 +87,13 @@ BathingMod_Base.esm
 No Lights Flicker.esm
 Ambidextrie.esm
 AFC v2 Core.esm
-CM Partners Mod.esm
+UnnecssaryViolence.esm
 Beautiful People.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
 Progress.esm
 HelmetFOV.esm
+Fort Akatosh.esm
 Fort_Cooper.esm
 Wondrous Items.esm
 VVAdvanced.esm
@@ -110,9 +112,9 @@ rdweaponpack1.esm
 StaticAlchemyMod.esm
 TR_OoT_Main.esm
 cssBase.esm
-300_Races.esm
+CM Partners Mod.esm
 Open Cities Resources.esm
-CyrodiilUpgradeResourcePack.esm
+300_Races.esm
 AinmhiRace.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
@@ -1730,6 +1732,9 @@ Mage Equipment - No Manni.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
 
 
+
+\To be alphabetically sorted sometime.
+
 NewbsArmoredRobes.esp
 NPR Knight Armor.esp
 EY_Vampirehunter.esp
@@ -1754,6 +1759,29 @@ Shadowsilk.esp
 Slaveknight armor.esp
 stfClothesR v1.esp
 Her Hand's Armor.esp
+ACCCGR SI.esp
+? Use either ACCCGR.esp or ACCCGR SI.esp but not both together.
+ACCCGR.esp
+? Use either ACCCGR.esp or ACCCGR SI.esp but not both together.
+Afinity Sword.esp
+Agicis.esp
+Akatsuki Robe by Plipo.esp
+Altessian.esp
+Angelic Alliance.esp
+ArchersDesire2.esp
+ArkaySword.esp
+Armors of the Black Moon - EV.esp
+? Requires Shivering Isles
+Daedric_Katana_0.4_leveled_only.esp
+? Use only one of the three Daedric_Katana_0.4 ESPs.
+Daedric_Katana_0.4_vendors_and_leveled.esp
+? Use only one of the three Daedric_Katana_0.4 ESPs.
+Daedric_Katana_0.4_vendors_only.esp
+? Use only one of the three Daedric_Katana_0.4 ESPs.
+HGEC_Rogue01.esp
+% {{BASH:Graphics}}
+
+
 
 \--------------------
 \Body Replacer Armour
@@ -1906,6 +1934,7 @@ Rogue Mage & Scoundrel.esp
 StockClothingArmorHGECFighterD.esp
 % {{BASH:Graphics}}
 HGEC_BodyGlove.esp
+HGEC_Rogue01.esp
 Robed Panty.esp
 Opale armor for Exnem body.esp
 GoddessArmor_Exnem.esp
@@ -1913,6 +1942,7 @@ Emerald armor for Exnem body.esp
 300_Brocade_Outfits.esp
 CrimsonEyeCandy.esp
 Crimson Eyecandy White.esp
+CrimsonHGEC.esp
 EC_BlackDeathWarrRetex.esp
 BlackRogue.esp
 darkrosearmor.esp
@@ -2099,6 +2129,8 @@ AncientTowers.esp
 AncientTowersNoExnem.esp
 cidnothumb.esp
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
+Goblin Realswords+Tribal Shields.esp
+% {{BASH:Graphics}}
 
 \-----
 \DLC 2
@@ -2589,10 +2621,12 @@ ShiveringIsleTravellers.esp
 ? Requires Shivering Isles expansion.
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
 ShiveringIsleTravellersFriendlyFactions.esp
+ShiveringIsleTravellersFriendlyFactions4MMM.esp
 TamrielTravellersHorseTextures.esp
 % {{BASH:NoMerge,Graphics}} and deactivate.
 FCOM_TamrielTravelers.esp
 ? Requires 'TamrielTravellers4OOO.esp'
+
 
 \FCOM/MMM optionals 3.
 \'''''''''''''''''''''
@@ -2788,9 +2822,11 @@ AdrenalineOblivion-SpawnElement.esp
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid edits. 
 
+KvatchAftermath.esp
+
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
-? Rename to Halcyon Island.esp if using the file Better Cities - Halcyon Island.esp
+? Rename to Halcyon Island.esp if using the file 'Better Cities - Halcyon Island.esp'
 KnightlyArmory.esp
 LE_GrowPlants.esp
 TreeHomeKielanai.esp
@@ -2839,6 +2875,11 @@ OCC-Ivellon-Patch.esp
 
 Anvil Merchant Galley Houseboat v1.0.esp
 
+00RBScribeSupplies Intensive.esp
+? Use only one 00RBScribeSupplies mod at a time.
+00RBScribeSupplies02, read summary.esp
+? Use only one 00RBScribeSupplies mod at a time.
+101_Anvil Cottage v2 Spartan Plain.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
 300 Regal Imperial City 2.esp
@@ -2865,6 +2906,9 @@ DLCHorseArmor_300WhiteStallion.esp
 
 A_ship_near_Anvil-7781.esp
 Abandoned Farm Ground Effects On.esp
+ABloodyNight.esp
+AbuEmir01.esp
+? Requires Shivering Isles
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
@@ -2879,17 +2923,19 @@ AkaviriKojima.esp
 AlchemistsCave-COBL.esp
 allinonebasement.esp
 AleswellMerchant Cobl.esp
+Aleswell House.esp
 AyleidMarket.esp
 Amajor7 Imperial Furniture.esp
 Amaterasu no Yume.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
-
 Ancient_Goblin_City-4843.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
-
 AncientSource.esp
+AnorielsCrossroadsManor1.2.esp
+Anvil_Mazecave.esp
+
 Anvil_MorningGloryBetterCities_Blue.esp
 ? Use only one Anvil_MorningGlory mod module.
 Anvil_MorningGloryBetterCities_Orange.esp
@@ -2898,13 +2944,17 @@ Anvil_MorningGloryBetterCities_Purple.esp
 ? Use only one Anvil_MorningGlory mod module.
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
+
 Aqvatika.esp
+Aqua_City_01.esp
+? Requires Shivering Isles
 AranMathi.esp
 ArboretumHouse.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane University Telescope.esp
 Arboretum Bathhouse Variety.esp
+Arena Armory.esp
 ArkenfellManor.esp
 Armageddon.esp
 ArmoryLab.esp
@@ -2941,6 +2991,7 @@ Better_Alchemy_Shops-2482.esp
 Billsburg.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
+Blankenmarch Home.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
 BD&R - Laughing Maw.esp
@@ -2963,6 +3014,7 @@ Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
 Bruma Farm Updated.esp
+Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
 Buddah Mansion.esp
 BXX_Mines.esp
@@ -3011,6 +3063,7 @@ Comp_Cecilia.esp
 COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
+CRT Guest Quarters.esp
 
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
@@ -3131,6 +3184,14 @@ IC Temple Altars.esp
 IC Tower.esp
 Imperial House.esp
 
+JADICMothPriests.esp
+? Not compatible with Better Cities Green Emperor's Way.
+JADImperialApartments01Temple.esp
+? Not compatible with Better Cities Temple District.
+JADImperialApartments02Temple.esp
+? Not compatible with Better Cities Temple District.
+JADImperialApartments03Temple.esp
+? Not compatible with Better Cities Temple District.
 Jagnot- Imperial City Library V1.3.esp
 Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Summitpoint House.esp
@@ -3159,7 +3220,6 @@ Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 
 Corpse_Kvatch.esp
-KvatchAftermath.esp
 Kvatch Rebuilt.esp
 OCC-KR-Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
@@ -3246,6 +3306,7 @@ Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
 
 New_Sheoth_Palace_LOD_fix-10076.esp
+NEW SHEOTH PALACE LOD FIX-TESSource.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
 nordinkarst_1.0.1_en.esp
@@ -3415,6 +3476,11 @@ Vampire Haven.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
+Verwen Brewery.esp
+Verwen Brewery UL Ancient Yews Compatable.esp
+? Use only one Verwen Brewery esp. Requires UL Ancient Yews.
+Verwen Brewery UL_AY_AC Compatable.esp
+? Use only one Verwen Brewery esp. Requires the UL Ancient Yews/Arrius Creek patch.
 VHBloodlines 1.2.esp
 OCC-Verona-Patch.esp
 VG0HalloweenSpecial.esp
@@ -3706,6 +3772,9 @@ Faregyl-FGRoad-Patch.esp
 
 TVIcar.esp
 
+FortAkatosh.esp
+FortAkatosh-NewRoads&Bridges patch.esp
+
 \Unique Landscapes and compatibility patches
 \'''''''''''''''''''''''''''''''''''''''''''
 
@@ -3824,6 +3893,9 @@ VeronaHouseBloodlines-UL patches Merged.esp
 LostSpires-DarkForest patch.esp
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
+? Upgrade to v3.0 or later. Not compatible with Better Cities Imperial ESPs.
+Imperial City Waterfront Tunnel Entrance v3.0.esp
+? Not compatible with Better Cities Imperial ESPs.
 IC Tunnel.esp
 ICWaterfrontPassage.esp
 Waterfront Passage - Control of Goods.esp
@@ -4407,6 +4479,10 @@ NoQuestMarkers.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
+NRB4 Standard Road Record.esp
+? Requires New Roads+Bridges.
+NRB4 OCLR Road Record.esp
+? ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp
 
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
@@ -4669,6 +4745,8 @@ Wounds Healed - 1.1.esp
 NoHealingDuringWait.esp
 Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
+sr_retroactive_health.esp
+True Retroactive Health v2.2.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp
@@ -4677,7 +4755,7 @@ RealisticMagicForceMedium.esp
 RealisticMagicForceHigh.esp
 RealisticMagicForceLow.esp
 Power Exhaustion.esp
-sr_retroactive_health.esp
+
 Ronyns_Realistic_and_Fun_Acrobatics-8494.esp
 Ronyns_Realistic_and_Fun_Acrobatics-8494(2).esp
 Jump Adjustment-TESSource-1140.esp
@@ -5160,6 +5238,8 @@ Realistic Combat.esp
 SM Hand Combat.esp
 Combat Fumbling.esp
 Better Sneak Attacks.esp
+
+ptThrowingWeapons.esp
 
 Deadly Reflex 5 - Timed Block.esp
 ? Use no more than one Timed Block ESP.

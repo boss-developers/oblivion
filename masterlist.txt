@@ -407,6 +407,60 @@ NaturalHabitat.esp
 
 no_wind-2578.esp
 
+Enhanced Vegetation [100%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [110%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [125%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [150%].esp
+? Use only one Enhanced Vegetation plugin.
+
+
+EnhancedWeather.esp
+EnhancedWeather - SI.esp
+? Requires Shivering Isles expansion.
+EnhancedWeather - Enhanced Seasons.esp
+? Requires ScreenEffects.
+EnhancedWeather - Darker Nights, 50.esp
+? Use one 'Darker Nights' plugin not both. Pick which to use.
+EnhancedWeather - Darker Nights, 80.esp
+? Use one 'Darker Nights' plugin not both. Pick which to use.
+EnhancedWeatherSIOnly.esp
+? Do not use with 'EnhancedWeather.esp' or ANY other Enhanced Weather plugins.
+? Requires 'EnhancedWeatherSIOnly.esm'
+EW_WeatherOrb.esp
+? Requires Enhanced Weather.
+
+
+All Natural.esp
+? Required for All Natural.
+? Requires Wyre Bash and 'Import Cells' in the Bashed Patch.
+All Natural - Real Lights.esp
+? Do not use with original Real Lights mod.
+All Natural - Enhanced Weather.esp
+? Only use one All Natural weather plugin.
+All Natural - Natural Weather.esp
+? Only use one All Natural weather plugin.
+All Natural - EW + NW.esp
+? Only use one All Natural weather plugin.
+All Natural - Atmospheric Weather System.esp
+? Only use one All Natural weather plugin.
+All Natural - EW + AWS.esp
+? Only use one All Natural weather plugin.
+All Natural - NW + AWS.esp
+? Only use one All Natural weather plugin.
+All Natural - EW + NW + AWS.esp
+? Only use one All Natural weather plugin.
+All Natural - Enhanced Seasons.esp 
+? Requires ScreenEffects.
+All Natural - Debug Ring.esp
+? Obsolete. Update to latest version of All Natural.
+All Natural - Weather Inside.esp
+? Obsolete. Update to latest version of All Natural.
+All Natural - Optional Features.esp
+? Obsolete. Update to latest version of All Natural.
+
 \Water tweaks
 \''''''''''''
 \Sometimes needs to go before landscape altering mods.
@@ -531,55 +585,6 @@ Weather Inside.esp
 
 Rainbows.esp
 
-\Weather overrides
-\'''''''''''''''''
-
-EnhancedWeather.esp
-EnhancedWeather - SI.esp
-? Requires Shivering Isles expansion.
-EnhancedWeather - Enhanced Seasons.esp
-? Requires ScreenEffects.
-EnhancedWeather - Darker Nights, 50.esp
-? Use one 'Darker Nights' plugin not both. Pick which to use.
-EnhancedWeather - Darker Nights, 80.esp
-? Use one 'Darker Nights' plugin not both. Pick which to use.
-EnhancedWeatherSIOnly.esp
-? Do not use with 'EnhancedWeather.esp' or ANY other Enhanced Weather plugins.
-? Requires 'EnhancedWeatherSIOnly.esm'
-Enhanced Weather SI Only.esp
-? Do not use with 'EnhancedWeather.esp' or ANY other Enhanced Weather plugins.
-? Requires 'EnhancedWeatherSIOnly.esm'
-EW_WeatherOrb.esp
-EW-Storms & Sound SI.esp
-EW-Storms & Sound.esp
-
-All Natural.esp
-? Only use one All Natural plugin.
-All Natural - Real Lights.esp
-? Only use one All Natural plugin.
-All Natural - Enhanced Weather.esp
-? Only use one All Natural plugin.
-All Natural - Natural Weather.esp
-? Only use one All Natural plugin.
-All Natural - EW + NW.esp
-? Only use one All Natural plugin.
-All Natural - Atmospheric Weather System.esp
-? Only use one All Natural plugin.
-All Natural - EW + AWS.esp
-? Only use one All Natural plugin.
-All Natural - NW + AWS.esp
-? Only use one All Natural plugin.
-All Natural - EW + NW + AWS.esp
-? Only use one All Natural plugin.
-All Natural - Enhanced Seasons.esp 
-? Requires ScreenEffects.
-? Only use one All Natural plugin.
-All Natural - Debug Ring.esp
-? Obsolete. Update to latest version of All Natural.
-All Natural - Weather Inside.esp
-? Obsolete. Update to latest version of All Natural.
-All Natural - Optional Features.esp
-? Obsolete. Update to latest version of All Natural.
 
 \Lighting
 \''''''''
@@ -627,7 +632,11 @@ IWRRAMarketDistrict.esp
 Sunlit Interiors 1.31.esp
 
 aKALAmbientDungeonsBeta2.esp
-? Requires ScreenEffects.
+? Requires ScreenEffects and 'You Are Here'.
+? Old version, incompatible with other ScreenEffects mods. Upgrade to latest.
+
+AmbientDungeons.esp
+? OBSE, 'Screen Effects', and 'You Are Here' required.
 
 
 \General Base Mods
@@ -4214,8 +4223,6 @@ AutoBookPlacer_v2.esp
 Auto Potion.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
-AmbientDungeons.esp
-? OBSE, 'Screen Effects', and 'You Are Here' required.
 
 BaurusRunsInSewers.esp
 Bag of Holding.esp

@@ -420,6 +420,8 @@ Enhanced Vegetation [150%].esp
 EnhancedWeather.esp
 EnhancedWeather - SI.esp
 ? Requires Shivering Isles expansion.
+EnhancedWeather - Enhanced Regions.esp
+? Requires OBSE.
 EnhancedWeather - Enhanced Seasons.esp
 ? Requires ScreenEffects.
 EnhancedWeather - Darker Nights, 50.esp
@@ -460,6 +462,8 @@ All Natural - Weather Inside.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
+
+Weather Debug Ring.esp
 
 \Water tweaks
 \''''''''''''
@@ -5488,6 +5492,14 @@ _darker dungeons.esp
 _darker_dungeons.esp
 {{BASH:C.Light}} Untested but may solve problems.
 less_dungeon_effects-6330.esp
+Let There Be Darkness.esp
+% {{BASH:C.Light}}
+Let There Be Darkness - Knights.esp
+? Requires Knights of the Nine.
+% {{BASH:C.Light}}
+Let There Be Darkness - Shivering Isles.esp
+? Requires Shivering Isles.
+% {{BASH:C.Light}}
 FastTravelAllowed.esp
 ScriptEffectIconReplace.esp
 Item interchange - Placement.esp

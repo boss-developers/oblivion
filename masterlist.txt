@@ -197,6 +197,14 @@ YoungerNPCs.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 LD_Patrick_Stewart_Sean_Bean.esp 
 % {{BASH:NpcFaces}}
+Cobl Races.esp
+% {{BASH:NpcFaces}}
+Cobl Races TNR.esp
+% {{BASH:NpcFaces}}
+? Requires the Cobl Cosmetics Res 01 files installed.
+Cobl Races TNR SI.esp
+% {{BASH:NpcFaces}}
+? Requires the Cobl Cosmetics Res 01 files installed.
 
 \----------------------------
 \Vanilla script and bug fixes
@@ -368,7 +376,7 @@ Zira's Horse Theme Loadscreens.esp
 
 _Real_Lights.esp
 ? Accidentally disables the Umbacano branch of The Collector quest.
-? Edit in CS to remove the MS21statuescript script changes to fix.
+? - edit in CS to remove the MS21statuescript script changes to fix this.
 ? All Natural's Real Lights implementation shouldn't suffer from this.
 
 oc_darker_nights.esp
@@ -416,7 +424,6 @@ Enhanced Vegetation [125%].esp
 Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
-
 EnhancedWeather.esp
 EnhancedWeather - SI.esp
 ? Requires Shivering Isles expansion.
@@ -433,7 +440,6 @@ EnhancedWeatherSIOnly.esp
 ? Requires 'EnhancedWeatherSIOnly.esm'
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
-
 
 All Natural.esp
 ? Required for All Natural.
@@ -467,7 +473,8 @@ Weather Debug Ring.esp
 
 \Water tweaks
 \''''''''''''
-\Sometimes needs to go before landscape altering mods.
+\All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate. 
+\Possible dirty edits mean they should go before landscape changing mods.
 
 Enhanced Water v2.0 ND.esp
 Enhanced Water v2.0 HD.esp
@@ -510,7 +517,7 @@ MIS New Sounds Optional Part.esp
 Atmospheric Oblivion.esp
 Atmospheric Oblivion - AWS Patch.esp
 PowerAttack Voicemod.esp
-? May cause unfixable animation bugs if used with 'Personality Idles'.
+? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
 ? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 Distant Chapel Bells.esp
 Soundscaper.esp
@@ -538,7 +545,7 @@ PCSoundImoen.esp
 
 Hear-Me-Not.esp
 QuietFeet.esp
-? Not compatible with OOO. Try 'Quiet Feet Max' or similar.
+? Not compatible with OOO. Try 'Quiet Feet Max' (or any similar mod that replaces sound files).
 Footstep Sound Fix.esp
 Quiet Feet Complete.esp
 Silent Player Voice.esp
@@ -882,7 +889,6 @@ Oblivion Cats v0.22b.esp
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
 OblivionOnline.esp
-\Can't find any advice about OblivionOnline load order so it goes here for now.
 OL_CustomPaintings.esp
 OMP-NewFood.esp
 OSRCustom.esp
@@ -2040,7 +2046,7 @@ CDM-Horses.esp
 ? Shivering Isles required.
 Kylin.esp
 Ulrim's Horses - DLCHorseArmor.esp
-? Check for newer version.
+? Obsolete. Check for newer version.
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
 MD_Saddle_Bags.esp
@@ -3575,9 +3581,9 @@ ArenaGamblingHighRollers.esp
 
 OBF Arena Fix.esp
 
-\----------
-\DLC Insert
-\----------
+\-----
+\DLC 3
+\-----
 
 DLCBattlehornCastle.esp
 DLCBattlehornCastle - Unofficial Patch.esp
@@ -3607,9 +3613,10 @@ Lynges_Thieves_Highway-10256.esp
 Thieves Highway.esp
 Lynges Thieves Highway.esp
 
-\-----------
-\DLC Insert
-\-----------
+
+\-----
+\DLC 4
+\-----
 
 DLCFrostcrag.esp
 % {{BASH:C.Owner}}
@@ -3624,6 +3631,8 @@ DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
+
+Ulrim's Horses.esp
 
 Knights.esp
 
@@ -3897,8 +3906,8 @@ ULII-Roads-Patch.esp
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
-\Post UL
-\'''''''
+\Post UL or Pre BC
+\'''''''''''''''''
 
 bartholm.esp
 
@@ -3917,6 +3926,7 @@ Moriarcis.esp
 Castle_Almgard-V2.esp
 300 Arcane University.esp
 PersonalPackGuars.esp
+Duke Patricks Sickness Alarm.esp
 
 \Better Cities - English version + patches
 \'''''''''''''''''''''''''''''''''''''''''
@@ -3931,17 +3941,6 @@ Better Cities - TESFU.esp
 Better Cities ICMarket.esp
 Better Cities - ICMarket Additions.esp
 Better Cities - ICMarket FPS Improver.esp
-Better Cities IC Arboretum.esp
-Better Cities IC Arcane University.esp
-Better Cities IC Arena.esp
-Better Cities IC Elven Gardens.esp
-Better Cities IC Green Emperor Way.esp
-Better Cities IC Market.esp
-Better Cities IC Prison.esp
-Better Cities IC Talos Plaza.esp
-Better Cities IC Temple.esp
-Better Cities IC Waterfront.esp
-Better Cities IC Districts.esp
 Better Cities SKINGRAD.esp
 Better Cities - SKINGRAD Additions.esp
 Better Cities - Skingrad City Defences.esp
@@ -4586,7 +4585,6 @@ talkwithyourhands PI4.esp
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
 
-Ulrim's Horses.esp
 Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
@@ -4987,6 +4985,10 @@ SM Spell Leveller - Vile Lair.esp
 AgarVariedSpellSounds_SupremeMagicka.esp
 Diverse Effects Icons for SM.esp
 Diverse Effect Icons for SM.esp
+bgMagicEV_Conjuration_for_Supreme_Magicka.esp
+? Requires Supreme Magicka.
+? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
+? Always place this file after Supreme Magika.
 
 bgMagicEV.esp
 % {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
@@ -4995,16 +4997,15 @@ bgMagicItemSigil.esp
 bgMagicEVStartspells.esp
 bgMagicBonus.esp
 bgMagicEVAddEnVar.esp
-bgMagicEVAddEnVarNoSI.esp
 bgMagicEVPaperChase.esp
-bgMagicEV_Conjuration_for_Supreme_Magicka.esp
-? Requires Supreme Magicka.
-? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
-? Always place this file after Supreme Magika.
 bgMagicAlchemy.esp
 bgMagicEVExtendedConjurationDuration.esp
 bgAddEnVarStandAloneEV.esp
 bgMagicPotionNumberSoulGemValue.esp
+
+bgMagicEVAddEnVarNoSI.esp
+bgMagicEVNoSorting.esp
+bgMagicEVStartspellsNoSorting.esp
 
 Pestilent Afflictions.esp
 Deadly Diseases.esp
@@ -5020,7 +5021,7 @@ cppSI.esp
 Spellbooks.esp
 
 arcanevelocity200.esp
-? Use Wrye Bash Bashed Patch tweak instead.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 
 SSEE.esp
 Useful_TK-10337.esp
@@ -5034,6 +5035,9 @@ PJs Spells - Cheap Spells.esp
 LightSpellLiteBlue.esp
 STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
+
+bgMagicEVNoSpellLight.esp
+bgMagicEVNoSummonGlow.esp
 
 qazFingerSnap.esp 
 Finger Snap.esp
@@ -5630,11 +5634,11 @@ GFX_Initial_Glow-all.esp
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
 Chameleon-NoRefraction.esp
-? Use Wrye Bash Bashed Patch tweak instead when possible.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Chameleon-NoRefraction-2411.esp
-? Use Wrye Bash Bashed Patch tweak instead when possible.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 1310-chamelion-norefraction-tessource.esp
-? Use Wrye Bash Bashed Patch tweak instead when possible.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 
 \Shader replacers
 \''''''''''''''''
@@ -5671,7 +5675,7 @@ QTdof.esp
 Real Lava 1.3.esp
 % {{BASH:Graphics}} and deactivate.
 Real Lava.esp
-? Update to 1.3 or later?
+? Update to 1.3 or later.
 % {{BASH:Graphics}} and deactivate.
 Real Lava v1.1.esp
 ? Update to 1.3 or later.
@@ -5682,7 +5686,9 @@ Real Lava 1.2.esp
 Real Lava v1.2.esp
 ? Update to 1.3 or later.
 % {{BASH:Graphics}} and deactivate.
+
 Improved Lava.esp
+
 % {{BASH:Graphics}} and deactivate.
 ScreenControls.esp
 Summon_Bear.esp
@@ -6032,15 +6038,7 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 bgBalancingEVLAMEGlue.esp
 ? Requires LAME and Shivering Isles.
 
-\COBL races
-\''''''''''
-
-Cobl Races.esp
 Cobl Races - Balanced.esp
-Cobl Races TNR.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
-Cobl Races TNR SI.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
 
 \Final race/beauty overrides.
 \''''''''''''''''''''''''''''
@@ -6152,6 +6150,18 @@ Cobl Filter Late MERGE ONLY.esp
 ? Make sure it is deactivated.
 Cobl Silent Equip Misc.esp
 
+Better Cities IC Arboretum.esp
+Better Cities IC Arcane University.esp
+Better Cities IC Arena.esp
+Better Cities IC Elven Gardens.esp
+Better Cities IC Green Emperor Way.esp
+Better Cities IC Market.esp
+Better Cities IC Prison.esp
+Better Cities IC Talos Plaza.esp
+Better Cities IC Temple.esp
+Better Cities IC Waterfront.esp
+Better Cities IC Districts.esp
+
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
 Open Cities LR Road Record.esp
@@ -6180,7 +6190,7 @@ Bashed Patch.esp
 \-----------------
 \Post Bashed Patch
 \-----------------
-\ Mods rumoured to be needed after Bashed Patch.
+\ Mods needed after Bashed Patch.
 \ + Utility addons.
 \ + Some load order independent OBSE stuff like Streamline
 
@@ -6235,8 +6245,6 @@ Duke Patrick's Vampires Bob Under Your Shots.esp
 Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
 
 Duke Patricks Elemental Shield Wall Scroll.esp
-
-Duke Patricks Sickness Alarm.esp
 
 Duke Patrick's magic you can believe in 4p5.esp
 ? Old. Try version 5 or later.

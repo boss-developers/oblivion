@@ -2045,8 +2045,6 @@ CDM-Assassin Robes Renamed.esp
 CDM-Horses.esp
 ? Shivering Isles required.
 Kylin.esp
-Ulrim's Horses - DLCHorseArmor.esp
-? Obsolete. Check for newer version.
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
 MD_Saddle_Bags.esp
@@ -2104,8 +2102,6 @@ HorseCommands.esp
 HorseCommandsv2.esp
 NV Imperial Guard Horse Armour.esp
 % {{BASH:Graphics}}
-Ulrim's Horses - LegionArmor.esp
-? Check for newer version.
 WhistleTrainer.esp
 Zira My Horses Compilation.esp
 Dude Wheres My Horse.esp
@@ -2772,10 +2768,6 @@ SentientWeapon - OOO & MOBS.esp
 SSEE-OOO.esp
 SigilStoneSelector-SSEE-OOO.esp
 StockClothingArmor-forExnems - OOO Patch.esp
-Ulrim's Horses - OOO+LegionArmor.esp
-? Check for newer version.
-Ulrim's Horses for OOO.esp
-? Check for newer version.
 zCats & Rats.esp
 OOOPekImperialHorseArmor.esp
 OOO-No clutter ownership.esp
@@ -3632,7 +3624,30 @@ BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
 
+
+Ulrim's Horses - LegionArmor.esp
+? Obsolete. Check for newer version.
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - OOO+LegionArmor.esp
+? Obsolete. Check for newer version.
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses for OOO.esp
+? Check for newer version.
+% {{BASH:Graphics}} for Slof's Horses compatibility.
 Ulrim's Horses.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - DLCHorseArmor+OOO.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - DLCHorseArmor.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - HRMHorseArmor+OOO.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - HRMHorseArmor.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - OOO.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
+Ulrim's Horses - Vanilla.esp
+% {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
 
@@ -4917,6 +4932,8 @@ QuickStore.esp
 Is It Safe.esp
 P1DsafeContainers.esp
 Egress.esp
+DS Realistic Enchanted Item Limits.esp
+DS Summon Luggage.esp
 
 AgarMoreVariedSpellEffects.esp
 
@@ -5359,6 +5376,8 @@ progressSBSP.esp
 progressSBSPforOBSE15.esp
 
 PureImmersion.esp
+piHealth5x.esp
+piHealthVanilla.esp
 RealisticLeveling.esp
 Immediate Character Generation.esp
 Automatic Spell Learning.esp
@@ -5373,6 +5392,9 @@ Oblivion XP - DLCBattlehornCastle.esp
 Oblivion XP - DLCMehrunesRazor.esp
 Oblivion XP - DLCThievesDen.esp
 Oblivion XP - DLCVileLair.esp
+Oblivion XP - OOO.esp
+Oblivion XP - Midas Magic.esp
+Oblivion XP - The Ayleid Steps.esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -6066,11 +6088,6 @@ Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
 TSS Custom Companion Template.esp
 CM Partners.esp
-? Old version. Consider updating to 3 or later.
-CM_Partners_3.0.esp
-? May conflict with Better Cities (Imperial City district mods). If the Imperial City becomes corrupted, move this before Better Cities mods or try 'cleaning' with TES4Gecko or TES4Edit.
-CM_Partners_3.0_Child_Upgrade.esp
-CM_Partners_3.0_Guards_Upgrade.esp
 CM Partners Special NPCs.esp
 CM Partners NPC.esp
 CM Partners NPC NE.esp

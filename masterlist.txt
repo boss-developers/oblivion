@@ -443,7 +443,7 @@ EW_WeatherOrb.esp
 
 All Natural.esp
 ? Required for All Natural.
-? Requires Wyre Bash and 'Import Cells' in the Bashed Patch.
+% {{BASH:C.Climate}}
 All Natural - Real Lights.esp
 ? Do not use with original Real Lights mod.
 All Natural - Enhanced Weather.esp
@@ -1304,7 +1304,7 @@ Daggers Improved.esp
 blacktempler+HT.esp
 Blakeley’s Lachrymal Bow.esp
 BladeofWoe.esp
-% {{BASH:Graphics, Merge}}
+% {{BASH:Graphics}}
 Blades Ceremonial Armour.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Banes Archer Paradox.esp
@@ -3745,7 +3745,7 @@ FCOM_mightyumbra.esp
 FCOM_Blood&Mud.esp
 ? Requires 'Blood&Mud.esp'.
 FCOM_Knights.esp
-% {{BASH:Delev,Merge,Relev}}
+% {{BASH:Delev,Relev}}
 ? Requires DLC 'Knights.esp'.
 FCOM_WelkyndSwordBlood&Mud.esp
 ? Requires 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
@@ -4785,7 +4785,6 @@ SM Rest.esp
 
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
-% {{BASH:Merge}}
 StarX Vanilla Vampires Revised.esp
 ? Has minor problems with OOO (StarX vampires will fight OOO vampires).
 MJA Vampire Improvements.esp
@@ -6333,7 +6332,6 @@ Duke Patricks - Smash Of The Titans.esp
 Duke Patricks Nosferatu Vampires.esp
 Duke Patricks - Nosferatu Class Vampires.esp
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
-% {{BASH:Merge}}
 
 Duke Patrick's Zombie Flied 4p1.esp
 ? Check for newer version.

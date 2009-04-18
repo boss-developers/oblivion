@@ -294,14 +294,16 @@ Shivering OOO.esp
 \----------
 
 Oblivion.esp
-? Usually a BSA redirection hack.
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
+? Usually a BSA redirection hack for FraNewItems.BSA.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 FraNewItems.esp
 ? Dummy file to load FraNewItems.BSA
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 Fra.esp
 ? BSA redirection hack. Usually refers to FraNewItems.BSA
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+Better Cities .esp
+? Dummy file to load Better Cities .BSA
 
 \-----------------------------
 \Initial Fran's files for FCOM
@@ -2885,12 +2887,20 @@ AdrenalineOblivion-SpawnElement.esp
 
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid edits. 
+Quelldorf 1.5.esp
+? Not compatible with Suliin v1.2.
+? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
+? Requires 'Quelldorf-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
+Quelldorf ohne Schiff1.5.esp
+? Not compatible with Suliin v1.2.
+? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
+? Requires 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 
 KvatchAftermath.esp
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
-? Rename to Halcyon Island.esp if using the file 'Better Cities - Halcyon Island.esp'
+? Rename to Halcyon Island.esp if using the file 'Better Cities - Halcyon Island.esp'.
 KnightlyArmory.esp
 LE_GrowPlants.esp
 TreeHomeKielanai.esp
@@ -2956,6 +2966,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 ? Check for newer version.
 ? Compatible with MD_SaddleBags Lite.
 300_White Stallion 4.esp
+? Use Feudal Empire ('Feudal Empire 300.esp') instead.
 Feudal Empire 300.esp
 % {{BASH:Invent,Graphics}}
 ? Use instead of 300_White Stallion 4.esp
@@ -2998,6 +3009,8 @@ Ancient_Goblin_City-4843.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
 AncientSource.esp
 AnorielsCrossroadsManor1.2.esp
+AnvilBayExpansion.esp
+? Not Better Cities compatible. Already included in Better Cities Anvil.
 Anvil_Mazecave.esp
 
 Anvil_MorningGloryBetterCities_Blue.esp
@@ -3028,6 +3041,7 @@ Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 A Son's Revenge 2.0.esp
 Auriel's Books.esp
+? Not compatible with better cities - already included in BC IC Market District plugin.
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
 
@@ -3071,6 +3085,7 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
 Bravil Docks.esp
+? Not compatible with Better Cities. Already included in Better Cities Bravil.
 Bravil Store Upgrade.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
 Badmagic - The Houses.esp
@@ -3136,6 +3151,8 @@ Dark Brotherhood Outpost v2.esp
 DarkLair.esp
 DarksullTower1point1.esp
 Dancer_Undress0_6.esp
+(DC) Sutch Reborn.esp
+? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
@@ -3160,6 +3177,15 @@ Druids Guild Mod.esp
 Deluxe IC Shack.esp
 
 Egainjo Manor.esp
+
+EiAmod.esp
+? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
+? Use 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
+? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
+? Use 'EtInArkay-LushWoodlands patch.esp' compatibility patch if using Unique Landscapes Lush Woodlands.
+EiAmod_ShiveringIsles.esp
+EiAmod_ChoicesandConsequences.esp
+
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 ? Do not use if using ElsweyrAnequina.esp
@@ -3232,6 +3258,10 @@ House On The Bluff .V2.esp
 Hale Housing.esp
 HanstHolm village.esp
 HeartlandFarm.esp
+01_Helms_Deep.esp
+? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
+02_Helms_Deep.esp
+03_Helms_Deep.esp
 
 HeartoftheDead.esp
 % {{BASH:Hair}}
@@ -3257,6 +3287,7 @@ JADImperialApartments02Temple.esp
 JADImperialApartments03Temple.esp
 ? Not compatible with Better Cities Temple District.
 Jagnot- Imperial City Library V1.3.esp
+? Not Better Cities compatible. Already included in Better Cities IC Talos District.
 Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
@@ -3314,6 +3345,7 @@ LetThePeopleDrink-fountainonly-Cobl.esp
 Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
 LeyawiinPort-AlphaRelease.esp
+? Not Better Cities compatible. Already included in Better Cities Leyawiin.
 
 Listener's Room.esp
 Listener Quarters.esp
@@ -3334,6 +3366,12 @@ Lilarcor.esp
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp 
 MadHouseV12.esp
+MadMagesTower.esp
+? Edits border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
+? Use 'MadMagesTower-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
+MadMagesTowerBASIC.esp
+? Does not edit border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
+? Use 'MadMagesTowerBASIC-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Markets of Cyrodiil HI.esp
@@ -3351,6 +3389,9 @@ MountainTower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_LongshipExpansion.esp
+MTCRiverShackv1.2.esp
+? Not compatible with Better Cities Bravil.
+? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
 
 NPCs Alive - Faregyll Inn.esp
 
@@ -3408,6 +3449,8 @@ Quest Nirnroot.esp
 Raiders of Cyrodil.esp
 RavenviewVillageVer2.0.esp
 Region Revive - Lake Rumare.esp
+? Incompatible with most Weye-related mods.
+? If used with 'xulImperialIsle.esp', requires 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
 Rise Of A Samurai.esp
@@ -3424,7 +3467,10 @@ Sakveed Manor.esp
 Salan's Cellar.esp
 Sanguine.esp
 Scribe Supplies.esp
+? Not Better Cities compatible. Already included in Better Cities IC Market District.
 Scorched Earth.esp
+Seawatch Abode.esp
+? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Septim Mansion.esp 
 Servant of the Dawn.esp
 SewerExpansion-Cheydinhal.esp
@@ -3465,6 +3511,9 @@ Ship Wrack.esp
 sinked ship.esp
 Sunken Fortress.esp
 Sutch Reborn.esp
+SSS_1.0.esp
+? Requires Shivering Isles.
+? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 
@@ -3545,9 +3594,9 @@ VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
 Verwen Brewery.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
-? Use only one Verwen Brewery esp. Requires UL Ancient Yews.
+? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
 Verwen Brewery UL_AY_AC Compatable.esp
-? Use only one Verwen Brewery esp. Requires the UL Ancient Yews/Arrius Creek patch.
+? Use only one Verwen Brewery esp. Requires the Unique Landscapes Ancient Yews/Arrius Creek patch.
 VHBloodlines 1.2.esp
 OCC-Verona-Patch.esp
 VG0HalloweenSpecial.esp
@@ -3599,7 +3648,7 @@ zDangerSense.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
 
-\For the moment, anything arena related goes here
+\For the moment, anything arena related goes here - needs more research.
 \                         '''''''''''''
 \
 Arena Imersion Upgrade 1.1.esp 
@@ -3656,10 +3705,15 @@ Slof's Oblivion Robe Trader - OOO Patch.esp
 >? Use FCOM compatibility version instead
 Babarized Slof's Robe Trader Full.esp
 
+\Yay for inexplicable spelling variations! Maybe different versions. :(
 Lynges_Thieves_Highway.esp
+? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges_Thieves_Highway-10256.esp
+? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Thieves Highway.esp
+? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway.esp
+? Not Better Cities compatible. Already included with Better Cities IC plugins.
 
 
 \-----
@@ -3679,8 +3733,6 @@ DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
-
-
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
 % {{BASH:Graphics}} for Slof's Horses compatibility.
@@ -3913,11 +3965,15 @@ Anequina-Fallenleaf-Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
+Billsburg-ColovianHighlands patch.esp
+EtInArkay-ColovianHighlands patch.esp
+? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
 
 xulChorrolHinterland.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 WeynonRetreat-Patch.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
+MOEVampireClanRaelu-ChorrolHinterland patch.esp
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -3936,13 +3992,27 @@ Sousmarin-beaches fix.esp
 Castle_Almgard-V2.esp 
 ? Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
 anvil bay+ul tweak.esp
+BrewHouse-LostCoast patch.esp
+SutchReborn-LostCoast patch.esp
+? Probably incompatible with 'VeronaHouseBloodlines-LostCoast fix.esp'.
+SeawatchAbode-LostCoast patch.esp
 
 xulbravilbarrowfields.esp
 LostSpires-BravilBarrowfields patch.esp
+Suliin-BravilBarrowfields patch.esp
+BravilDocks-Barrowfields patch.esp
+MTCRiverShack-BravilBarrowfields patch.esp
+OBCBravil-Barrowfields patch.esp
+? Use OBCBravil or OBCBravilB&M but not both at the same time.
+OBCBravilB&M-Barrowfields patch.esp
+? Use OBCBravil or OBCBravilB&M but not both at the same time.
+ShiveringStore-BravilBarrowfields patch.esp
+EtInArkay-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
 HoarfrostCastle-LushWoodlands patch.esp
+EtInArkay-LushWoodlands patch.esp
 
 xulAncientYews.esp
 
@@ -3952,16 +4022,19 @@ xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 
 xulCloudtopMountains.esp
+MadMagesTower-CloudtopMountains patch.esp
+MadMagesTowerBASIC-CloudtopMountains patch.esp
 BergDesKrieger-CloudtopMountain patch.esp
 
 xulArriusCreek.esp
 xulPatch_AY_AC.esp
 HeartoftheDead-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
+HelmsDeep-ArriusCreek patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
 xulRollingHills_EV.esp
-
+TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
 BeldaElysium-RollingHills patch.esp
 goldenarchery-rollinghills fix.esp
@@ -3986,6 +4059,7 @@ ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
+RegionReviveLakeRumare-ImperialIsle patch.esp
 
 \Post UL or Pre BC
 \'''''''''''''''''
@@ -3996,9 +4070,10 @@ VeronaHouseBloodlines-UL patches Merged.esp
 LostSpires-DarkForest patch.esp
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
-? Upgrade to v3.0 or later. Not compatible with Better Cities Imperial ESPs.
+? Upgrade to v3.0 or later. 
+? Not compatible with Better Cities. Already included in Better Cities IC plugins.
 Imperial City Waterfront Tunnel Entrance v3.0.esp
-? Not compatible with Better Cities Imperial ESPs.
+? Not compatible with Better Cities. Already included in Better Cities IC plugins.
 IC Tunnel.esp
 ICWaterfrontPassage.esp
 Waterfront Passage - Control of Goods.esp
@@ -4015,74 +4090,128 @@ Duke Patricks Sickness Alarm.esp
 Better Cities .esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
-Better Cities - Full Additions.esp
 Better Cities - Full City Defences.esp
-Better Cities Full - City Defences.esp
-Better Cities - TESFU.esp
-Better Cities ICMarket.esp
-Better Cities - ICMarket Additions.esp
-Better Cities - ICMarket FPS Improver.esp
+
 Better Cities SKINGRAD.esp
-Better Cities - SKINGRAD Additions.esp
 Better Cities - Skingrad City Defences.esp
-Better Cities - Skingrad FPS Improver.esp
+
 Better Cities BRAVIL.esp
+Better Cities BRAVIL - Blood & Mud.esp 
 Better Cities - Bravil City Defences.esp
-Better Cities - Bravil FPS Improver.esp
+
 Better Cities - Unique Landscape Barrowfields.esp
 BCBravil-Barrowfields.esp
 BCBravil-Barrowfields patch.esp
 Better Cities ANVIL.esp
-Better Cities - ANVIL Additions.esp
+
 Better Cities - Anvil City Defences.esp
 BCAnvil-LostCoast Fix.esp
 Better Cities - Unique Landscape Lost Coast.esp
-AnvilBayExpansion.esp
+
 Better Cities - Anvil Bay Expansion.esp
-Better Cities - Anvil FPS Improver.esp
+
 Better Cities CHORROL.esp
-Better Cities - CHORROL Additions.esp
 Better Cities - Chorrol City Defences.esp
 BCChorrol-ChorrolHinterland fix.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
-Better Cities - Chorrol FPS Improver.esp
+
 Better Cities - Knightly Armory.esp
+
 Better Cities CHEYDINHAL.esp
-Better Cities - CHEYDINHAL Additions.esp
 Better Cities - Cheydinhal City Defences.esp
-Better Cities - Cheydinhal FPS Improver.esp
+
 Better Cities LEYAWIIN.esp
-Better Cities - LEYAWIIN Additions.esp
 Better Cities - Leyawiin City Defences.esp
-Better Cities - Leyawiin FPS Improver.esp
+Better Cities - No LEYAWIIN Flooding.esp
+
 Better Cities BRUMA.esp
 Better Cities - Bruma City Defences.esp
-Better Cities - Auriel's Books.esp
-Better Cities - Blood&Mud.esp
-Better Cities - Old Crow Inn.esp
-Better Cities - Ruined Tail's Tale.esp
-Better Cities - Tears of the Fiend.esp
-Better Cities - Lost Spires.esp
-Better Cities - B&M LS RTT TotF.esp
-Better Cities - B&M LS RTT.esp
-Better Cities - B&M LS ToTF RTT.esp
-Better Cities - B&M LS ToTF.esp
-Better Cities - B&M RTT.esp
-Better Cities - B&M ToTF RTT.esp
-Better Cities - B&M ToTF.esp
-Better Cities - Blood&Mud LostSpires.esp
-Better Cities - LS RTT TotF.esp
-Better Cities - LS RTT.esp
-Better Cities - LS TotF.esp
-Better Cities - RTT TotF.esp
-Better Cities - Bruma FPS Improver.esp
-WBA Arboretum.esp
-? Replaced by newer BC version and 'Better Cities IC Arboretum.esp'
-Better Cities - WBA FPS Improver.esp
-Better Cities LEYAWIIN - No Flooding.esp
-Better Cities Full - LEYAWIIN No Flooding.esp
 
+Better Cities - Old Crow Inn.esp
+
+
+\Obsolete BC files
+
+Better Cities Full - City Defences.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - TESFU.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities ICMarket.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ICMarket Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ICMarket FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - SKINGRAD Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Skingrad FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Bravil FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ANVIL Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Anvil FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - CHORROL Additions.esp
+? Obsolete. Update Better Cities to latest version.
 Better Cities - COBL.esp
+Better Cities - Chorrol FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - CHEYDINHAL Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Cheydinhal FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - LEYAWIIN Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Leyawiin FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Auriel's Books.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Blood&Mud.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Full Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Ruined Tail's Tale.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - Tears of the Fiend.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - Lost Spires.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M LS RTT TotF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M LS RTT.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M LS ToTF RTT.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M LS ToTF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M RTT.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M ToTF RTT.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - B&M ToTF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - Blood&Mud LostSpires.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - LS RTT TotF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - LS RTT.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - LS TotF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - RTT TotF.esp
+? Multi-choice merged patches dropped from Better Cities. See documentation.
+Better Cities - Bruma FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+WBA Arboretum.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - WBA FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities LEYAWIIN - No Flooding.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities Full - LEYAWIIN No Flooding.esp
+? Obsolete. Update Better Cities to latest version.
+
 Portrait Painter for Better Cities.esp
 
 \Open Better Cities
@@ -4118,22 +4247,32 @@ TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
 
 ImpeREAL City Unique Districts - Talos Plaza.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Elven Gardens.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Green Emperor Way.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Prison.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Arena.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Waterfront.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Temple.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - The Arcane University.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - The Arcane University Towers Visible From Outside.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Market.esp
-? Will override Better Cities' Imperial Market module.
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Arboretum.esp
-? Will override Better Cities' Arboretum module.
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
-? Will override Better Cities' Imperial Market and Arboretum modules.
+? Not compatible with Better Cities Full or Better Cities IC components.
 
 Better Imperial City.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -4227,10 +4366,8 @@ NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
 
-BrewHouse.esp 
-? Warning: has or may have compatibility problems with: Open Cities Anvil, Unique Landscapes Beaches of Cyrodiil; Lost Coast
-?   Knights of the Nine, Anvil Bay Expansion and other mods and patches affecting Anvil and its surroundings.
-? No known solutions as at 1 August 2008 but the mod is playable.
+BrewHouse.esp
+? Use v1.5 or later to avoid extensive compatibility issues.
 
 \Post City mods
 \''''''''''''''
@@ -6222,7 +6359,6 @@ DALeonidas.esp
 DAMeridiaKatrina.esp
 DASephirothCompanion.esp
 
-
 \--------
 \Pre Bash
 \--------
@@ -6241,7 +6377,7 @@ Better Cities IC Prison.esp
 Better Cities IC Talos Plaza.esp
 Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
-Better Cities IC Districts.esp
+Better Imperial City.esp
 
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
@@ -6292,7 +6428,6 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? You could try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
-
 Duke Patricks Dragon and the Sword of Might.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 Duke Patricks Dragon and the Sword of Might Light Version.esp
@@ -6420,7 +6555,6 @@ Duke Patrick's Zombie Flied 4p1.esp
 Duke Patricks Contagious Zombies.esp
 
 Duke Patrick's more & better loot.esp
-
 Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks Script Effect Silencer.esp
 Duke Patricks Script Effect Silencer Rev 2.esp

@@ -754,6 +754,49 @@ CM_Better Wine.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
+Cryptic Festive Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? remove unnecessary cell edit to aleswell dummy cell to make mergeable into bashed patch.
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic Frosted Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic Blue Blood Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic Lake View Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic Snowy Oak Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic's Buyable Ayleid Dining Sets.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic White Rose Ayleid Dining Set.esp
+% {{BASH:Names, Graphics}}
+? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
+? remove unnecessary cell edit to testing hall to make mergeable into bashed patch.
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09
+Cryptic's Buyable Ayleid Dining Sets.esp
+% {{BASH:Invent}}
+? Only use one Cryptic's X X X Dining set esp
+/PM, tagged & added, 17-04-09, invent since it edits the default merchant containers for a few merchants.
+
+
 CT-Com's Torch Compendium.esp
 Cyrodilic Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
@@ -2494,6 +2537,12 @@ OBSE-Storms & Sound SI.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
+>Mart's Monster Mod - Diverse Haunted Head.esp
+/PM, added, 17-04-09
+>MMM - Playable Undead Armors.esp
+/PM, added, 17-04-09
+>MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
+/PM, added, 17-04-09
 
 <\MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
@@ -2597,6 +2646,12 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <Mart's Monster Mod - Farm Animals.esp
+<Mart's Monster Mod - Diverse Haunted Head.esp
+/PM, added, 17-04-09
+<MMM - Playable Undead Armors.esp
+/PM, added, 17-04-09
+<MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
+/PM, added, 17-04-09
 
 MrSiika'sFarmAnimals.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
@@ -3254,6 +3309,9 @@ Lenawiln_Cottagev2.11.esp
 
 LetThePeopleDrink.esp
 LetThePeopleDrink-Cobl.esp
+LetThePeopleDrink-fountainonly.esp
+LetThePeopleDrink-fountainonly-Cobl.esp
+/Fountain Only LTPD options: PM, 17-04-09
 
 Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
@@ -3670,6 +3728,9 @@ Mart's Monster Mod - Knights.esp
 Mart's Monster Mod for OOO - Knights .esp
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
+KotN Wayshrine Fix.esp
+/PM, 17-04-09
+% {{BASH:Merge}}
 
 PONLights.esp
 PONWindows.esp
@@ -3687,6 +3748,13 @@ DLC_MOBS.esp
 Cybiades.esp
 CybiadesDungeon.esp
 cybCrashFix.esp
+CybEasier.esp
+? only use one Cybiades difficulty plugin
+CybHarder.esp
+? only use one Cybiades difficulty plugin
+CybHardest.esp
+? only use one Cybiades difficulty plugin
+\Cyb difficulty options: PM, 17-04-09,
 
 Damarask.esp
 Castle_Knightstone.esp

@@ -994,6 +994,7 @@ SigilStonesExpanded1.52.esp
 Skillbookssave.esp
 Book Jackets Oblivion - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' as this version includes it.
+% {{BASH:Graphics}}
 
 Slof's Oblivion Pillow Book.esp
 Soul Gem Discharger.esp
@@ -1247,11 +1248,8 @@ Ace's Warlock Gear.esp
 Action_Figures_Series1.esp
 Action_Figures_Series2.esp
 Adonnays Classical Weaponry.esp
-% {{BASH:Graphics}} if using overhaul mods.
 Adonnays Elven Weaponry.esp
-% {{BASH:Graphics}} if using overhaul mods.
 Adonnays Elven Longblades.esp
-% {{BASH:Graphics}} if using overhaul mods.
 Akiviri Imports MOBS.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
@@ -1472,7 +1470,7 @@ HB Legacy Dwemer Weapons.esp
 HelmetCollection.esp
 HENTAI's gift.esp
 HiddenSkulls.esp
-? {{BASH:Invent}}
+% {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
 Hiyoko_Store.esp
 OCC-Hiyoko-Patch.esp
@@ -4326,7 +4324,7 @@ BHC Home Delivery.esp
 BIDA- Blade + Magic Damage.esp
 /quite a lot of other BIDA plugins - need to research
 Birthsigns Expanded.esp
-? {{BASH:Names}}
+% {{BASH:Names}}
 ? Don't use with Race Balancing Project
 BlackScreenSneakFix.esp
 Blade Skills.esp
@@ -5577,13 +5575,13 @@ immersive_caves_auto.esp
 % {{BASH:Names}} 
 immersive_caves_manual.esp
 Dark Dungeons.esp
-{{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} Untested but may solve problems.
 Dark Dungeons -  SI.esp
-{{BASH:C.Light}}
+% {{BASH:C.Light}}
 _darker dungeons.esp
-{{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} Untested but may solve problems.
 _darker_dungeons.esp
-{{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} Untested but may solve problems.
 less_dungeon_effects-6330.esp
 Let There Be Darkness.esp
 % {{BASH:C.Light}}
@@ -5600,7 +5598,6 @@ Item interchange - Placement.esp
 ? Non-FCOM version.
 ? Use either FCOM or non-FCOM versions as appropriate but not both together.
 ? Requires recent version of Wrye Bash.
-% Already includes Bashed Patch tags.
 Item interchange - Placement for FCOM.esp
 ? Use either FCOM or non FCOM versions as appropriate but not both together.
 Item interchange - Placement for Frostcrag Reborn.esp

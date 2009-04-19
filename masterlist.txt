@@ -656,6 +656,17 @@ AmbientDungeons.esp
 \'''''''''''''''''
 \Includes nearly all new items (except weapons and armor)
 
+2126-1.0-Fame Indicator-TESSource.esp
+
+300_lore dialogue v1.15.esp
+? May have a problem with Storms and Sounds.
+300_Lore Dialogue.esp 
+? May have a problem with Storms and Sounds.
+300_Random_Clutter.esp
+36Sermons-Miltiades.esp
+
+5076-V2.0-Dwemer Specs Equip-TESSource.esp
+
 AliveWaters.esp
 AliveWaters - Koi Addon.esp
 AliveWaters - Slaughterfish Addon.esp
@@ -666,14 +677,6 @@ Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
-
-2126-1.0-Fame Indicator-TESSource.esp
-300_lore dialogue v1.15.esp
-? May have a problem with Storms and Sounds.
-300_Lore Dialogue.esp 
-? May have a problem with Storms and Sounds.
-300_Random_Clutter.esp
-36Sermons-Miltiades.esp
 
 aaaBorsBedrolls.esp
 7lbsBedrolls-OBSE.esp
@@ -704,6 +707,9 @@ BEER! for Oblivion.esp
 ? If using OOO, check compatibility (untested).
 Better Wine SI.esp
 ? Not compatible with OOO. OOO contains a similar mod.
+bgShaderStandAloneEV.esp
+% {{BASH:Graphics}}
+? Requires Wrye Bash if using spell mods.
 Black Screen Sneak Fix.esp
 Black Sheep.esp
 Blackpowder_bombs v04.esp
@@ -1040,6 +1046,7 @@ Book Jackets Oblivion - SSBFL.esp
 % {{BASH:Graphics}}
 
 Slof's Oblivion Pillow Book.esp
+SoT_Holiday.esp
 Soul Gem Discharger.esp
 Spell Delete.esp
 SPARTANVIsDiverseCityGuards05BETA.esp
@@ -3318,6 +3325,8 @@ Imperial City Boutique.esp
 IC Temple Altars.esp
 IC Tower.esp
 Imperial House.esp
+ImperialCemetery.esp
+? Probably conflicts with Unique Landscapes Imperial Isle.
 
 JADICMothPriests.esp
 ? Not compatible with Better Cities Green Emperor's Way.
@@ -3939,6 +3948,8 @@ Origin of the Mages Guild OOO Patch.esp
 \------------------------------
 \Quests and locations continued
 \------------------------------
+
+Unofficial Patches & Refurbish - ALL.esp
 
 Enhanced Daedric Invasion.esp
 >? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
@@ -5110,49 +5121,50 @@ MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
 ? Requires OBSE.
-Mannimarco's Grasp.esp
+1854-1.0-Nevycat Bound Items-TESSource.esp
+DS Summon Luggage.esp
+Diplomacy and Mercy.esp
+Egress.esp
+DS Realistic Enchanted Item Limits.esp
+Is It Safe.esp
 ME_WAR_SUMMONS.esp
+Mannimarco's Grasp.esp
 Meteor Shower.esp
 Multiple Creature Summoning.esp
 Nightmare.esp
-no spell limit.esp
 OblivionGateTraveller.esp
 Open_Very_Hard_Lock.esp
+P1DsafeContainers.esp
+PJs Disco Spell.esp
+PJs Spell Compendium - No Requirements.esp
+PJs Spell Compendium - Spell Requirements.esp
+PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
 PetrifyandStoneSkinSpells.esp
-PJs Disco Spell.esp
-PJs Spell Compendium - Spell Requirements.esp
-PJs Spell Compendium - No Requirements.esp
-PJs Telekinesis Spells.esp
-RDetectLife.esp
+QuickStore.esp
 RD-HeavensWrath-v1-1-Easy.esp
+RDetectLife.esp
+Rain of Gold OBSE.esp
+Rain of Gold.esp
 Remote Life Detect.esp
 SetEssentialActors.esp 
 Smite of Order.esp
 SpellDeflection.esp 
-spelliconreplace.esp
+Stalk'em SI.esp
 TeachSpell.esp 
 Telekinetic Mastery.esp
+The Sixth Element.esp
 TimboeMultiMark & Recall.esp
 TimeManipulationSpells.esp
-tMBSP.esp
 Transmutation Spell.esp
 Tylaars Multimark.esp
 Unique Summons & Banish Flesh.esp
 WaldelfsLevitation.esp
 Wizard's Vengeance Spells.esp
-The Sixth Element.esp
-Diplomacy and Mercy.esp
-1854-1.0-Nevycat Bound Items-TESSource.esp
-Rain of Gold.esp
-Rain of Gold OBSE.esp
-QuickStore.esp
-Is It Safe.esp
-P1DsafeContainers.esp
-Egress.esp
-DS Realistic Enchanted Item Limits.esp
-DS Summon Luggage.esp
+no spell limit.esp
+spelliconreplace.esp
+tMBSP.esp
 
 AgarMoreVariedSpellEffects.esp
 
@@ -5235,12 +5247,13 @@ bgMagicEVAddEnVar.esp
 bgMagicEVPaperChase.esp
 bgMagicAlchemy.esp
 bgMagicEVExtendedConjurationDuration.esp
-bgAddEnVarStandAloneEV.esp
 bgMagicPotionNumberSoulGemValue.esp
 
 bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
+
+bgAddEnVarStandAloneEV.esp
 
 Pestilent Afflictions.esp
 Deadly Diseases.esp

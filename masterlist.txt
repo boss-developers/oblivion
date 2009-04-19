@@ -31,9 +31,9 @@ All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
 Francesco's Optional New Creatures Add-On.esm
-* Delete. Not FCOM compatible. Already integrated into FCOM. 
+* Delete. Not FCOM compatible. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
-MD_Saddle_Master.esm 
+MD_Saddle_Master.esm
 Children Of Rourken.esm
 Slof's Clouded Leopard.esm
 Jog_X_Mod.esm
@@ -195,7 +195,7 @@ Absolutely_Sexy_MarketDistrict.esp
 % {{BASH:NpcFaces,Invent,NoMerge}} and deactivate.
 YoungerNPCs.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-LD_Patrick_Stewart_Sean_Bean.esp 
+LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Cobl Races.esp
 % {{BASH:NpcFaces}}
@@ -323,7 +323,7 @@ Better Cities .esp
 FCOM_Francescos.esp
 ? Francesco's Leveled Creatures-Items 4.5b required.
 FCOM_FrancescosItemsAddOn.esp
-? Francesco's Leveled Creatures-Items 4.5b required. 
+? Francesco's Leveled Creatures-Items 4.5b required.
 ? Francesco's supplementary addon package required.
 FCOM_FrancescosNamedBosses.esp
 ? Francesco's Leveled Creatures-Items 4.5b required.
@@ -331,7 +331,7 @@ FCOM_FrancescosNamedBosses.esp
 >Fran Armor Add-on.esp
 >% {{BASH:Invent}}
 >? Requires FCOM_UnofficialFranArmorAddon.esp
->? Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs. 
+>? Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
 >? Francesco's Leveled Creatures-Items 4.5b required.
 >Fran_Lv30Item_Maltz.esp
 >? Francesco's Leveled Creatures-Items 4.5b required.
@@ -345,7 +345,7 @@ FCOM_FrancescosNamedBosses.esp
 Atmospheric Loading Screens.esp
 % {{BASH:Graphics}} if using overhaul mods.
 ? Move after Race Balancing Project if using that.
-Atmospheric Loading Screens - Original Text.esp 
+Atmospheric Loading Screens - Original Text.esp
 % {{BASH:Graphics}} if using overhaul mods.
 ? Move after Race Balancing Project if using that.
 Atmospheric Loading Screens - Random Quotes.esp
@@ -370,7 +370,7 @@ Zira's Horse Theme Loadscreens.esp
 \Mods that can be overridden in part.
 \Low priority mods.
 \New Items, NPCs & creatures that are not overrides of other mods.
-\'Library' mods. 
+\'Library' mods.
 
 \Weather mods and overhauls
 \''''''''''''''''''''''''''
@@ -378,7 +378,7 @@ Zira's Horse Theme Loadscreens.esp
 
 _Real_Lights.esp
 ? Accidentally disables the Umbacano branch of The Collector quest.
-? - edit in CS to remove the MS21statuescript script changes to fix this.
+? - edit to remove the MS21statuescript script changes to fix this.
 ? All Natural's Real Lights implementation shouldn't suffer from this.
 
 oc_darker_nights.esp
@@ -462,7 +462,7 @@ All Natural - NW + AWS.esp
 ? Only use one All Natural weather plugin.
 All Natural - EW + NW + AWS.esp
 ? Only use one All Natural weather plugin.
-All Natural - Enhanced Seasons.esp 
+All Natural - Enhanced Seasons.esp
 ? Requires ScreenEffects.
 All Natural - Debug Ring.esp
 ? Obsolete. Update to latest version of All Natural.
@@ -475,7 +475,7 @@ Weather Debug Ring.esp
 
 \Water tweaks
 \''''''''''''
-\All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate. 
+\All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate.
 \Possible dirty edits mean they should go before landscape changing mods.
 
 Enhanced Water v2.0 ND.esp
@@ -539,7 +539,7 @@ PCSoundEdwin.esp
 PCSoundAlgernon.esp
 PCSoundIndarion.esp
 PCSoundIrenicus.esp
-PCSoundRhett.esp 
+PCSoundRhett.esp
 PCSoundSillth.esp
 PCSoundMazzy.esp
 PCSoundKeldorn.esp
@@ -580,7 +580,7 @@ OBSE-Storms & Sound.esp
 ? This one is compatible with all weather mods.
 
 Stormier storms.esp
-Storms.esp 
+Storms.esp
 
 PJs Lightning Strikes.esp
 PJs Lightning Strikes - Natural Weather.esp
@@ -604,7 +604,7 @@ Rainbows.esp
 \Should load early to allow more 'important' mods to override.
 
 LightsOut.esp
-10Interior_Light.esp 
+10Interior_Light.esp
 Cities Alive At Night.esp
 _cities_alive_at_night.esp
 
@@ -628,7 +628,7 @@ IWR-Shutters.esp
 IWRRetrofittedLights.esp
 IWRRetrofittedShutters.esp
 IWRRetrofittedWindows.esp
-IWR-WindowsLightsShutters.esp 
+IWR-WindowsLightsShutters.esp
 IWR - Windows Lights Shutters - Optimised.esp
 ? Needs original IWR files.
 10Interior_Light-7162.esp
@@ -660,7 +660,7 @@ AmbientDungeons.esp
 
 300_lore dialogue v1.15.esp
 ? May have a problem with Storms and Sounds.
-300_Lore Dialogue.esp 
+300_Lore Dialogue.esp
 ? May have a problem with Storms and Sounds.
 300_Random_Clutter.esp
 36Sermons-Miltiades.esp
@@ -739,7 +739,7 @@ VanityCameraSmoother.esp
 VanityCamera Smoother.esp
 
 CATSDeerPeltsAndAntlers.esp
-? May not be compatible with OOO or MMM Hunting and Crafting. 
+? May not be compatible with OOO or MMM Hunting and Crafting.
 ? Moving after overhauls may restore this mod's functionality but may break some overhaul mod settings. Untested.
 
 Complete Names.esp
@@ -758,11 +758,11 @@ CLS-Sailboats-COBL.esp
 OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
 
-CM_Better Wine.esp 
+CM_Better Wine.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
-Corpse Equip Manual.esp 
+Corpse Equip Manual.esp
 \PM, added, 18-04-09
 
 Cryptic Festive Ayleid Dining Set.esp
@@ -812,11 +812,11 @@ Cyrodilic Brandy.esp
 Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
-% {{BASH:Invent}} 
+% {{BASH:Invent}}
 
 Daggerfallbooks.esp
 Daedric Wargames.esp
-? Requires Shivering Isles expansion. 
+? Requires Shivering Isles expansion.
 Damsels In Distress.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
@@ -825,6 +825,7 @@ dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
+diversegrasses.esp
 DragonStatuesv1.esp
 
 EasySpellRemovalv1.esp
@@ -843,9 +844,9 @@ Fatality Cam.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
 
 GrayFoxLeatherReward.esp
-GrayFoxOutfit.esp 
+GrayFoxOutfit.esp
 Grand Potions.esp
-? May need Wrye Bashed Patch to work with overhaul mods. 
+? May need Wrye Bashed Patch to work with overhaul mods.
 % {{BASH:Delev,Relev}} ??? Untested.
 Guide Books.esp
 Guiding Beacons.esp
@@ -906,13 +907,14 @@ Item interchange - Extraction.esp
 
 kalikuts_raretradegoods2_0.esp
 KB - House of Wonders.esp
+kuerteeSittableRocks.esp
 
 lantern.esp
 LCD.esp
 LCD MDMix.esp
 
 Less Creepy Guild Porters.esp
-Different_FG_Porters.esp 
+Different_FG_Porters.esp
 FGPorterOverhaul.esp
 FGPorter_nofollow.esp
 
@@ -929,14 +931,14 @@ Lyn-NoFakeOceanFloor.esp
 LostTelvanniCodex.esp
 Luchaire's Neck Seam Concealer.esp
 Lyn-StoriesFromTheSeaMod.esp
-% {{BASH:Invent}} 
+% {{BASH:Invent}}
 
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 merchant chest fix.esp
 mini fixes-altars.esp
 mini fixes-more animal skins, meat etc..esp
-MiscTracker.esp 
+MiscTracker.esp
 MM_TextLocks.esp
 MM_Run5.esp
 M.O.E. - Undermined Leveled Gameplay - Creature Edition.esp
@@ -968,8 +970,8 @@ Mud Crabs!.esp
 Mud Crabs!_coMbO.esp
 
 NBB.esp
-New Sheoth Palace LOD Fix 1.0.esp 
-noreplicas.esp 
+New Sheoth Palace LOD Fix 1.0.esp
+noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
 Nosvertu's Wearable Daemer Wings.esp
@@ -984,6 +986,7 @@ Oblivion Collectible Cards.esp
 OblivionOnline.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
+Oscars_Nicer_Grass-3346.esp
 OSRCustom.esp
 
 P1DlevelMultiCount.esp
@@ -1009,7 +1012,7 @@ Quick Wardrobe.esp
 
 RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
-RAEVWD Imperial City.esp 
+RAEVWD Imperial City.esp
 Resurrect book.esp
 RD-HeavensWrath-v1-1-Realistic.esp
 RD-TimeKeeper-v1-3-2minUpdate.esp
@@ -1095,7 +1098,7 @@ DEJ Harvest - Containers [Combo] v0.99.08.esp
 Harvest[Containers] - Flat-Top Barrels Add-on.esp
 ? Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
-? Not OOO compatible. 
+? Not OOO compatible.
 
 Piratelords Trade Fixes.esp
 
@@ -1116,7 +1119,7 @@ moDem's City Life - BP Compat.esp
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 Crowded Cities 15.esp
-Crowded Cities 30.esp 
+Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
 
@@ -1124,7 +1127,7 @@ MoreSuburbLife.esp
 
 Crowded Roads.esp
 Crowded Roads 7.esp
-Crowded Roads 15.esp 
+Crowded Roads 15.esp
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
@@ -1142,7 +1145,7 @@ OCC-TVamp-Patch.esp
 
 Choices and Consequences.esp
 
-C&C - The Blackwood Company.esp 
+C&C - The Blackwood Company.esp
 % {{BASH:C.Owner}}
 
 \Map marker Tweaks
@@ -1192,7 +1195,7 @@ Lem - Hotkey Cyclers.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Uncommon Controls.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
-FastShortcuts.esp 
+FastShortcuts.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
@@ -1241,7 +1244,7 @@ SM Plugin Refurbish - MehrunesRazor.esp
 \Body replacers
 \--------------
 \
-\Load early. 
+\Load early.
 \Robert's Male Body Replacer has problems with race mods and patches are needed.
 
 EshmesBodiesV2.esp
@@ -1262,13 +1265,13 @@ MaleBodyReplacer.esp
 % {{BASH:Body-M}}
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
-NordFemaleMuscles.esp 
+NordFemaleMuscles.esp
 
 \-------------------------
 \Items (armor and weapons)
 \-------------------------
 \
-\VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look. 
+\VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 \Some items will need to go after overhaul or location altering mods to appear.
 
 Bonemold_Helmet.esp
@@ -1427,7 +1430,7 @@ Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
 CSR - Fine Iron.esp
 % {{BASH:Graphics}}
-CSR - Golden Saint.esp 
+CSR - Golden Saint.esp
 % {{BASH:Graphics}}
 Chess Set Complete.esp
 ChitinArmor.esp
@@ -1472,7 +1475,7 @@ Dragon Scale Armor.esp
 
 ElegantVests.esp
 Eternal Dragon Armor light.esp
-Eternal Dragon Armor Heavy.esp 
+Eternal Dragon Armor Heavy.esp
 Ethereal - Armor Imperial Legion Edition.esp
 Extra Robe Pack.esp
 extavegant masks.esp
@@ -1508,7 +1511,7 @@ Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
 Grigors_Grimoires.esp
 Griffon Fortress 0.3.esp
-Growlfs Hot Clothes.esp 
+Growlfs Hot Clothes.esp
 GruntsSigilStones.esp
 GrayFoxArmor.esp
 GuildmasterChests.esp
@@ -1516,8 +1519,8 @@ GuildmasterChests.esp
 Hades.esp
 Harlequin Armour 0.6.esp
 Hashshashin Armor.esp
-HB Elven Sunbreaker Shortsword.esp 
-HB Legacy Dwemer Weapons.esp 
+HB Elven Sunbreaker Shortsword.esp
+HB Legacy Dwemer Weapons.esp
 HelmetCollection.esp
 HENTAI's gift.esp
 HiddenSkulls.esp
@@ -1576,7 +1579,7 @@ M.O.E. - Unlocked Glenroy and Captain Renault Blades Armour.esp
 ? Use 'FCOM_MOECaptainRenaultArmor' to fix compatibility issues with FCOM.
 FCOM_MOECaptainRenaultArmor.esp
 M.O.E. - Unlocked Palace Guard Armour.esp
-Wearable GS and DS armor.esp 
+Wearable GS and DS armor.esp
 ? Use 'for OOO' version for better OOO/FCOM compatibility.
 Ma.S.Tro's Black Crest Kit v1.03.esp
 Masks Revised.esp
@@ -1588,7 +1591,7 @@ Mithril and Orcish Weapon Sets by Ionis.esp
 mnp Nighteye Goggles.esp
 Morniel_SpecialItem.esp
 MuffinGoldenDishes.esp
-mycastle.esp 
+mycastle.esp
 mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
@@ -1899,7 +1902,7 @@ HGEC_Rogue01.esp
 \--------------------
 \
 \Stuff for use with body replacers.
-\VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look. 
+\VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 
 StockClothingArmor-forExnems.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
@@ -2077,7 +2080,7 @@ ares-Exnem.esp
 Armamentium female.esp
 % {{BASH:NoMerge}}
 Robert Blackluster.esp
-Robert Adelina.esp 
+Robert Adelina.esp
 Exnem Elven Warrior.esp
 
 Imperial Armor Replace.esp
@@ -2108,26 +2111,26 @@ Morrowind Scimitars for Oblivion.esp
 FF7 Swords 02 core apocalypse.esp
 ? Not compatible with Open Cities.
 exhoffhandseries_1.0.esp
-Grim Reaper.esp 
-shadow lord_normal.esp 
+Grim Reaper.esp
+shadow lord_normal.esp
 A Very Silly Slaughterfish Mod.esp
 fishclub.esp
 FF7 Swords 01 complete tsurugi.esp
 FF7 Swords 05 back butterfly.esp
 FF7 Swords 04 side rune.esp
 FF7 Swords 03 blade ogre nix.esp
-Hel Borne's Blackiron Weapon Set.esp 
+Hel Borne's Blackiron Weapon Set.esp
 Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
 SB TES4 Oblivion Crossbow Mod v8.5.esp
 Daedric Lord Armor.esp
 More_Shields.esp
 DarkFlameSwordAndShield_v10_FIXED_ESP.esp
-HB Elven Sunbreaker Shortsword.esp 
+HB Elven Sunbreaker Shortsword.esp
 TFF_FantasyFigures_Armour_Fantasy.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH:Graphics}}
 Obsidian Axe.esp
-Charon's Call by Nicoroshi.esp 
+Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 
 \----------
@@ -2262,7 +2265,7 @@ Thievesden_mobs.esp
 <Fran Armor Add-on.esp
 <% {{BASH:Invent}}
 <? Use FCOM_UnofficialFranArmorAddon.esp instead of the tag if using FCOM
-<? Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs. 
+<? Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
 <? Francesco's Leveled Creatures-Items 4.5b required.
 <Fran_Lv30Item_Maltz.esp
 <? Francesco's Leveled Creatures-Items 4.5b required.
@@ -2338,13 +2341,13 @@ Cobl Si.esp
 ? Requires Shivering Isles expansion.
 OOO 1.32-Cobl.esp
 FCOM_Cobl.esp
-? Requires 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'. 
+? Requires 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
 ? Do not use COBL and Tamerielic Ingredients at the same time.
 Cobl Tweaks.esp
-* Delete. Already included in 'FCOM_COBL.esp'. 
+* Delete. Already included in 'FCOM_COBL.esp'.
 COBL-FransCre.esp
 * Delete. Not compatible with FCOM.
-? Requires COBL and Fran's. 
+? Requires COBL and Fran's.
 ? Remember to use the SI or no-SI versions as appropriate (same file names).
 COBL-FransNewCre.esp
 * Delete. Not compatible with FCOM.
@@ -2368,7 +2371,7 @@ Loth's Blunt Weapons for NPCs.esp
 FCOM_LothsBluntWeapons.esp
 ? Requires 'Loths Blunt Weapons for NPCs.esp'.
 
-Oblivion WarCry.esp 
+Oblivion WarCry.esp
 * Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
 Oblivion WarCry EV.esp
@@ -2405,7 +2408,7 @@ OOO-Magic_Script_Effect_Fix.esp
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
 * Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
-OOO132RC3Hotfixes.esp 
+OOO132RC3Hotfixes.esp
 * Delete. Use newer version of OOO. Integrated into OOO v1.32.Final and newer.
 OOO132RC3MapMarkers.esp
 * Delete. Use newer version of OOO. Now a different plugin in OOO v1.32.Final and newer.
@@ -2431,7 +2434,7 @@ ArmamentariumLLVendor.esp
 ArmamentariumLLVendors.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
-ArmamentariumArtifacts.esp 
+ArmamentariumArtifacts.esp
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -2451,8 +2454,8 @@ OBSE-Storms & Sound SI.esp
 >* Delete. Not needed with FCOM.
 >Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
->Mart's Monster Mod - Fran's Leveled Quests.esp 
->* Delete. Already integrated into FCOM. 
+>Mart's Monster Mod - Fran's Leveled Quests.esp
+>* Delete. Already integrated into FCOM.
 >
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
 >* May cause CTD issues - not recommended.
@@ -2493,7 +2496,7 @@ OBSE-Storms & Sound SI.esp
 >
 >Mart's Monster Mod - More Wilderness Life.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
->Mart's Monster Mod - More Wilderness Life No Gates.esp 
+>Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >
 >Mart's Monster Mod - Safer Roads.esp
@@ -2556,16 +2559,16 @@ OBSE-Storms & Sound SI.esp
 >Mart's Monster Mod - No Slimes.esp
 >Mart's Monster Mod - No Fiends.esp
 >Mart's Monster Mod - No Werewolves.esp
->Mart's Monster Mod - No Lanterns.esp 
+>Mart's Monster Mod - No Lanterns.esp
 >Mart's Monster Mod - No Adventurers.esp
 >Mart's Monster Mod - No Beholdens.esp
 >Mart's Monster Mod - No Uberhulks.esp
->* Delete. Not FCOM compatible. 
+>* Delete. Not FCOM compatible.
 >Mart's Monster Mod - No Skeep.esp
->* Delete. Not FCOM compatible. 
+>* Delete. Not FCOM compatible.
 >Mart's Monster Mod - No Balrogs.esp
->* Delete. Not FCOM compatible. 
->Mart's Monster Mod - More Reavers.esp 
+>* Delete. Not FCOM compatible.
+>Mart's Monster Mod - More Reavers.esp
 >? Old version. As from v3.6, integrated into of Additional Enemy NPC Vars.
 >Mart's Monster Mod - Extra Reavers.esp
 >? Old version. As from v3.6, integrated into of Additional Enemy NPC Vars.
@@ -2585,7 +2588,7 @@ OBSE-Storms & Sound SI.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
 >Mart's Monster Mod - Diverse Imperial Armor.esp
->* Delete. Already integrated into FCOM. 
+>* Delete. Already integrated into FCOM.
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -2615,11 +2618,11 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Old version. Not needed in MMM 3.6beta3 Intergrated or later.
 <Mart's Monster Mod - Lesser Balrog Fix.esp
-<MMM - UberhulkParalyzeFix.esp 
+<MMM - UberhulkParalyzeFix.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
 <
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
-<Mart's Monster Mod - More Reavers.esp 
+<Mart's Monster Mod - More Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Extra Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
@@ -2639,7 +2642,7 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
 <Mart's Monster Mod - Durability & Damage.esp
 <? Don't use with OOO. Already integrated into OOO.
-<Mart's Monster Mod - Fran's leveled quests.esp 
+<Mart's Monster Mod - Fran's leveled quests.esp
 <? Requires a Fran's install with the Leveled Quests option.
 <Mart's Monster Mod - Less Bone Loot.esp
 <Mart's Monster Mod - Less Rats.esp
@@ -2730,9 +2733,9 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 
 TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
-* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead. 
+* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 TamrielTravellers4MMM.esp
-* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead. 
+* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 Travellers4MMMHostileFactions.esp
 * Delete. Not FCOM compatible.
 TamrielTravellersFactionAll.esp
@@ -2746,7 +2749,7 @@ TamrielTravellersItemsCobl.esp
 ? Requires COBL.
 TamrielTravellersItemsVendor.esp
 TamrielTravellersItemsUnscaled.esp
-* Delete. Not FCOM compatible. 
+* Delete. Not FCOM compatible.
 ? Not overhaul mod compatible.
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
@@ -2806,7 +2809,7 @@ T.I.E4FCOM+COBL.esp
 ? Consider using a newer TIE compatibility project (eg 'TIE In').
 
 TIE In.esp
-? Requires FCOM. 
+? Requires FCOM.
 ? Recommend avoid using TNR.
 TIE In - Frans.esp
 ? Modular development plugin. Do not use with 'TIE In - FCOM Convergence.esp'.
@@ -2897,7 +2900,7 @@ Shield on Back Plugin - OOO.esp
 BladesSmithyOOO.esp
 OOO_ThievesGuildFix.esp
 ArmamentariumLL4OOO.esp
-? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'. 
+? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
 ? This 'Complete' version is incompatible with any .ESP files from previous/other versions.
 Diverse Effect Icons for OOO.esp
 NWJtamriel4MMM.esp
@@ -2910,7 +2913,7 @@ Tamrielic_Ingredients_MMM.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
-C&C - The Blackwood Company - OOO.esp 
+C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
 OOO-WaterFish.esp
@@ -2940,15 +2943,15 @@ AdrenalineOblivion-SpawnElement.esp
 \Quests and Locations 1
 \----------------------
 \
-\All mods that add or change quests, 
-\add player houses, 
+\All mods that add or change quests,
+\add player houses,
 \add or change dungeons,
 \add or change towns, villiages, cities and/or landscape.
 \
 \Mods not in alphabetical order have been hand placed to avoid conflicts (as much as possible).
 
 Suliin V1.2.esp
-? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid edits. 
+? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid edits.
 Quelldorf 1.5.esp
 ? Not compatible with Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
@@ -3172,7 +3175,7 @@ castleofnight.esp
 Castle_Domrose_V1.2.esp
 Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
-Castle_Highrock.esp  
+Castle_Highrock.esp
 Castle_Veyond.esp
 Castle Volengrad.esp
 CDEP.esp
@@ -3225,7 +3228,7 @@ DexwoodFamilySaga.esp
 DibellaTempleWillowLakeVillagev1.esp
 
 Dive Rock Revisited.esp
-MeteorShowerDiveRock.esp 
+MeteorShowerDiveRock.esp
 
 SkingradHoleInTheWall_COBL_v6.esp
 DJ Markov Manor.esp
@@ -3262,7 +3265,7 @@ eyja.esp
 
 FalamirTheMerchant.esp
 FallenTower.esp
-Fanacasecul.esp 
+Fanacasecul.esp
 fishing boat.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
@@ -3428,7 +3431,7 @@ Lyn-GnollMountain.esp
 Lilarcor.esp
 
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
-M.O.E. - The Black Sacrament - Night Mother's Ritual.esp 
+M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
 MadHouseV12.esp
 MadMagesTower.esp
 ? Edits border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
@@ -3490,7 +3493,7 @@ One Stop Armors.esp
 OCC-OSMS-Patch.esp
 
 Pats Business Mod---Shop Version 1.6.esp
-Pek_Halls_of_The_Phoenix_Order.esp 
+Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 PinePeakLodge.esp
 Pinevale.esp
@@ -3535,7 +3538,7 @@ Scribe Supplies.esp
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
-Septim Mansion.esp 
+Septim Mansion.esp
 Servant of the Dawn.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
@@ -3552,7 +3555,7 @@ SkingradHouseAdds.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
 SkoomaRefiningAddictionEnhanced.esp
-SkyCastle.esp 
+SkyCastle.esp
 Slash n Smash.esp
 SleepyCatInn.esp
 Slof's Oblivion Goth Shop.esp
@@ -3633,7 +3636,7 @@ Treasure Maps_Boethia's Burden.esp
 treasure maps captus demus.esp
 Treasure Maps Meridias Womb.esp
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
-Treasure Maps Revenge Of The Nords.esp  
+Treasure Maps Revenge Of The Nords.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
 TheMistRetreat1.3_Original.esp
@@ -3645,7 +3648,7 @@ Topal Island - Safe Water.esp
 
 UFF Gypsy Market.esp
 UnfathomedTower.esp
-Unique Dungeons - Lichs Lair.esp 
+Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Ushnars Skinned Hound.esp
 
@@ -3715,7 +3718,7 @@ Oblivion - ZOMBIE.esp
 \For the moment, anything arena related goes here - needs more research.
 \                         '''''''''''''
 \
-Arena Imersion Upgrade 1.1.esp 
+Arena Imersion Upgrade 1.1.esp
 Angel's Arena Loot en.esp
 ? Unlikely to work with other IC Arena mods
 24hourArena.esp
@@ -3730,7 +3733,7 @@ CDM-Arena Gauntlet.esp
 CDM-Arena Survival.esp
 Arena_BattlesV1.1.esp
 Decent Arena Rewards 4X.esp
-Cliff_RankDependantArenaSpectators.esp 
+Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
 MoreArenaSpectators.esp
 UOE-MoreArenaSpectators.esp
@@ -3759,7 +3762,7 @@ Battlehorn_mobs.esp
 \----------------
 
 maze-version 1,0.esp
-1SKHGBetaUpdate.esp 
+1SKHGBetaUpdate.esp
 
 sir_balin_mod.esp
 Ash's DB Kah'Lil Quest.esp
@@ -3797,7 +3800,6 @@ DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
-Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 Ulrim's Horses - OOO+LegionArmor.esp
@@ -4055,7 +4057,7 @@ VeronaHouseBloodlines-LostCoast fix.esp
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
 Sousmarin-beaches fix.esp
-Castle_Almgard-V2.esp 
+Castle_Almgard-V2.esp
 ? Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
 anvil bay+ul tweak.esp
 BrewHouse-LostCoast patch.esp
@@ -4137,7 +4139,7 @@ VeronaHouseBloodlines-UL patches Merged.esp
 LostSpires-DarkForest patch.esp
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
-? Upgrade to v3.0 or later. 
+? Upgrade to v3.0 or later.
 ? Not compatible with Better Cities. Already included in Better Cities IC plugins.
 Imperial City Waterfront Tunnel Entrance v3.0.esp
 ? Not compatible with Better Cities. Already included in Better Cities IC plugins.
@@ -4163,7 +4165,7 @@ Better Cities SKINGRAD.esp
 Better Cities - Skingrad City Defences.esp
 
 Better Cities BRAVIL.esp
-Better Cities BRAVIL - Blood & Mud.esp 
+Better Cities BRAVIL - Blood & Mud.esp
 Better Cities - Bravil City Defences.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
@@ -4297,7 +4299,7 @@ Open Better Cities CHEYDINHAL.esp
 Open Better Cities Cheydinhal - City Defences.esp
 Open Better Cities CHORROL.esp
 Open Better Cities Chorrol - City Defences.esp
-OBCChorrol-ChorrolHinterland fix.esp 
+OBCChorrol-ChorrolHinterland fix.esp
 Open Better Cities LEYAWIIN.esp
 Open Better Cities Leyawiin - City Defences.esp
 Open Better Cities SKINGRAD.esp
@@ -4312,9 +4314,6 @@ Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
-
-Better Imperial City.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -4338,7 +4337,7 @@ Open Cities + Cats & Rats.esp
 Open Cities + Cats & Rats for MMM.esp
 ? Not compatible with newer post-2006 versions of Open Cities.
 ? Deactivate 'Open Cities.esp'.
-Open Cities + Cats & Rats for Francescos.esp 
+Open Cities + Cats & Rats for Francescos.esp
 ? Not compatible with newer post-2006 versions of Open Cities.
 ? Deactivate 'Open Cities.esp'.
 
@@ -4445,16 +4444,16 @@ Harvest [Flora] - Shivering Isles.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
 DEJ Harvest - Flora.esp
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later. 
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 ? Exception: Herbalism mod.
 RealisticFlora.esp
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later. 
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCFrostcrag.esp
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later. 
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora - DLCFrostcrag.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCVilelair.esp.
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later. 
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 WD's Auto Harvest.esp
 LCs Auto Harvest.esp
 
@@ -4471,7 +4470,7 @@ ANB_Item_Switchers.esp
 ANB_No_FastTravel.esp
 ANB_Portable_Stool.esp
 Arcane_university_access_cheat-2328.esp
-Archmage Chest Ingredients Addon 2.0.esp 
+Archmage Chest Ingredients Addon 2.0.esp
 Archmage_Enchanted_Chest_OBSE.esp
 Archnamage's Chest For SI.esp
 Armor-Long -TESSource.esp
@@ -4575,14 +4574,13 @@ DeadlierDarkBrotherHood.esp
 Deadly Clutter.esp
 Decorator Assistant.esp
 ? Check version is 1.1 or later.
-DecoratorAssistant v1.1.esp 
+DecoratorAssistant v1.1.esp
 DecoratorAssistant with OBSE v1.1.esp
 DecoratorAssistant Unlock for OBSE version.esp
 DecoratorAssistant with OBSE v1.11_Unofficial.esp
 Delmar_the_Soulgem_Salesman-5069.esp
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
-diversegrasses.esp
 Dousing The Flames.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
@@ -4728,7 +4726,7 @@ Merchants Inn Room.esp
 Mimics!.esp
 more books teach.esp
 moremerchantmoneyv1.1.esp
-More_Training-1908.esp 
+More_Training-1908.esp
 MoreTraining.esp
 movablebodies.esp
 Music Controller.esp
@@ -4743,7 +4741,7 @@ No Glow Grass - Faster.esp
 No Glow Grass - Shorter.esp
 No Glow Grass - Faster and Shorter.esp
 NoMoreGuardsWithBowsv1.2.1.esp
-No Quest Items.esp 
+No Quest Items.esp
 No quest items SI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
@@ -4773,7 +4771,7 @@ P1DkeyChainMehrunesRazor.esp
 P1DkeyChainFrostcraig.esp
 P1DkeyChainKnights.esp
 P1DKeyChainSI Merged.esp
-P1DkeyExtraMouseButton.esp 
+P1DkeyExtraMouseButton.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
 Potions Recolored.esp
@@ -4814,7 +4812,7 @@ Salmo the Baker, Cobl.esp
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
-SA Social Alertness.esp 
+SA Social Alertness.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version?
@@ -4998,7 +4996,7 @@ More Capacity Encumbrance with Fatigue.esp
 
 Vim_and_Vigor.esp
 Vim_and_Vigor_2.5x.esp
-Vim_and_Vigor_5x.esp 
+Vim_and_Vigor_5x.esp
 
 Fatigue Adjustment.esp
 M.O.E. - Fatigue Loss from Running.esp
@@ -5032,7 +5030,7 @@ Ronyns_Realistic_and_Fun_Acrobatics-8494.esp
 Ronyns_Realistic_and_Fun_Acrobatics-8494(2).esp
 Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
-Jump Adjustment 1.0.esp 
+Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
@@ -5043,7 +5041,7 @@ SM Rest.esp
 
 \Vampires
 \''''''''
-\Will override changes made by OOO. May cause faction conflicts with any new vampire factions. 
+\Will override changes made by OOO. May cause faction conflicts with any new vampire factions.
 \Can be problematic to use hunger and thirst realism mods with many of these (as you have a differnt diet!).
 
 Ashes to Ashes.esp
@@ -5063,7 +5061,7 @@ PxNewVampires_NoNPC.esp
 PxNPC_Reactions.esp
 PxVampireAge0.esp
 PxVampireAge-10000.esp
-M.O.E. - Vampire Clan Raelu.esp 
+M.O.E. - Vampire Clan Raelu.esp
 ? May have problems with OOO.
 M.O.E. - Vampire Players Scarier.esp
 Scorn's Vampirism 2.esp
@@ -5166,11 +5164,11 @@ RDetectLife.esp
 Rain of Gold OBSE.esp
 Rain of Gold.esp
 Remote Life Detect.esp
-SetEssentialActors.esp 
+SetEssentialActors.esp
 Smite of Order.esp
-SpellDeflection.esp 
+SpellDeflection.esp
 Stalk'em SI.esp
-TeachSpell.esp 
+TeachSpell.esp
 Telekinetic Mastery.esp
 The Sixth Element.esp
 TimboeMultiMark & Recall.esp
@@ -5188,7 +5186,7 @@ AgarMoreVariedSpellEffects.esp
 
 FrostcragMidasLab.esp
 
-MofMagecraft1.7.esp 
+MofMagecraft1.7.esp
 Advanced Magecraft.esp
 
 FormID Finder.esp
@@ -5209,7 +5207,7 @@ Mighty Magick - Magicka Pool Progression.esp
 Mighty Magick - Side Effects.esp
 Mighty Magick - Sigil Stones.esp
 Mighty Magick - Restore Magicka Potions.esp
-Mighty Magick - Restore Magicka Potions [Vanilla].esp 
+Mighty Magick - Restore Magicka Potions [Vanilla].esp
 Mighty for Midas - Rational.esp
 DLCSpellTomes MM Patch.esp
 Shivering Magick.esp
@@ -5279,7 +5277,7 @@ Deadly Diseases.esp
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
 
-Friendlier Summons.esp 
+Friendlier Summons.esp
 ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
@@ -5305,9 +5303,8 @@ STX WhiteLightSpellNoEffect.esp
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp
 
-qazFingerSnap.esp 
+qazFingerSnap.esp
 Finger Snap.esp
-
 
 \Alchemy
 \'''''''
@@ -5360,7 +5357,7 @@ Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
 ? Use only with 'Herbalism' otherwise use newer 'Harvest [Flora]' v3.1.
 
-Enchantment Enhanced.esp 
+Enchantment Enhanced.esp
 Enchanting Enhanced.esp
 EnchantmentRestore.esp
 EnchantmentRestore_Wells.esp
@@ -5392,7 +5389,7 @@ More Realistic Sneaking - Sleepkill Dagger.esp
 More Realistic Sneaking 1.9 - Sleepkill Dagger.esp
 More Realistic Sneaking - Sneak Attack Modifiers.esp
 More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
-Stalk'em.esp 
+Stalk'em.esp
 SM Combat Hide.esp
 Attack & Hide.esp
 ? Check for newer version.
@@ -5532,7 +5529,7 @@ Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Combat Moves.esp
 DeadlyReflex 5 - Combat Moves.esp
-SM_DeadlyReflex.esp 
+SM_DeadlyReflex.esp
 
 Deadly Reflex Bow Sway.esp
 
@@ -5714,6 +5711,8 @@ Level_Rates_Modified_x5.esp
 \---------
 \Scripts and new animations.
 
+Mayu's Animation Overhaul.esp
+
 personality_idles2.esp
 personality_idles4.esp
 personality_idles4_nopc.esp
@@ -5722,9 +5721,9 @@ Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
 
 CTAddPose_v_1.esp
-CTAddPose_osr1.esp 
-CTAddPose_osr2.esp 
-CTAddPose_osr3.esp 
+CTAddPose_osr1.esp
+CTAddPose_osr2.esp
+CTAddPose_osr3.esp
 CTAddPose_fujosi_eng.esp
 
 LainPose.esp
@@ -5754,9 +5753,9 @@ P1DseeYouSleep - DLCVileLair.esp
 
 Wolvmans_Better_Hand_placed_Loot.esp
 Immersive Caves.esp
-% {{BASH:Names}} 
+% {{BASH:Names}}
 immersive_caves_auto.esp
-% {{BASH:Names}} 
+% {{BASH:Names}}
 immersive_caves_manual.esp
 Dark Dungeons.esp
 % {{BASH:C.Light}} Untested but may solve problems.
@@ -5887,7 +5886,7 @@ OblivionRealTimeV11.esp
 
 _No__persistant_enchantment_glow_fix-1843.esp
 ? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
--No-_persistant_enchantment_glow_fix-1843.esp 
+-No-_persistant_enchantment_glow_fix-1843.esp
 ? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 MagicEffectDim.esp
 ? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
@@ -5956,7 +5955,6 @@ Real Lava 1.2.esp
 Real Lava v1.2.esp
 ? Update to 1.3 or later.
 % {{BASH:Graphics}} and deactivate.
-
 Improved Lava.esp
 
 % {{BASH:Graphics}} and deactivate.
@@ -6058,7 +6056,7 @@ KDshorthair.esp
 
 ElaborateEyes.esp
 % {{BASH:Eyes}}
-Ethereal - Eyes.esp 
+Ethereal - Eyes.esp
 % {{BASH:Eyes}}
 DaMage's_Eye_Pack.esp
 % {{BASH:Eyes}}
@@ -6182,7 +6180,7 @@ Assassins Creed - Altair's Gear- HeavyArmor.esp
 Assassins Creed - Altair's Gear - ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 ? Choose only one 'Assassins Creed' ESP.
-Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp 
+Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 ? Choose only one 'Assassins Creed' ESP.
 
@@ -6257,6 +6255,8 @@ sr_race_balance_tweaks.esp
 bgBalancingEVOptionalClasses.esp
 bgBalancingOptionalLessHealth.esp
 bgBalancingEVOptionalFangs.esp
+bgBalancingEVOptionalMoreEyes.esp
+
 bgBalancingEVOptionalHalvedMagicka.esp
 bgBalancingEVOptionalWeaker.esp
 bgBalancingEVOptionalWeakerOrcs.esp
@@ -6265,6 +6265,7 @@ bgBalancingVanillaGMSTArmorPenalty.esp
 bgBalancingVanillaGMSTMagickaPerInt.esp
 bgBalancingVanillaGMSTMagickaRegeneration.esp
 bgBalancingVanillaGMSTSpellCostProgression.esp
+
 bgBalancingEVOptionalNPCDiversity, Beautification.esp
 ? Use only one of the three OptionalNPCDiversity files.
 ? Requires Wrye Bash Bashed Patch.
@@ -6288,7 +6289,7 @@ bgBalancingEVLAMEIntegration.esp
 bgBalancingEVOptionalNPCDiversityLAME.esp
 ? Requires LAME.
 bgBalancingEVOptionalBetterRedguards.esp
-? Requires Better Reguards. 
+? Requires Better Reguards.
 ? Requires Wrye Bash Bashed Patch.
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires Better Redguards installed with its ESP deactivated.
@@ -6296,7 +6297,6 @@ bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires Wrye Bash Bashed Patch.
 bgBalancingOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires Better Redguards installed with its ESP deactivated.
-? Deactivate Better Redguards's ESP file.
 ? Be sure to use only one 'OptionalNPCDiversity...Redguard' plugin.
 ? Requires Wrye Bash Bashed Patch.
 bgBalancingOptionalNPCDiversity, TNR Merge Better Redguards.esp
@@ -6348,7 +6348,7 @@ CM Partners Beasts.esp
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
 Companion Postal Service.esp
-AW_Partners_MarkReturnTweak.esp 
+AW_Partners_MarkReturnTweak.esp
 
 cssCalisto.esp
 cssCernd.esp
@@ -6471,7 +6471,7 @@ DeadlyReflex - Timed Block + Very High Damage.esp
 ? Old version - update to v5 or later.
 
 Mounted_Spellcasting Deadly Reflex Compatible.esp
-? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex. 
+? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
 ? You could try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
@@ -6532,6 +6532,7 @@ Duke Patrick's Health Alarm with RED DEATH.esp
 
 Duke Patricks - Bob and Weave Dodge Mark II.esp
 Duke Patricks Bob and Weave Dodge GOLD Edition.esp
+Duke Patricks - Stat Based Bob And Weave.esp
 
 Duke Patricks - Momentum Lite Damage Bonus.esp
 ? Only use one 'Momentum Damage' mod.
@@ -6544,7 +6545,7 @@ Duke Patricks - Momentum Damage And Jump Risk.esp
 
 Duke Patricks NPC Arrow Shots Can Miss Now.esp
 ? Check for newer version.
-Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp 
+Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
 ? Check for newer version
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
 

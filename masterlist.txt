@@ -762,6 +762,9 @@ CM_Better Wine.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
+Corpse Equip Manual.esp 
+/PM, added, 18-04-09
+
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
@@ -788,11 +791,6 @@ Cryptic Snowy Oak Ayleid Dining Set.esp
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? Only use one Cryptic's X X X Dining set esp
 /PM, tagged & added, 17-04-09
-Cryptic's Buyable Ayleid Dining Sets.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
 Cryptic White Rose Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
@@ -801,8 +799,11 @@ Cryptic White Rose Ayleid Dining Set.esp
 /PM, tagged & added, 17-04-09
 Cryptic's Buyable Ayleid Dining Sets.esp
 % {{BASH:Invent}}
-? Only use one Cryptic's X X X Dining set esp
+? can be used with ONE of Cryptic's XXX Dining set.esp
 /PM, tagged & added, 17-04-09, invent since it edits the default merchant containers for a few merchants.
+Buyable Ayldeid Dishes.esp
+% {{BASH:Invent}}
+?Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
 
 
 CT-Com's Torch Compendium.esp
@@ -2415,6 +2416,9 @@ OOO-LightOfDawnAlwaysFlames.esp
 
 \Insertion for other patches mods.
 \'''''''''''''''''''''''''''''''''
+mg19obsefix.esp
+?requires OBSE
+\PM, added, 18-04-09
 
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 
@@ -2678,7 +2682,6 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Spawn Rates Reduced Reduced.esp
 <? Older version. Update to 3.6beta3 or later.
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
-<
 <Mart's Monster Mod - Vindasel.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
@@ -2707,6 +2710,17 @@ MrSiika'sFarmAnimals.esp
 Mart's Monster Mod - Boar's Addon.esp
 Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
+Jade Dishes for MMM - HnC.esp
+/PM, added, 18-04-09
+
+FaunaOfTamriel.esp
+/PM, added, 18-04-09
+
+Master-Crafting-1.1-MMM.esp
+?needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
+/PM, added, 18-04-09
+Master-Crafting-1.1-MMM Greaves fix.esp
+/PM, added, 18-04-09
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
@@ -4947,6 +4961,8 @@ Cliff_Roleplayingcharacter.esp
 \Will override changes made by overhaul mods like OOO.
 
 Axebane_RealHunger25.esp
+? Realistic hunger mods and vampire mods may conflict seriously.
+M.O.E. - Hunger Effects.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RealHungerv1.4.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.

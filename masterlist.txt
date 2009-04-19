@@ -518,12 +518,11 @@ MIS Low Wind.esp
 MIS New Sounds Optional Part.esp
 Atmospheric Oblivion.esp
 Atmospheric Oblivion - AWS Patch.esp
-PowerAttack Voicemod.esp
-? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
-? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 Distant Chapel Bells.esp
 Soundscaper.esp
 PowerAttack Voicemod.esp
+? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
+? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 PowerAttack Voicemod - The Shivering Isles.esp
 
 Diverse Voices (Vanilla).esp
@@ -717,7 +716,6 @@ Books-Battlespire.esp
 Books-Daggerfall.esp
 Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
-book_stat_hacks.esp
 BookTrackerOBSE.esp
 Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
@@ -1072,7 +1070,6 @@ Trainer_Book.esp
 TurnoffLights.esp
 
 Update My Statue.esp
-undercover.esp
 
 VA_BetterGold.esp
 % {{BASH:Graphics}}
@@ -1440,7 +1437,6 @@ CrystalStaff.esp
 
 DBShadowSet.esp
 DBShadowSet_NE.esp
-Daedric_Katana_0.4_leveled_only.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
@@ -1803,10 +1799,6 @@ RealSwords - Redguard HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Khajiit LO v1.3.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Combined.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
@@ -1892,8 +1884,6 @@ Daedric_Katana_0.4_vendors_and_leveled.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
 Daedric_Katana_0.4_vendors_only.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
-HGEC_Rogue01.esp
-% {{BASH:Graphics}}
 
 
 
@@ -2092,7 +2082,6 @@ Jade Armor v1.0.esp
 A_Dremora_Armor_for_you-7602.esp
 Platinum Armor and Weapons.esp
 Hel Borne's Chitin Armor Weapons.esp
-HB Legacy Dwemer Weapons.esp
 Dragon Claw Sword And Shield.esp
 Pegasus Armor Set.esp
 Lace outfits.esp
@@ -2119,14 +2108,10 @@ FF7 Swords 01 complete tsurugi.esp
 FF7 Swords 05 back butterfly.esp
 FF7 Swords 04 side rune.esp
 FF7 Swords 03 blade ogre nix.esp
-Hel Borne's Blackiron Weapon Set.esp
 Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
 SB TES4 Oblivion Crossbow Mod v8.5.esp
-Daedric Lord Armor.esp
 More_Shields.esp
 DarkFlameSwordAndShield_v10_FIXED_ESP.esp
-HB Elven Sunbreaker Shortsword.esp
-TFF_FantasyFigures_Armour_Fantasy.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH:Graphics}}
 Obsidian Axe.esp
@@ -3198,7 +3183,6 @@ Cellars of Oblivion.esp
 Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
-clean mjy castle free v.2.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
 Cheydinhal Petshop.esp
@@ -4148,7 +4132,6 @@ ICWaterfrontPassage.esp
 Waterfront Passage - Control of Goods.esp
 Moriarcis.esp
 % {{BASH:Hair}}
-Castle_Almgard-V2.esp
 300 Arcane University.esp
 PersonalPackGuars.esp
 Duke Patricks Sickness Alarm.esp
@@ -4390,7 +4373,6 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 BarrowFields-Blood&Mud-Patch.esp
 ? Do not use this with Better Cities or Open Better Cities.
 
-RegionReviveLakeRumare-ImperialIsle patch.esp
 NRB4+RR Patch.esp
 
 AncientSource-ChorrolHinterland patch.esp
@@ -4531,7 +4513,6 @@ clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
 Cliff_RiskyInnBeds.esp
-Cliff_Roleplayingcharacter.esp
 Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cliff's Shacks Basements-Radiant AI.esp
@@ -4618,7 +4599,6 @@ FewerOBGates.esp
 Fewer Random Oblivion gates.esp
 FewerGatesUninstall.esp
 FewerOBGatesNOCLOSE.esp
-NoMoreRandomOBGates.esp
 NoRandomOBGatesEVER.esp
 NoMoreRandomOBGates.esp
 AlmostNoRandomOBGates.esp
@@ -4641,9 +4621,7 @@ Give Me My Shader Effects.esp
 GladiatorsVarlorRing.esp
 goblin_war_party.esp
 Goblin Tribal Shields.esp
-
 goblin_wars.esp
-book_stat_hacks.esp
 
 GP_Lockpicks.esp
 ? Not compatible with MMM Hunting & Crafting.
@@ -4725,6 +4703,7 @@ MarkerExplore.esp
 Merchants Inn Room.esp
 Mimics!.esp
 more books teach.esp
+book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
 More_Training-1908.esp
 MoreTraining.esp
@@ -4748,10 +4727,6 @@ NoQuestMarkers.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
-NRB4 Standard Road Record.esp
-? Requires New Roads+Bridges.
-NRB4 OCLR Road Record.esp
-? ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp
 
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
@@ -6431,8 +6406,10 @@ Open Cities Road Record.esp
 Open Cities LR Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 Standard Road Record.esp
+? Requires New Roads+Bridges.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 OCLR Road Record.esp
+? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
 \------------

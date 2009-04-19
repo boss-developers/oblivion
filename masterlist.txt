@@ -763,44 +763,44 @@ CM_Better Wine.esp
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp 
-/PM, added, 18-04-09
+\PM, added, 18-04-09
 
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? remove unnecessary cell edit to aleswell dummy cell to make mergeable into bashed patch.
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic Frosted Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic Blue Blood Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic Lake View Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic Snowy Oak Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic White Rose Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? remove unnecessary cell edit to testing hall to make mergeable into bashed patch.
 ? Only use one Cryptic's X X X Dining set esp
-/PM, tagged & added, 17-04-09
+\PM, tagged & added, 17-04-09
 Cryptic's Buyable Ayleid Dining Sets.esp
 % {{BASH:Invent}}
 ? can be used with ONE of Cryptic's XXX Dining set.esp
-/PM, tagged & added, 17-04-09, invent since it edits the default merchant containers for a few merchants.
+\PM, tagged & added, 17-04-09, invent since it edits the default merchant containers for a few merchants.
 Buyable Ayldeid Dishes.esp
 % {{BASH:Invent}}
 ?Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
@@ -2590,11 +2590,11 @@ OBSE-Storms & Sound SI.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 >MMM - Playable Undead Armors.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 
 <\MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
@@ -2698,11 +2698,11 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 <MMM - Playable Undead Armors.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 <MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
-/PM, added, 17-04-09
+\PM, added, 17-04-09
 
 MrSiika'sFarmAnimals.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
@@ -2711,16 +2711,16 @@ Mart's Monster Mod - Boar's Addon.esp
 Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
 Jade Dishes for MMM - HnC.esp
-/PM, added, 18-04-09
+\PM, added, 18-04-09
 
 FaunaOfTamriel.esp
-/PM, added, 18-04-09
+\PM, added, 18-04-09
 
 Master-Crafting-1.1-MMM.esp
 ?needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
-/PM, added, 18-04-09
+\PM, added, 18-04-09
 Master-Crafting-1.1-MMM Greaves fix.esp
-/PM, added, 18-04-09
+\PM, added, 18-04-09
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
@@ -2760,7 +2760,7 @@ FCOM_TamrielTravelers.esp
 ? Requires 'TamrielTravellers4OOO.esp'
 
 
-\FCOM/MMM optionals 3.
+\FCOM\MMM optionals 3.
 \'''''''''''''''''''''
 
 Mart's Monster Mod - Diverse Imperial Armor.esp
@@ -3371,7 +3371,7 @@ KarewManor.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
 ? If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
-? ...found here: 'http://devnull.sweetdanger.com/mods/KingdomofAlmar_OOO.zip'
+? ...found here: 'http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip'
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
 Klarre Forestheart MR.esp
@@ -3843,7 +3843,7 @@ Mart's Monster Mod for OOO - Knights .esp
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 KotN Wayshrine Fix.esp
-/PM, 17-04-09
+\PM, 17-04-09
 % {{BASH:Merge}}
 
 PONLights.esp

@@ -295,13 +295,16 @@ Shivering OOO.esp
 
 Oblivion.esp
 ? Usually a BSA redirection hack for FraNewItems.BSA.
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
+? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 FraNewItems.esp
 ? Dummy file to load FraNewItems.BSA
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
+? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 Fra.esp
 ? BSA redirection hack. Usually refers to FraNewItems.BSA
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
+? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 Better Cities .esp
 ? Dummy file to load Better Cities .BSA
 

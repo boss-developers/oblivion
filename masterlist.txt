@@ -1176,6 +1176,7 @@ Nirnroot Completion.esp
 Aurix's_Names.esp
 Oblivion Gate Markers.esp
 Oblivion Gate Map Marker Remover.esp
+BeyondCyrodiilMarkers.esp
 
 \Hotkeys
 \'''''''
@@ -2119,6 +2120,7 @@ Slof's Brighter Arena Raiments.esp
 Obsidian Axe.esp
 Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
+StockClothingArmorHGECnormalD.esp
 
 \----------
 \Horse Mods
@@ -3782,6 +3784,7 @@ DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
+FrostcragRebornCobl.esp
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
 % {{BASH:Graphics}} for Slof's Horses compatibility.
@@ -4646,6 +4649,7 @@ ImmersiveHealthIndication.esp
 ImmersiveWait.esp
 ImmersiveWait Rus.esp
 ? Russian version?
+SleepRestAnyTime.esp
 ImprovedSoulgems.esp
 Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
@@ -4843,6 +4847,7 @@ WolfPacks.esp
 WolfPacksOscuroAddOn.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
+kuerteeAlternativesToDeathAndReload.esp
 
 XiDr_Advanced_Inns.esp
 
@@ -4911,6 +4916,33 @@ Daedric Lord Armor for Eshme.esp
 AyleidMeteorIronWeaponsVANILLA.esp
 
 
+\TIE Integration compatibility insert
+\''''''''''''''''''''''''''''''''''''
+\TIE In optional addon patches
+
+TIE In - Salmo, Cobl.esp
+TIE In - QarlsHarvest.esp
+TIE In - SlofsHorses.esp
+
+TIE In - Castle Almgard v2.esp
+TIE In - Valley View Estate.esp
+TIE In - VHBloodlines 1.2.esp
+TIE In - Malevolent.esp
+TIE In - TOTF.esp
+
+TIE In - B&M.esp
+TIE In - WelkyndSword B&M.esp
+TIE In - MannimarcoRevisited.esp
+TIE In - SentientWeapon.esp
+TIE In - Kvatch Rebuilt.esp
+
+TIE In - DLCOrrery.esp
+TIE In - DLCThievesDen.esp
+TIE In - DLCFrostcrag.esp
+
+TIE In - BC-Anvil.esp
+
+
 \Alternative start mods
 \''''''''''''''''''''''
 \Must go after anything that alters the main quest.
@@ -4929,6 +4961,7 @@ Kobu's Skip Intro Mod.esp
 dungeonbgone.esp
 CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
+StartChoices.esp
 
 \Realism
 \'''''''
@@ -5117,6 +5150,7 @@ Mark3.esp
 DS Summon Luggage.esp
 Diplomacy and Mercy.esp
 Egress.esp
+
 DS Realistic Enchanted Item Limits.esp
 Is It Safe.esp
 ME_WAR_SUMMONS.esp
@@ -5615,9 +5649,13 @@ Oblivion XP - DLCBattlehornCastle.esp
 Oblivion XP - DLCMehrunesRazor.esp
 Oblivion XP - DLCThievesDen.esp
 Oblivion XP - DLCVileLair.esp
+
 Oblivion XP - OOO.esp
+
 Oblivion XP - Midas Magic.esp
+
 Oblivion XP - The Ayleid Steps.esp
+Oblivion XP - The Lost Spires.esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -5917,6 +5955,8 @@ Better Lava (by elveon).esp
 MotionBlur.esp
 New_NightEye_Toggle.esp
 QTdof.esp
+omg-dynamicDoF.esp
+omg-staticDoF.esp 
 Real Lava 1.3.esp
 % {{BASH:Graphics}} and deactivate.
 Real Lava.esp

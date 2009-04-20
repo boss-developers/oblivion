@@ -1440,6 +1440,7 @@ CSR - Golden Saint.esp
 % {{BASH:Graphics}}
 Chess Set Complete.esp
 ChitinArmor.esp
+Chrysamere.esp
 Collectable Miniature Daedric Shrines.esp
 crusadercg.esp
 CrystalStaff.esp
@@ -1487,6 +1488,8 @@ extavegant masks.esp
 Elegant Vests.esp
 EpeeHaeliaLatta.esp
 
+FalxMod.esp
+% {{BASH:Invent}}
 Fantasy Mod.esp
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
@@ -1559,6 +1562,8 @@ KDDwemerSpectacles.esp
 Kendo2_Gunman.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
+KhergitScimitar.esp
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
 kibuka-heavy.esp
 kibuka-light.esp
 KIVampires_HoodAddon.esp
@@ -1575,6 +1580,16 @@ Lich King's Helm v1_0.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
 Lyn-ClawsOfTheGreyLady.esp
+
+M&BAxes.esp
+% {{BASH:Invent}}
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
+M&BShields.esp
+% {{BASH:Invent}}
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
+MandBSwords.esp
+% {{BASH:Invent}}
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
 
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
@@ -1618,6 +1633,7 @@ Nicos  Scimitars Side.esp
 Nicos Kynareth Archery.esp
 Nighteye Glasses.obse.esp
 Noble_and_Peasant_Hats.esp
+NordicWeapons.esp
 NosferatuBow.esp
 Negotiator Sword OBSE.esp
 NumenoreanArmor.esp
@@ -1652,6 +1668,8 @@ PerditionsEdge.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 rdweaponpack1.esp
+RedgardWeaponsMod.esp
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
 Reznod Mannequin.esp
 Reznod_Mannequin_HD[Eng].esp
 Rindirs Staves.esp

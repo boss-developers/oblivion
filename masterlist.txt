@@ -4821,6 +4821,41 @@ Talk With Your Hands.esp
 Talk with Your Hands2.esp
 talkwithyourhands2.esp
 talkwithyourhands PI4.esp
+
+\------------------------------------
+\TIE Integration compatibility insert
+\------------------------------------
+
+\TIE In optional addon patches
+
+TIE In - Salmo, Cobl.esp
+TIE In - QarlsHarvest.esp
+TIE In - SlofsHorses.esp
+
+TIE In - Castle Almgard v2.esp
+TIE In - Valley View Estate.esp
+TIE In - VHBloodlines 1.2.esp
+TIE In - Malevolent.esp
+TIE In - TOTF.esp
+
+TIE In - B&M.esp
+TIE In - WelkyndSword B&M.esp
+TIE In - MannimarcoRevisited.esp
+TIE In - SentientWeapon.esp
+TIE In - Kvatch Rebuilt.esp
+
+\Official plugin patches
+
+TIE In - DLCOrrery.esp
+TIE In - DLCThievesDen.esp
+TIE In - DLCFrostcrag.esp
+TIE In - Knights.esp
+
+\Better Cities Patches
+
+TIE In - BC-Anvil.esp
+\-------------------------------------
+
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
 

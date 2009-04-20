@@ -198,6 +198,9 @@ YoungerNPCs.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
+Colourwheels Sexy Female NPCs.esp
+% {{BASH:NpcFaces}}
+
 Cobl Races.esp
 % {{BASH:NpcFaces}}
 Cobl Races TNR.esp
@@ -484,6 +487,7 @@ Weather Debug Ring.esp
 
 Enhanced Water v2.0 ND.esp
 Enhanced Water v2.0 HD.esp
+Enhanced Water v2.0 HDMI.esp
 Improved Water.esp
 Natural_Water_by_Max_Tael.esp
 Better Water.esp
@@ -695,6 +699,7 @@ Akatosh Mount.esp
 ANBToggleGrab.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
+Automagic Bags 1.1.esp
 autosavertest.esp
 Ayleid Loot EXtension.esp
 Azura's Soul-ob.esp
@@ -1166,22 +1171,23 @@ Landmarks With Wells.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Ayelid Wells.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
-Unmarked Places- Wayshrines.esp
-MapMarkers.esp
 AddMapMarkers.esp
+Aurix's_Names.esp
+AyleidStatueMap.esp
+BeyondCyrodiilMarkers.esp
 Guild Map Markers.esp
+HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
 JQ-PortableSigns.esp
+MapMarkers.esp
+Nirnroot Completion.esp
+Oblivion Gate Map Marker Remover.esp
+Oblivion Gate Markers.esp
 Order_Obelisk_Mark.esp
-HouseMapMarkers.esp
-AyleidStatueMap.esp
 ShadowbanishMap.esp
 ShowDaedricShrines.esp
-Nirnroot Completion.esp
-Aurix's_Names.esp
-Oblivion Gate Markers.esp
-Oblivion Gate Map Marker Remover.esp
-BeyondCyrodiilMarkers.esp
+ShrineMarkers.esp 
+Unmarked Places- Wayshrines.esp
 
 \Hotkeys
 \'''''''
@@ -1316,6 +1322,8 @@ Ayleid Artifacts.esp
 Ancient Silver Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
+ArenaEyeCandyArmor.esp
+% {{BASH:Graphics}} if using overhaul mods.
 Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
 ANB_WeaponAddons_SI.esp
@@ -1345,6 +1353,7 @@ Armor of Heaven's Fury-Light.esp
 
 Armory of the Silver Dragon EN.esp
 Arrow_of_Light.esp
+ALE_Armure_Legere.esp
 AlternativeLightArmors12.esp
 AlternativeLightArmors1.2.esp
 Animated Staves.esp
@@ -1839,13 +1848,20 @@ RealSwords - Khajiit LO v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Argonian LO-NPC.esp
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods.
+RealSwords - Redguard LO-NPC.esp
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods.
+RealSwords - Nord LO-NPC SI.esp
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods.
 
 Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
 Mage Equipment - No Manni.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
-
-
 
 \To be alphabetically sorted sometime.
 
@@ -1886,6 +1902,8 @@ ArchersDesire2.esp
 ArkaySword.esp
 Armors of the Black Moon - EV.esp
 ? Requires Shivering Isles
+FashionAnvil.esp
+
 Daedric_Katana_0.4_leveled_only.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
 Daedric_Katana_0.4_vendors_and_leveled.esp
@@ -1914,6 +1932,7 @@ UFF & ROBERT Assassin Elite Armor.esp
 UFF Blood Ice.esp
 UFF & ROBERT Cold Steel.esp
 Babarized DiverseImperialArmor.esp
+% {{BASH:Graphics}} if using overhaul mods.
 Babarized DunmerScaleMail.esp
 Babarized GCDrapedGowns.esp
 Babarized EternalDragonArmor.esp
@@ -2047,6 +2066,7 @@ StockClothingArmorHGECFighterD.esp
 % {{BASH:Graphics}}
 HGEC_BodyGlove.esp
 HGEC_Rogue01.esp
+% {{BASH:Graphics}}
 Robed Panty.esp
 Opale armor for Exnem body.esp
 GoddessArmor_Exnem.esp
@@ -2054,7 +2074,6 @@ Emerald armor for Exnem body.esp
 300_Brocade_Outfits.esp
 CrimsonEyeCandy.esp
 Crimson Eyecandy White.esp
-CrimsonHGEC.esp
 EC_BlackDeathWarrRetex.esp
 BlackRogue.esp
 darkrosearmor.esp
@@ -2112,10 +2131,12 @@ Grim Reaper.esp
 shadow lord_normal.esp
 A Very Silly Slaughterfish Mod.esp
 fishclub.esp
+
 FF7 Swords 01 complete tsurugi.esp
 FF7 Swords 05 back butterfly.esp
 FF7 Swords 04 side rune.esp
 FF7 Swords 03 blade ogre nix.esp
+
 Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
 SB TES4 Oblivion Crossbow Mod v8.5.esp
 More_Shields.esp
@@ -2126,6 +2147,43 @@ Obsidian Axe.esp
 Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
+
+\Not For Free Armor
+\''''''''''''''''''
+\
+\Relev tag suggested at http://www.bethsoft.com/bgsforums/index.php?s=&showtopic=971771&view=findpost&p=14042504
+
+tona_simple_dress-armor_ver3.esp
+% {{BASH:Relev}} if using Not For Free mod.
+tona_whitesquall-armor.esp
+% {{BASH:Relev}} if using Not For Free mod.
+Gloria Armor.esp
+% {{BASH:Relev}} if using Not For Free mod.
+Argent Iron Armor.esp
+% {{BASH:Relev}} if using Not For Free mod.
+DianoArmor2.esp
+% {{BASH:Relev}} if using Not For Free mod.
+CrimsonHGEC.esp
+% {{BASH:Relev}} if using Not For Free mod.
+The Sexy BeastV1.2.esp
+% {{BASH:Relev}} if using Not For Free mod.
+Hentai_LovelySuits.esp
+% {{BASH:Relev}} if using Not For Free mod.
+Dark_Mistress.esp
+% {{BASH:Relev}} if using Not For Free mod.
+HGEC Rogue Mage & Scoundrel.esp
+% {{BASH:Relev}} if using Not For Free mod.
+Hentai_AthenaArmour.esp
+% {{BASH:Relev}} if using Not For Free mod.
+DM-Butterfly Widow.esp
+% {{BASH:Relev}} if using Not For Free mod.
+HGEC_Snow Robe, Century Corset.esp
+% {{BASH:Relev}} if using Not For Free mod.
+HaydoxRapier.esp
+% {{BASH:Relev}} if using Not For Free mod.
+GizmodianSorceress.esp
+% {{BASH:Relev}} if using Not For Free mod.
+
 
 \----------
 \Horse Mods
@@ -3079,6 +3137,7 @@ Aqua_City_01.esp
 ? Requires Shivering Isles
 AranMathi.esp
 ArboretumHouse.esp
+Arborwatch.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane University Telescope.esp
@@ -3111,9 +3170,12 @@ Divine Elegance Upgrade.esp
 Bandit Hideouts.esp
 bazOOkasWatchTowers_v1.esp
 BeldaElysium.esp
+
 Benirus Manor Remade.esp
 Benirus' Past.esp
 Better Benirus Manor v1.1.esp
+Better Benirus Manor.esp
+
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -3290,6 +3352,7 @@ goldenarrowarcheryshopfixedprices.esp
 GP_Moretta.esp
 GTAesgaard.esp
 Guardians of the Nine - Akatosh Chantry.esp
+GuardsofCyrodiil.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 
@@ -3591,6 +3654,7 @@ The Necromancers start V1.0.esp
 The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
 ? Not compatible with Better Cities.
+The Power of the North.esp
 The Siren's Deception.esp
 The_Dragon_Citadel-6178.esp
 
@@ -3840,6 +3904,9 @@ Mart's Monster Mod - Knights.esp
 Mart's Monster Mod for OOO - Knights .esp
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
+
+Wayshrine Fix.esp
+% {{BASH:Merge}}
 KotN Wayshrine Fix.esp
 % {{BASH:Merge}}
 
@@ -3990,6 +4057,7 @@ Faregyl-FGRoad-Patch.esp
 TVIcar.esp
 
 FortAkatosh.esp
+FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 
 \Unique Landscapes and compatibility patches
@@ -4602,11 +4670,14 @@ DecoratorAssistant with OBSE v1.1.esp
 DecoratorAssistant Unlock for OBSE version.esp
 DecoratorAssistant with OBSE v1.11_Unofficial.esp
 Delmar_the_Soulgem_Salesman-5069.esp
+dhsRTentwithSorter.esp
+? Requires COBL.
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
 Dousing The Flames.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
+DS Less Predictable Respawn.esp
 dhsRTentwithSorter.esp
 ? Requires COBL.
 
@@ -4618,6 +4689,7 @@ Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Essential_Trainers-8374.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
+% {{BASH:Graphics,Names}}
 
 Dungeon Actors Have Torches 1.6 CT.esp
 Dungeon Actors Have Torches 1.6 DT.esp
@@ -5045,6 +5117,7 @@ encumbrance.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
 More Capacity Encumbrance with Fatigue.esp
+Carry_four_times_more_loot-7515.esp
 
 Vim_and_Vigor.esp
 Vim_and_Vigor_2.5x.esp
@@ -5250,6 +5323,7 @@ Wizard's Vengeance Spells.esp
 no spell limit.esp
 spelliconreplace.esp
 tMBSP.esp
+RefScope.esp
 Duke Patricks Elemental Shield Wall Scroll.esp
 
 AgarMoreVariedSpellEffects.esp
@@ -5857,6 +5931,7 @@ Level_Rates_Modified_x5.esp
 Mayu's Animation Overhaul.esp
 
 personality_idles2.esp
+personality_idles3b_nc.esp
 personality_idles4.esp
 personality_idles4_nopc.esp
 
@@ -6210,6 +6285,10 @@ PHVanillaEyesAddon.esp
 % {{BASH:Eyes}}
 elveons realistic eyes.esp
 % {{BASH:Eyes}}
+Cernasite - DragonEyes.esp
+% {{BASH:Eyes}}
+JCPeepers.esp
+% {{BASH:Eyes}}
 
 \Mixed
 \'''''
@@ -6330,6 +6409,62 @@ Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 ? Choose only one 'Assassins Creed' ESP.
 
+\Race Balancing Project part 2
+\'''''''''''''''''''''''''''''
+
+bgBalancingOptionalLessHealth.esp
+bgBalancingEVOptionalClasses.esp
+bgBalancingEVOptionalFangs.esp
+bgBalancingEVOptionalMoreEyes.esp
+
+bgBalancingEVOptionalNPCDiversity, Beautification.esp
+? Use only one 'OptionalNPCDiversity' file.
+bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp
+? Use only one 'OptionalNPCDiversity' file.
+bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
+? Use only one 'OptionalNPCDiversity' file.
+
+bgBalancingEVOptionalHalvedMagicka.esp
+bgBalancingEVOptionalWeaker.esp
+bgBalancingEVOptionalWeakerOrcs.esp
+bgBalancingOptionalNoRaceDisp.esp
+bgBalancingVanillaGMSTArmorPenalty.esp
+bgBalancingVanillaGMSTMagickaPerInt.esp
+bgBalancingVanillaGMSTMagickaRegeneration.esp
+bgBalancingVanillaGMSTSpellCostProgression.esp
+
+bgBalancingEVOptionalBetterRedguards.esp
+? Requires Better Redguards installed with its ESP deactivated.
+
+bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
+? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+bgBalancingOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
+? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+bgBalancingOptionalNPCDiversity, TNR Merge Better Redguards.esp
+? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+
+bgBalancingEVOptionalFCOMAdditions.esp
+
+bgBalancingOptionalFranAddition.esp
+* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
+
+bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
+
+bgBalancingEVLAMEAddition.esp
+? Requires LAME and Shivering Isles.
+bgBalancingEVLAMEGlue.esp
+? Requires LAME and Shivering Isles.
+bgBalancingEVOptionalNPCDiversityLAME.esp
+
+bgBalancingEVLAMEIntegration.esp
+
+bgBalancingEVOptionalSeamReducerHighElfFix.esp
+? Requires Shivering Isles and Luchaire's Body Seam Reducer.
+
+
 \Merges and combinations
 \'''''''''''''''''''''''
 
@@ -6388,80 +6523,20 @@ Diverse NPCs.esp
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 
-\Other
-\'''''
+Cobl - NPCDiversity - TNR Merge.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+
+\Other race/beauty/birthsign overrides.
+\''''''''''''''''''''''''''''''''''''''
 
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 sr_race_balance_tweaks.esp
-
-\Race Balancing Project part 2
-\'''''''''''''''''''''''''''''
-
-bgBalancingEVOptionalClasses.esp
-bgBalancingOptionalLessHealth.esp
-bgBalancingEVOptionalFangs.esp
-bgBalancingEVOptionalMoreEyes.esp
-
-bgBalancingEVOptionalHalvedMagicka.esp
-bgBalancingEVOptionalWeaker.esp
-bgBalancingEVOptionalWeakerOrcs.esp
-bgBalancingOptionalNoRaceDisp.esp
-bgBalancingVanillaGMSTArmorPenalty.esp
-bgBalancingVanillaGMSTMagickaPerInt.esp
-bgBalancingVanillaGMSTMagickaRegeneration.esp
-bgBalancingVanillaGMSTSpellCostProgression.esp
-
-bgBalancingEVOptionalNPCDiversity, Beautification.esp
-? Use only one of the three OptionalNPCDiversity files.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp
-? Use only one of the three OptionalNPCDiversity files
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
-? Use only one of the three OptionalNPCDiversity files.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVOptionalFCOMAdditions.esp
-? Requires FCOM.
-bgBalancingOptionalFranAddition.esp
-* Delete. Not FCOM compatible.
-bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
-? Requires Kvatch Rebuilt.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVLAMEAddition.esp
-? Requires LAME and Shivering Isles.
-bgBalancingEVLAMEIntegration.esp
-? Requires LAME.
-bgBalancingEVOptionalNPCDiversityLAME.esp
-? Requires LAME.
-bgBalancingEVOptionalBetterRedguards.esp
-? Requires Better Reguards.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
-? Requires Better Redguards installed with its ESP deactivated.
-? Be sure to use only one 'OptionalNPCDiversity...Redguard' plugin.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
-? Requires Better Redguards installed with its ESP deactivated.
-? Be sure to use only one 'OptionalNPCDiversity...Redguard' plugin.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingOptionalNPCDiversity, TNR Merge Better Redguards.esp
-? Requires Better Redguards installed with its ESP deactivated.
-? Be sure to use only one 'OptionalNPCDiversity...Redguard' plugin.
-? Requires Wrye Bash Bashed Patch.
-bgBalancingEVOptionalSeamReducerHighElfFix.esp
-? Requires Shivering Isles and Luchaire's Body Seam Reducer.
-bgBalancingEVLAMEGlue.esp
-? Requires LAME and Shivering Isles.
-
 Cobl Races - Balanced.esp
-
-\Final race/beauty overrides.
-\''''''''''''''''''''''''''''
-
 Diverse Races.esp
 Better_Berserk-2177.esp
 Willful Resistance.esp
+
 KT_CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 CustomRaceFix.esp
@@ -6471,12 +6546,13 @@ Patch Naked NPCs.esp
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 
+
 \----------
 \Companions
 \----------
 \Those related to companion mod systems. Most others in Quests section.
 \Recommended by authors to load very late.
-\Should go after custom races when the companion is a custom race.
+\Should go after custom races where the companion is a custom race.
 
 Toaster Says Share 2.11.esp
 Toaster Says Share.esp
@@ -6509,34 +6585,35 @@ cssNalia.esp
 cssSafana.esp
 cssSarevok.esp
 
-Shivering Creature Companion.esp
-SnowAndHarukoCMPartners.esp
-AsharasCMPartners.esp
 Aliyah.esp
 Arwen companion.esp
+AsharasCMPartners.esp
 Badmagic - Amazon Nord 02.esp
+CM Partner Jordie1.esp
+Cog-Rein.esp
 companion.esp
 Companion Neeshka.esp
+Dogmeat Companion.esp
+DremoraCompanion.esp
+Eluna.esp
+GG_Valeria_Revived.esp
+GG_Vincente.esp
+Haowen.esp
+KendoGirl_Final.esp
+Nec-Character_Eva.esp
+PetsOfChorrol.esp
+Ramy Enfant.esp
+Rhianna.esp
+Rinn.esp
 Saerileth.esp
+Shivering Creature Companion.esp
+SnowAndHarukoCMPartners.esp
 Sonia.esp
 Tamara.esp
 Viconia.esp
-CM Partner Jordie1.esp
-Eluna.esp
-Cog-Rein.esp
-GG_Valeria_Revived.esp
-GG_Vincente.esp
-KendoGirl_Final.esp
-Ramy Enfant.esp
+
 DAJynx.esp
 ? Requires OBSE.
-PetsOfChorrol.esp
-Rinn.esp
-Rhianna.esp
-DremoraCompanion.esp
-Nec-Character_Eva.esp
-Dogmeat Companion.esp
-
 DAClair.esp
 DAEva.esp
 DAValeriaCuteElf.esp
@@ -6557,7 +6634,7 @@ DASephirothCompanion.esp
 \--------
 
 Cobl Filter Late MERGE ONLY.esp
-? Make sure it is deactivated.
+? Make sure it is deactivated. Must be merged into Bashed Patch
 Cobl Silent Equip Misc.esp
 
 Better Cities IC Arboretum.esp
@@ -6709,8 +6786,8 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 % {{BASH:Sound}}
 
 
-/And Back To Normal...
-/'''''''''''''''''''''
+/-------------------------------
+
 
 CleanQuit.esp
 

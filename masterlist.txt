@@ -1385,6 +1385,8 @@ Baedoona_recurve_bow.esp
 Banes Guilds United.esp
 ? May have trouble with OOO. Untested.
 BarbarianShop.esp
+Battle_Tattoos_v1.esp
+% {{BASH:Invent}}
 bcrich.esp
 BlackSoulGemArmory.esp
 Bows of the Orient.esp
@@ -1420,6 +1422,7 @@ BowOfShadows.esp
 Buster Sword R.esp
 
 c_dagcol.esp
+c_dragondagger.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
@@ -1438,6 +1441,7 @@ CSR - Fine Iron.esp
 % {{BASH:Graphics}}
 CSR - Golden Saint.esp
 % {{BASH:Graphics}}
+ChainHoods.esp
 Chess Set Complete.esp
 ChitinArmor.esp
 Chrysamere.esp
@@ -1477,12 +1481,16 @@ Dark-Stealth Gear.esp
 Deceiver's Armour.esp
 Divine Armor.esp
 DraconicSet.esp
+Dragon Buster.esp
 Dragon Scale Armor.esp
 
 ElegantVests.esp
+Emperor's Heavy War Armor.esp
+% {{BASH:Invent}}
 Eternal Dragon Armor light.esp
 Eternal Dragon Armor Heavy.esp
 Ethereal - Armor Imperial Legion Edition.esp
+Ethereal - Armor Imperial Legion Edition AR.esp
 Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
@@ -1529,6 +1537,7 @@ Harlequin Armour 0.6.esp
 Hashshashin Armor.esp
 HB Elven Sunbreaker Shortsword.esp
 HB Legacy Dwemer Weapons.esp
+Hel Borne Spear Set.esp
 HelmetCollection.esp
 HENTAI's gift.esp
 HiddenSkulls.esp
@@ -1562,6 +1571,7 @@ KDDwemerSpectacles.esp
 Kendo2_Gunman.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
+Khamai Leon Armor.esp
 KhergitScimitar.esp
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
 kibuka-heavy.esp
@@ -1632,6 +1642,7 @@ Nicos  Scimitars Side.esp
 \Flaming death to people who put double spaces in their file names!! :p
 Nicos Kynareth Archery.esp
 Nighteye Glasses.obse.esp
+ninjacowl.esp
 Noble_and_Peasant_Hats.esp
 NordicWeapons.esp
 NosferatuBow.esp
@@ -1688,6 +1699,7 @@ Sauron_Armor_Chest.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
+ShadowMailArmor_v.1.0.esp
 Shdw_Armor pack01.esp
 Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
@@ -1719,6 +1731,8 @@ SomeRobes.esp
 SoT_Rise of Sheogorath.esp
 SoulCalibur1h.esp
 SoulCalibur2h.esp
+spartanspears.esp
+% {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
 Star Boi's Keyblades In-Game.esp
 Staves&Polearms&Spears.esp
@@ -1740,6 +1754,8 @@ The Bow of the Mongolian Horseman.esp
 The Butcher.esp
 The Doomed King.esp
 The legendary Archer - EV.esp
+The Little Weapon Pack OB.esp
+% {{BASH:Invent}}
 The One Ring.esp
 The Sword of Cyrodiil.esp
 tkRapiers.esp
@@ -1774,12 +1790,14 @@ VA_UniqueKatana1.esp
 VA_UniqueKatana1Replace.esp
 vermillionandsilverthorn.esp
 Villain's Arsenal.esp
-
+volkoth.esp
 VSPTensaZangetsu.esp
 
+WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
 
+Xifr's Seperated Dark Brotherhood Armour.esp
 XSPipeMod.esp
 XiaValentinesDayGift07.esp
 ? May not be compatible with anything that modifies the Tiber Septim Hotel.

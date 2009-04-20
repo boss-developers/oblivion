@@ -1147,6 +1147,11 @@ Choices and Consequences.esp
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner}}
 
+Duke Patricks - Who Goes There.esp
+Duke Patricks - Friendship Ring For Companion Detection.esp
+Duke Patricks - Minimalistic Hunger.esp
+Duke Patricks - Semi Unlimited Rings And Amulets.esp
+
 \Map marker Tweaks
 \'''''''''''''''''
 \Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
@@ -3729,6 +3734,11 @@ ArenaGamblingHighRollers.esp
 
 OBF Arena Fix.esp
 
+Duke Patricks Dragon and the Sword of Might.esp
+? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
+Duke Patricks Dragon and the Sword of Might Light Version.esp
+? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
+
 \-----
 \DLC 3
 \-----
@@ -4134,6 +4144,33 @@ Moriarcis.esp
 300 Arcane University.esp
 PersonalPackGuars.esp
 Duke Patricks Sickness Alarm.esp
+% {{BASH:Sound}}
+
+Duke Patrick's Old Man on the Mountain.esp
+Duke Patricks Street Performer.esp
+Duke Patricks - Street Performer.esp
+
+Duke Patricks Dont Be A Soch.esp
+Duke Patricks - Dont Be A Soch.esp
+
+Duke Patrick's Health Alarm.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH:Sound}}
+Duke Patrick's Health Alarm RED DEATH with heartbeat NO human yells.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH:Sound}}
+Duke Patrick's Health Alarm with Fadeout.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH:Sound}}
+Duke Patrick's Health Alarm with RED DEATH.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH:Sound}}
+Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH:Sound}}
+
+Duke Patricks The Lady said NO.esp
+DukePatricksTheLadysaidNO.esp
 
 \Better Cities - English version + patches
 \'''''''''''''''''''''''''''''''''''''''''
@@ -5017,6 +5054,8 @@ DA Sprint.esp
 NoBackwardsRunning.esp
 ReducedBackwardsSpeed.esp
 StumbleRunningBackwards.esp
+Duke Patricks Running Backwards RISK.esp
+Duke Patricks - Running Backwards RISK.esp
 
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
@@ -5042,12 +5081,20 @@ Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
 Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
+Duke patricks jump modifier.esp
+? Use Wyre Bash's Bash Patch Jump Higher option instead.
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
 PC Sleep Disrober.esp
 RealSleep.esp
 RealSleepExtended.esp
 SM Rest.esp
+
+
+Duke Patricks Hydration and Water Harvesting.esp
+Duke Patricks - Hydration and Water Harvesting.esp
+Duke Patricks - Basic Hypothermia.esp
+Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 \Vampires
 \''''''''
@@ -5192,6 +5239,7 @@ Wizard's Vengeance Spells.esp
 no spell limit.esp
 spelliconreplace.esp
 tMBSP.esp
+Duke Patricks Elemental Shield Wall Scroll.esp
 
 AgarMoreVariedSpellEffects.esp
 
@@ -5316,6 +5364,14 @@ bgMagicEVNoSummonGlow.esp
 
 qazFingerSnap.esp
 Finger Snap.esp
+
+Duke Patrick's magic you can believe in 4p5.esp
+? Old. Consider updating.
+% {{BASH:Sound}}
+Duke Patrick's magic you can believe in 5.esp
+% {{BASH:Sound}}
+Duke Patricks - Magic you can believe in.esp
+% {{BASH:Sound}}
 
 \Alchemy
 \'''''''
@@ -5500,6 +5556,7 @@ Push_Shove_Die.esp
 Kythrius_Mod.esp
 Kythrius_Mod_OBSE.esp
 Denock Arrows.esp
+Duke Patricks Basic Denock Arrows.esp
 Enhanced_Hand_to_hand-2329.esp
 Fiery Fists v1.2.esp
 WB Dynamic Weapon Speeds.esp
@@ -5543,6 +5600,44 @@ DeadlyReflex 5 - Combat Moves.esp
 SM_DeadlyReflex.esp
 
 Deadly Reflex Bow Sway.esp
+
+Duke Patricks - Stat Based Bob And Weave.esp
+Duke Patricks - Momentum Lite Damage Bonus.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks Momentum Damage Bonus Light.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks Momentum Super Damage Bonus.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks - Momentum Damage And Jump Risk.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks - NPCs Now Bob Under Your Shots.esp
+? Only use one 'Bob Under Your Shots' mod.
+Duke Patrick's NPCs Now Bob Under Your Shots.esp
+? Only use one 'Bob Under Your Shots' mod.
+Duke Patrick's Vampires Bob Under Your Shots.esp
+? Only use one 'Bob Under Your Shots' mod.
+Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
+
+Duke Patricks - Bob and Weave Dodge Mark II.esp
+Duke Patricks Bob and Weave Dodge GOLD Edition.esp
+Duke Patricks - Stat Based Bob And Weave.esp
+
+Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
+? Check for newer version.
+Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
+? Check for newer version.
+Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
+Duke Patricks - arrow shots alarm the targets.esp
+
+Duke Patricks NPC Arrow Shots Can Miss Now.esp
+? Check for newer version.
+Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
+? Check for newer version
+Duke Patricks - Fresh Kills Now Alert The NPCs.esp
+
+Duke Patrick's Smash of the Titans.esp
+Duke Patrick`s Smash of the Titans.esp
+Duke Patricks - Smash Of The Titans.esp
 
 \Skills, Attributes and leveling
 \'''''''''''''''''''''''''''''''
@@ -5808,6 +5903,20 @@ M.O.E. - Better Icon for Script Effects.esp
 Stat Restore.esp
 
 Arena betting.esp
+
+Duke Patricks - BASIC Script Effect Silencer.esp
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer.esp
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Rev 2.esp
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Silver Edition.esp
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Gold Edition.esp
+% {{BASH:Sound}}
+Duke Patricks - BASIC Script Effect Silencer BETA.esp
+% {{BASH:Sound}}
+
 
 \Message suppression
 \'''''''''''''''''''
@@ -6494,44 +6603,10 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? You could try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
-Duke Patricks Dragon and the Sword of Might.esp
-? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
-Duke Patricks Dragon and the Sword of Might Light Version.esp
-? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
-Duke Patrick's Old Man on the Mountain.esp
-
-Duke patricks jump modifier.esp
-
-Duke Patricks Street Performer.esp
-Duke Patricks - Street Performer.esp
-
-Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
-? Check for newer version.
-Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
-? Check for newer version.
-Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
-Duke Patricks - arrow shots alarm the targets.esp
-
-Duke Patricks Hydration and Water Harvesting.esp
-Duke Patricks - Hydration and Water Harvesting.esp
-Duke Patricks - Basic Hypothermia.esp
-Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
-
-Duke Patricks - NPCs Now Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patrick's NPCs Now Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patrick's Vampires Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
-
-Duke Patricks Elemental Shield Wall Scroll.esp
-
-Duke Patrick's magic you can believe in 4p5.esp
-? Old. Try version 5 or later.
-Duke Patrick's magic you can believe in 5.esp
-Duke Patricks - Magic you can believe in.esp
+/Unsorted Duke Patrick's Mods
+/''''''''''''''''''''''''''''
+/Mods that have not been sorted with definite positions, and have not all had bash tags added.
 
 Duke Patrick's Lockpick challange Autopick.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
@@ -6540,46 +6615,11 @@ Duke Patrick's Lockpick challange Manual.esp
 
 Duke Patrick's Repair challange.esp
 
-Duke Patrick's Health Alarm.esp
-? Only use one 'Health Alarm' mod. Choose.
-Duke Patrick's Health Alarm RED DEATH with heartbeat NO human yells.esp
-? Only use one 'Health Alarm' mod. Choose.
-Duke Patrick's Health Alarm with Fadeout.esp
-? Only use one 'Health Alarm' mod. Choose.
-Duke Patrick's Health Alarm with RED DEATH.esp
-? Only use one 'Health Alarm' mod. Choose.
-
-Duke Patricks - Bob and Weave Dodge Mark II.esp
-Duke Patricks Bob and Weave Dodge GOLD Edition.esp
-Duke Patricks - Stat Based Bob And Weave.esp
-
-Duke Patricks - Momentum Lite Damage Bonus.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks Momentum Damage Bonus Light.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks Momentum Super Damage Bonus.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks - Momentum Damage And Jump Risk.esp
-? Only use one 'Momentum Damage' mod.
-
-Duke Patricks NPC Arrow Shots Can Miss Now.esp
-? Check for newer version.
-Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
-? Check for newer version
-Duke Patricks - Fresh Kills Now Alert The NPCs.esp
-
 Duke Patricks - Basic Combat Geometry.esp
-
-Duke Patricks Basic Denock Arrows.esp
-
-Duke Patricks Running Backwards RISK.esp
-Duke Patricks - Running Backwards RISK.esp
 
 Duke Patricks - Shield Charge.esp
 
 Duke Patricks - Custom Melee Weapons Made Compatible.esp
-
-Duke Patricks The Lady said NO.esp
 
 Duke Patricks SCA Melee combat with NO RECOIL.esp
 ? Check for newer version.
@@ -6602,19 +6642,19 @@ Duke Patrick's SCA Combat Archery patch for RBP No SI.esp
 Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
 
 Duke Patricks - SCA Shield Tricks.esp
+% {{BASH:Sound}}
 Duke Patricks - Combat Magic.esp
+% {{BASH:Sound}}
 
 Duke Patrick's So you think you are a war god 1.2.esp
 ? Use only one 'so you think' mod. Choose.
 Duke Patricks So you think you are a war god MARK II.esp
 ? Use only one 'so you think' mod. Choose.
 
-Duke Patrick's Smash of the Titans.esp
-Duke Patrick`s Smash of the Titans.esp
-Duke Patricks - Smash Of The Titans.esp
-
 Duke Patricks Nosferatu Vampires.esp
+% {{BASH:Sound}}
 Duke Patricks - Nosferatu Class Vampires.esp
+% {{BASH:Sound}}
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
 Duke Patrick's Zombie Flied 4p1.esp
@@ -6622,11 +6662,9 @@ Duke Patrick's Zombie Flied 4p1.esp
 Duke Patricks Contagious Zombies.esp
 
 Duke Patrick's more & better loot.esp
-Duke Patricks - BASIC Script Effect Silencer.esp
-Duke Patricks Script Effect Silencer.esp
-Duke Patricks Script Effect Silencer Rev 2.esp
-Duke Patricks Script Effect Silencer Silver Edition.esp
-Duke Patricks Script Effect Silencer Gold Edition.esp
+
+/And Back To Normal...
+/'''''''''''''''''''''
 
 CleanQuit.esp
 

@@ -4148,9 +4148,11 @@ Duke Patricks Sickness Alarm.esp
 
 Duke Patrick's Old Man on the Mountain.esp
 Duke Patricks Street Performer.esp
+? Old. Upgrade to latest version.
 Duke Patricks - Street Performer.esp
 
 Duke Patricks Dont Be A Soch.esp
+? Old. Upgrade to latest version.
 Duke Patricks - Dont Be A Soch.esp
 
 Duke Patrick's Health Alarm.esp
@@ -4170,7 +4172,9 @@ Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 % {{BASH:Sound}}
 
 Duke Patricks The Lady said NO.esp
+? Old. Upgrade to latest version.
 DukePatricksTheLadysaidNO.esp
+
 
 \Better Cities - English version + patches
 \'''''''''''''''''''''''''''''''''''''''''
@@ -4607,6 +4611,7 @@ dhsRTentwithSorter.esp
 ? Requires COBL.
 
 Duke Patricks Dont Be A Soch.esp
+Duke Patrick's Repair challange.esp
 
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
@@ -5055,6 +5060,7 @@ NoBackwardsRunning.esp
 ReducedBackwardsSpeed.esp
 StumbleRunningBackwards.esp
 Duke Patricks Running Backwards RISK.esp
+? Old. Upgrade to latest version.
 Duke Patricks - Running Backwards RISK.esp
 
 ANB_Regen.esp
@@ -5081,20 +5087,18 @@ Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
 Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
-Duke patricks jump modifier.esp
-? Use Wyre Bash's Bash Patch Jump Higher option instead.
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
+Duke patricks jump modifier.esp
 PC Sleep Disrober.esp
 RealSleep.esp
 RealSleepExtended.esp
 SM Rest.esp
 
-
-Duke Patricks Hydration and Water Harvesting.esp
-Duke Patricks - Hydration and Water Harvesting.esp
 Duke Patricks - Basic Hypothermia.esp
-Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
+Duke Patricks Hydration and Water Harvesting.esp
+? Old. Upgrade to latest version.
+Duke Patricks - Hydration and Water Harvesting.esp
 
 \Vampires
 \''''''''
@@ -5133,6 +5137,13 @@ Muggervamp.esp
 Blood Is Everything.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
+Duke Patricks Nosferatu Vampires.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks - Nosferatu Class Vampires.esp
+% {{BASH:Sound}}
+Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
+
 
 
 \Race Balancing Project part 1
@@ -5366,12 +5377,14 @@ qazFingerSnap.esp
 Finger Snap.esp
 
 Duke Patrick's magic you can believe in 4p5.esp
-? Old. Consider updating.
+? Old. Upgrade to latest version.
 % {{BASH:Sound}}
 Duke Patrick's magic you can believe in 5.esp
+? Old. Upgrade to latest version.
 % {{BASH:Sound}}
 Duke Patricks - Magic you can believe in.esp
 % {{BASH:Sound}}
+
 
 \Alchemy
 \'''''''
@@ -5534,6 +5547,11 @@ Enhanced Grabbing.esp
 Enhanced Grabbing - Debug.esp
 ? Old version. Consider updating.
 
+Duke Patrick's Lockpick challange Autopick.esp
+? Only use one 'Lockpick challenge' mod. Choose.
+Duke Patrick's Lockpick challange Manual.esp
+? Only use one 'Lockpick challenge' mod. Choose.
+
 \Combat
 \''''''
 \Overrides 'overhauls'.
@@ -5600,8 +5618,32 @@ DeadlyReflex 5 - Combat Moves.esp
 SM_DeadlyReflex.esp
 
 Deadly Reflex Bow Sway.esp
+Deadly Reflex - Breathing Motion & Head Bobbing.esp
+
+
+
+Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
+? Old. Upgrade to latest version.
+Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
+? Old. Upgrade to latest version.
+Duke Patricks - arrow shots alarm the targets.esp
+? Old. Upgrade to latest version.
+Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
 
 Duke Patricks - Stat Based Bob And Weave.esp
+? Old. Upgrade to latest version.
+Duke Patricks Bob and Weave Dodge GOLD Edition.esp
+? Old. Upgrade to latest version.
+Duke Patricks - Bob and Weave Dodge Mark II.esp
+
+Duke Patricks - NPCs Now Bob Under Your Shots.esp
+? Old. Upgrade to latest version.
+Duke Patrick's NPCs Now Bob Under Your Shots.esp
+? Old. Upgrade to latest version.
+Duke Patrick's Vampires Bob Under Your Shots.esp
+? Old. Upgrade to latest version.
+Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
+
 Duke Patricks - Momentum Lite Damage Bonus.esp
 ? Only use one 'Momentum Damage' mod.
 Duke Patricks Momentum Damage Bonus Light.esp
@@ -5610,34 +5652,25 @@ Duke Patricks Momentum Super Damage Bonus.esp
 ? Only use one 'Momentum Damage' mod.
 Duke Patricks - Momentum Damage And Jump Risk.esp
 ? Only use one 'Momentum Damage' mod.
-Duke Patricks - NPCs Now Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patrick's NPCs Now Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patrick's Vampires Bob Under Your Shots.esp
-? Only use one 'Bob Under Your Shots' mod.
-Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
-
-Duke Patricks - Bob and Weave Dodge Mark II.esp
-Duke Patricks Bob and Weave Dodge GOLD Edition.esp
-Duke Patricks - Stat Based Bob And Weave.esp
-
-Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
-? Check for newer version.
-Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
-? Check for newer version.
-Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
-Duke Patricks - arrow shots alarm the targets.esp
 
 Duke Patricks NPC Arrow Shots Can Miss Now.esp
-? Check for newer version.
+? Old. Upgrade to latest version.
 Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
-? Check for newer version
+
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
 
+Duke Patrick's Zombie Flied 4p1.esp
+? Obsolete. Replaced by Duke Patrick's Combat Geometry.
+Duke Patricks Contagious Zombies.esp
+? Obsolete. Replaced by Duke Patrick's Combat Geometry.
+Duke Patricks - Basic Combat Geometry.esp
+
 Duke Patrick's Smash of the Titans.esp
+? Old. Upgrade to latest version.
 Duke Patrick`s Smash of the Titans.esp
+? Old. Upgrade to latest version.
 Duke Patricks - Smash Of The Titans.esp
+
 
 \Skills, Attributes and leveling
 \'''''''''''''''''''''''''''''''
@@ -5903,19 +5936,6 @@ M.O.E. - Better Icon for Script Effects.esp
 Stat Restore.esp
 
 Arena betting.esp
-
-Duke Patricks - BASIC Script Effect Silencer.esp
-% {{BASH:Sound}}
-Duke Patricks Script Effect Silencer.esp
-% {{BASH:Sound}}
-Duke Patricks Script Effect Silencer Rev 2.esp
-% {{BASH:Sound}}
-Duke Patricks Script Effect Silencer Silver Edition.esp
-% {{BASH:Sound}}
-Duke Patricks Script Effect Silencer Gold Edition.esp
-% {{BASH:Sound}}
-Duke Patricks - BASIC Script Effect Silencer BETA.esp
-% {{BASH:Sound}}
 
 
 \Message suppression
@@ -6602,66 +6622,92 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
 ? You could try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
-Deadly Reflex - Breathing Motion & Head Bobbing.esp
 
-/Unsorted Duke Patrick's Mods
+/Unknown Duke Patrick's Mods
 /''''''''''''''''''''''''''''
-/Mods that have not been sorted with definite positions, and have not all had bash tags added.
-
-Duke Patrick's Lockpick challange Autopick.esp
-? Only use one 'Lockpick challenge' mod. Choose.
-Duke Patrick's Lockpick challange Manual.esp
-? Only use one 'Lockpick challenge' mod. Choose.
-
-Duke Patrick's Repair challange.esp
-
-Duke Patricks - Basic Combat Geometry.esp
-
-Duke Patricks - Shield Charge.esp
-
-Duke Patricks - Custom Melee Weapons Made Compatible.esp
-
-Duke Patricks SCA Melee combat with NO RECOIL.esp
-? Check for newer version.
-Duke Patrick's SCA style combat NO RECOIL Rev 6.esp
-? Check for newer version.
-Duke Patricks - SCA Melee Combat with NO RECOIL.esp
+/Mods that I do not recognise, nor exist in Duke Patrick's load order guidelines, or on TES Nexus.
+/I shall PM spookyfx about them.
 
 Duke Patrick ShiveringIsles patch 1.1.esp
 
-Duke Patricks SCA Combat Archery.esp
-Duke Patricks - SCA Combat Archery.esp
+Duke Patrick's more & better loot.esp
 
-Duke Patrick's SCA Combat Archery patch for CnC.esp
-Duke Patrick's SCA Combat Archery patch for LAME.esp
-Duke Patrick's SCA Combat Archery Patch for MMM.esp
-Duke_Patricks SCA_Combat_Archery_Patch_for_MMM.esp
-Duke Patrick's SCA Combat Archery patch for OOO v2.esp
-Duke Patrick's SCA Combat Archery patch for RBP.esp
-Duke Patrick's SCA Combat Archery patch for RBP No SI.esp
-Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
-
-Duke Patricks - SCA Shield Tricks.esp
-% {{BASH:Sound}}
-Duke Patricks - Combat Magic.esp
-% {{BASH:Sound}}
+Duke Patricks - Custom Melee Weapons Made Compatible.esp
 
 Duke Patrick's So you think you are a war god 1.2.esp
 ? Use only one 'so you think' mod. Choose.
 Duke Patricks So you think you are a war god MARK II.esp
 ? Use only one 'so you think' mod. Choose.
 
-Duke Patricks Nosferatu Vampires.esp
-% {{BASH:Sound}}
-Duke Patricks - Nosferatu Class Vampires.esp
-% {{BASH:Sound}}
-Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
-Duke Patrick's Zombie Flied 4p1.esp
-? Check for newer version.
-Duke Patricks Contagious Zombies.esp
 
-Duke Patrick's more & better loot.esp
+/Sorted Duke Patrick's Mods
+/''''''''''''''''''''''''''''
+/The rest of these mods are ordered as according to Duke Patrick's guidelines.
+/The below mods are part of Duke Patrick's SCA set, which is being reworked currently.
+/I cannot find any copies to analyse for correct placement, so they're just sitting here for now.
+/Supposed to go LAST LAST, but could probably go in after the other combat mods with the correct Bash tags.
+/I will move them once Duke Patrick's reworked SCA stuff is out, based on where that should go.
+
+Duke Patricks - Shield Charge.esp
+? Obsolete. Replaced by SCA Shield Tricks.
+Duke Patricks - SCA Shield Tricks.esp
+% {{BASH:Sound}}
+
+Duke Patricks SCA Melee combat with NO RECOIL.esp
+? Old. Upgrade to latest version.
+Duke Patrick's SCA style combat NO RECOIL Rev 6.esp
+? Old. Upgrade to latest version.
+Duke Patricks - SCA Melee Combat with NO RECOIL.esp
+
+Duke Patricks SCA Combat Archery.esp
+? Old. Upgrade to latest version.
+Duke Patricks - SCA Combat Archery.esp
+
+Duke Patrick's SCA Combat Archery patch for CnC.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery patch for LAME.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery Patch for MMM.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke_Patricks SCA_Combat_Archery_Patch_for_MMM.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery patch for OOO v2.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery patch for RBP.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery patch for RBP No SI.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
+? Obsolete. Do not use with latest version of SCA Combat Archery.
+
+Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
+
+Duke Patricks - Combat Magic.esp
+% {{BASH:Sound}}
+
+/These should go LAST LAST LAST.
+/I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
+/Staying here until the SCA stuff moves though, these should be after that.
+
+
+Duke Patricks Script Effect Silencer.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Rev 2.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Silver Edition.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks Script Effect Silencer Gold Edition.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks - BASIC Script Effect Silencer.esp
+% {{BASH:Sound}}
+Duke Patricks - BASIC Script Effect Silencer BETA.esp
+% {{BASH:Sound}}
+
 
 /And Back To Normal...
 /'''''''''''''''''''''

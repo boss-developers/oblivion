@@ -424,15 +424,6 @@ NaturalHabitat.esp
 
 no_wind-2578.esp
 
-Enhanced Vegetation [100%].esp
-? Use only one Enhanced Vegetation plugin.
-Enhanced Vegetation [110%].esp
-? Use only one Enhanced Vegetation plugin.
-Enhanced Vegetation [125%].esp
-? Use only one Enhanced Vegetation plugin.
-Enhanced Vegetation [150%].esp
-? Use only one Enhanced Vegetation plugin.
-
 EnhancedWeather.esp
 EnhancedWeather - SI.esp
 ? Requires Shivering Isles expansion.
@@ -4916,6 +4907,16 @@ sgLighterQuivers.esp
 Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
+
+Enhanced Vegetation [100%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [110%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [125%].esp
+? Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation [150%].esp
+? Use only one Enhanced Vegetation plugin.
+
 Silgrad_Tower_Travel.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.

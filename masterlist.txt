@@ -894,6 +894,9 @@ IngredientsDrawers.esp
 Item interchange - Extraction.esp
 ? Requires Bashed Patch.
 
+JQPotionBottlesTest.esp
+? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
+
 kalikuts_raretradegoods2_0.esp
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
@@ -1033,6 +1036,9 @@ Rock Remover - Underwater.esp
 
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
+Shads Hunting & Fauna.esp
+? MMM users are probably better to use MMM Farm Animals plugin.
+% {{BASH:Invent}} 
 Sheepherder's Vampirism Fix - OBSE.esp
 ? v0.9 is a testing version. Not much information on load order or any stability issues.
 Shield on Back RC5-Public.esp
@@ -1067,6 +1073,7 @@ Time Keeper.esp
 Timekeeper_Advanced.esp
 Timescale Options.esp
 Trainer_Book.esp
+Treasure Hunt.esp
 TurnoffLights.esp
 
 Update My Statue.esp
@@ -1689,6 +1696,7 @@ PerditionsEdge.esp
 
 RavenWearClothing.esp
 RavenWearArmor.esp
+RDAyleidArmour.esp
 rdweaponpack1.esp
 RedgardWeaponsMod.esp
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
@@ -1701,6 +1709,8 @@ Rosana Black Edition.esp
 Royal Daedric Armor.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
+Running4Cover's Welkynd Weapons - Free.esp
+Running4Cover's Welkynd Weapons - For Sale.esp
 RustyItems.esp
 RTFemaleReplacerV12.esp
 % {{BASH:Graphics}) - De-activate
@@ -1720,6 +1730,11 @@ Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 SickleIrons.esp
+Sin's Expanded Light Armor Kit [Chest].esp
+? Not compatable with OOO - armors already included - so deactive when using OOO.
+% {{BASH:Invent}}
+Sin's Expanded Light Armor Kit [NPC].esp
+? Not compatable with OOO - armors already included - so deactive when using OOO.
 Sinblood's Widow Dress.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
@@ -6404,6 +6419,7 @@ DemonRace.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
+M.O.E. - Playable Dremora and Custom Race Fix.esp
 Luchaire's Dryad Race.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 ? Use 'for MMM' version if using MMM/FCOM.
@@ -6449,6 +6465,7 @@ Lattamer.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}} - this is untested but it should work.
 Chocolate Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
+Vexend Race.esp
 
 Altair_Race.esp
 Assassins Creed - Altair's Gear.esp

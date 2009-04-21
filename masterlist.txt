@@ -907,6 +907,7 @@ Different_FG_Porters.esp
 FGPorterOverhaul.esp
 FGPorter_nofollow.esp
 
+Lamps of Oblivion.esp
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Lock Bash v99.9.esp
@@ -955,6 +956,7 @@ Immersive Music Skycaptain Mix.esp
 
 Better Beggars.esp
 
+moregems.esp
 Mud Crabs!.esp
 ? Use only one Mud Crabs!x file
 Mud Crabs!_coMbO.esp
@@ -1398,6 +1400,7 @@ BlackLuster.esp
 BlackLuster 2SwordStyle.esp
 BlackMail.esp
 Blackrangercuirass.esp
+Bloodeus'UniqueArmors.esp
 Bloodeus'UniqueStuff.esp
 Band TShirts.esp
 Battledress.esp
@@ -1522,6 +1525,7 @@ GC Draped Gowns.esp
 GC Gowns.esp
 GemSword.esp
 Ghogiels Armor.esp
+GHSamuraiArmor.esp
 Godslayer and Divine Protection.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
@@ -1563,6 +1567,7 @@ jy-Akaviri Helmets.esp
 KADdagirbows.esp
 KA_RoseDress.esp
 K2_Sexy_Raiments.esp
+Katanas.esp
 KDCirclets.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 KDClothCirclets.esp
@@ -1589,6 +1594,8 @@ Lera's PirateSet.esp
 Lich King's Helm v1_0.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
+LSBSkullWeapons.1.esp
+% {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 
 M&BAxes.esp
@@ -1619,6 +1626,8 @@ MerryBellInn.esp
 Mirage_Rosewood.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
 mnp Nighteye Goggles.esp
+Model Man Exterminator.esp
+Model Man Ninja Breaker.esp
 Morniel_SpecialItem.esp
 MuffinGoldenDishes.esp
 mycastle.esp
@@ -1644,7 +1653,9 @@ Nicos Kynareth Archery.esp
 Nighteye Glasses.obse.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
-NordicWeapons.esp
+NordicWeapon.esp
+NorseWeapons.esp
+? May have landscape conflicts with Guards of Cyrodiil.
 NosferatuBow.esp
 Negotiator Sword OBSE.esp
 NumenoreanArmor.esp
@@ -1688,6 +1699,8 @@ RingwraithArmorMithril.esp
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
 Royal Daedric Armor.esp
+Running4Cover's Welkynd Armors - Free.esp
+Running4Cover's Welkynd Armors - For Sale.esp
 RustyItems.esp
 RTFemaleReplacerV12.esp
 % {{BASH:Graphics}) - De-activate
@@ -3640,6 +3653,9 @@ SleepyCatInn.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 Sno_DB 1.0_Full Version.esp
+Sno_DB 1.0_Hood Replacer.esp
+Sno_DB 1.0_Blade of Woe Replacer.esp
+Sno_DB 1.0_Lite Version.esp
 Sno_DBA 1.0.esp
 Snow Dragon Temple v1.0.esp
 snowglobe.esp

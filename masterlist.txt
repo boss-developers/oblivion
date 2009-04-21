@@ -693,6 +693,8 @@ Automagic Bags 1.1.esp
 autosavertest.esp
 Ayleid Loot EXtension.esp
 Azura's Soul-ob.esp
+kuerteeAutoSaveAndTime.esp
+? Incompatible with Streamline's Streamsave and Cobl's clock.
 
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
@@ -734,6 +736,7 @@ FlyingCameraMod.esp
 Flying Camera.esp
 VanityCameraSmoother.esp
 VanityCamera Smoother.esp
+kuerteeAutoFirstThirdPersonView.esp
 
 CATSDeerPeltsAndAntlers.esp
 ? May not be compatible with OOO or MMM Hunting and Crafting.
@@ -1156,6 +1159,8 @@ Duke Patricks - Who Goes There.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
 Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
+
+kuerteeIgnoringTheMainQuestHasConsequences.esp
 
 \Map marker Tweaks
 \'''''''''''''''''
@@ -1848,39 +1853,24 @@ RealSwords - Argonian HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Argonian HI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Argonian LO-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Argonian LO.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
 RealSwords - Bosmer HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Breton HI-NPC.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Goblin.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Khajiit HI-NPC v1.3.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Orc HI_NPC v1.0.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Redguard HI-NPC.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Combined.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Breton LO-NPC.esp
-* Delete. Use FCOM_RealSwords instead.
-? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Breton LO.esp
+RealSwords - Bosmer HI.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
@@ -1892,11 +1882,39 @@ RealSwords - Bosmer LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Khajiit LO-NPC v1.3.esp
+
+RealSwords - Breton LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Argonian HI.esp
+RealSwords - Breton LO.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Breton HI-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Breton HI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Goblin.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Combined.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Khajiit HI-NPC v1.3.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Khajiit LO-NPC v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
@@ -1904,15 +1922,77 @@ RealSwords - Khajiit LO v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-RealSwords - Argonian LO-NPC.esp
+RealSwords - Khajiit HI v1.3.esp
+* Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods.
-RealSwords - Redguard LO-NPC.esp
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Nord HI-NPC SI.esp
+* Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord HI-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord HI-SI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord HI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord LO-NPC SI.esp
+* Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
-% {{BASH:Invent}} if using overhaul mods.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord LO-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord LO-SI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Nord LO.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Orc HI_NPC v1.0.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Orc HI v1.0.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Orc LO v1.0.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Orc LO-NPC v1.0.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+
+RealSwords - Redguard HI-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Redguard LO-NPC.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Redguard HI.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
+RealSwords - Redguard LO.esp
+* Delete. Use FCOM_RealSwords instead.
+? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
@@ -4720,6 +4800,7 @@ DarNified Books_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
 DarNified Books_BP_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
+kuerteeCustomisableHUDComponents.esp
 DB_NightMotherMoney5k.esp
 DeadlierDarkBrotherHood.esp
 Deadly Clutter.esp
@@ -4832,6 +4913,7 @@ Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
 
+kuerteeInventoryIsABackpack.esp
 JQ-Backpacks.esp
 JQ-Bandages.esp
 
@@ -4942,6 +5024,8 @@ RareItemsv1.18 for RCR.esp
 RemoveTrainerBounds.esp
 RenCorpseMod.esp
 ReneersGoldMod.esp
+kuerteeGoldIsAnInventoryItem.esp
+? Not compatible with Reneer's Gold Mod.
 ReneersTrainingMod.esp
 ReneerShipMod.esp
 ResizedPassivenQuiet.esp
@@ -5033,6 +5117,8 @@ WolfPacksOscuroAddOn.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
 kuerteeAlternativesToDeathAndReload.esp
+kuerteeDeathHasPenalties.esp
+? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
 
 XiDr_Advanced_Inns.esp
 
@@ -5188,6 +5274,7 @@ More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
 More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
+kuerteeEncumberingLootArmourAndWeapons.esp
 
 Vim_and_Vigor.esp
 Vim_and_Vigor_2.5x.esp
@@ -5660,6 +5747,8 @@ wolfiePolishingCloth v1.00.esp
 ZumbsLockpickingMod.esp
 ZumbsLockpickingMod - OBSE.esp
 ZumbsLockpickingMod - Hide Difficulty Addon.esp
+kuerteeNoLootingDuringCombat.esp
+kuerteeNPCsAreSuspicious.esp
 
 OOO-OLC_Realistic_Detection.esp
 ? Not compatible with other thievery-detection mods
@@ -5677,6 +5766,11 @@ No psychic guards harder fix.esp
 RenGuardOverhaul.esp
 RenGuardOverhaulShiveringIsles.esp
 SM RGOConfig.esp
+kuerteeClothingMatters.esp
+kuerteeCrimeHasWitnesses.esp
+? Not compatible with Reneer's Guard Overhaul.
+kuerteeLootingDeadGuardsIsStealing.esp
+? Not compatible with Reneer's Guard Overhaul.
 300ft_crime_detection-7319.esp
 DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
@@ -5764,7 +5858,9 @@ SM_DeadlyReflex.esp
 Deadly Reflex Bow Sway.esp
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
 
-
+kuerteeAttributeAndSkillBasedDamageModifiers.esp
+? Make sure to set calculateFromVanilla in the included ini file to 0 when used alongside other combat mods.
+kuerteeNPCsYield.esp
 
 Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
 ? Old. Upgrade to latest version.
@@ -6772,21 +6868,24 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? You could try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 
-/Unknown Duke Patrick's Mods
+/Obsolete, Unsorted Duke Patrick's Mods
 /''''''''''''''''''''''''''''
-/Mods that I do not recognise, nor exist in Duke Patrick's load order guidelines, or on TES Nexus.
-/I shall PM spookyfx about them.
+/Mods that are not available for download and are not referenced in Duke Patrick's load order guidelines.
+/Duke Patrick has confirmed that they should no longer be used. I am awaiting more info on these mods.
 
 Duke Patrick ShiveringIsles patch 1.1.esp
+? Obsolete. Do not use.
 
 Duke Patrick's more & better loot.esp
+? Obsolete. Do not use.
 
 Duke Patricks - Custom Melee Weapons Made Compatible.esp
+? Obsolete. Do not use.
 
 Duke Patrick's So you think you are a war god 1.2.esp
-? Use only one 'so you think' mod. Choose.
+? Obsolete. Do not use.
 Duke Patricks So you think you are a war god MARK II.esp
-? Use only one 'so you think' mod. Choose.
+? Obsolete. Do not use.
 
 
 

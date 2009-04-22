@@ -684,6 +684,7 @@ Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
 Addendum - Property Tax.esp
 Adult Books.esp
+AdventurersAlchemy.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
 ANBToggleGrab.esp
@@ -897,9 +898,11 @@ IngredientsDrawers.esp
 Item interchange - Extraction.esp
 ? Requires Bashed Patch.
 
+Japanese Clothing.esp
 JQPotionBottlesTest.esp
 ? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
 
+kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
@@ -1370,6 +1373,7 @@ Armour of Hades.esp
 Assassin_Blade.esp
 AyleidGlass.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+Ayleid Armor and weapons.esp
 
 ArmamentariumTest.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
@@ -1682,6 +1686,9 @@ Oonas_Outfitters.esp
 
 PAF_armor_additions.esp
 paintings.esp
+pale_rider's Armor of Dragon's Nightmare.esp
+? Changes some cell names to German either load an overhaul after (or another mod that changes the testing hall & the best defence)
+? or manually change the names back to English, or live with it.
 pale_rider's Armory of The Divine Guardian.esp
 pale_rider's Armory of the Berserker.esp
 pale_rider's Hats.esp
@@ -1727,6 +1734,7 @@ Sauron_Armor_Chest.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
+Shadowlord Armours.esp
 ShadowMailArmor_v.1.0.esp
 Shdw_Armor pack01.esp
 Shdw_Armor pack02.esp
@@ -1794,6 +1802,7 @@ The Sword of Cyrodiil.esp
 tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
+trfdaedricarmors.esp
 
 Invasion.esp
 Dark Legion.esp

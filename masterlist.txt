@@ -1312,6 +1312,8 @@ Cryos Ordinator Lite.esp
 avarm.esp
 
 000torturearmorbw.esp
+01_SenTinel's Katanas.esp
+% {{BASH:Invent}}
 
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
@@ -1355,6 +1357,8 @@ Ancient Elven Set.esp
 Armblade.esp
 % {{BASH:Invent}}
 arme - excalibur.esp
+armored coats.esp
+% {{BASH:Invent}}
 Armor_skirts.esp
 Armor of the Dark Lord.esp
 ArmorOfTheFallen.esp
@@ -1380,6 +1384,9 @@ Armor of Heaven's Fury-Light.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
 
 Armory of the Silver Dragon EN.esp
+ArmorOfTheWhiteFox.esp
+% {{BASH:Invent}}
+Armored Masks.esp
 Arrow_of_Light.esp
 ALE_Armure_Legere.esp
 AlternativeLightArmors12.esp
@@ -1391,6 +1398,7 @@ AW_LeatherArmor.esp
 Arkann's Precious Shields.esp
 Armour of Hades.esp
 Assassin_Blade.esp
+AssassinBow.esp
 AyleidGlass.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 Ayleid Armor and weapons.esp
@@ -1414,19 +1422,34 @@ ArmamentariumVendors.esp
 ArmamentariumStaffs.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
+ARTICA RAZOR ICMS by_venom91.esp
+Assassins_set.esp
 
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
 Badmagic Red Ebony - Ebony Strength.esp
 Badmagic's Rogue Set.esp
 Baedoona_recurve_bow.esp
+Bamboo Armor.esp
+% {{BASH:Invent}}
 Banes Guilds United.esp
 ? May have trouble with OOO. Untested.
 BarbarianShop.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
-bcrich.esp
+bcrich.es
+BlackGlovesEng.esp
+% {{BASH:Invent}}
+? Only Use one BlackGlovesX.esp, this one does NPC changes
+BlackGlovesEng_noNPCchanges.esp
+% {{BASH:Invent}}
+? Only Use one BlackGlovesX.esp, this one does not do any NPC changes
+BlackGlovesRus.esp
+% {{BASH:Invent}}
+? Only Use one BlackGlovesX.esp, this one does NPC changes
+? Only Use this for Russion version.
 BlackSoulGemArmory.esp
+Bloodmail 2.1.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
@@ -1443,6 +1466,7 @@ Battledress.esp
 
 Daggers Improved.esp
 
+blacktemplarweapons.esp
 blacktempler+HT.esp
 Blakeley’s Lachrymal Bow.esp
 BladeofWoe.esp
@@ -1459,6 +1483,8 @@ Blue Destiny.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
+Brigand's Gear.esp
+% {{BASH:Invent}}
 Buster Sword R.esp
 
 c_dagcol.esp
@@ -1469,6 +1495,8 @@ CapesandCloaks.esp
 CarsomyrSword.esp
 CET_DwemerPrecisionBow_v2.esp
 Classic-Wizard-Robes-UL.esp
+ClothGloves.esp
+% {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
 Change Undies Everyday.esp
 Charon’s Call by Nicoroshi.esp
@@ -1493,9 +1521,23 @@ crimson dagger.esp
 crusadercg.esp
 Crystalline Sword.esp
 CrystalStaff.esp
+Cy.esp
 
 DBShadowSet.esp
+? Only use one DBSHadow Set esp
 DBShadowSet_NE.esp
+? Only use one DBSHadow Set esp
+DBShadowSet_Argonian.esp
+? Only use one DBSHadow Set esp
+DBShadowSet_Khajiit.esp
+? Only use one DBSHadow Set esp
+DBShadowSet_Argonian_NE.esp
+? Only use one DBSHadow Set esp
+DBShadowSet_Khajiit_NE.esp
+? Only use one DBSHadow Set esp
+DaedricCausticSet.esp
+daedric sky armor.esp
+% {{BASH:Invent}}
 Daedric Trap Weapons.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
@@ -1503,12 +1545,20 @@ Dalls_Oni.esp
 Dark BrotherHood Hood Replacer V1.2.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 DarkBrotherhoodRed.esp
+Dark Crusader Armor.esp
+% {{BASH:Invent}}
 Dark Dragon Armor.esp
+darkdwemerXZAR.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 DarkIllusionArmor.esp
 Dark_Katana.esp
+DarkLeatherArmor.esp
+% {{BASH:Invent}}
+Dark Mithril Armour.esp
+% {{BASH:Invent}}
+DarkMonkRobe.esp
 Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
@@ -1523,6 +1573,8 @@ Dragon Knight Armor v. 1.1.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
+dwr.esp
+% {{BASH:Invent}}
 DunmerScaleMail.esp
 DwemerFlamesword.esp
 Dwemer_Specs_Equip-6137.esp
@@ -1534,6 +1586,8 @@ Divine Armor.esp
 DraconicSet.esp
 Dragon Buster.esp
 Dragon Scale Armor.esp
+dragon weapons.esp
+% {{BASH:Invent}}
 
 ElegantVests.esp
 Emperor's Heavy War Armor.esp

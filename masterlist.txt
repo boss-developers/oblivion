@@ -25,7 +25,6 @@ Bloodmoon_ob.esm
 NPC With Jobs.esm
 MathFunctions.esm
 piCore.esm
-CyrodiilUpgradeResourcePack.esm
 ScreenEffects.esm
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
@@ -69,7 +68,9 @@ Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
 * Delete. Not compatible with FCOM.
 Enhanced Daedric Invasion.esm
+CyrodiilUpgradeResourcePack.esm
 TamrielTravellers.esm
+TamrielTravellers SI.esm
 FCOM_Convergence.esm
 Armamentarium.esm
 ArmamentariumFran.esm
@@ -256,6 +257,8 @@ ArenaChampionHotfix.esp
 vampirescriptfix.esp
 object_placement.esp
 ? compatable with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
+CaeliaDraconisFix.esp
+? May be fixed in UOP 3.0.1+ - consult documentation.
 
 \---
 \UOP
@@ -344,6 +347,8 @@ FCOM_FrancescosNamedBosses.esp
 >? Francesco's Leveled Creatures-Items 4.5b required.
 >Fran_Lv30Item_Maltz.esp
 >? Francesco's Leveled Creatures-Items 4.5b required.
+
+FranOBSEConfig.esp
 
 \---------------------------
 \Loading Screen Alternatives
@@ -723,6 +728,7 @@ Books-Daggerfall.esp
 Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
 BookTrackerOBSE.esp
+Book Collection.esp
 Bosmer Meat Mandate.esp
 % {{BASH:Invent}}
 Brandy.esp
@@ -759,6 +765,7 @@ CDM-Duel.esp
 CDM-Exploding Arrows.esp
 CDM-Skip Purification.esp
 CFVBloodgrass.esp
+CDM - Uderfrykte Matron Fix.esp
 
 CLS-Sailboats.esp
 CLS-Sailboats-COBL.esp
@@ -824,6 +831,7 @@ dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
+Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 DragonStatuesv1.esp
 
@@ -896,6 +904,8 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 ? Not compatible with Better Cities Full or Better Cities Leyawiin components.
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
+ImpeREAL Empire - Unique Forts.esp
+
 
 Inebriation.esp
 ? Not OOO compatible - already included in OOO.
@@ -1062,6 +1072,7 @@ shiveringislesdoorusable.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
+Doomstones Expanded.esp
 
 Skillbookssave.esp
 Book Jackets Oblivion - SSBFL.esp
@@ -1074,6 +1085,8 @@ Soul Gem Discharger.esp
 Spell Delete.esp
 SPARTANVIsDiverseCityGuards05BETA.esp
 sS-PotionVendors.esp
+Soup01b.esp
+MW_booze.esp
 
 Street Gangs.esp
 Unsafe Streets.esp
@@ -1851,6 +1864,7 @@ Slof's Giger Armour.esp
 Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Neckchains.esp
+Slof's Robe of the Dark Arts.esp
 
 PersuasionOverhaul.esp
 PersuasionSI.esp
@@ -1863,6 +1877,7 @@ SomeRobes.esp
 SoT_Rise of Sheogorath.esp
 SoulCalibur1h.esp
 SoulCalibur2h.esp
+Spell Breaker Replacer.esp
 spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
@@ -2149,7 +2164,14 @@ Daedric_Katana_0.4_vendors_and_leveled.esp
 Daedric_Katana_0.4_vendors_only.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
 
+LevelerCheat.esp
+Frostleaf Leather Armor.esp
+Oblivion Testing World.esp
+Keybox_+_Nice_items!-7026.esp
 
+Sergei Robes Compilation.esp
+SS-GenderIndependentClothing v1.0.esp
+300_Classes.esp
 
 \--------------------
 \Body Replacer Armour
@@ -2518,6 +2540,10 @@ LadyDeadlock_LoveYourHorse.esp
 horse stay put 1.0.esp
 Legion's Horses Armored With Slof's Horse Bases.esp
 % {{BASH:Graphics}} untested.
+MD Saddlebags v3.0 Alternative Trader Script.esp
+IC Horse Ranch.esp
+MELF_HorseSanity.esp
+Shadowfax-2838.esp
 
 \------------
 \Pre Overhaul
@@ -3166,6 +3192,7 @@ Qarls_Harvest - OOO Patch.esp
 Qarls_Harvest - MMM Patch.esp
 Qarls_Harvest addon_MMM.esp
 Qarls_Harvest addon_OOO.esp
+Full Harvest.esp
 RustyItems for OOO.esp
 SentientWeapon - OOO & MOBS.esp
 SSEE-OOO.esp
@@ -3334,10 +3361,6 @@ Anvil Merchant Galley Houseboat v1.0.esp
 ? Compatible with MD_SaddleBags Lite.
 300_White Stallion 4.esp
 ? Use Feudal Empire ('Feudal Empire 300.esp') instead.
-Feudal Empire 300.esp
-% {{BASH:Invent,Graphics}}
-? Use instead of 300_White Stallion 4.esp
-? Move Realist
 
 DLCHorseArmor_300WhiteStallion.esp
 
@@ -3432,6 +3455,8 @@ Benirus Manor Remade.esp
 Benirus' Past.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
+Better Benirus Manor for COBL (Complete).esp
+Better Benirus Manor - Helping Hands.esp
 
 Best Defense.esp
 Better Elven Gardens.esp
@@ -3488,6 +3513,7 @@ CDEP.esp
 CDEP_FanaCeya.esp
 CDEP-UnderpallCave.esp
 % {{BASH:C.Light, C.Water}}
+CDM-The Necromantic Experience.esp
 CDM-Necromancy.esp
 CDM-Necromancy-No-Undead-Association.esp
 ? Requires CDM-Necromancy.esp
@@ -3556,6 +3582,7 @@ EiAmod.esp
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 
+Elemental Witches.esp
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 ? Do not use if using ElsweyrAnequina.esp
@@ -3576,6 +3603,7 @@ Fort Ferrion.esp
 Fort_Larsus.esp
 Fort_Walastar.esp
 FarmersStrikeBack.esp
+OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
 FF_WaldnirsWoods.esp
 Fighting Chance.esp
@@ -3608,7 +3636,6 @@ goldenarrowarcheryshopfixedprices.esp
 GP_Moretta.esp
 GTAesgaard.esp
 Guardians of the Nine - Akatosh Chantry.esp
-GuardsofCyrodiil.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 
@@ -3674,6 +3701,7 @@ coffeeshop.esp
 JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
+JSRandomTasks.esp
 
 KarewManor.esp
 kikaiNocturnalTorch.esp
@@ -3807,6 +3835,7 @@ PeryitesLowestRealmofOblivion.esp
 PinePeakLodge.esp
 Pinevale.esp
 Pit Trap.esp
+PirateIsland.esp
 Player House.esp
 PlayerHomeNaheema.esp
 Pond Cottage.esp
@@ -3817,6 +3846,8 @@ PrincessAnvilSeasideCabin.esp
 PrincessImperialCityApartment.esp
 PrisonersCampsite-COBL.esp
 PrincessImperialCityApartment-COBL.esp
+Princess IC Waterfront Shack.esp
+Princess Cheydinhal House For Sale v1pt1.esp
 
 Quest For The Elements.esp
 QQuix - Divine Elegance Showroom.esp
@@ -3855,6 +3886,7 @@ Shads Shack.esp
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
+Shezrie's Villages.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
@@ -3863,6 +3895,7 @@ skingrad guild castle upgrade.esp
 SkingradHouseAdds.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
+Skingrad Market 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
 Slash n Smash.esp
@@ -3885,6 +3918,7 @@ Spear_of_Bitter_Mercy.esp
 Spirit's Edge.esp
 Star Ship Orion.esp
 StopDarkBrotherhood.esp
+DBContinuedBeta 0.7.esp
 sunk ships.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -3928,6 +3962,9 @@ TheElderCouncil_TempleOfTheOne.esp
 Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
+
+GuardsofCyrodiil.esp
+GoC&RRLR_comp.esp
 
 TheForgottenShields.esp
 TheMistRetreat1.3_Optimized.esp
@@ -4320,6 +4357,7 @@ Faregyl-FGRoad-Patch.esp
 
 TVIcar.esp
 
+Fort Akatosh.esp
 FortAkatosh.esp
 FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
@@ -4459,7 +4497,9 @@ LtPD+NRB4+UL-II Patch.esp
 \'''''''''''''''''
 
 bartholm.esp
+Bartholm-Panther River Patch.esp
 
+OTEP - Aleswell.esp
 VeronaHouseBloodlines-UL patches Merged.esp
 LostSpires-DarkForest patch.esp
 JTICTunnel.esp
@@ -4596,11 +4636,8 @@ Better Cities - Blood&Mud.esp
 Better Cities - Full Additions.esp
 ? Obsolete. Update Better Cities to latest version.
 Better Cities - Ruined Tail's Tale.esp
-? Multi-choice merged patches dropped from Better Cities. See documentation.
 Better Cities - Tears of the Fiend.esp
-? Multi-choice merged patches dropped from Better Cities. See documentation.
 Better Cities - Lost Spires.esp
-? Multi-choice merged patches dropped from Better Cities. See documentation.
 Better Cities - B&M LS RTT TotF.esp
 ? Multi-choice merged patches dropped from Better Cities. See documentation.
 Better Cities - B&M LS RTT.esp
@@ -4888,6 +4925,7 @@ clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
 Cliff_RiskyInnBeds.esp
+Cliff_CountyNames.esp
 Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cliff's Shacks Basements-Radiant AI.esp
@@ -5053,6 +5091,9 @@ Kyoma's Journal Mod.esp
 
 LastUnicorn.esp
 Leviathan Soulgems.esp
+Oblivion - Soulgems.esp
+Oblivion - Potions.esp
+Oblivion - Unique Potions.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lynges_Dark_Brotherhood_Assassins.esp
@@ -5284,6 +5325,12 @@ Shadow Ranger.esp
 
 Roleplaying Dialogues.esp
 Enhanced Quest Roleplaying.esp
+Enhanced Quest Roleplaying - OOO.esp
+Enhanced Quest Roleplaying - FCOM.esp
+
+Feudal Empire 300.esp
+% {{BASH:Invent,Graphics}}
+? Use instead of 300_White Stallion 4.esp
 
 DurableEquipment_10.esp
 
@@ -5607,6 +5654,7 @@ spelliconreplace.esp
 tMBSP.esp
 RefScope.esp
 Duke Patricks Elemental Shield Wall Scroll.esp
+StartingSpells.esp
 
 AgarMoreVariedSpellEffects.esp
 
@@ -5643,6 +5691,7 @@ Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
 MidasSpells_MM.esp
 cidnothumpMMversion.esp
+SSEE-MM.esp
 
 SupremeMagicka.esp
 SM Ancestral Guardian.esp
@@ -5708,6 +5757,8 @@ ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
 
+SorcerysToll.esp
+
 Spellbooks.esp
 
 arcanevelocity200.esp
@@ -5740,6 +5791,9 @@ Duke Patrick's magic you can believe in 5.esp
 % {{BASH:Sound}}
 Duke Patricks - Magic you can believe in.esp
 % {{BASH:Sound}}
+
+Jpm's Miniature Necromancy.esp
+TheDarkArts.esp
 
 
 \Alchemy
@@ -6495,6 +6549,7 @@ WNewShockBoltEffects20.esp
 New Frost Damage effect NES.esp
 New Frost Damage effect.esp
 PowerAttackEffector.esp
+Visual Enchantments v1.0.esp
 
 Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp
@@ -6522,6 +6577,8 @@ JJR'sWhiskers and Eyebrow.esp
 % {{BASH:R.Teeth}} and deactivate.
 EyelashesVannilaRaces.esp
 Jjiinx_MorrowindStyleArgonians.esp
+ArgonianFeets.esp
+% {{BASH:Invent}}
 
 \Hair
 \''''
@@ -6827,6 +6884,8 @@ Patch Naked NPCs.esp
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 
+Better Cities - Stranded Light.esp
+
 
 \----------
 \Companions
@@ -6846,6 +6905,7 @@ CM Partners NPC NE.esp
 CM Partners More NPCs.esp
 CM Partners More NPCs NE.esp
 CM Partners Marker NPCs.esp
+CM Partners Extra NPCs.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 Companion Sales & Retail.esp
@@ -6892,6 +6952,7 @@ SnowAndHarukoCMPartners.esp
 Sonia.esp
 Tamara.esp
 Viconia.esp
+Baddy.esp
 
 DAJynx.esp
 ? Requires OBSE.
@@ -6929,6 +6990,9 @@ Better Cities IC Talos Plaza.esp
 Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
+
+Better Cities - Stranded Light.esp
+? Deprecated. Do not use.
 
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.

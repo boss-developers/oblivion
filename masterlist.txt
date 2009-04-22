@@ -692,6 +692,8 @@ Akatosh Mount.esp
 ANBToggleGrab.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
+archrobe.esp
+% {{BASH:Graphics}}
 Automagic Bags 1.1.esp
 autosavertest.esp
 Ayleid Loot EXtension.esp
@@ -1023,6 +1025,7 @@ Qarls_Harvest addon.esp
 Qarls_logs.esp
 Quick Wardrobe.esp
 
+R4C - Dark Regalia.esp
 RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
@@ -1329,6 +1332,8 @@ Action_Figures_Series2.esp
 Adonnays Classical Weaponry.esp
 Adonnays Elven Weaponry.esp
 Adonnays Elven Longblades.esp
+Advent Children Tsurugi.esp
+Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 Akiviri Imports MOBS.esp
@@ -1336,6 +1341,7 @@ AkatoshHead.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
 Ayleid Artifacts.esp
+Ayleid Kings Armor.esp
 Ancient Silver Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
@@ -1344,12 +1350,17 @@ ArenaEyeCandyArmor.esp
 Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
 ANB_WeaponAddons_SI.esp
+Ancient Dwarven Armour.esp
+Ancient Elven Set.esp
+Armblade.esp
+% {{BASH:Invent}}
 arme - excalibur.esp
 Armor_skirts.esp
 Armor of the Dark Lord.esp
 ArmorOfTheFallen.esp
 Armory of the Silver Dragon.esp
 Armor of Gaia.esp
+ArmorofKyrai.esp
 
 Armor of Heaven's Fury-Gold-Heavy-Alt-helm.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
@@ -1445,6 +1456,7 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 1630-1.0-Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
+Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
 Buster Sword R.esp
@@ -1454,6 +1466,7 @@ c_dragondagger.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
+CarsomyrSword.esp
 CET_DwemerPrecisionBow_v2.esp
 Classic-Wizard-Robes-UL.esp
 CLS-ClassyClothesFactions.esp
@@ -1474,20 +1487,29 @@ Chess Set Complete.esp
 ChitinArmor.esp
 Chrysamere.esp
 Collectable Miniature Daedric Shrines.esp
+crimson dagger.esp
+? Due to a poorly written script unless this mod is the second mod loaded (ie no esms except for OB) the player will never get the weapon
+? To get the weapon open the console and enter xx000ED3 where xx is the hexadecimal mod index (LO number).
 crusadercg.esp
+Crystalline Sword.esp
 CrystalStaff.esp
 
 DBShadowSet.esp
 DBShadowSet_NE.esp
+Daedric Trap Weapons.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
 Dark BrotherHood Hood Replacer V1.2.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+DarkBrotherhoodRed.esp
 Dark Dragon Armor.esp
+Dark Glass Set.esp
 Darkgreen Glass Armour.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 DarkIllusionArmor.esp
+Dark_Katana.esp
+Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
 Defensive_staves_Immersive.esp
@@ -1506,6 +1528,7 @@ DwemerFlamesword.esp
 Dwemer_Specs_Equip-6137.esp
 Divine swords.esp
 Dark-Stealth Gear.esp
+DarkMithril.esp
 Deceiver's Armour.esp
 Divine Armor.esp
 DraconicSet.esp
@@ -1554,6 +1577,7 @@ GHSamuraiArmor.esp
 Godslayer and Divine Protection.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
+GothFreak's Crystal Weapons.esp
 Grigors_Grimoires.esp
 Griffon Fortress 0.3.esp
 Growlfs Hot Clothes.esp
@@ -1798,6 +1822,8 @@ Spirit of Doom.esp
 SpringheelJakBoots.esp
 Staff_of_Magius.esp
 
+talon.esp
+% {{BASH:Invent}}
 Talon of Akatosh Longsword.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
@@ -3141,6 +3167,26 @@ TUR_GemDust.esp
 AdrenalineOblivion-SupportElements.esp
 AdrenalineOblivion-SpawnElement.esp
 
+IABaneOils Wimpy.esp
+% {{BASH:Factions}
+? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+? Only use one IABane Oils X.esp
+IABaneOils 1000.esp
+% {{BASH:Factions}
+? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+? Only use one IABane Oils X.esp
+IABaneOils 500.esp
+% {{BASH:Factions}
+? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+? Only use one IABane Oils X.esp
+IABaneOils 250.esp
+% {{BASH:Factions}
+? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+? Only use one IABane Oils X.esp
+IABaneOils 100.esp
+% {{BASH:Factions}
+? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+? Only use one IABane Oils X.esp
 
 \----------------------
 \Quests and Locations 1

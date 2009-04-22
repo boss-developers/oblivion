@@ -254,6 +254,8 @@ ArenaChampionHotfix.esp
 995-Specular Fix 1.1-TESSource.esp
 ? 'Specular not set to max' crash bug may have been fixed in an official 1.2 patch?
 vampirescriptfix.esp
+object_placement.esp
+? compatable with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
 
 \---
 \UOP
@@ -719,6 +721,8 @@ Books-Daggerfall.esp
 Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
 BookTrackerOBSE.esp
+Bosmer Meat Mandate.esp
+% {{BASH:Invent}}
 Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
@@ -1000,6 +1004,8 @@ P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
 Patron Deities.esp
+Pegasus.esp
+AltPegasus.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
 Player Hunters Fame and Infamy - Normal.esp
@@ -1323,6 +1329,8 @@ Action_Figures_Series2.esp
 Adonnays Classical Weaponry.esp
 Adonnays Elven Weaponry.esp
 Adonnays Elven Longblades.esp
+Akavirdownloadpack1.1.esp
+% {{BASH:Invent}}
 Akiviri Imports MOBS.esp
 AkatoshHead.esp
 AyleidFiringa.esp
@@ -1368,6 +1376,7 @@ AlternativeLightArmors1.2.esp
 Animated Staves.esp
 ASlof'sBraceletsandClaws.esp
 AW_Wings.esp
+AW_LeatherArmor.esp
 Arkann's Precious Shields.esp
 Armour of Hades.esp
 Assassin_Blade.esp
@@ -1555,8 +1564,10 @@ GuildmasterChests.esp
 Hades.esp
 Harlequin Armour 0.6.esp
 Hashshashin Armor.esp
+HB Ayelid Longsword.esp
 HB Elven Sunbreaker Shortsword.esp
 HB Legacy Dwemer Weapons.esp
+Hel Borne's Boning Knife.esp
 Hel Borne Spear Set.esp
 HelmetCollection.esp
 HENTAI's gift.esp
@@ -1725,9 +1736,11 @@ Running4Cover's Welkynd Weapons - Free.esp
 Running4Cover's Welkynd Weapons - For Sale.esp
 RustyItems.esp
 RTFemaleReplacerV12.esp
-% {{BASH:Graphics}) - De-activate
+% {{BASH:Graphics}} - De-activate
 
 Sacredblade.esp
+Saint Hiryu's Artifacts.esp
+% {{BASH:Invent}}
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
@@ -3831,6 +3844,8 @@ TR_Stirk.esp
 Stirk_Compatibility_Patch.esp
 ? Requires TR_Stirk.
 Transmutation.esp
+treasure maps v1.esp
+% {{BASH:Invent}}
 Treasure Maps Blood Ransom.esp
 Treasure Maps_Boethia's Burden.esp
 treasure maps captus demus.esp

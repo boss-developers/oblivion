@@ -4072,9 +4072,7 @@ TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 
 Wayshrine Fix.esp
-% {{BASH:Merge}}
 KotN Wayshrine Fix.esp
-% {{BASH:Merge}}
 
 PONLights.esp
 PONWindows.esp
@@ -6298,23 +6296,16 @@ Combat Timescale x0.5 v1.0.esp
 \'''''''''''''''
 
 _No__persistant_enchantment_glow_fix-1843.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 -No-_persistant_enchantment_glow_fix-1843.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 MagicEffectDim.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 P1DshieldNoGlow.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 [GFX]_Initial_Glow-all.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 GFX_Initial_Glow-all.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 [GFX]_Initial_Glow-self.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 [GFX]_Initial_Glow-creatures.esp
-? Put shader removers after shader replacers (like Visually Enhanced Weapons) to remove or limit their display.
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
+
 Chameleon-NoRefraction.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Chameleon-NoRefraction-2411.esp
@@ -6371,8 +6362,7 @@ Real Lava v1.2.esp
 ? Update to 1.3 or later.
 % {{BASH:Graphics}} and deactivate.
 Improved Lava.esp
-
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Body-M,Body-F}} and deactivate.
 ScreenControls.esp
 Summon_Bear.esp
 Better Turn Undead Shader.esp
@@ -6419,23 +6409,18 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 
 \Body and head changes
 \'''''''''''''''''''''
-\May be hard to get to work with other race mods - try merging with TES4Geko.
 
 BulkyNords.esp
-? Won't work with other race mods without merging in TES4Geko
+% {{BASH:Body-M,Body-F}}
 BulkyOrcs.esp
-? Won't work with other race mods without merging in TES4Geko
+% {{BASH:Body-M,Body-F}}
 Mart's Monster Mod - Resized Races.esp
+% {{BASH:Body-M,Body-F}}
 Slof's Oblivion Better Beasts.esp
-? Will restore Kajiit and argonian race stats to vanilla so put before race modifiers.
-? If using BP or race addons, try merging with TES4Geko to get whiskers etc working.
-? Merging or tagging Graphics in Wrye Bash doesn't help.
+% {{BASH:R.Teeth}} and deactivate.
 JJR'sWhiskers and Eyebrow.esp
-? If using BP or race addons, try merging eith TES4Geko to get whiskers etc working.
-? Merging or tagging Graphics in Wrye Bash doesn't help.
+% {{BASH:R.Teeth}} and deactivate.
 EyelashesVannilaRaces.esp
-? If using BP or race addons, try merging with TES4Geko to get whiskers etc working.
-? Merging or tagging Graphics in Wrye Bash doesn't help.
 Jjiinx_MorrowindStyleArgonians.esp
 
 \Hair
@@ -6697,7 +6682,7 @@ Additional Cosmetics for BP.esp
 TFF ROBERT Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F}} probably (untested).
 TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F}} probably (untested).
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,NoMerge}} and deactivate.
 BeautifulPeople2.2+TweakedGenericFacesLITE.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BeautifulPeople2.2+TweakedGenericFaces.esp

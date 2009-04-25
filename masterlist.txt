@@ -4459,6 +4459,7 @@ xulCloudtopMountains.esp
 MadMagesTower-CloudtopMountains patch.esp
 MadMagesTowerBASIC-CloudtopMountains patch.esp
 BergDesKrieger-CloudtopMountain patch.esp
+Ravenview-Cloudtop-Patch.esp
 
 xulArriusCreek.esp
 xulPatch_AY_AC.esp
@@ -4475,13 +4476,14 @@ goldenarchery-rollinghills fix.esp
 FCOM MWL-RollingHills patch.esp
 MMMMWL-RollingHills patch.esp
 
-xulpantherriver.esp
+xulPantherRiver.esp
 
 xulRiverEthe.esp
 ValleyViewEstate-RiverEthe patch.esp
 
 xulBrenaRiverRavine.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+Gaelendryll-BrenaRiver patch.esp
 
 xulImperialIsle.esp
 
@@ -4939,6 +4941,8 @@ Compass-Disable_Both.esp
 Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
 
+CUO_Dwemer.esp
+CUO_FightersGuildContracts_SAFE.esp
 CUO_MerchantUpdate_SAFE.esp
 ? MAY have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
 CUO_UnLeveledPotions.esp
@@ -4949,9 +4953,12 @@ CUO_NewFactionDialog_SAFE.esp
 CUO_BadGuy_Specific_Loot_DIRTY.esp
 % {{BASH:Delev,Relev}}
 ? Needs to be Bashed Patched to integrate fully into Fran's. May have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
+CUO_UnleveledGuards&Legioneers_DIRTY.esp
 CUO_UnleveledNpcs&Creatures.esp
 % {{BASH:Delev,Relev}}
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
+CUO_UnLeveledLoot.esp
+CUO_UnLeveledVendors.esp
 
 DarkAltars.esp
 DarkUI Fix.esp
@@ -6338,6 +6345,9 @@ Let There Be Darkness - Knights.esp
 Let There Be Darkness - Shivering Isles.esp
 ? Requires Shivering Isles.
 % {{BASH:C.Light}}
+Let There Be Darkness - Mehrunes Razor.esp
+? Requires Mehrunes Razor DLC
+% {{BASH:C.Light}}
 FastTravelAllowed.esp
 ScriptEffectIconReplace.esp
 Item interchange - Placement.esp
@@ -6884,9 +6894,6 @@ Patch Naked NPCs.esp
 
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
-
-Better Cities - Stranded Light.esp
-
 
 \----------
 \Companions

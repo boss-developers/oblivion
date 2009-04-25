@@ -204,12 +204,10 @@ Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
 
 Cobl Races.esp
-% {{BASH:NpcFaces}}
+% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
-% {{BASH:NpcFaces}}
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
-% {{BASH:NpcFaces}}
 ? Requires the Cobl Cosmetics Res 01 files installed.
 
 \----------------------------
@@ -531,6 +529,7 @@ PowerAttack Voicemod.esp
 ? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 PowerAttack Voicemod - The Shivering Isles.esp
 
+Elves Of Lineage II Female Anime Voice.esp 
 Diverse Voices (Vanilla).esp
 Diverse Voices.esp
 PCSounds.esp
@@ -773,6 +772,7 @@ CLS-Sailboats-COBL.esp
 OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
 
+Cliff's Smokey Chimneys.esp
 CM_Better Wine.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 CM_Better Wine_SI.esp
@@ -2951,7 +2951,6 @@ OBSE-Storms & Sound SI.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 <Mart's Monster Mod - Hunting & Crafting.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
-<Mart's Monster Mod - Resized Races.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
 <Mart's Monster Mod - Durability & Damage.esp
 <? Don't use with OOO. Already integrated into OOO.
@@ -6888,6 +6887,7 @@ Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 sr_race_balance_tweaks.esp
 Cobl Races - Balanced.esp
+{{Body-F, Body-M, Eyes, Hair, R.Relations}}
 Diverse Races.esp
 Better_Berserk-2177.esp
 Willful Resistance.esp

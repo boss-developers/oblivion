@@ -116,6 +116,7 @@ TR_OoT_Main.esm
 cssBase.esm
 CM Partners Mod.esm
 Open Cities Resources.esm
+GTAesgaard_2.esm
 300_Races.esm
 AinmhiRace.esm
 Nec Mystic High Elf-Remake.esm
@@ -3374,6 +3375,7 @@ Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
 ? Requires Shivering Isles
+AdenseEpicDungeon.esp
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
@@ -3463,6 +3465,7 @@ Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
+Big Business.esp
 Billsburg.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
@@ -3636,6 +3639,7 @@ goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 GP_Moretta.esp
 GTAesgaard.esp
+GTAesgaard_2.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
@@ -3868,6 +3872,7 @@ Rosethorn Hall Necrmancy Study.esp
 Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
 Ruins of Aeris Zul.esp
+Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
 
@@ -4293,6 +4298,7 @@ OOO_Mannimarco_Fix.esp
 Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
+Shadowcrest_Vineyard_COBL.esp
 
 \-------------------------
 \FCOM compatibility insert

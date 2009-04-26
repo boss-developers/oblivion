@@ -761,6 +761,7 @@ Rational Names, 2.esp
 % {{BASH:Names}}
 
 cidnothump.esp
+% {{BASH:Sound}}
 CDM-Duel.esp
 CDM-Exploding Arrows.esp
 CDM-Skip Purification.esp
@@ -2555,6 +2556,7 @@ Shadowfax-2838.esp
 AncientTowers.esp
 AncientTowersNoExnem.esp
 cidnothumb.esp
+% {{BASH:Sound}}
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
@@ -5677,7 +5679,7 @@ MofMagecraft1.7.esp
 Advanced Magecraft.esp
 
 FormID Finder.esp
-\ is implemented as a spell so may as well go in spells but should be load-order indipendent.
+\ is implemented as a spell so may as well go in spells but should be load-order independent.
 FormID Finder without Pluggy.esp
 \ ditto.
 
@@ -5704,6 +5706,7 @@ Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
 MidasSpells_MM.esp
 cidnothumpMMversion.esp
+% {{BASH:Sound}}
 SSEE-MM.esp
 
 SupremeMagicka.esp

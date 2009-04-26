@@ -7093,7 +7093,7 @@ Duke Patricks So you think you are a war god MARK II.esp
 Duke Patricks - Shield Charge.esp
 ? Obsolete. Replaced by SCA Shield Tricks.
 Duke Patricks - SCA Shield Tricks.esp
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 
 Duke Patricks SCA Melee combat with NO RECOIL.esp
 ? Old. Upgrade to latest version.
@@ -7125,7 +7125,7 @@ Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
 Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 
 /These should go LAST LAST LAST.
 /I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
@@ -7134,20 +7134,20 @@ Duke Patricks - Combat Magic.esp
 
 Duke Patricks Script Effect Silencer.esp
 ? Old. Upgrade to latest version.
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 Duke Patricks Script Effect Silencer Rev 2.esp
 ? Old. Upgrade to latest version.
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 Duke Patricks Script Effect Silencer Silver Edition.esp
 ? Old. Upgrade to latest version.
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 Duke Patricks Script Effect Silencer Gold Edition.esp
 ? Old. Upgrade to latest version.
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 Duke Patricks - BASIC Script Effect Silencer.esp
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
-% {{BASH:Sound}}
+/% {{BASH:Sound}}
 
 
 /-------------------------------

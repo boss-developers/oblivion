@@ -125,6 +125,7 @@ Tabaxi_Race_Default.esm
 Toaster Says Share v3.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
+IngredientJars.esm
 
 \-------------
 \NPC face mods
@@ -591,6 +592,10 @@ PJs Lightning Strikes - Natural Weather.esp
 PJs Lightning Strikes - No Shock Changes.esp
 PJs Lightning Strikes - Natural Weather - No Shock Changes.esp
 
+LightningStrikes.esp
+SnakeLightningSpeed.esp
+% {{BASH:Graphics}}
+
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
 ? Not compatible with later versions of Storms & Sound.
@@ -679,8 +684,6 @@ Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
-Book Jackets DLC.esp
-% {{BASH:Graphics,NoMerge}} and deactivate.
 
 aaaBorsBedrolls.esp
 7lbsBedrolls-OBSE.esp
@@ -836,6 +839,7 @@ Diverse Dungeons - Subtle Color v.1.04.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 DragonStatuesv1.esp
+DZ_Hide_Grass.esp
 
 EasySpellRemovalv1.esp
 Elder Scrolls Book Club - Oblivion.esp
@@ -865,6 +869,8 @@ GuildOwnership1.2.esp
 Happyhannah's Wines.esp
 haz_ct3_horse_cart.esp
 HTFpcb Extended.esp
+
+IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 
 ImpeREAL City Unique Districts - Talos Plaza.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
@@ -907,7 +913,6 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
-
 
 Inebriation.esp
 ? Not OOO compatible - already included in OOO.
@@ -953,6 +958,7 @@ Lyn-StoriesFromTheSeaMod.esp
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 merchant chest fix.esp
+MG Recommendation Skip.esp
 mini fixes-altars.esp
 mini fixes-more animal skins, meat etc..esp
 MiscTracker.esp
@@ -1287,6 +1293,8 @@ DLCSpellTomes.esp
 DLCSpellTomes - Unofficial Patch.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
+Book Jackets DLC.esp
+% {{BASH:Graphics,NoMerge}} and deactivate.
 
 \--------------
 \Body replacers
@@ -3436,6 +3444,7 @@ Arborwatch.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane University Telescope.esp
+Archery Shops 2.0 no LL.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
 ArkenfellManor.esp
@@ -3693,6 +3702,7 @@ IC Tower.esp
 ImpeREAL Empire - Unique Forts - Bouayard.esp
 Imperial House.esp
 ImperialCemetery.esp
+ICTalosPlazaHome.esp
 
 JADICMothPriests.esp
 ? Not compatible with Better Cities Green Emperor's Way.
@@ -3878,6 +3888,7 @@ rebornaylieds.esp
 Region Revive - Lake Rumare.esp
 ? Incompatible with most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', requires 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+ReneersContainerMod.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
 Rise Of A Samurai.esp
@@ -3907,6 +3918,7 @@ Shads Shack.esp
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
+ShadySamFence.esp
 Shezrie's Villages.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
@@ -4961,6 +4973,7 @@ Compass-Disable_QuestMarkers.esp
 Compass-Disable_Both.esp
 Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
+Cultural Secrets.esp 
 
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
@@ -6411,6 +6424,7 @@ MRP - You find nothing of use.esp
 MRP - You successfully harvest.esp
 Disable Tutorial Text.esp
 MM_NoMoreAnnoyingMessages.esp
+NoMoreAnnoyingMessages.esp
 MM_NoAnnoyingMessages.esp
 MM_NoMoreAnnoyingMessages-Lite.esp
 No More Annoying Messages.esp
@@ -6474,6 +6488,7 @@ Time-2hr-realtime.esp
 TF_timemod1-10.esp
 OblivionRealTimeV11.esp
 Combat Timescale x0.5 v1.0.esp
+Syc_LongerDaysShorterNights.esp
 
 \-----------
 \Shader mods
@@ -6606,13 +6621,17 @@ BulkyOrcs.esp
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}}
 Slof's Oblivion Better Beasts.esp
-% {{BASH:R.Teeth}} and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 JJR'sWhiskers and Eyebrow.esp
-% {{BASH:R.Teeth}} and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 EyelashesVannilaRaces.esp
+% {{BASH:NpcFaces,Graphics}}
 Jjiinx_MorrowindStyleArgonians.esp
+% {{BASH:NpcFaces,Graphics}}
 ArgonianFeets.esp
 % {{BASH:Invent}}
+Better Redguard v2.esp
+% {{BASH:NpcFaces,Graphics}}
 
 \Hair
 \''''
@@ -6682,103 +6701,105 @@ CT-Argonian Headstyles-EE+MM.esp
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
-
+Ayleid.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Half-Devil.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 YX33A_batch_of_stuff.esp
-Better Redguard v2.esp
-% {{BASH:NpcFaces, Graphics}}
 Nec Mystic High Elf-Remake.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec - Extra Mystic Elf Face.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Capucine's Aquamer Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Capucines Character Expansion.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Capucines Character Expansion - No NPC Change.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:Hair,Eyes,Graphics}}
 CuteElf11.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ice Elves and Wolf Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Slof's Playable Xivilai.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
 Slof's Clouded Leopard.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 AinmhiRace.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Dark_Seducer_and_Golden_Saint_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 DemonRace.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Dremora.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
 Luchaire's Dryad Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Use 'for MMM' version if using MMM/FCOM.
 Tabaxi_Race_Default.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Tabaxi Race 2.0.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Lineage II Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Elves Of Lineage II.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 TFF_Races_Base.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-F}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
 Beautiful People.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
 ChimerofLight_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Riddick.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Han1.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ShadowElf.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Shadow Hunter Races v1.1.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Spartan Race v1.5.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Moon Elven Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ka Po White.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ka Po.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Lilmothiit.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Icthylean_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 MGothic Breton Race.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Lattamer.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}} - this is untested but it should work.
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Chocolate Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 Altair_Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+
 Assassins Creed - Altair's Gear.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear- HeavyArmor.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - ThrowingKnives.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 
 \Race Balancing Project part 2
@@ -6841,15 +6862,15 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 \'''''''''''''''''''''''
 
 Luchaire's Dryad Race for MMM.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Tabaxi_Race_Robert.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics,R.Relations}}
 Tabaxi_Race_BAB.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-F}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics,R.Relations}}
 Tabaxi_Race_BAB_Robert.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-F,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-F,Body-M,Graphics,R.Relations}}
 Mystic Dark Elf and Mystic Dunmer for MM.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,Body-F,Body-M,R.Relations}}
 Ren_Soya_KD's.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BP Cosmetic Compilation.esp
@@ -6857,41 +6878,40 @@ BP Cosmetic Compilation.esp
 soyaenbp.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Beautiful PeopleV22 - MaleReplacerV4.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 BP + Robert's + BR + Hair Packs.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 Beautiful People Robert - Hair merged.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 BP_Roberts_BR_Hair.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 _Ren_BeautyPack_full + Soya's hair.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 BP-Cosmetic Compilation-MaleBodyReplacer.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 Additional Cosmetics for BP.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 TFF ROBERT Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F}} probably (untested).
+% {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F,Graphics}}.
 TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,Graphics,NoMerge}} and deactivate.
 BeautifulPeople2.2+TweakedGenericFacesLITE.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BeautifulPeople2.2+TweakedGenericFaces.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 EC-RM White Tabaxi.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 BP-Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Beautiful People Patch v0.1.esp
 Beautiful PeopleV22 - MaleReplacerV3.esp
-Martigen's Monster Mod - Resized Races.esp
 Ren + Exnem.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BP_and_Soya.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Diverse NPCs.esp
 ? Requires TNR, Ren's Hair, Elaborate Eyes.
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 
@@ -6905,8 +6925,9 @@ Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 sr_race_balance_tweaks.esp
 Cobl Races - Balanced.esp
-{{Body-F, Body-M, Eyes, Hair, R.Relations}}
+% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
 Diverse Races.esp
+% {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp
 Willful Resistance.esp
 
@@ -6926,10 +6947,13 @@ bgIntegrationEV.esp
 \Recommended by authors to load very late.
 \Should go after custom races where the companion is a custom race.
 
+TSS Custom Companion  Template.esp
+TSS Custom Companion Template.esp
+
 Toaster Says Share 2.11.esp
 Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
-TSS Custom Companion Template.esp
+
 CM Partners.esp
 CM Partners Special NPCs.esp
 CM Partners NPC.esp
@@ -6939,7 +6963,7 @@ CM Partners More NPCs NE.esp
 CM Partners Marker NPCs.esp
 CM Partners Extra NPCs.esp
 CM Partners Beasts.esp
-? CM Partners Beasts.esp merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
+? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
 Companion Postal Service.esp
@@ -6973,6 +6997,7 @@ GG_Valeria_Revived.esp
 GG_Vincente.esp
 Haowen.esp
 KendoGirl_Final.esp
+MarcAntony.esp
 Nec-Character_Eva.esp
 PetsOfChorrol.esp
 Ramy Enfant.esp

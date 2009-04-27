@@ -979,6 +979,7 @@ P1DmenuEscape.esp
 QZ Easy Menus.esp
 
 Immersive Music.esp
+Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
 
 Better Beggars.esp
@@ -1178,6 +1179,8 @@ Terran Vampires Beta.esp
 OCC-TVamp-Patch.esp
 
 Choices and Consequences.esp
+? A new version of Choices and Consequences called C&C&EQR is out
+C&C&EQR.esp
 
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner}}
@@ -1262,6 +1265,8 @@ DLCOrrery - Unofficial Patch.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
+? A new version of Choices and Consequences called C&C&EQR is out
+C&C&EQR - SM Plugin Refurbish - Orrery.esp
 NLF Orrery.esp
 
 DLCVileLair.esp
@@ -2747,6 +2752,8 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 ? For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
 Choices and Consequences - OOO.esp
+? A new version of Choices and Consequences called C&C&EQR is out
+C&C&EQR - OOO.esp
 ArmamentariumLLVendor.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLVendors.esp
@@ -2785,6 +2792,8 @@ OBSE-Storms & Sound SI.esp
 >? Only use when not using MMM.
 >
 >Choices and Consequences - MMM.esp
+>? A new version of Choices and Consequences called C&C&EQR is out
+>C&C&EQR - MMM.esp
 >
 >Mart's Monster Mod - Blood Fix v3.esp
 >? Not needed in MMM 3.6beta3 Intergrated.
@@ -2928,6 +2937,8 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Shivering Isles.esp
 <
 <Choices and Consequences - MMM.esp
+<? A new version of Choices and Consequences called C&C&EQR is out
+<C&C&EQR - MMM.esp
 <CurseOfHircine.esp
 <
 <Mart's Monster Mod - Blood Fix v3.esp
@@ -3784,6 +3795,8 @@ Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Markets of Cyrodiil HI.esp
 MiniCyrodiil.esp
+mrSiikas_TheEmperorsTomb.esp
+mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
 Malevolent.esp
 OCC-Malevolent-Patch.esp
@@ -3861,6 +3874,7 @@ Quest Nirnroot.esp
 
 Raiders of Cyrodil.esp
 RavenviewVillageVer2.0.esp
+rebornaylieds.esp
 Region Revive - Lake Rumare.esp
 ? Incompatible with most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', requires 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
@@ -5587,6 +5601,7 @@ Advanced Mark & Recall.esp
 Alter Weight Spells.esp
 always protection.esp
 Arcane Calendar.esp
+Ayleid Expansion.esp
 BasicInstinct.esp
 Better Scrolls.esp
 CDM-BoneCraft Skill.esp

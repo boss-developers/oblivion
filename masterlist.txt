@@ -126,6 +126,8 @@ Toaster Says Share v3.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 IngredientJars.esm
+Lamps of Oblivion Master.esm
+TIE4MODS.esm
 
 
 \-------------
@@ -1676,6 +1678,7 @@ DaedricCausticSet.esp
 daedric sky armor.esp
 % {{BASH:Invent}}
 Daedric Trap Weapons.esp
+Dalls_Anduril.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
@@ -1852,6 +1855,7 @@ Kynareth Armory.esp
 \Items L
 
 LadiesOrcish.esp
+Lamps of Oblivion.esp
 LD - New Arrows.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
@@ -1864,6 +1868,7 @@ Lyn-ClawsOfTheGreyLady.esp
 
 \Items M
 
+m_DwemerEliteArmorWeps.esp
 M&BAxes.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
@@ -1873,7 +1878,6 @@ M&BShields.esp
 MandBSwords.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
-
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
 M.O.E. - Playable Scythe.esp
@@ -2913,6 +2917,7 @@ ArmamentariumLLVendors.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp
+ArmamentariumLLArmaVendor.esp
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -3194,6 +3199,13 @@ FarmAnimalsofCyrodiil.esp
 Mart's Monster Mod - Boar's Addon.esp
 Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
+
+Mart's Monster Mod - Diverse Runeskulls.esp
+? Do not use 'FCOM_ExnemRuneskulls.esp' or 'ExnemRuneskulls.esp' - this replaces both.
+Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
+Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
+
+
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
 Jade Dishes for MMM - HnC.esp
@@ -3279,15 +3291,19 @@ TIE.esp
 ? Requires compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 
 T.I.E4MODS.esp
-? Consider using a newer TIE compatibility project (eg 'TIE In').
 T.I.E4MODSOOO+FCOM.esp
-? Consider using a newer TIE compatibility project (eg 'TIE In').
 T.I.E4MODSFCOM+COBL.esp
-? Consider using a newer TIE compatibility project (eg 'TIE In').
 T.I.E4OOO+FCOM.esp
-? Consider using a newer TIE compatibility project (eg 'TIE In').
 T.I.E4FCOM+COBL.esp
-? Consider using a newer TIE compatibility project (eg 'TIE In').
+
+
+TIE4MODSMain.esp
+TIE4MODSActorLists.esp
+TIE4MODSItemLists.esp
+TIE4MODSActorStats.esp
+TIE4MODSItemStats.esp
+TIE4MODSMagicSettings.esp
+TIE4MODSGameplaySettings.esp
 
 TIE In.esp
 ? Requires FCOM.
@@ -3633,6 +3649,8 @@ Banes Chorrol Store Upgrade.esp
 Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
+Battle4Morrowind.esp
+? Not compatible with anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
 BeldaElysium.esp
 
@@ -4357,6 +4375,7 @@ SM Plugin Refurbish - Battlehorn.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
+Princess Battlehorn.esp
 
 
 \---------------------
@@ -7021,7 +7040,8 @@ CT-Argonian Headstyles-EE+MM.esp
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
-
+MW Style Dremora.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Half-Devil.esp

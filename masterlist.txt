@@ -6717,13 +6717,13 @@ immersive_caves_auto.esp
 % {{BASH:Names}}
 immersive_caves_manual.esp
 Dark Dungeons.esp
-% {{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} and deactivate.
 Dark Dungeons -  SI.esp
 % {{BASH:C.Light}}
 _darker dungeons.esp
-% {{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} and deactivate.
 _darker_dungeons.esp
-% {{BASH:C.Light}} Untested but may solve problems.
+% {{BASH:C.Light}} and deactivate.
 less_dungeon_effects-6330.esp
 Let There Be Darkness.esp
 % {{BASH:C.Light}}
@@ -6739,7 +6739,7 @@ Let There Be Darkness - Mehrunes Razor.esp
 FastTravelAllowed.esp
 ScriptEffectIconReplace.esp
 Item interchange - Placement.esp
-* Delete. Use II's 'Item Interchange - Placement for FCOM' instead.
+* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
 ? Non-FCOM version.
 ? Use either FCOM or non-FCOM versions as appropriate but not both together.
 ? Requires recent version of Wrye Bash.

@@ -1222,6 +1222,8 @@ SI Living Economy.esp
 Living Economy - Items.esp
 Cutthroat Merchants.esp
 
+GoldAdjustment.esp
+
 JOJOeffect.esp
 StandingJOJO.esp
 
@@ -1881,12 +1883,13 @@ MandBSwords.esp
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
+M.O.E. - New Staffs, Blight and Ashstorms.esp
 M.O.E. - Playable Scythe.esp
+M.O.E. - Unlocked Palace Guard Armour.esp
 M.O.E. - Unlocked Dremora Armour and Robes.esp
 M.O.E. - Unlocked Glenroy and Captain Renault Blades Armour.esp
 ? Use 'FCOM_MOECaptainRenaultArmor' to fix compatibility issues with FCOM.
 FCOM_MOECaptainRenaultArmor.esp
-M.O.E. - Unlocked Palace Guard Armour.esp
 Wearable GS and DS armor.esp
 ? Use 'for OOO' version for better OOO/FCOM compatibility.
 Ma.S.Tro's Black Crest Kit v1.03.esp
@@ -2607,6 +2610,7 @@ GizmodianSorceress.esp
 \Horse Mods
 \----------
 
+Shivering Isles Horse.esp
 CDM-Horses.esp
 ? Shivering Isles required.
 Kylin.esp
@@ -2943,7 +2947,7 @@ OBSE-Storms & Sound SI.esp
 >* Delete. Already integrated into FCOM.
 >
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
->* May cause CTD issues - not recommended.
+>? May cause CTD issues - not recommended.
 >
 >FCOM_Convergence.esp
 >FCOM_ConvergenceNoFran.esp
@@ -2965,6 +2969,9 @@ OBSE-Storms & Sound SI.esp
 >
 >\FCOM/MMM optionals 1.
 >\'''''''''''''''''''''
+>
+>Mart's Monster Mod - Diverse Runeskulls.esp
+>? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
 >
 >FCOM_EntropicOrderRebalance.esp
 >FCOM_EntropicOrderHardcore.esp
@@ -3111,6 +3118,8 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
 <
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
+<Mart's Monster Mod - Diverse Runeskulls.esp
+<? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
 <Mart's Monster Mod - More Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Extra Reavers.esp
@@ -3201,10 +3210,14 @@ Mart's Monster Mod - Boar's Addon.esp
 Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
 
-Mart's Monster Mod - Diverse Runeskulls.esp
-? Do not use 'FCOM_ExnemRuneskulls.esp' or 'ExnemRuneskulls.esp' - this replaces both.
-Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
+Mart's Monster Mod - Diverse Runeskulls Loot.esp
+? Not compatible with MMM Gems & Gem Dust or MMMforOOO
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
+? Requires MMM and MMM Gems & Gem Dust 
+Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
+? Requires OOO.esm
+? Requires MMMforOOO or FCOM.
+? Not compatible with MMM Gems & Gem Dust.
 
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
@@ -7051,6 +7064,8 @@ CT-Argonian Headstyles-EE+MM.esp
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
+Avariel.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp

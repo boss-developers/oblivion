@@ -329,13 +329,13 @@ Better Cities .esp
 \Initial Fran's files for FCOM
 \-----------------------------
 
->Francesco's Optional Leveled Quests-SI-only.esp
->Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Chance of Stronger Bosses.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
 >Francesco's Optional Chance of More Enemies.esp
+>Francesco's Optional Leveled Quests-SI-only.esp
+>Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Guards.esp
->? Requires Shivering Isles expansion when using FCOM.
+>? Requires Shivering Isles expansion.
 >Francesco's Dark Seducer Weapons Patch.esp
 >FranDarkSeducerWeapFix.esp
 >FranSeducerScriptFix.esp
@@ -1229,6 +1229,7 @@ moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
+
 Crowded Cities 15.esp
 Crowded Cities 30.esp
 
@@ -1361,11 +1362,11 @@ DLCMehrunesRazor - Unofficial Patch.esp
 NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
 DLCMehrunesRazorPatched.esp
+SM Plugin Refurbish - MehrunesRazor.esp
 
 DLCSpellTomes.esp
 % {{BASH:Relev}}
 DLCSpellTomes - Unofficial Patch.esp
-SM Plugin Refurbish - MehrunesRazor.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
@@ -3205,7 +3206,6 @@ Mart's Monster Mod - Diverse Runeskulls.esp
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
 
-
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
 Jade Dishes for MMM - HnC.esp
@@ -4593,15 +4593,10 @@ Origin of the Mages Guild OOO Patch.esp
 
 Unofficial Patches & Refurbish - ALL.esp
 
-Enhanced Daedric Invasion.esp
->? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
-Enhanced Daedric Invasion for FCOM.esp
-* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead!
-RoS_Enhanced Daedric Invasion Compatability.esp
-Enhanced Daedric Invasion for FranOOOMMM.esp
-* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
-Enhanced Daedric Invasion for MMM.esp
-FCOM_EnhancedDaedricInvasion.esp
+<Enhanced Daedric Invasion.esp
+<RoS_Enhanced Daedric Invasion Compatability.esp
+<Enhanced Daedric Invasion for FranOOOMMM.esp
+<Enhanced Daedric Invasion for MMM.esp
 
 FCC-IC-Elfengaden.esp
 FCC-IC-Elvengarden.esp
@@ -5082,6 +5077,16 @@ FCOM_NewNPCClothes.esp
 BrewHouse.esp
 ? Use v1.5 or later to avoid extensive compatibility issues.
 
+>Enhanced Daedric Invasion.esp
+>? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
+>Enhanced Daedric Invasion for FCOM.esp
+>* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead!
+>RoS_Enhanced Daedric Invasion Compatability.esp
+>Enhanced Daedric Invasion for FranOOOMMM.esp
+>* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
+>Enhanced Daedric Invasion for MMM.esp
+>FCOM_EnhancedDaedricInvasion.esp
+
 
 \Post City
 \'''''''''
@@ -5230,6 +5235,8 @@ Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
 Cultural Secrets.esp 
 
+\CUO
+
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
 CUO_MerchantUpdate_SAFE.esp
@@ -5248,6 +5255,7 @@ CUO_UnleveledNpcs&Creatures.esp
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
+
 
 \Overides D
 
@@ -5464,6 +5472,7 @@ No Glow Grass - Faster and Shorter.esp
 NoMoreGuardsWithBowsv1.2.1.esp
 No Quest Items.esp
 No quest items SI.esp
+NoWindSI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
 NPC Water-Sink.esp
@@ -5921,6 +5930,8 @@ Midas OscuroGems.esp
 MidasSpellTomes.esp
 MidasMagicCompanions.esp
 
+FrostcragMidasLab.esp
+
 \General Spells
 
 Acidon_EnchantmentFixes.esp
@@ -6013,8 +6024,6 @@ Duke Patricks Elemental Shield Wall Scroll.esp
 StartingSpells.esp
 
 AgarMoreVariedSpellEffects.esp
-
-FrostcragMidasLab.esp
 
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
@@ -6205,7 +6214,7 @@ Herbalism - Shivering Isles.esp
 Herbalism - DLCFrostcrag.esp
 Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
-? Use only with 'Herbalism' otherwise use newer 'Harvest [Flora]' v3.1.
+? Use only with the 'Herbalism' mod, otherwise use newer 'Harvest [Flora]' v3.1.
 
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
@@ -6517,9 +6526,9 @@ Governing Attributes Overhaul.esp
 Intelligence Overhaul.esp
 Intelligence Overhaul (No Book Changes).esp
 Intelligence Overhaul BJ.esp
-
 ? If using OOO, use 'OOO-Intelligence Overhaul BJ' instead.
 OOO-Intelligence Overhaul BJ.esp
+
 SniperSneakSkillup.esp
 AFLevelMod.esp
 AFUninstall.esp
@@ -6642,9 +6651,10 @@ Level_Rates_Modified_x4.esp
 Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
 
-\---------
+
 \Pose mods
-\---------
+\'''''''''
+\
 \Scripts and new animations.
 
 Mayu's Animation Overhaul.esp
@@ -6683,10 +6693,9 @@ DMC Stylish - Specialanims.esp
 P1DseeYouSleep.esp
 P1DseeYouSleep - DLCVileLair.esp
 
-\--------------------------------
-\Semi-Final overrides and patches
-\--------------------------------
-\Just stuff recommended to be very, VERY late.
+
+\Semi-final overrides
+\''''''''''''''''''''
 
 Wolvmans_Better_Hand_placed_Loot.esp
 Immersive Caves.esp
@@ -6735,8 +6744,8 @@ Stat Restore.esp
 Arena betting.esp
 
 
-\Message suppression
-\'''''''''''''''''''
+\Message suppression overrides
+\'''''''''''''''''''''''''''''
 \
 \Best loaded late to override possible message additions from other mods.
 
@@ -6770,9 +6779,10 @@ No Load Screen on Death v1.0.esp
 MessageBox Remover.esp
 Zero Annoying Comments and Messages.esp
 
-\--------------------
-\Respawn & day length
-\--------------------
+
+\Respawn & day length overrides
+\''''''''''''''''''''''''''''''
+\
 \Use only one of each kind. Unlikely to interact with other mods.
 
 Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
@@ -7040,6 +7050,7 @@ CT-Argonian Headstyles-EE+MM.esp
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
+
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
@@ -7432,10 +7443,6 @@ Bashed Patch.esp
 \-----------------
 \Post Bashed Patch
 \-----------------
-\
-\Mods needed after Bashed Patch.
-\Utility addons.
-\Some load order independent OBSE stuff like Streamline
 
 CybBPcompatibility.esp
 Creeper.esp

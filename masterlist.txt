@@ -1401,6 +1401,7 @@ TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
 % {{BASH:Body-F,Graphics}}
+EVE_StockEquipmentReplacer.esp
 
 
 \-------------------------
@@ -4498,6 +4499,7 @@ Consequences_Knights.esp
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
 
+EVE_KnightsoftheNine.esp
 
 \----------------------
 \Quests and Locations 3
@@ -5321,6 +5323,8 @@ EnchantedArchMageRobeandHood.esp
 Essential_Trainers-8374.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
 % {{BASH:Graphics,Names}}
+
+EVE_ShiveringIslesEasterEggs.esp
 
 Dungeon Actors Have Torches 1.6 CT.esp
 Dungeon Actors Have Torches 1.6 DT.esp
@@ -7312,6 +7316,7 @@ KT_CustomRaceFix.esp
 CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 Patch Naked NPCs.esp
+EVE_KhajiitFix.esp
 
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.

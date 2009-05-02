@@ -3532,6 +3532,7 @@ ClocksOfCyrodiilOBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
 ClocksOfCyrodiilNoArcane.esp
 ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
+? Deactivate CLocksOfCyrodiil.esp
 OCC-CoC-Patch.esp
 ? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 
@@ -3584,6 +3585,7 @@ DLCHorseArmor_300WhiteStallion.esp
 
 \Quests A
 
+A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
@@ -3599,7 +3601,6 @@ ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
 Adventures Gear.esp
-A Imperial Outpost - Fort Novi Sad.esp
 AkaviriKojima.esp
 AlchemistsCave-COBL.esp
 allinonebasement.esp
@@ -4311,6 +4312,7 @@ WeaponsOfTheNine.esp
 WeatherWizard.esp
 WellspringGrove.esp
 WestwatchTowerV1.0.esp
+Whispered Warning.esp
 White Tower v0.8.esp
 Wizards_Eye_Tower-9776.esp
 Woodland Village.esp
@@ -4331,6 +4333,7 @@ WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
 
 Cyrodill Travel Services.esp
+Cyrodiil Travel Services.esp
 
 \Quests XYZ
 
@@ -4640,7 +4643,9 @@ Fort Akatosh.esp
 FortAkatosh.esp
 FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
+FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
+A Imperial Outpost - Fort Novi Sad.esp
 
 \----------------------------
 \Landscape and City overhauls

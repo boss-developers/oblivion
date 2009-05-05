@@ -555,22 +555,25 @@ PowerAttack Voicemod - The Shivering Isles.esp
 Elves Of Lineage II Female Anime Voice.esp 
 Diverse Voices (Vanilla).esp
 Diverse Voices.esp
+
 PCSounds.esp
-PCSoundJaheira.esp
-PCSoundHaerDalis.esp
-PCSoundNalia.esp
+PCSoundAlgernon.esp
 PCSoundCalisto.esp
 PCSoundCernd.esp
-PCSoundGarrett.esp
 PCSoundEdwin.esp
-PCSoundAlgernon.esp
+PCSoundGarrett.esp
+PCSoundHaerDalis.esp
+PCSoundImoen.esp
 PCSoundIndarion.esp
 PCSoundIrenicus.esp
+PCSoundJaheira.esp
+PCSoundKeldorn.esp
+PCSoundKensai.esp
+PCSoundMazzy.esp
+PCSoundNalia.esp
 PCSoundRhett.esp
 PCSoundSillth.esp
-PCSoundMazzy.esp
-PCSoundKeldorn.esp
-PCSoundImoen.esp
+PCSoundValygar.esp
 
 Hear-Me-Not.esp
 QuietFeet.esp
@@ -1094,6 +1097,7 @@ OSRCustom.esp
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
+P1DseeYouSleep.esp
 Patron Deities.esp
 Pegasus.esp
 AltPegasus.esp
@@ -1377,6 +1381,7 @@ SM Plugin Refurbish - VileLair.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 NLF VileLair.esp
 Lair_mobs.esp
+P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
@@ -3401,6 +3406,17 @@ Better Cities - TIE Restricted Area.esp
 >% {{BASH:Relev,Delev}}
 
 ArmamentariumWeapons4OOO.esp
+ArmamentariumLL4OOO.esp
+
+PersuasionOverhaul_OOO.esp
+PersuasionOverhaul_MMM.esp
+
+Qarls Harvest - OOO Patch.esp
+Qarls_Harvest - OOO Patch.esp
+Qarls_Harvest - MMM Patch.esp
+Qarls_Harvest addon_MMM.esp
+Qarls_Harvest addon_OOO.esp
+
 Atmospheric Oblivion - MMM Patch.esp
 Atmospheric Oblivion - OOO Patch.esp
 FineWeapons for OOO.esp
@@ -3416,13 +3432,6 @@ OOO-Armor.esp
 KDCircletsOOOOptimized - Loot Only.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 OOOAyleidMeteoricWeaponUpdate.esp
-PersuasionOverhaul_OOO.esp
-PersuasionOverhaul_MMM.esp
-Qarls Harvest - OOO Patch.esp
-Qarls_Harvest - OOO Patch.esp
-Qarls_Harvest - MMM Patch.esp
-Qarls_Harvest addon_MMM.esp
-Qarls_Harvest addon_OOO.esp
 Full Harvest.esp
 RustyItems for OOO.esp
 SentientWeapon - OOO & MOBS.esp
@@ -3431,8 +3440,6 @@ SigilStoneSelector-SSEE-OOO.esp
 StockClothingArmor-forExnems - OOO Patch.esp
 zCats & Rats.esp
 OOOPekImperialHorseArmor.esp
-OOO-No clutter ownership.esp
-OOO-No_Clutter_Ownership.esp
 MMM Goblin Assassin Fix.esp
 ? Only needed to fix stat damage caused by an early version of MMM.
 OOO Dread Armor Upgrade.esp
@@ -3440,26 +3447,34 @@ LDEnhancedSI.esp
 Shield on Back Plugin - OOO.esp
 BladesSmithyOOO.esp
 OOO_ThievesGuildFix.esp
-ArmamentariumLL4OOO.esp
 ? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
 ? This 'Complete' version is incompatible with any .ESP files from previous/other versions.
 Diverse Effect Icons for OOO.esp
 NWJtamriel4MMM.esp
+
+OOO-No clutter ownership.esp
+OOO-No_Clutter_Ownership.esp
+
 NpcwithJobsCreatures4MMM.esp
 NpcwithJobsCreatures4000.esp
+
 Cats & Rats for MMM.esp
 Cats & Rats for Francescos.esp
-FCOM_Archery_4_Arma_Complete_patch.esp
+
 Tamrielic_Ingredients_MMM.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
+
+FCOM_Archery_4_Arma_Complete_patch.esp
 C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
+
+EVE_StockEquipmentReplacer4FCOM.esp
 
 
 \Post Overhaul
@@ -6727,7 +6742,6 @@ Level_Rates_Modified_x4.esp
 Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
 
-
 \Pose mods
 \'''''''''
 \
@@ -6765,10 +6779,6 @@ Pose Thumbnail Poses 1.1.esp
 OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
-
-P1DseeYouSleep.esp
-P1DseeYouSleep - DLCVileLair.esp
-
 
 \Semi-final overrides
 \''''''''''''''''''''

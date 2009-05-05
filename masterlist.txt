@@ -91,6 +91,7 @@ Ambidextrie.esm
 AFC v2 Core.esm
 UnnecssaryViolence.esm
 Beautiful People.esm
+DIM Elves Of Lineage II Retex.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
 Progress.esm
@@ -337,7 +338,9 @@ Better Cities .esp
 >Francesco's Optional Leveled Guards.esp
 >? Requires Shivering Isles expansion.
 >Francesco's Dark Seducer Weapons Patch.esp
+>% {{BASH:Delev, Relev}}
 >FranDarkSeducerWeapFix.esp
+>% {{BASH:Delev, Relev}}
 >FranSeducerScriptFix.esp
 
 FCOM_Francescos.esp
@@ -441,8 +444,6 @@ Natural_Weather_HDR_2.1.2_coloroverride.esp
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 
-no_wind-2578.esp
-
 EnhancedWeather.esp
 EnhancedWeather - SI.esp
 ? Requires Shivering Isles expansion.
@@ -488,6 +489,9 @@ All Natural - Weather Inside.esp
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
 
+no_wind-2578.esp
+NoWind.esp
+
 Weather Debug Ring.esp
 
 
@@ -497,6 +501,8 @@ Weather Debug Ring.esp
 \All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate.
 \Possible dirty edits mean they should go before landscape changing mods.
 
+Enhanced Water v1.5 ND.esp
+? Old. Upgrade to latest version.
 Enhanced Water v2.0 ND.esp
 Enhanced Water v2.0 HD.esp
 Enhanced Water v2.0 HDMI.esp
@@ -512,6 +518,7 @@ Advanced_Water_Modification-2734.esp
 Advanced Water Modification.esp
 Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
+Enviroment.esp
 
 
 \Sound mods
@@ -705,6 +712,7 @@ AliveWaters - Slaughterfish Addon.esp
 Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
 Addendum - Property Tax.esp
+Adonnays Ranger Coats.esp
 Adult Books.esp
 AdventurersAlchemy.esp
 Akatosh Mount By Saiden Storm.esp
@@ -727,6 +735,9 @@ AFC v2 Quick Powerattacks.esp
 AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
+
+All normal clothes buyable.esp
+SI Clothes.esp
 
 \Base B
 
@@ -773,6 +784,7 @@ Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
 ChaseCameraMod.esp
+CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
 FlyingCameraMod.esp
 Flying Camera.esp
@@ -809,6 +821,7 @@ CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 
+CrimsonScarArmor.esp
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
@@ -934,6 +947,8 @@ ImpeREAL City Unique Districts - Arboretum.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
 ? Not compatible with Better Cities.
 ImpeREAL Empire - Unique Castles - Anvil.esp
@@ -971,6 +986,7 @@ kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
+KF Chapel Shop.esp
 
 \Base L
 
@@ -1003,8 +1019,10 @@ Lyn-StoriesFromTheSeaMod.esp
 
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
+Medic!.esp
 merchant chest fix.esp
 MG Recommendation Skip.esp
+Milt-SecretStorage.esp
 mini fixes-altars.esp
 mini fixes-more animal skins, meat etc..esp
 MiscTracker.esp
@@ -1304,6 +1322,7 @@ ShadowbanishMap.esp
 ShowDaedricShrines.esp
 ShrineMarkers.esp 
 Unmarked Places- Wayshrines.esp
+WayshrineMapMarkers.esp
 
 
 \Hotkeys
@@ -1732,6 +1751,8 @@ Dragon Buster.esp
 Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
+doofdillas_potions_recolored_sorted_v0_3_1.esp
+% {{BASH:Graphics,Names}}
 
 \Items E
 
@@ -1821,6 +1842,7 @@ Helmes.esp
 It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Icxth Sword.esp
+IvyArmor_Full.esp
 
 \Items J
 
@@ -2044,6 +2066,7 @@ PersuasionOverhaul.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 Realistic Persuasion1.8.esp
+PlukeRoleplayingPersuasion.esp
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
@@ -2087,6 +2110,7 @@ tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
 trfdaedricarmors.esp
+Tyrael Armor.esp
 
 Invasion.esp
 Dark Legion.esp
@@ -2510,6 +2534,7 @@ Vampiress Armors For Exnem Body.esp
 Volcano in the Twilight.esp
 HGECUndiesHCup.esp
 HGEC Underwear.esp
+HGEC Dantes Clothes - EV.esp
 HGEC_AmazonArmor.esp
 % {{BASH:Graphics}}
 Exnem Leather-Iron Warrior.esp
@@ -2707,6 +2732,7 @@ MD Saddlebags v3.0 Alternative Trader Script.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
 Shadowfax-2838.esp
+SellHorses.esp
 
 
 \------------
@@ -2821,6 +2847,7 @@ FCOM_TamrielicIngredients.esp
 
 Cobl Glue.esp
 >? Requires 'FCOM_Cobl.esp'.
+Cobl Glue MW Ingred.esp
 Cobl Si.esp
 ? Requires Shivering Isles expansion.
 OOO 1.32-Cobl.esp
@@ -3781,6 +3808,7 @@ Dancer_Undress0_6.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
+Demonhunter.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
@@ -3803,6 +3831,7 @@ DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
+Dwemer_Skyship_1_1_0.esp
 
 \Quests E
 
@@ -3986,6 +4015,9 @@ Lem - The Rift.esp
 Lem - The Scar of Sithis.esp
 Lenawiln_Cottagev2.11.esp
 
+OldCrowInn.esp
+GlenvarCastle.esp
+
 LetThePeopleDrink.esp
 LetThePeopleDrink-Cobl.esp
 LetThePeopleDrink-fountainonly.esp
@@ -4017,6 +4049,7 @@ Lilarcor.esp
 
 \Quests M
 
+Mara's Tower.esp
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
 MadHouseV12.esp
@@ -4030,6 +4063,7 @@ Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Markets of Cyrodiil HI.esp
 MiniCyrodiil.esp
+MountainShack.esp
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
@@ -4078,9 +4112,6 @@ Night Shops of Cyrodiil.esp
 nordinkarst_1.0.1_en.esp
 
 \Quests O
-
-OldCrowInn.esp
-GlenvarCastle.esp
 
 One Stop Magic Shop.esp
 One Stop Armors.esp
@@ -4251,6 +4282,7 @@ Tomb of the Unknown Knight.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
+% {{BASH:Graphics}}
 Stirk_Compatibility_Patch.esp
 ? Requires TR_Stirk.
 Transmutation.esp
@@ -4672,6 +4704,7 @@ xulBrenaRiverRavine02.esp
 ? Obsolete beta. Need to upgrade to released version.
 
 xulStendarrValley.esp
+TheNecromancer-StendarrValley patch.esp
 Ravenpride-Stendarr patch.esp
 WindspearTower-StendarrValley compatibility patch.esp
 
@@ -4816,6 +4849,7 @@ Waterfront Passage - Control of Goods.esp
 ? Not compatible with Better Cities.
 Moriarcis.esp
 % {{BASH:Hair}}
+Moriarcis_TheNecromancer Patch.esp
 300 Arcane University.esp
 PersonalPackGuars.esp
 Duke Patricks Sickness Alarm.esp
@@ -5198,6 +5232,7 @@ AleswellNoRefractFix.esp
 AlendrialsLibrary.esp
 
 AutoBookPlacer_v3.esp
+AutoBookPlacer.esp
 Book Placement v2.esp
 ? Try AutoBookPlacer v3 or later.
 AutoBookPlacer_v2.esp
@@ -5230,6 +5265,7 @@ BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
 Bloody_Mess - Bloody_Fights.esp
+BloodSpray.esp
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 Bonds Big Portable Tent.esp
@@ -5335,8 +5371,6 @@ Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Essential_Trainers-8374.esp
-doofdillas_potions_recolored_sorted_v0_3_1.esp
-% {{BASH:Graphics,Names}}
 
 EVE_ShiveringIslesEasterEggs.esp
 
@@ -5791,6 +5825,7 @@ dungeonbgone.esp
 CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
+Alternate Start Revamped.esp
 
 
 \Realism
@@ -5863,6 +5898,7 @@ Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
 sr_retroactive_health.esp
 True Retroactive Health v2.2.esp
+Real Injury.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp
@@ -5965,6 +6001,9 @@ MidasSpells.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
 MidasMagicCompanions.esp
+Midas Reduced Costs Half.esp
+Midas Betterholy.esp
+
 
 FrostcragMidasLab.esp
 
@@ -6128,6 +6167,8 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
+Midas SMHolyHeal.esp
+Midas SMPoison.esp
 
 \L.A.M.E.
 
@@ -6156,6 +6197,7 @@ Deadly Diseases.esp
 
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
+Spells No Lighting.esp
 
 Friendlier Summons.esp
 ND_LongerSummons_x2.esp
@@ -6165,6 +6207,7 @@ cppSI.esp
 SorcerysToll.esp
 
 Spellbooks.esp
+Wizard'sSpellBook.esp
 
 arcanevelocity200.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -6199,6 +6242,10 @@ Duke Patricks - Magic you can believe in.esp
 
 Jpm's Miniature Necromancy.esp
 TheDarkArts.esp
+
+Magicka Regen x2.esp
+Magicka_Fortification_100.esp
+SigilStoneSelector.esp
 
 
 \Alchemy
@@ -6442,6 +6489,8 @@ SM Hand Combat.esp
 Combat Fumbling.esp
 Better Sneak Attacks.esp
 
+ptThrowingKnives.esp
+? Obsolete. Upgrade to Throw Any Weapon. 
 ptThrowingWeapons.esp
 
 Deadly Reflex 5 - Timed Block.esp
@@ -6484,15 +6533,6 @@ Duke Patrick's NPCs Now Bob Under Your Shots.esp
 Duke Patrick's Vampires Bob Under Your Shots.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
-
-Duke Patricks - Momentum Lite Damage Bonus.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks Momentum Damage Bonus Light.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks Momentum Super Damage Bonus.esp
-? Only use one 'Momentum Damage' mod.
-Duke Patricks - Momentum Damage And Jump Risk.esp
-? Only use one 'Momentum Damage' mod.
 
 Duke Patricks NPC Arrow Shots Can Miss Now.esp
 ? Old. Upgrade to latest version.
@@ -6736,6 +6776,8 @@ P1DseeYouSleep - DLCVileLair.esp
 Wolvmans_Better_Hand_placed_Loot.esp
 Immersive Caves.esp
 % {{BASH:Names}}
+Immersive Caves Auto.esp
+% {{BASH:Names}}
 immersive_caves_auto.esp
 % {{BASH:Names}}
 immersive_caves_manual.esp
@@ -6931,6 +6973,7 @@ New_NightEye_Toggle.esp
 QTdof.esp
 omg-dynamicDoF.esp
 omg-staticDoF.esp 
+omg-waterrefraction-obse.esp
 Real Lava 1.3.esp
 % {{BASH:Graphics}} and deactivate.
 Real Lava.esp
@@ -7089,6 +7132,8 @@ CT-Argonian Headstyles-EE+MM.esp
 
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+PlayableSheogorathMod.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
@@ -7224,6 +7269,9 @@ bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 bgBalancingOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
+? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 bgBalancingOptionalNPCDiversity, TNR Merge Better Redguards.esp
@@ -7531,6 +7579,15 @@ Duke Patricks So you think you are a war god MARK II.esp
 \I cannot find any copies to analyse for correct placement, so they're just sitting here for now.
 \Supposed to go LAST LAST, but could probably go in after the other combat mods with the correct Bash tags.
 \I will move them once Duke Patrick's reworked SCA stuff is out, based on where that should go.
+
+Duke Patricks - Momentum Lite Damage Bonus.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks Momentum Damage Bonus Light.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks Momentum Super Damage Bonus.esp
+? Only use one 'Momentum Damage' mod.
+Duke Patricks - Momentum Damage And Jump Risk.esp
+? Only use one 'Momentum Damage' mod.
 
 Duke Patricks - Shield Charge.esp
 ? Obsolete. Replaced by SCA Shield Tricks.

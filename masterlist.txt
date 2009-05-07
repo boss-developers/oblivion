@@ -69,6 +69,7 @@ Mart's Monster Mod for OOO.esm
 * Delete. Not compatible with FCOM.
 Enhanced Daedric Invasion.esm
 CyrodiilUpgradeResourcePack.esm
+(DC)A Saints Tale Master.esm
 TamrielTravellers.esm
 TamrielTravellers SI.esm
 FCOM_Convergence.esm
@@ -748,6 +749,8 @@ Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
+OBG - Bchermod - Bilder - BP.esp
+% {{BASH:Graphics}}
 
 aaaBorsBedrolls.esp
 7lbsBedrolls-OBSE.esp
@@ -1115,6 +1118,7 @@ PrivateQuarters.esp
 \Base Q
 
 Q - More and Moldy Ingredients v1.1.esp
+Q - More and Moldy Ingredients v1.1 - DV.esp
 Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 Qarls_logs.esp
@@ -1198,6 +1202,8 @@ TurnoffLights.esp
 \Base U
 
 Update My Statue.esp
+Underneath your Robe.esp
+Underneath your Robe for SI.esp
 
 \Base V
 
@@ -1304,6 +1310,8 @@ Map Markers Be Done.esp
 Landmarks.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells.esp
+? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+Landmarks, w Wells_DV.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks With Wells.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
@@ -1471,6 +1479,7 @@ Ace's Warlock Gear.esp
 Action_Figures_Series1.esp
 Action_Figures_Series2.esp
 Adonnays Classical Weaponry.esp
+Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
 Adonnays Elven Longblades.esp
 Advent Children Tsurugi.esp
@@ -1792,6 +1801,7 @@ Flamberge.esp
 
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
+Garaks Seelensteinbeutel + beute.esp
 Garak's Staff Replacer Artefacts.esp
 % {{BASH:Graphics}}
 Garak's Staff Replacer Blood&Lightning.esp
@@ -2107,6 +2117,7 @@ The Bow of the Mongolian Horseman.esp
 The Butcher.esp
 The Doomed King.esp
 The legendary Archer - EV.esp
+The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
 % {{BASH:Invent}}
 The One Ring.esp
@@ -3335,6 +3346,7 @@ FCOM_VanillaItemReleveler.esp
 
 TIE.esp
 ? Requires compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
+FCOM_T.I.E.esp
 
 T.I.E4MODS.esp
 T.I.E4MODSOOO+FCOM.esp
@@ -3470,11 +3482,15 @@ FCOM_Archery_4_Arma_Complete_patch.esp
 C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
+Geomancy & Gem Dust OOO (No Spell Change).esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
+OOOLivingEconomyWornRebalance.esp
 
-EVE_StockEquipmentReplacer4FCOM.esp
+>EVE_StockEquipmentReplacer4FCOM.esp
+<EVE_StockEquipmentReplacer for OOO.esp
+<EVE_StockEquipmentReplacer4MMM.esp
 
 
 \Post Overhaul
@@ -3847,6 +3863,11 @@ DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
 Dwemer_Skyship_1_1_0.esp
+
+Duke Patricks Dragon and the Sword of Might.esp
+? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
+Duke Patricks Dragon and the Sword of Might Light Version.esp
+? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
 \Quests E
 
@@ -4226,6 +4247,7 @@ Sno_DBA 1.0.esp
 Snow Dragon Temple v1.0.esp
 snowglobe.esp
 Solace.esp
+CM SOLACE.esp
 SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
 Southhelm Manor.esp
@@ -4434,11 +4456,6 @@ OBF Arena Fix.esp
 
 \Quests Late
 
-Duke Patricks Dragon and the Sword of Might.esp
-? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
-Duke Patricks Dragon and the Sword of Might Light Version.esp
-? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
-
 
 \-----
 \DLC 3
@@ -4588,6 +4605,7 @@ TotF MtyMgc Patch.esp
 Ruined Tale 3.0.esp
 RTT.esp
 RTT-Weye Relocation Patch.esp
+RTT RR Lake Rumare Patch.esp
 OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
 Ruin.esp
@@ -4737,6 +4755,7 @@ TheNecromancer-EntiusGorge patch.esp
 ULFallenLeafEverglade.esp
 xulFallenLeafEverglade.esp
 LostSpires-Everglade patch.esp
+LostSpires_TheOrderofNibenay_patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 
@@ -4914,6 +4933,7 @@ Better Cities BRAVIL.esp
 Better Cities BRAVIL - Blood & Mud.esp
 Better Cities - Bravil City Defences.esp
 BCBravilB&M-Barrowfields patch.esp
+BCBravil-Barrowfields.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
 BCBravil-Barrowfields patch.esp
@@ -5243,6 +5263,7 @@ Archmage_Enchanted_Chest_OBSE.esp
 Archnamage's Chest For SI.esp
 Armor-Long -TESSource.esp
 Assassin Tripwires.esp
+Assassin Tripwires DBSR.esp
 AleswellNoRefractFix.esp
 AlendrialsLibrary.esp
 
@@ -5400,6 +5421,7 @@ Exterior Actors Have Torches 1.3 CT.esp
 Exterior Actors Have Torches 1.3 DT.esp
 ? Check for newer version.
 Actors Have Torches.esp
+Dungeon&ExteriorActorsHaveTorchesCT.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 
@@ -5465,6 +5487,7 @@ Horadric Cube.gem.lvlist.override.esp
 \Overides I
 
 ImmersiveHealthIndication.esp
+SaturationHealthIndication.esp
 ImmersiveWait.esp
 ImmersiveWait Rus.esp
 ? Russian version?
@@ -5630,6 +5653,7 @@ Rune Stones!.esp
 \Overides S
 
 Salmo The Baker v2.0.esp
+Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 Salmo WV, Cobl.esp
@@ -5671,10 +5695,12 @@ ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
+ShippingInCyrodiil-08.esp
 
 \Overides T
 
 tag_NaturalWildlife.esp
+GP_Natural Wildlife - MMM.esp
 Talk With Your Hands.esp
 Talk with Your Hands2.esp
 talkwithyourhands2.esp
@@ -5834,6 +5860,7 @@ Alternative Start v1.2.esp
 Alternative Start v1.26.esp
 anb.esp
 quickstart.esp
+Quickstart_DV.esp
 newstartV3.esp
 Kobu's Skip Intro Mod.esp
 dungeonbgone.esp
@@ -5903,6 +5930,7 @@ StumbleRunningBackwards.esp
 Duke Patricks Running Backwards RISK.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Running Backwards RISK.esp
+Addendum - Athletics.esp
 
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
@@ -5977,6 +6005,8 @@ VampireExperience1.0.esp
 Better Blood Potions for Vampires.esp
 AznarsVampireShortCraving.esp
 Addendum - Vampires.esp
+CDM-Vampire Bite.esp
+CDM-NPC Sundamage.esp
 
 SpreadingVampirism.esp
 SpreadingVampirism_NoSecondaryInfection.esp
@@ -6001,6 +6031,8 @@ Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 \These components need to go before LAME
 
 bgBalancingEVCore.esp
+? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
+bgBalancingDVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 bgBalancingNoSIVersion_Core_still_required.esp
 
@@ -6049,6 +6081,7 @@ hilarity_121.esp
 IllusionaryScript.esp
 Improved Ancestor Guardian.esp
 JADPolymorphSpellv3.esp
+Polymorph DV.esp
 JIM_Summon_Doppleganger.esp
 KT_DetectHostility.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
@@ -6190,11 +6223,17 @@ Midas SMPoison.esp
 bgMagicEV.esp
 % {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
 bgMagicSpellTomes_for_WryeBash.esp
+bgMagicDVSpellTomes_for_WryeBash.esp
 bgMagicItemSigil.esp
+bgMagicDVItemSigil.esp
 bgMagicEVStartspells.esp
+bgMagicDVStartspells.esp
 bgMagicBonus.esp
+bgMagicDVBonus.esp
 bgMagicEVAddEnVar.esp
+bgMagicDVAddEnVar.esp
 bgMagicEVPaperChase.esp
+bgMagicDVSchnitzeljagd.esp
 bgMagicAlchemy.esp
 bgMagicEVExtendedConjurationDuration.esp
 bgMagicPotionNumberSoulGemValue.esp
@@ -6208,6 +6247,8 @@ bgAddEnVarStandAloneEV.esp
 \Spells Late
 
 Pestilent Afflictions.esp
+Pestilent_Afflictions-DV.esp
+Pestilent Afflictions1.5-DV.esp
 Deadly Diseases.esp
 
 CandleNoMagicCapsV2.esp
@@ -6280,6 +6321,7 @@ Alchemy Expansions - Poison Combiner.esp
 Alchemy Expansions - Poison Maker.esp
 Alchemical Formulas.esp
 BoneGrind.esp
+ZBoneGrinder.esp
 CLS-AlchemyTools.esp
 CLS_AHA_AlchemyTools.esp
 Syc_AtHomeAlchemy.esp
@@ -6302,6 +6344,7 @@ Poison Equipper.esp
 DirenniAlchemyApparatus.esp
 dyseso_Light_Ingred.esp
 dyseso_Light_Ingred_Appar.esp
+dyseso_Leichtere_Zutaten_und_Apparaturen.esp
 5869-1-Enchant Paralysis-TESSource.esp
 Tweaks and Alterations GG.esp
 A_Vampire Alchemy.esp
@@ -6480,6 +6523,7 @@ Enhanced_Hand_to_hand-2329.esp
 Fiery Fists v1.2.esp
 WB Dynamic Weapon Speeds.esp
 Marksman Velocity.esp
+Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
 CombatFPSOptimizer.esp
 Realistic Arrow Flight.esp
@@ -6958,6 +7002,7 @@ BadderFireFX.esp
 BadderFrostFX.esp
 BadderShockFX.esp
 bgMagicEVShader.esp
+bgMagicDVShader.esp
 bgMagicShaderLifeDetect.esp
 bgMagicLightningbolt.esp
 BNewShockBoltEffects20.esp
@@ -6976,6 +7021,7 @@ Alt LifeDetected.esp
 HeatVision.esp
 KoldornsImprovedLava2.esp
 KoldornsImprovedLava.esp
+Templars Lava Replacer v1.0.esp
 Better Lava by elveon.esp
 Better Lava (by elveon).esp
 MotionBlur.esp
@@ -7053,6 +7099,8 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 BulkyNords.esp
 % {{BASH:Body-M,Body-F}}
 BulkyOrcs.esp
+% {{BASH:Body-M,Body-F}}
+Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}}
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}}
@@ -7297,13 +7345,19 @@ bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
 
 bgBalancingEVLAMEAddition.esp
 ? Requires LAME and Shivering Isles.
+bgBalancingDVLAMEAddition.esp
+? Requires LAME and Shivering Isles.
 bgBalancingEVLAMEGlue.esp
+? Requires LAME and Shivering Isles.
+bgBalancingDVLAMEGlue.esp
 ? Requires LAME and Shivering Isles.
 bgBalancingEVOptionalNPCDiversityLAME.esp
 
 bgBalancingEVLAMEIntegration.esp
 
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
+? Requires Shivering Isles and Luchaire's Body Seam Reducer.
+bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 
 

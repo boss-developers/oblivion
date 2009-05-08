@@ -1050,6 +1050,7 @@ MoveQuestItems - OBSE.esp
 Musical Immersion 1.0.esp
 Menu Time.esp
 MYR_AyleidExtensions.esp
+Maigrets House Cats.esp
 
 P1DmenuEscape.esp
 QZ Easy Menus.esp
@@ -1274,6 +1275,10 @@ Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
 Crowded Roads Revisited.esp
+Crowded Roads Revisited_ChorrolCheydinhal_5.esp
+Crowded Roads Revisited_GoldRoad_5.esp
+Crowded Roads Revisited_GreenRoad_5.esp
+Crowded Roads Revisited_YellowRoad_5.esp
 
 Immersive Travelers.esp
 
@@ -2012,6 +2017,7 @@ Playable GS DS Armor.esp
 Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
+SLPD_Ponytail.esp
 
 \Items Q
 \Items R
@@ -2037,6 +2043,7 @@ Running4Cover's Welkynd Weapons - For Sale.esp
 RustyItems.esp
 RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
+RingOfWings v3.esp
 
 \Items S
 
@@ -3824,6 +3831,7 @@ COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
 CRT Guest Quarters.esp
+CastawayIsles.esp
 
 \Quests D
 
@@ -3918,6 +3926,8 @@ Fort Tempest.esp
 FortDragonShirev1.esp
 Frostmourne.esp
 Frostmourne-DV.esp
+The Fall of Dagoth Hur 11.esp
+DUNGEON FortFerrion.esp
 
 Functional Imperial City Lighthouse.esp
 JK_lighthouse.esp
@@ -3942,6 +3952,7 @@ GTAesgaard_2.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
+GlimmeringCastle.esp
 
 \Quests H
 
@@ -3965,6 +3976,7 @@ HeartlandFarm.esp
 ? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
 03_Helms_Deep.esp
+Hunter's Haven File 1.esp
 
 HeartoftheDead.esp
 % {{BASH:Hair}}
@@ -3985,6 +3997,7 @@ ImpeREAL Empire - Unique Forts - Bouayard.esp
 Imperial House.esp
 ImperialCemetery.esp
 ICTalosPlazaHome.esp
+The Imperial Vaults.esp
 
 \Quests J
 
@@ -4203,6 +4216,7 @@ Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
+The Ranger's House.esp
 
 \Quests S
 
@@ -4335,6 +4349,7 @@ TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
 TheMistRetreat1.3_Original.esp
 Torynwyll.esp
+Thorlak Island.esp
 
 TopalIsland.esp
 Topal Island & Safe Water.esp
@@ -4885,6 +4900,7 @@ Moriarcis.esp
 % {{BASH:Hair}}
 Moriarcis_TheNecromancer Patch.esp
 300 Arcane University.esp
+Reaper's Arcane University.esp
 PersonalPackGuars.esp
 Duke Patricks Sickness Alarm.esp
 % {{BASH:Sound}}
@@ -5276,6 +5292,7 @@ AutoBookPlacer_v2.esp
 Auto Potion.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
+Ayleid Wells.esp
 
 \Overides B
 
@@ -5424,6 +5441,7 @@ Actors Have Torches.esp
 Dungeon&ExteriorActorsHaveTorchesCT.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
+Everlasting Corpses v 1.0.esp
 
 \Overides F
 
@@ -5649,6 +5667,7 @@ Rowboats.esp
 Leyawin Bridge.esp
 ? Part of the Rowboats mod.
 Rune Stones!.esp
+RuneDoomWell.esp
 
 \Overides S
 
@@ -5696,6 +5715,7 @@ spMerchant.esp
 sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
 ShippingInCyrodiil-08.esp
+SkoomaTest.esp
 
 \Overides T
 
@@ -5739,6 +5759,7 @@ WolfPacksOscuroAddOn.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
 kuerteeAlternativesToDeathAndReload.esp
+Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
 ? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
 
@@ -6016,10 +6037,10 @@ Muggervamp.esp
 Blood Is Everything.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
+Nekhanimal's Awesome Vampire Mod.esp
 Duke Patricks Nosferatu Vampires.esp
 ? Old. Upgrade to latest version.
 % {{BASH:Sound}}
-
 Duke Patricks - Nosferatu Class Vampires.esp
 % {{BASH:Sound}}
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
@@ -6145,6 +6166,10 @@ tMBSP.esp
 RefScope.esp
 Duke Patricks Elemental Shield Wall Scroll.esp
 StartingSpells.esp
+Judgement of the Nine.esp
+bgEnchantingOrbEV.esp
+DimensionalPocketOfEther.esp
+RoomOfEnchantment.esp
 
 AgarMoreVariedSpellEffects.esp
 
@@ -6280,6 +6305,7 @@ PJs Spells - Cheap Spells.esp
 LightSpellLiteBlue.esp
 STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
+LightSpellWhite.esp
 
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp
@@ -6302,6 +6328,8 @@ TheDarkArts.esp
 Magicka Regen x2.esp
 Magicka_Fortification_100.esp
 SigilStoneSelector.esp
+
+NekhanimalLifeDetect.esp
 
 
 \Alchemy
@@ -6473,6 +6501,7 @@ kuerteeLootingDeadGuardsIsStealing.esp
 300ft_crime_detection-7319.esp
 DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
+Infamy Pilgrimage.esp
 
 GuildBetrayal.esp
 
@@ -6547,6 +6576,8 @@ Realistic Combat.esp
 SM Hand Combat.esp
 Combat Fumbling.esp
 Better Sneak Attacks.esp
+GM's Deadly Archery.esp
+SamVimes's Feint Death.esp
 
 ptThrowingKnives.esp
 ? Obsolete. Upgrade to Throw Any Weapon. 
@@ -6753,6 +6784,7 @@ Legendary Abilities-Reflect MOJ.esp
 Nanite's Legendary Alchemy.esp
 Grandmaster of Alchemy.esp
 sr_staff_skill.esp
+J3X's Staff Bashing Mod.esp
 
 S.P.A.M.esp
 ? Use either 'S.P.A.M.esp' or 'S.P.A.M. 100+.esp' but not both together.
@@ -6785,6 +6817,8 @@ Level_Rates_Modified_x3.esp
 Level_Rates_Modified_x4.esp
 Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
+
+Wrye Leveling.esp
 
 \Pose mods
 \'''''''''
@@ -7114,6 +7148,8 @@ Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces,Graphics}}
 Better Redguard v2.esp
 % {{BASH:NpcFaces,Graphics}}
+Smaller Elf ears.esp
+% {{BASH:Body-M,Body-F,NpcFaces}}
 
 
 \Hair
@@ -7143,6 +7179,8 @@ _Ren_BeautyPack_onlyhairs.esp
 % {{BASH:Hair}}
 KDshorthair.esp
 % {{BASH:Hair}}
+ZelsHairfixRenshairV1_5.esp
+% {{BASH:Hair}}
 
 
 \Eyes
@@ -7161,6 +7199,8 @@ elveons realistic eyes.esp
 Cernasite - DragonEyes.esp
 % {{BASH:Eyes}}
 JCPeepers.esp
+% {{BASH:Eyes}}
+Cat_eyes.esp
 % {{BASH:Eyes}}
 
 
@@ -7294,6 +7334,8 @@ Assassins Creed - Altair's Gear - ThrowingKnives.esp
 Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
+Raven Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 
 \Race Balancing Project 2
@@ -7520,6 +7562,7 @@ SnowAndHarukoCMPartners.esp
 Sonia.esp
 Tamara.esp
 Viconia.esp
+RhiannaII-essential.esp
 
 DAJynx.esp
 ? Requires OBSE.

@@ -1439,7 +1439,11 @@ TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
 % {{BASH:Body-F,Graphics}}
 EVE_StockEquipmentReplacer.esp
-
+EVE_ShiveringIslesEasterEggs.esp
+EVE_KnightsoftheNine.esp
+% {{BASH:Graphics}}
+EVE_KhajiitFix.esp
+% {{BASH:Body-F}}
 
 \-------------------------
 \Items (armor and weapons)
@@ -2618,6 +2622,10 @@ Obsidian Axe.esp
 Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
+
+Colourwheels Sexy SI Armor & Clothing Replacer.esp
+% {{BASH:Graphics}}
+
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
 
@@ -2967,6 +2975,7 @@ ArmamentariumLL.esp
 Choices and Consequences - OOO.esp
 ? A new version of Choices and Consequences called C&C&EQR is out
 C&C&EQR - OOO.esp
+Enhanced Quest Roleplaying - OOO.esp
 ArmamentariumLLVendor.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLVendors.esp
@@ -3415,6 +3424,7 @@ TIE In - Game Settings OOO.esp
 TIE In - Sounds.esp
 
 Choices and Consequences - FCOM.esp
+Enhanced Quest Roleplaying - FCOM.esp
 
 Better Cities - TIE Restricted Area.esp
 
@@ -3474,6 +3484,8 @@ NWJtamriel4MMM.esp
 OOO-No clutter ownership.esp
 OOO-No_Clutter_Ownership.esp
 
+OOOLivingEconomyWornRebalance.esp
+
 NpcwithJobsCreatures4MMM.esp
 NpcwithJobsCreatures4000.esp
 
@@ -3490,6 +3502,7 @@ C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
 Geomancy & Gem Dust OOO (No Spell Change).esp
+?Use 'Geomancy & Gem Dust OOO (No Spell Change)' or 'Geomancy & Gem Dust OOO' but not both at the same time.
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
@@ -4561,6 +4574,8 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
+EVE_KnightsoftheNine.esp
+% {{BASH:Graphics}}
 MOBS_Knights.esp
 SM Plugin Refurbish - Knights.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
@@ -4878,6 +4893,8 @@ LtPD+NRB4+UL-II Patch.esp
 \Post UL, Pre BC
 \'''''''''''''''
 
+MTCThievesGrotto.esp
+
 bartholm.esp
 Bartholm-Panther River Patch.esp
 
@@ -5175,7 +5192,7 @@ BarrowFields-Blood&Mud-Patch.esp
 ? Do not use this with Better Cities or Open Better Cities.
 
 RegionReviveLakeRumare-ImperialIsle patch.esp
-
+RR - LTPDPatch.esp
 NRB4+RR Patch.esp
 
 AncientSource-ChorrolHinterland patch.esp
@@ -5319,6 +5336,7 @@ Blade Skills.esp
 Bloody_Mess.esp
 Bloody_Mess - Bloody_Fights.esp
 BloodSpray.esp
+% {{BASH:Graphics}}
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
 Bonds Big Portable Tent.esp
@@ -5356,6 +5374,10 @@ Compass-Disable_QuestMarkers.esp
 Compass-Disable_Both.esp
 Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
+CT-YABM.esp
+?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
+CT-YABM - No Idle.esp
+?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp 
 
 \CUO
@@ -5714,6 +5736,25 @@ ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
+
+Storms & Sound - AFK_Weye.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Amajor7 Imperial Furniture.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Bank of Cyrodiil.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Bartholm.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Blood&Mud.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - The Lost Spires.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Shezrie's Villages.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+Storms & Sound - Better Cities.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Better Cities patch is based off Better Cities.esm and can load above all Better Cities esps.
+
 ShippingInCyrodiil-08.esp
 SkoomaTest.esp
 
@@ -6845,6 +6886,10 @@ LainPose.esp
 LainPoseMOD.esp
 LainPoseMODv1.4.esp
 
+SW01.esp
+?Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
+SW01Plus.esp
+?Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
 SeductiveIdles.esp
 actors_in_charge.esp
 ActorsInMadness.esp

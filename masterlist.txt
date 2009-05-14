@@ -3628,6 +3628,7 @@ cyrodiil transportation network wz.esp
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
 Cyrodiil transportation network OC.esp
+OC+CTN Patch.esp
 
 Ivellon.esp
 ? Border regions must be turned off after this mod for OOO compatibility. Use Wrye Bash tweak or a border removal mod.
@@ -6110,6 +6111,7 @@ bgBalancingNoSIVersion_Core_still_required.esp
 \Midas Magic
 
 MidasSpells.esp
+OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
 MidasMagicCompanions.esp

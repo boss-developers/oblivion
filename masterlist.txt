@@ -61,6 +61,7 @@ Ulrim's Horses.esm
 armoryLab.esm
 DEJ Harvest - Flora.esm
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later (or v3.0.0 for compatibility with 'Herbalism' mod).
+Harvest[Containers].esm
 Tamriel's Glittering Geology.esm
 ? Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
@@ -1242,6 +1243,9 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esp
 ? Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
 ? Not OOO compatible.
+Harvest[Containers] - Vanilla.esp
+? Not OOO Compatible
+Harvest[Containers] - SI.esp
 
 Piratelords Trade Fixes.esp
 
@@ -6687,6 +6691,7 @@ Duke Patrick's Smash of the Titans.esp
 Duke Patrick`s Smash of the Titans.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Smash Of The Titans.esp
+SpookyNPCAIModsMerge.esp
 
 
 \Skills, Attributes and Leveling
@@ -7760,6 +7765,7 @@ Duke Patricks - SCA Melee Combat with NO RECOIL.esp
 Duke Patricks SCA Combat Archery.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - SCA Combat Archery.esp
+SpookyArcheryMagicMeleeMerge.esp
 
 Duke Patrick's SCA Combat Archery patch for CnC.esp
 ? Obsolete. Do not use with latest version of SCA Combat Archery.

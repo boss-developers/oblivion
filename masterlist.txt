@@ -62,6 +62,9 @@ armoryLab.esm
 DEJ Harvest - Flora.esm
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later (or v3.0.0 for compatibility with 'Herbalism' mod).
 Harvest[Containers].esm
+Harvest[Containers] - Flat-Top Barrels Add-on.esm
+Harvest[Containers] - Havok Crates Add-on.esm
+Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 ? Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
@@ -807,6 +810,10 @@ Complete Names.esp
 % {{BASH:Names}} ??? Untested.
 Rational Names, 2.esp
 % {{BASH:Names}}
+CNRP Brumav02.esp
+% {{BASH:Invent}}
+CNRP Chorrol.esp
+% {{BASH:Invent}}
 
 cidnothump.esp
 % {{BASH:Sound}}
@@ -1143,6 +1150,7 @@ Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
 RendricNPC(0.21).esp
 ReneersNotesMod.esp
+ReneerDialogMod.esp
 
 Reznod_Mannequin.esp
 Practice_Dummy0.9.5.esp
@@ -1235,6 +1243,11 @@ ZariAlchemistsRing.esp
 
 Harvest[Containers].esp
 ? Not OOO compatible. Included in OOO.
+Harvest[Containers] - Vanilla.esp
+? Not OOO Compatible
+Harvest[Containers] - SI.esp
+Harvest[Containers] - SI - Ore Respawn.esp
+Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - Player Home Add-on.esp
 ? Not OOO compatible. Included in OOO.
 DEJ Harvest - Containers [Combo] v0.99.08.esp
@@ -1243,9 +1256,8 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esp
 ? Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
 ? Not OOO compatible.
-Harvest[Containers] - Vanilla.esp
-? Not OOO Compatible
-Harvest[Containers] - SI.esp
+
+
 
 Piratelords Trade Fixes.esp
 

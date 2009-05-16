@@ -129,6 +129,7 @@ Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
 Toaster Says Share v3.esm
+OblivionMountProject.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 IngredientJars.esm
@@ -733,6 +734,7 @@ archrobe.esp
 Automagic Bags 1.1.esp
 autosavertest.esp
 Ayleid Loot EXtension.esp
+% {{BASH:Invent}}
 Azura's Soul-ob.esp
 kuerteeAutoSaveAndTime.esp
 ? Incompatible with Streamline's Streamsave and Cobl's clock.
@@ -1819,6 +1821,7 @@ Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
 femaleorderrobe.esp
 FineWeapons.esp
+% {{BASH:Graphics,NoMerge}}
 FinGleamRing.esp
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
@@ -2164,7 +2167,7 @@ Dark Legion.esp
 mz_Shields.esp
 % {{BASH:Graphics}} and deactivate when using overhaul mods.
 mz_Shields_SI.esp
-% {{BASH:Graphics}} and deactivate when using overhaul mods.
+% {{BASH:Graphics,NoMerge}} and deactivate when using overhaul mods.
 
 Town_Ceremonial_Armor.esp
 Travelers' Cloaks.esp
@@ -3482,6 +3485,7 @@ KDCircletsOOOOptimized - Loot Only.esp
 OOOAyleidMeteoricWeaponUpdate.esp
 Full Harvest.esp
 RustyItems for OOO.esp
+% {{BASH:Graphics,NoMerge}}
 SentientWeapon - OOO & MOBS.esp
 SSEE-OOO.esp
 SigilStoneSelector-SSEE-OOO.esp
@@ -3918,7 +3922,6 @@ EiAmod.esp
 ? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
 ? Use 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
 ? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
-? Use 'EtInArkay-LushWoodlands patch.esp' compatibility patch if using Unique Landscapes Lush Woodlands.
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 
@@ -4671,7 +4674,7 @@ The Soul of Ilithiel.esp
 Ungarion1TheWelkyndSword.esp
 
 Blood&Mud.esp
-% {{BASH:Hair}}
+% {{BASH:Hair, NpcFaces}}
 ? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
 
 Lost Paladins of the Divines.esp
@@ -4763,6 +4766,7 @@ TVIcar.esp
 
 Fort Akatosh.esp
 FortAkatosh.esp
+% {{BASH:Relations}}
 FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
@@ -4860,6 +4864,7 @@ xulLushWoodlands.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
+? Obsolete.This patch is not needed if using the latest version of Lush Woodlands.
 
 xulAncientYews.esp
 
@@ -5220,6 +5225,7 @@ ICTowerObservatory.esp
 
 FightersGuildContracts.esp
 JQ-Fighters_Guild_United.esp
+% {{BASH:Invent}}
 FCOM_FighterGUnited.esp
 ? requires Fighters Guild United.
 
@@ -5936,6 +5942,7 @@ TIE In - BC-Anvil.esp
 Arks Tutorial Terminator.esp
 M.O.E. - Main Quest Delayer.esp
 Alternative Start by Robert Evrae.esp
+% {{BASH:Relations}}
 Skip Tutorial.esp
 Alternative Start v1.2.esp
 ? Check you're using v1.26 or later.
@@ -6234,6 +6241,7 @@ DimensionalPocketOfEther.esp
 RoomOfEnchantment.esp
 
 AgarMoreVariedSpellEffects.esp
+% {{BASH:Sound}}
 
 MofMagecraft1.7.esp
 Advanced Magecraft.esp

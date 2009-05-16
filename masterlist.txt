@@ -6064,13 +6064,15 @@ Duke Patricks - Hydration and Water Harvesting.esp
 \''''''''
 \
 \Will override changes made by OOO. May cause faction conflicts with any new vampire factions.
-\Can be problematic to use hunger and thirst realism mods with many of these (as one has a differnt diet!).
+\Can be problematic to use hunger and thirst realism mods with many of these (as one has a different diet!).
 
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
 
 StarX Vanilla Vampires Revised.esp
-? Has minor problems with OOO (StarX vampires will fight OOO vampires).
+? Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
+? There is a patch to solve these problems.
+StarX VVR_OOO Patch.esp
 MJA Vampire Improvements.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp

@@ -539,7 +539,7 @@ Louder Nirnroots.esp
 ln.esp
 Louder Nirns.esp
 Symphony of Violence.esp
-? Do NOT use with Deadly Reflex. Will cause CTDs.
+? May cause CTDs when used with Deadly Reflex. Unverified.
 Echo_ChapelChant.esp
 AmbientTownSounds.esp
 Ambient Inns, 0.1.esp
@@ -686,7 +686,7 @@ IWRRAMarketDistrict.esp
 Sunlit Interiors 1.31.esp
 
 aKALAmbientDungeonsBeta2.esp
-? Requires ScreenEffects and 'You Are Here'.
+? Requires 'ScreenEffects' and 'You Are Here'.
 ? Old version, incompatible with other ScreenEffects mods. Upgrade to latest.
 
 AmbientDungeons.esp
@@ -755,7 +755,7 @@ Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
-OBG - BÅchermod - Bilder - BP.esp
+OBG - Bchermod - Bilder - BP.esp
 % {{BASH:Graphics}}
 
 aaaBorsBedrolls.esp
@@ -809,7 +809,7 @@ CATSDeerPeltsAndAntlers.esp
 ? Moving after overhauls may restore this mod's functionality but may break some overhaul mod settings. Untested.
 
 Complete Names.esp
-% {{BASH:Names}} ??? Untested.
+% {{BASH:Names}}
 Rational Names, 2.esp
 % {{BASH:Names}}
 CNRP Brumav02.esp
@@ -838,6 +838,7 @@ Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 
 CrimsonScarArmor.esp
+
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
@@ -1072,14 +1073,15 @@ Immersive Music Skycaptain Mix.esp
 Better Beggars.esp
 
 moregems.esp
+
 Mud Crabs!.esp
-? Use only one Mud Crabs!x file
+? Use only one Mud Crabs! file
 Mud Crabs!_coMbO.esp
-? Use only one Mud Crabs!x file
+? Use only one Mud Crabs! file
 Mud Crabs!_MMM.esp
-? Use only one Mud Crabs!x file
+? Use only one Mud Crabs! file
 Mud Crabs!_OOO.esp
-? Use only one Mud Crabs!x file
+? Use only one Mud Crabs! file
 
 \Base N
 
@@ -1130,6 +1132,7 @@ PrivateQuarters.esp
 
 Q - More and Moldy Ingredients v1.1.esp
 Q - More and Moldy Ingredients v1.1 - DV.esp
+? German version?
 Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 Qarls_logs.esp
@@ -1258,8 +1261,6 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esp
 ? Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
 ? Not OOO compatible.
-
-
 
 Piratelords Trade Fixes.esp
 
@@ -1459,12 +1460,8 @@ TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
 % {{BASH:Body-F,Graphics}}
+
 EVE_StockEquipmentReplacer.esp
-EVE_ShiveringIslesEasterEggs.esp
-EVE_KnightsoftheNine.esp
-% {{BASH:Graphics}}
-EVE_KhajiitFix.esp
-% {{BASH:Body-F}}
 
 \-------------------------
 \Items (armor and weapons)
@@ -1476,11 +1473,11 @@ EVE_KhajiitFix.esp
 \Items Early
 
 Bonemold_Helmet.esp
-% {{BASH:NoMerge}} when using Unoffical Fran's Armor mod ('Fran Armor Add-on.esp').
-? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files required, however).
+% {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
+? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 Cryos Ordinator Lite.esp
-% {{BASH:NoMerge}} when using Unoffical Fran's Armor mod ('Fran Armor Add-on.esp').
-? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files required, however).
+% {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
+? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 
 avarm.esp
 
@@ -2796,7 +2793,7 @@ SellHorses.esp
 
 AncientTowers.esp
 AncientTowersNoExnem.esp
-cidnothumb.esp
+cidnothump.esp
 % {{BASH:Sound}}
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Goblin Realswords+Tribal Shields.esp
@@ -4503,10 +4500,7 @@ JV-ArenaModification-0.9.esp
 Lyn-RealArenaFighters.esp
 Visually Enhanced Arena.esp
 ArenaGamblingHighRollers.esp
-
 OBF Arena Fix.esp
-
-\Quests Late
 
 
 \-----
@@ -4567,6 +4561,7 @@ BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
+
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
 % {{BASH:Graphics}} for Slof's Horses compatibility.
@@ -4627,7 +4622,6 @@ Consequences_Knights.esp
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
 
-EVE_KnightsoftheNine.esp
 
 \----------------------
 \Quests and Locations 3
@@ -7668,10 +7662,6 @@ DASephirothCompanion.esp
 \Pre Bash
 \--------
 
-Cobl Filter Late MERGE ONLY.esp
-? Make sure it is deactivated. Must be merged into Bashed Patch
-Cobl Silent Equip Misc.esp
-
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp
 Better Cities IC Arena.esp
@@ -7699,6 +7689,10 @@ NRB4 Standard Road Record.esp
 NRB4 OCLR Road Record.esp
 ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
+
+Cobl Filter Late MERGE ONLY.esp
+? Make sure it is deactivated. Must be merged into Bashed Patch
+Cobl Silent Equip Misc.esp
 
 
 \------------

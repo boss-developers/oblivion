@@ -6718,7 +6718,7 @@ SpookyNPCAIModsMerge.esp
 \Skills, Attributes and Leveling
 \'''''''''''''''''''''''''''''''
 \
-\Unlikely to interact with other mods.
+\Unlikely to interact with other kinds of mods.
 \Includes related mods bundled with OOO and similar optional items from Fran's.
 
 Druid.esp
@@ -6726,21 +6726,9 @@ Druid.esp
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
 LRM_Generic.esp
 
-AttributeInfluenceSkill.esp
-Enchanting Skill.esp
-Rathe's Better Intelligence.esp
-Educational Magicka - 2.1.esp
-Improved Willpower - 2.0.esp
-fwLeveledMagicka.esp
-Enhanced Mercantile Progress.esp
-Smarter Mercantile Leveling - Multi.esp
-tweaked_smarter_mercantile.esp
-CLS-OldFriends-OBSE.esp
-RetroHealth.esp
-MagicBasedSkillProgression.esp
-
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
+\Core is possibley an outdated file.
 CDM-CGO Horse Armor Compatability.esp
 ? Not compatible with 'SM Plugin Refurbish' mods.
 CDM-CGO Orrery Compatibility.esp
@@ -6758,6 +6746,31 @@ CDM-CGO Frostcrag Compatibility.esp
 ? Not compatible with 'SM Plugin Refurbish' mods.
 CDM-CGO Frostcraft Compatibility.esp
 CDM-CGO Classes.esp
+CDM-CGO Master Trainers.esp
+CDM-CGO Unlimited Training.esp
+CDM-CGO Standard Skill Levelling Faster.esp
+? Only use one CDM-CGO Skill Levelling plugin.
+CDM-CGO Standard Skill Levelling Slower.esp
+? Only use one CDM-CGO Skill Levelling plugin.
+CDM-CGO Standard Skill Levelling.esp
+? Only use one CDM-CGO Skill Levelling plugin.
+CDM-CGO Vanilla Skill Levelling Faster.esp
+? Only use one CDM-CGO Skill Levelling plugin.
+CDM-CGO Vanilla Skill Levelling Slower.esp
+? Only use one CDM-CGO Skill Levelling plugin.
+
+AttributeInfluenceSkill.esp
+Enchanting Skill.esp
+Rathe's Better Intelligence.esp
+Educational Magicka - 2.1.esp
+Improved Willpower - 2.0.esp
+fwLeveledMagicka.esp
+Enhanced Mercantile Progress.esp
+Smarter Mercantile Leveling - Multi.esp
+tweaked_smarter_mercantile.esp
+CLS-OldFriends-OBSE.esp
+RetroHealth.esp
+MagicBasedSkillProgression.esp
 
 Governing Attributes Overhaul.esp
 

@@ -335,6 +335,10 @@ Better Cities .esp
 MMM.esp
 ? Dummy file to load the MMM .BSA
 
+MrSiika'sFoxes.esp
+? Do not use with MMM/FCOM. Already integrated.
+MrSiikaRabbits.esp
+? Do not use with MMM/FCOM. Already integrated.
 
 \-----------------------------
 \Initial Fran's files for FCOM
@@ -371,6 +375,8 @@ FCOM_FrancescosNamedBosses.esp
 
 FranOBSEConfig.esp
 
+MrSiikaRabbitsforFrans.esp
+? Do not use with MMMforFrans. Already Intergrated.
 
 \---------------------------
 \Loading Screen Alternatives
@@ -2984,7 +2990,8 @@ OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
 ? Use only one LightOfDawn plugin.
 OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
-
+MrSiikaRabbitsforOOO.esp
+? Do not use with MMMforOOO/FCOM. Already intergrated.
 
 \Post OOO
 \''''''''

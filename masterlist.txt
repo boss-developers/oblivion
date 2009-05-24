@@ -3880,6 +3880,7 @@ Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
+DBSRebuiltComplete.esp
 DarkLair.esp
 DarksullTower1point1.esp
 Dancer_Undress0_6.esp
@@ -4229,6 +4230,8 @@ PrisonersCampsite-COBL.esp
 PrincessImperialCityApartment-COBL.esp
 Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
+Princess Sheogorath Palace.esp
+Princess DB Sanctuary.esp
 
 \Quests Q
 
@@ -4410,8 +4413,10 @@ Ushnars Skinned Hound.esp
 Valley_View_Estate.esp
 Better Cities - Valley View Estate.esp
 Vampire Tunnel System.esp
+VampiresLair.esp
 Vampire Haven.esp
 1SB_VampireHaven.esp
+CV - Castle Dracula.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
@@ -5615,7 +5620,7 @@ M.O.E. - Lycanthropy and Lichcraft.esp
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
-
+M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
 more_classes1.1.esp
@@ -5885,6 +5890,8 @@ Enhanced Quest Roleplaying - FCOM.esp
 Feudal Empire 300.esp
 % {{BASH:Invent,Graphics}}
 ? Use instead of 300_White Stallion 4.esp
+300 Feudal Empire.esp
+% {{BASH:Invent,Graphics}}
 
 DurableEquipment_10.esp
 
@@ -6033,6 +6040,7 @@ ANB_Dynamic_Regen.esp
 WPHealthRegen.esp
 Wounds Healed - 1.1.esp
 NoHealingDuringWait.esp
+Natural Hunger v2_0 by QF.esp
 Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
 sr_retroactive_health.esp
@@ -6090,6 +6098,14 @@ Vampisism Overhaul 2.esp
 ? Older version. Consider using version 3 or later.
 Drokk's Vampire Mod.esp
 Circ Vamp Aesthetics.esp
+vamp_face_whiteblue.esp
+vamp_no_wrinkles.esp
+vamp_normal_eyes.esp
+BladeVampires.esp
+NoVampirismComments.esp
+LessFrequentVampirismComments.esp
+Vampire Hunters Tools.esp
+CDM - Vampirism.esp
 
 PxNewVampires_NoNPC.esp
 PxNPC_Reactions.esp
@@ -6108,7 +6124,9 @@ CDM-Vampire Bite.esp
 CDM-NPC Sundamage.esp
 
 SpreadingVampirism.esp
+SpreadingVampirism_OpenCities.esp
 SpreadingVampirism_NoSecondaryInfection.esp
+SpreadingVampirism_OpenCities_NoSecondaryInfection.esp
 
 MM_VampireFeeding.1.2.esp
 Muggervamp.esp
@@ -6767,6 +6785,7 @@ CDM-CGO Vanilla Skill Levelling Faster.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
 CDM-CGO Vanilla Skill Levelling Slower.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
+CDM-CGO Level Up.esp
 
 AttributeInfluenceSkill.esp
 Enchanting Skill.esp
@@ -7586,6 +7605,7 @@ EVE_KhajiitFix.esp
 
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Unique Clothes.esp
 
 
 \----------

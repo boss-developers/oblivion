@@ -270,6 +270,8 @@ object_placement.esp
 ? compatable with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
 CaeliaDraconisFix.esp
 ? May be fixed in UOP 3.0.1+ - consult documentation.
+sulinus fix.esp
+? Not a fix exactly, so can be used with the UOP.
 
 
 \---
@@ -330,6 +332,8 @@ Fra.esp
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 Better Cities .esp
 ? Dummy file to load Better Cities .BSA
+MMM.esp
+? Dummy file to load the MMM .BSA
 
 
 \-----------------------------
@@ -3598,6 +3602,7 @@ Quelldorf ohne Schiff1.5.esp
 ? Requires 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 
 KvatchAftermath.esp
+FCOM_KvatchAftermath.esp
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
@@ -3934,6 +3939,7 @@ Extended Imperial City.esp
 Extended Imperial City Version 1.0.esp
 Extended Chorrol.esp
 Extended Skingrad.esp
+Extended NPCs Merge.esp
 eyja.esp
 
 \Quests F

@@ -17,6 +17,7 @@
 \----
 
 Oblivion.esm
+Underdark.esm
 SC_Drow Race.esm
 SoVvM.esm
 Morrowind_ob.esm
@@ -135,6 +136,14 @@ Horse Combat Master.esm
 IngredientJars.esm
 Lamps of Oblivion Master.esm
 TIE4MODS.esm
+
+
+\-------------
+\Earliest mods
+\-------------
+
+TRoN.esp
+\Probably doesn't need to load this early but authors recommend it.
 
 
 \-------------
@@ -339,6 +348,8 @@ MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
 MrSiikaRabbits.esp
 ? Do not use with MMM/FCOM. Already integrated.
+
+
 
 \-----------------------------
 \Initial Fran's files for FCOM

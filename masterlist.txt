@@ -988,6 +988,8 @@ ImpeREAL City Unique Districts - All the Districts - Merged.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
 ? Not compatible with Better Cities.
 ImpeREAL Empire - Unique Castles - Anvil.esp
@@ -1148,6 +1150,7 @@ Pitchable_Tent_anywhere.esp
 Portable Campsite.esp
 Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
+Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
 
 \Base Q
@@ -4580,6 +4583,7 @@ Lynges Thieves Highway.esp
 
 DLCFrostcrag.esp
 % {{BASH:C.Owner}}
+Kvatch Rebuilt_Frostcrag Reborn.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
 SM Plugin Refurbish - FrostCrag.esp
@@ -5327,6 +5331,8 @@ RealisticFlora - DLCFrostcrag.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCVilelair.esp.
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
+RealisticFlora - DLCVileLair.esp
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 WD's Auto Harvest.esp
 LCs Auto Harvest.esp
 
@@ -5980,6 +5986,7 @@ Alternative Start v1.2.esp
 ? Check you're using v1.26 or later.
 Alternative Start v1.26.esp
 anb.esp
+AltStart.esp
 quickstart.esp
 Quickstart_DV.esp
 newstartV3.esp
@@ -5989,6 +5996,7 @@ CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
+
 
 
 \Realism

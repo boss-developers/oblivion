@@ -120,6 +120,8 @@ You Are Here.esm
 rdweaponpack1.esm
 StaticAlchemyMod.esm
 TR_OoT_Main.esm
+Hammerfell.esm
+\could easily want to go somewhere else but this should work (landscape ain't my strongsuit). and requires TR_OoT_Main.esm so to go higher would have to move that anyways...
 cssBase.esm
 CM Partners Mod.esm
 Open Cities Resources.esm
@@ -133,9 +135,11 @@ Toaster Says Share v3.esm
 OblivionMountProject.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
+UnnecessaryViolence.esm
 IngredientJars.esm
 Lamps of Oblivion Master.esm
 TIE4MODS.esm
+morerunes' food collection.esm
 
 
 \-------------
@@ -282,6 +286,9 @@ CaeliaDraconisFix.esp
 sulinus fix.esp
 ? Not a fix exactly, so can be used with the UOP.
 
+AdventurersItemMod.esp
+? If not using Bash this must be loaded after UOP but then you will lose a lot of fixed from UOP.
+%{{invent}} needed so that it will work before UOP and still have the inventory changes from this.
 
 \---
 \UOP
@@ -1795,6 +1802,7 @@ DC-Armor-Pack.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DHAyleidShield.esp
+DivineShields.esp
 DMACArmor.esp
 DMGloves.esp
 DMoMM Weapons - Kriss Dagger.esp
@@ -3006,6 +3014,8 @@ OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
 MrSiikaRabbitsforOOO.esp
 ? Do not use with MMMforOOO/FCOM. Already intergrated.
+OOO_XiaNewAmulets Addon.esp
+OOO_XiaNewAmulets Addon - LLOnly.esp
 
 \Post OOO
 \''''''''
@@ -4225,7 +4235,7 @@ Night Shops of Cyrodiil.esp
 nordinkarst_1.0.1_en.esp
 
 \Quests O
-
+OMPexample.esp
 One Stop Magic Shop.esp
 One Stop Armors.esp
 000lute.esp
@@ -6218,6 +6228,7 @@ Divine Magicka.esp
 DOT Spells.esp
 Elemental Horses.esp
 Finders Keepers.esp
+ForecastersWill.esp
 Gather Ye Rosebuds.esp
 GrimbotsSpellTomes.esp
 haz_ct5_mark_recall.esp
@@ -6271,6 +6282,7 @@ Rain of Gold OBSE.esp
 Rain of Gold.esp
 Remote Life Detect.esp
 SetEssentialActors.esp
+Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 Smite of Order.esp
 SpellDeflection.esp
 Stalk'em SI.esp
@@ -6707,6 +6719,9 @@ SamVimes's Feint Death.esp
 ptThrowingKnives.esp
 ? Obsolete. Upgrade to Throw Any Weapon. 
 ptThrowingWeapons.esp
+/? Obsolete and known bugs fixed in upgrade. Upgrade to Unnecessary Violence (when released).
+UnnecessaryViolence.esp
+UV - No blood.esp
 
 Deadly Reflex 5 - Timed Block.esp
 ? Use no more than one Timed Block ESP.

@@ -494,6 +494,8 @@ EnhancedWeatherSIOnly.esp
 ? Requires 'EnhancedWeatherSIOnly.esm'
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
+EW-GTA2 Patch.esp
+? Obsolete as of EW version 1.3.4. Do not use.
 
 All Natural.esp
 ? Required for All Natural.

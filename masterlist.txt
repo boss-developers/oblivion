@@ -1388,6 +1388,7 @@ HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
 JQ-PortableSigns.esp
 MapMarkers.esp
+Map Markers for Explorers & Adventurers.esp
 Nirnroot Completion.esp
 Oblivion Gate Map Marker Remover.esp
 Oblivion Gate Markers.esp
@@ -3956,13 +3957,6 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 
 Egainjo Manor.esp
 
-EiAmod.esp
-? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
-? Use 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
-? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
-EiAmod_ShiveringIsles.esp
-EiAmod_ChoicesandConsequences.esp
-
 Elemental Witches.esp
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
@@ -4121,6 +4115,13 @@ OCC-KR-Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
+
+EiAmod.esp
+? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
+? Use 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
+? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
+EiAmod_ShiveringIsles.esp
+EiAmod_ChoicesandConsequences.esp
 
 KumikoManor.esp
 KEMT.esp
@@ -4407,6 +4408,7 @@ TheStorytellersBrotherQuest.esp
 TheVaultofOrder.esp
 thievery.esp
 Better Cities - Thievery.esp
+To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
 Tomb of the Unknown Knight.esp
 TR_Stirk_v0.9.esp
@@ -4697,6 +4699,7 @@ TOTF.esp
 OCC-TOTF-Patch.esp
 TotF Stronger Cleon.esp
 TotF MtyMgc Patch.esp
+TOTF-EiAE Patch.esp
 
 Ruined Tale 3.0.esp
 RTT.esp

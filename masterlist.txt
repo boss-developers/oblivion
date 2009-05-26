@@ -7040,11 +7040,18 @@ _darker_dungeons.esp
 % {{BASH:C.Light}} and deactivate.
 less_dungeon_effects-6330.esp
 Let There Be Darkness.esp
+? Obsolete. Upgrade to version 1.2+.
+% {{BASH:C.Light}}
+Let There Be Darkness - Cyrodiil.esp
 % {{BASH:C.Light}}
 Let There Be Darkness - Knights.esp
 ? Requires Knights of the Nine.
 % {{BASH:C.Light}}
 Let There Be Darkness - Shivering Isles.esp
+? Requires Shivering Isles.
+? Obsolete. Upgrade to version 1.2+.
+% {{BASH:C.Light}}
+Let There Be Darkness - Cyrodiil + SI.esp
 ? Requires Shivering Isles.
 % {{BASH:C.Light}}
 Let There Be Darkness - Mehrunes Razor.esp

@@ -394,7 +394,7 @@ FCOM_FrancescosNamedBosses.esp
 FranOBSEConfig.esp
 
 MrSiikaRabbitsforFrans.esp
-? Do not use with MMMforFrans. Already Intergrated.
+? Do not use with MMMforFrans. Already integrated.
 
 \---------------------------
 \Loading Screen Alternatives
@@ -3019,7 +3019,7 @@ OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
 OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
 MrSiikaRabbitsforOOO.esp
-? Do not use with MMMforOOO/FCOM. Already intergrated.
+? Do not use with MMMforOOO/FCOM. Already integrated.
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 
@@ -3082,10 +3082,10 @@ OBSE-Storms & Sound SI.esp
 >C&C&EQR - MMM.esp
 >
 >Mart's Monster Mod - Blood Fix v3.esp
->? Not needed in MMM 3.6beta3 Intergrated.
+>? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - Lesser Balrog Fix.esp
 >MMM - UberhulkParalyzeFix.esp
->? Not needed in MMM 3.6beta3 Intergrated.
+>? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - GhostApparitionFix.esp
 >
 >
@@ -3234,7 +3234,7 @@ OBSE-Storms & Sound SI.esp
 <CurseOfHircine.esp
 <
 <Mart's Monster Mod - Blood Fix v3.esp
-<? Old version. Not needed in MMM 3.6beta3 Intergrated or later.
+<? Old version. Not needed in MMM 3.6beta3 integrated or later.
 <Mart's Monster Mod - Lesser Balrog Fix.esp
 <MMM - UberhulkParalyzeFix.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
@@ -3820,10 +3820,11 @@ BeldaElysium.esp
 
 Benirus Manor Remade.esp
 Benirus' Past.esp
+Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
 Better Benirus Manor for COBL (Complete).esp
-Better Benirus Manor - Helping Hands.esp
+
 
 Best Defense.esp
 Better Elven Gardens.esp

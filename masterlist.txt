@@ -30,8 +30,9 @@ ScreenEffects.esm
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
-Francesco's Optional New Creatures Add-On.esm
-* Delete. Not FCOM compatible. Already integrated into FCOM.
+>Francesco's Optional New Creatures Add-On.esm
+>* Delete. Not FCOM compatible. Already integrated into FCOM.
+<Francesco's Optional New Creatures Add-On.esm
 battlemagearmor2-0Base.esm
 MD_Saddle_Master.esm
 Children Of Rourken.esm
@@ -3207,8 +3208,6 @@ OBSE-Storms & Sound SI.esp
 >Mart's Monster Mod - Gems & Gem Dust.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
->Mart's Monster Mod - Diverse Imperial Armor.esp
->* Delete. Already integrated into FCOM.
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -3395,8 +3394,8 @@ FCOM_TamrielTravelers.esp
 \FCOM\MMM optionals 3.
 \'''''''''''''''''''''
 
-Mart's Monster Mod - Diverse Imperial Armor.esp
-* Delete. Use 'FCOM_DiverseGuardUnity.esp' instead.
+>Mart's Monster Mod - Diverse Imperial Armor.esp
+>* Delete already integrated into FCOM components, use 'FCOM_DiverseGuardUnity.esp' instead.
 FCOM_DiverseGuardUnity.esp
 Choices and Consequences - FCOM - Diverse Guards.esp
 FCOM_BobsGuardUnity.esp
@@ -7337,8 +7336,6 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 BulkyNords.esp
 % {{BASH:Body-M,Body-F}}
 BulkyOrcs.esp
-% {{BASH:Body-M,Body-F}}
-Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}}
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}}

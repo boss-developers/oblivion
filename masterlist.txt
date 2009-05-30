@@ -594,6 +594,7 @@ Diverse Voices.esp
 
 PCSounds.esp
 PCSoundAlgernon.esp
+PCSoundBrekke.esp
 PCSoundCalisto.esp
 PCSoundCernd.esp
 PCSoundEdwin.esp
@@ -4197,6 +4198,7 @@ MadMagesTowerBASIC.esp
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Markets of Cyrodiil HI.esp
+ME_MERCENARIES.esp
 MiniCyrodiil.esp
 MountainShack.esp
 mrSiikas_TheEmperorsTomb.esp
@@ -4354,6 +4356,7 @@ SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
 Southhelm Manor.esp
 SoT_TheOrderofNibenay.esp
+sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Spirit's Edge.esp
 Star Ship Orion.esp
@@ -6132,12 +6135,15 @@ RealSleep.esp
 RealSleepExtended.esp
 SM Rest.esp
 Simple Essentials beta2.esp
+TFE.esp
+TFE Cobl.esp
 
 Duke Patricks - Basic Hypothermia.esp
 Duke Patricks Hydration and Water Harvesting.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Hydration and Water Harvesting.esp
 
+Roughing It.esp
 
 \Vampires
 \''''''''
@@ -6204,6 +6210,7 @@ Duke Patricks - Nosferatu Class Vampires.esp
 % {{BASH:Sound}}
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
+LithiansNatureOfTheBeastModBeta.esp
 
 \Race Balancing Project 1
 \''''''''''''''''''''''''
@@ -6495,6 +6502,8 @@ SigilStoneSelector.esp
 
 NekhanimalLifeDetect.esp
 
+TFE - Restore Cost.esp
+? Not needed if using LAME.
 
 \Alchemy
 \'''''''
@@ -6666,6 +6675,8 @@ kuerteeLootingDeadGuardsIsStealing.esp
 DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
 Infamy Pilgrimage.esp
+TRN One of the Gang.esp
+? If using kuerteeClothingMatters.esp it's INI needs to be adjusted for compatibility with this.
 
 GuildBetrayal.esp
 
@@ -7561,13 +7572,13 @@ bgBalancingEVOptionalBetterRedguards.esp
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-bgBalancingOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
+bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-bgBalancingOptionalNPCDiversity, TNR Merge Better Redguards.esp
+bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 

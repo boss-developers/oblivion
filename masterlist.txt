@@ -73,6 +73,7 @@ Oscuro's_Oblivion_Overhaul.esm
 Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
 * Delete. Not compatible with FCOM.
+Diverse Wisps - Base.esm
 Enhanced Daedric Invasion.esm
 CyrodiilUpgradeResourcePack.esm
 (DC)A Saints Tale Master.esm
@@ -3212,6 +3213,7 @@ OBSE-Storms & Sound SI.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
+>Mart's Monster Mod - Diverse Wisps.esp
 >MMM - Playable Undead Armors.esp
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
 
@@ -3321,6 +3323,7 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
+<Mart's Monster Mod - Diverse Wisps.esp
 <MMM - Playable Undead Armors.esp
 <MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
 
@@ -3328,6 +3331,8 @@ MrSiika'sFarmAnimals.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
 FarmAnimalsofCyrodiil.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
+Diverse Wisps - for Vanilla.esp
+? MMM users should use 'Mart's Monster Mod - Diverse Wisps.esp'.
 
 Mart's Monster Mod - Boar's Addon.esp
 Mart's Monster Mod - Hairy Spiders Addon.esp

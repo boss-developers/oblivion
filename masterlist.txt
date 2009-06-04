@@ -48,7 +48,7 @@ Crafting Skill Engine.esm
 AWS-Core.esm
 EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
-? Obsolete as of EW version 1.3.5. Use standalone SI functionality in Enhanced Weather.
+? Obsolete. Use standalone SI functionality in Enhanced Weather v1.3.5+ instead.
 Q-Core.esm
 CLS-ClassyClothes.esm
 Tamrielic Ingredients.esm
@@ -480,6 +480,8 @@ Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 
 EnhancedWeather.esp
+? Obsolete. Do not use with Enhanced Weather v1.3.5+.
+EnhancedWeather - Tamriel.esp
 EnhancedWeather - SI.esp
 ? Requires Shivering Isles expansion.
 EnhancedWeather - Enhanced Regions.esp
@@ -491,7 +493,7 @@ EnhancedWeather - Darker Nights, 50.esp
 EnhancedWeather - Darker Nights, 80.esp
 ? Use one 'Darker Nights' plugin not both. Pick which to use.
 EnhancedWeatherSIOnly.esp
-? Obsolete as of EW version 1.3.5. Use standalone SI functionality in Enhanced Weather.
+? Obsolete. Use standalone SI functionality in Enhanced Weather v1.3.5+ instead.
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
 EW-GTA2 Patch.esp

@@ -4523,9 +4523,6 @@ Weye.esp
 Weye_Manor.esp
 Windfall.esp
 
-AFK_Weye.esp
-Rumare-AFK_Weye Patch.esp
-
 WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
 
@@ -4734,6 +4731,10 @@ Ruin.esp
 ? FCOM requires 'FCOM_Ruin.esp'.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
+
+AFK_Weye.esp
+Rumare-AFK_Weye Patch.esp
+
 Mighty Umbra.esp
 ? FCOM requires 'FCOM_MightyUmbra.esp'.
 Mighty Umbra - Vanilla OB.esp

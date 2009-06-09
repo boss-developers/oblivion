@@ -236,9 +236,9 @@ Cobl Races TNR SI.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
 
 
-\----------------------------
-\Vanilla script and bug fixes
-\----------------------------
+\-------------
+\Vanilla fixes
+\-------------
 \
 \Everything else must be allowed to override these.
 \UOP v3.0.1 or later should be used to fix buggy vanilla quests rather than these -
@@ -928,6 +928,7 @@ Damsels In Distress.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
 Days&Months.esp
+DBCEndOfMayTeaser.esp 
 dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
@@ -1036,6 +1037,7 @@ Item interchange - Extraction.esp
 Japanese Clothing.esp
 JQPotionBottlesTest.esp
 ? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
+JQ-EasterEggHunt09.esp
 
 \Base K
 
@@ -1258,6 +1260,8 @@ Timekeeper_Advanced.esp
 Timescale Options.esp
 Trainer_Book.esp
 Treasure Hunt.esp
+TRN One of the Gang.esp
+? Some small conflicts with The Elder Council.
 TurnoffLights.esp
 TryBeforeYouBuy.esp
 
@@ -1272,6 +1276,8 @@ Underneath your Robe for SI.esp
 VA_BetterGold.esp
 % {{BASH:Graphics}}
 Venom.esp
+Vows and Covenants.esp 
+? Conflicts with Deadly Reflex. Seriousness of problem untested.
 VvardenfellIngredRedone.esp
 
 \Base W
@@ -3915,8 +3921,13 @@ ChangeinManagement.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
 Cheydinhal Petshop.esp
-? Has problems with FCOM and other mods
+? Has problems with FCOM and other mods.
 Comp_Cecilia.esp
+
+The Contented Prisoner V 2.esp
+TCP Silence remover.esp
+? Silenced character fix for The Contented Prisoner V 2.
+
 COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
@@ -4000,6 +4011,8 @@ OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
 FF_WaldnirsWoods.esp
 Fighting Chance.esp
+FiveBlindMiceBeta.esp
+? Beta. Some problems reported: eg floating door outside of the Wawnet Inn.
 FMan-CityIsleBridges.esp
 Forgotten Tomb.esp
 Fort_Cooper.esp
@@ -6544,7 +6557,6 @@ lumi_alchemyexpanded.esp
 Poison Combiner.esp
 Advanced Magecraft
 Weapon Magic.esp
-SciptIcon Replacer.esp
 varlatest.esp
 ? Incompatible with mods that alter Welkynd or Varla stones or the AyleidWell script.
 TSRCS.esp
@@ -7105,7 +7117,7 @@ Let There Be Darkness - Mehrunes Razor.esp
 ? Requires Mehrunes Razor DLC
 % {{BASH:C.Light}}
 FastTravelAllowed.esp
-ScriptEffectIconReplace.esp
+
 Item interchange - Placement.esp
 * Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
 ? Non-FCOM version.
@@ -7119,7 +7131,11 @@ Item interchange - Option, Ingredients in Bulk.esp
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp
+
+ScriptEffectIconReplace.esp
 M.O.E. - Better Icon for Script Effects.esp
+SciptIcon Replacer.esp
+JOTN script effect replacer.esp
 
 Stat Restore.esp
 
@@ -7347,23 +7363,23 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 \'''''''''''''''''''''
 
 BulkyNords.esp
-% {{BASH:Body-M,Body-F}}
+% {{BASH:Body-M,Body-F}} and deactivate.
 BulkyOrcs.esp
-% {{BASH:Body-M,Body-F}}
+% {{BASH:Body-M,Body-F}} and deactivate.
 Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-M,Body-F}}
+% {{BASH:Body-M,Body-F}} and deactivate.
 Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 EyelashesVannilaRaces.esp
-% {{BASH:NpcFaces,Graphics}}
+% {{BASH:NpcFaces,Graphics}} and deactivate.
 Jjiinx_MorrowindStyleArgonians.esp
-% {{BASH:NpcFaces,Graphics}}
+% {{BASH:NpcFaces,Graphics}} and deactivate.
 Better Redguard v2.esp
-% {{BASH:NpcFaces,Graphics}}
+% {{BASH:NpcFaces,Graphics}} and deactivate.
 Smaller Elf ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}}
+% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 
 
 \Hair
@@ -7372,71 +7388,71 @@ Smaller Elf ears.esp
 UnlockedHairs.esp
 M.O.E. - Unlocked Hairstyles.esp
 Bald_Hairstyle.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 tkHairPack01.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 babehair_EV.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 soya_04hair.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 Soya 4 Hair Pack.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 Soya 4 Hair Pack - English.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 BWs Argonian Hair.esp
-% {{BASH:Graphics,Hair}}
+% {{BASH:Graphics,Hair}} and deactivate.
 CT-Argonian Headstyles.esp
-% {{BASH:Graphics,Hair}}
+% {{BASH:Graphics,Hair}} and deactivate.
 Corean_hair_for_Original_race.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 _Ren_BeautyPack_onlyhairs.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 KDshorthair.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 ZelsHairfixRenshairV1_5.esp
-% {{BASH:Hair}}
+% {{BASH:Hair}} and deactivate.
 
 
 \Eyes
 \''''
 
 ElaborateEyes.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 Ethereal - Eyes.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 DaMage's_Eye_Pack.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 PHVanillaEyesAddon.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 elveons realistic eyes.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 Cernasite - DragonEyes.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 JCPeepers.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 Cat_eyes.esp
-% {{BASH:Eyes}}
+% {{BASH:Eyes}} and deactivate.
 
 
 \Mixed
 \'''''
 
 All_hair_and_eyes-1841.esp
-% {{BASH:Hair,Eyes}}
+% {{BASH:Hair,Eyes}} and deactivate.
 Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation - No NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackHairsOnly.esp
-% {{BASH:Hair,Eyes}}
+% {{BASH:Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE.esp
-% {{BASH:Graphics,Hair,Eyes}}
+% {{BASH:Graphics,Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-MM.esp
-% {{BASH:Graphics,Hair,Eyes}}
+% {{BASH:Graphics,Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE+MM.esp
-% {{BASH:Graphics,Hair,Eyes}}
+% {{BASH:Graphics,Hair,Eyes}} and deactivate.
 
 
 \Race additions (+ hair + eyes etc)
@@ -7978,8 +7994,10 @@ FormID Finder.esp
 FormID Finder without Pluggy.esp
 TES4ViewLink.esp
 
+kuerteeCleanUp.esp
 CleanQuit.esp
 
 Streamline 3.1.esp
 Streamline 3.0.esp
 ? Old. Update to 3.1 or later.
+

@@ -18,15 +18,29 @@
 
 Oblivion.esm
 Underdark.esm
-SC_Drow Race.esm
+GTAesgaard_2.esm
 SoVvM.esm
 Morrowind_ob.esm
 Tribunal_ob.esm
 Bloodmoon_ob.esm
-NPC With Jobs.esm
+Silgrad_Tower.esm
+Cybiades.esm
+Windfall.esm
+Hammerfell.esm
 MathFunctions.esm
+Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
+Q-Core.esm
+Inventory Tracker.esm
+You Are Here.esm
+Uncommon GUI.esm
+IWRRetrofittedMaster.esm
+Natural Interiors.esm
+AWS-Core.esm
+EnhancedWeather.esm
+EnhancedWeatherSIOnly.esm
+? Obsolete. Use standalone SI plugin in Enhanced Weather v1.3.5+ instead.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
@@ -37,19 +51,10 @@ battlemagearmor2-0Base.esm
 MD_Saddle_Master.esm
 Children Of Rourken.esm
 Slof's Clouded Leopard.esm
-Jog_X_Mod.esm
-CM Partners.esm
-Inventory Tracker.esm
 DASkeleton.esm
-Bab.esm
-Easy_Companion_Share.esm
 A_Bloody_Mess.esm
 Crafting Skill Engine.esm
-AWS-Core.esm
-EnhancedWeather.esm
-EnhancedWeatherSIOnly.esm
-? Obsolete. Use standalone SI functionality in Enhanced Weather v1.3.5+ instead.
-Q-Core.esm
+NPC With Jobs.esm
 CLS-ClassyClothes.esm
 Tamrielic Ingredients.esm
 ? Do not use Tamrielic Ingredients and COBL at the same time.
@@ -83,64 +88,60 @@ Armamentarium.esm
 ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
 DremoraCompanion.esm
-Silgrad_Tower.esm
-Cybiades.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
-Windfall.esm
 Better Cities Resources.esm
-IWRRetrofittedMaster.esm
+Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 bookplacing.esm
 BathingMod_Base.esm
 No Lights Flicker.esm
 Ambidextrie.esm
 AFC v2 Core.esm
-UnnecssaryViolence.esm
-Beautiful People.esm
-DIM Elves Of Lineage II Retex.esm
-EyeCandy - Content.esm
-EyeCandy Compilation.esm
 Progress.esm
 HelmetFOV.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
 Wondrous Items.esm
 VVAdvanced.esm
-Natural Interiors.esm
 Adrenaline Locational Masterfile.esm
 CLS-craftybits.esm
 Horadric Cube.esm
 UHK.esm
 DA Run Fatigue.esm
 ANB_Scrolls.esm
-Lineage II Elves.esm
-Eluna.esm
-Uncommon GUI.esm
-You Are Here.esm
+OblivionMountProject.esm
+IngredientJars.esm
 rdweaponpack1.esm
 StaticAlchemyMod.esm
 TR_OoT_Main.esm
-Hammerfell.esm
-\could easily want to go somewhere else but this should work (landscape ain't my strongsuit). and requires TR_OoT_Main.esm so to go higher would have to move that anyways...
 cssBase.esm
+Lamps of Oblivion Master.esm
+morerunes' food collection.esm
+CM Partners.esm
 CM Partners Mod.esm
-Open Cities Resources.esm
-GTAesgaard_2.esm
+Easy_Companion_Share.esm
+Toaster Says Share v3.esm
+Beautiful People.esm
+Bab.esm
+EyeCandy - Content.esm
+EyeCandy Compilation.esm
+SC_Drow Race.esm
+DIM Elves Of Lineage II Retex.esm
+Lineage II Elves.esm
+Eluna.esm
 300_Races.esm
 AinmhiRace.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
-Toaster Says Share v3.esm
-OblivionMountProject.esm
+TIE4MODS.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 UnnecessaryViolence.esm
-IngredientJars.esm
-Lamps of Oblivion Master.esm
-TIE4MODS.esm
-morerunes' food collection.esm
+
+
+
 
 
 \-------------
@@ -441,9 +442,8 @@ Zira's Horse Theme Loadscreens.esp
 \Unlikely to be affected by anything but sound mods.
 
 _Real_Lights.esp
-? Accidentally disables the Umbacano branch of The Collector quest.
-? - edit to remove the MS21statuescript script changes to fix this.
-? All Natural's Real Lights implementation shouldn't suffer from this.
+? Accidentally disables the Umbacano branch of The Collector quest - edit to remove the MS21statuescript script changes to fix this.
+? All Natural's Real Lights implementation doesn't suffer from this.
 
 oc_darker_nights.esp
 ? Not compatible with weather overhauls.
@@ -480,10 +480,8 @@ Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 
 EnhancedWeather.esp
-? Obsolete. Do not use with Enhanced Weather v1.3.5+.
-EnhancedWeather - Tamriel.esp
 EnhancedWeather - SI.esp
-? Requires Shivering Isles expansion.
+? Obsolete as of EW version 1.3.5. Do not use.
 EnhancedWeather - Enhanced Regions.esp
 ? Requires OBSE.
 EnhancedWeather - Enhanced Seasons.esp
@@ -493,7 +491,7 @@ EnhancedWeather - Darker Nights, 50.esp
 EnhancedWeather - Darker Nights, 80.esp
 ? Use one 'Darker Nights' plugin not both. Pick which to use.
 EnhancedWeatherSIOnly.esp
-? Obsolete. Use standalone SI functionality in Enhanced Weather v1.3.5+ instead.
+? Obsolete. Use standalone SI plugin in Enhanced Weather v1.3.5+ instead.
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
 EW-GTA2 Patch.esp
@@ -730,7 +728,7 @@ AmbientDungeons.esp
 \'''''''''''''''''
 \
 \Includes nearly all new items (except weapons and armor).
-\Low prioity mods.
+\Low priority mods.
 
 \Base #
 

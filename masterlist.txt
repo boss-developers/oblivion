@@ -24,6 +24,7 @@ Morrowind_ob.esm
 Tribunal_ob.esm
 Bloodmoon_ob.esm
 Silgrad_Tower.esm
+Silgrad_Tower_T.esm
 Cybiades.esm
 Windfall.esm
 Hammerfell.esm
@@ -78,6 +79,7 @@ Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
 * Delete. Not compatible with FCOM.
 Diverse Wisps - Base.esm
+Gems and Gem Dusts.esm
 Enhanced Daedric Invasion.esm
 CyrodiilUpgradeResourcePack.esm
 (DC)A Saints Tale Master.esm
@@ -87,6 +89,7 @@ FCOM_Convergence.esm
 Armamentarium.esm
 ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
+? Old, merged into newest Armamentarium Complete. 
 DremoraCompanion.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
@@ -301,7 +304,7 @@ Unofficial Oblivion Patch-mobs.esp
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
-
+Primate Rank Fix.esp
 
 \---------------
 \Shivering Isles
@@ -2170,6 +2173,7 @@ Slof's Sea Armour.esp
 sluggosilkdancer.esp
 SomeRobes.esp
 SoT_Rise of Sheogorath.esp
+soulblade.esp
 SoulCalibur1h.esp
 SoulCalibur2h.esp
 Spell Breaker Replacer.esp
@@ -3216,6 +3220,7 @@ OBSE-Storms & Sound SI.esp
 >Mart's Monster Mod - Curse of Hircine.esp
 >Mart's Monster Mod - More Reaver Variants.esp
 >Mart's Monster Mod - Gems & Gem Dust.esp
+>Gems and Gem Dusts - MMM.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
@@ -3268,6 +3273,7 @@ OBSE-Storms & Sound SI.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Gems & Gem Dust.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
+<Gems and Gem Dusts - MMM.esp
 <Mart's Monster Mod - Hunting & Crafting.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
@@ -4037,6 +4043,7 @@ Ghost Ship.esp
 Garrett Mod-TESSource.esp
 GCMansion.esp
 Gelden_Halls.esp
+Gems and Gem Dust - Cell Placement.esp
 GDSkingradCathedral.esp
 Gift of Kynareth.esp
 GoblinwatchKeep.esp
@@ -4266,6 +4273,8 @@ New_Sheoth_Palace_LOD_fix-10076.esp
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
+Nine Divines Robes.esp
+? requires OBSE
 nordinkarst_1.0.1_en.esp
 
 \Quests O
@@ -4405,6 +4414,8 @@ TempleOfZealots.esp
 TempleOfZealotsV2.esp
 The Ayleid Steps.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
+Ayleid Respawn v1.0 - For The Ayleid Steps.esp
+? may be incompatible with AN/RL - to be confirmed.
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Dark Trilogy.esp
 The_Honor_of_Assassins.esp
@@ -4451,6 +4462,7 @@ TR_Stirk.esp
 % {{BASH:Graphics}}
 Stirk_Compatibility_Patch.esp
 ? Requires TR_Stirk.
+FCOM_Stirk.esp
 Transmutation.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
@@ -5847,6 +5859,7 @@ Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
 Silgrad_Tower_Travel.esp
+Silgrad_Tower_T.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
 Skycaptains BloodTime.esp
@@ -6289,7 +6302,9 @@ Gather Ye Rosebuds.esp
 GrimbotsSpellTomes.esp
 haz_ct5_mark_recall.esp
 haz_ct7_horse_relocate.esp
+Healers.esp
 hilarity_121.esp
+hunters_performance.esp
 IllusionaryScript.esp
 Improved Ancestor Guardian.esp
 JADPolymorphSpellv3.esp

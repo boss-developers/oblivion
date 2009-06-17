@@ -6792,11 +6792,9 @@ GM's Deadly Archery.esp
 SamVimes's Feint Death.esp
 
 ptThrowingKnives.esp
-? Obsolete. Upgrade to Throw Any Weapon. 
+? Obsolete. Upgrade to Unnecessary Violence. 
 ptThrowingWeapons.esp
-/? Obsolete and known bugs fixed in upgrade. Upgrade to Unnecessary Violence (when released).
-UnnecessaryViolence.esp
-UV - No blood.esp
+? Obsolete and known bugs fixed in upgrade. Upgrade to Unnecessary Violence.
 
 Deadly Reflex 5 - Timed Block.esp
 ? Use no more than one Timed Block ESP.
@@ -7830,6 +7828,7 @@ DASephirothCompanion.esp
 \--------
 \Pre Bash
 \--------
+UnnecessaryViolence.esp
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp

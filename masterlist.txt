@@ -4518,10 +4518,6 @@ Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
 Verwen Brewery.esp
-Verwen Brewery UL Ancient Yews Compatable.esp
-? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
-Verwen Brewery UL_AY_AC Compatable.esp
-? Use only one Verwen Brewery esp. Requires the Unique Landscapes Ancient Yews/Arrius Creek patch.
 
 VHBloodlines 1.2.esp
 Better Cities - VHBloodlines.esp
@@ -4979,6 +4975,8 @@ EtInArkay-LushWoodlands patch.esp
 ? Obsolete.This patch is not needed if using the latest version of Lush Woodlands.
 
 xulAncientYews.esp
+Verwen Brewery UL Ancient Yews Compatable.esp
+? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
 
 xulAncientRedwoods.esp
 WaldnirsWoods-AncientRedwoods patch.esp
@@ -4993,6 +4991,9 @@ Ravenview-Cloudtop-Patch.esp
 
 xulArriusCreek.esp
 xulPatch_AY_AC.esp
+
+Verwen Brewery UL_AY_AC Compatable.esp
+? Use only one Verwen Brewery esp. Requires the Unique Landscapes Ancient Yews/Arrius Creek patch.
 HeartoftheDead-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp

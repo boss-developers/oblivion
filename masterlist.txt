@@ -4070,8 +4070,11 @@ Hand of Dawn.esp
 Hand of Dawn - ONE.esp
 HauntedHouse v1.3.esp
 % {{BASH:Invent}}
-? Version 1.4 is available.
+? Version 1.5 is available.
 HauntedHouse v1.4.esp
+% {{BASH:Invent}}
+? Version 1.5 is available.
+Haunted_House_v1.5.esp
 % {{BASH:Invent}}
 HazadirsArms.esp
 HauntedHouse.esp
@@ -7786,6 +7789,7 @@ EVE_KhajiitFix.esp
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Unique Clothes.esp
+OC+Integration Patch.esp
 
 
 \----------

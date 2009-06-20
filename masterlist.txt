@@ -753,8 +753,9 @@ AmbientDungeons.esp
 AliveWaters.esp
 AliveWaters - Koi Addon.esp
 AliveWaters - Slaughterfish Addon.esp
-Fish!.esp
-Fish! - v1.1.esp
+MoreLive_AliveWatersRedone.esp
+MoreLive_AliveWatersRedone_Koi.esp
+MoreLive_AliveWatersRedone_Slaughterfish.esp
 
 Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
@@ -959,6 +960,8 @@ Extended Death Camera.esp
 FantasyPaintings.esp
 Fatality Cam.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
+Fish!.esp
+Fish! - v1.1.esp
 
 \Base G
 
@@ -981,6 +984,7 @@ HTFpcb Extended.esp
 \Base I
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
+SB IC Palace Tower Light Mod v1.1.esp
 
 ImpeREAL City Unique Districts - Talos Plaza.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
@@ -1009,6 +1013,8 @@ ImpeREAL City Unique Districts - All the Districts - Merged.esp
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
 ? Not compatible with Better Cities.
@@ -1195,6 +1201,7 @@ RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
 Resurrect book.esp
+Rex 1.21.esp
 RD-HeavensWrath-v1-1-Realistic.esp
 RD-TimeKeeper-v1-3-2minUpdate.esp
 RD-TimeKeeper-v1-3-5minUpdate.esp
@@ -1589,6 +1596,7 @@ ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
+Arcana Infinium.esp
 Armblade.esp
 % {{BASH:Invent}}
 arme - excalibur.esp
@@ -1971,6 +1979,7 @@ KDDwemerSpectacles.esp
 Kendo2_Gunman.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
+kfmageitems.esp
 Khamai Leon Armor.esp
 KhergitScimitar.esp
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
@@ -1999,6 +2008,7 @@ Lyn-ClawsOfTheGreyLady.esp
 \Items M
 
 m_DwemerEliteArmorWeps.esp
+Mage Ward.esp
 M&BAxes.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
@@ -4711,6 +4721,9 @@ EVE_KnightsoftheNine.esp
 MOBS_Knights.esp
 SM Plugin Refurbish - Knights.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
+SM Plugin Refurbish(Merged).esp
+? Requires all DLCs and Shivering Isles to be installed and active.
+? Not compatible with 'CDM-CGO Compatibility plugins'.
 Knights Patch.esp
 Knights - AWS Patch.esp
 Knights_fem.esp
@@ -5495,7 +5508,7 @@ Assassin Tripwires.esp
 Assassin Tripwires DBSR.esp
 AleswellNoRefractFix.esp
 AlendrialsLibrary.esp
-
+AdenseMiscValue.esp
 AutoBookPlacer_v3.esp
 AutoBookPlacer.esp
 Book Placement v2.esp
@@ -5568,6 +5581,7 @@ Cliff's Shacks Basements.esp
 Cliff's Shacks Basements-Radiant AI.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cobl Hmm.esp
+Cobl Bookplacement.esp
 CombatAlarm.esp
 Compass-Disable_POIs.esp
 Compass-Disable_QuestMarkers.esp
@@ -5801,6 +5815,7 @@ Mimics!.esp
 more books teach.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
+MWStyleSpriggansV.1.2.esp
 More_Training-1908.esp
 MoreTraining.esp
 movablebodies.esp
@@ -5901,9 +5916,10 @@ Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 SA Social Alertness.esp
+seorin's Artifact Fix.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
-? German version?
+? German version.
 ScriptIcon_Replacer.esp
 M.O.E. - Alternative Script Effect Icon I.esp
 M.O.E. - Alternative Script Effect Icon II.esp
@@ -5973,6 +5989,8 @@ tona_underwear.esp
 
 \Overides U
 
+
+Unarmored Skill for Everyone.esp
 Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
@@ -6166,6 +6184,7 @@ BathingMod_BloodyMess_Bathrooms.esp
 BathingMod_Soap.esp
 BathingMod_Bathroom_Upgrades.esp
 BathingMod_Placeable_Bathtubs.esp
+BathingMod_ABMCP_Bathtubs_and_Bathrooms.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
 RealisticFatigue.esp
@@ -6362,6 +6381,7 @@ Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
 Elemental Horses.esp
+EnchantmentMastery.esp
 Finders Keepers.esp
 ForecastersWill.esp
 Gather Ye Rosebuds.esp
@@ -6571,6 +6591,7 @@ arcanevelocity200.esp
 SSEE.esp
 Useful_TK-10337.esp
 Poison Spells
+Poison FX.esp
 
 Spell Failure Chance.esp
 ? Requires OBSE.
@@ -6608,6 +6629,7 @@ NekhanimalLifeDetect.esp
 
 TFE - Restore Cost.esp
 ? Not needed if using LAME.
+Diverse Effect Icons.esp
 
 \Alchemy
 \'''''''

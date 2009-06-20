@@ -1586,6 +1586,7 @@ ArenaEyeCandyArmor.esp
 Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
 ANB_WeaponAddons_SI.esp
+ANBWearableEars.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Armblade.esp
@@ -2703,6 +2704,9 @@ Obsidian Axe.esp
 Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
+Battle China Dress.esp
+R18PN - Lingeries.esp
+SexyKunoichi.esp
 
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
@@ -6177,6 +6181,7 @@ More Realistic Encumbrance.esp
 More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
+WeightLifter.esp
 
 Vim_and_Vigor.esp
 Vim_and_Vigor_2.5x.esp
@@ -6195,6 +6200,7 @@ Duke Patricks Running Backwards RISK.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Running Backwards RISK.esp
 Addendum - Athletics.esp
+ReducedBackwardsRunningSpeed.esp
 
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
@@ -7544,6 +7550,10 @@ YX33A_batch_of_stuff.esp
 Nec Mystic High Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec - Extra Mystic Elf Face.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Nec-Character_Clair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Nec Mystic Dark Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Capucine's Aquamer Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

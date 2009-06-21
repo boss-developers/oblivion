@@ -78,6 +78,8 @@ Oscuro's_Oblivion_Overhaul.esm
 Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
 * Delete. Not compatible with FCOM.
+Waalx Animals & Creatures.esm
+? Not fully compatible with other overhaul mods
 Diverse Wisps - Base.esm
 Gems and Gem Dusts.esm
 Enhanced Daedric Invasion.esm
@@ -1368,6 +1370,7 @@ Crowded Roads Revisited_ChorrolCheydinhal_5.esp
 Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
+WAC - Crowded Roads Revisited.esp
 
 Immersive Travelers.esp
 
@@ -3398,6 +3401,20 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
 
+
+\Waalx Animals and Creatures
+\'''''''''''''''''''
+
+WAC.esp
+WAC - OverSpawn.esp
+WAC - TCOS.esp
+WAC - TCOS Shops.esp
+WAC - BlackBootDungeon.esp
+WAC - 8th Gate.esp
+WAC - Dead Knights.esp
+WAC - Magic.esp
+WAC - Player Summons.esp
+WAC - QuietFeet.esp
 
 \Tamriel Travellers.
 \'''''''''''''''''''
@@ -7957,6 +7974,7 @@ NRB4 OCLR Road Record.esp
 Cobl Filter Late MERGE ONLY.esp
 ? Make sure it is deactivated. Must be merged into Bashed Patch
 Cobl Silent Equip Misc.esp
+Vac's Tweaks.esp
 
 
 \------------

@@ -148,9 +148,6 @@ Horse Combat Master.esm
 UnnecessaryViolence.esm
 
 
-
-
-
 \-------------
 \Earliest mods
 \-------------
@@ -1174,6 +1171,7 @@ P1DanywhereSittable.esp
 P1DseeYouSleep.esp
 P1DlookHereYou.esp
 Patron Deities.esp
+Parps_Invisibility_Cloak-6294.esp 
 Pegasus.esp
 AltPegasus.esp
 phinix_master_summon.esp
@@ -1371,6 +1369,8 @@ Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
 WAC - Crowded Roads Revisited.esp
+
+Populated Prisons.esp
 
 Immersive Travelers.esp
 
@@ -1699,6 +1699,7 @@ Bamboo Armor.esp
 Banes Guilds United.esp
 ? May have trouble with OOO. Untested.
 BarbarianShop.esp
+battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
 bcrich.es
@@ -2023,6 +2024,7 @@ M&BShields.esp
 MandBSwords.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
+Mage Leather Armor.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
@@ -2070,6 +2072,7 @@ Nicos Kynareth Archery.esp
 Nighteye Glasses.obse.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
+Noble Battlemage Armor.esp
 NordicWeapon.esp
 NorseWeapons.esp
 ? May have landscape conflicts with Guards of Cyrodiil.
@@ -2671,6 +2674,7 @@ Armamentium female.esp
 Robert Blackluster.esp
 Robert Adelina.esp
 Exnem Elven Warrior.esp
+Morrowind Robes and Dresses for HGEC.esp
 
 Imperial Armor Replace.esp
 % {{BASH:Graphics}}
@@ -2720,6 +2724,7 @@ Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
 Battle China Dress.esp
+R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
 SexyKunoichi.esp
 
@@ -3636,6 +3641,9 @@ OOOLivingEconomyWornRebalance.esp
 <EVE_StockEquipmentReplacer for OOO.esp
 <EVE_StockEquipmentReplacer4MMM.esp
 
+Diverse Imperial Armor v1.1.esp
+? Not compatible with OOO - diverse guard armor already included.
+
 
 \Post Overhaul
 \'''''''''''''
@@ -4324,6 +4332,7 @@ Nine Divines Robes.esp
 nordinkarst_1.0.1_en.esp
 
 \Quests O
+OlauronCastleEn.esp
 OMPexample.esp
 One Stop Magic Shop.esp
 One Stop Armors.esp
@@ -4381,6 +4390,7 @@ Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
+RuneTower.esp
 The Ranger's House.esp
 
 \Quests S
@@ -4393,6 +4403,7 @@ Scribe Supplies.esp
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
+Secret Hideout.esp
 Septim Mansion.esp
 Servant of the Dawn.esp
 SewerExpansion-Cheydinhal.esp
@@ -4539,6 +4550,7 @@ TOTWcamp.esp
 
 UFF Gypsy Market.esp
 UnfathomedTower.esp
+Unholy Cathedral.esp
 Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
@@ -6100,6 +6112,7 @@ VVAdvanced.esp
 VVAdvanced-SI.esp
 
 Wolvmans_Hidden_Unique_Merchant_Items.esp
+Cliff_RPO_NewBeginnings.esp
 Cliff_RPO_NewBeginnings_RPC.esp
 DD_RestrictedCityEntrance.esp
 
@@ -6173,7 +6186,6 @@ CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
-
 
 
 \Realism
@@ -6386,6 +6398,7 @@ FrostcragMidasLab.esp
 \General Spells
 
 Acidon_EnchantmentFixes.esp
+Advanced Magic.esp
 Advanced Mark & Recall.esp
 Alter Weight Spells.esp
 always protection.esp
@@ -7672,6 +7685,8 @@ Chocolate Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Moon.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -7897,6 +7912,7 @@ Badmagic - Amazon Nord 02.esp
 CM Partner Jordie1.esp
 Cog-Rein.esp
 Companion Neeshka.esp
+companion_moonelves.esp
 companion.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
@@ -7917,7 +7933,6 @@ Shivering Creature Companion.esp
 SnowAndHarukoCMPartners.esp
 Sonia.esp
 Tamara.esp
-Viconia.esp
 RhiannaII-essential.esp
 
 DAJynx.esp
@@ -7959,6 +7974,9 @@ Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
+
+Viconia.esp
+\Temporary placement pending investigation into BC IC startup crash.
 
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.

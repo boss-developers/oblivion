@@ -3637,12 +3637,12 @@ Mage Equipment - OOO.esp
 MMM-Cobl.esp
 OOOLivingEconomyWornRebalance.esp
 
->EVE_StockEquipmentReplacer4FCOM.esp
-<EVE_StockEquipmentReplacer for OOO.esp
-<EVE_StockEquipmentReplacer4MMM.esp
+EVE_StockEquipmentReplacer4FCOM.esp
+EVE_StockEquipmentReplacer for OOO.esp
+EVE_StockEquipmentReplacer4MMM.esp
 
 Diverse Imperial Armor v1.1.esp
-? Not compatible with OOO - diverse guard armor already included.
+? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
 
 
 \Post Overhaul

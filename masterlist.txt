@@ -1292,7 +1292,7 @@ VA_BetterGold.esp
 % {{BASH:Graphics}}
 Venom.esp
 Vows and Covenants.esp 
-? Conflicts with Deadly Reflex. Seriousness of problem untested.
+? Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
 
 \Base W
@@ -4414,6 +4414,7 @@ Shady Sam Enhanced.esp
 Shady Sam Plus.esp
 ShadySamFence.esp
 Shezrie's Villages.esp
+ShezriesVillagesCOBL.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
@@ -4777,6 +4778,8 @@ PONWindows.esp
 Consequences.esp
 Consequences_Knights.esp
 
+EiAmod_Knights.esp
+
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
 
@@ -5031,6 +5034,7 @@ EtInArkay-LushWoodlands patch.esp
 xulAncientYews.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
+SentientWeaponII-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 WaldnirsWoods-AncientRedwoods patch.esp
@@ -6139,6 +6143,8 @@ AyleidMeteorIronWeaponsVANILLA.esp
 \
 \TIE In optional addon patches.
 
+TIE In - Rebalance.esp
+
 TIE In - Salmo, Cobl.esp
 TIE In - QarlsHarvest.esp
 TIE In - SlofsHorses.esp
@@ -7081,6 +7087,7 @@ ProgressMBSP.esp
 ProgressRBSPandSABSP.esp
 progressSBSP.esp
 progressSBSPforOBSE15.esp
+ProgressRBSP.esp
 
 PureImmersion.esp
 piHealth5x.esp

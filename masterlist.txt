@@ -941,6 +941,7 @@ Diverse Dungeons - Subtle Color v.1.04.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 DragonStatuesv1.esp
+DS Storage Sacks.esp
 DZ_Hide_Grass.esp
 
 \Base E
@@ -3621,6 +3622,7 @@ NpcwithJobsCreatures4000.esp
 Cats & Rats for MMM.esp
 Cats & Rats for Francescos.esp
 
+Tamrielic_Ingredients.esp
 Tamrielic_Ingredients_MMM.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
@@ -4811,6 +4813,7 @@ OCC-TOTF-Patch.esp
 TotF Stronger Cleon.esp
 TotF MtyMgc Patch.esp
 TOTF-EiAE Patch.esp
+TOTF Delayer.esp
 
 Ruined Tale 3.0.esp
 RTT.esp
@@ -5528,7 +5531,8 @@ LCs Auto Harvest.esp
 300_Test.esp
 
 \Overides A
-
+AC's realistic priced clutter.esp
+? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
 AmnesiaStone.esp
 ANBBobbingMotion.esp
@@ -6938,6 +6942,8 @@ SM_DeadlyReflex.esp
 Deadly Reflex Bow Sway.esp
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
 
+Kayo.esp
+
 kuerteeAttributeAndSkillBasedDamageModifiers.esp
 ? Make sure to set calculateFromVanilla in the included ini file to 0 when used alongside other combat mods.
 kuerteeNPCsYield.esp
@@ -7416,6 +7422,7 @@ BNewShockFunnelEffects20.esp
 BNewShockEffects.esp
 Detect Life Shader.esp
 Detect Life Shader [New].esp
+DS Flaming Arrows.esp
 LifeDetect Shader.esp
 Forward Motion Blur.esp
 Get Wet - just droplets.esp

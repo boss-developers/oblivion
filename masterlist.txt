@@ -2237,6 +2237,7 @@ The Sword of Cyrodiil.esp
 tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
+tona_clothes_and_underwear.esp
 trfdaedricarmors.esp
 Tyrael Armor.esp
 
@@ -2296,6 +2297,7 @@ Thieves Arsenal.esp
 ? Requires OBSE.
 Knock Out Arrows.esp
 Extinguish the Lights.esp
+Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
 
 \RealSwords
@@ -4924,6 +4926,7 @@ ElsweyrAnequina.esp
 
 road+bridges.esp
 NRB4+Vineyard Patch.esp
+NRB4+AranMathi Patch.esp
 
 Bridges For the Fools.esp
 
@@ -5207,8 +5210,6 @@ Better Cities - Bruma City Defences.esp
 Better Cities Full Patch.esp
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
-Better Imperial City Patch.esp
-? Only use if usinf Better Imperial City.esp
 Better Cities Skingrad Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities Leyawiin Patch.esp
@@ -6711,6 +6712,7 @@ dyseso_Leichtere_Zutaten_und_Apparaturen.esp
 Tweaks and Alterations GG.esp
 A_Vampire Alchemy.esp
 AlchExp - Potion Mixer.esp
+RshAlchemy.esp
 
 Herbalism.esp
 Herbalism - Shivering Isles.esp
@@ -7990,11 +7992,15 @@ Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
 
+
 Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
 
+
+Better Imperial City Patch.esp
+? Only use if using Better Imperial City.esp
 Better Cities IC Temple Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Talos Plaza Patch.esp

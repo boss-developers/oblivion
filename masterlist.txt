@@ -4909,10 +4909,16 @@ Origin of the Mages Guild OOO Patch.esp
 
 Unofficial Patches & Refurbish - ALL.esp
 
-<Enhanced Daedric Invasion.esp
-<RoS_Enhanced Daedric Invasion Compatability.esp
-<Enhanced Daedric Invasion for FranOOOMMM.esp
-<Enhanced Daedric Invasion for MMM.esp
+
+Enhanced Daedric Invasion.esp
+>? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
+RoS_Enhanced Daedric Invasion Compatability.esp
+Enhanced Daedric Invasion for FCOM.esp
+* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
+Enhanced Daedric Invasion for FranOOOMMM.esp
+* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
+Enhanced Daedric Invasion for MMM.esp
+FCOM_EnhancedDaedricInvasion.esp
 
 FCC-IC-Elfengaden.esp
 FCC-IC-Elvengarden.esp
@@ -5445,16 +5451,6 @@ FCOM_NewNPCClothes.esp
 
 BrewHouse.esp
 ? Use v1.5 or later to avoid extensive compatibility issues.
-
->Enhanced Daedric Invasion.esp
->? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
->Enhanced Daedric Invasion for FCOM.esp
->* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead!
->RoS_Enhanced Daedric Invasion Compatability.esp
->Enhanced Daedric Invasion for FranOOOMMM.esp
->* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
->Enhanced Daedric Invasion for MMM.esp
->FCOM_EnhancedDaedricInvasion.esp
 
 
 \Post City
@@ -7729,6 +7725,197 @@ Raven Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 
+\Merges and combinations
+\'''''''''''''''''''''''
+
+Luchaire's Dryad Race for MMM.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Tabaxi_Race_Robert.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics,R.Relations}}
+Tabaxi_Race_BAB.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics,R.Relations}}
+Tabaxi_Race_BAB_Robert.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-F,Body-M,Graphics,R.Relations}}
+Mystic Dark Elf and Mystic Dunmer for MM.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,Body-F,Body-M,R.Relations}}
+Ren_Soya_KD's.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+BP Cosmetic Compilation.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+soyaenbp.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+Beautiful PeopleV22 - MaleReplacerV4.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
+BP + Robert's + BR + Hair Packs.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
+Beautiful People Robert - Hair merged.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
+BP_Roberts_BR_Hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
+_Ren_BeautyPack_full + Soya's hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+BP-Cosmetic Compilation-MaleBodyReplacer.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
+Additional Cosmetics for BP.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+TFF ROBERT Cosmetic Compilation.esp
+% {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F,Graphics}}.
+TFF & ROBERT & Slof's Better Beasts.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,Graphics,NoMerge}} and deactivate.
+BeautifulPeople2.2+TweakedGenericFacesLITE.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+BeautifulPeople2.2+TweakedGenericFaces.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+EC-RM White Tabaxi.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+BP-Cosmetic Compilation.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+Beautiful People Patch v0.1.esp
+Beautiful PeopleV22 - MaleReplacerV3.esp
+Ren + Exnem.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+BP_and_Soya.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+Diverse NPCs.esp
+? Requires TNR, Ren's Hair, Elaborate Eyes.
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
+Corean Hairs and Elaborate Eyes Merged.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+
+Cobl - NPCDiversity - TNR Merge.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+
+\Other race/beauty/birthsign overrides.
+\''''''''''''''''''''''''''''''''''''''
+
+Custom_Birthsigns_Chris.esp
+Rebalanced Races and Birthsigns.esp
+sr_race_balance_tweaks.esp
+Cobl Races - Balanced.esp
+% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
+Diverse Races.esp
+% {{BASH:Body-F,Body-M}}
+Better_Berserk-2177.esp
+Willful Resistance.esp
+ArgonianFeets.esp
+% {{BASH:Invent}}
+
+KT_CustomRaceFix.esp
+? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+CustomRaceFix.esp
+? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+Patch Naked NPCs.esp
+EVE_KhajiitFix.esp
+
+bgIntegrationEV.esp
+? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Unique Clothes.esp
+OC+Integration Patch.esp
+
+
+\----------
+\Companions
+\----------
+\
+\Those related to companion mod systems. Most others in Quests section.
+\Recommended by authors to load very late.
+\
+\Mods with custom hair and eyes need tags.
+
+TSS Custom Companion  Template.esp
+TSS Custom Companion Template.esp
+
+Toaster Says Share 2.11.esp
+Toaster Says Share.esp
+Toaster Says Share Faction Recruitment.esp
+
+CM Partners.esp
+CM Partners Special NPCs.esp
+CM Partners NPC.esp
+CM Partners NPC NE.esp
+CM Partners More NPCs.esp
+CM Partners More NPCs NE.esp
+CM Partners Marker NPCs.esp
+CM Partners Extra NPCs.esp
+CM Partners Beasts.esp
+? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
+Companion Sales & Retail.esp
+Companion Mark and Recall.esp
+Companion Postal Service.esp
+AW_Partners_MarkReturnTweak.esp
+
+cssCalisto.esp
+cssCernd.esp
+cssEdwin.esp
+cssImoen.esp
+cssIrenicus.esp
+cssJaheira.esp
+cssKeldorn.esp
+cssMazzy.esp
+cssMerged12Sets.esp
+cssNalia.esp
+cssSafana.esp
+cssSarevok.esp
+
+Aliyah.esp
+\No custom races.
+Arwen companion.esp
+% {{BASH:Hair,Eyes,Graphics}}
+AsharasCMPartners.esp
+% {{BASH:Hair,Eyes,Graphics}}
+Baddy.esp
+? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
+\No custom races.
+Badmagic - Amazon Nord 02.esp
+\Can't find...
+CM Partner Jordie1.esp
+\Can't find...
+Cog-Rein.esp
+\No custom races.
+Companion Neeshka.esp
+% {{BASH:Hair}} for the Mystic Elf version.
+companion_moonelves.esp
+companion.esp
+Dogmeat Companion.esp
+\No custom races.
+DremoraCompanion.esp
+% {{BASH:Hair,Eyes,Graphics,NPCFaces,Voice-M,Voice-F}}
+Eluna.esp
+GG_Valeria_Revived.esp
+GG_Vincente.esp
+Haowen.esp
+KendoGirl_Final.esp
+MarcAntony.esp
+Nec-Character_Eva.esp
+PetsOfChorrol.esp
+Ramy Enfant.esp
+Rhianna.esp
+Rinn.esp
+Saerileth.esp
+sexycompanion.esp
+Shivering Creature Companion.esp
+SnowAndHarukoCMPartners.esp
+Sonia.esp
+Tamara.esp
+RhiannaII-essential.esp
+
+DAJynx.esp
+? Requires OBSE.
+DAClair.esp
+DAEva.esp
+DAValeriaCuteElf.esp
+DARaewyn.esp
+DATalitha.esp
+DAFeria.esp
+DADemons.esp
+DAJackSparrow.esp
+DAKaleahSuccubus.esp/DAKaleah.esp
+DAXivilai.esp
+DAWerewolf.esp
+DALeonidas.esp
+DAMeridiaKatrina.esp
+DASephirothCompanion.esp
+
 \Race Balancing Project 2
 \''''''''''''''''''''''''
 
@@ -7792,187 +7979,6 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
-
-
-\Merges and combinations
-\'''''''''''''''''''''''
-
-Luchaire's Dryad Race for MMM.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-Tabaxi_Race_Robert.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics,R.Relations}}
-Tabaxi_Race_BAB.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics,R.Relations}}
-Tabaxi_Race_BAB_Robert.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-F,Body-M,Graphics,R.Relations}}
-Mystic Dark Elf and Mystic Dunmer for MM.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,Body-F,Body-M,R.Relations}}
-Ren_Soya_KD's.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-BP Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-soyaenbp.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-Beautiful PeopleV22 - MaleReplacerV4.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
-BP + Robert's + BR + Hair Packs.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
-Beautiful People Robert - Hair merged.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
-BP_Roberts_BR_Hair.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
-_Ren_BeautyPack_full + Soya's hair.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-BP-Cosmetic Compilation-MaleBodyReplacer.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
-Additional Cosmetics for BP.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-TFF ROBERT Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F,Graphics}}.
-TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,Graphics,NoMerge}} and deactivate.
-BeautifulPeople2.2+TweakedGenericFacesLITE.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-BeautifulPeople2.2+TweakedGenericFaces.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-EC-RM White Tabaxi.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-BP-Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-Beautiful People Patch v0.1.esp
-Beautiful PeopleV22 - MaleReplacerV3.esp
-Ren + Exnem.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-BP_and_Soya.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-Diverse NPCs.esp
-? Requires TNR, Ren's Hair, Elaborate Eyes.
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
-Corean Hairs and Elaborate Eyes Merged.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
-
-Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
-
-
-\Other race/beauty/birthsign overrides.
-\''''''''''''''''''''''''''''''''''''''
-
-Custom_Birthsigns_Chris.esp
-Rebalanced Races and Birthsigns.esp
-sr_race_balance_tweaks.esp
-Cobl Races - Balanced.esp
-% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
-Diverse Races.esp
-% {{BASH:Body-F,Body-M}}
-Better_Berserk-2177.esp
-Willful Resistance.esp
-ArgonianFeets.esp
-% {{BASH:Invent}}
-
-KT_CustomRaceFix.esp
-? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
-CustomRaceFix.esp
-? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
-Patch Naked NPCs.esp
-EVE_KhajiitFix.esp
-
-bgIntegrationEV.esp
-? Requires LAME, Shivering Isles and Race Balancing Project.
-bgIntegrationEV - Unique Clothes.esp
-OC+Integration Patch.esp
-
-
-\----------
-\Companions
-\----------
-\
-\Those related to companion mod systems. Most others in Quests section.
-\Recommended by authors to load very late.
-\Should go after custom races where the companion is a custom race.
-
-TSS Custom Companion  Template.esp
-TSS Custom Companion Template.esp
-
-Toaster Says Share 2.11.esp
-Toaster Says Share.esp
-Toaster Says Share Faction Recruitment.esp
-
-CM Partners.esp
-CM Partners Special NPCs.esp
-CM Partners NPC.esp
-CM Partners NPC NE.esp
-CM Partners More NPCs.esp
-CM Partners More NPCs NE.esp
-CM Partners Marker NPCs.esp
-CM Partners Extra NPCs.esp
-CM Partners Beasts.esp
-? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
-Companion Sales & Retail.esp
-Companion Mark and Recall.esp
-Companion Postal Service.esp
-AW_Partners_MarkReturnTweak.esp
-
-cssCalisto.esp
-cssCernd.esp
-cssEdwin.esp
-cssImoen.esp
-cssIrenicus.esp
-cssJaheira.esp
-cssKeldorn.esp
-cssMazzy.esp
-cssMerged12Sets.esp
-cssNalia.esp
-cssSafana.esp
-cssSarevok.esp
-
-Aliyah.esp
-Arwen companion.esp
-AsharasCMPartners.esp
-Baddy.esp
-Badmagic - Amazon Nord 02.esp
-CM Partner Jordie1.esp
-Cog-Rein.esp
-Companion Neeshka.esp
-companion_moonelves.esp
-companion.esp
-Dogmeat Companion.esp
-DremoraCompanion.esp
-Eluna.esp
-GG_Valeria_Revived.esp
-GG_Vincente.esp
-Haowen.esp
-KendoGirl_Final.esp
-MarcAntony.esp
-Nec-Character_Eva.esp
-PetsOfChorrol.esp
-Ramy Enfant.esp
-Rhianna.esp
-Rinn.esp
-Saerileth.esp
-sexycompanion.esp
-Shivering Creature Companion.esp
-SnowAndHarukoCMPartners.esp
-Sonia.esp
-Tamara.esp
-RhiannaII-essential.esp
-
-DAJynx.esp
-? Requires OBSE.
-DAClair.esp
-DAEva.esp
-DAValeriaCuteElf.esp
-DARaewyn.esp
-DATalitha.esp
-DAFeria.esp
-DADemons.esp
-DAJackSparrow.esp
-DAKaleahSuccubus.esp/DAKaleah.esp
-DAXivilai.esp
-DAWerewolf.esp
-DALeonidas.esp
-DAMeridiaKatrina.esp
-DASephirothCompanion.esp
 
 
 \--------

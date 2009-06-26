@@ -3262,6 +3262,7 @@ OBSE-Storms & Sound SI.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
+>Mart's Monster Mod - Diverse WaterLife.esp
 >Mart's Monster Mod - Diverse Wisps.esp
 >MMM - Playable Undead Armors.esp
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
@@ -3373,6 +3374,7 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
+<Mart's Monster Mod - Diverse WaterLife.esp
 <Mart's Monster Mod - Diverse Wisps.esp
 <MMM - Playable Undead Armors.esp
 <MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
@@ -3395,6 +3397,8 @@ Mart's Monster Mod - Diverse RuneSkull Loot.esp
 Mart's Monster Mod - Diverse Runeskulls Loot.esp
 ? Not compatible with MMM Gems & Gem Dust or MMMforOOO
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
+? Requires MMM and MMM Gems & Gem Dust 
+Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
 ? Requires MMM and MMM Gems & Gem Dust 
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 ? Requires OOO.esm

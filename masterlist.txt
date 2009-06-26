@@ -146,7 +146,7 @@ TIE4MODS.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 UnnecessaryViolence.esm
-
+PMSneakySummons.esm
 
 \-------------
 \Earliest mods
@@ -2117,6 +2117,7 @@ pizz_NINJA_outfit.esp
 Plasma Sabers 1.2.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
+PMCurioCeremonialRapier.esp
 Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
@@ -6658,6 +6659,13 @@ NekhanimalLifeDetect.esp
 TFE - Restore Cost.esp
 ? Not needed if using LAME.
 Diverse Effect Icons.esp
+PMSneakySummonCompatibility.esp
+? Requires BASH for proper use
+% {{Bash:IIM,Filter,Invent,merge}} and deactivate
+PMSneakySummons-ForVanilla.esp
+? Do not use with PMSneakySummonCompatibility.esp, 
+? to have magic overhaul features move before magic overhauls (but then 
+? you won't get the features of this)
 
 \Alchemy
 \'''''''

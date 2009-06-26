@@ -240,6 +240,9 @@ Cobl Races TNR.esp
 Cobl Races TNR SI.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
 
+Cobl - NPCDiversity - TNR Merge.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+
 
 \-------------
 \Vanilla fixes
@@ -7782,37 +7785,6 @@ Diverse NPCs.esp
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 
-Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
-
-\Other race/beauty/birthsign overrides.
-\''''''''''''''''''''''''''''''''''''''
-
-Custom_Birthsigns_Chris.esp
-Rebalanced Races and Birthsigns.esp
-sr_race_balance_tweaks.esp
-Cobl Races - Balanced.esp
-% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
-Diverse Races.esp
-% {{BASH:Body-F,Body-M}}
-Better_Berserk-2177.esp
-Willful Resistance.esp
-ArgonianFeets.esp
-% {{BASH:Invent}}
-
-KT_CustomRaceFix.esp
-? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
-CustomRaceFix.esp
-? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
-Patch Naked NPCs.esp
-EVE_KhajiitFix.esp
-
-bgIntegrationEV.esp
-? Requires LAME, Shivering Isles and Race Balancing Project.
-bgIntegrationEV - Unique Clothes.esp
-OC+Integration Patch.esp
-
-
 \----------
 \Companions
 \----------
@@ -7860,9 +7832,9 @@ cssSarevok.esp
 Aliyah.esp
 \No custom races.
 Arwen companion.esp
-% {{BASH:Hair,Eyes,Graphics}}
+% {{BASH:Hair,Eyes}}
 AsharasCMPartners.esp
-% {{BASH:Hair,Eyes,Graphics}}
+% {{BASH:Hair,Eyes}}
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
 \No custom races.
@@ -7879,7 +7851,7 @@ companion.esp
 Dogmeat Companion.esp
 \No custom races.
 DremoraCompanion.esp
-% {{BASH:Hair,Eyes,Graphics,NPCFaces,Voice-M,Voice-F}}
+% {{BASH:Hair,Eyes}}
 Eluna.esp
 GG_Valeria_Revived.esp
 GG_Vincente.esp
@@ -7916,8 +7888,16 @@ DALeonidas.esp
 DAMeridiaKatrina.esp
 DASephirothCompanion.esp
 
-\Race Balancing Project 2
-\''''''''''''''''''''''''
+
+\--------------
+\Race Overrides
+\--------------
+\
+\Includes birthsign mods.
+
+
+\Race Balancing Project pt 2
+\'''''''''''''''''''''''''''
 
 bgBalancingOptionalLessHealth.esp
 bgBalancingEVOptionalClasses.esp
@@ -7981,10 +7961,40 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 
 
+\Other race/birthsign mods
+\'''''''''''''''''''''''''
+
+Custom_Birthsigns_Chris.esp
+Rebalanced Races and Birthsigns.esp
+sr_race_balance_tweaks.esp
+Cobl Races - Balanced.esp
+% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
+Diverse Races.esp
+% {{BASH:Body-F,Body-M}}
+Better_Berserk-2177.esp
+Willful Resistance.esp
+ArgonianFeets.esp
+% {{BASH:Invent}}
+
+KT_CustomRaceFix.esp
+? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+CustomRaceFix.esp
+? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+Patch Naked NPCs.esp
+EVE_KhajiitFix.esp
+
+bgIntegrationEV.esp
+? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Unique Clothes.esp
+OC+Integration Patch.esp
+
+
 \--------
 \Pre Bash
 \--------
+
 UnnecessaryViolence.esp
+\issue was reported that loading earlier caused lag in scripts - needs verification.
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp
@@ -7998,12 +8008,10 @@ Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
 
-
 Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
-
 
 Better Imperial City Patch.esp
 ? Only use if using Better Imperial City.esp

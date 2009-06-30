@@ -4390,6 +4390,7 @@ rebornaylieds.esp
 Region Revive - Lake Rumare.esp
 ? Incompatible with most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', requires 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+Region Revive - Lake Rumare - OOO LockBash.esp
 ReneersContainerMod.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
@@ -5367,6 +5368,8 @@ NI-Fullcity-Anvilhome.esp
 HTS.esp
 OCC-HTS-Patch.esp
 
+BrewHouse.esp
+? Use v1.5 or later to avoid extensive compatibility issues.
 
 \Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
@@ -5455,10 +5458,6 @@ FCOM_UnofficialFranArmorAddon.esp
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
-
-BrewHouse.esp
-? Use v1.5 or later to avoid extensive compatibility issues.
-
 
 \Post City
 \'''''''''

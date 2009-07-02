@@ -359,6 +359,8 @@ Better Cities .esp
 ? Dummy file to load Better Cities .BSA
 MMM.esp
 ? Dummy file to load the MMM .BSA
+BSAloader.esp
+? Dummy file to load .BSA files.
 
 MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
@@ -1653,7 +1655,7 @@ Armour of Hades.esp
 Assassin_Blade.esp
 AssassinBow.esp
 AyleidGlass.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Ayleid Armor and weapons.esp
 
 ACCCGR SI.esp
@@ -1767,6 +1769,7 @@ CapesandCloaks.esp
 CarsomyrSword.esp
 CET_DwemerPrecisionBow_v2.esp
 Classic-Wizard-Robes-UL.esp
+Classic-Wizard-Robes-U.esp
 ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
@@ -1788,7 +1791,7 @@ ChitinArmor.esp
 Chrysamere.esp
 Collectable Miniature Daedric Shrines.esp
 crimson dagger.esp
-? Due to a poorly written script unless this mod is the second mod loaded (ie no esms except for OB) the player will never get the weapon
+? Due to a poorly written script unless this mod is the second mod loaded (i.e no esms except for OB) the player will never get the weapon
 ? To get the weapon open the console and enter xx000ED3 where xx is the hexadecimal mod index (LO number).
 crusadercg.esp
 Crystalline Sword.esp
@@ -1826,7 +1829,7 @@ Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
 Dark BrotherHood Hood Replacer V1.2.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 DarkBrotherhoodRed.esp
 Dark Crusader Armor.esp
 % {{BASH:Invent}}
@@ -1834,7 +1837,7 @@ Dark Dragon Armor.esp
 darkdwemerXZAR.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 DarkIllusionArmor.esp
 Dark_Katana.esp
 DarkLeatherArmor.esp
@@ -1919,12 +1922,14 @@ Garak's Staff Replacer Fire&Ice.esp
 Gazerith's Spell Books V1.0.esp
 GC Draped Gowns.esp
 GC Gowns.esp
+GCBloodgown.esp
 GemSword.esp
 Ghogiels Armor.esp
 GHSamuraiArmor.esp
 Godslayer and Divine Protection.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
+GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 Grigors_Grimoires.esp
 Griffon Fortress 0.3.esp
@@ -2093,11 +2098,11 @@ Doomshard Bow.esp
 \Items O
 
 Obsidian armor.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Oddbasket Glass Replace NoEnch.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Oddbasket Glass Replace.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Oonas_Outfitters.esp
 Obclothing.esp
 
@@ -2116,7 +2121,7 @@ pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 pizz_NINJA_outfit.esp
 Plasma Sabers 1.2.esp
 playable golden saint and dark seducer armour.esp
@@ -2164,6 +2169,8 @@ Sauron_Armor_Chest.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
+ShinobiSet.esp
+ShinobiSet_NoEnchant.esp
 Shadowlord Armours.esp
 ShadowMailArmor_v.1.0.esp
 Shdw_Armor pack01.esp
@@ -2174,10 +2181,10 @@ Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 SickleIrons.esp
 Sin's Expanded Light Armor Kit [Chest].esp
-? Not compatable with OOO - armors already included - so deactive when using OOO.
+? Not compatable with OOO - armors already included - so deactivate when using OOO.
 % {{BASH:Invent}}
 Sin's Expanded Light Armor Kit [NPC].esp
-? Not compatable with OOO - armors already included - so deactive when using OOO.
+? Not compatable with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
@@ -2244,6 +2251,7 @@ tona_muffler.esp
 tona_clothes_and_underwear.esp
 trfdaedricarmors.esp
 Tyrael Armor.esp
+Templer-Armor.esp
 
 Invasion.esp
 Dark Legion.esp
@@ -2279,12 +2287,14 @@ vermillionandsilverthorn.esp
 Villain's Arsenal.esp
 volkoth.esp
 VSPTensaZangetsu.esp
+Viro's Kung Fu Set.esp
 
 \Items W
 
 WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
+WhiteRoseArmor.esp
 
 \Items XYZ
 
@@ -5581,7 +5591,7 @@ A Bloody Mess - Arena Wash Basin.esp
 BloodSpray.esp
 % {{BASH:Graphics}}
 BMC Chrome Ebony.esp
-% May need to be tagged {{BASH:Graphics}} when using overhall mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Bonds Big Portable Tent.esp
 Bottled_Explosions.esp
 

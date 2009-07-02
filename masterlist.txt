@@ -153,7 +153,7 @@ PMSneakySummons.esm
 \-------------
 
 TRoN.esp
-\Probably doesn't need to load this early but authors recommend it.
+\Probably doesn't need to load this early but the authors recommend it.
 
 
 \-------------
@@ -1341,7 +1341,7 @@ Piratelords Trade Fixes.esp
 Living Economy.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
-? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. Requires Shivering Isles expansion.
+? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. Requires Shivering Isles.expansion.
 SI Living Economy.esp
 ? Check for newer version.
 Living Economy - Items.esp
@@ -4108,6 +4108,7 @@ Functional Imperial City Lighthouse.esp
 JK_lighthouse.esp
 
 FuseSnailRacing.esp
+? Needs a patch for Unique Landscapes: Imperial Isle.
 
 \Quests G
 
@@ -7284,6 +7285,9 @@ Let There Be Darkness - Cyrodiil + SI.esp
 % {{BASH:C.Light}}
 Let There Be Darkness - Mehrunes Razor.esp
 ? Requires Mehrunes Razor DLC
+% {{BASH:C.Light}}
+Let there be Darkness All Merge.esp
+? Merge requiring KOTN, Shivering Isles and Mehrunes Razor.
 % {{BASH:C.Light}}
 FastTravelAllowed.esp
 

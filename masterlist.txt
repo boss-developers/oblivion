@@ -841,6 +841,8 @@ BPMerchantStorage.esp
 
 \Base C
 
+Cobl Bookjackets.esp
+% {{BASH:Graphics}}
 Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
@@ -5670,7 +5672,8 @@ CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
 
 
-\Overides D
+\Overrides D
+
 
 DarkAltars.esp
 DarkUI Fix.esp
@@ -5703,6 +5706,10 @@ Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DS Less Predictable Respawn.esp
 dhsRTentwithSorter.esp
+? Requires COBL.
+DS Portable Sorters.esp
+? Requires COBL.
+DS Storage Sacks.esp
 ? Requires COBL.
 
 Duke Patricks Dont Be A Soch.esp
@@ -6644,6 +6651,8 @@ Spellbooks.esp
 Wizard'sSpellBook.esp
 
 arcanevelocity200.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+Faster Spells.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 
 SSEE.esp

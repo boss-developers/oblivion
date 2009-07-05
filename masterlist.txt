@@ -15,10 +15,12 @@
 \----
 \ESMs
 \----
-
+W
 Oblivion.esm
 Underdark.esm
 GTAesgaard_2.esm
+Belas.esm
+? May have severe land Issues. Unconfirmed.
 SoVvM.esm
 Morrowind_ob.esm
 Tribunal_ob.esm
@@ -808,6 +810,7 @@ aaaBorsBedrolls.esp
 BorsBedrolls.esp
 Bedrollsanyone.esp
 
+
 BEER! for Oblivion.esp
 ? If using OOO, check compatibility (untested).
 Better Wine SI.esp
@@ -830,6 +833,7 @@ Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
 ? Probably not OOO compatible - drop lit torches already integrated.
+BTMM.esp
 Brighter_Torches.esp
 BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
@@ -919,7 +923,7 @@ Cryptic's Buyable Ayleid Dining Sets.esp
 
 Buyable Ayldeid Dishes.esp
 % {{BASH:Invent}}
-?Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
+? Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
 
 CT-Com's Torch Compendium.esp
 Cyrodilic Brandy.esp
@@ -1286,6 +1290,7 @@ TRN One of the Gang.esp
 ? Some small conflicts with The Elder Council.
 TurnoffLights.esp
 TryBeforeYouBuy.esp
+TreeDoorAddition.esp
 
 \Base U
 
@@ -3421,6 +3426,9 @@ Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
 
+WCGL - Wilderness Creatures 1.1.esp
+? Incompatible with OOO, MMM and Francescos.
+
 Master-Crafting-1.1-MMM.esp
 ?needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
 Master-Crafting-1.1-MMM Greaves fix.esp
@@ -4389,12 +4397,16 @@ Princess DB Sanctuary.esp
 
 \Quests Q
 
+Quest.esp
+? Related to Belas.esm and therefore may have severe land issues. Unconfirmed.
 Quest For The Elements.esp
 QQuix - Divine Elegance Showroom.esp
 Quest Nirnroot.esp
 
 \Quests R
 
+Reaper's Coldstone Town.esp
+? Incomatible with Hear of the Dead
 Raiders of Cyrodil.esp
 RavenviewVillageVer2.0.esp
 rebornaylieds.esp

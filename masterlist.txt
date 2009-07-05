@@ -7301,9 +7301,11 @@ Item interchange - Placement.esp
 ? Requires recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
 ? Use either FCOM or non FCOM versions as appropriate but not both together.
+Item interchange - Placement for Frostcrag.esp
 Item interchange - Placement for Frostcrag Reborn.esp
 Item interchange - Placement for Frostcrag Spire Revisited.esp
 Item interchange - Option, Ingredients in Bulk.esp
+Item interchange - Option, Ingredients in Bulk, reduced.esp
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp

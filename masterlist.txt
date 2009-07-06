@@ -15,7 +15,6 @@
 \----
 \ESMs
 \----
-W
 Oblivion.esm
 Underdark.esm
 GTAesgaard_2.esm
@@ -123,6 +122,7 @@ beeratcompil_fishstick.esm
 IngredientJars.esm
 rdweaponpack1.esm
 StaticAlchemyMod.esm
+The Other Spheres Base.esm
 TR_OoT_Main.esm
 cssBase.esm
 Lamps of Oblivion Master.esm
@@ -1317,6 +1317,7 @@ Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
 ? May not be OOO compatible as OOO includes inebriation.
 Wogs!.esp
+Wogs!_TI.esp
 
 \Base XYZ
 
@@ -1594,6 +1595,7 @@ Adonnays Classical Weaponry.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
 Adonnays Elven Longblades.esp
+Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
 Akatsuki.esp
 Akavirdownloadpack1.1.esp
@@ -1936,6 +1938,7 @@ GHSamuraiArmor.esp
 Godslayer and Divine Protection.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
+GothFreak's Celtic Rings and Swords.esp
 GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 Grigors_Grimoires.esp
@@ -3423,6 +3426,10 @@ Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 ? Requires OOO.esm
 ? Requires MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
+Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
+? Requires OOO.esm
+? Requires MMMforOOO or FCOM.
+? Not compatible with MMM Gems & Gem Dust.
 
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
@@ -3745,6 +3752,7 @@ Quelldorf ohne Schiff1.5.esp
 
 KvatchAftermath.esp
 FCOM_KvatchAftermath.esp
+(DC) Kvatch Watch Towers.esp
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
@@ -4536,6 +4544,7 @@ The Reluctant Ranger REVAMPED.esp
 The Power of the North.esp
 The Siren's Deception.esp
 The_Dragon_Citadel-6178.esp
+TOSP - Loading Screens.esp
 Dragon Citadel & Tower of the Lich King.esp
 
 The_Tower_of_the_Lich_King-4492.esp

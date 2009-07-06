@@ -3092,6 +3092,7 @@ MrSiikaRabbitsforOOO.esp
 ? Do not use with MMMforOOO/FCOM. Already integrated.
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
+OOOHangoverRemedy.esp
 
 \Post OOO
 \''''''''
@@ -4164,6 +4165,10 @@ House On The Bluff .V2.esp
 Hale Housing.esp
 HanstHolm village.esp
 HeartlandFarm.esp
+Heroes of Cyrodiil.esp
+Heroes of Cyrodiil Part 2.esp
+Heroes of Cyrodiil Part 3.esp
+Heroes of Cyrodiil Part 4.esp
 01_Helms_Deep.esp
 ? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -6637,6 +6642,7 @@ Pestilent Afflictions.esp
 Pestilent_Afflictions-DV.esp
 Pestilent Afflictions1.5-DV.esp
 Deadly Diseases.esp
+Vector.esp
 
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
@@ -6868,6 +6874,8 @@ No psychic guards harder v1.2.esp
 No psychic guards harder fix.esp
 RenGuardOverhaul.esp
 RenGuardOverhaulShiveringIsles.esp
+sycHearNoEvil.esp
+sycSHOUT.esp
 SM RGOConfig.esp
 kuerteeClothingMatters.esp
 kuerteeCrimeHasWitnesses.esp

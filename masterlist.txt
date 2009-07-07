@@ -3060,7 +3060,6 @@ FCOM_WarCryNoSpawn.esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-OCC-OOO-Patch.esp
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -5154,6 +5153,8 @@ LtPD+NRB4+UL-II Patch.esp
 \Post UL, Pre BC
 \'''''''''''''''
 
+Castle_Seaview.esp
+
 The Ruins of Miscarcand.esp
 
 MTCThievesGrotto.esp
@@ -5469,7 +5470,7 @@ OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
 OCC-COBL-Wells.esp
-
+OCC-OOO-Patch.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp

@@ -156,6 +156,9 @@ PMSneakySummons.esm
 
 TRoN.esp
 \Probably doesn't need to load this early but the authors recommend it.
+HrmnsOblivionScriptOptimizationv1.0.esp
+? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
+\This really does need to go early.
 
 
 \-------------
@@ -235,16 +238,6 @@ LD_Patrick_Stewart_Sean_Bean.esp
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
 
-Cobl Races.esp
-% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
-Cobl Races TNR.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
-Cobl Races TNR SI.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
-
-Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
-
 
 \-------------
 \Vanilla fixes
@@ -254,8 +247,6 @@ Cobl - NPCDiversity - TNR Merge.esp
 \UOP v3.0.1 or later should be used to fix buggy vanilla quests rather than these -
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
-HrmnsOblivionScriptOptimizationv1.0.esp
-? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
 
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
@@ -6424,6 +6415,18 @@ bgBalancingEVCore.esp
 bgBalancingDVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 bgBalancingNoSIVersion_Core_still_required.esp
+
+\Cobl races needs to load around here.
+
+Cobl Races.esp
+% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
+Cobl Races TNR.esp
+? Requires the Cobl Cosmetics Res 01 files installed.
+Cobl Races TNR SI.esp
+? Requires the Cobl Cosmetics Res 01 files installed.
+
+Cobl - NPCDiversity - TNR Merge.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 
 
 \Magic

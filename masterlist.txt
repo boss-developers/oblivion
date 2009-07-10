@@ -936,7 +936,8 @@ Damsels In Distress.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
 Days&Months.esp
-DBCEndOfMayTeaser.esp 
+DBCEndOfMayTeaser.esp
+Decoration Pillows.esp
 dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
@@ -971,6 +972,7 @@ Fish! - v1.1.esp
 
 \Base G
 
+GoldnSilverBars.esp
 GrayFoxLeatherReward.esp
 GrayFoxOutfit.esp
 Grand Potions.esp
@@ -1290,7 +1292,7 @@ Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 The White Stallions.esp
-
+the secret black market.esp
 Time Keeper.esp
 Timekeeper_Advanced.esp
 Timescale Options.esp
@@ -1326,6 +1328,7 @@ Weed AND Beer inebriation 1.32.esp
 ? May not be OOO compatible as OOO includes inebriation.
 Wogs!.esp
 Wogs!_TI.esp
+Wyverex's - Runes.esp
 
 \Base XYZ
 
@@ -3944,7 +3947,10 @@ Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
 Better Benirus Manor for COBL (Complete).esp
-
+Better Benirus Manor - Complete.esp
+Better Benirus Manor - Interior Only.esp
+Better Benirus Manor for Cobl - Complete.esp
+Better Benirus Manor for Cobl - Interior Only.esp
 
 Best Defense.esp
 Better Elven Gardens.esp
@@ -4526,6 +4532,7 @@ Stonewall Townhouse.esp
 
 Talos Bridge.esp
 TamrielSnacks11-EV.esp
+TamrielSnacks11-DV.esp
 tchos' breakfast food.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
@@ -5612,6 +5619,10 @@ Ayleid Wells.esp
 BaurusRunsInSewers.esp
 Bag of Holding.esp
 Bag of Alchemy.esp
+Better Dark Brotherhood Sanctuary.esp
+Better Dark Brotherhood Sanctuary for OBSE.esp
+Better Dark Brotherhood Sanctuary for Cobl.esp
+Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better_Amelion_Gear.esp
 Better_Blade_Equipment.esp
 BetterCoins.esp
@@ -5733,6 +5744,7 @@ dhsRTentwithSorter.esp
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
 Dousing The Flames.esp
+Dreightons_Item_Value.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DS Less Predictable Respawn.esp
@@ -5872,6 +5884,7 @@ Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
+Live at Gweden Farm.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
@@ -6009,6 +6022,7 @@ Salmo WV, Cobl.esp
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 SA Social Alertness.esp
 seorin's Artifact Fix.esp
+SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
@@ -6084,6 +6098,8 @@ tona_underwear.esp
 
 
 Unarmored Skill for Everyone.esp
+university cosmetics.esp
+university cosmetics-no orrery dome.esp
 Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
@@ -6774,7 +6790,7 @@ dyseso_Alchemy_Potion_Perks.esp
 PoisonIvy.esp
 lumi_alchemyexpanded.esp
 Poison Combiner.esp
-Advanced Magecraft
+Advanced Magecraft.esp
 Weapon Magic.esp
 varlatest.esp
 ? Incompatible with mods that alter Welkynd or Varla stones or the AyleidWell script.
@@ -6793,6 +6809,7 @@ Tweaks and Alterations GG.esp
 A_Vampire Alchemy.esp
 AlchExp - Potion Mixer.esp
 RshAlchemy.esp
+Obicos_Ingredient_Increaser_v11-5131.esp
 
 Herbalism.esp
 Herbalism - Shivering Isles.esp

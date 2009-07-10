@@ -752,6 +752,7 @@ AmbientDungeons.esp
 AliveWaters.esp
 AliveWaters - Koi Addon.esp
 AliveWaters - Slaughterfish Addon.esp
+AliveWaters_nofish.esp
 MoreLive_AliveWatersRedone.esp
 MoreLive_AliveWatersRedone_Koi.esp
 MoreLive_AliveWatersRedone_Slaughterfish.esp
@@ -944,6 +945,7 @@ Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 DragonStatuesv1.esp
 DS Storage Sacks.esp
+DS Time Manager.esp
 DZ_Hide_Grass.esp
 
 \Base E
@@ -1037,6 +1039,15 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
+
+ImprovedChorrol.esp
+? Not compatible with Better Cities Full or Better Cities Chorrol components.
+? Not compatible with Open Cities Complete or Open Cities Chorrol components.
+? Not compatible with Open Better Cities Complete or Open Better Cities Chorrol components.
+Improved Skingrad.esp
+? Not compatible with Better Cities Full or Better Cities Skingrad components.
+? Not compatible with Open Cities Complete or Open Cities Skingrad components.
+? Not compatible with Open Better Cities Complete or Open Better Cities Skingrad components.
 
 Inebriation.esp
 ? Not OOO compatible - already included in OOO.
@@ -1158,6 +1169,11 @@ NpcwithJobsCreatures.esp
 
 \Base O
 
+OAVO - Weather and Water.esp
+OAVO - Sound.esp
+OAVO - Miscellaneous.esp
+OAVO - Visual Enhancements.esp
+
 Oblivion Cats v0.22b.esp
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
@@ -1274,6 +1290,7 @@ Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 The White Stallions.esp
+
 Time Keeper.esp
 Timekeeper_Advanced.esp
 Timescale Options.esp
@@ -1875,6 +1892,7 @@ Dragon Buster.esp
 Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
+Dread Knight Armor.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
 % {{BASH:Graphics,Names}}
 
@@ -2083,6 +2101,7 @@ Nighteye Glasses.obse.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
+Noctiluca_Sidereus.esp
 NordicWeapon.esp
 NorseWeapons.esp
 ? May have landscape conflicts with Guards of Cyrodiil.
@@ -3585,8 +3604,6 @@ TIE In - Sounds.esp
 Choices and Consequences - FCOM.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
-Better Cities - TIE Restricted Area.esp
-
 \Additional MMM OOO Patches
 \''''''''''''''''''''''''''
 
@@ -4557,7 +4574,6 @@ TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
 TheVaultofOrder.esp
 thievery.esp
-Better Cities - Thievery.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
@@ -4605,7 +4621,6 @@ Ushnars Skinned Hound.esp
 \Quests V
 
 Valley_View_Estate.esp
-Better Cities - Valley View Estate.esp
 Vampire Tunnel System.esp
 VampiresLair.esp
 Vampire Haven.esp
@@ -4617,7 +4632,6 @@ VaultsofCyrodiilBC.esp
 Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
-Better Cities - VHBloodlines.esp
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
@@ -5052,7 +5066,8 @@ mythsandlegends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
-? Check version is 1.4.1 or later.
+? Check version is 1.4.1 or later
+Cybiades-Lost Coast patch.esp.
 UL_BOC_LostCoast_1.0.esp
 ? Check version is 1.4.1 or later.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
@@ -5111,6 +5126,7 @@ Verwen Brewery UL_AY_AC Compatable.esp
 HeartoftheDead-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
+LostSwordoftheAyleids-ArriusCreek patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
 xulRollingHills_EV.esp
@@ -5254,6 +5270,10 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities BRUMA.esp
 Better Cities - Bruma City Defences.esp
 
+Better Cities - Thievery.esp
+Better Cities - TIE Restricted Area.esp
+Better Cities - Valley View Estate.esp
+Better Cities - VHBloodlines.esp
 
 \Better Cities FPS Patches
 \
@@ -5383,6 +5403,8 @@ Open Better Cities Leyawiin - City Defences.esp
 Open Better Cities SKINGRAD.esp
 Open Better Cities Skingrad - City Defences.esp
 Open Better Cities SKINGRAD VARIANT.es
+
+Reaper's_Open-B.C._Secret_Entry.esp
 
 
 \Post BC and OBC
@@ -5995,6 +6017,7 @@ M.O.E. - Alternative Script Effect Icon I.esp
 M.O.E. - Alternative Script Effect Icon II.esp
 
 sgLighterQuivers.esp
+Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
@@ -6435,19 +6458,6 @@ Cobl - NPCDiversity - TNR Merge.esp
 \
 \Overrides overhauls. New spells and magic systems go here for convenience.
 
-\Midas Magic
-
-MidasSpells.esp
-OC+Midas Magic Patch.esp
-Midas OscuroGems.esp
-MidasSpellTomes.esp
-MidasMagicCompanions.esp
-Midas Reduced Costs Half.esp
-Midas Betterholy.esp
-
-
-FrostcragMidasLab.esp
-
 \General Spells
 
 Acidon_EnchantmentFixes.esp
@@ -6575,6 +6585,7 @@ Mighty Magick - Restore Magicka Potions.esp
 Mighty Magick - Restore Magicka Potions [Vanilla].esp
 Mighty for Midas - Rational.esp
 DLCSpellTomes MM Patch.esp
+DLCSpellTomes MMR Patch.esp
 Shivering Magick.esp
 Mighty Magick Mod Upgrades.esp
 Alter Weight Spells - MM.esp
@@ -6621,8 +6632,6 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
-Midas SMHolyHeal.esp
-Midas SMPoison.esp
 
 \L.A.M.E.
 
@@ -6643,12 +6652,23 @@ bgMagicDVSchnitzeljagd.esp
 bgMagicAlchemy.esp
 bgMagicEVExtendedConjurationDuration.esp
 bgMagicPotionNumberSoulGemValue.esp
-
 bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
-
 bgAddEnVarStandAloneEV.esp
+
+\Midas Magic
+
+MidasSpells.esp
+OC+Midas Magic Patch.esp
+Midas OscuroGems.esp
+MidasSpellTomes.esp
+MidasMagicCompanions.esp
+Midas Reduced Costs Half.esp
+Midas Betterholy.esp
+Midas SMHolyHeal.esp
+Midas SMPoison.esp
+FrostcragMidasLab.esp
 
 \Spells Late
 
@@ -6838,6 +6858,7 @@ Deadlier Traps.esp
 ? Included with OOO. Delete if using OOO.
 SM Security.esp
 ? Partly included with OOO. May not be OOO compatible.
+Skeleton Key Revised.esp
 
 Speedy Looting OBSE.esp
 Speedy Looting - Harvest [Containers].esp
@@ -7786,6 +7807,9 @@ Altair_Race.esp
 Assassins Creed - Altair's Gear.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
+Assassins Creed - Altair\\\'s Gear - Light Armor.esp
+? Choose only one 'Assassins Creed' ESP.
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Assassins Creed - Altair's Gear- HeavyArmor.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
@@ -7908,6 +7932,7 @@ AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
+Baddy-EntiusGorge patch.esp
 \No custom races.
 Badmagic - Amazon Nord 02.esp
 \Can't find...

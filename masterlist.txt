@@ -890,6 +890,7 @@ OCLR-Sailboat-Patch.esp
 
 CityLights - ImperialCity.esp
 Cliff's Smokey Chimneys.esp
+Chapel Tithe.esp
 CM_Better Wine.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 CM_Better Wine_SI.esp
@@ -897,7 +898,7 @@ Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 
 CrimsonScarArmor.esp
-
+crfo.esp
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names, Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
@@ -1208,6 +1209,7 @@ P1DlookHereYou.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp 
 Pegasus.esp
+P-Froggys Wall Climbing EV.esp
 AltPegasus.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
@@ -1272,6 +1274,7 @@ Sheepherder's Vampirism Fix - OBSE.esp
 Shield on Back RC5-Public.esp
 Shield on Back 3.1.esp
 shiveringislesdoorusable.esp
+ShowHideAmulet.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
@@ -3970,7 +3973,7 @@ Better Benirus Manor - Complete.esp
 Better Benirus Manor - Interior Only.esp
 Better Benirus Manor for Cobl - Complete.esp
 Better Benirus Manor for Cobl - Interior Only.esp
-
+Better Rosethorn Hall.esp
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -6614,7 +6617,7 @@ Judgement of the Nine.esp
 bgEnchantingOrbEV.esp
 DimensionalPocketOfEther.esp
 RoomOfEnchantment.esp
-
+Scavenger Scamp.esp
 AgarMoreVariedSpellEffects.esp
 % {{BASH:Sound}}
 
@@ -6742,7 +6745,7 @@ cpp.esp
 cppSI.esp
 
 SorcerysToll.esp
-
+sr_spell_deletion.esp
 Spellbooks.esp
 Wizard'sSpellBook.esp
 
@@ -6956,6 +6959,7 @@ OOO-OLC_Realistic_Detection.esp
 M.O.E. - Realistic Law Enforcement - Part One.esp
 M.O.E. - Realistic Law Enforcement - Part Two.esp
 SM Bounty.esp
+CoblDeathFix.esp
 BountyReductionOverTime_standard.esp
 Lem - Bounty Reduction Over Gametime.esp
 No psychic guards v1.1.esp
@@ -7984,6 +7988,7 @@ cssMerged12Sets.esp
 cssNalia.esp
 cssSafana.esp
 cssSarevok.esp
+cssRhett.esp
 
 Aliyah.esp
 \No custom races.
@@ -8152,6 +8157,7 @@ OC+Integration Patch.esp
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
+Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp

@@ -4198,7 +4198,6 @@ Heroes of Cyrodiil.esp
 Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
-Land of Hyrule.esp
 01_Helms_Deep.esp
 ? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -4289,6 +4288,7 @@ Lair_of_the_Hydra-4490.esp
 
 \Quests L
 
+Land of Hyrule.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
 Lakeview2.esp

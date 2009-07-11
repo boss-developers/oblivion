@@ -78,12 +78,13 @@ Tamriel's Glittering Geology.esm
 Oscuro's_Oblivion_Overhaul.esm
 Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
-* Delete. Not compatible with FCOM.
+>* Delete. Not compatible with FCOM.
 Waalx Animals & Creatures.esm
 ? Not fully compatible with other overhaul mods
 Diverse Wisps - Base.esm
 Gems and Gem Dusts.esm
 Enhanced Daedric Invasion.esm
+ORP.esm
 CyrodiilUpgradeResourcePack.esm
 (DC)A Saints Tale Master.esm
 TamrielTravellers.esm
@@ -154,11 +155,15 @@ PMSneakySummons.esm
 \Earliest mods
 \-------------
 
-TRoN.esp
-\Probably doesn't need to load this early but the authors recommend it.
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
+? A fixed edition (for Shivering Isles ONLY! is avaliable here: http://tinyurl.com/kmgaxd
 \This really does need to go early.
+
+
+TRoN.esp
+\Probably doesn't need to load this early but the authors recommend it.
+
 
 
 \-------------
@@ -336,10 +341,11 @@ PMVisibleMapMarkers-ShiveringIsles.esp
 \BSA tricks
 \----------
 
-Oblivion.esp
-? Usually a BSA redirection hack for FraNewItems.BSA.
-? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
-? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+
+Better Cities .esp
+? Dummy file to load Better Cities .BSA
+BSAloader.esp
+? Dummy file to load .BSA files.
 FraNewItems.esp
 ? Dummy file to load FraNewItems.BSA
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
@@ -348,12 +354,14 @@ Fra.esp
 ? BSA redirection hack. Usually refers to FraNewItems.BSA
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
-Better Cities .esp
-? Dummy file to load Better Cities .BSA
 MMM.esp
 ? Dummy file to load the MMM .BSA
-BSAloader.esp
-? Dummy file to load .BSA files.
+Oblivion.esp
+? Usually a BSA redirection hack.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
+? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+
+
 
 MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
@@ -4190,6 +4198,7 @@ Heroes of Cyrodiil.esp
 Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
+Land of Hyrule.esp
 01_Helms_Deep.esp
 ? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -5197,6 +5206,8 @@ Waterfront Passage - Control of Goods.esp
 Moriarcis.esp
 % {{BASH:Hair}}
 Moriarcis_TheNecromancer Patch.esp
+TheNecromancer-Moriarcis patch.esp
+
 300 Arcane University.esp
 Reaper's Arcane University.esp
 PersonalPackGuars.esp
@@ -6062,22 +6073,25 @@ sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
 
 Storms & Sound - AFK_Weye.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Amajor7 Imperial Furniture.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Bank of Cyrodiil.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Bartholm.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Blood&Mud.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - The Lost Spires.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Shezrie's Villages.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Better Cities.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound mod (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 ? Better Cities patch is based off Better Cities.esm and can load above all Better Cities esps.
+Storms & Sound Patches.esp
+? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? This is a custom merge.
 
 ShippingInCyrodiil-08.esp
 SkoomaTest.esp

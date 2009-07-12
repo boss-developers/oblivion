@@ -3839,7 +3839,7 @@ Cyrodiil transportation network OC.esp
 OC+CTN Patch.esp
 
 Ivellon.esp
-? Border regions must be turned off after this mod for OOO compatibility. Use Wrye Bash tweak or a border removal mod.
+? Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
 OCC-Ivellon-Patch.esp
 
 1079-Safe Archmage Storage-TESSource.esp
@@ -7810,13 +7810,6 @@ CustomRaceFix.esp
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
 
-\BG Integration quest
-\''''''''''''''''''''
-bgIntegrationEV.esp
-? Requires LAME, Shivering Isles and Race Balancing Project.
-bgIntegrationEV - Unique Clothes.esp
-OC+Integration Patch.esp
-
 \--------
 \L.A.M.E.
 \--------
@@ -7844,6 +7837,12 @@ bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
 
+\BG Integration quest
+\''''''''''''''''''''
+bgIntegrationEV.esp
+? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Unique Clothes.esp
+OC+Integration Patch.esp
 
 \-------------
 \Better Cities

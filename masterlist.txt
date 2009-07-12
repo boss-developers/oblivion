@@ -6524,30 +6524,6 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
 
-\L.A.M.E.
-
-bgMagicEV.esp
-% {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
-bgMagicSpellTomes_for_WryeBash.esp
-bgMagicDVSpellTomes_for_WryeBash.esp
-bgMagicItemSigil.esp
-bgMagicDVItemSigil.esp
-bgMagicEVStartspells.esp
-bgMagicDVStartspells.esp
-bgMagicBonus.esp
-bgMagicDVBonus.esp
-bgMagicEVAddEnVar.esp
-bgMagicDVAddEnVar.esp
-bgMagicEVPaperChase.esp
-bgMagicDVSchnitzeljagd.esp
-bgMagicAlchemy.esp
-bgMagicEVExtendedConjurationDuration.esp
-bgMagicPotionNumberSoulGemValue.esp
-bgMagicEVAddEnVarNoSI.esp
-bgMagicEVNoSorting.esp
-bgMagicEVStartspellsNoSorting.esp
-bgAddEnVarStandAloneEV.esp
-
 \Midas Magic
 
 MidasSpells.esp
@@ -7840,6 +7816,33 @@ bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
+
+\--------
+\L.A.M.E.
+\--------
+\Should load after RBP.
+
+bgMagicEV.esp
+% {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
+bgMagicSpellTomes_for_WryeBash.esp
+bgMagicDVSpellTomes_for_WryeBash.esp
+bgMagicItemSigil.esp
+bgMagicDVItemSigil.esp
+bgMagicEVStartspells.esp
+bgMagicDVStartspells.esp
+bgMagicBonus.esp
+bgMagicDVBonus.esp
+bgMagicEVAddEnVar.esp
+bgMagicDVAddEnVar.esp
+bgMagicEVPaperChase.esp
+bgMagicDVSchnitzeljagd.esp
+bgMagicAlchemy.esp
+bgMagicEVExtendedConjurationDuration.esp
+bgMagicPotionNumberSoulGemValue.esp
+bgMagicEVAddEnVarNoSI.esp
+bgMagicEVNoSorting.esp
+bgMagicEVStartspellsNoSorting.esp
+bgAddEnVarStandAloneEV.esp
 
 
 \-------------

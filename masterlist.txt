@@ -1066,6 +1066,7 @@ Improved Skingrad.esp
 ? Not compatible with Open Cities Complete or Open Cities Skingrad components.
 ? Not compatible with Open Better Cities Complete or Open Better Cities Skingrad components.
 
+ImprovedSigns.esp
 Inebriation.esp
 ? Not OOO compatible - already included in OOO.
 IngredientsInBulk.esp
@@ -3149,7 +3150,6 @@ ArmamentariumLL.esp
 Choices and Consequences - OOO.esp
 ? A new version of Choices and Consequences called C&C&EQR is out
 C&C&EQR - OOO.esp
-Enhanced Quest Roleplaying - OOO.esp
 ArmamentariumLLVendor.esp
 ? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLVendors.esp
@@ -3631,7 +3631,6 @@ TIE In - Game Settings OOO.esp
 TIE In - Sounds.esp
 
 Choices and Consequences - FCOM.esp
-Enhanced Quest Roleplaying - FCOM.esp
 
 \Additional MMM OOO Patches
 \''''''''''''''''''''''''''
@@ -6935,6 +6934,7 @@ Kayo.esp
 kuerteeAttributeAndSkillBasedDamageModifiers.esp
 ? Make sure to set calculateFromVanilla in the included ini file to 0 when used alongside other combat mods.
 kuerteeNPCsYield.esp
+kuerteeBattleFatigueAndInjuries.esp
 
 Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
 ? Old. Upgrade to latest version.

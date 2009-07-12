@@ -159,7 +159,7 @@ PMSneakySummons.esm
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
 ? A fixed edition (for Shivering Isles ONLY! is avaliable here: http://tinyurl.com/kmgaxd
-\This really does need to go early.
+\This really does need to load this early.
 
 
 TRoN.esp
@@ -283,12 +283,12 @@ ClavicusFix.esp
 ? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in UOP.
 ArenaChampionHotfix.esp
 ? May be fixed in UOP 3.0.1+ - consult documentation.
-? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in UOP.
+? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in the UOP.
 995-Specular Fix 1.1-TESSource.esp
 ? 'Specular not set to max' crash bug may have been fixed in an official 1.2 patch?
 vampirescriptfix.esp
 object_placement.esp
-? compatable with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
+? compatible with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
 CaeliaDraconisFix.esp
 ? May be fixed in UOP 3.0.1+ - consult documentation.
 sulinus fix.esp
@@ -1131,7 +1131,7 @@ MM_Run5.esp
 M.O.E. - Undermined Leveled Gameplay - Creature Edition.esp
 ? Not overhaul mod compatible (Fran's, OOO, MMM, FCOM).
 M.O.E. - Undermined Leveled Gameplay - Item Edition.esp
-? Probably not overhaul mod compatible (Fran's, OOO, MMM, FCOM). Untested.
+? Not overhaul mod compatible (Fran's, OOO, MMM, FCOM).
 Moist - Gate Room.esp
 Morrowindbooks.esp
 More_Animals.esp
@@ -1427,8 +1427,9 @@ Terran Vampires Beta.esp
 OCC-TVamp-Patch.esp
 
 Choices and Consequences.esp
-? A new version of Choices and Consequences called C&C&EQR is out
+? Make sure you have the latest version.
 C&C&EQR.esp
+? Not the latest version, the latest version has the same file names as the previous version. Update.
 
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner}}
@@ -1829,7 +1830,7 @@ Chrysamere.esp
 Collectable Miniature Daedric Shrines.esp
 crimson dagger.esp
 ? Due to a poorly written script unless this mod is the second mod loaded (i.e no esms except for OB) the player will never get the weapon
-? To get the weapon open the console and enter xx000ED3 where xx is the hexadecimal mod index (LO number).
+? To get the weapon open the console and enter  player.additem xx000ED3 where xx is the hexadecimal mod index (LO number).
 crusadercg.esp
 Crystalline Sword.esp
 CrystalStaff.esp
@@ -2138,11 +2139,11 @@ Doomshard Bow.esp
 \Items O
 
 Obsidian armor.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oddbasket Glass Replace NoEnch.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oddbasket Glass Replace.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oonas_Outfitters.esp
 Obclothing.esp
 
@@ -2221,10 +2222,10 @@ Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 SickleIrons.esp
 Sin's Expanded Light Armor Kit [Chest].esp
-? Not compatable with OOO - armors already included - so deactivate when using OOO.
+? Not compatible with OOO - armors already included - so deactivate when using OOO.
 % {{BASH:Invent}}
 Sin's Expanded Light Armor Kit [NPC].esp
-? Not compatable with OOO - armors already included - so deactivate when using OOO.
+? Not compatible with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
@@ -5096,6 +5097,7 @@ VeronaHouseBloodlines-ChorrolHinterland fix.esp
 WeynonRetreat-Patch.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
+? Obsolete. Delete.
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -6499,17 +6501,6 @@ bgBalancingDVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 bgBalancingNoSIVersion_Core_still_required.esp
 
-\Cobl races needs to load around here.
-
-Cobl Races.esp
-% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
-Cobl Races TNR.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
-Cobl Races TNR SI.esp
-? Requires the Cobl Cosmetics Res 01 files installed.
-
-Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
 
 
 \Magic
@@ -8059,6 +8050,18 @@ DASephirothCompanion.esp
 \
 \Includes birthsign mods.
 
+\Cobl races needs to load around here.
+
+Cobl Races.esp
+% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
+Cobl Races TNR.esp
+? Requires the Cobl Cosmetics Res 01 files installed.
+Cobl Races TNR SI.esp
+? Requires the Cobl Cosmetics Res 01 files installed.
+
+Cobl - NPCDiversity - TNR Merge.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+
 
 \Race Balancing Project pt 2
 \'''''''''''''''''''''''''''
@@ -8223,6 +8226,7 @@ Vac's Tweaks.esp
 \Bashed Patch
 \------------
 
+Bashed Patch FCOM.esp
 Bashed Patch, 0.esp
 Bashed Patch, 1.esp
 Bashed Patch, 2.esp

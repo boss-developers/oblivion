@@ -5279,161 +5279,6 @@ Duke Patricks The Lady said NO.esp
 DukePatricksTheLadysaidNO.esp
 
 
-\Better Cities and Compatibility Patches
-\'''''''''''''''''''''''''''''''''''''''
-
-Better Cities Full.esp
-Better Cities Full - B&M Edition.esp
-Better Cities - Full City Defences.esp
-
-Better Cities SKINGRAD.esp
-Better Cities - Skingrad City Defences.esp
-
-Better Cities BRAVIL.esp
-Better Cities BRAVIL - Blood & Mud.esp
-Better Cities - Bravil City Defences.esp
-BCBravilB&M-Barrowfields patch.esp
-BCBravil-Barrowfields.esp
-
-Better Cities - Unique Landscape Barrowfields.esp
-BCBravil-Barrowfields patch.esp
-Better Cities ANVIL.esp
-Better Cities - Anvil City Defences.esp
-Better Cities - Brew House.esp
-Better Cities - Ruined Tail's Tale.esp
-? Not compatible with Ruined Tail 2.5.
-
-Better Cities - Anvil Bay Expansion.esp
-
-Better Cities CHORROL.esp
-Better Cities - Chorrol City Defences.esp
-BCChorrol-ChorrolHinterland fix.esp
-Better Cities - Unique Landscape Chorrol Hinterland.esp
-
-Better Cities - Knightly Armory.esp
-
-Better Cities CHEYDINHAL.esp
-Better Cities - Cheydinhal City Defences.esp
-Better Cities - Tears of the Fiend.esp
-
-Better Cities LEYAWIIN.esp
-Better Cities - Leyawiin City Defences.esp
-Better Cities - No LEYAWIIN Flooding.esp
-
-Better Cities BRUMA.esp
-Better Cities - Bruma City Defences.esp
-
-Better Cities - Thievery.esp
-Better Cities - TIE Restricted Area.esp
-Better Cities - Valley View Estate.esp
-Better Cities - VHBloodlines.esp
-
-\Better Cities FPS Patches
-\
-Better Cities Full Patch.esp
-Better Cities Full - B&M Edition Patch.esp
-? Only use if using Better Cities Full - B&M Edition.esp
-Better Cities Skingrad Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Leyawiin Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Chorrol Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Cheydinhal Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Bruma Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Bravil Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Bravil - Blood & Mud Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Anvil Patch.esp
-? Only use if using the separate Better Cities .esps
-
-
-\Obsolete BC files
-
-BCAnvil-LostCoast Fix.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Unique Landscape Lost Coast.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities Full - City Defences.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - TESFU.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities ICMarket.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - ICMarket Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - ICMarket FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - SKINGRAD Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Skingrad FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Bravil FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - ANVIL Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Anvil FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - CHORROL Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Chorrol FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - CHEYDINHAL Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Cheydinhal FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - LEYAWIIN Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Leyawiin FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Auriel's Books.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Blood&Mud.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Full Additions.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - Lost Spires.esp
-Better Cities - B&M LS RTT TotF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M LS RTT.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M LS ToTF RTT.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M LS ToTF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M RTT.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M ToTF RTT.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - B&M ToTF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - Blood&Mud LostSpires.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - LS RTT TotF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - LS RTT.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - LS TotF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - RTT TotF.esp
-? Obsolete file. Deactivate and remove.
-Better Cities - Bruma FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-WBA Arboretum.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities - WBA FPS Improver.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities LEYAWIIN - No Flooding.esp
-? Obsolete. Update Better Cities to latest version.
-Better Cities Full - LEYAWIIN No Flooding.esp
-? Obsolete. Update Better Cities to latest version.
-
-Portrait Painter for Better Cities.esp
-
-
 \Open Better Cities
 \''''''''''''''''''
 
@@ -6500,19 +6345,6 @@ Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
 LithiansNatureOfTheBeastModBeta.esp
 
-\Race Balancing Project 1
-\''''''''''''''''''''''''
-\
-\These components need to go before LAME
-
-bgBalancingEVCore.esp
-? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
-bgBalancingDVCore.esp
-? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
-bgBalancingNoSIVersion_Core_still_required.esp
-
-
-
 \Magic
 \'''''
 \
@@ -7450,217 +7282,9 @@ Stat Restore.esp
 Arena betting.esp
 
 
-\Message suppression overrides
-\'''''''''''''''''''''''''''''
-\
-\Best loaded late to override possible message additions from other mods.
-
-Message Remover Pack 1.02.esp
-No More Annoying Comments.esp
-LessMessages.esp
-MRP - Autosaving.esp
-MRP - Cant Equip Item.esp
-MRP - Fast travel unavailable.esp
-MRP - Horse stabled outside gate.esp
-MRP - Loading area.esp
-MRP - Not enough charge.esp
-MRP - Quickloading.esp
-MRP - Quicksaving.esp
-MRP - You find nothing of use.esp
-MRP - You successfully harvest.esp
-Disable Tutorial Text.esp
-MM_NoMoreAnnoyingMessages.esp
-NoMoreAnnoyingMessages.esp
-MM_NoAnnoyingMessages.esp
-MM_NoMoreAnnoyingMessages-Lite.esp
-No More Annoying Messages.esp
-'Cannot Equip' Message Remover.esp
-Annoying Comment Remover.esp
-No More Annoying Merchant Comments.esp
-NoMerchantBarterChatter.esp
-No More Annoying Merchant Comments - Combined.esp
-Remove_Persuasion_Game_Replies-3059.esp
-No More Annoying__.esp
-No Load Screen on Death v1.0.esp
-MessageBox Remover.esp
-Zero Annoying Comments and Messages.esp
 
 
-\Respawn & day length overrides
-\''''''''''''''''''''''''''''''
-\
-\Use only one of each kind. Unlikely to interact with other mods.
 
-Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
-Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
-Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
-Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
-Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
-Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
-Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
-Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
-Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
-Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
-Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
-Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
-Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
-Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
-Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
-Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
-Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
-Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
-Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
-Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
-Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
-Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
-Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
-Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
-Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
-Francesco's day lenght rescale 1-12.esp
-Francesco's day lenght rescale 1-16.esp
-Francesco's day lenght rescale 1-20.esp
-Francesco's day lenght rescale 1-24.esp
-Francesco's day lenght rescale 1-30.esp
-Francesco's 21 days respawn time.esp
-Francesco's 14 days respawn time.esp
-Francesco's 10 days respawn time.esp
-Francesco's 7 days respawn time.esp
-OOO-Respawn_Month.esp
-OOO-Respawn_Two_Week.esp
-OOO-Respawn_Week.esp
-OOO-Respawn_Year.esp
-ThingasTime 1-15 Scale.esp
-Timescale 10x Real-Life.esp
-Time-2hr-realtime.esp
-TF_timemod1-10.esp
-OblivionRealTimeV11.esp
-Combat Timescale x0.5 v1.0.esp
-Syc_LongerDaysShorterNights.esp
-SPAWN.esp
-
-
-\-----------
-\Shader mods
-\-----------
-\
-\Need to go after new items to affect them.
-
-
-\Shader removers
-\'''''''''''''''
-
-_No__persistant_enchantment_glow_fix-1843.esp
--No-_persistant_enchantment_glow_fix-1843.esp
-MagicEffectDim.esp
-P1DshieldNoGlow.esp
-[GFX]_Initial_Glow-all.esp
-GFX_Initial_Glow-all.esp
-[GFX]_Initial_Glow-self.esp
-[GFX]_Initial_Glow-creatures.esp
-GP_No-Glo.esp
-No_More_Gatestorm_on_Oblivion_gates-9654.esp
-
-Chameleon-NoRefraction.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
-Chameleon-NoRefraction-2411.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
-1310-chamelion-norefraction-tessource.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
-
-
-\Shader replacers
-\''''''''''''''''
-
-AznarsLifeDetect.esp
-LifeDetect Shader HQ.esp
-BadderFireFX.esp
-BadderFrostFX.esp
-BadderShockFX.esp
-bgMagicEVShader.esp
-bgMagicDVShader.esp
-bgMagicShaderLifeDetect.esp
-bgMagicLightningbolt.esp
-BNewShockBoltEffects20.esp
-BNewShockFunnelEffects20.esp
-BNewShockEffects.esp
-Detect Life Shader.esp
-Detect Life Shader [New].esp
-DS Flaming Arrows.esp
-LifeDetect Shader.esp
-Life Detected - Enhanced Shader.esp
-Forward Motion Blur.esp
-Get Wet - just droplets.esp
-Get Wet - no droplets.esp
-Get Wet.esp
-Get Wet v0.92.esp
-GW71_Life_Detect.esp
-Alt LifeDetected.esp
-HeatVision.esp
-KoldornsImprovedLava2.esp
-KoldornsImprovedLava.esp
-Templars Lava Replacer v1.0.esp
-Better Lava by elveon.esp
-Better Lava (by elveon).esp
-MotionBlur.esp
-New_NightEye_Toggle.esp
-QTdof.esp
-omg-dynamicDoF.esp
-omg-staticDoF.esp 
-omg-waterrefraction-obse.esp
-Real Lava 1.3.esp
-% {{BASH:Graphics}} and deactivate.
-Real Lava.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
-Real Lava v1.1.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
-Real Lava 1.2.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
-Real Lava v1.2.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
-Improved Lava.esp
-% {{BASH:Body-M,Body-F}} and deactivate.
-ScreenControls.esp
-Summon_Bear.esp
-Better Turn Undead Shader.esp
-Update 2.0 Visually Enchanted.esp
-Visually Enchanted Damage and Absorb with Particles.esp
-Visually Enchanted Drains 1.esp
-Visually Enchanted Drains.esp
-Visually Enchanted Fire 1.esp
-Visually Enchanted Fire 2.esp
-Visually Enchanted Fire 3.esp
-Visually Enchanted Fire.esp
-Visually Enchanted Frost 1.esp
-Visually Enchanted Frost 2.esp
-Visually Enchanted Frost 3.esp
-Visually Enchanted Frost.esp
-Visually Enchanted Shock 1.esp
-Visually Enchanted Shock 2.esp
-Visually Enchanted Shock 3.esp
-Visually Enchanted Shock.esp
-Visually Enchanted SoulTrap 1.esp
-Visually Enchanted SoulTrap.esp
-Visually Enchanted 2.1 No Shock Particles.esp
-Visually Enchanted 2.1.esp
-Visually Enchanted.esp
-Visually Realistic Deadly Lava.esp
-Visually Realistic Lava.esp
-Visual Enchantments LessFire.esp
-X-Ray Detect.esp
-WNewShockBoltEffects20.esp
-New Frost Damage effect NES.esp
-New Frost Damage effect.esp
-PowerAttackEffector.esp
-Visual Enchantments v1.0.esp
-
-Shining Flame Atronachs.esp
-Shining Flame Atronachs_ElementalSummonAmulets.esp
-Shining Flame Atronachs_Friendly Fire.esp
-Shining Flame Atronachs_DLCFrostcrag.esp
 
 
 \--------------------------
@@ -7965,12 +7589,19 @@ Toaster Says Share Faction Recruitment.esp
 
 CM Partners.esp
 CM Partners Special NPCs.esp
+% {{BASH:Hair,Eyes}}
 CM Partners NPC.esp
+% {{BASH:Hair,Eyes}}
 CM Partners NPC NE.esp
+% {{BASH:Hair,Eyes}}
 CM Partners More NPCs.esp
+% {{BASH:Hair,Eyes}}
 CM Partners More NPCs NE.esp
+% {{BASH:Hair,Eyes}}
 CM Partners Marker NPCs.esp
+% {{BASH:Hair,Eyes}}
 CM Partners Extra NPCs.esp
+% {{BASH:Hair,Eyes}}
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 Companion Sales & Retail.esp
@@ -7980,21 +7611,33 @@ AW_Partners_MarkReturnTweak.esp
 CompanionshipRing.esp
 
 cssCalisto.esp
+% {{BASH:Hair,Eyes}}
 cssCernd.esp
+% {{BASH:Hair,Eyes}}
 cssEdwin.esp
+% {{BASH:Hair,Eyes}}
 cssImoen.esp
+% {{BASH:Hair,Eyes}}
 cssIrenicus.esp
+% {{BASH:Hair,Eyes}}
 cssJaheira.esp
+% {{BASH:Hair,Eyes}}
 cssKeldorn.esp
+% {{BASH:Hair,Eyes}}
 cssMazzy.esp
+% {{BASH:Hair,Eyes}}
 cssMerged12Sets.esp
+% {{BASH:Hair,Eyes}}
 cssNalia.esp
+% {{BASH:Hair,Eyes}}
 cssSafana.esp
+% {{BASH:Hair,Eyes}}
 cssSarevok.esp
+% {{BASH:Hair,Eyes}}
 cssRhett.esp
+% {{BASH:Hair,Eyes}}
 
 Aliyah.esp
-\No custom races.
 Arwen companion.esp
 % {{BASH:Hair,Eyes}}
 AsharasCMPartners.esp
@@ -8002,56 +7645,83 @@ AsharasCMPartners.esp
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
 Baddy-EntiusGorge patch.esp
-\No custom races.
 Badmagic - Amazon Nord 02.esp
-\Can't find...
 CM Partner Jordie1.esp
-\Can't find...
 Cog-Rein.esp
-\No custom races.
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 companion_moonelves.esp
 companion.esp
 Dogmeat Companion.esp
-\No custom races.
 DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}
 Eluna.esp
+% {{BASH:Hair,Eyes}}
 GG_Valeria_Revived.esp
+% {{BASH:Hair,Eyes}}
 GG_Vincente.esp
+% {{BASH:Hair,Eyes}}
 Haowen.esp
+% {{BASH:Hair,Eyes}}
 KendoGirl_Final.esp
+% {{BASH:Hair,Eyes}}
 MarcAntony.esp
+% {{BASH:Hair,Eyes}}
 Nec-Character_Eva.esp
+% {{BASH:Hair,Eyes}}
 PetsOfChorrol.esp
+% {{BASH:Hair,Eyes}}
 Ramy Enfant.esp
+% {{BASH:Hair,Eyes}}
 Rhianna.esp
+% {{BASH:Hair,Eyes}}
 Rinn.esp
+% {{BASH:Hair,Eyes}}
 Saerileth.esp
+% {{BASH:Hair,Eyes}}
 sexycompanion.esp
+% {{BASH:Hair,Eyes}}
 Shivering Creature Companion.esp
 SnowAndHarukoCMPartners.esp
+% {{BASH:Hair,Eyes}}
 Sonia.esp
+% {{BASH:Hair,Eyes}}
 Tamara.esp
+% {{BASH:Hair,Eyes}}
 RhiannaII-essential.esp
+% {{BASH:Hair,Eyes}}
 
 DAJynx.esp
 ? Requires OBSE.
+% {{BASH:Hair,Eyes}}
 DAClair.esp
+% {{BASH:Hair,Eyes}}
 DAEva.esp
+% {{BASH:Hair,Eyes}}
 DAValeriaCuteElf.esp
+% {{BASH:Hair,Eyes}}
 DARaewyn.esp
+% {{BASH:Hair,Eyes}}
 DATalitha.esp
+% {{BASH:Hair,Eyes}}
 DAFeria.esp
+% {{BASH:Hair,Eyes}}
 DADemons.esp
+% {{BASH:Hair,Eyes}}
 DAJackSparrow.esp
+% {{BASH:Hair,Eyes}}
 DAKaleahSuccubus.esp/DAKaleah.esp
+% {{BASH:Hair,Eyes}}
 DAXivilai.esp
+% {{BASH:Hair,Eyes}}
 DAWerewolf.esp
+% {{BASH:Hair,Eyes}}
 DALeonidas.esp
+% {{BASH:Hair,Eyes}}
 DAMeridiaKatrina.esp
+% {{BASH:Hair,Eyes}}
 DASephirothCompanion.esp
+% {{BASH:Hair,Eyes}}
 
 
 \--------------
@@ -8060,21 +7730,25 @@ DASephirothCompanion.esp
 \
 \Includes birthsign mods.
 
-\Cobl races needs to load around here.
-
 Cobl Races.esp
 % {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
-
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 
 
-\Race Balancing Project pt 2
-\'''''''''''''''''''''''''''
+\Race Balancing Project
+\''''''''''''''''''''''
+
+bgBalancingEVCore.esp
+? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
+bgBalancingDVCore.esp
+? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
+? German version.
+bgBalancingNoSIVersion_Core_still_required.esp
 
 bgBalancingOptionalLessHealth.esp
 bgBalancingEVOptionalClasses.esp
@@ -8160,19 +7834,169 @@ CustomRaceFix.esp
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
 
+\BG Integration quest
+\''''''''''''''''''''
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 
 
-\--------
-\Pre Bash
-\--------
+\-------------
+\Better Cities
+\-------------
 
-UnnecessaryViolence.esp
-\issue was reported that loading earlier caused lag in scripts - needs verification.
-Enhanced Grabbing - Unnecessary Violence Liaison.esp
+Better Cities Full.esp
+Better Cities Full - B&M Edition.esp
+Better Cities - Full City Defences.esp
+
+Better Cities SKINGRAD.esp
+Better Cities - Skingrad City Defences.esp
+
+Better Cities BRAVIL.esp
+Better Cities BRAVIL - Blood & Mud.esp
+Better Cities - Bravil City Defences.esp
+BCBravilB&M-Barrowfields patch.esp
+BCBravil-Barrowfields.esp
+
+Better Cities - Unique Landscape Barrowfields.esp
+BCBravil-Barrowfields patch.esp
+Better Cities ANVIL.esp
+Better Cities - Anvil City Defences.esp
+Better Cities - Brew House.esp
+Better Cities - Ruined Tail's Tale.esp
+? Not compatible with Ruined Tail 2.5.
+
+Better Cities - Anvil Bay Expansion.esp
+
+Better Cities CHORROL.esp
+Better Cities - Chorrol City Defences.esp
+BCChorrol-ChorrolHinterland fix.esp
+Better Cities - Unique Landscape Chorrol Hinterland.esp
+
+Better Cities - Knightly Armory.esp
+
+Better Cities CHEYDINHAL.esp
+Better Cities - Cheydinhal City Defences.esp
+Better Cities - Tears of the Fiend.esp
+
+Better Cities LEYAWIIN.esp
+Better Cities - Leyawiin City Defences.esp
+Better Cities - No LEYAWIIN Flooding.esp
+
+Better Cities BRUMA.esp
+Better Cities - Bruma City Defences.esp
+
+Better Cities - Thievery.esp
+Better Cities - TIE Restricted Area.esp
+Better Cities - Valley View Estate.esp
+Better Cities - VHBloodlines.esp
+
+\Better Cities FPS Patches
+
+Better Cities Full Patch.esp
+Better Cities Full - B&M Edition Patch.esp
+? Only use if using Better Cities Full - B&M Edition.esp
+Better Cities Skingrad Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Leyawiin Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Chorrol Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Cheydinhal Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bruma Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bravil Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bravil - Blood & Mud Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Anvil Patch.esp
+? Only use if using the separate Better Cities .esps
+
+\Obsolete BC files
+
+BCAnvil-LostCoast Fix.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Unique Landscape Lost Coast.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities Full - City Defences.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - TESFU.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities ICMarket.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ICMarket Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ICMarket FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - SKINGRAD Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Skingrad FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Bravil FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - ANVIL Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Anvil FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - CHORROL Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Chorrol FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - CHEYDINHAL Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Cheydinhal FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - LEYAWIIN Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Leyawiin FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Auriel's Books.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Blood&Mud.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Full Additions.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - Lost Spires.esp
+Better Cities - B&M LS RTT TotF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M LS RTT.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M LS ToTF RTT.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M LS ToTF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M RTT.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M ToTF RTT.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - B&M ToTF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - Blood&Mud LostSpires.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - LS RTT TotF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - LS RTT.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - LS TotF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - RTT TotF.esp
+? Obsolete file. Deactivate and remove.
+Better Cities - Bruma FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+WBA Arboretum.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities - WBA FPS Improver.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities LEYAWIIN - No Flooding.esp
+? Obsolete. Update Better Cities to latest version.
+Better Cities Full - LEYAWIIN No Flooding.esp
+? Obsolete. Update Better Cities to latest version.
+
+Portrait Painter for Better Cities.esp
+
+\BC IC
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp
@@ -8211,6 +8035,230 @@ Better Cities IC Arcane University Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
+
+
+\-----------------------------
+\Message suppression overrides
+\-----------------------------
+\
+\Best loaded late to override possible message additions from other mods.
+
+Message Remover Pack 1.02.esp
+No More Annoying Comments.esp
+LessMessages.esp
+MRP - Autosaving.esp
+MRP - Cant Equip Item.esp
+MRP - Fast travel unavailable.esp
+MRP - Horse stabled outside gate.esp
+MRP - Loading area.esp
+MRP - Not enough charge.esp
+MRP - Quickloading.esp
+MRP - Quicksaving.esp
+MRP - You find nothing of use.esp
+MRP - You successfully harvest.esp
+Disable Tutorial Text.esp
+MM_NoMoreAnnoyingMessages.esp
+NoMoreAnnoyingMessages.esp
+MM_NoAnnoyingMessages.esp
+MM_NoMoreAnnoyingMessages-Lite.esp
+No More Annoying Messages.esp
+'Cannot Equip' Message Remover.esp
+Annoying Comment Remover.esp
+No More Annoying Merchant Comments.esp
+NoMerchantBarterChatter.esp
+No More Annoying Merchant Comments - Combined.esp
+Remove_Persuasion_Game_Replies-3059.esp
+No More Annoying__.esp
+No Load Screen on Death v1.0.esp
+MessageBox Remover.esp
+Zero Annoying Comments and Messages.esp
+
+
+\------------------------------
+\Respawn & day length overrides
+\------------------------------
+\
+\Use only one of each kind. Unlikely to interact with other mods.
+
+Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
+Francesco's day lenght rescale 1-12.esp
+Francesco's day lenght rescale 1-16.esp
+Francesco's day lenght rescale 1-20.esp
+Francesco's day lenght rescale 1-24.esp
+Francesco's day lenght rescale 1-30.esp
+Francesco's 21 days respawn time.esp
+Francesco's 14 days respawn time.esp
+Francesco's 10 days respawn time.esp
+Francesco's 7 days respawn time.esp
+OOO-Respawn_Month.esp
+OOO-Respawn_Two_Week.esp
+OOO-Respawn_Week.esp
+OOO-Respawn_Year.esp
+ThingasTime 1-15 Scale.esp
+Timescale 10x Real-Life.esp
+Time-2hr-realtime.esp
+TF_timemod1-10.esp
+OblivionRealTimeV11.esp
+Combat Timescale x0.5 v1.0.esp
+Syc_LongerDaysShorterNights.esp
+SPAWN.esp
+
+
+\-----------
+\Shader mods
+\-----------
+\
+\Need to go after new items to affect them.
+
+\Shader removers
+\'''''''''''''''
+
+_No__persistant_enchantment_glow_fix-1843.esp
+-No-_persistant_enchantment_glow_fix-1843.esp
+MagicEffectDim.esp
+P1DshieldNoGlow.esp
+[GFX]_Initial_Glow-all.esp
+GFX_Initial_Glow-all.esp
+[GFX]_Initial_Glow-self.esp
+[GFX]_Initial_Glow-creatures.esp
+GP_No-Glo.esp
+No_More_Gatestorm_on_Oblivion_gates-9654.esp
+
+Chameleon-NoRefraction.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+Chameleon-NoRefraction-2411.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+1310-chamelion-norefraction-tessource.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+
+
+\Shader replacers
+\''''''''''''''''
+
+AznarsLifeDetect.esp
+LifeDetect Shader HQ.esp
+BadderFireFX.esp
+BadderFrostFX.esp
+BadderShockFX.esp
+bgMagicEVShader.esp
+bgMagicDVShader.esp
+bgMagicShaderLifeDetect.esp
+bgMagicLightningbolt.esp
+BNewShockBoltEffects20.esp
+BNewShockFunnelEffects20.esp
+BNewShockEffects.esp
+Detect Life Shader.esp
+Detect Life Shader [New].esp
+DS Flaming Arrows.esp
+LifeDetect Shader.esp
+Life Detected - Enhanced Shader.esp
+Forward Motion Blur.esp
+Get Wet - just droplets.esp
+Get Wet - no droplets.esp
+Get Wet.esp
+Get Wet v0.92.esp
+GW71_Life_Detect.esp
+Alt LifeDetected.esp
+HeatVision.esp
+KoldornsImprovedLava2.esp
+KoldornsImprovedLava.esp
+Templars Lava Replacer v1.0.esp
+Better Lava by elveon.esp
+Better Lava (by elveon).esp
+MotionBlur.esp
+New_NightEye_Toggle.esp
+QTdof.esp
+omg-dynamicDoF.esp
+omg-staticDoF.esp 
+omg-waterrefraction-obse.esp
+Real Lava 1.3.esp
+% {{BASH:Graphics}} and deactivate.
+Real Lava.esp
+? Update to 1.3 or later.
+% {{BASH:Graphics}} and deactivate.
+Real Lava v1.1.esp
+? Update to 1.3 or later.
+% {{BASH:Graphics}} and deactivate.
+Real Lava 1.2.esp
+? Update to 1.3 or later.
+% {{BASH:Graphics}} and deactivate.
+Real Lava v1.2.esp
+? Update to 1.3 or later.
+% {{BASH:Graphics}} and deactivate.
+Improved Lava.esp
+% {{BASH:Body-M,Body-F}} and deactivate.
+ScreenControls.esp
+Summon_Bear.esp
+Better Turn Undead Shader.esp
+Update 2.0 Visually Enchanted.esp
+Visually Enchanted Damage and Absorb with Particles.esp
+Visually Enchanted Drains 1.esp
+Visually Enchanted Drains.esp
+Visually Enchanted Fire 1.esp
+Visually Enchanted Fire 2.esp
+Visually Enchanted Fire 3.esp
+Visually Enchanted Fire.esp
+Visually Enchanted Frost 1.esp
+Visually Enchanted Frost 2.esp
+Visually Enchanted Frost 3.esp
+Visually Enchanted Frost.esp
+Visually Enchanted Shock 1.esp
+Visually Enchanted Shock 2.esp
+Visually Enchanted Shock 3.esp
+Visually Enchanted Shock.esp
+Visually Enchanted SoulTrap 1.esp
+Visually Enchanted SoulTrap.esp
+Visually Enchanted 2.1 No Shock Particles.esp
+Visually Enchanted 2.1.esp
+Visually Enchanted.esp
+Visually Realistic Deadly Lava.esp
+Visually Realistic Lava.esp
+Visual Enchantments LessFire.esp
+X-Ray Detect.esp
+WNewShockBoltEffects20.esp
+New Frost Damage effect NES.esp
+New Frost Damage effect.esp
+PowerAttackEffector.esp
+Visual Enchantments v1.0.esp
+
+Shining Flame Atronachs.esp
+Shining Flame Atronachs_ElementalSummonAmulets.esp
+Shining Flame Atronachs_Friendly Fire.esp
+Shining Flame Atronachs_DLCFrostcrag.esp
+
+
+\--------
+\Pre Bash
+\--------
+
+UnnecessaryViolence.esp
+\issue was reported that loading earlier caused lag in scripts - needs verification.
+
+Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

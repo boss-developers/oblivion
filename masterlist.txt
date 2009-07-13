@@ -1323,7 +1323,9 @@ Timescale Options.esp
 Trainer_Book.esp
 Treasure Hunt.esp
 TRN One of the Gang.esp
-? Some small conflicts with The Elder Council.
+? Patch for Elder Council available http://www.tesnexus.com/downloads/file.php?id=23526
+? If using Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
+TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 TurnoffLights.esp
 TryBeforeYouBuy.esp
 TreeDoorAddition.esp

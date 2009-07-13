@@ -5016,6 +5016,8 @@ Origin of the Mages Guild OOO Patch.esp
 
 Unofficial Patches & Refurbish - ALL.esp
 
+BrewHouse.esp
+? Use v1.5 or later to avoid extensive compatibility issues.
 
 Enhanced Daedric Invasion.esp
 >? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
@@ -8043,10 +8045,6 @@ NI-Fullcity-Anvilhome.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
-
-BrewHouse.esp
-? Use v1.5 or later to avoid extensive compatibility issues.
-
 
 \-----------------------------
 \Message suppression overrides

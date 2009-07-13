@@ -162,10 +162,8 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 ? A fixed edition (for Shivering Isles ONLY! is avaliable here: http://tinyurl.com/kmgaxd
 \This really does need to load this early.
 
-
 TRoN.esp
 \Probably doesn't need to load this early but the authors recommend it.
-
 
 
 \-------------
@@ -299,6 +297,7 @@ AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixed from UOP.
 %{{invent}} needed so that it will work before UOP and still have the inventory changes from this.
 
+
 \---
 \UOP
 \---
@@ -309,6 +308,7 @@ FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
 Primate Rank Fix.esp
+
 
 \---------------
 \Shivering Isles
@@ -339,10 +339,10 @@ Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
 
+
 \----------
 \BSA tricks
 \----------
-
 
 Better Cities .esp
 ? Dummy file to load Better Cities .BSA
@@ -364,6 +364,9 @@ Oblivion.esp
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 
 
+\--------
+\Post BSA
+\--------
 
 MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
@@ -409,6 +412,7 @@ FranOBSEConfig.esp
 
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
+
 
 \---------------------------
 \Loading Screen Alternatives
@@ -5304,29 +5308,6 @@ Open Better Cities SKINGRAD VARIANT.es
 Reaper's_Open-B.C._Secret_Entry.esp
 
 
-\Post BC and OBC
-\'''''''''''''''
-
-_burning_kvatch.esp
-Better Cities - Halcyon Island.esp
-GrowPlants-ChorrolHinterland patch.esp
-TreeHome-ChorrolHinterland patch.esp
-TreeHomeIntLight-ChorrolHinterland patch.esp
-
-Natural Interiors.esp
-% {{BASH:C.Climate}}
-Natural Interiors - Cities.esp
-Natural Interiors - NE Compatibility.esp
-Natural Interiors - Windows to the World.esp
-NI-Fullcity-Anvilhome.esp
-
-HTS.esp
-OCC-HTS-Patch.esp
-HTS_getwet.esp
-
-BrewHouse.esp
-? Use v1.5 or later to avoid extensive compatibility issues.
-
 \Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
 
@@ -8040,6 +8021,29 @@ Better Cities IC Arcane University Patch.esp
 Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
 
+
+\Post BC and OBC
+\'''''''''''''''
+
+_burning_kvatch.esp
+Better Cities - Halcyon Island.esp
+GrowPlants-ChorrolHinterland patch.esp
+TreeHome-ChorrolHinterland patch.esp
+TreeHomeIntLight-ChorrolHinterland patch.esp
+
+Natural Interiors.esp
+% {{BASH:C.Climate}}
+Natural Interiors - Cities.esp
+Natural Interiors - NE Compatibility.esp
+Natural Interiors - Windows to the World.esp
+NI-Fullcity-Anvilhome.esp
+
+HTS.esp
+OCC-HTS-Patch.esp
+HTS_getwet.esp
+
+BrewHouse.esp
+? Use v1.5 or later to avoid extensive compatibility issues.
 
 
 \-----------------------------

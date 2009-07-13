@@ -779,6 +779,7 @@ Adult Books.esp
 AdventurersAlchemy.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
+Akatosh Mount Earn The Wyrm.esp
 ANBToggleGrab.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
@@ -1154,6 +1155,7 @@ Musical Immersion 1.0.esp
 Menu Time.esp
 MYR_AyleidExtensions.esp
 Maigrets House Cats.esp
+Maigrets Pet Fox.esp
 Summon Undead Mount by Nitocris.esp
 
 P1DmenuEscape.esp
@@ -1329,6 +1331,7 @@ TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 TurnoffLights.esp
 TryBeforeYouBuy.esp
 TreeDoorAddition.esp
+trfSolaris.esp
 
 \Base U
 
@@ -4686,6 +4689,7 @@ VHBloodlines 1.2.esp
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
+Apachii_Heroes_Store.esp
 VG0HalloweenSpecial.esp
 Vibliribland-4489-Blackrock_Mountain.esp
 Vibliribland-4490-Lair_of_the_Hydra.esp
@@ -5372,6 +5376,7 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
+OC+TelekeneticMastery Patch.esp
 
 \----------------------
 \Quests and Locations 5
@@ -5466,6 +5471,7 @@ AC's realistic priced clutter.esp
 Accessing TG after Heist 1.1-TESSource.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
+ANB_WeaponAddons_Enhanced.esp
 ANBBobbingMotion.esp
 ANB_Item_Switchers.esp
 ANB_No_FastTravel.esp
@@ -5552,6 +5558,7 @@ Clean Spellbook.esp
 Cliff_BetterLetters.esp
 Cliff_RiskyInnBeds.esp
 Cliff_CountyNames.esp
+Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
 Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cliff's Shacks Basements-Radiant AI.esp
@@ -5812,6 +5819,7 @@ MYR_AyleidKing.esp
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
 NewMerchantItems.esp
+New_Magical_Staves.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
 No Glow Grass.esp
@@ -6675,6 +6683,7 @@ Empower Enchantment.3x.esp
 Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
+Staffcraft.esp
 
 
 \Thievery, Sneaking and Crime
@@ -7143,6 +7152,7 @@ personality_idles2.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
 personality_idles4_nopc.esp
+personality_idles_custom.esp
 
 Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
@@ -7276,6 +7286,8 @@ Better Redguard v2.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
 Smaller Elf ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+Jjiinx_Long Ears.esp
+% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 
 
 \Hair
@@ -7327,6 +7339,8 @@ Cernasite - DragonEyes.esp
 JCPeepers.esp
 % {{BASH:Eyes}} and deactivate.
 Cat_eyes.esp
+% {{BASH:Eyes}} and deactivate.
+DesuChan's Anime Eyes (Vanilla).esp
 % {{BASH:Eyes}} and deactivate.
 
 
@@ -7570,6 +7584,7 @@ Companion Mark and Recall.esp
 Companion Postal Service.esp
 AW_Partners_MarkReturnTweak.esp
 CompanionshipRing.esp
+DS Companion Wardrobe Manager.esp
 
 cssCalisto.esp
 % {{BASH:Hair,Eyes}}
@@ -8185,6 +8200,7 @@ Detect Life Shader [New].esp
 DS Flaming Arrows.esp
 LifeDetect Shader.esp
 Life Detected - Enhanced Shader.esp
+Life Detected - OMOD.esp
 Forward Motion Blur.esp
 Get Wet - just droplets.esp
 Get Wet - no droplets.esp

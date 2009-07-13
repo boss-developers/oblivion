@@ -5224,6 +5224,7 @@ LtPD+NRB4+UL-II Patch.esp
 \'''''''''''''''
 
 Castle_Seaview.esp
+CastleSeaview+LostCoast Patch.esp
 
 The Ruins of Miscarcand.esp
 
@@ -5376,7 +5377,6 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
-OC+TelekeneticMastery Patch.esp
 
 \----------------------
 \Quests and Locations 5
@@ -6425,7 +6425,10 @@ Smite of Order.esp
 SpellDeflection.esp
 Stalk'em SI.esp
 TeachSpell.esp
+
 Telekinetic Mastery.esp
+OC+TelekeneticMastery Patch.esp
+
 The Sixth Element.esp
 TimboeMultiMark & Recall.esp
 TimeManipulationSpells.esp

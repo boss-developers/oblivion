@@ -148,6 +148,7 @@ Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
+Portal.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 UnnecessaryViolence.esm
@@ -1744,6 +1745,7 @@ ArmamentariumStaffs.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
 ARTICA RAZOR ICMS by_venom91.esp
+Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
 
 \Items B
@@ -2960,6 +2962,7 @@ cidnothump.esp
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
+The Last Queen Of The Ayleids.esp
 
 \-----
 \DLC 2
@@ -6414,6 +6417,8 @@ PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
 PetrifyandStoneSkinSpells.esp
+Portal - SI.esp
+? Requires Shivering Isles
 QuickStore.esp
 RD-HeavensWrath-v1-1-Easy.esp
 RDetectLife.esp

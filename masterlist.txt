@@ -3946,6 +3946,7 @@ ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane University Telescope.esp
 Archery Shops 2.0 no LL.esp
+Archery Shop.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
 ArkenfellManor.esp
@@ -3976,6 +3977,11 @@ Banes Chorrol Store Upgrade.esp
 Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
+Basement for Cobl.esp
+Basement for Cobl - Sheep Wool addition.esp
+? Requires MMM
+Basement for Cobl - My Custom Plants Show Harvested Status.esp
+? Requires Harvest Flora
 Battle4Morrowind.esp
 ? Not compatible with anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
@@ -4076,6 +4082,7 @@ Cheydinhal Petshop.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
 ? German mod.
+ConLoBattleGenMod.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
@@ -4242,6 +4249,10 @@ Hunter's Haven File 1.esp
 HeartoftheDead.esp
 % {{BASH:Hair}}
 OC-HOD-Patch.esp
+HOD_delayer.esp
+? only use without Open Cities
+OC_HOD_delayer.esp
+? only use with Open Cities
 
 \Quests I
 
@@ -4315,6 +4326,7 @@ EiAmod.esp
 ? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
+EiA_delayer.esp
 
 KumikoManor.esp
 KEMT.esp
@@ -4627,6 +4639,7 @@ GuardsofCyrodiil.esp
 GoC&RRLR_comp.esp
 
 TheForgottenShields.esp
+TheForgottenShields_delayer.esp
 TheMistRetreat1.3_Optimized.esp
 Thermae.esp
 TheRunesOfThu'um.esp
@@ -4712,6 +4725,7 @@ Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
 Wayshrines in the University.esp
 WeaponsOfTheNine.esp
+WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
 WellspringGrove.esp
 WestwatchTowerV1.0.esp
@@ -4777,7 +4791,7 @@ Lyn-RealArenaFighters.esp
 Visually Enhanced Arena.esp
 ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
-
+fpsboost-arenanolights.esp
 
 \-----
 \DLC 3
@@ -5131,11 +5145,12 @@ mythsandlegends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
-? Check version is 1.4.1 or later
+? Check version is 1.6 or later
 Cybiades-Lost Coast patch.esp.
 UL_BOC_LostCoast_1.0.esp
-? Check version is 1.4.1 or later.
+? Probably an old version, check version is 1.6 or higher
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
+? Probably an old version, check version is 1.6 or higher
 VeronaHouseBloodlines-LostCoast fix.esp
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
@@ -5427,7 +5442,7 @@ Blue Destiny's Armor.esp
 \General
 \'''''''
 
-\Overides Early
+\overrides Early
 
 NaturalVegetation.esp
 Natural_Vegetation_by_Max_Tael.esp
@@ -5462,7 +5477,7 @@ RealisticFlora - DLCVileLair.esp
 WD's Auto Harvest.esp
 LCs Auto Harvest.esp
 
-\Overides #
+\overrides #
 
 1229-Priced Clutter-TESSource.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
@@ -5470,7 +5485,7 @@ LCs Auto Harvest.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
 
-\Overides A
+\overrides A
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
@@ -5485,6 +5500,8 @@ Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
 Archmage_Enchanted_Chest_OBSE.esp
 Archnamage's Chest For SI.esp
+Argonians and Khajiit Lose Tails no More.esp
+Argonians and Khajiit Lose Tails no More Script.esp
 Armor-Long -TESSource.esp
 Assassin Tripwires.esp
 Assassin Tripwires DBSR.esp
@@ -5502,7 +5519,7 @@ Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
 
-\Overides B
+\overrides B
 
 BaurusRunsInSewers.esp
 Bag of Holding.esp
@@ -5548,7 +5565,7 @@ WHOOSH.esp
 
 BuyLockpicks.esp
 
-\Overides C
+\overrides C
 
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
@@ -5648,7 +5665,7 @@ DS Storage Sacks.esp
 Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
 
-\Overides E
+\overrides E
 
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
@@ -5673,7 +5690,7 @@ fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Everlasting Corpses v 1.0.esp
 
-\Overides F
+\overrides F
 
 faster-grass.esp
 Faster-trees.esp
@@ -5696,7 +5713,7 @@ Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 
-\Overides G
+\overrides G
 
 gardening.esp
 Gary Gygax's Grave.esp
@@ -5716,7 +5733,7 @@ GuildStorage.esp
 GuilesNameReplace-Scrolls.esp
 % {{BASH:Names}} - deactivate.
 
-\Overides H
+\overrides H
 
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
@@ -5732,7 +5749,7 @@ Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
 
-\Overides I
+\overrides I
 
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
@@ -5748,14 +5765,14 @@ Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
 
-\Overides J
+\overrides J
 
 Jerall-Pass.esp
 ? German mod.
 JQ-Backpacks.esp
 JQ-Bandages.esp
 
-\Overides K
+\overrides K
 
 KeyBox.esp
 kikaibookbelts-amulet.esp
@@ -5767,7 +5784,7 @@ KT_KhajEyeToggleNoEff.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
 
-\Overides L
+\overrides L
 
 LastUnicorn.esp
 Leviathan Soulgems.esp
@@ -5781,7 +5798,7 @@ Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 
-\Overides M
+\overrides M
 
 M.O.E. - Bone Names and Priced Skull.esp
 ? May not be compatible with MMM bone loot - untested.
@@ -5819,7 +5836,7 @@ movablebodies.esp
 Music Controller.esp
 MYR_AyleidKing.esp
 
-\Overides N
+\overrides N
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
@@ -5841,7 +5858,7 @@ NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 
-\Overides O
+\overrides O
 
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
@@ -5852,7 +5869,7 @@ OBF Enchant Fix.esp
 OBF Magic Penalty Fix.esp
 OBF Shop Fix.esp
 
-\Overides P
+\overrides P
 
 P1DkeyChain.esp
 P1DKeychain for COBL.esp
@@ -5869,11 +5886,11 @@ Potable Pastiche.esp
 Potions Recolored.esp
 JQ-PotionReplacer.esp
 
-\Overides Q
+\overrides Q
 
 Quest Item Tag Remover.esp
 
-\Overides R
+\overrides R
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
@@ -5905,7 +5922,7 @@ Leyawin Bridge.esp
 Rune Stones!.esp
 RuneDoomWell.esp
 
-\Overides S
+\overrides S
 
 Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
@@ -5979,7 +5996,7 @@ Storms & Sound Patches.esp
 ShippingInCyrodiil-08.esp
 SkoomaTest.esp
 
-\Overides T
+\overrides T
 
 tag_NaturalWildlife.esp
 GP_Natural Wildlife - MMM.esp
@@ -5991,7 +6008,7 @@ talkwithyourhands PI4.esp
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
 
-\Overides U
+\overrides U
 
 
 Unarmored Skill for Everyone.esp
@@ -6009,13 +6026,14 @@ Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 undercover.esp
 
-\Overides V
+\overrides V
 
+Valuable Gems and Silverware v1.0.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
 vn_goldweight.esp
 
-\Overides W
+\overrides W
 
 Wayshrines Improved.esp
 wd purse of wonders.esp
@@ -6029,12 +6047,12 @@ Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
 ? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
 
-\Overides XYZ
+\overrides XYZ
 
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
 
-\Overides Late
+\overrides Late
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead.
@@ -6442,6 +6460,7 @@ TimeManipulationSpells.esp
 Transmutation Spell.esp
 Tylaars Multimark.esp
 Unique Summons & Banish Flesh.esp
+Unload Inventory.esp
 WaldelfsLevitation.esp
 Wizard's Vengeance Spells.esp
 no spell limit.esp
@@ -7474,6 +7493,8 @@ Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Moon.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Soqui Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -7724,7 +7745,7 @@ Cobl Races TNR SI.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-
+Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 
 \Race Balancing Project
 \''''''''''''''''''''''

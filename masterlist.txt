@@ -5145,7 +5145,7 @@ mythsandlegends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
-? Check version is 1.6 or later
+? Make sure version is 1.6 or later.
 Cybiades-Lost Coast patch.esp.
 UL_BOC_LostCoast_1.0.esp
 ? Probably an old version, check version is 1.6 or higher
@@ -7737,6 +7737,8 @@ DASephirothCompanion.esp
 \
 \Includes birthsign mods.
 
+\COBL Races
+\
 Cobl Races.esp
 % {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
@@ -7797,7 +7799,7 @@ bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 bgBalancingEVOptionalFCOMAdditions.esp
 
 bgBalancingOptionalFranAddition.esp
-* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
+>* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
 
 bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
 

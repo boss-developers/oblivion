@@ -4942,6 +4942,7 @@ Gah Falquan Umarile.esp
 Gah Falquan Umarile Indy.esp
 
 The Lost Spires.esp
+Lost Spires_delayer.esp
 
 TOTF.esp
 OCC-TOTF-Patch.esp
@@ -6283,6 +6284,9 @@ Duke patricks jump modifier.esp
 PC Sleep Disrober.esp
 RealSleep.esp
 RealSleepExtended.esp
+RealSleepExtended_delayer.esp
+Bashed Delayers - MERGE ONLY.esp
+? requires Real Sleep Extended and The Lost Spires, and be merged into the bashed patch in Wrye Bash
 SM Rest.esp
 Simple Essentials beta2.esp
 TFE.esp

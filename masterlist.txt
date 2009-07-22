@@ -118,6 +118,7 @@ CLS-craftybits.esm
 Horadric Cube.esm
 UHK.esm
 DA Run Fatigue.esm
+? Requires OBSE v9a or higher
 ANB_Scrolls.esm
 OblivionMountProject.esm
 beeratcompil_fishstick.esm
@@ -4914,6 +4915,7 @@ PONWindows.esp
 
 Consequences.esp
 Consequences_Knights.esp
+Consequences_Vile.esp
 
 EiAmod_Knights.esp
 
@@ -6250,6 +6252,7 @@ Duke Patricks Running Backwards RISK.esp
 Duke Patricks - Running Backwards RISK.esp
 Addendum - Athletics.esp
 ReducedBackwardsRunningSpeed.esp
+reduced_nofran.esp
 
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
@@ -7839,6 +7842,8 @@ Diverse Races.esp
 % {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp
 Willful Resistance.esp
+DBWBMR.esp
+/seems like a funny spot but since Willful Resistance is here and works for me I'll presume it works fine here (PM)
 ArgonianFeets.esp
 % {{BASH:Invent}}
 

@@ -4943,9 +4943,6 @@ Castle_Knightstone.esp
 Gah Falquan Umarile.esp
 Gah Falquan Umarile Indy.esp
 
-The Lost Spires.esp
-Lost Spires_delayer.esp
-
 TOTF.esp
 OCC-TOTF-Patch.esp
 TotF Stronger Cleon.esp
@@ -4964,6 +4961,9 @@ Ruin.esp
 ? FCOM requires 'FCOM_Ruin.esp'.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
+
+The Lost Spires.esp
+Lost Spires_delayer.esp
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp

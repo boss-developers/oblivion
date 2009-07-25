@@ -888,6 +888,17 @@ CDM-Skip Purification.esp
 CFVBloodgrass.esp
 CDM - Uderfrykte Matron Fix.esp
 
+ClocksOfCyrodiil.esp
+ClocksOfCyrodiilBC.esp
+? Deactivate CLocksOfCyrodiil.esp
+ClocksOfCyrodiilOBC.esp
+? Deactivate CLocksOfCyrodiil.esp
+ClocksOfCyrodiilNoArcane.esp
+ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
+? Deactivate CLocksOfCyrodiil.esp
+OCC-CoC-Patch.esp
+? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
+
 CLS-CMHotKeys-OBSE.esp
 CLS-Object Renamer-COBL.esp
 CLS-Object Renamer-OBSE.esp
@@ -3829,17 +3840,6 @@ Morroblivion Improved Map Markers.esp
 Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Water Level Fix.esp
 SkingradBridgeLights.esp
-
-ClocksOfCyrodiil.esp
-ClocksOfCyrodiilBC.esp
-? Deactivate CLocksOfCyrodiil.esp
-ClocksOfCyrodiilOBC.esp
-? Deactivate CLocksOfCyrodiil.esp
-ClocksOfCyrodiilNoArcane.esp
-ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
-? Deactivate CLocksOfCyrodiil.esp
-OCC-CoC-Patch.esp
-? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 
 Castle Ravenpride.esp
 aaaWindSpear.esp

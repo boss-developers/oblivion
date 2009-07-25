@@ -4881,6 +4881,7 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
+OCC-KOTN-Patch.esp
 
 KnightsBabFemaleArmor.esp
 KnightsBabFemaleArmors.esp
@@ -5397,7 +5398,6 @@ OCC-Roads-Patch.esp
 OCC-ULCH-Patch.esp
 OCC-COBL-Wells.esp
 OCC-OOO-Patch.esp
-OCC-KOTN-Patch.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp

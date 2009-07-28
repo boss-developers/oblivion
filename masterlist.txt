@@ -543,6 +543,13 @@ All Natural - Weather Inside.esp
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
 
+Natural Interiors.esp
+% {{BASH:C.Climate}}
+Natural Interiors - Cities.esp
+Natural Interiors - NE Compatibility.esp
+Natural Interiors - Windows to the World.esp
+NI-Fullcity-Anvilhome.esp
+
 no_wind-2578.esp
 NoWind.esp
 
@@ -5073,6 +5080,8 @@ NRB4+AranMathi Patch.esp
 
 Bridges For the Fools.esp
 
+Vergayun.esp
+
 Faregyl.esp
 Faregyl-FGRoad-Patch.esp
 
@@ -5100,6 +5109,7 @@ ReclaimSancreTor.esp
 NibenRiverFix.esp
 
 xuldarkforest.esp
+LostSpires-DarkForest patch.esp
 
 Silverfish.esp
 
@@ -5112,6 +5122,7 @@ TheNecromancer-StendarrValley patch.esp
 Ravenpride-Stendarr patch.esp
 ? Obsolete as of version 1.2 of Stendarr Valley.
 WindspearTower-StendarrValley compatibility patch.esp
+? Update to patch version 1.1 if using Stendarr Valley 1.2
 
 xulTheHeath.esp
 FCOM MWL-TheHeath patch.esp
@@ -5139,6 +5150,7 @@ EtInArkay-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
+? Obsolete. Delete.
 WeynonRetreat-Patch.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
@@ -5152,11 +5164,13 @@ mythsandlegends.esp
 xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6 or later.
 Cybiades-Lost Coast patch.esp.
+? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
 UL_BOC_LostCoast_1.0.esp
-? Probably an old version, check version is 1.6 or higher
+? Old version. Update to UL:Lost Coast 1.6 or higher.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
-? Probably an old version, check version is 1.6 or higher
+? Old version. Update to UL:Lost Coast 1.6 or higher.
 VeronaHouseBloodlines-LostCoast fix.esp
+? Obsolete. Patch is no longer required as of VHB 1.4 or higher.
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
 Sousmarin-beaches fix.esp
@@ -5183,6 +5197,7 @@ EtInArkay-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
+? Obsolete if using Lush Woodlands 1.3 or higher.
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
 ? Obsolete.This patch is not needed if using the latest version of Lush Woodlands.
@@ -5196,6 +5211,7 @@ xulAncientRedwoods.esp
 WaldnirsWoods-AncientRedwoods patch.esp
 xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
+? Obsolete if using Ancient Redwoods 1.6 or higher.
 
 xulCloudtopMountains.esp
 MadMagesTower-CloudtopMountains patch.esp
@@ -5226,6 +5242,7 @@ xulPantherRiver.esp
 
 xulRiverEthe.esp
 ValleyViewEstate-RiverEthe patch.esp
+? Update patch version to 1.1.1.
 
 xulBrenaRiverRavine.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
@@ -5262,7 +5279,8 @@ Oblivion Gate Map Marker Remover.esp
 
 OTEP - Aleswell.esp
 VeronaHouseBloodlines-UL patches Merged.esp
-LostSpires-DarkForest patch.esp
+? Some portions of this patch are no longer needed with updated ULs.
+
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
 ? Upgrade to v3.0 or later.
@@ -5346,17 +5364,14 @@ Reaper's_Open-B.C._Secret_Entry.esp
 \''''''''''''''''''''''''''''''''''''
 
 Open Cities.esp
-? Old version, check for update.
+? Obsolete, unsupported. Please upgrade to version 3.0+.
 
 Open Cities + Cats & Rats.esp
-? Not compatible with newer post-2006 versions of Open Cities.
-? Deactivate 'Open Cities.esp'.
+? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
 Open Cities + Cats & Rats for MMM.esp
-? Not compatible with newer post-2006 versions of Open Cities.
-? Deactivate 'Open Cities.esp'.
+? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
 Open Cities + Cats & Rats for Francescos.esp
-? Not compatible with newer post-2006 versions of Open Cities.
-? Deactivate 'Open Cities.esp'.
+? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
 
 Open Cities New Sheoth.esp
 ? Requires Shivering Isles expansion.
@@ -5387,6 +5402,7 @@ Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Requires Bravil Blood&Mud.
 
 OC+Bravil Docks Patch.esp
+? Note - Be sure this is being used on Bravil Docks by Greg Simmonds.
 OCC-ABE-LC-Land Patch.esp
 ? Obsolete. Now part of OCC v3.0+. Update and delete.
 OCC-Lost Spires-Patch.esp
@@ -8093,13 +8109,6 @@ Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
-
-Natural Interiors.esp
-% {{BASH:C.Climate}}
-Natural Interiors - Cities.esp
-Natural Interiors - NE Compatibility.esp
-Natural Interiors - Windows to the World.esp
-NI-Fullcity-Anvilhome.esp
 
 HTS.esp
 OCC-HTS-Patch.esp

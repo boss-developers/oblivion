@@ -3189,13 +3189,14 @@ ArmamentariumLL.esp
 Choices and Consequences - OOO.esp
 ? A new version of Choices and Consequences called C&C&EQR is out
 C&C&EQR - OOO.esp
-ArmamentariumLLVendor.esp
-? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
+\ArmamentariumLLVendor.esp
+\incorrect file
 ArmamentariumLLVendors.esp
-? Don't use with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
+? Can be used with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
+? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -5786,6 +5787,8 @@ Horadric Cube.gem.lvlist.override.esp
 
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
+Visual Health Indication.esp
+Visual Health Indication, Cobl.esp
 ImmersiveWait.esp
 ImmersiveWait Rus.esp
 ? Russian version?
@@ -7917,6 +7920,8 @@ bgAddEnVarStandAloneEV.esp
 \''''''''''''''''''''
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp 
+% {{BASH:Faces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 

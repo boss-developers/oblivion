@@ -5937,8 +5937,11 @@ RareItemsv1.18 for RCR.esp
 RemoveTrainerBounds.esp
 RenCorpseMod.esp
 ReneersGoldMod.esp
+? Use only one gold in your inventory type mod.
 kuerteeGoldIsAnInventoryItem.esp
-? Not compatible with Reneer's Gold Mod.
+? Use only one gold in your inventory type mod.
+DBWGP.esp
+? Use only one gold in your inventory type mod.
 ReneersTrainingMod.esp
 ReneerShipMod.esp
 ResizedPassivenQuiet.esp

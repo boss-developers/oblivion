@@ -66,6 +66,7 @@ Cobl Main.esm
 Item interchange.esm
 ? Old. All functions are now handled by Cobl.esm. Update to 'Item Interchange' v0.64 or later and make sure you are running Cobl v155 or later.
 Qarls_Harvest.esm
+% {{BASH:Scripts}} and no need for OOO patch.
 Ulrim's Horses.esm
 armoryLab.esm
 DEJ Harvest - Flora.esm
@@ -277,34 +278,33 @@ Mages Guild Quest Fixes.esp
 id_CompetitionFix.esp
 ? Use UOP v3.0.1 or later instead.
 SwampyCaveFix.esp
-? May be fixed in UOP 3.0.1+ - consult documentation.
-? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in UOP.
+? Use UOP v3.2.0 or later instead.
 ClavicusFix.esp
-? May be fixed in UOP 3.0.1+ - consult documentation.
-? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in UOP.
 ArenaChampionHotfix.esp
-? May be fixed in UOP 3.0.1+ - consult documentation.
-? The UOP project is always preferred over individual hotfixes due to the huge scope of fixes/improvements in the UOP.
+? Use UOP v3.2.0 or later instead. 
 995-Specular Fix 1.1-TESSource.esp
 ? 'Specular not set to max' crash bug may have been fixed in an official 1.2 patch?
 vampirescriptfix.esp
 object_placement.esp
 ? compatible with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
 CaeliaDraconisFix.esp
-? May be fixed in UOP 3.0.1+ - consult documentation.
+? Not a fix exactly, so can be used with the UOP.
 sulinus fix.esp
 ? Not a fix exactly, so can be used with the UOP.
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixed from UOP.
 %{{invent}} needed so that it will work before UOP and still have the inventory changes from this.
-
+Self-Preservation v1.0.esp 
+? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits
+%{{Scripts}}
 
 \---
 \UOP
 \---
 
 Unofficial Oblivion Patch.esp
+%{{Sound}}
 Unofficial Oblivion Patch-mobs.esp
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
@@ -918,7 +918,7 @@ CityLights - ImperialCity.esp
 Cliff's Smokey Chimneys.esp
 Chapel Tithe.esp
 CM_Better Wine.esp
-? Not compatible with OOO. OOO contains a similar mod.
+% {{BASH:Graphics}} and deactivated
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
@@ -926,7 +926,7 @@ Corpse Equip Manual.esp
 CrimsonScarArmor.esp
 crfo.esp
 Cryptic Festive Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
+% {{BASH:Names,Graphics}}
 ? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
 ? remove unnecessary cell edit to aleswell dummy cell to make mergeable into bashed patch.
 ? Only use one Cryptic's X X X Dining set esp
@@ -961,7 +961,7 @@ Buyable Ayldeid Dishes.esp
 
 CT-Com's Torch Compendium.esp
 Cyrodilic Brandy.esp
-? Not compatible with OOO. OOO contains a similar mod.
+% {{BASH:Graphics}} and deactivate.
 Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
@@ -977,6 +977,8 @@ Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
 Days&Months.esp
 DBCEndOfMayTeaser.esp
+DBSQR.esp
+DBSQR - Shivering Isles.esp
 Decoration Pillows.esp
 dist_trees_x1_5.esp
 DistantRuins.esp
@@ -1558,6 +1560,7 @@ Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 ? A new version of Choices and Consequences called C&C&EQR is out
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 NLF Orrery.esp
+DBSQR - Orrery.esp
 
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
@@ -1573,6 +1576,7 @@ NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
 DLCMehrunesRazorPatched.esp
 SM Plugin Refurbish - MehrunesRazor.esp
+DBSQR - MehrunesRazor.esp
 
 DLCSpellTomes.esp
 % {{BASH:Relev}}
@@ -2371,6 +2375,7 @@ WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
 WhiteRoseArmor.esp
+White Monk Robes with Hoods by Cass v1.0.esp
 
 \Items XYZ
 
@@ -3168,6 +3173,7 @@ MrSiikaRabbitsforOOO.esp
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
+DBSQR - OOO.esp
 
 \Post OOO
 \''''''''
@@ -3351,6 +3357,7 @@ OBSE-Storms & Sound SI.esp
 >Gems and Gem Dusts - MMM.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
+>{{
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -3888,7 +3895,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 ? Compatible with MD_SaddleBags Lite.
 300_White Stallion 4.esp
 ? Use Feudal Empire ('Feudal Empire 300.esp') instead.
-
+300_White Stallion 4 - OOO.esp
 DLCHorseArmor_300WhiteStallion.esp
 
 301_Compass.esp
@@ -3954,6 +3961,7 @@ ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane University Telescope.esp
 Archery Shops 2.0 no LL.esp
+Archery Shops 2.0.esp
 Archery Shop.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
@@ -3988,8 +3996,6 @@ Bandit Hideouts.esp
 Basement for Cobl.esp
 Basement for Cobl - Sheep Wool addition.esp
 ? Requires MMM
-Basement for Cobl - My Custom Plants Show Harvested Status.esp
-? Requires Harvest Flora
 Battle4Morrowind.esp
 ? Not compatible with anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
@@ -4328,6 +4334,7 @@ Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
 KvatchCastleMakeover.esp
+kvatch essential.esp
 
 EiAmod.esp
 ? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
@@ -4539,7 +4546,8 @@ Sakveed Manor.esp
 Salan's Cellar.esp
 Sanguine.esp
 Scribe Supplies.esp
-? Not Better Cities compatible. Already included in Better Cities IC Market District.
+? Not Better Cities compatible. Already included in Better Cities IC Market District. 
+? Or use the replacer esp in from the BC package (same name).
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
@@ -4773,6 +4781,7 @@ za_bankmod.esp
 zDangerSense.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
+Zera LeSaar's Frostrift Cavern.esp
 
 \Quests Arena
 
@@ -4815,7 +4824,7 @@ SM Plugin Refurbish - Battlehorn.esp
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
 Princess Battlehorn.esp
-
+DBSQR - Battlehorn Castle.esp
 
 \---------------------
 \Quests and Location 2
@@ -4916,6 +4925,7 @@ OCC-KOTN-Patch.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
+DBSQR - Knights of the Nine.esp
 
 PONLights.esp
 PONWindows.esp
@@ -5481,6 +5491,8 @@ Harvest [Flora].esp
 Harvest [Flora] - Shivering Isles.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
+Basement for Cobl - My Custom Plants Show Harvested Status.esp
+? Requires Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
 DEJ Harvest - Flora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
@@ -6232,6 +6244,7 @@ BathingMod_Soap.esp
 BathingMod_Bathroom_Upgrades.esp
 BathingMod_Placeable_Bathtubs.esp
 BathingMod_ABMCP_Bathtubs_and_Bathrooms.esp
+BathingMod_InnsHaveTubs.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
 RealisticFatigue.esp

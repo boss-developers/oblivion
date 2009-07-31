@@ -295,10 +295,10 @@ sulinus fix.esp
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixed from UOP.
-%{{invent}} needed so that it will work before UOP and still have the inventory changes from this.
+% {{BASH:Invent}} needed so that it will work before UOP and still have the inventory changes from this.
 Self-Preservation v1.0.esp 
 ? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits
-%{{Scripts}}
+% {{BASH:Scripts}}
 
 \---
 \UOP
@@ -3361,7 +3361,7 @@ OBSE-Storms & Sound SI.esp
 >Gems and Gem Dusts - MMM.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
->{{Scripts}}
+>% {{BASH:Scripts}}
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -5097,11 +5097,13 @@ Bridges For the Fools.esp
 Vergayun.esp
 
 Faregyl.esp
+% {{BASH:Relations}}
 Faregyl-FGRoad-Patch.esp
 
 TVIcar.esp
 
 Fort Akatosh.esp
+% {{BASH:Relations}}
 FortAkatosh.esp
 % {{BASH:Relations}}
 FortAkatosh-VileLair patch.esp

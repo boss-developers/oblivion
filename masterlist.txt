@@ -796,6 +796,8 @@ archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
 autosavertest.esp
+Ayleid Coin Add-on.esp
+? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
 Ayleid Loot EXtension.esp
 % {{BASH:Invent}}
 Azura's Soul-ob.esp
@@ -1270,6 +1272,7 @@ R4C - Dark Regalia.esp
 RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
+Rats!.esp
 Resurrect book.esp
 Rex 1.21.esp
 RD-HeavensWrath-v1-1-Realistic.esp
@@ -2262,6 +2265,7 @@ Shdw_Armor Set_Sotonhorian.esp
 Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
+Shivering Armor Variety.esp
 SickleIrons.esp
 Sin's Expanded Light Armor Kit [Chest].esp
 ? Not compatible with OOO - armors already included - so deactivate when using OOO.
@@ -2991,6 +2995,15 @@ Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
 The Last Queen Of The Ayleids.esp
 
+\----------
+\Only Name changing files
+\----------
+\tag with names and total compatibility
+
+Ranokoas Organized Potions.esp
+% {{BASH:Names}}, deactivate. If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
+
+
 \-----
 \DLC 2
 \-----
@@ -3063,6 +3076,8 @@ LuckBasedLootForFrans.esp
 Francesco's Boar Addon.esp
 Francesco's Boars Add-On.esp
 
+Fran-Ayleid Coin Add-on.esp
+? Don't use with G&GD, COBL or OOO
 
 \OOO; FCOM optional and and related components; MMM and optional plungins.
 \'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''

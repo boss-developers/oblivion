@@ -757,6 +757,8 @@ AmbientDungeons.esp
 
 \Base #
 
+1vampirescocktail.esp
+
 2126-1.0-Fame Indicator-TESSource.esp
 
 300_lore dialogue v1.15.esp
@@ -1188,6 +1190,8 @@ QZ Easy Menus.esp
 Immersive Music.esp
 Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
+BetterMusicSystem.esp
+? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 
 Better Beggars.esp
 
@@ -1368,6 +1372,8 @@ Underneath your Robe for SI.esp
 
 VA_BetterGold.esp
 % {{BASH:Graphics}}
+Vampire Alchemy V1.1.esp
+% {{BASH:Invent}} or you really won't get much of the effects of this if you use any overhauls.
 Venom.esp
 Vows and Covenants.esp 
 ? Conflicts with Deadly Reflex. Minor Problems.
@@ -1573,6 +1579,7 @@ SM Plugin Refurbish - VileLair.esp
 NLF VileLair.esp
 Lair_mobs.esp
 P1DseeYouSleep - DLCVileLair.esp
+DBSQR - Vile Lair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp

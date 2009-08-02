@@ -543,6 +543,10 @@ All Natural - Weather Inside.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
+All Natural - Skingrad.esp
+? beta upgrade to newest version.
+All Natural - IC Palace Changes.esp
+? beta upgrade to newest versin.
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -8125,6 +8129,8 @@ Better Cities - COBL.esp
 Better Cities Full Patch.esp
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
+Better Cities Full - B&M Edition FPS Patch.esp
+? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Skingrad Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities Leyawiin Patch.esp
@@ -8143,6 +8149,8 @@ Better Cities Anvil Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Imperial City Patch.esp
 ? Only use if using Better Imperial City.esp
+Better Imperial City FPS Patch.esp
+? Only use if using Better Imperial City.esp 
 Better Cities IC Temple Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Talos Plaza Patch.esp

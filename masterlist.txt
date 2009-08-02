@@ -467,6 +467,7 @@ oc_darker_nights.esp
 ? Not compatible with weather overhauls.
 _darker_nights.esp
 ? Not compatible with weather overhauls.
+_darker_nights_2_with_burning_kvatch.esp
 
 AWS-ShiveringIsles.esp
 AWS Tamed HDR Diverse Thunder.esp
@@ -709,6 +710,8 @@ Atmospheric Oblivion - Real Lights patch.esp
 MIS New Sounds Optional Part - Real Lights Patch.esp
 CampfireBehavior.esp
 
+better lights.esp
+
 IlluminationWithin.esp
 IWR - Windows.esp
 ? Remember there are also the Retrofitted and Optimised IWR mods.
@@ -852,6 +855,8 @@ Bosmer Meat Mandate.esp
 Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
+? Probably not OOO compatible - drop lit torches already integrated.
+nmDLTIC-1-6.esp
 ? Probably not OOO compatible - drop lit torches already integrated.
 BTMM.esp
 Brighter_Torches.esp
@@ -4297,6 +4302,7 @@ OC_HOD_delayer.esp
 
 \Quests I
 
+IC WF Lighthouse Fire + Smoke.esp
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
 Dirtier Waterfront.esp

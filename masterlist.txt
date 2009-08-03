@@ -6679,26 +6679,6 @@ Spell Failure Chance.esp
 
 PJs Spells - Cheap Spells.esp
 
-LightSpellLiteBlue.esp
-STX NoLightScriptSpell.esp
-STX WhiteLightSpellNoEffect.esp
-LightSpellWhite.esp
-
-bgMagicEVNoSpellLight.esp
-bgMagicEVNoSummonGlow.esp
-
-qazFingerSnap.esp
-Finger Snap.esp
-
-Duke Patrick's magic you can believe in 4p5.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound}}
-Duke Patrick's magic you can believe in 5.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound}}
-Duke Patricks - Magic you can believe in.esp
-% {{BASH:Sound}}
-
 Jpm's Miniature Necromancy.esp
 TheDarkArts.esp
 
@@ -7368,10 +7348,6 @@ Arena betting.esp
 
 
 
-
-
-
-
 \--------------------------
 \Beauty Packs & Race Addons
 \--------------------------
@@ -7823,7 +7799,8 @@ DASephirothCompanion.esp
 \Includes birthsign mods.
 
 \COBL Races
-\
+\''''''''''
+
 Cobl Races.esp
 % {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
@@ -7834,8 +7811,9 @@ Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 
-\Race Balancing Project
-\''''''''''''''''''''''
+
+\Race Balancing Project 1
+\''''''''''''''''''''''''
 
 bgBalancingEVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
@@ -7843,6 +7821,39 @@ bgBalancingDVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
+
+
+\L.A.M.E.
+\''''''''
+\Inserted here for RBP compatibility
+\Expect SM to be moved here for people who want SM to 'win' over LAME.
+
+bgMagicEV.esp
+% {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
+? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
+bgMagicSpellTomes_for_WryeBash.esp
+bgMagicDVSpellTomes_for_WryeBash.esp
+bgMagicItemSigil.esp
+bgMagicDVItemSigil.esp
+bgMagicEVStartspells.esp
+bgMagicDVStartspells.esp
+bgMagicBonus.esp
+bgMagicDVBonus.esp
+bgMagicEVAddEnVar.esp
+bgMagicDVAddEnVar.esp
+bgMagicEVPaperChase.esp
+bgMagicDVSchnitzeljagd.esp
+bgMagicAlchemy.esp
+bgMagicEVExtendedConjurationDuration.esp
+bgMagicPotionNumberSoulGemValue.esp
+bgMagicEVAddEnVarNoSI.esp
+bgMagicEVNoSorting.esp
+bgMagicEVStartspellsNoSorting.esp
+bgAddEnVarStandAloneEV.esp
+
+
+\Race Balancing Project 2
+\''''''''''''''''''''''''
 
 bgBalancingOptionalLessHealth.esp
 bgBalancingEVOptionalClasses.esp
@@ -7884,7 +7895,7 @@ bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 bgBalancingEVOptionalFCOMAdditions.esp
 
 bgBalancingOptionalFranAddition.esp
->* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
+* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
 
 bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
 
@@ -7904,6 +7915,16 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
+
+
+\BG Integration quest
+\''''''''''''''''''''
+bgIntegrationEV.esp
+? Requires LAME, Shivering Isles and Race Balancing Project.
+bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp 
+% {{BASH:Faces}} and deactivate
+bgIntegrationEV - Unique Clothes.esp
+OC+Integration Patch.esp
 
 
 \Other race/birthsign mods
@@ -7930,41 +7951,6 @@ CustomRaceFix.esp
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
 
-\--------
-\L.A.M.E.
-\--------
-\Should load after RBP.
-
-bgMagicEV.esp
-% {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
-bgMagicSpellTomes_for_WryeBash.esp
-bgMagicDVSpellTomes_for_WryeBash.esp
-bgMagicItemSigil.esp
-bgMagicDVItemSigil.esp
-bgMagicEVStartspells.esp
-bgMagicDVStartspells.esp
-bgMagicBonus.esp
-bgMagicDVBonus.esp
-bgMagicEVAddEnVar.esp
-bgMagicDVAddEnVar.esp
-bgMagicEVPaperChase.esp
-bgMagicDVSchnitzeljagd.esp
-bgMagicAlchemy.esp
-bgMagicEVExtendedConjurationDuration.esp
-bgMagicPotionNumberSoulGemValue.esp
-bgMagicEVAddEnVarNoSI.esp
-bgMagicEVNoSorting.esp
-bgMagicEVStartspellsNoSorting.esp
-bgAddEnVarStandAloneEV.esp
-
-\BG Integration quest
-\''''''''''''''''''''
-bgIntegrationEV.esp
-? Requires LAME, Shivering Isles and Race Balancing Project.
-bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp 
-% {{BASH:Faces}} and deactivate
-bgIntegrationEV - Unique Clothes.esp
-OC+Integration Patch.esp
 
 \-------------
 \Better Cities
@@ -8015,7 +8001,6 @@ Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
-
 
 
 \Obsolete BC files
@@ -8389,6 +8374,26 @@ New Frost Damage effect NES.esp
 New Frost Damage effect.esp
 PowerAttackEffector.esp
 Visual Enchantments v1.0.esp
+
+LightSpellLiteBlue.esp
+STX NoLightScriptSpell.esp
+STX WhiteLightSpellNoEffect.esp
+LightSpellWhite.esp
+
+bgMagicEVNoSpellLight.esp
+bgMagicEVNoSummonGlow.esp
+
+qazFingerSnap.esp
+Finger Snap.esp
+
+Duke Patrick's magic you can believe in 4p5.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patrick's magic you can believe in 5.esp
+? Old. Upgrade to latest version.
+% {{BASH:Sound}}
+Duke Patricks - Magic you can believe in.esp
+% {{BASH:Sound}}
 
 Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp

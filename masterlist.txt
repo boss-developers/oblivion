@@ -620,6 +620,9 @@ Diverse Voices.esp
 
 PCSounds.esp
 PCSoundAlgernon.esp
+PCSoundAnnah.esp
+PCSoundAnomen.esp
+PCSoundBorrodin.esp
 PCSoundBrekke.esp
 PCSoundCalisto.esp
 PCSoundCernd.esp
@@ -628,15 +631,25 @@ PCSoundGarrett.esp
 PCSoundHaerDalis.esp
 PCSoundImoen.esp
 PCSoundIndarion.esp
+PCSoundInnocent.esp
 PCSoundIrenicus.esp
+PCSoundJa-Khaiit-myr.esp
 PCSoundJaheira.esp
+PCSoundJeremiah.esp
 PCSoundKeldorn.esp
 PCSoundKensai.esp
+PCSoundKyndrulhu.esp
 PCSoundMazzy.esp
+PCSoundMinsc_with_Boo.esp
+PCSoundMinsc_without_Boo.esp
 PCSoundNalia.esp
 PCSoundRhett.esp
+PCSoundSafana.esp
+PCSoundSarevok.esp
 PCSoundSillth.esp
+PCSoundSyndrana.esp
 PCSoundValygar.esp
+PCSoundViconia.esp
 
 Hear-Me-Not.esp
 QuietFeet.esp
@@ -2052,6 +2065,7 @@ Hel Borne's Chitin Armor Weapons.esp
 Hel Borne Spear Set.esp
 HelmetCollection.esp
 HENTAI's gift.esp
+Hentai Compilation.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -2845,6 +2859,8 @@ R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
 SexyKunoichi.esp
 
+Colourwheels Sexy Stock Armor & Clothing Replacer.esp
+% {{BASH:Graphics}}
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
 
@@ -4076,6 +4092,7 @@ Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
+Break Into the Arcane University.esp
 Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
@@ -4358,6 +4375,9 @@ Klarre Forestheart.esp
 Klarre Forestheart MR.esp
 Knights of the Thorn Lodge.esp
 Kriegerburg.esp
+
+Kragenir's Death Quest.esp
+KDQ - Rural Line Additions.esp
 
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
@@ -5957,6 +5977,7 @@ P1DKeyChainSI Merged.esp
 P1DkeyExtraMouseButton.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
+Potable Pastiche with New Potions.esp
 Potions Recolored.esp
 JQ-PotionReplacer.esp
 
@@ -6462,6 +6483,7 @@ CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
 CDM-Scavenge Corpse.esp
 CDM-Scroll of Identify.esp
+ConduitMagic.esp
 Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
@@ -8405,6 +8427,8 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 \--------
 \Pre Bash
 \--------
+
+MiniMap.esp
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.

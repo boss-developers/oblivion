@@ -8437,6 +8437,10 @@ Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
+? Do not run with ViconiaChapterTwo.esp.
+ViconiaChapterTwo.esp
+? Requires the Underdark.
+? Do not run with Viconia.esp.
 
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.

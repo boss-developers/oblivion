@@ -5641,7 +5641,7 @@ BIDA- Blade + Magic Damage.esp
 \quite a lot of other BIDA plugins - need to research
 Birthsigns Expanded.esp
 % {{BASH:Names}}
-? Don't use with Race Balancing Project
+? May be a bit imbalanced when used with Race Balancing Project
 BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
@@ -6708,6 +6708,7 @@ Poison Arrows.esp
 
 Spell Failure Chance.esp
 ? Requires OBSE.
+Fizzle.esp
 
 PJs Spells - Cheap Spells.esp
 

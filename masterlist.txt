@@ -1644,6 +1644,10 @@ NordFemaleMuscles.esp
 % {{BASH:Body-F,Graphics}}
 
 EVE_StockEquipmentReplacer.esp
+% {{Bash:Graphics}}
+HGEC_special_armor_repl.esp
+% {{Bash:Graphics}}
+
 
 \-------------------------
 \Items (armor and weapons)
@@ -4012,6 +4016,7 @@ Archery Shops 2.0.esp
 Archery Shop.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
+Arkay's Valour.esp
 ArkenfellManor.esp
 Armageddon.esp
 ArmoryLab.esp
@@ -7963,7 +7968,9 @@ Diverse Races.esp
 % {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp
 Willful Resistance.esp
+? Only use one willpower equals magicka resistance/weakness type mod at once.
 DBWBMR.esp
+? Only use one willpower equals magicka resistance/weakness type mod at once.
 /seems like a funny spot but since Willful Resistance is here and works for me I'll presume it works fine here (PM)
 ArgonianFeets.esp
 % {{BASH:Invent}}

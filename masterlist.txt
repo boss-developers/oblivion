@@ -306,9 +306,11 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 \---
 
 Unofficial Oblivion Patch.esp
-% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}}
+% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Unofficial Oblivion Patch-mobs.esp
-% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}}
+% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
+Unofficial Oblivion Patch-mobs.esp
+% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp

@@ -3641,6 +3641,8 @@ TamrielTravellersHorseTextures.esp
 FCOM_TamrielTravelers.esp
 ? Requires 'TamrielTravellers4OOO.esp'
 
+kuerteeWanderingEncounters.esp
+\maybe I should put this somewhere else but until further testing this seems reasonable
 
 \FCOM\MMM optionals 3.
 \'''''''''''''''''''''
@@ -4070,6 +4072,7 @@ Basement for Cobl - Sheep Wool addition.esp
 Battle4Morrowind.esp
 ? Not compatible with anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
+Beginners_Dungeon.esp
 BeldaElysium.esp
 
 Benirus Manor Remade.esp
@@ -4301,6 +4304,7 @@ Guardians of the Nine - Akatosh Chantry.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 GlimmeringCastle.esp
+GwedenBrothel.esp
 
 \Quests H
 
@@ -4404,6 +4408,7 @@ Kriegerburg.esp
 
 Kragenir's Death Quest.esp
 KDQ - Rural Line Additions.esp
+Kragenirs_WhiteStallion_Compat.esp
 
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
@@ -4518,6 +4523,7 @@ mrSiikasBetterPorts_LongshipExpansion.esp
 MTCRiverShackv1.2.esp
 ? Not compatible with Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
+MTCDarelothsHouse.esp
 
 NPCs Alive - Faregyll Inn.esp
 
@@ -4552,6 +4558,7 @@ nordinkarst_1.0.1_dv.esp
 
 \Quests O
 OlauronCastleEn.esp
+OldSchoolDungeons.esp
 OMPexample.esp
 One Stop Magic Shop.esp
 One Stop Armors.esp
@@ -4815,6 +4822,7 @@ Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 Vibliribland-4843-Ancient_Goblin_City.esp
 Vibliribland-6178-The_Dragon_Citadel.esp
 Villages1.1.esp
+VileLairRebuilt.esp
 Village of Lily 2.0.esp
 Viking Village.esp
 
@@ -4849,6 +4857,7 @@ WhiteRoseLodgev2.0.esp
 
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
+Cyrodiil Portal Travel
 
 \Quests XYZ
 
@@ -5283,6 +5292,7 @@ BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Probably incompatible with 'VeronaHouseBloodlines-LostCoast fix.esp'.
 SeawatchAbode-LostCoast patch.esp
+KragenirsDeathQuest-LostCoast patch.esp
 
 xulbravilbarrowfields.esp
 LostSpires-BravilBarrowfields patch.esp
@@ -5339,6 +5349,7 @@ BeldaElysium-RollingHills patch.esp
 goldenarchery-rollinghills fix.esp
 FCOM MWL-RollingHills patch.esp
 MMMMWL-RollingHills patch.esp
+KragenirsDeathQuest-RollingHills patch.esp
 
 xulPantherRiver.esp
 
@@ -5768,6 +5779,7 @@ kuerteeCustomisableHUDComponents.esp
 DB_NightMotherMoney5k.esp
 DeadlierDarkBrotherHood.esp
 Deadly Clutter.esp
+Deadly Clutter_update.esp
 Decorator Assistant.esp
 ? Check version is 1.1 or later.
 DecoratorAssistant v1.1.esp
@@ -6430,6 +6442,7 @@ SM Rest.esp
 Simple Essentials beta2.esp
 TFE.esp
 TFE Cobl.esp
+TFE Cobl Glue.esp
 
 Duke Patricks - Basic Hypothermia.esp
 Duke Patricks Hydration and Water Harvesting.esp
@@ -6708,6 +6721,8 @@ Midas SMPoison.esp
 FrostcragMidasLab.esp
 
 \Spells Late
+
+AudaciousMagery.esp
 
 Pestilent Afflictions.esp
 Pestilent_Afflictions-DV.esp
@@ -8179,6 +8194,7 @@ Better Cities - COBL.esp
 \Better Cities FPS Patches
 
 Better Cities Full Patch.esp
+Better Cities Full FPS Patch.esp
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Full - B&M Edition FPS Patch.esp
@@ -8548,6 +8564,7 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
 ? Try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
+Slof's Manly Stride.esp
 
 \Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
@@ -8650,7 +8667,8 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 
 \Last Files
 \''''''''''
-
+MergedMaps.esp
+\this so has to go last...
 FormID Finder.esp
 FormID Finder without Pluggy.esp
 TES4ViewLink.esp
@@ -8661,4 +8679,7 @@ CleanQuit.esp
 Streamline 3.1.esp
 Streamline 3.0.esp
 ? Old. Update to 3.1 or later.
+Streamline 2.1.esp 
+? Very Old. Update to 3.1+.
+
 

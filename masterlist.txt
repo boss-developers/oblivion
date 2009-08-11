@@ -316,6 +316,15 @@ UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
 Primate Rank Fix.esp
 
+\----------------------------------
+\Non-English Language fixes
+\have to be after UOP in some cases
+\----------------------------------
+
+Arena-Ansage-Fix.esp
+singlers_uebersetzungen.esp
+
+
 \---------------
 \Shivering Isles
 \---------------
@@ -727,6 +736,7 @@ Rainbows.esp
 
 LightsOut.esp
 10Interior_Light.esp
+5345-0.95-10Interior_Light-TESSource.esp
 Cities Alive At Night.esp
 _cities_alive_at_night.esp
 
@@ -1845,6 +1855,8 @@ BlackGlovesRus.esp
 % {{BASH:Invent}}
 ? Only Use one BlackGlovesX.esp, this one does NPC changes
 ? Only Use this for Russion version.
+Blackhand Courtesan
+Blackheart and Gizmodian ECRobes.esp
 BlackSoulGemArmory.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
@@ -1878,6 +1890,7 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 1630-1.0-Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
+BlueStaff.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -1980,6 +1993,7 @@ DHAyleidShield.esp
 DivineShields.esp
 DMACArmor.esp
 DMGloves.esp
+DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
 Dragon Knight Armor v. 1.1.esp
@@ -2099,6 +2113,7 @@ Helmes.esp
 
 It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
+Ice Gowns for HGEC.esp
 Icxth Sword.esp
 IvyArmor_Full.esp
 
@@ -2140,12 +2155,18 @@ Kynareth Armory.esp
 \Items L
 
 LadiesOrcish.esp
+Lady Jasmine Moon.esp
 LD - New Arrows.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
+LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
+LootableLichHelm_Lt.esp
+% {{BASH:Invent}}
+LootableLichHelm_Hvy.esp
+% {{BASH:Invent}}
 LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
@@ -2196,6 +2217,7 @@ MC_Staff_Pack_NoLL.esp
 
 \Items N
 
+Nature's_bounty.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -2301,6 +2323,7 @@ Sauron_Armor_Chest.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
+shamblingbooks.esp
 ShinobiSet.esp
 ShinobiSet_NoEnchant.esp
 Shadowlord Armours.esp
@@ -2356,6 +2379,7 @@ SteelHalberd.esp
 Stick Figure Swords.esp
 Spears of Cyrodiil.esp
 Spirit of Doom.esp
+Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
 Staff_of_Magius.esp
 
@@ -2753,6 +2777,7 @@ BisPainBringerMale.esp
 UFF Rogue Outfit.esp
 UFF & ROBERT Dark Assassin Set.esp
 UFF & RM Black Templar Armor.esp
+UFF_1SBBewitching.esp
 ktx_FlameAtronachArmor.esp
 Holy MythicDawn Armor.esp
 UFF Holy Mythic Dawn Armor.esp
@@ -2768,6 +2793,7 @@ UFF & RM Extra Robe Pack.esp
 UFF & RM Dark Daedric Armor.esp
 LichGear.esp
 LeatherHunterArmour.esp
+UFF Lady Shadow.esp
 UFF & RM Vermillion and Silverthorn Robes.esp
 UFF & RM Elegant Vests.esp
 UFF_Unrepetant_Archer.esp
@@ -2792,6 +2818,8 @@ StockClothingArmorHGECFighterD.esp
 HGEC_BodyGlove.esp
 HGEC_Rogue01.esp
 % {{BASH:Graphics}}
+HGEC_SBBewitching.esp 
+Swim Suit Retextured By DH13 Part 3.esp
 Robed Panty.esp
 Opale armor for Exnem body.esp
 GoddessArmor_Exnem.esp
@@ -3934,6 +3962,7 @@ cyrodiil transportation network wz.esp
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
 Cyrodiil transportation network OC.esp
+cyrodiil transportation network 1.2 DV.esp
 OC+CTN Patch.esp
 
 Ivellon.esp
@@ -4066,6 +4095,7 @@ Banes Chorrol Store Upgrade.esp
 Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
+BanditSlaveTrade.esp
 Basement for Cobl.esp
 Basement for Cobl - Sheep Wool addition.esp
 ? Requires MMM
@@ -4166,6 +4196,7 @@ ceme.esp
 ChangeinManagement.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
+2106-2-cherydinhal murder quest-TESSource.esp
 Cheydinhal Petshop.esp
 ? Has problems with FCOM and other mods.
 Comp_Cecilia.esp
@@ -4631,6 +4662,7 @@ The Ranger's House.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 Sanguine.esp
+SaveWaterEdgeEng.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District. 
 ? Or use the replacer esp in from the BC package (same name).
@@ -5087,6 +5119,7 @@ Mighty Umbra.esp
 Mighty Umbra - Vanilla OB.esp
 
 The Soul of Ilithiel.esp
+Ilithiel-DE.esp
 
 Ungarion1TheWelkyndSword.esp
 
@@ -5114,6 +5147,7 @@ MannimarcoRevisitedOOO.esp
 % {{BASH:NpcFaces}}
 MannimarcoWardrobeChest.esp
 OOO_Mannimarco_Fix.esp
+_JC_Mannimarco.esp
 
 Prince of Order.esp
 
@@ -5406,6 +5440,8 @@ ICWaterfrontPassage.esp
 ? Not compatible with Better Cities.
 Waterfront Passage - Control of Goods.esp
 ? Not compatible with Better Cities.
+JADDockTunnel.esp
+? Probably not compatible with Better Cities.
 Moriarcis.esp
 % {{BASH:Hair}}
 Moriarcis_TheNecromancer Patch.esp
@@ -5706,6 +5742,7 @@ BuyLockpicks.esp
 
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
+CoverYourself.esp 
 CDM-Dogs.esp
 ? MMM users: dog's already included in MMM. May introduce problems with new kind of dog-meat ingredient. Untested.
 CDM-Shares and Salaries.esp
@@ -6164,6 +6201,7 @@ tona_underwear.esp
 
 
 Unarmored Skill for Everyone.esp
+Unarmored skill.esp
 university cosmetics.esp
 university cosmetics-no orrery dome.esp
 Unlimited Rings 1.0.esp
@@ -6254,6 +6292,7 @@ DurableEquipment_10.esp
 
 VVAdvanced.esp
 VVAdvanced-SI.esp
+P1DseeYouSleep - VVAdvanced.esp 
 
 Wolvmans_Hidden_Unique_Merchant_Items.esp
 Cliff_RPO_NewBeginnings.esp
@@ -6547,6 +6586,7 @@ Elemental Horses.esp
 EnchantmentMastery.esp
 Finders Keepers.esp
 ForecastersWill.esp
+Friendly Fire.esp
 Gather Ye Rosebuds.esp
 GrimbotsSpellTomes.esp
 haz_ct5_mark_recall.esp
@@ -6556,6 +6596,7 @@ hilarity_121.esp
 hunters_performance.esp
 IllusionaryScript.esp
 Improved Ancestor Guardian.esp
+Irresistible_Allure_Spell-1920.esp 
 JADPolymorphSpellv3.esp
 Polymorph DV.esp
 JIM_Summon_Doppleganger.esp
@@ -6574,6 +6615,7 @@ MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
 ? Requires OBSE.
+MindRip.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
 DS Summon Luggage.esp
 Diplomacy and Mercy.esp
@@ -6595,6 +6637,7 @@ PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
 PetrifyandStoneSkinSpells.esp
+PortableOblivionPortal.esp 
 Portal - SI.esp
 ? Requires Shivering Isles
 QuickStore.esp
@@ -6604,6 +6647,7 @@ Rain of Gold OBSE.esp
 Rain of Gold.esp
 Ranokoas Killing Spree Spells.esp
 Remote Life Detect.esp
+Resurrect.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 Smite of Order.esp
@@ -6634,6 +6678,7 @@ bgEnchantingOrbEV.esp
 DimensionalPocketOfEther.esp
 RoomOfEnchantment.esp
 Scavenger Scamp.esp
+xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
 % {{BASH:Sound}}
 
@@ -6992,6 +7037,8 @@ Adrenaline-Fuelled Combat.esp
 ? Old version. Consider updating to v2.
 Adrenaline Fuelled Archery- Bow Sway.esp
 ? Old version. Consider updating to v2.
+
+ResetEmotionAfterCombat.esp
 
 SuddenViolence_CombatMoves.esp
 SuddenViolence_Push.esp
@@ -7525,6 +7572,8 @@ All_hair_and_eyes-1841.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+Cosmetic Compilation XXL DV.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
@@ -8565,6 +8614,7 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? Try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 Slof's Manly Stride.esp
+SWalk.esp
 
 \Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''

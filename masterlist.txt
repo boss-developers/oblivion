@@ -536,11 +536,11 @@ EW_WeatherOrb.esp
 EW-GTA2 Patch.esp
 ? Obsolete as of EW version 1.3.4. Do not use.
 
+All Natural - Real Lights.esp
+? Do not use with original Real Lights mod.
 All Natural.esp
 ? Required for All Natural.
 % {{BASH:C.Climate}}
-All Natural - Real Lights.esp
-? Do not use with original Real Lights mod.
 All Natural - Enhanced Weather.esp
 ? Only use one All Natural weather plugin.
 All Natural - Natural Weather.esp
@@ -563,6 +563,7 @@ All Natural - Weather Inside.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
+Weather Debug Ring.esp
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -573,9 +574,6 @@ NI-Fullcity-Anvilhome.esp
 
 no_wind-2578.esp
 NoWind.esp
-
-Weather Debug Ring.esp
-
 
 \Water tweaks
 \''''''''''''

@@ -1161,6 +1161,7 @@ kalikuts_raretradegoods2_0.esp
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
+Kyoma's Focus on Shrine.esp
 
 \Base L
 
@@ -1424,7 +1425,10 @@ VvardenfellIngredRedone.esp
 \Base W
 
 Walk to Oblivion.esp
+? Incompatible with mods like Enhanced Daedric Invasion that modify Oblivion Gate scripts.
+? Use Walk to Oblivion - OBSE.esp if you need compatibility with those mods.
 Walk to Oblivion - OBSE.esp
+Walk to Oblivion - OGMMR.esp
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
 ? May not be OOO compatible as OOO includes inebriation.
@@ -6576,6 +6580,7 @@ Alter Weight Spells.esp
 always protection.esp
 Arcane Calendar.esp
 Ayleid Expansion.esp
+? Suspected of messing up your magicka multiplier.
 AyleidWeaponEnchantments_balance.esp
 BasicInstinct.esp
 Better Scrolls.esp

@@ -590,6 +590,7 @@ Improved Water.esp
 Natural_Water_by_Max_Tael.esp
 Better Water.esp
 phinix-waterfix.esp
+? Possibly better to not merge this.
 UnderwaterVisibilityMod.esp
 Better_Water-1830.esp
 BetterImperfectWater.esp
@@ -1344,6 +1345,8 @@ Rock Remover - Underwater.esp
 \Base S
 
 Sams_Recipe_Mod1.0.esp
+Sexual_SpiderDaedra.esp
+% {{BASH:Graphics}} and deactivate.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -1621,12 +1624,14 @@ DBSQR - Orrery.esp
 
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
+DBSQR - Vile Lair.esp
+? Not compatible with SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp instead.
 SM Plugin Refurbish - VileLair.esp
+DBSQR - Vile Lair SMPR.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 NLF VileLair.esp
 Lair_mobs.esp
 P1DseeYouSleep - DLCVileLair.esp
-DBSQR - Vile Lair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
@@ -5115,7 +5120,7 @@ OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 
 The Lost Spires.esp
-Lost Spires_delayer.esp
+The Lost Spires_delayer.esp
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp
@@ -8253,48 +8258,106 @@ Better Cities - COBL.esp
 \Better Cities FPS Patches
 
 Better Cities Full Patch.esp
+? Old, update to newer version.
 Better Cities Full FPS Patch.esp
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
+? Old, update to newer version.
 Better Cities Full - B&M Edition FPS Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Skingrad Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Leyawiin Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Chorrol Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Cheydinhal Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Bruma Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Bravil Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Bravil - Blood & Mud Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities Anvil Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Imperial City Patch.esp
 ? Only use if using Better Imperial City.esp
+? Old, update to newer version.
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp 
+? Old, update to newer version.
 Better Cities IC Temple Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Talos Plaza Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Prison Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Market Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Green Emperor Way Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Elven Gardens Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Arena Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Arcane University Patch.esp
 ? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
 Better Cities IC Arboretum Patch.esp
+? Only use if using the separate Better Cities .esps
+? Old, update to newer version.
+
+Better Cities Skingrad FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Leyawiin FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Chorrol FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Cheydinhal FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bruma FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bravil FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+? Do not use with Blood & Mud version of Better Cities.
+Better Cities Bravil - Blood & Mud FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+? Only use if using Blood & Mud version of Better Cities.
+Better Cities Anvil FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Temple FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Talos Plaza FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Prison FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Market FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Green Emperor Way FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Elven Gardens FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arena FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arcane University FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 
 
@@ -8487,31 +8550,48 @@ Real Lava v1.2.esp
 ? Update to 1.3 or later.
 % {{BASH:Graphics}} and deactivate.
 Improved Lava.esp
-% {{BASH:Body-M,Body-F}} and deactivate.
+% {{BASH:Graphics}} and deactivate.
 ScreenControls.esp
 Summon_Bear.esp
 Better Turn Undead Shader.esp
 Update 2.0 Visually Enchanted.esp
-Visually Enchanted Damage and Absorb with Particles.esp
-Visually Enchanted Drains 1.esp
-Visually Enchanted Drains.esp
-Visually Enchanted Fire 1.esp
-Visually Enchanted Fire 2.esp
-Visually Enchanted Fire 3.esp
-Visually Enchanted Fire.esp
-Visually Enchanted Frost 1.esp
-Visually Enchanted Frost 2.esp
-Visually Enchanted Frost 3.esp
-Visually Enchanted Frost.esp
-Visually Enchanted Shock 1.esp
-Visually Enchanted Shock 2.esp
-Visually Enchanted Shock 3.esp
-Visually Enchanted Shock.esp
-Visually Enchanted SoulTrap 1.esp
-Visually Enchanted SoulTrap.esp
 Visually Enchanted 2.1 No Shock Particles.esp
 Visually Enchanted 2.1.esp
 Visually Enchanted.esp
+Visually Enchanted Damage and Absorb with Particles.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Drains 1.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Drains.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Fire 1.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Fire 2.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Fire 3.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Fire.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Frost 1.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Frost 2.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Frost 3.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Frost.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Shock 1.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Shock 2.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Shock 3.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted Shock.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted SoulTrap 1.esp
+% {{BASH:Graphics}} and deactivate.
+Visually Enchanted SoulTrap.esp
+% {{BASH:Graphics}} and deactivate.
 Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp
 Visual Enchantments LessFire.esp
@@ -8552,7 +8632,10 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 \Pre Bash
 \--------
 
+Helmet Toggle.esp
 MiniMap.esp
+MUTE.esp
+
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.

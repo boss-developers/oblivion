@@ -3975,6 +3975,7 @@ cyrodiil transportation network wz.esp
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
 Cyrodiil transportation network OC.esp
+Cyrodiil Transportation Network WZ OC.esp
 cyrodiil transportation network 1.2 DV.esp
 OC+CTN Patch.esp
 
@@ -4378,6 +4379,7 @@ Heroes of Cyrodiil.esp
 Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
+Heroes of Cyrodiil Part 5.esp
 01_Helms_Deep.esp
 ? Requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -5210,6 +5212,7 @@ BrewHouse.esp
 
 Enhanced Daedric Invasion.esp
 >? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
+EDI - Less Monotonous DOT.esp
 RoS_Enhanced Daedric Invasion Compatability.esp
 Enhanced Daedric Invasion for FCOM.esp
 * Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
@@ -5465,6 +5468,7 @@ TheNecromancer-Moriarcis patch.esp
 300 Arcane University.esp
 Reaper's Arcane University.esp
 PersonalPackGuars.esp
+PersonalPackGuars White.esp
 Duke Patricks Sickness Alarm.esp
 % {{BASH:Sound}}
 
@@ -6577,6 +6581,9 @@ LithiansNatureOfTheBeastModBeta.esp
 \'''''
 \
 \Overrides overhauls. New spells and magic systems go here for convenience.
+
+MagLite.esp
+MagLite - Alchemy.esp
 
 \General Spells
 
@@ -8830,4 +8837,4 @@ Streamline 3.0.esp
 Streamline 2.1.esp 
 ? Very Old. Update to 3.1+.
 
-
+CTEFastSaver.esp

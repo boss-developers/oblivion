@@ -1544,8 +1544,13 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 Map Markers Be Done -Elys-.esp
 Map Markers Be Done.esp
 Map Marker Renamer.esp
+<<<<<<< .mine
+? Old, upgrade to Map Marker Overhaul.esp
+Map Marker Overhaul.esp
+=======
 ? Obsolete. Update to Map Marker Overhaul and then remove.
 Map Marker Overhaul.esp
+>>>>>>> .r259
 Maps!.esp
 Landmarks.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
@@ -3140,7 +3145,7 @@ Francesco's Optional Vendor Tweaks.esp
 <Francesco's Optional Chance of More Enemies.esp
 Francesco's Optional Leveled Quests.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
-<Francesco's Optional Leveled Quests-SI-only.esp
+
 <Francesco's Optional Leveled Quests-SI only.esp
 Francesco's Optional Leveled Arena.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
@@ -5220,6 +5225,7 @@ Enhanced Daedric Invasion for FranOOOMMM.esp
 * Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
 Enhanced Daedric Invasion for MMM.esp
 FCOM_EnhancedDaedricInvasion.esp
+EDI - Less Monotonous DOT.esp
 
 FCC-IC-Elfengaden.esp
 FCC-IC-Elvengarden.esp
@@ -5468,7 +5474,16 @@ TheNecromancer-Moriarcis patch.esp
 300 Arcane University.esp
 Reaper's Arcane University.esp
 PersonalPackGuars.esp
+<<<<<<< .mine
 PersonalPackGuars White.esp
+? Use only one PPG colour esp
+PersonalPackGuars Black.esp
+? Use only one PPG colour esp
+PersonalPackGuars Striped.esp
+? Use only one PPG colour esp
+=======
+PersonalPackGuars White.esp
+>>>>>>> .r259
 Duke Patricks Sickness Alarm.esp
 % {{BASH:Sound}}
 
@@ -5771,6 +5786,7 @@ Cheaper training x5.esp
 clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
+% {{BASH:Names}}
 Cliff_RiskyInnBeds.esp
 Cliff_CountyNames.esp
 Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
@@ -6741,6 +6757,7 @@ SSEE-MM.esp
 \Supreme Magicka
 
 SupremeMagicka.esp
+% {{BASH:Names,Graphics}}
 SM Ancestral Guardian.esp
 SM_ShiveringIsles.esp
 SM_DLCSpellTome.esp
@@ -6808,6 +6825,7 @@ ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
 
+AudaciousMagery.esp
 SorcerysToll.esp
 sr_spell_deletion.esp
 Spellbooks.esp
@@ -7961,8 +7979,10 @@ DASephirothCompanion.esp
 Cobl Races.esp
 % {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.

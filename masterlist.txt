@@ -1624,8 +1624,9 @@ DLCOrrery - Unofficial Patch.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
-? A new version of Choices and Consequences called C&C&EQR is out
+? Make sure you have the latest version from C&C&EQR
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
+? Not the latest version, the latest version has the same file names as the previous version. Update.
 NLF Orrery.esp
 DBSQR - Orrery.esp
 
@@ -3298,8 +3299,10 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 ? For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
 Choices and Consequences - OOO.esp
-? A new version of Choices and Consequences called C&C&EQR is out
+? Make sure you have the latest version from C&C&EQR
 C&C&EQR - OOO.esp
+? Not the latest version, the latest version has the same file names as the previous version. Update.
+
 \ArmamentariumLLVendor.esp
 \incorrect file
 ArmamentariumLLVendors.esp
@@ -3341,8 +3344,9 @@ OBSE-Storms & Sound SI.esp
 >? Only use when not using MMM.
 >
 >Choices and Consequences - MMM.esp
->? A new version of Choices and Consequences called C&C&EQR is out
+>? Make sure you have the latest version from C&C&EQR
 >C&C&EQR - MMM.esp
+>? Not the latest version, the latest version has the same file names as the previous version. Update.
 >
 >Mart's Monster Mod - Blood Fix v3.esp
 >? Not needed in MMM 3.6beta3 integrated.
@@ -3489,13 +3493,15 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod TNR Faces.esp
 <Mart's Monster Mod COBL Races TNR.esp
 <Mart's Monster Mod for OOO.esp
+<% {{BASH:Invent,Factions,Relations}}
 <Mart's Monster Mod for OOO TNR Faces.esp
 <Mart's Monster Mod for OOO COBL Races TNR.esp
 <Mart's Monster Mod - Shivering Isles.esp
 <
 <Choices and Consequences - MMM.esp
-<? A new version of Choices and Consequences called C&C&EQR is out
+<? Make sure you have the latest version from C&C&EQR
 <C&C&EQR - MMM.esp
+<? Not the latest version, the latest version has the same file names as the previous version. Update.
 <CurseOfHircine.esp
 <
 <Mart's Monster Mod - Blood Fix v3.esp
@@ -3927,6 +3933,11 @@ IABaneOils 100.esp
 \Mods not in alphabetical order have been hand placed to avoid conflicts (as much as possible).
 
 \Quests Early
+
+Enhanced Quest Roleplaying.esp
+% {{BASH:Factions}}
+Enhanced Quest Roleplaying - OOO.esp
+Enhanced Quest Roleplaying - FCOM.esp
 
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid edits.
@@ -5910,6 +5921,7 @@ Everlasting Corpses v 1.0.esp
 faster-grass.esp
 Faster-trees.esp
 FG_Merchant Inventory Realism V 1_5.esp
+% {{BASH:Invent}}
 FrbitchapelAltars.esp
 
 FewerOBGates.esp
@@ -6313,9 +6325,6 @@ The Complete Ranger.esp
 Shadow Ranger.esp
 
 Roleplaying Dialogues.esp
-Enhanced Quest Roleplaying.esp
-Enhanced Quest Roleplaying - OOO.esp
-Enhanced Quest Roleplaying - FCOM.esp
 
 Feudal Empire 300.esp
 % {{BASH:Invent,Graphics}}

@@ -1545,13 +1545,8 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 Map Markers Be Done -Elys-.esp
 Map Markers Be Done.esp
 Map Marker Renamer.esp
-<<<<<<< .mine
-? Old, upgrade to Map Marker Overhaul.esp
-Map Marker Overhaul.esp
-=======
 ? Obsolete. Update to Map Marker Overhaul and then remove.
 Map Marker Overhaul.esp
->>>>>>> .r259
 Maps!.esp
 Landmarks.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
@@ -5486,16 +5481,12 @@ TheNecromancer-Moriarcis patch.esp
 300 Arcane University.esp
 Reaper's Arcane University.esp
 PersonalPackGuars.esp
-<<<<<<< .mine
 PersonalPackGuars White.esp
 ? Use only one PPG colour esp
 PersonalPackGuars Black.esp
 ? Use only one PPG colour esp
 PersonalPackGuars Striped.esp
 ? Use only one PPG colour esp
-=======
-PersonalPackGuars White.esp
->>>>>>> .r259
 Duke Patricks Sickness Alarm.esp
 % {{BASH:Sound}}
 

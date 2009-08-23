@@ -5312,6 +5312,7 @@ DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
 TheNecromancer-EntiusGorge patch.esp
 
 ULFallenLeafEverglade.esp
+? Obsolete. Update to latest version, then delete.
 xulFallenLeafEverglade.esp
 LostSpires-Everglade patch.esp
 LostSpires_TheOrderofNibenay_patch.esp
@@ -5430,6 +5431,8 @@ NakedNord.esp
 xulImperialIsle.esp
 
 xulBlackwoodForest.esp
+
+xulCheydinhalFalls.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -5605,6 +5608,7 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
+OC+Cheydinhal Falls Patch.esp
 
 \----------------------
 \Quests and Locations 5

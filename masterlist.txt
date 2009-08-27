@@ -152,10 +152,11 @@ Tabaxi_Race_Default.esm
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
+CustomSpellIcons.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
-UnnecessaryViolence.esm
 PMSneakySummons.esm
+UnnecessaryViolence.esm
 
 \-------------
 \Earliest mods
@@ -356,9 +357,11 @@ Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
 MOBS SI.esp
+% {{BASH:Stats}}
+OMOBS_SI.esp
+% {{BASH:Stats}}
 MOBS SI Optional Combat Settings.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
-
 
 \----------
 \BSA tricks
@@ -429,7 +432,8 @@ FCOM_FrancescosNamedBosses.esp
 >? Francesco's Leveled Creatures-Items 4.5b required.
 
 FranOBSEConfig.esp
-
+OMOBS_FRAN.esp
+% {{BASH:Stats}}
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
 
@@ -1633,18 +1637,20 @@ DBSQR - Orrery.esp
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
 DBSQR - Vile Lair.esp
-? Not compatible with SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp instead.
+? If usng SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp as well.
 SM Plugin Refurbish - VileLair.esp
 DBSQR - Vile Lair SMPR.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 NLF VileLair.esp
 Lair_mobs.esp
+% {{BASH:Stats}}
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
 NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
+% {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
@@ -3108,6 +3114,7 @@ DLCThievesDen - Unofficial Patch - SSSB.esp
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
+% {{BASH:Stats}}
 
 
 \---------
@@ -3287,6 +3294,8 @@ OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
 DBSQR - OOO.esp
 OOO SI Hunger Replacer.esp
+OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
+% {{BASH:Stats}}
 \Post OOO
 \''''''''
 
@@ -3605,7 +3614,9 @@ Diverse Wisps - for Vanilla.esp
 ? MMM users should use 'Mart's Monster Mod - Diverse Wisps.esp'.
 
 Mart's Monster Mod - Boar's Addon.esp
+? Old, upgrade to MMM 3.7b3+
 Mart's Monster Mod - Hairy Spiders Addon.esp
+? Old, upgrade to MMM 3.7b3+
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 ?Not compatible with Slof's Horses or Slof's Extra Horses.
@@ -3627,6 +3638,11 @@ Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
 ? Requires MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
 
+OMOBS_MMM.esp
+% {{BASH:Stats}}
+OMOBS_MMM_H&C_Ammo.esp
+% {{BASH:Stats}}
+
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
 Jade Dishes for MMM - HnC.esp
@@ -3637,7 +3653,7 @@ WCGL - Wilderness Creatures 1.1.esp
 ? Incompatible with OOO, MMM and Francescos.
 
 Master-Crafting-1.1-MMM.esp
-?needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
+? Needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
 Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
@@ -4977,6 +4993,7 @@ SM Plugin Refurbish - Battlehorn.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
+% {{BASH:Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
 
@@ -5096,6 +5113,7 @@ EiAmod_Knights.esp
 
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
+% {{BASH:Stats}}
 MOBS DLCs.esp
 % {{BASH:Stats}}
 
@@ -6875,6 +6893,8 @@ PMSneakySummons-ForVanilla.esp
 ? Do not use with PMSneakySummonCompatibility.esp, 
 ? to have magic overhaul features move before magic overhauls (but then 
 ? you won't get the features of this)
+
+CustomSpellIcons.esp
 
 \Alchemy
 \'''''''

@@ -541,6 +541,9 @@ All Natural - Real Lights.esp
 All Natural.esp
 ? Required for All Natural.
 % {{BASH:C.Climate}}
+All Natural - SI.esp
+? Required for All Natural SI support.
+% {{BASH:C.Climate}}
 All Natural - Enhanced Weather.esp
 ? Only use one All Natural weather plugin.
 All Natural - Natural Weather.esp

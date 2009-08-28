@@ -4309,8 +4309,8 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 
 \Quests E
 
+EaglesRest.esp
 Egainjo Manor.esp
-
 Elemental Witches.esp
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
@@ -4998,9 +4998,9 @@ Battlehorn_mobs.esp
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
 
-\---------------------
-\Quests and Location 2
-\---------------------
+\----------------------
+\Quests and Locations 2
+\----------------------
 
 maze-version 1,0.esp
 1SKHGBetaUpdate.esp
@@ -5362,13 +5362,13 @@ mythsandlegends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
-? Make sure version is 1.6 or later.
+? Make sure version is 1.6.2 or later.
 Cybiades-Lost Coast patch.esp.
 ? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
 UL_BOC_LostCoast_1.0.esp
-? Old version. Update to UL:Lost Coast 1.6 or higher.
+? Old version. Update to UL:Lost Coast 1.6.2 or higher.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
-? Old version. Update to UL:Lost Coast 1.6 or higher.
+? Old version. Update to UL:Lost Coast 1.6.2 or higher.
 VeronaHouseBloodlines-LostCoast fix.esp
 ? Obsolete. Patch is no longer required as of VHB 1.4 or higher.
 AkaviriStronghold-LostCoast fix.esp
@@ -5379,8 +5379,8 @@ Castle_Almgard-V2.esp
 anvil bay+ul tweak.esp
 BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
-? Probably incompatible with 'VeronaHouseBloodlines-LostCoast fix.esp'.
 SeawatchAbode-LostCoast patch.esp
+EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp
 
 xulbravilbarrowfields.esp
@@ -5401,7 +5401,7 @@ VeronaHouseBloodlines-LushWoodlands fix.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
-? Obsolete.This patch is not needed if using the latest version of Lush Woodlands.
+? Obsolete if using Lush Woodlands 1.3 or higher.
 
 xulAncientYews.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
@@ -5472,6 +5472,9 @@ LtPD+NRB4+UL-II Patch.esp
 
 Castle_Seaview.esp
 CastleSeaview+LostCoast Patch.esp
+? Not compatible with EaglesRest+LostCoast+CastleSeaview Patch.esp
+EaglesRest+LostCoast+CastleSeaview Patch.esp
+? Not compatible with CastleSeaview+LostCoast Patch.esp
 
 The Ruins of Miscarcand.esp
 

@@ -4537,6 +4537,7 @@ LetThePeopleDrink.esp
 LetThePeopleDrink-Cobl.esp
 LetThePeopleDrink-fountainonly.esp
 LetThePeopleDrink-fountainonly-Cobl.esp
+KragenirsDeathQuest-LetThePeopleDrink patch.esp
 
 Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
@@ -6900,6 +6901,7 @@ PMSneakySummons-ForVanilla.esp
 ? you won't get the features of this)
 
 CustomSpellIcons.esp
+CustomSpellIcons_Cobl.esp
 
 \Alchemy
 \'''''''

@@ -97,6 +97,8 @@ ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
 ? Old, merged into newest Armamentarium Complete. 
 Artifacts.esm
+Underwear HGEC Fighter.esm
+Underwear HGEC Normal.esm
 DremoraCompanion.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
@@ -1296,8 +1298,9 @@ P1DlookHereYou.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp 
 Pegasus.esp
-P-Froggys Wall Climbing EV.esp
 AltPegasus.esp
+Personal Torture Girl.esp
+P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
 Player Hunters Fame and Infamy - Normal.esp
@@ -1408,10 +1411,6 @@ Timekeeper_Advanced.esp
 Timescale Options.esp
 Trainer_Book.esp
 Treasure Hunt.esp
-TRN One of the Gang.esp
-? Patch for Elder Council available http://www.tesnexus.com/downloads/file.php?id=23526
-? If using Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
-TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 TurnoffLights.esp
 TryBeforeYouBuy.esp
 TreeDoorAddition.esp
@@ -2396,6 +2395,7 @@ Spell Breaker Replacer.esp
 spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
+Staff of Portals.esp
 Star Boi's Keyblades In-Game.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
@@ -2450,6 +2450,7 @@ TT-EquipableBeardsLEVELEDLIST.esp
 
 \Items U
 
+Underwear HGEC placed.esp
 Unenchanted Staves.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
@@ -5117,6 +5118,7 @@ DLC_MOBS.esp
 MOBS DLCs.esp
 % {{BASH:Stats}}
 
+RavDCPOD.esp
 
 \----------------------
 \Quests and Locations 3
@@ -7075,8 +7077,9 @@ DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
 Infamy Pilgrimage.esp
 TRN One of the Gang.esp
-? If using kuerteeClothingMatters.esp it's INI needs to be adjusted for compatibility with this.
-
+? If using The Elder council use the patch (http://www.tesnexus.com/downloads/file.php?id=23526)
+? If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
+TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 GuildBetrayal.esp
 
 FameAndInfamyAnnouncer.esp

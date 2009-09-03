@@ -6229,6 +6229,8 @@ SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
+ShinySeptims_Septimus.esp
+% {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
 M.O.E. - Alternative Script Effect Icon I.esp
 M.O.E. - Alternative Script Effect Icon II.esp
@@ -6522,6 +6524,7 @@ More Realistic Encumbrance with Fatigue.esp
 More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
+kuerteeEatAndSleep.esp
 WeightLifter.esp
 
 Vim_and_Vigor.esp
@@ -8106,8 +8109,6 @@ bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
 
-
-
 \Post Magicka Overhaul
 \'''''''''''''''''''''
 \
@@ -8623,6 +8624,7 @@ BadderShockFX.esp
 bgMagicEVShader.esp
 bgMagicDVShader.esp
 bgMagicShaderLifeDetect.esp
+kuertee bgMagicEVShader default drain effects.esp
 bgMagicLightningbolt.esp
 BNewShockBoltEffects20.esp
 BNewShockFunnelEffects20.esp
@@ -8926,6 +8928,7 @@ Duke Patricks Script Effect Silencer Gold Edition.esp
 Duke Patricks - BASIC Script Effect Silencer.esp
 \% {{BASH:Sound}}
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
+? Old. Upgrade to latest version.
 \% {{BASH:Sound}}
 
 
@@ -8948,5 +8951,6 @@ Streamline 3.0.esp
 ? Old. Update to 3.1 or later.
 Streamline 2.1.esp 
 ? Very Old. Update to 3.1+.
+RedDelPCB.esp
 
 CTEFastSaver.esp

@@ -1367,6 +1367,7 @@ Rock Remover - Underwater.esp
 \Base S
 
 Sams_Recipe_Mod1.0.esp
+Screenshooter's Illumination.esp
 Sexual_SpiderDaedra.esp
 % {{BASH:Graphics}} and deactivate.
 Shadow's Merged Value Fixesv1.1.esp
@@ -2336,7 +2337,8 @@ RDAyleidArmour.esp
 rdweaponpack1.esp
 Redemption.esp
 RedgardWeaponsMod.esp
-? make sure to load an overhaul or something after or manually rename the cells that this edits.
+? Make sure to load an overhaul or something after or manually rename the cells that this edits.
+Retma Dresses.esp
 Reznod Mannequin.esp
 Reznod_Mannequin_HD[Eng].esp
 Rindirs Staves.esp
@@ -4158,6 +4160,7 @@ ArtifactsforArmaComplete.esp
 Artifacts for ArmaComplete.esp
 ? Obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts-ArmaCompleteAddon.esp
+Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
 Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
@@ -4402,6 +4405,7 @@ FuseSnailRacing.esp
 \Quests G
 
 Gaelendryl.esp
+Gamblers_of_Cyrodiil.esp
 Ghost Ship.esp
 Garrett Mod-TESSource.esp
 GCMansion.esp
@@ -6273,6 +6277,12 @@ Slof's Dogs.esp
 ? Don't need to use this if you use MMM as it already includes dogs.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
+SPTDiverseGuards.esp
+? Probably not compatible with OOO.
+SPTDiverseGuardsMRAll.esp
+? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
+SPTDiverseGuardsMRHuman.esp
+? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
 ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp

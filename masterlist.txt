@@ -159,7 +159,8 @@ HorseCombatMaster.esm
 Horse Combat Master.esm
 PMSneakySummons.esm
 UnnecessaryViolence.esm
-
+UndiesUnderneath.esm
+StarX Vampire Deaths.esm
 \-------------
 \Earliest mods
 \-------------
@@ -896,6 +897,10 @@ Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
 BookTrackerOBSE.esp
 Book Collection.esp
+Bookofthedead.esp 
+Classic Books.esp
+Book- - Brotherly Betrayal.esp
+David_Whitefang_Book_One.esp
 Bosmer Meat Mandate.esp
 % {{BASH:Invent}}
 Brandy.esp
@@ -1403,6 +1408,8 @@ Unsafe Streets.esp
 SummonChest_v2.1.esp
 Summon Bed.esp
 
+svaToMoveObjects_1C.esp
+
 \Base T
 
 Tamriel VWD v0.5.esp
@@ -1871,7 +1878,7 @@ BarbarianShop.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
-bcrich.es
+bcrich.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
 ? Only Use one BlackGlovesX.esp, this one does NPC changes
@@ -2152,6 +2159,8 @@ IvyArmor_Full.esp
 Jade Dishes.esp
 javrmb.esp
 javbmb.esp
+Jedi LightSabers with Sound.esp
+? Requires OBSE
 JG Elven.esp
 JQ-Amulets.esp
 jy-Akaviri Helmets.esp
@@ -2461,6 +2470,8 @@ Underwear HGEC placed.esp
 Unenchanted Staves.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
+UU! Female Undies.esp
+UU! Female Undies NPC.esp
 
 \Items V
 
@@ -4295,6 +4306,7 @@ DexwoodsHideout.esp
 DexwoodFamilySaga.esp
 
 DibellaTempleWillowLakeVillagev1.esp
+Diverse Guards.esp
 
 Dive Rock Revisited.esp
 MeteorShowerDiveRock.esp
@@ -4318,6 +4330,8 @@ Duke Patricks Dragon and the Sword of Might.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
+
+DukeCity.esp
 
 \Quests E
 
@@ -4387,6 +4401,7 @@ GoblinwatchKeep.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 GP_Moretta.esp
+Grand Ayleid Maze.esp
 GTAesgaard.esp
 GTAesgaard_delayer.esp
 GTAesgaard_2.esp
@@ -4449,6 +4464,8 @@ AdensesBetterWaterfront.esp
 ICSewerDBsanctuary.esp
 ImperialForts-FortNikel.esp
 Imperial City Boutique.esp
+Imperial City Miniature Model.esp
+? May conflict with many mods that alter the IC palace.
 IC Temple Altars.esp
 IC Tower.esp
 ImpeREAL Empire - Unique Forts - Bouayard.esp
@@ -4637,6 +4654,7 @@ Nabu_Towers.esp
 Naughty_Joana_01.esp
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
+Necromancer Shop.esp
 
 Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
@@ -6270,6 +6288,8 @@ Storms & Sound Patches.esp
 ShippingInCyrodiil-08.esp
 SkoomaTest.esp
 
+StarX Vampire Deaths.esp
+
 \overrides T
 
 tag_NaturalWildlife.esp
@@ -6278,6 +6298,7 @@ Talk With Your Hands.esp
 Talk with Your Hands2.esp
 talkwithyourhands2.esp
 talkwithyourhands PI4.esp
+TameWildlife.esp
 
 Toggleable Quantity Prompt.esp
 tona_underwear.esp

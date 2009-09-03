@@ -161,6 +161,8 @@ PMSneakySummons.esm
 UnnecessaryViolence.esm
 UndiesUnderneath.esm
 StarX Vampire Deaths.esm
+MALO - MAIN.esm
+
 \-------------
 \Earliest mods
 \-------------
@@ -3165,6 +3167,7 @@ Francesco's Optional Dungeon Chest Locks.esp
 <Francesco's Optional Leveled Guards.esp
 Francesco's Optional House Chest Loot.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
+MALO - Guild Tweaks.esp
 Francesco's Optional New Adventurers.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Vendor Tweaks.esp
@@ -3343,6 +3346,12 @@ ArmamentariumLLArmaVendor.esp
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
+
+MALO - Clutter Replacer.esp
+MALO - Vendor Additions.esp
+MALO - Loot Tweaks.esp
+MALO - Loot Tweaks DCRP.esp
+MALO - Loot Tweaks FRAN.esp
 
 
 \MMM & FCOM
@@ -3556,7 +3565,10 @@ OBSE-Storms & Sound SI.esp
 <Mart's Monster Mod - Gems & Gem Dust.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 <Gems and Gem Dusts - MMM.esp
+MALO - Clutter Replacer MMM - GEM.esp
+MALO - Loot Tweaks MMM - GEM.esp
 <Mart's Monster Mod - Hunting & Crafting.esp
+MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
 <Mart's Monster Mod - Durability & Damage.esp
@@ -6896,7 +6908,6 @@ ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
 
-AudaciousMagery.esp
 SorcerysToll.esp
 sr_spell_deletion.esp
 Spellbooks.esp

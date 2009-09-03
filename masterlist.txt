@@ -2049,6 +2049,7 @@ doofdillas_potions_recolored_sorted_v0_3_1.esp
 
 \Items E
 
+Echo_MysticShield.esp
 ElegantVests.esp
 Emperor's Heavy War Armor.esp
 % {{BASH:Invent}}
@@ -4125,7 +4126,12 @@ ArmoryLab better armory.esp
 Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 Artifacts.esp
+ArtifactsFemaleArmor
+% {{BASH:Graphics}}
+ArtifactsforArmaComplete.esp
+? Obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts for ArmaComplete.esp
+? Obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts-ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
 Auriel's Books.esp
@@ -5263,6 +5269,7 @@ Enhanced Daedric Invasion for FranOOOMMM.esp
 Enhanced Daedric Invasion for MMM.esp
 FCOM_EnhancedDaedricInvasion.esp
 EDI - Less Monotonous DOT.esp
+EDI - Aggression Fix.esp
 
 FCC-IC-Elfengaden.esp
 FCC-IC-Elvengarden.esp
@@ -8072,6 +8079,14 @@ bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
 
 
+
+\Post Magicka Overhaul
+\'''''''''''''''''''''
+\
+\
+Bound_Arrows_with_Bow.esp
+
+
 \Race Balancing Project 2
 \''''''''''''''''''''''''
 
@@ -8178,46 +8193,47 @@ EVE_KhajiitFix.esp
 \Better Cities
 \-------------
 
+Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
-Better Cities - Full City Defences.esp
 
-Better Cities SKINGRAD.esp
 Better Cities - Skingrad City Defences.esp
+Better Cities SKINGRAD.esp
 
+Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp
 Better Cities BRAVIL - Blood & Mud.esp
-Better Cities - Bravil City Defences.esp
 BCBravilB&M-Barrowfields patch.esp
 BCBravil-Barrowfields.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
 BCBravil-Barrowfields patch.esp
-Better Cities ANVIL.esp
+
 Better Cities - Anvil City Defences.esp
+Better Cities ANVIL.esp
 Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
 ? Not compatible with Ruined Tail 2.5.
 
 Better Cities - Anvil Bay Expansion.esp
 
-Better Cities CHORROL.esp
 Better Cities - Chorrol City Defences.esp
+Better Cities CHORROL.esp
 BCChorrol-ChorrolHinterland fix.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 
 Better Cities - Knightly Armory.esp
 
-Better Cities CHEYDINHAL.esp
 Better Cities - Cheydinhal City Defences.esp
+Better Cities CHEYDINHAL.esp
 Better Cities - Tears of the Fiend.esp
 
-Better Cities LEYAWIIN.esp
 Better Cities - Leyawiin City Defences.esp
+Better Cities LEYAWIIN.esp
 Better Cities - No LEYAWIIN Flooding.esp
 
-Better Cities BRUMA.esp
 Better Cities - Bruma City Defences.esp
+Better Cities BRUMA.esp
 
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
@@ -8703,7 +8719,7 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 \--------
 \Pre Bash
 \--------
-
+Faction Rank Fix.esp
 Helmet Toggle.esp
 MiniMap.esp
 MUTE.esp

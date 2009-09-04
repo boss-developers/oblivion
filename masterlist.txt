@@ -43,7 +43,7 @@ Natural Interiors.esm
 AWS-Core.esm
 EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
-? Obsolete. Use standalone SI plugin in Enhanced Weather v1.3.5+ instead.
+? Obsolete. Upgrade to the latest version of Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
@@ -529,25 +529,22 @@ Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 
 EnhancedWeather.esp
-EnhancedWeather - SI.esp
-? Obsolete as of EW version 1.3.5. Do not use.
-EnhancedWeather - Enhanced Regions.esp
-? Requires OBSE.
-EnhancedWeather - Enhanced Seasons.esp
-? Requires ScreenEffects.
 EnhancedWeather - Darker Nights, 50.esp
-? Use one 'Darker Nights' plugin not both. Pick which to use.
+? Use only one 'Darker Nights' plugin.
 EnhancedWeather - Darker Nights, 80.esp
-? Use one 'Darker Nights' plugin not both. Pick which to use.
-EnhancedWeatherSIOnly.esp
-? Obsolete. Use standalone SI plugin in Enhanced Weather v1.3.5+ instead.
+? Use only one 'Darker Nights' plugin.
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
+EnhancedWeather - Enhanced Seasons.esp
+? Requires ScreenEffects.
+EnhancedWeather - SI.esp
+? Obsolete. Upgrade to the latest version of Enhanced Weather.
+EnhancedWeatherSIOnly.esp
+? Obsolete. Upgrade to the latest version of Enhanced Weather.
 EW-GTA2 Patch.esp
-? Obsolete as of EW version 1.3.4. Do not use.
+? Obsolete. Upgrade to the latest version of Enhanced Weather.
 
 Enhanced Seasons.esp
-? Requires OBSE and ScreenEffects.
 
 All Natural - Real Lights.esp
 ? Do not use with original Real Lights mod.
@@ -573,6 +570,7 @@ All Natural - EW + NW + AWS.esp
 ? Only use one All Natural weather plugin.
 All Natural - Enhanced Seasons.esp
 ? Requires ScreenEffects.
+? Obsolete. Update to latest version of All Natural.
 All Natural - Debug Ring.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Weather Inside.esp

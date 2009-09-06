@@ -2144,6 +2144,7 @@ Hel Borne Spear Set.esp
 HelmetCollection.esp
 HENTAI's gift.esp
 Hentai Compilation.esp
+Hentai_Compilation.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -4375,6 +4376,8 @@ Extended Imperial City Version 1.0.esp
 Extended Chorrol.esp
 Extended Skingrad.esp
 Extended NPCs Merge.esp
+Abriael_Human.esp
+/shouldn't go here but one version of eyja.esp requires it so :shrug:
 eyja.esp
 
 \Quests F

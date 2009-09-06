@@ -1299,6 +1299,12 @@ OSRCustom.esp
 
 \Base P
 
+personality_idles2.esp
+personality_idles3b_nc.esp
+personality_idles4.esp
+personality_idles4_nopc.esp
+personality_idles_custom.esp
+/before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
@@ -2377,6 +2383,9 @@ Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 Shivering Armor Variety.esp
 SickleIrons.esp
+SilverwareWeapons.esp
+? if using FCOM use Silverware Weapons - FCOM.esp instead
+Silverware Weapons - FCOM.esp
 Sin's Expanded Light Armor Kit [Chest].esp
 ? Not compatible with OOO - armors already included - so deactivate when using OOO.
 % {{BASH:Invent}}
@@ -3756,10 +3765,14 @@ FCOM_HungersUnitySI.esp
 FCOM_Archery.esp
 FCOM_ArcheryArmamentarium.esp
 ? Requires the Armamentarium Complete mod.
+FCOM_Archery_Armamentarium.esp
+FCOM_Archery_Artifacts.esp
 FCOM_ArcheryRealSwords.esp
 ? Requires 'FCOM_Realswords.esp'.
+FCOM_Archery_RealSwords.esp
 FCOM_ArcheryHunting&Crafting.esp
 ? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+FCOM_Archery_MMM_H&C.esp
 Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
@@ -3769,7 +3782,6 @@ FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
 * Delete. Old. Update to FCOM v0.9.9 or later.
-
 
 \Overhaul compatibility
 \''''''''''''''''''''''
@@ -4926,6 +4938,7 @@ Ushnars Skinned Hound.esp
 
 \Quests V
 
+Valenwood Improved.esp
 Valley_View_Estate.esp
 Valus Cottage.esp
 Vampire Tunnel System.esp
@@ -7515,12 +7528,6 @@ Wrye Leveling.esp
 
 Mayu's Animation Overhaul.esp
 
-personality_idles2.esp
-personality_idles3b_nc.esp
-personality_idles4.esp
-personality_idles4_nopc.esp
-personality_idles_custom.esp
-
 Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
 
@@ -8254,6 +8261,8 @@ Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp
 Better Cities BRAVIL - Blood & Mud.esp
 BCBravilB&M-Barrowfields patch.esp
+BCBravilB&MFULL-Barrowfields patch.esp
+BCBravilFULL-Barrowfields patch.esp
 BCBravil-Barrowfields.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
@@ -8661,6 +8670,8 @@ Get Wet - just droplets.esp
 Get Wet - no droplets.esp
 Get Wet.esp
 Get Wet v0.92.esp
+BubbleFx.esp
+? Most likely incompatible with SM
 GW71_Life_Detect.esp
 Alt LifeDetected.esp
 HeatVision.esp

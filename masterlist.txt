@@ -4333,6 +4333,7 @@ DarksullTower1point1.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
+Sutch Reborn Spawn Patch.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
@@ -7573,6 +7574,7 @@ Animation and Poses.esp
 EFGAddPose.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
+PMGSPP2.esp
 OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
@@ -7707,6 +7709,8 @@ Corean_hair_for_Original_race.esp
 _Ren_BeautyPack_onlyhairs.esp
 % {{BASH:Hair}} and deactivate.
 KDshorthair.esp
+% {{BASH:Hair}} and deactivate.
+Saram_Corean_NPC_Hair_1_0.esp
 % {{BASH:Hair}} and deactivate.
 ZelsHairfixRenshairV1_5.esp
 % {{BASH:Hair}} and deactivate.

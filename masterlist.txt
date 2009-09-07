@@ -2076,6 +2076,7 @@ Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
 EpeeHaeliaLatta.esp
+EY_AoD.esp
 
 \Items F
 
@@ -2732,9 +2733,14 @@ New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+UFF AtronachsPrize.esp
+UFF Badmagic Catsuits.esp
 UFF & ROBERT Assassin Elite Armor.esp
 UFF Blood Ice.esp
+UFF & RM Black Exnem Warrior Armor.esp
 UFF & ROBERT Cold Steel.esp
+UFF_CrimsonMidnight.esp
+UFF Mage Skin.esp
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Babarized DunmerScaleMail.esp
@@ -4012,7 +4018,9 @@ Quelldorf ohne Schiff1.5.esp
 
 KvatchAftermath.esp
 FCOM_KvatchAftermath.esp
+County Kvatch version 5.2.esp
 (DC) Kvatch Watch Towers.esp
+
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
@@ -4204,6 +4212,7 @@ BeldaElysium.esp
 
 Benirus Manor Remade.esp
 Benirus' Past.esp
+Better Abandoned House.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
@@ -4228,6 +4237,7 @@ Blitz's Dungeons & Realms - Molag Fel 1.4.esp
 BD&R - Laughing Maw.esp
 BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
+BHC_Expanded.esp
 Bjornheim.esp
 BlackRockManorV11.esp
 
@@ -4746,6 +4756,7 @@ Reaper's Coldstone Town.esp
 ? Incomatible with Hear of the Dead
 Raiders of Cyrodil.esp
 RavenviewVillageVer2.0.esp
+Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
 Region Revive - Lake Rumare.esp
 ? Incompatible with most Weye-related mods.
@@ -5086,6 +5097,9 @@ Thieves Highway.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
+Lynges Thieves Highway - OOO.esp
+? Not Better Cities compatible. Already included with Better Cities IC plugins.
+? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
 
 
 \-----
@@ -5429,7 +5443,7 @@ mythsandlegends.esp
 
 xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6.2 or later.
-Cybiades-Lost Coast patch.esp.
+Cybiades-Lost Coast patch.esp
 ? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
 UL_BOC_LostCoast_1.0.esp
 ? Old version. Update to UL:Lost Coast 1.6.2 or higher.
@@ -6099,6 +6113,7 @@ Kobu's Stamina Mod.esp
 KT_KhajEyeToggle.esp
 KT_Khajiit_Night_Eye_Toggle.esp
 KT_KhajEyeToggleNoEff.esp
+KT_VampSightToggle.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
 
@@ -6444,6 +6459,7 @@ DD_RestrictedCityEntrance.esp
 
 Quest Award Leveling.esp
 Quest Award Leveling SI.esp
+Quest Award Leveling SI - no forged items.esp
 Quest Award Leveling - Finger of the Mountain.esp
 Quest Award Leveller.esp
 Quest Award Leveller - Battlehorn Castle.esp
@@ -8612,6 +8628,7 @@ ThingasTime 1-15 Scale.esp
 Timescale 10x Real-Life.esp
 Time-2hr-realtime.esp
 TF_timemod1-10.esp
+VG0SmarterTimescale.esp
 OblivionRealTimeV11.esp
 Combat Timescale x0.5 v1.0.esp
 Syc_LongerDaysShorterNights.esp
@@ -8763,6 +8780,7 @@ LightSpellLiteBlue.esp
 STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
 LightSpellWhite.esp
+ScriptEffectSubduer.esp
 
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp

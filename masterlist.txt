@@ -1083,6 +1083,7 @@ GrayFoxOutfit.esp
 Grand Potions.esp
 ? May need Wrye Bashed Patch to work with overhaul mods.
 % {{BASH:Delev,Relev}} ??? Untested.
+SwampGrass.esp
 Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
@@ -2484,7 +2485,7 @@ Unenchanted Staves.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
-UU! Female Undies NPC.esp
+UU! Female Undies NPCs.esp
 
 \Items V
 
@@ -4438,6 +4439,7 @@ Gelden_Halls.esp
 Gems and Gem Dust - Cell Placement.esp
 GDSkingradCathedral.esp
 Gift of Kynareth.esp
+Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
@@ -5271,6 +5273,7 @@ TheNecromancer.esp
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
+HoarfrostCastle_delayer.esp
 
 MannimarcoComplete.esp
 MannimarcoRevisited.esp
@@ -7669,7 +7672,7 @@ Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
-EyelashesVannilaRaces.esp
+EyelashesVanillaRaces.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
 EyelashesForVannilaRaces1.0.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
@@ -8825,6 +8828,7 @@ Enhanced Grabbing - Unnecessary Violence Liaison.esp
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
 ? Do not run with ViconiaChapterTwo.esp.
+Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.

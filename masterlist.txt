@@ -8851,6 +8851,7 @@ Cobl Filter Late MERGE ONLY.esp
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 All Natural - Indoor Weather Filter For Mods.esp
+% {{BASH:Filter,C.Climate}}
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 
 \------------

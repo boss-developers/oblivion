@@ -2505,6 +2505,7 @@ Viro's Kung Fu Set.esp
 
 \Items W
 
+WarriorBandages_V2.0.esp
 WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
@@ -6057,6 +6058,7 @@ Gary Gygax's Grave.esp
 Gattsurus Easier Black Soul Gems-TESSource.esp
 Get_Your_Arrows_Back-9403.esp
 ? Consider using Bash Patch tweaks instead, if possible.
+Gemfix-6955.esp
 Give Me My Shader Effects.esp
 GladiatorsVarlorRing.esp
 goblin_war_party.esp
@@ -6134,6 +6136,7 @@ Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
+Lights.esp
 Live at Gweden Farm.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
@@ -6155,6 +6158,7 @@ M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
 more_classes1.1.esp
+GotNoClass.esp
 Way of the Wild.esp
 
 MagicArrows_1.0.esp
@@ -7295,9 +7299,9 @@ Deadly Reflex 5 - Timed Block and 250% damage.esp
 Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Combat Moves.esp
-? See http://fastfreeupload.com/download.php?file=63DRtestfix.zip for a hotfix for CTD issues.
+? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
 DeadlyReflex 5 - Combat Moves.esp
-? See http://fastfreeupload.com/download.php?file=63DRtestfix.zip for a hotfix for CTD issues.
+? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
 SM_DeadlyReflex.esp
 
 Deadly Reflex Bow Sway.esp
@@ -8644,6 +8648,7 @@ TF_timemod1-10.esp
 VG0SmarterTimescale.esp
 OblivionRealTimeV11.esp
 Combat Timescale x0.5 v1.0.esp
+DynamicTimescale.esp
 Syc_LongerDaysShorterNights.esp
 SPAWN.esp
 

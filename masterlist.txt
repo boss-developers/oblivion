@@ -59,6 +59,7 @@ A_Bloody_Mess.esm
 Crafting Skill Engine.esm
 NPC With Jobs.esm
 CLS-ClassyClothes.esm
+CLS-SneakyFeet.esm.
 Tamrielic Ingredients.esm
 ? Do not use Tamrielic Ingredients and COBL at the same time.
 Cobl Main.esm
@@ -7117,6 +7118,8 @@ attack and hide v1.1.esp
 ? Check for newer version.
 attack and hide easier v2.0.esp
 ? Check for newer version.
+attack and hide medium v2.0.esp
+? Check for newer version.
 attack and hide medium v2.1.esp
 UOE-attack and hide medium v2.1.esp
 attack and hide easier v2.1.esp
@@ -8795,6 +8798,7 @@ Visually Enchanted SoulTrap.esp
 Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp
 Visual Enchantments LessFire.esp
+Visual_Enchantments_LessFire.esp
 X-Ray Detect.esp
 WNewShockBoltEffects20.esp
 ZombieSFXReplacerTweaks.esp

@@ -151,6 +151,8 @@ AinmhiRace.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
+Chocolate Elves.esm
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
@@ -4426,6 +4428,7 @@ DUNGEON FortFerrion.esp
 Functional Imperial City Lighthouse.esp
 JK_lighthouse.esp
 
+FuseFruitMachine.esp
 FuseSnailRacing.esp
 ? Needs a patch for Unique Landscapes: Imperial Isle.
 
@@ -4433,6 +4436,7 @@ FuseSnailRacing.esp
 
 Gaelendryl.esp
 Gamblers_of_Cyrodiil.esp
+GB_Oblivion Tournament.esp
 Ghost Ship.esp
 Garrett Mod-TESSource.esp
 GCMansion.esp
@@ -6586,6 +6590,7 @@ _EnhancedFatigue_TLB_v0.1.esp
 Carry all you want.esp
 haz_encumbrance_x1.5.esp
 encumbrance.esp
+encumberancemodx10.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
 More Realistic Encumbrance with Fatigue.esp
@@ -8035,6 +8040,8 @@ Baddy.esp
 Baddy-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
 CM Partner Jordie1.esp
+cm lula wild.esp
+CM Tifa A.esp
 Cog-Rein.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
@@ -8789,6 +8796,7 @@ Visually Realistic Lava.esp
 Visual Enchantments LessFire.esp
 X-Ray Detect.esp
 WNewShockBoltEffects20.esp
+ZombieSFXReplacerTweaks.esp
 New Frost Damage effect NES.esp
 New Frost Damage effect.esp
 PowerAttackEffector.esp

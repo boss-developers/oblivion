@@ -4498,6 +4498,7 @@ Hunter's Haven File 1.esp
 HeartoftheDead.esp
 % {{BASH:Hair}}
 OC-HOD-Patch.esp
+? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
 HOD_delayer.esp
 ? only use without Open Cities
 OC_HOD_delayer.esp

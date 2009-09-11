@@ -317,6 +317,8 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 
 Unofficial Oblivion Patch.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
+Unofficial Oblivion Patch DV.esp
+% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Unofficial Oblivion Patch-mobs.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Unofficial Oblivion Patch-mobs.esp
@@ -530,6 +532,7 @@ Natural_Weather_HDR_2.1.2_coloroverride.esp
 
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
+Ls More Butterflies and Fireflies.esp
 
 EnhancedWeather.esp
 EnhancedWeather - Darker Nights, 50.esp
@@ -626,6 +629,7 @@ Enviroment.esp
 
 300_Combat Sounds.esp
 Better Bell Sounds.esp
+HBM.esp
 Louder Nirnroot Sound.esp
 Louder Nirnroots.esp
 ln.esp
@@ -751,6 +755,7 @@ Rainbows.esp
 \Should load early to allow more 'important' mods to override.
 
 LightsOut.esp
+LightsOut - DV.esp
 10Interior_Light.esp
 5345-0.95-10Interior_Light-TESSource.esp
 Cities Alive At Night.esp
@@ -1395,6 +1400,7 @@ SigilStonesExpanded1.52.esp
 Doomstones Expanded.esp
 
 Skillbookssave.esp
+OBSE Save Skill Books For Later DV.esp 
 Book Jackets Oblivion - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' as this version includes it.
 % {{BASH:Graphics}}
@@ -3965,8 +3971,10 @@ Wearable GS and DS armor for OOO CG.esp
 Wearable GS and DS armor for OOO.esp
 
 EnchantedGems_Geomancy.esp
+% {{BASH:Scripts}}
 ? Similar to OOO and MMM Gems and Gem Dust. May not be compatible with those. Untested.
 TUR_GemDust.esp
+% {{BASH:Scripts}}
 ? Similar to OOO and MMM Gems and Gem Dust. May not be compatible with those. Untested.
 
 AdrenalineOblivion-SupportElements.esp
@@ -6691,6 +6699,7 @@ StarX Vanilla Vampires Revised.esp
 ? There is a patch to solve these problems.
 StarX VVR_OOO Patch.esp
 MJA Vampire Improvements.esp
+New Vampire Feeding Sound.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp
 Vampirismless Vampires.esp
@@ -8208,6 +8217,8 @@ bgBalancingEVOptionalMoreEyes.esp
 bgBalancingEVOptionalNPCDiversity, Beautification.esp
 ? Use only one 'OptionalNPCDiversity' file.
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp
+? Replace with 'bgBalancingEVOptionalNPCDiversity, Vanilla.esp'
+bgBalancingEVOptionalNPCDiversity, Vanilla.esp
 ? Use only one 'OptionalNPCDiversity' file.
 bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
 ? Use only one 'OptionalNPCDiversity' file.

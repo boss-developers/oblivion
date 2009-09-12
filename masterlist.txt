@@ -108,6 +108,7 @@ Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 bookplacing.esm
 BathingMod_Base.esm
+BP EDIT.esm
 No Lights Flicker.esm
 Ambidextrie.esm
 AFC v2 Core.esm
@@ -149,6 +150,7 @@ Lineage II Elves.esm
 Eluna.esm
 300_Races.esm
 AinmhiRace.esm
+IceElfRace.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
@@ -1400,7 +1402,8 @@ SigilStonesExpanded1.52.esp
 Doomstones Expanded.esp
 
 Skillbookssave.esp
-OBSE Save Skill Books For Later DV.esp 
+OBSE Save Skill Books For Later DV.esp
+DBBAM.esp
 Book Jackets Oblivion - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' as this version includes it.
 % {{BASH:Graphics}}
@@ -2221,6 +2224,7 @@ Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
+Lich King's Armor v1_0.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
 LootableLichHelm_Lt.esp
@@ -4814,6 +4818,7 @@ Seawatch Abode.esp
 Secret Hideout.esp
 Septim Mansion.esp
 Servant of the Dawn.esp
+Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
 Shads Shack.esp
@@ -6307,6 +6312,7 @@ SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
+Sexlivion_0.4a_Full_English_v1.esp
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
@@ -7608,13 +7614,17 @@ ActorsInEmotions.esp
 Animation and Poses.esp
 77_Umpa_Animation.esp
 EFGAddPose.esp
+CT_prendre_pose.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
+Pose de Lain v1.4.esp
+poses_de_jojo.esp
 PMGSPP2.esp
 OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
 Stylish Jump.esp
+Slof's Sexy Anims.esp
 
 \Semi-final overrides
 \''''''''''''''''''''

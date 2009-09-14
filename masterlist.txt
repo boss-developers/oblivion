@@ -6238,6 +6238,11 @@ OBF Enchant Fix.esp
 OBF Magic Penalty Fix.esp
 OBF Shop Fix.esp
 
+Oblivifall - Closing Time.esp
+Oblivifall - Let's Talk!.esp
+Oblivifall - New Classes.esp
+Oblivifall - Something's Not Right.esp
+
 \overrides P
 
 P1DkeyChain.esp
@@ -8188,6 +8193,9 @@ bgBalancingNoSIVersion_Core_still_required.esp
 \Inserted here for RBP compatibility
 \Expect SM to be moved here for people who want SM to 'win' over LAME.
 
+bgMagicDV.esp
+% {{BASH:Names}}
+? German version
 bgMagicEV.esp
 % {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
@@ -8823,7 +8831,7 @@ Visually Enchanted Shock.esp
 % {{BASH:Graphics}} and deactivate.
 Visually Enchanted SoulTrap 1.esp
 % {{BASH:Graphics}} and deactivate.
-Visually Enchanted Soul
+Visually Enchanted SoulTrap.esp
 % {{BASH:Graphics}} and deactivate.
 Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp

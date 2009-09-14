@@ -59,7 +59,6 @@ A_Bloody_Mess.esm
 Crafting Skill Engine.esm
 NPC With Jobs.esm
 CLS-ClassyClothes.esm
-CLS-SneakyFeet.esm.
 Tamrielic Ingredients.esm
 ? Do not use Tamrielic Ingredients and COBL at the same time.
 Cobl Main.esm
@@ -163,6 +162,7 @@ CustomSpellIcons.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 PMSneakySummons.esm
+CLS-SneakyFeet.esm
 UnnecessaryViolence.esm
 UndiesUnderneath.esm
 StarX Vampire Deaths.esm
@@ -2931,6 +2931,7 @@ Armamentium female.esp
 % {{BASH:NoMerge}}
 Robert Blackluster.esp
 Robert Adelina.esp
+Robert SinfulMage.esp
 Exnem Elven Warrior.esp
 Morrowind Robes and Dresses for HGEC.esp
 
@@ -4612,6 +4613,7 @@ Lair_of_the_Hydra-4490.esp
 \Quests L
 
 Land of Hyrule.esp
+LakeHouseV1.1.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
 Lakeview2.esp
@@ -5822,7 +5824,7 @@ RealisticFlora-DLCFrostcrag.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora - DLCFrostcrag.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
-RealisticFlora-DLCVilelair.esp.
+RealisticFlora-DLCVilelair.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora - DLCVileLair.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
@@ -7605,6 +7607,9 @@ CTAddPose_osr1.esp
 CTAddPose_osr2.esp
 CTAddPose_osr3.esp
 CTAddPose_fujosi_eng.esp
+CTAddPose_Le01.esp
+CTAddPose_Le02.esp
+
 
 LainPose.esp
 LainPoseMOD.esp
@@ -7630,6 +7635,7 @@ PMGSPP2.esp
 OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
+SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 

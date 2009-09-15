@@ -5271,6 +5271,7 @@ OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 
 The Lost Spires.esp
+OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 
 AFK_Weye.esp
@@ -5735,8 +5736,6 @@ OC+Bravil Docks Patch.esp
 ? Note - Be sure this is being used on Bravil Docks by Greg Simmonds.
 OCC-ABE-LC-Land Patch.esp
 ? Obsolete. Now part of OCC v3.0+. Update and delete.
-OCC-Lost Spires-Patch.esp
-? Requires The Lost Spires.
 OCC-ABE-Patch.esp
 ? Obsolete. Now part of OCC v3.0+. Update and delete.
 OCC-Roads-Patch.esp

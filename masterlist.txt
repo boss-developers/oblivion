@@ -5385,6 +5385,8 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 Colored Map for Elsweyr 1.1.esp
 
+Improved Imperial Infrastructure.esp
+
 road+bridges.esp
 NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
@@ -5748,11 +5750,17 @@ NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
 OC+Cheydinhal Falls Patch.esp
+III-LeyawiinRebornPatch.esp
 
 \----------------------
 \Quests and Locations 5
 \----------------------
 
+III-MountainShackPatch.esp
+III-RoadBridgesPatch.esp
+III-WhiteStallionPatch.esp
+
+III-BravilBarrowfieldsPatch.esp
 BarrowFields-Blood&Mud-Patch.esp
 ? Do not use this with Better Cities or Open Better Cities.
 

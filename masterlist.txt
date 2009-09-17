@@ -38,6 +38,7 @@ Q-Core.esm
 Inventory Tracker.esm
 You Are Here.esm
 Uncommon GUI.esm
+Skingrad24Vars.esm
 IWRRetrofittedMaster.esm
 Natural Interiors.esm
 AWS-Core.esm
@@ -539,6 +540,8 @@ Natural_Weather_HDR_2.1.2_coloroverride.esp
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 Ls More Butterflies and Fireflies.esp
+
+Enhanced Night Sky.esp
 
 EnhancedWeather.esp
 EnhancedWeather - Darker Nights, 50.esp
@@ -1293,6 +1296,7 @@ New Potions by Tealpanda.esp
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
+NoSunRobe.esp
 Nosvertu's Wearable Daemer Wings.esp
 NPCs Eat More.esp
 
@@ -1891,6 +1895,7 @@ ArmamentariumStaffs.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
 ARTICA RAZOR ICMS by_venom91.esp
+ArtifactsFemaleArmor.esp
 Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
 
@@ -1975,6 +1980,7 @@ CET_DwemerPrecisionBow_v2.esp
 Classic Books.esp
 Classic-Wizard-Robes-UL.esp
 Classic-Wizard-Robes-U.esp
+ClearGlassArmorSet.esp
 ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
@@ -2066,6 +2072,7 @@ Dragon Knight Armor v. 1.1.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
+Nico's Dreadweave Bow and Arrows.esp
 dwr.esp
 % {{BASH:Invent}}
 DunmerScaleMail.esp
@@ -2222,6 +2229,7 @@ kibuka-light.esp
 KIVampires_HoodAddon.esp
 kikaibookbelts.esp
 Kill_Bill_Katanas.esp
+Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
 
@@ -2292,6 +2300,7 @@ MC_Staff_Pack_NoLL.esp
 \Items N
 
 Nature's_bounty.esp
+Necessary Violence.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -2360,6 +2369,7 @@ Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
 SLPD_Ponytail.esp
+PythonHolyhg.esp
 
 \Items Q
 \Items R
@@ -2387,6 +2397,7 @@ RustyItems.esp
 RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp
+RingwraithArmorDaedric.esp
 
 \Items S
 
@@ -2396,6 +2407,7 @@ Saint Hiryu's Artifacts.esp
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
+scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
@@ -2423,10 +2435,12 @@ Sin's Expanded Light Armor Kit [Chest].esp
 Sin's Expanded Light Armor Kit [NPC].esp
 ? Not compatible with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
+Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
 Slof's & Orc's Armours.esp
 Slof's Boners!.esp
+Slof's Boners! v5.esp
 Slof's Bracelet Collection.esp
 Slof's Bracelets & Rings.esp
 Slof's Claws.esp
@@ -4127,6 +4141,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 300_White Stallion 4.esp
 ? Use Feudal Empire ('Feudal Empire 300.esp') instead.
 300_White Stallion 4 - OOO.esp
+300 White Stallion 4 - OOO.esp
 DLCHorseArmor_300WhiteStallion.esp
 
 301_Compass.esp
@@ -4362,6 +4377,8 @@ Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
+? Upgrade to latest version.
+Dark Brotherhood Outpost v3.esp
 DBSRebuiltComplete.esp
 DarkLair.esp
 DarksullTower1point1.esp
@@ -4536,6 +4553,7 @@ OC_HOD_delayer.esp
 
 \Quests I
 
+IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
@@ -4706,6 +4724,7 @@ OCC-Malevolent-Patch.esp
 
 ME_DAEDRIC_RECON.esp
 meg - Crow's Nest Cottage v1.esp
+M_M_TreeHouse.esp
 Mod - IC Armory.esp
 MolagBalTreasury.esp
 More Skingrad.esp
@@ -4905,6 +4924,7 @@ tchos' breakfast food.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+Templar Fighters Guild.esp
 CHEAT - TempleofNirn.esp
 TempleOfZealots.esp
 ? Check out version 2.
@@ -4953,6 +4973,7 @@ thievery.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
+Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
@@ -5878,6 +5899,7 @@ Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
 Archmage_Enchanted_Chest_OBSE.esp
 Archnamage's Chest For SI.esp
+ArgonianSwiftSwim - Leopard.esp
 Argonians and Khajiit Lose Tails no More Script.esp
 Argonians and Khajiit Lose Tails no More.esp
 Armor-Long -TESSource.esp
@@ -6159,6 +6181,7 @@ In_Game_Map.esp
 
 \overrides J
 
+Jarol's NPC Leveled Equipment.esp
 Jerall-Pass.esp
 ? German mod.
 JQ-Backpacks.esp
@@ -6288,10 +6311,12 @@ Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
 Potions Recolored.esp
 JQ-PotionReplacer.esp
+Player's Diary.esp
 
 \overrides Q
 
 Quest Item Tag Remover.esp
+QuestItemMessage.esp
 
 \overrides R
 
@@ -6306,6 +6331,8 @@ Realistic Creature Rarity.esp
 RareItemsv1.18 for RCR.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RemoveTrainerBounds.esp
+ReneerNPCNameMod.esp
+ReneerAutoTorchMod.esp
 RenCorpseMod.esp
 ReneersGoldMod.esp
 ? Use only one gold in your inventory type mod.
@@ -6758,6 +6785,11 @@ NoVampirismComments.esp
 LessFrequentVampirismComments.esp
 Vampire Hunters Tools.esp
 CDM - Vampirism.esp
+Hunter's Sight Toggle.esp
+Hothead's Vampires.esp
+vampireclan.esp
+sr_vamp_tweaks.esp
+SplitVampireSight.esp
 
 PxNewVampires_NoNPC.esp
 PxNPC_Reactions.esp
@@ -7018,6 +7050,7 @@ Pestilent Afflictions1.5-DV.esp
 Deadly Diseases.esp
 Vector.esp
 
+sr_casting_hand.esp
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
 Spells No Lighting.esp
@@ -7186,6 +7219,7 @@ attack and hide harder v2.1.esp
 UOE-attack and hide harder v2.1.esp
 Resist Arrest Increases Bounty.esp
 StealthOverhaul.esp
+Stealth Overhaul.esp
 Deadlier Sneaking 1.1.esp
 Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp
@@ -7325,6 +7359,7 @@ erics_double_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
 Fiery Fists v1.2.esp
 WB Dynamic Weapon Speeds.esp
+Marksman and Blade Realism.esp
 Marksman Velocity.esp
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
@@ -7363,6 +7398,8 @@ Deadly Reflex 5 - Timed Block.esp
 Deadly Reflex 5 - Timed block and 150% damage.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed Block and 250% damage.esp
+? Use no more than one Timed Block ESP.
+Deadly Reflex 5 - Timed Block and 2.5x damage.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block ESP.
@@ -7483,6 +7520,7 @@ RetroHealth.esp
 MagicBasedSkillProgression.esp
 SD Skill Diary.esp
 
+Governing Attributes.esp
 Governing Attributes Overhaul.esp
 
 IDFQR.esp
@@ -7534,6 +7572,7 @@ ProgressRBSP.esp
 ProgressRacial.esp
 ProgressArmorer.esp
 ProgressMercantile.esp
+Progress - RacialAdvancement.esp
 
 PureImmersion.esp
 piHealth5x.esp
@@ -7560,6 +7599,9 @@ Oblivion XP - The Lost Spires.esp
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
 
+DMRequirements.esp
+
+TML_TrainingUncap.esp
 Uncapped Blivvy UHM.esp
 Uncapped Blivvy UH.esp
 Uncapped Blivvy UM.esp
@@ -7844,6 +7886,8 @@ Cosmetic Compilation - No NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+Capucine'sEyeSelection+NewHair.esp
+% {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackHairsOnly.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE.esp
@@ -8147,6 +8191,8 @@ Ramy Enfant.esp
 % {{BASH:Hair,Eyes}}
 Rhianna.esp
 % {{BASH:Hair,Eyes}}
+RhiannaII.esp
+% {{BASH:Hair,Eyes}}
 Rinn.esp
 % {{BASH:Hair,Eyes}}
 Saerileth.esp
@@ -8154,12 +8200,14 @@ Saerileth.esp
 sexycompanion.esp
 % {{BASH:Hair,Eyes}}
 Shivering Creature Companion.esp
+Sher Ja Lion Companion.esp
 SnowAndHarukoCMPartners.esp
 % {{BASH:Hair,Eyes}}
 Sonia.esp
 % {{BASH:Hair,Eyes}}
 Tamara.esp
 % {{BASH:Hair,Eyes}}
+Tiamat the Firedrake.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 
@@ -8765,6 +8813,7 @@ GFX_Initial_Glow-all.esp
 [GFX]_Initial_Glow-creatures.esp
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
+kuerteeEffectDrainShaderInitialGlowOnly.esp
 
 Chameleon-NoRefraction.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -8882,6 +8931,7 @@ Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp
 Visual Enchantments LessFire.esp
 Visual_Enchantments_LessFire.esp
+Visually Enchanted Paralyze Complete by Agesofb.esp
 X-Ray Detect.esp
 WNewShockBoltEffects20.esp
 ZombieSFXReplacerTweaks.esp

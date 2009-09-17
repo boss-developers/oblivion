@@ -270,6 +270,9 @@ Colourwheels Sexy Female NPCs.esp
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
 
+Permanent Effects from Quest Items fix.esp
+Permanent Effects from Quest Items fix Merge.esp
+
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
 Black Screen Fix.esp
@@ -1247,6 +1250,8 @@ More_Animals.esp
 More Drinks.esp
 ? Probably not OOO compatible. Untested.
 more broadsheets.esp
+more_broadsheets.esp
+More Female Servants.esp
 More_Vegetables.esp
 Morrowind Ingredients.esp
 movingpaintings.esp
@@ -2333,6 +2338,7 @@ Obclothing.esp
 
 PAF_armor_additions.esp
 paintings.esp
+Pek_Painting_Exchanger.esp
 pale_rider's Armor of Dragon's Nightmare.esp
 ? Changes some cell names to German either load an overhaul after (or another mod that changes the testing hall & the best defence)
 ? or manually change the names back to English, or live with it.
@@ -3106,6 +3112,7 @@ Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
 MD Saddlebags V3.0.esp
+MD_Saddlebag_Accessories.esp
 Call Steed 2.5+Saddlebags 0.91.esp
 CallSteed3.0a.esp
 Calm_Shadowmere.esp
@@ -4043,6 +4050,7 @@ Quelldorf ohne Schiff1.5.esp
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
 ? Requires 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 
+AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
 FCOM_KvatchAftermath.esp
 County Kvatch version 5.2.esp
@@ -4802,6 +4810,7 @@ Philips_Prison_Mod-7330.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
 RomancingAhnassi.esp
+Romuska Fantasy Store.esp
 Rosethorn Hall Necrmancy Study.esp
 Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
@@ -5843,6 +5852,7 @@ RealisticFlora-DLCVilelair.esp
 RealisticFlora - DLCVileLair.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 WD's Auto Harvest.esp
+DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
 
 \overrides #
@@ -6181,6 +6191,7 @@ Live at Gweden Farm.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
+LG's Unique Enemies.esp
 
 \overrides M
 
@@ -6206,6 +6217,7 @@ MassA.I-30.esp
 MassA.I-40.esp
 MassA.I-50.esp
 Masters Alive.esp
+master_essentials.esp
 Madhs working training dolls.esp
 marcQuickChar.esp
 MarkerExplore.esp
@@ -6447,6 +6459,7 @@ vn_goldweight.esp
 
 Wayshrines Improved.esp
 wd purse of wonders.esp
+Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp
 WolfPacks.esp
 WolfPacksOscuroAddOn.esp
@@ -7014,6 +7027,7 @@ ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
 
+Soulcraft.esp
 SorcerysToll.esp
 sr_spell_deletion.esp
 Spellbooks.esp
@@ -7079,6 +7093,7 @@ Alchemy Expansions - Poison Combiner.esp
 Alchemy Expansions - Poison Maker.esp
 Alchemical Formulas.esp
 BoneGrind.esp
+GrindBones_SI.esp
 ZBoneGrinder.esp
 CLS-AlchemyTools.esp
 CLS_AHA_AlchemyTools.esp
@@ -7169,6 +7184,7 @@ attack and hide easier v2.1.esp
 UOE-attack and hide easier v2.1.esp
 attack and hide harder v2.1.esp
 UOE-attack and hide harder v2.1.esp
+Resist Arrest Increases Bounty.esp
 StealthOverhaul.esp
 Deadlier Sneaking 1.1.esp
 Stealth Entrances v1.esp
@@ -8798,6 +8814,7 @@ Better Lava (by elveon).esp
 MotionBlur.esp
 ? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
 New_NightEye_Toggle.esp
+_auto_night-eye.esp
 QTdof.esp
 omg-dynamicDoF.esp
 omg-staticDoF.esp 

@@ -1066,6 +1066,7 @@ Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
+Doomstones.esp
 DragonStatuesv1.esp
 DS Mage's Belt.esp
 DS Storage Sacks.esp
@@ -1075,6 +1076,7 @@ DZ_Hide_Grass.esp
 \Base E
 
 EasySpellRemovalv1.esp
+Effect Shader Warehouse.esp
 Elder Scrolls Book Club - Oblivion.esp
 Elys - Yuda The Elder Trainer.esp
 Elytramount.esp
@@ -1092,6 +1094,7 @@ Fatality Cam.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
 Fish!.esp
 Fish! - v1.1.esp
+fwDropGold.esp
 
 \Base G
 
@@ -1298,6 +1301,7 @@ No Respawning Containers.esp
 NoGuildmasterKick.esp
 NoSunRobe.esp
 Nosvertu's Wearable Daemer Wings.esp
+Not a Bedroll.esp
 NPCs Eat More.esp
 
 NWJtamriel.esp
@@ -1321,6 +1325,7 @@ OSRCustom.esp
 
 \Base P
 
+Packhorses v1.esp
 personality_idles2.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
@@ -1377,6 +1382,7 @@ Realistic Physics.esp
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
+RemanRune.esp
 RendricNPC(0.21).esp
 ReneerCreatureMod.esp
 ReneersNotesMod.esp
@@ -1911,6 +1917,7 @@ Bamboo Armor.esp
 Banes Guilds United.esp
 ? May have trouble with OOO. Untested.
 BarbarianShop.esp
+Bar Maid.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
@@ -1925,7 +1932,7 @@ BlackGlovesRus.esp
 % {{BASH:Invent}}
 ? Only Use one BlackGlovesX.esp, this one does NPC changes
 ? Only Use this for Russion version.
-Blackhand Courtesan
+Blackhand Courtesan.esp
 Blackheart and Gizmodian ECRobes.esp
 BlackSoulGemArmory.esp
 Bloodmail 2.1.esp
@@ -2117,6 +2124,7 @@ Fantasy Mod.esp
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
 femaleorderrobe.esp
+FemaleArmorPack1.esp
 FineWeapons.esp
 % {{BASH:Graphics,NoMerge}}
 FinGleamRing.esp
@@ -2300,6 +2308,7 @@ MC_Staff_Pack_NoLL.esp
 \Items N
 
 Nature's_bounty.esp
+Natures_Arsenal.esp
 Necessary Violence.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 Nicoroshi Creations DW Light.esp
@@ -2424,6 +2433,7 @@ Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 Shivering Armor Variety.esp
+SCHIFFWHITEMAGEROBE.esp
 SickleIrons.esp
 SickleIrons_RT.esp
 SilverwareWeapons.esp
@@ -2785,6 +2795,7 @@ UFF & RM Black Exnem Warrior Armor.esp
 UFF & ROBERT Cold Steel.esp
 UFF_CrimsonMidnight.esp
 UFF Mage Skin.esp
+UFF Warrior Skin.esp
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Babarized DunmerScaleMail.esp
@@ -2960,7 +2971,7 @@ Robert Adelina.esp
 Robert SinfulMage.esp
 Exnem Elven Warrior.esp
 Morrowind Robes and Dresses for HGEC.esp
-
+0FDemonSet.esp
 Imperial Armor Replace.esp
 % {{BASH:Graphics}}
 Daedric Lord Armor.esp
@@ -3161,6 +3172,7 @@ Rund ums Pferd.esp
 ? German mod.
 Rund ums Streitross.esp
 ? German mod.
+CavalryCustomization.esp
 
 
 \------------
@@ -4170,6 +4182,7 @@ Adventures Gear.esp
 AkaviriKojima.esp
 AlchemistsCave-COBL.esp
 allinonebasement.esp
+Alexandria.esp
 AleswellMerchant Cobl.esp
 Aleswell House.esp
 AyleidMarket.esp
@@ -4259,7 +4272,7 @@ Battle4Morrowind.esp
 bazOOkasWatchTowers_v1.esp
 Beginners_Dungeon.esp
 BeldaElysium.esp
-
+1209-Beneath The Wall-TESSource.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
 Better Abandoned House.esp
@@ -4961,7 +4974,7 @@ TEC-OC_or_OBC_patch.esp
 
 GuardsofCyrodiil.esp
 GoC&RRLR_comp.esp
-
+(DC) The Pride of Wolfs Gate.esp
 TheForgottenShields.esp
 TheForgottenShields_delayer.esp
 TheMistRetreat1.3_Optimized.esp
@@ -5096,6 +5109,7 @@ zDangerSense.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
 Zera LeSaar's Frostrift Cavern.esp
+Zera LeSaar's Tamrielic Luxuries.esp
 
 \Quests Arena
 
@@ -5888,6 +5902,7 @@ LCs Auto Harvest.esp
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
+Actual Oblivion Crisis.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
 ANB_WeaponAddons_Enhanced.esp
@@ -5989,8 +6004,11 @@ Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cliff's Shacks Basements-Radiant AI.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
+CloudRulerTrainingRoom.esp
 Cobl Hmm.esp
 Cobl Bookplacement.esp
+Colourwheels Sexy Imperial Legion.esp
+Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 Compass-Disable_POIs.esp
 Compass-Disable_QuestMarkers.esp
@@ -6260,6 +6278,8 @@ MYR_AyleidKing.esp
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
+Near100PercentArrowRecovery.esp
+? Consider using Bash Patch tweaks instead.
 NewMerchantItems.esp
 New_Magical_Staves.esp
 NirnrootPermPotions.esp
@@ -6288,11 +6308,11 @@ OBF Trap Fix.esp
 OBF Enchant Fix.esp
 OBF Magic Penalty Fix.esp
 OBF Shop Fix.esp
-
 Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
+Orrery_Rewards.esp
 
 \overrides P
 
@@ -6385,7 +6405,8 @@ Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
-
+Sexual_Spriggan.esp
+Sexual_Minotaur.esp
 Enhanced Vegetation [100%].esp
 ? Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [110%].esp
@@ -6452,7 +6473,7 @@ Talk with Your Hands2.esp
 talkwithyourhands2.esp
 talkwithyourhands PI4.esp
 TameWildlife.esp
-
+Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
 
@@ -6490,6 +6511,7 @@ Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp
 WolfPacks.esp
 WolfPacksOscuroAddOn.esp
+Werewolf-Legends.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
 kuerteeAlternativesToDeathAndReload.esp
@@ -6729,6 +6751,7 @@ RealisticForceAndMagicForceMedium.esp
 Power Exhaustion.esp
 
 Ronyns_Realistic_and_Fun_Acrobatics-8494.esp
+Ronyns_Realistic_and_Fun_Acrobatics.esp
 Ronyns_Realistic_and_Fun_Acrobatics-8494(2).esp
 Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
@@ -6790,7 +6813,7 @@ Hothead's Vampires.esp
 vampireclan.esp
 sr_vamp_tweaks.esp
 SplitVampireSight.esp
-
+Vampire Ashes.esp
 PxNewVampires_NoNPC.esp
 PxNPC_Reactions.esp
 PxVampireAge0.esp
@@ -6838,6 +6861,7 @@ MagLite - Alchemy.esp
 \General Spells
 
 Acidon_EnchantmentFixes.esp
+AddSpells.esp
 Advanced Magic.esp
 Advanced Mark & Recall.esp
 Alter Weight Spells.esp
@@ -6846,6 +6870,7 @@ Arcane Calendar.esp
 Ayleid Expansion.esp
 ? Suspected of messing up your magicka multiplier.
 AyleidWeaponEnchantments_balance.esp
+Banishment Works.esp
 BasicInstinct.esp
 Better Scrolls.esp
 CDM-BoneCraft Skill.esp
@@ -6955,7 +6980,7 @@ Scavenger Scamp.esp
 xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
 % {{BASH:Sound}}
-
+kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
 
@@ -7340,6 +7365,10 @@ Push_Shove_Die.esp
 Kythrius_Mod.esp
 Kythrius_Mod_OBSE.esp
 
+AR's Hand to Hand - 27.esp
+AR's Hand to Hand - 30.esp
+AR's Hand to Hand - 34.esp
+cancelattack.esp
 Denock Arrows.esp
 Combat Behavior 2.11b.esp
 Duke Patricks Basic Denock Arrows.esp
@@ -8001,7 +8030,8 @@ X.Moon.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Soqui Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-
+Half Devil.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
@@ -8024,7 +8054,10 @@ Raven Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 AsharasSirensAndTritons.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-
+Ahtata_Khabaxi.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+ahtata dremora.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 \Merges and combinations
 \'''''''''''''''''''''''
@@ -8413,7 +8446,7 @@ DBWBMR.esp
 /seems like a funny spot but since Willful Resistance is here and works for me I'll presume it works fine here (PM)
 ArgonianFeets.esp
 % {{BASH:Invent}}
-
+ScriptedArgonianFeet.esp
 KT_CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 CustomRaceFix.esp
@@ -8813,8 +8846,8 @@ GFX_Initial_Glow-all.esp
 [GFX]_Initial_Glow-creatures.esp
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
+AlterFX.esp
 kuerteeEffectDrainShaderInitialGlowOnly.esp
-
 Chameleon-NoRefraction.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Chameleon-NoRefraction-2411.esp
@@ -8945,7 +8978,7 @@ STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
 LightSpellWhite.esp
 ScriptEffectSubduer.esp
-
+SnArrowEffects.esp
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp
 
@@ -9052,6 +9085,7 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 Slof's Manly Stride.esp
 SWalk.esp
 bgScriptEffectSilencer.esp
+NoScriptHitVisual.esp
 
 \Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''

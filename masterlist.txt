@@ -1435,6 +1435,11 @@ Soul Gem Discharger.esp
 Spell Delete.esp
 Spell Delete And Item Remove.esp
 SPARTANVIsDiverseCityGuards05BETA.esp
+? Old, upgrade to SPARTAN VIs Diverse City Guards v1 2.esp.
+SPARTAN VIs Diverse City Guards v1 2.esp
+% {{BASH:Invent}}
+Guard Torches.esp
+% {{BASH:Invent}}
 sS-PotionVendors.esp
 Soup01b.esp
 MW_booze.esp
@@ -3353,6 +3358,8 @@ FCOM_WarCry.esp
 FCOM_WarCryNoSpawn.esp
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 
+G_'s-Loot-Mod_v2.5[Scaled Version].esp
+G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 
 \OOO full and lite.
 \''''''''''''''''''
@@ -3758,6 +3765,7 @@ Spiders Addon.esp
 Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
+Creature Diversity.esp
 
 WCGL - Wilderness Creatures 1.1.esp
 ? Incompatible with OOO, MMM and Francescos.
@@ -5551,6 +5559,8 @@ Castle_Almgard-V2.esp
 anvil bay+ul tweak.esp
 BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
+? Old use Sutch reborn Lighthouse Fix UL.esp instead.
+Sutch reborn Lighthouse Fix UL.esp
 SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp
@@ -7716,7 +7726,7 @@ CTAddPose_osr3.esp
 CTAddPose_fujosi_eng.esp
 CTAddPose_Le01.esp
 CTAddPose_Le02.esp
-
+CTAddPose_OTPair.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -9036,6 +9046,7 @@ Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.
+UnderdarkMap.esp
 
 Open Cities Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.

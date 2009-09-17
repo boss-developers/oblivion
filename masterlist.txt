@@ -1536,6 +1536,8 @@ Cutthroat Merchants.esp
 Cyrodiil Economic Overhaul.esp
 
 GoldAdjustment.esp
+? Upgrade to Enhanced Economy.
+Enhanced Economy.esp
 
 JOJOeffect.esp
 StandingJOJO.esp
@@ -1991,6 +1993,7 @@ ClearGlassArmorSet.esp
 ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
+Christian's Claymore.esp
 Change Undies Everyday.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
@@ -2053,6 +2056,8 @@ Dark Crusader Armor.esp
 % {{BASH:Invent}}
 Dark Dragon Armor.esp
 darkdwemerXZAR.esp
+Dragonbone Cuirass.esp
+DaedricCrescentBlade.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
@@ -4406,7 +4411,7 @@ Demonhunter.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
-
+DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
 Diverse Guards.esp
 
@@ -6112,6 +6117,7 @@ Exterior Actors Have Torches 1.3 CT.esp
 Exterior Actors Have Torches 1.3 DT.esp
 Actors Have Torches.esp
 Dungeon&ExteriorActorsHaveTorchesCT.esp
+ActorsHaveTorches.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Everlasting Corpses v 1.0.esp
@@ -8432,6 +8438,7 @@ OC+Integration Patch.esp
 
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
+Birthsigns Revamped.esp
 sr_race_balance_tweaks.esp
 Trap.esp
 Cobl Races - Balanced.esp

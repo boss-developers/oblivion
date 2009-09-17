@@ -150,6 +150,7 @@ Eluna.esm
 300_Races.esm
 AinmhiRace.esm
 IceElfRace.esm
+Lattamerv3.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
@@ -2406,6 +2407,7 @@ Shdw_Weapon Set_Thorgeir.esp
 Shields Of Antiquity.esp
 Shivering Armor Variety.esp
 SickleIrons.esp
+SickleIrons_RT.esp
 SilverwareWeapons.esp
 ? if using FCOM use Silverware Weapons - FCOM.esp instead
 Silverware Weapons - FCOM.esp
@@ -7753,6 +7755,8 @@ Smaller Elf ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Jjiinx_Long Ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+Head06 Replacer.esp
+% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 
 
 \Hair
@@ -8055,6 +8059,7 @@ CM Partners Beasts.esp
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
 Companion Postal Service.esp
+CreeperJones.esp
 AW_Partners_MarkReturnTweak.esp
 CompanionshipRing.esp
 DS Companion Wardrobe Manager.esp
@@ -8206,6 +8211,7 @@ bgBalancingDVCore.esp
 ? bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
+bgBalancingEVNoSIVersion_Core_still_required.esp
 
 
 \L.A.M.E.
@@ -8307,6 +8313,7 @@ bgBalancingEVOptionalNPCDiversityLAME.esp
 
 bgBalancingEVLAMEIntegration.esp
 
+bgHighElfSeamReducerFixEV.esp
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
@@ -8329,7 +8336,7 @@ OC+Integration Patch.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 sr_race_balance_tweaks.esp
-Trap
+Trap.esp
 Cobl Races - Balanced.esp
 % {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
 Diverse Races.esp
@@ -8361,6 +8368,7 @@ Better Cities Full - B&M Edition.esp
 
 Better Cities - Skingrad City Defences.esp
 Better Cities SKINGRAD.esp
+BC Skingrad Reduced - EV.esp
 
 Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp
@@ -8976,6 +8984,7 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 
 Slof's Manly Stride.esp
 SWalk.esp
+bgScriptEffectSilencer.esp
 
 \Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''

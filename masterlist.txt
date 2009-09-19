@@ -2743,6 +2743,8 @@ Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
 Mage Equipment - No Manni.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
+Francesco's Mage Equipment.esp
+? Use either this or Mage Equipment, but not both. Requires Franseco's leveled creatures/items mod.
 
 \To be alphabetically sorted sometime.
 
@@ -5560,7 +5562,7 @@ Castle_Almgard-V2.esp
 anvil bay+ul tweak.esp
 BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
-? Old use Sutch reborn Lighthouse Fix UL.esp instead.
+? Also use Sutch reborn Lighthouse Fix UL.esp.
 Sutch reborn Lighthouse Fix UL.esp
 SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
@@ -6479,6 +6481,7 @@ Storms & Sound Patches.esp
 ShippingInCyrodiil-08.esp
 SkoomaTest.esp
 
+StackableEquipment.esp 
 StarX Vampire Deaths.esp
 
 \overrides T
@@ -7081,6 +7084,33 @@ Midas Betterholy.esp
 Midas SMHolyHeal.esp
 Midas SMPoison.esp
 FrostcragMidasLab.esp
+
+Midas PowDur1.5x.esp
+? Use only one PowDur modifier at a time. Load after midasspells.esp
+Midas PowDur2x.esp
+? Use only one PowDur modifier at a time. Load after midasspells.esp
+Midas PowDur3x.esp
+? Use only one PowDur modifier at a time. Load after midasspells.esp
+Midas PowDur4x.esp
+? Use only one PowDur modifier at a time. Load after midasspells.esp
+Midas Eldrich Power 2x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Eldrich Power 2.5x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Eldrich Power 3x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Eldrich Power 4x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Eldrich Power 6x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Tigernolevel NoOBSE.esp
+? Pick either the OBSE version or this one. But not both.
+Midas Tigernolevel OBSE.esp
+? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
+Midas BeastFortify Fix NONOBSE.esp
+? Pick either the OBSE version or this one. But not both. 
+Midas BeastFortify Fix OBSE.esp
+? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
 
 \Spells Late
 
@@ -7728,6 +7758,7 @@ CTAddPose_fujosi_eng.esp
 CTAddPose_Le01.esp
 CTAddPose_Le02.esp
 CTAddPose_OTPair.esp
+CTAddPose_ bondage_sex.esp
 
 LainPose.esp
 LainPoseMOD.esp

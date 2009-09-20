@@ -677,6 +677,7 @@ PCSoundCalisto.esp
 PCSoundCernd.esp
 PCSoundEdwin.esp
 PCSoundGarrett.esp
+PCSoundGorax.esp
 PCSoundHaerDalis.esp
 PCSoundImoen.esp
 PCSoundIndarion.esp
@@ -945,6 +946,7 @@ Third Person View Camera Distance Lock -Tight-.esp
 Custom 3rd person view.esp
 FlyingCameraMod.esp
 Flying Camera.esp
+ImmersiveFirstPersonView.esp
 VanityCameraSmoother.esp
 VanityCamera Smoother.esp
 Vanitycamlesswait.esp
@@ -5956,6 +5958,7 @@ Ayleid Wells.esp
 
 BaurusRunsInSewers.esp
 Bag of Holding.esp
+Automagic Bags.esp
 Bag of Alchemy.esp
 Banes Diverse Guards.esp
 Better Dark Brotherhood Sanctuary.esp
@@ -6244,6 +6247,7 @@ Leviathan Soulgems.esp
 Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
+LearnScroll.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lights.esp
@@ -6316,6 +6320,7 @@ NoQuestMarkers.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
+npcjump.esp 
 
 \overrides O
 
@@ -7079,10 +7084,18 @@ Midas OscuroGems.esp
 MidasSpellTomes.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
-Midas Reduced Costs Half.esp
 Midas Betterholy.esp
 Midas SMHolyHeal.esp
+? DELETE: Outdated
 Midas SMPoison.esp
+? DELETE: Outdated
+Midas Reduced Costs Half.esp (Already in, listed as a reference)
+? Use only one Reduced Costs module at a time
+Midas Reduced Costs Quarter.esp
+? Use only one Reduced Costs module at a time
+Midas Reduced Costs 3 Quarters.esp
+? Use only one Reduced Costs module at a time
+Mart's Monster Mod - Midas Creature Ingredients.esp 
 FrostcragMidasLab.esp
 
 Midas PowDur1.5x.esp
@@ -7945,6 +7958,8 @@ Cernasite - DragonEyes.esp
 JCPeepers.esp
 % {{BASH:Eyes}} and deactivate.
 Cat_eyes.esp
+% {{BASH:Eyes}} and deactivate.
+Cat_eyes_add.esp
 % {{BASH:Eyes}} and deactivate.
 DesuChan's Anime Eyes (Vanilla).esp
 % {{BASH:Eyes}} and deactivate.
@@ -8877,6 +8892,7 @@ Time-2hr-realtime.esp
 TF_timemod1-10.esp
 VG0SmarterTimescale.esp
 OblivionRealTimeV11.esp
+Combat Timescale x0.5.esp
 Combat Timescale x0.5 v1.0.esp
 DynamicTimescale.esp
 Syc_LongerDaysShorterNights.esp

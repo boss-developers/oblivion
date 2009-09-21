@@ -278,6 +278,7 @@ nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
 Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
+BlackScreenToggleFix.esp
 
 Erthor_Fix-2593.esp
 ? Use UOP v3.0.1 or later instead.
@@ -531,6 +532,7 @@ Natural_Weather_non-HDR_2.1.2_bugfree.esp
 
 Natural_Weather_HDR+Darker_Nights_2.1.2_bugfree.esp
 Natural_Weather_with_darker_Nights_by_Max_Tael.esp
+Natural_Weather_with_darker_Nights_by_Max_Tael_RD.esp
 Natural_Weather_HDR_with_darker_Nights_by_Max_Tael.esp
 Darker Nights for Nat Env.esp
 _darker_nights_for_nat_env.esp
@@ -1564,6 +1566,7 @@ MoreSuburbLife.esp
 Crowded Roads.esp
 Crowded Roads 7.esp
 Crowded Roads 15.esp
+Crowded Roads 23.esp
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
@@ -3852,9 +3855,19 @@ FCOM_Archery_Artifacts.esp
 FCOM_ArcheryRealSwords.esp
 ? Requires 'FCOM_Realswords.esp'.
 FCOM_Archery_RealSwords.esp
+? Requires 'FCOM_Realswords.esp'
 FCOM_ArcheryHunting&Crafting.esp
 ? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
 FCOM_Archery_MMM_H&C.esp
+? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+FCOM_Archery_Deadly.esp
+FCOM_Archery_Deadly_Armamentarium.esp
+? Requires the Armamentarium Complete mod.
+FCOM_Archery_Deadly_RealSwords.esp
+? Requires 'FCOM_Realswords.esp'
+FCOM_Archery_Deadly_Artifacts.esp
+? Requires the Artifacts mod.
+
 Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
@@ -4963,6 +4976,7 @@ The Ayleid Steps.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
+TGInheritEarlOfImbelsICHouse.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Dark Trilogy.esp
 The_Honor_of_Assassins.esp
@@ -5000,6 +5014,8 @@ TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
 TheVaultofOrder.esp
 thievery.esp
+thievery - EE patch.esp
+
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
@@ -6274,6 +6290,7 @@ M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
 more_classes1.1.esp
 GotNoClass.esp
+KnightClassAbility1.esp
 Way of the Wild.esp
 
 MagicArrows_1.0.esp
@@ -6501,6 +6518,7 @@ TameWildlife.esp
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
+Tona Compilation.esp
 
 \overrides U
 
@@ -6546,15 +6564,16 @@ kuerteeDeathHasPenalties.esp
 
 \overrides XYZ
 
+X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
 
 \overrides Late
 
 Lore Creatures.esp
-* Use 'LCE-addon.esp' instead.
+* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
 lorecreatures.esp
-* Use 'LCE-addon.esp' instead.
+* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
 LCE-addon.esp
 ? If not using monster overhaul mods, use 'Lore Creatures.esp'.
 
@@ -8372,7 +8391,6 @@ bgBalancingDVCore.esp
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
-
 
 \L.A.M.E.
 \''''''''

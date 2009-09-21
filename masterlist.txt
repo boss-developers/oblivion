@@ -56,7 +56,6 @@ MD_Saddle_Master.esm
 Children Of Rourken.esm
 Slof's Clouded Leopard.esm
 DASkeleton.esm
-A_Bloody_Mess.esm
 Crafting Skill Engine.esm
 NPC With Jobs.esm
 CLS-ClassyClothes.esm
@@ -120,6 +119,7 @@ Wondrous Items.esm
 VVAdvanced.esm
 Adrenaline Locational Masterfile.esm
 CLS-craftybits.esm
+A_Bloody_Mess.esm
 Horadric Cube.esm
 UHK.esm
 DA Run Fatigue.esm
@@ -271,9 +271,6 @@ Colourwheels Sexy Female NPCs.esp
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
 
-Permanent Effects from Quest Items fix.esp
-Permanent Effects from Quest Items fix Merge.esp
-
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
 Black Screen Fix.esp
@@ -335,6 +332,8 @@ FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
 Primate Rank Fix.esp
+Permanent Effects from Quest Items fix.esp
+Permanent Effects from Quest Items fix Merge.esp
 
 \----------------------------------
 \Non-English Language fixes
@@ -2179,6 +2178,7 @@ Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
 GrayFoxArmor.esp
+Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 
 \Items H
@@ -2227,6 +2227,7 @@ Jedi LightSabers with Sound.esp
 ? Requires OBSE
 JG Elven.esp
 JQ-Amulets.esp
+JQ-EldarArmour.esp
 jy-Akaviri Helmets.esp
 
 \Items K
@@ -2549,6 +2550,7 @@ TT-EquipableBeardsLEVELEDLIST.esp
 
 Underwear HGEC placed.esp
 Unenchanted Staves.esp
+UnexpurgatedBarenziahv100.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
@@ -4169,6 +4171,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 00RBScribeSupplies02, read summary.esp
 ? Use only one 00RBScribeSupplies mod at a time.
 101_Anvil Cottage v2 Spartan Plain.esp
+101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
 300 Regal Imperial City 2.esp
@@ -4190,6 +4193,8 @@ DLCHorseArmor_300WhiteStallion.esp
 3_Numbers_v.1.0.esp
 
 6279-0.1-Winter Wonderland-TESSource.esp
+
+[NPC] Sharmina.esp
 
 \Quests A
 
@@ -4410,6 +4415,7 @@ TCP Silence remover.esp
 COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
+Cropsford Cottage.esp
 CRT Guest Quarters.esp
 CS_PaperParched.esp
 CastawayIsles.esp
@@ -4474,6 +4480,7 @@ Elemental Witches.esp
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 ? Do not use if using ElsweyrAnequina.esp
+Elven_Gardens_Apartment.esp
 Emeraldsvale_01c.esp
 The Emerald Isle.esp
 Epic Dark Brotherhood.esp
@@ -4549,6 +4556,7 @@ Guardians of the Nine - Akatosh Chantry.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 GlimmeringCastle.esp
+Guards.esp
 GwedenBrothel.esp
 
 \Quests H
@@ -4646,6 +4654,7 @@ JSRandomTasks.esp
 \Quests K
 
 KarewManor.esp
+Kats Better Rosethorn Hall.esp
 Keys & Furniture Papers Box.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
@@ -4790,6 +4799,7 @@ Mages_house.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
 Milewood.esp
+Mysteries Of Atrene Camp.esp
 
 \Quests N
 
@@ -4812,6 +4822,8 @@ nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 
 \Quests O
+Oblivion Achievements Core.esp
+Oblivion Acheivement Rewards.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
 OMPexample.esp
@@ -4915,11 +4927,13 @@ SIMushroomHouse.esp
 SingingStablehandInn.esp
 skingrad guild castle upgrade.esp
 SkingradHouseAdds.esp
+Skingrad_House_Basement_Addon-4110.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
+SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
 Slof's Oblivion Goth Shop.esp
@@ -4957,6 +4971,7 @@ SSS_1.0.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
+Sylar0712_ICAgarmirHouse.esp
 
 \Quests T
 
@@ -5928,6 +5943,8 @@ LCs Auto Harvest.esp
 
 \overrides #
 
+100% Harvest Chance.esp
+100% Harvest Chance Shivering Isles.esp
 1229-Priced Clutter-TESSource.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 1456-1-no_wind-TESSource.esp
@@ -6331,6 +6348,8 @@ No Glow Grass - Faster and Shorter.esp
 NoMoreGuardsWithBowsv1.2.1.esp
 No Quest Items.esp
 No quest items SI.esp
+NoObsoleteEnemies.esp
+? Highly likely to be incompatible with every overhaul out there.
 NoWindSI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
@@ -6429,6 +6448,7 @@ Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 SA Social Alertness.esp
+SBDummyTraining.esp
 seorin's Artifact Fix.esp
 SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
@@ -6459,6 +6479,7 @@ Enhanced Vegetation [150%].esp
 
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
+Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
 Skycaptains BloodTime.esp
@@ -6519,6 +6540,7 @@ Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 tona_underwear.esp
 Tona Compilation.esp
+TurretDisable.esp
 
 \overrides U
 
@@ -8064,6 +8086,8 @@ M.O.E. - Playable Dremora and Custom Race Fix.esp
 Luchaire's Dryad Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Use 'for MMM' version if using MMM/FCOM.
+The Southlanders.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Tabaxi_Race_Default.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Tabaxi Race 2.0.esp
@@ -8231,6 +8255,14 @@ CM Partners Extra NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
+CM Partner Jordie1.esp
+cm lula wild.esp
+CM Tifa A.esp
+MichaelCM.esp
+Poseidon_ii_s Super Sexy CM Companion Pack.esp
+AsharasCMPartners.esp
+% {{BASH:Hair,Eyes}}
+
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
 Companion Postal Service.esp
@@ -8269,15 +8301,11 @@ cssRhett.esp
 Aliyah.esp
 Arwen companion.esp
 % {{BASH:Hair,Eyes}}
-AsharasCMPartners.esp
-% {{BASH:Hair,Eyes}}
+Audrey companion.esp
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
 Baddy-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
-CM Partner Jordie1.esp
-cm lula wild.esp
-CM Tifa A.esp
 Cog-Rein.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.

@@ -374,13 +374,16 @@ SM Plugin Refurbish - SI.esp
 Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
+
 MOBS SI.esp
 % {{BASH:Stats}}
 OMOBS_SI.esp
 % {{BASH:Stats}}
 MOBS SI Optional Combat Settings.esp
+
 PMVisibleMapMarkers-ShiveringIsles.esp
 
+New Duke and Duchess.esp
 \----------
 \BSA tricks
 \----------
@@ -6454,7 +6457,11 @@ SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
+
 Sexlivion_0.4a_Full_English_v1.esp
+bondage_sex.esp
+Eroblivion.esp
+/don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
@@ -7155,6 +7162,8 @@ Midas Eldrich Power 3x.esp
 ? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
 Midas Eldrich Power 4x.esp
 ? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
+Midas Eldrich Power 5x.esp
+? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
 Midas Eldrich Power 6x.esp
 ? Use only one Eldrich Power modifier at a time. Load after PowDur modifiers.
 Midas Tigernolevel NoOBSE.esp
@@ -7838,9 +7847,11 @@ PMGSPP2.esp
 OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
+MrMuhs Sheogorath-Anims EV.esp
 SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
+walklikesheo.esp
 
 \Semi-final overrides
 \''''''''''''''''''''
@@ -8038,6 +8049,7 @@ Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathMod.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+PlayableSheogorathModOptionalIcon.esp
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
@@ -8134,6 +8146,7 @@ Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Moon.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Sheo Race.esp
 Soqui Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Half Devil.esp

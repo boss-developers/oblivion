@@ -126,6 +126,7 @@ DA Run Fatigue.esm
 ? Requires OBSE v9a or higher
 ANB_Scrolls.esm
 OblivionMountProject.esm
+Oblivion Sexualized Monsters.esm
 beeratcompil_fishstick.esm
 IngredientJars.esm
 rdweaponpack1.esm
@@ -1410,6 +1411,9 @@ Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
 Sexual_SpiderDaedra.esp
 % {{BASH:Graphics}} and deactivate.
+? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+OSM-All Genders.esp
+ % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -6478,7 +6482,11 @@ Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
 Sexual_Spriggan.esp
+? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Sexual_Minotaur.esp
+? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+Sexual_Ogre.esp
+? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Enhanced Vegetation [100%].esp
 ? Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [110%].esp

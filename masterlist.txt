@@ -872,6 +872,8 @@ ANBToggleGrab.esp
 ANB_TrashCan.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
+Anvil Dock Map Marker.esp
+? Included in UOP 3.2.0. Recommended that you use that, and remove this plugin.
 archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
@@ -1625,6 +1627,7 @@ Map Markers Be Done.esp
 Map Marker Renamer.esp
 ? Obsolete. Update to Map Marker Overhaul and then remove.
 Map Marker Overhaul.esp
+Map Marker Overhaul - SI additions.esp
 Maps!.esp
 Landmarks.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.

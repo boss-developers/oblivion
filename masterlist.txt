@@ -145,6 +145,7 @@ Beautiful People.esm
 Bab.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
+Kaleah.esm
 SC_Drow Race.esm
 DIM Elves Of Lineage II Retex.esm
 Lineage II Elves.esm
@@ -2192,6 +2193,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
+Glyphmod.esp
 Godslayer and Divine Protection.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
@@ -4180,6 +4182,8 @@ Morroblivion Improved Map Markers.esp
 Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Water Level Fix.esp
 SkingradBridgeLights.esp
+Newsheoth.esp
+palace lights.esp
 
 Castle Ravenpride.esp
 aaaWindSpear.esp
@@ -4232,6 +4236,8 @@ DLCHorseArmor_300WhiteStallion.esp
 3_Numbers_v.1.0.esp
 
 6279-0.1-Winter Wonderland-TESSource.esp
+
+.LuEmaNarfil Cave of Vampires.esp
 
 [NPC] Sharmina.esp
 
@@ -4606,6 +4612,7 @@ GwedenBrothel.esp
 \Quests H
 
 hackdirtabyss.esp
+HackdirtCaverns.esp
 Halcyon House.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
@@ -4621,6 +4628,7 @@ HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 HelsethArmor.esp
+Hero Hill Redone.esp
 HobbitHole.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
@@ -4779,6 +4787,7 @@ Lock Spells.esp
 Lobo_the_Wolf.esp
 LordKain_Adash_World.esp
 ? German mod.
+Lorekeep.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
 LostSwordOfTheAylied - Claymore Add-On.esp
@@ -4857,6 +4866,7 @@ Necromancer Shop.esp
 Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
 
+NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
 Niflheim.esp
@@ -4946,6 +4956,7 @@ The Ranger's House.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 Sanguine.esp
+Sanguinenorob.esp
 SaveWaterEdgeEng.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District. 
@@ -7193,7 +7204,7 @@ Midas SMHolyHeal.esp
 ? DELETE: Outdated
 Midas SMPoison.esp
 ? DELETE: Outdated
-Midas Reduced Costs Half.esp (Already in, listed as a reference)
+Midas Reduced Costs Half.esp
 ? Use only one Reduced Costs module at a time
 Midas Reduced Costs Quarter.esp
 ? Use only one Reduced Costs module at a time

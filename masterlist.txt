@@ -167,6 +167,7 @@ Horse Combat Master.esm
 PMSneakySummons.esm
 CLS-SneakyFeet.esm
 UnnecessaryViolence.esm
+ShieldOnBack.esm
 UndiesUnderneath.esm
 StarX Vampire Deaths.esm
 MALO - MAIN.esm
@@ -1133,6 +1134,7 @@ HTFpcb Extended.esp
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 SB IC Palace Tower Light Mod v1.1.esp
+SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 
 ImpeREAL City Unique Districts - Talos Plaza.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
@@ -1426,7 +1428,11 @@ Shads Hunting & Fauna.esp
 Sheepherder's Vampirism Fix - OBSE.esp
 ? v0.9 is a testing version. Not much information on load order or any stability issues.
 Shield on Back RC5-Public.esp
+? Old upgrade to ShieldOnBack.esm & ShieldOnBack_1C.esp.
 Shield on Back 3.1.esp
+? Old upgrade to ShieldOnBack.esm & ShieldOnBack_1C.esp.
+ShieldOnBack_1C.esp
+1HweaponOnBack.esp
 shiveringislesdoorusable.esp
 ShowHideAmulet.esp
 SilverFence.esp
@@ -2393,7 +2399,9 @@ pale_rider's Armor of Dragon's Nightmare.esp
 ? or manually change the names back to English, or live with it.
 pale_rider's Armory of The Divine Guardian.esp
 pale_rider's Armory of the Berserker.esp
+pale_rider's DragonhunterReloaded.esp
 pale_rider's Hats.esp
+pale_rider's Nordic Warrior Armor.esp
 pale_rider's Paladin Equipment_enchanted_eng.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
@@ -3222,6 +3230,9 @@ cidnothump.esp
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
+? Only use this or Goblin Realswords.esp (or FCOM)
+Goblin Realswords.esp
+? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 The Last Queen Of The Ayleids.esp
 
 \----------
@@ -4450,6 +4461,10 @@ Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Sutch Reborn Spawn Patch.esp
+
+The Dead Knights.esp
+Dk offhand weapons.esp
+Dk second knight update.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
@@ -4591,6 +4606,7 @@ Haunted_House_v1.5.esp
 HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
+HelsethArmor.esp
 HobbitHole.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
@@ -4993,6 +5009,7 @@ Sylar0712_ICAgarmirHouse.esp
 Talos Bridge.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
+Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
@@ -5138,6 +5155,7 @@ WellspringGrove.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 White Tower v0.8.esp
+Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
 Woodland Village.esp
 WoodlandVillage1.2.esp
@@ -5505,6 +5523,7 @@ Improved Imperial Infrastructure.esp
 road+bridges.esp
 NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
+NRB$-TchosTower-Patch.esp
 
 Bridges For the Fools.esp
 

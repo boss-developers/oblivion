@@ -609,7 +609,6 @@ All Natural - Weather Inside.esp
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
 Weather Debug Ring.esp
-Weather Debug Spammer.esp
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -1856,6 +1855,8 @@ ANBWearableEars.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Arcana Infinium.esp
+Andragorn_Weapons_Armors.esp
+AngelslayerEN.esp
 Armblade.esp
 % {{BASH:Invent}}
 arme - excalibur.esp
@@ -2480,9 +2481,13 @@ Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
 Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
+Shdw_weapon pack01.esp
+Shdw_weapon pack02.esp
 Shields Of Antiquity.esp
 Shivering Armor Variety.esp
 SCHIFFWHITEMAGEROBE.esp
+Shrouded Armor X.esp
+% {{BASH:Graphics}}
 SickleIrons.esp
 SickleIrons_RT.esp
 SilverwareWeapons.esp
@@ -2497,6 +2502,7 @@ Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
+Slitterblade - Talon of the Wood.esp
 Slof's & Orc's Armours.esp
 Slof's Boners!.esp
 Slof's Boners! v5.esp
@@ -2545,6 +2551,7 @@ talon.esp
 Talon of Akatosh Longsword.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
+tda_Armoury.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
@@ -2557,6 +2564,8 @@ The Little Weapon Pack OB.esp
 % {{BASH:Invent}}
 The One Ring.esp
 The Sword of Cyrodiil.esp
+The Sword of Truth.esp
+Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
@@ -4597,6 +4606,7 @@ Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
+Gottshaw.esp
 GP_Moretta.esp
 Grand Ayleid Maze.esp
 GTAesgaard.esp

@@ -1669,7 +1669,7 @@ ShowDaedricShrines.esp
 ShrineMarkers.esp 
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
-
+Wayshrine Map Markers.esp
 
 \Hotkeys
 \'''''''
@@ -3826,6 +3826,8 @@ Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
 Creature Diversity.esp
+Zombie Diversity.esp
+? Consider using Creature Diversity.esp or MMM or Frans instead.
 
 WCGL - Wilderness Creatures 1.1.esp
 ? Incompatible with OOO, MMM and Francescos.
@@ -4899,6 +4901,8 @@ One Stop Armors.esp
 OCC-OSMS-Patch.esp
 OrangeroadCottage.esp
 Order of the Virtuous Blood Expanded v0.1.esp
+? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
+Order of the Virtuous Blood Expanded v0.3.esp
 
 \Quests P
 
@@ -6409,6 +6413,14 @@ MYR_AyleidKing.esp
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
+[Natcalsar] DontHideRings&Amulets_LA V1.0.esp
+? If possible use the Wrye Bash Bashed Patch tweak instead.
+[Natcalsar] DontHideRings&Amulets_HA V1.0.esp
+? If possible use the Wrye Bash Bashed Patch tweak instead.
+[Natcalsar] DontHideRings&Amulets_Clothing V1.0.esp
+? If possible use the Wrye Bash Bashed Patch tweak instead.
+[Natcalsar] DontHideRings&Amulets_KOTN+SI V1.0.esp
+? If possible use the Wrye Bash Bashed Patch tweak instead.
 Near100PercentArrowRecovery.esp
 ? Consider using Bash Patch tweaks instead.
 NewMerchantItems.esp

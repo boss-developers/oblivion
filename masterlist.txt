@@ -1967,6 +1967,7 @@ Bar Maid.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
+Battlespire Books.esp
 bcrich.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -2584,6 +2585,7 @@ trfjBladeMasterSword.esp
 trfjEmpireGreatsword.esp
 trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
+trfjSolarisStaff.esp
 Tyrael Armor.esp
 Templer-Armor.esp
 
@@ -8157,13 +8159,16 @@ CT-Argonian Headstyles-MM.esp
 % {{BASH:Graphics,Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE+MM.esp
 % {{BASH:Graphics,Hair,Eyes}} and deactivate.
-
+MD_Natural_Faces_DV.esp
+% {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
+4 New Races for Rens-Beautiful People.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathMod.esp
@@ -8232,6 +8237,8 @@ TFF_Races_Base.esp
 Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+idkrrr_sarams_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}

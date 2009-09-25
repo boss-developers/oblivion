@@ -4625,6 +4625,8 @@ GTAesgaard_delayer.esp
 GTAesgaard_2.esp
 Gates To Aesgaard 2 Delayer.esp
 Guardians of the Nine - Akatosh Chantry.esp
+GuilesHedgewizardsHovel.esp
+GuilesHuntsmenLodge.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 GlimmeringCastle.esp
@@ -5387,6 +5389,7 @@ Knights - AWS Patch.esp
 Knights_fem.esp
 NLF Knights.esp
 M.O.E. - Visit Valen Dreth Topic.esp
+Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
 Mart's Monster Mod - Knights.esp
@@ -5784,6 +5787,7 @@ EaglesRest+LostCoast+CastleSeaview Patch.esp
 The Ruins of Miscarcand.esp
 
 MTCThievesGrotto.esp
+MTCThievesGrottoV4.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp
@@ -6013,6 +6017,7 @@ Pitcher Plant and Lily Ingredients.esp
 DEJ Harvest - Flora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 ? Exception: Herbalism mod.
+ DEJ Harvest - Flora - CPU.esp
 RealisticFlora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCFrostcrag.esp
@@ -6645,6 +6650,7 @@ talkwithyourhands PI4.esp
 TameWildlife.esp
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
+dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp
 TurretDisable.esp
@@ -6660,9 +6666,13 @@ Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited Amulets - Shivering Isles.esp
+? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets and Rings - Shivering Isles.esp
+? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited Rings - Shivering Isles.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
@@ -7888,6 +7898,7 @@ S.P.A.M. Option - Fastest Minor.esp
 S.P.A.M. Option - Restore Spec.esp
 S.P.A.M. Option - Restore Fav.esp
 
+Conrans Level Rates modified-3x.esp
 Francesco's Slower skills x1.5.esp
 Francesco's Slower skills x2.esp
 Francesco's Slower skills x3.esp

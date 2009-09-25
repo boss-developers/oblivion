@@ -354,7 +354,7 @@ Permanent Effects from Quest Items fix Merge.esp
 
 Arena-Ansage-Fix.esp
 singlers_uebersetzungen.esp
-
+Correction des voix.esp
 
 \---------------
 \Shivering Isles
@@ -846,6 +846,7 @@ AmbientDungeons.esp
 1vampirescocktail.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
+2680twohand.esp
 
 300_lore dialogue v1.15.esp
 ? May have a problem with Storms and Sounds.
@@ -901,6 +902,7 @@ AFC v2 Quick Powerattacks.esp
 AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
+Damage Text v2.esp
 
 All normal clothes buyable.esp
 SI Clothes.esp
@@ -960,6 +962,8 @@ Cobl Bookjackets.esp
 Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
+CharGenAmulet.esp
+
 ChaseCameraMod.esp
 CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
@@ -1246,6 +1250,7 @@ Lock Bash v99.9.esp
 Lock Bash v99.91.esp
 ? Not OOO compatible - already included in OOO.
 Lock Bash Omega.esp
+Security Rebalance-Traps and Bash Locks.esp
 Lyn-DarkBrotherhoodAssassins.esp
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
@@ -1499,6 +1504,7 @@ TurnoffLights.esp
 TryBeforeYouBuy.esp
 TreeDoorAddition.esp
 trfSolaris.esp
+? Old, update to trfjSolarisStaff.esp.
 
 \Base U
 
@@ -2306,6 +2312,7 @@ Lera's PirateSet.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
+LockpickMold.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
 LootableLichHelm_Lt.esp
@@ -2606,6 +2613,7 @@ TT-EquipableBeardsLEVELEDLIST.esp
 \Items U
 
 Underwear HGEC placed.esp
+Underworld Armor.esp
 Unenchanted Staves.esp
 UnexpurgatedBarenziahv100.esp
 Unique Ebony Sets.esp
@@ -3371,6 +3379,8 @@ ExnemRuneskulls.esp
 >? Requires 'FCOM_ExnemRuneskulls.esp'.
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
+
+FCOM_AyleidCoinDelev.esp
 
 Slof's Oblivion Robe Trader.esp
 >? Requires 'FCOM_SlofsRobeTrader.esp'.
@@ -4346,6 +4356,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
+Assassin's Hideout v1.1.esp
 Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 AvaiRii_UnderwaterHome.esp
@@ -4396,6 +4407,7 @@ Big Business.esp
 Billsburg.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
+_Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
@@ -4411,6 +4423,7 @@ Blackrock_Mountain-4489.esp
 
 Blacktache's Secrets 3.esp
 Blitz's Dungeons & Realms- Molag Fel.esp
+Boqwater_Settlement_V103.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
 Bravil Docks.esp
@@ -4472,6 +4485,7 @@ cherydinhal_murder_quest-3185.esp
 2106-2-cherydinhal murder quest-TESSource.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
+Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
 ? German mod.
@@ -4556,6 +4570,7 @@ Elven_Gardens_Apartment.esp
 Emeraldsvale_01c.esp
 The Emerald Isle.esp
 Epic Dark Brotherhood.esp
+Ever-rest Glade reborn.esp
 Extended Imperial City.esp
 Extended Imperial City Version 1.0.esp
 Extended Chorrol.esp
@@ -4842,6 +4857,7 @@ MadMagesTowerBASIC.esp
 ? Use 'MadMagesTowerBASIC-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
+Madness' Hideout.esp
 Mag1cWind0w_The_Imperial_Water.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
@@ -4888,6 +4904,7 @@ Naughty_Joana_01.esp
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
 Necromancer Shop.esp
+NewSheothManor.esp
 
 Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
@@ -6565,6 +6582,7 @@ Sexlivion_0.4a_Full_English_v1.esp
 bondage_sex.esp
 Eroblivion.esp
 /don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
+
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
@@ -8515,6 +8533,8 @@ DADemons.esp
 DAJackSparrow.esp
 % {{BASH:Hair,Eyes}}
 DAKaleahSuccubus.esp/DAKaleah.esp
+% {{BASH:Hair,Eyes}}
+Nec-Elf_Kaleah.esp
 % {{BASH:Hair,Eyes}}
 DAXivilai.esp
 % {{BASH:Hair,Eyes}}

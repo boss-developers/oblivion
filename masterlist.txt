@@ -31,6 +31,7 @@ Cybiades.esm
 Windfall.esm
 Hammerfell.esm
 MathFunctions.esm
+BP-CosmeticLibraryBase-Public.esm
 Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
@@ -339,6 +340,7 @@ Oblivion Citadel Door Fix.esp
 \Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
+MG01-fix.esp
 Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
@@ -1357,6 +1359,7 @@ P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
 P1DseeYouSleep.esp
+P1DlookAtShrines.esp
 P1DlookHereYou.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp 
@@ -1507,6 +1510,8 @@ Underneath your Robe for SI.esp
 
 VA_BetterGold.esp
 % {{BASH:Graphics}}
+VAs Better Gold with no Menu Icon.esp
+% {{BASH:Graphics}}
 Vampire Alchemy V1.1.esp
 % {{BASH:Invent}} or you really won't get much of the effects of this if you use any overhauls.
 Venom.esp
@@ -1579,6 +1584,8 @@ moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
+
+OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
 Crowded Cities 30.esp
@@ -2007,6 +2014,7 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
 BlueStaff.esp
+Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -4456,6 +4464,7 @@ Cellars of Oblivion.esp
 Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
+Clamshell_Cottage_v1.5_COBL.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
 2106-2-cherydinhal murder quest-TESSource.esp
@@ -5010,6 +5019,7 @@ Slash n Smash.esp
 SleepyCatInn.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
+SN_Shivering_Shack.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
 Sno_DB 1.0_Blade of Woe Replacer.esp
@@ -6362,6 +6372,7 @@ Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lights.esp
 Live at Gweden Farm.esp
+Loot All Armor.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
@@ -8115,6 +8126,8 @@ DesuChan's Anime Eyes (Vanilla).esp
 
 All_hair_and_eyes-1841.esp
 % {{BASH:Hair,Eyes}} and deactivate.
+BP-Cosmetic_Compilation-Alternative.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation XXL DV.esp

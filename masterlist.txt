@@ -910,9 +910,11 @@ SI Clothes.esp
 \Base B
 
 Book Jackets Oblivion.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics}} and deactivate.
 Book Jackets Oblivion - BP.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics}} and deactivate.
+GrimbotsSpellTomes.esp
+% {{BASH:Graphics}} and deactivate.
 OBG - Bchermod - Bilder - BP.esp
 % {{BASH:Graphics}}
 
@@ -2033,6 +2035,7 @@ Buster Sword R.esp
 
 c_dagcol.esp
 c_dragondagger.esp
+Caliburn.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
@@ -2154,6 +2157,7 @@ Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
 Dread Knight Armor.esp
+druid_tomb.esp
 DS Mage's Belt.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
 % {{BASH:Graphics,Names}}
@@ -5108,6 +5112,7 @@ The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
 ? Not compatible with Better Cities.
 The Power of the North.esp
+The Retreat.esp
 The Siren's Deception.esp
 The_Dragon_Citadel-6178.esp
 TOSP - Loading Screens.esp
@@ -7090,7 +7095,6 @@ Finders Keepers.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
-GrimbotsSpellTomes.esp
 haz_ct5_mark_recall.esp
 haz_ct7_horse_relocate.esp
 Healers.esp
@@ -7319,6 +7323,7 @@ Vector.esp
 sr_casting_hand.esp
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
+Josef Grey's Natural Starlight.esp
 Spells No Lighting.esp
 
 Friendlier Summons.esp

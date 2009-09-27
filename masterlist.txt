@@ -32,6 +32,7 @@ Windfall.esm
 Hammerfell.esm
 MathFunctions.esm
 BP-CosmeticLibraryBase-Public.esm
+Beautiful People 2ch-Ed.esm
 Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
@@ -4108,7 +4109,6 @@ Geomancy & Gem Dust OOO (No Spell Change).esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
-OOOLivingEconomyWornRebalance.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
 EVE_StockEquipmentReplacer for OOO.esp
@@ -8269,6 +8269,14 @@ Elves Of Lineage II.esp
 TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
 Beautiful People.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+LattamerV3_P-rrtyCure_Hair_Module.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable One Eyed.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable BandBlindMask.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Unknown mod file: Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}

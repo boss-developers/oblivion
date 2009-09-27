@@ -966,6 +966,7 @@ OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
 CharGenAmulet.esp
 
+007camera.esp
 ChaseCameraMod.esp
 CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
@@ -4034,6 +4035,7 @@ Choices and Consequences - FCOM.esp
 
 ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
+ArmamentariumLLMagicOOO.esp
 
 PersuasionOverhaul_OOO.esp
 PersuasionOverhaul_MMM.esp
@@ -9330,8 +9332,11 @@ NRB4 OCLR Road Record.esp
 ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
+
 Bashed Delayers - MERGE ONLY.esp
 ? Must be merged into the bashed patch in Wrye Bash
+CoreRandmonClothing4Npcs.esp
+% {{BASH:Filter,Invent,IIM}}
 Cobl Filter Late MERGE ONLY.esp
 ? Make sure it is deactivated. Must be merged into Bashed Patch
 Cobl Silent Equip Misc.esp

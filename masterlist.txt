@@ -129,6 +129,7 @@ DA Run Fatigue.esm
 ANB_Scrolls.esm
 OblivionMountProject.esm
 Oblivion Sexualized Monsters.esm
+Oblivion Sexualized Monsters-exclu TRM.esm
 beeratcompil_fishstick.esm
 IngredientJars.esm
 rdweaponpack1.esm
@@ -1438,6 +1439,8 @@ Sexual_SpiderDaedra.esp
 ? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
+ Oblivion Sexualized Monsters-exclu TRM.esm
+  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -1825,6 +1828,7 @@ avarm.esp
 01_SenTinel's Katanas.esp
 % {{BASH:Invent}}
 
+1.4TheAtlanteanSword.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1Elven.esp
@@ -2346,6 +2350,7 @@ MandBSwords.esp
 Mage Leather Armor.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
+MotherSword.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
 M.O.E. - Playable Scythe.esp
 M.O.E. - Unlocked Palace Guard Armour.esp
@@ -2581,6 +2586,7 @@ Tegeals Extra Robes.esp
 The Bow of the Mongolian Horseman.esp
 The Butcher.esp
 The Doomed King.esp
+TheFatherSword.esp
 The legendary Archer - EV.esp
 The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
@@ -2626,7 +2632,10 @@ UnexpurgatedBarenziahv100.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
+? Consider upgrading to version 4.2.1+.
 UU! Female Undies NPCs.esp
+? Consider upgrading to version 4.2.1+.
+UU_Female_Undies.esp
 
 \Items V
 
@@ -3853,6 +3862,7 @@ Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
 Creature Diversity.esp
+Creatures Alive v1.3.esp
 Zombie Diversity.esp
 ? Consider using Creature Diversity.esp or MMM or Frans instead.
 
@@ -4348,6 +4358,7 @@ Archfall_house.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
 Armageddon.esp
+Armoured Arms Altered.esp
 ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
@@ -5030,6 +5041,7 @@ Shady Sam Plus.esp
 ShadySamFence.esp
 Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
+ShipInATree.esp
 Shivering Farm.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
@@ -6315,6 +6327,7 @@ First Person Messages.esp
 Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
+Furniture Prices.esp
 
 \overrides G
 
@@ -6423,6 +6436,8 @@ M.O.E. - Lycanthropy and Lichcraft.esp
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
+Better and realistic prices.esp
+RedBag - Items Repriced v2.esp
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
@@ -6677,6 +6692,7 @@ Talk with Your Hands2.esp
 talkwithyourhands2.esp
 talkwithyourhands PI4.esp
 TameWildlife.esp
+Docile SI Creatures.esp
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 dyseso_PromptAt2Items.esp

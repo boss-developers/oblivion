@@ -31,8 +31,6 @@ Cybiades.esm
 Windfall.esm
 Hammerfell.esm
 MathFunctions.esm
-BP-CosmeticLibraryBase-Public.esm
-Beautiful People 2ch-Ed.esm
 Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
@@ -129,7 +127,6 @@ DA Run Fatigue.esm
 ANB_Scrolls.esm
 OblivionMountProject.esm
 Oblivion Sexualized Monsters.esm
-Oblivion Sexualized Monsters-exclu TRM.esm
 beeratcompil_fishstick.esm
 IngredientJars.esm
 rdweaponpack1.esm
@@ -342,7 +339,6 @@ Oblivion Citadel Door Fix.esp
 \Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
-MG01-fix.esp
 Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
@@ -356,7 +352,7 @@ Permanent Effects from Quest Items fix Merge.esp
 
 Arena-Ansage-Fix.esp
 singlers_uebersetzungen.esp
-Correction des voix.esp
+
 
 \---------------
 \Shivering Isles
@@ -495,7 +491,6 @@ LoadingScreens.esp
 LoadingScreensAddOn.esp
 LoadingScreensSI.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
-Natural Selection.esp
 BlackLoadNoTip.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Zira's Horse Theme Loadscreens.esp
@@ -567,6 +562,8 @@ EnhancedWeather - Darker Nights, 50.esp
 ? Use only one 'Darker Nights' plugin.
 EnhancedWeather - Darker Nights, 80.esp
 ? Use only one 'Darker Nights' plugin.
+Enhanced Weather - Across-The-Borders Mods Patch.esp
+? Requires OBSE v18.
 EW_WeatherOrb.esp
 ? Requires Enhanced Weather.
 EnhancedWeather - Enhanced Seasons.esp
@@ -602,8 +599,6 @@ All Natural - NW + AWS.esp
 ? Only use one All Natural weather plugin.
 All Natural - EW + NW + AWS.esp
 ? Only use one All Natural weather plugin.
-All Natural - Kvatch Rebuilt Patch.esp
-All Natural - Gates To Aesgaard 2 Patch.esp
 All Natural - Enhanced Seasons.esp
 ? Requires ScreenEffects.
 ? Obsolete. Update to latest version of All Natural.
@@ -613,7 +608,12 @@ All Natural - Weather Inside.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
+
+Gates To Aesgaard 2 Weather Patch.esp
+Kvatch Rebuilt Weather Patch.esp
+
 Weather Debug Ring.esp
+Weather Debug Spammer.esp
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -849,7 +849,6 @@ AmbientDungeons.esp
 1vampirescocktail.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
-2680twohand.esp
 
 300_lore dialogue v1.15.esp
 ? May have a problem with Storms and Sounds.
@@ -905,7 +904,6 @@ AFC v2 Quick Powerattacks.esp
 AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
-Damage Text v2.esp
 
 All normal clothes buyable.esp
 SI Clothes.esp
@@ -913,11 +911,9 @@ SI Clothes.esp
 \Base B
 
 Book Jackets Oblivion.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
-% {{BASH:Graphics}} and deactivate.
-GrimbotsSpellTomes.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics}}
 OBG - Bchermod - Bilder - BP.esp
 % {{BASH:Graphics}}
 
@@ -967,9 +963,6 @@ Cobl Bookjackets.esp
 Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
-CharGenAmulet.esp
-
-007camera.esp
 ChaseCameraMod.esp
 CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
@@ -1256,7 +1249,6 @@ Lock Bash v99.9.esp
 Lock Bash v99.91.esp
 ? Not OOO compatible - already included in OOO.
 Lock Bash Omega.esp
-Security Rebalance-Traps and Bash Locks.esp
 Lyn-DarkBrotherhoodAssassins.esp
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
@@ -1370,7 +1362,6 @@ P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
 P1DseeYouSleep.esp
-P1DlookAtShrines.esp
 P1DlookHereYou.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp 
@@ -1440,8 +1431,6 @@ Sexual_SpiderDaedra.esp
 ? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
- Oblivion Sexualized Monsters-exclu TRM.esm
-  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -1512,7 +1501,6 @@ TurnoffLights.esp
 TryBeforeYouBuy.esp
 TreeDoorAddition.esp
 trfSolaris.esp
-? Old, update to trfjSolarisStaff.esp.
 
 \Base U
 
@@ -1523,8 +1511,6 @@ Underneath your Robe for SI.esp
 \Base V
 
 VA_BetterGold.esp
-% {{BASH:Graphics}}
-VAs Better Gold with no Menu Icon.esp
 % {{BASH:Graphics}}
 Vampire Alchemy V1.1.esp
 % {{BASH:Invent}} or you really won't get much of the effects of this if you use any overhauls.
@@ -1598,8 +1584,6 @@ moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
-
-OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
 Crowded Cities 30.esp
@@ -1690,7 +1674,7 @@ ShowDaedricShrines.esp
 ShrineMarkers.esp 
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
-Wayshrine Map Markers.esp
+
 
 \Hotkeys
 \'''''''
@@ -1829,7 +1813,6 @@ avarm.esp
 01_SenTinel's Katanas.esp
 % {{BASH:Invent}}
 
-1.4TheAtlanteanSword.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1Elven.esp
@@ -1877,8 +1860,6 @@ ANBWearableEars.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Arcana Infinium.esp
-Andragorn_Weapons_Armors.esp
-AngelslayerEN.esp
 Armblade.esp
 % {{BASH:Invent}}
 arme - excalibur.esp
@@ -1982,7 +1963,6 @@ Bar Maid.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
-Battlespire Books.esp
 bcrich.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -1999,7 +1979,6 @@ Blackheart and Gizmodian ECRobes.esp
 BlackSoulGemArmory.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
-Bluefire Claymore by Mr. V.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
@@ -2031,7 +2010,6 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
 BlueStaff.esp
-Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -2043,7 +2021,6 @@ Buster Sword R.esp
 
 c_dagcol.esp
 c_dragondagger.esp
-Caliburn.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
@@ -2165,7 +2142,6 @@ Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
 Dread Knight Armor.esp
-druid_tomb.esp
 DS Mage's Belt.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
 % {{BASH:Graphics,Names}}
@@ -2324,7 +2300,6 @@ Lera's PirateSet.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
-LockpickMold.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
 LootableLichHelm_Lt.esp
@@ -2351,7 +2326,6 @@ MandBSwords.esp
 Mage Leather Armor.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
-MotherSword.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
 M.O.E. - Playable Scythe.esp
 M.O.E. - Unlocked Palace Guard Armour.esp
@@ -2510,13 +2484,9 @@ Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
 Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
-Shdw_weapon pack01.esp
-Shdw_weapon pack02.esp
 Shields Of Antiquity.esp
 Shivering Armor Variety.esp
 SCHIFFWHITEMAGEROBE.esp
-Shrouded Armor X.esp
-% {{BASH:Graphics}}
 SickleIrons.esp
 SickleIrons_RT.esp
 SilverwareWeapons.esp
@@ -2531,7 +2501,6 @@ Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
 slayersword.esp
-Slitterblade - Talon of the Wood.esp
 Slof's & Orc's Armours.esp
 Slof's Boners!.esp
 Slof's Boners! v5.esp
@@ -2580,22 +2549,18 @@ talon.esp
 Talon of Akatosh Longsword.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
-tda_Armoury.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 The Bow of the Mongolian Horseman.esp
 The Butcher.esp
 The Doomed King.esp
-TheFatherSword.esp
 The legendary Archer - EV.esp
 The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
 % {{BASH:Invent}}
 The One Ring.esp
 The Sword of Cyrodiil.esp
-The Sword of Truth.esp
-Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
@@ -2606,7 +2571,6 @@ trfjBladeMasterSword.esp
 trfjEmpireGreatsword.esp
 trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
-trfjSolarisStaff.esp
 Tyrael Armor.esp
 Templer-Armor.esp
 
@@ -2627,16 +2591,12 @@ TT-EquipableBeardsLEVELEDLIST.esp
 \Items U
 
 Underwear HGEC placed.esp
-Underworld Armor.esp
 Unenchanted Staves.esp
 UnexpurgatedBarenziahv100.esp
 Unique Ebony Sets.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
-? Consider upgrading to version 4.2.1+.
 UU! Female Undies NPCs.esp
-? Consider upgrading to version 4.2.1+.
-UU_Female_Undies.esp
 
 \Items V
 
@@ -3397,8 +3357,6 @@ ExnemRuneskulls.esp
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
 
-FCOM_AyleidCoinDelev.esp
-
 Slof's Oblivion Robe Trader.esp
 >? Requires 'FCOM_SlofsRobeTrader.esp'.
 
@@ -3863,9 +3821,6 @@ Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
 Creature Diversity.esp
-Creatures Alive v1.3.esp
-Zombie Diversity.esp
-? Consider using Creature Diversity.esp or MMM or Frans instead.
 
 WCGL - Wilderness Creatures 1.1.esp
 ? Incompatible with OOO, MMM and Francescos.
@@ -4047,7 +4002,6 @@ Choices and Consequences - FCOM.esp
 
 ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
-ArmamentariumLLMagicOOO.esp
 
 PersuasionOverhaul_OOO.esp
 PersuasionOverhaul_MMM.esp
@@ -4120,6 +4074,7 @@ Geomancy & Gem Dust OOO (No Spell Change).esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
+OOOLivingEconomyWornRebalance.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
 EVE_StockEquipmentReplacer for OOO.esp
@@ -4359,7 +4314,6 @@ Archfall_house.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
 Armageddon.esp
-Armoured Arms Altered.esp
 ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
@@ -4375,7 +4329,6 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
-Assassin's Hideout v1.1.esp
 Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 AvaiRii_UnderwaterHome.esp
@@ -4426,7 +4379,6 @@ Big Business.esp
 Billsburg.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
-_Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
@@ -4442,7 +4394,6 @@ Blackrock_Mountain-4489.esp
 
 Blacktache's Secrets 3.esp
 Blitz's Dungeons & Realms- Molag Fel.esp
-Boqwater_Settlement_V103.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
 Bravil Docks.esp
@@ -4498,13 +4449,11 @@ Cellars of Oblivion.esp
 Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
-Clamshell_Cottage_v1.5_COBL.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
 2106-2-cherydinhal murder quest-TESSource.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
-Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
 ? German mod.
@@ -4589,7 +4538,6 @@ Elven_Gardens_Apartment.esp
 Emeraldsvale_01c.esp
 The Emerald Isle.esp
 Epic Dark Brotherhood.esp
-Ever-rest Glade reborn.esp
 Extended Imperial City.esp
 Extended Imperial City Version 1.0.esp
 Extended Chorrol.esp
@@ -4653,7 +4601,6 @@ Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
-Gottshaw.esp
 GP_Moretta.esp
 Grand Ayleid Maze.esp
 GTAesgaard.esp
@@ -4661,8 +4608,6 @@ GTAesgaard_delayer.esp
 GTAesgaard_2.esp
 Gates To Aesgaard 2 Delayer.esp
 Guardians of the Nine - Akatosh Chantry.esp
-GuilesHedgewizardsHovel.esp
-GuilesHuntsmenLodge.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
 GlimmeringCastle.esp
@@ -4735,7 +4680,6 @@ Imperial House.esp
 ImperialCemetery.esp
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
-Insanity's Pet Shop.esp
 
 \Quests J
 
@@ -4877,7 +4821,6 @@ MadMagesTowerBASIC.esp
 ? Use 'MadMagesTowerBASIC-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
-Madness' Hideout.esp
 Mag1cWind0w_The_Imperial_Water.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
@@ -4924,7 +4867,6 @@ Naughty_Joana_01.esp
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
 Necromancer Shop.esp
-NewSheothManor.esp
 
 Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
@@ -4951,8 +4893,6 @@ One Stop Armors.esp
 OCC-OSMS-Patch.esp
 OrangeroadCottage.esp
 Order of the Virtuous Blood Expanded v0.1.esp
-? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
-Order of the Virtuous Blood Expanded v0.3.esp
 
 \Quests P
 
@@ -5042,7 +4982,6 @@ Shady Sam Plus.esp
 ShadySamFence.esp
 Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
-ShipInATree.esp
 Shivering Farm.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
@@ -5061,7 +5000,6 @@ Slash n Smash.esp
 SleepyCatInn.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
-SN_Shivering_Shack.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
 Sno_DB 1.0_Blade of Woe Replacer.esp
@@ -5129,7 +5067,6 @@ The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
 ? Not compatible with Better Cities.
 The Power of the North.esp
-The Retreat.esp
 The Siren's Deception.esp
 The_Dragon_Citadel-6178.esp
 TOSP - Loading Screens.esp
@@ -5430,7 +5367,6 @@ Knights - AWS Patch.esp
 Knights_fem.esp
 NLF Knights.esp
 M.O.E. - Visit Valen Dreth Topic.esp
-Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
 Mart's Monster Mod - Knights.esp
@@ -5612,6 +5548,7 @@ ElsweyrAnequina.esp
 ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
+? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 Colored Map for Elsweyr 1.1.esp
 
 Improved Imperial Infrastructure.esp
@@ -5828,7 +5765,6 @@ EaglesRest+LostCoast+CastleSeaview Patch.esp
 The Ruins of Miscarcand.esp
 
 MTCThievesGrotto.esp
-MTCThievesGrottoV4.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp
@@ -6058,7 +5994,6 @@ Pitcher Plant and Lily Ingredients.esp
 DEJ Harvest - Flora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 ? Exception: Herbalism mod.
- DEJ Harvest - Flora - CPU.esp
 RealisticFlora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCFrostcrag.esp
@@ -6328,7 +6263,6 @@ First Person Messages.esp
 Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
-Furniture Prices.esp
 
 \overrides G
 
@@ -6419,7 +6353,6 @@ Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lights.esp
 Live at Gweden Farm.esp
-Loot All Armor.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
@@ -6437,8 +6370,6 @@ M.O.E. - Lycanthropy and Lichcraft.esp
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
-Better and realistic prices.esp
-RedBag - Items Repriced v2.esp
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
@@ -6473,14 +6404,6 @@ MYR_AyleidKing.esp
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
-[Natcalsar] DontHideRings&Amulets_LA V1.0.esp
-? If possible use the Wrye Bash Bashed Patch tweak instead.
-[Natcalsar] DontHideRings&Amulets_HA V1.0.esp
-? If possible use the Wrye Bash Bashed Patch tweak instead.
-[Natcalsar] DontHideRings&Amulets_Clothing V1.0.esp
-? If possible use the Wrye Bash Bashed Patch tweak instead.
-[Natcalsar] DontHideRings&Amulets_KOTN+SI V1.0.esp
-? If possible use the Wrye Bash Bashed Patch tweak instead.
 Near100PercentArrowRecovery.esp
 ? Consider using Bash Patch tweaks instead.
 NewMerchantItems.esp
@@ -6607,7 +6530,6 @@ Sexlivion_0.4a_Full_English_v1.esp
 bondage_sex.esp
 Eroblivion.esp
 /don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
-
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
@@ -6693,10 +6615,8 @@ Talk with Your Hands2.esp
 talkwithyourhands2.esp
 talkwithyourhands PI4.esp
 TameWildlife.esp
-Docile SI Creatures.esp
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
-dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp
 TurretDisable.esp
@@ -6712,13 +6632,9 @@ Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
-Unlimited Amulets - Shivering Isles.esp
-? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets and Rings - Shivering Isles.esp
-? Use Wrye Bash Bashed Patch tweak instead.
-Unlimited Rings - Shivering Isles.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
@@ -6932,7 +6848,6 @@ More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 kuerteeEatAndSleep.esp
-Q - Carrying Capacity x20 v1.0.esp
 WeightLifter.esp
 
 Vim_and_Vigor.esp
@@ -6999,7 +6914,6 @@ Simple Essentials beta2.esp
 TFE.esp
 TFE Cobl.esp
 TFE Cobl Glue.esp
-TFE Beta 2 - vampire tweak and no message spam.esp
 
 Duke Patricks - Basic Hypothermia.esp
 Duke Patricks Hydration and Water Harvesting.esp
@@ -7088,7 +7002,6 @@ LithiansNatureOfTheBeastModBeta.esp
 
 MagLite.esp
 MagLite - Alchemy.esp
-OOO Potions Autocalc.esp
 
 \General Spells
 
@@ -7119,6 +7032,7 @@ Finders Keepers.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
+GrimbotsSpellTomes.esp
 haz_ct5_mark_recall.esp
 haz_ct7_horse_relocate.esp
 Healers.esp
@@ -7347,7 +7261,6 @@ Vector.esp
 sr_casting_hand.esp
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
-Josef Grey's Natural Starlight.esp
 Spells No Lighting.esp
 
 Friendlier Summons.esp
@@ -7471,7 +7384,6 @@ Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
-lumi_enchantments.esp
 Multiple Enchantments.esp
 Enchantment Reduction.esp
 Mundane Enchantment Adjustment.esp
@@ -7661,8 +7573,6 @@ Fiery Fists v1.2.esp
 WB Dynamic Weapon Speeds.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
-ArrowVelocity.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
 CombatFPSOptimizer.esp
@@ -7950,7 +7860,6 @@ S.P.A.M. Option - Fastest Minor.esp
 S.P.A.M. Option - Restore Spec.esp
 S.P.A.M. Option - Restore Fav.esp
 
-Conrans Level Rates modified-3x.esp
 Francesco's Slower skills x1.5.esp
 Francesco's Slower skills x2.esp
 Francesco's Slower skills x3.esp
@@ -8106,8 +8015,6 @@ BulkyOrcs.esp
 % {{BASH:Body-M,Body-F}} and deactivate.
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F}} and deactivate.
-Bigger_Dremora.esp
-% {{BASH:Body-M,Body-F}} and deactivate... mprobably.
 Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 JJR'sWhiskers and Eyebrow.esp
@@ -8191,8 +8098,6 @@ DesuChan's Anime Eyes (Vanilla).esp
 
 All_hair_and_eyes-1841.esp
 % {{BASH:Hair,Eyes}} and deactivate.
-BP-Cosmetic_Compilation-Alternative.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation XXL DV.esp
@@ -8211,16 +8116,11 @@ CT-Argonian Headstyles-MM.esp
 % {{BASH:Graphics,Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE+MM.esp
 % {{BASH:Graphics,Hair,Eyes}} and deactivate.
-MD_Natural_Faces_DV.esp
-% {{BASH:Graphics,Hair,Eyes}}
-King_O_POPver2
-% {{BASH:Graphics,Hair,Eyes}}
+
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
-4 New Races for Rens-Beautiful People.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathMod.esp
@@ -8288,17 +8188,7 @@ TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
 Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-LattamerV3_P-rrtyCure_Hair_Module.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Beautiful People 2ch-Ed Disable One Eyed.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Beautiful People 2ch-Ed Disable BandBlindMask.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Unknown mod file: Beautiful People 2ch-Ed Vanilla Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
-idkrrr_sarams_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
@@ -8575,8 +8465,6 @@ DADemons.esp
 DAJackSparrow.esp
 % {{BASH:Hair,Eyes}}
 DAKaleahSuccubus.esp/DAKaleah.esp
-% {{BASH:Hair,Eyes}}
-Nec-Elf_Kaleah.esp
 % {{BASH:Hair,Eyes}}
 DAXivilai.esp
 % {{BASH:Hair,Eyes}}
@@ -9136,7 +9024,6 @@ OOO-Respawn_Two_Week.esp
 OOO-Respawn_Week.esp
 OOO-Respawn_Year.esp
 ThingasTime 1-15 Scale.esp
-Automatic Timescale.esp
 Timescale 10x Real-Life.esp
 Time-2hr-realtime.esp
 TF_timemod1-10.esp
@@ -9198,7 +9085,6 @@ Detect Life Shader.esp
 Detect Life Shader [New].esp
 DS Flaming Arrows.esp
 LifeDetect Shader.esp
-Life Detected - Cascade - Medium - 2.esp
 Life Detected - Enhanced Shader.esp
 Life Detected - OMOD.esp
 Forward Motion Blur.esp
@@ -9358,11 +9244,8 @@ NRB4 OCLR Road Record.esp
 ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
-
 Bashed Delayers - MERGE ONLY.esp
 ? Must be merged into the bashed patch in Wrye Bash
-CoreRandmonClothing4Npcs.esp
-% {{BASH:Filter,Invent,IIM}}
 Cobl Filter Late MERGE ONLY.esp
 ? Make sure it is deactivated. Must be merged into Bashed Patch
 Cobl Silent Equip Misc.esp

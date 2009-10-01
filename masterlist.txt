@@ -604,8 +604,6 @@ All Natural - NW + AWS.esp
 ? Only use one All Natural weather plugin.
 All Natural - EW + NW + AWS.esp
 ? Only use one All Natural weather plugin.
-All Natural - Kvatch Rebuilt Patch.esp
-All Natural - Gates To Aesgaard 2 Patch.esp
 All Natural - Enhanced Seasons.esp
 ? Requires ScreenEffects.
 ? Obsolete. Update to latest version of All Natural.
@@ -615,7 +613,12 @@ All Natural - Weather Inside.esp
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
+
+Gates To Aesgaard 2 Weather Patch.esp
+Kvatch Rebuilt Weather Patch.esp
+
 Weather Debug Ring.esp
+Weather Debug Spammer.esp
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -5614,6 +5617,7 @@ ElsweyrAnequina.esp
 ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
+? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 Colored Map for Elsweyr 1.1.esp
 
 Improved Imperial Infrastructure.esp

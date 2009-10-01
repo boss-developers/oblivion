@@ -6556,6 +6556,7 @@ QuestItemMessage.esp
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
+Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
@@ -8463,8 +8464,11 @@ CM Partners Extra NPCs.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partner Jordie1.esp
+CM AnyaYelena2.esp
 cm lula wild.esp
 CM Tifa A.esp
+Colourwheels Sexy Tifa.esp
+% {{BASH:NpcFaces}}
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
 AsharasCMPartners.esp
@@ -8518,10 +8522,13 @@ Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 companion_moonelves.esp
 companion.esp
+Custom NPCs for CSR.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}
 Eluna.esp
+% {{BASH:Hair,Eyes}}
+DAEluna.esp
 % {{BASH:Hair,Eyes}}
 GG_Valeria_Revived.esp
 % {{BASH:Hair,Eyes}}
@@ -8582,7 +8589,9 @@ DADemons.esp
 % {{BASH:Hair,Eyes}}
 DAJackSparrow.esp
 % {{BASH:Hair,Eyes}}
-DAKaleahSuccubus.esp/DAKaleah.esp
+DAKaleahSuccubus.esp
+% {{BASH:Hair,Eyes}}
+DAKaleah.esp
 % {{BASH:Hair,Eyes}}
 Nec-Elf_Kaleah.esp
 % {{BASH:Hair,Eyes}}

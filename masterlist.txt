@@ -1722,7 +1722,7 @@ Quick Clothes and Spells.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 sr_super_hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
-
+YetAnotherHotkeyMod.esp
 
 \-----
 \DLC 1
@@ -1917,6 +1917,12 @@ Armory of the Silver Dragon EN.esp
 ArmorOfTheWhiteFox.esp
 % {{BASH:Invent}}
 Armored Masks.esp
+Armement_de_l'ombre.esp
+Armure de Belladone.esp
+Armure du Berserk.esp
+Armure en mithril de Nazgul.esp
+Armure de Seigneur Daedrique.esp
+Armurerie du Dragon d'Argent.esp
 Arrow_of_Light.esp
 ALE_Armure_Legere.esp
 AlternativeLightArmors12.esp
@@ -1989,6 +1995,7 @@ Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
 Battlespire Books.esp
 bcrich.esp
+BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
 ? Only Use one BlackGlovesX.esp, this one does NPC changes

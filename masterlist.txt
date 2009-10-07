@@ -355,6 +355,7 @@ Permanent Effects from Quest Items fix Merge.esp
 \----------------------------------
 
 Arena-Ansage-Fix.esp
+OblivionMsg.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
 
@@ -3418,6 +3419,7 @@ Tamrielic_Ingredients_cOMbo.esp
 FCOM_TamrielicIngredients.esp
 ? Requires 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
 
+Cobl Main RUS.esp
 Cobl Glue.esp
 >? Requires 'FCOM_Cobl.esp'.
 Cobl Glue MW Ingred.esp
@@ -4312,6 +4314,8 @@ ABloodyNight.esp
 AbuEmir01.esp
 ? Requires Shivering Isles
 AdenseEpicDungeon.esp
+? Old, update to AdenseEpicDungeon1_1.esp.
+AdenseEpicDungeon1_1.esp
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
@@ -8840,6 +8844,12 @@ Better Cities - Knightly Armory.esp
 Better Cities - Cheydinhal City Defences.esp
 Better Cities CHEYDINHAL.esp
 Better Cities - Tears of the Fiend.esp
+BCCheydinhal-CheydinhalFalls patch.esp
+? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
+BCCheydinhalFULL-CheydinhalFalls patch.esp
+? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
+BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
+? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 
 Better Cities - Leyawiin City Defences.esp
 Better Cities LEYAWIIN.esp

@@ -853,6 +853,7 @@ AmbientDungeons.esp
 \Base #
 
 1vampirescocktail.esp
+13rings.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
 2680twohand.esp
@@ -896,6 +897,7 @@ Anvil Dock Map Marker.esp
 archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
+Auto_Recharge.esp
 autosavertest.esp
 Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
@@ -1861,6 +1863,7 @@ Adonnays Elven Weaponry.esp
 Adonnays Elven Longblades.esp
 Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
+AK-47GR2.esp
 Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
@@ -2271,6 +2274,7 @@ HelmetCollection.esp
 HENTAI's gift.esp
 Hentai Compilation.esp
 Hentai_Compilation.esp
+HentaiSummerFesta.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -2591,6 +2595,7 @@ Staff_of_Magius.esp
 talon.esp
 % {{BASH:Invent}}
 Talon of Akatosh Longsword.esp
+Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
 tda_Armoury.esp
@@ -2675,6 +2680,7 @@ witchkingsword.esp
 Wyrmfang.esp
 WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
+Wood Bows and Leather Armors.esp
 
 \Items XYZ
 
@@ -3668,6 +3674,9 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
 >* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
 >* Consider using 'FCOM_SpawnRatesReduced.esp', 'FCOM_SpawnRatesSlightlyReduced.esp' or 'FCOM_SpawnRatesStronger.esp' instead.
+>Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
+>* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+>* Consider using 'FCOM_SpawnRatesReduced.esp', 'FCOM_SpawnRatesSlightlyReduced.esp' or 'FCOM_SpawnRatesStronger.esp' instead.
 >Mart's Monster Mod - No Reavers.esp
 >Mart's Monster Mod - No Reaver Hounds.esp
 >Mart's Monster Mod - No Carrion Rats.esp
@@ -3803,7 +3812,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - No Uberhulks.esp
 <Mart's Monster Mod - No Skeep.esp
 <Mart's Monster Mod - No Balrogs.esp
-<
+
 <Mart's Monster Mod - Increased Spawn Rates.esp
 <Mart's Monster Mod - Spawn Rates Increased.esp
 <Mart's Monster Mod - Spawn Rates - Increased.esp
@@ -3813,6 +3822,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Spawn Rates Reduced Reduced.esp
 <? Older version. Update to 3.6beta3 or later.
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
+<Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
 <Mart's Monster Mod - Vindasel.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
@@ -4396,6 +4406,9 @@ Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
+AzurasServices_de.esp
+? German Version
+AzurasServices_en.esp
 
 \Quests B
 
@@ -4982,6 +4995,7 @@ Pit Trap.esp
 PirateIsland.esp
 Player House.esp
 PlayerHomeNaheema.esp
+Players with Jobs.esp
 Pond Cottage.esp
 POVS2 v1.1.esp
 Praying Room.esp
@@ -5008,6 +5022,7 @@ Quest Nirnroot.esp
 Reaper's Coldstone Town.esp
 ? Incomatible with Hear of the Dead
 Raiders of Cyrodil.esp
+RavenCragHome.esp
 RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
@@ -5279,6 +5294,7 @@ Water's Edge Cottage.esp
 Waterfront_Shack-6733.esp
 Weye.esp
 Weye_Manor.esp
+WeyeHouse.esp
 Windfall.esp
 
 WeynonRetreat.esp
@@ -6617,6 +6633,7 @@ Salmo WV, Cobl.esp
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 SA Social Alertness.esp
 SBDummyTraining.esp
+Scouter.esp
 seorin's Artifact Fix.esp
 SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp

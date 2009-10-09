@@ -924,8 +924,6 @@ Book Jackets Oblivion.esp
 % {{BASH:Graphics}} and deactivate.
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}} and deactivate.
-GrimbotsSpellTomes.esp
-% {{BASH:Graphics}} and deactivate.
 OBG - Bchermod - Bilder - BP.esp
 % {{BASH:Graphics}}
 
@@ -1777,6 +1775,8 @@ DLCSpellTomes - Unofficial Patch.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
+GrimbotsSpellTomes.esp
+% {{BASH:Graphics}} and deactivate.
 
 
 \--------------
@@ -4986,6 +4986,7 @@ Order of the Virtuous Blood Expanded v0.3.esp
 
 \Quests P
 
+ThePaleAdventurer.esp
 Pats Business Mod---Shop Version 1.6.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
@@ -9384,6 +9385,7 @@ Helmet Toggle.esp
 MiniMap.esp
 MUTE.esp
 
+KSE_v3.esp
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.

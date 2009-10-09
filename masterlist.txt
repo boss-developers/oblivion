@@ -869,6 +869,8 @@ AmbientDungeons.esp
 
 5076-V2.0-Dwemer Specs Equip-TESSource.esp
 
+[WIP]_Mysterious_Chest_(Combine_or_drain_soulgems)-2047.esp
+
 \Base A
 
 AliveWaters.esp
@@ -2201,6 +2203,7 @@ Eternal Dragon Armor light.esp
 Eternal Dragon Armor Heavy.esp
 Ethereal - Armor Imperial Legion Edition.esp
 Ethereal - Armor Imperial Legion Edition AR.esp
+Exnem Pekka Pumps.esp
 Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
@@ -3218,6 +3221,8 @@ Slof's Black Unicorn.esp
 HRMHorseArmor.esp
 % {{BASH:Graphics}}
 HRMHorseArmorSlofsHorsesPatch.esp
+% {{BASH:Graphics}}
+HRMHorseArmorSlofsHorsesPatch20.esp
 % {{BASH:Graphics}}
 DLCHorseArmor_SlofBase.esp
 % {{BASH:Graphics}}
@@ -4411,6 +4416,8 @@ Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
 Assassin's Hideout v1.1.esp
+Aundae.esp
+Aundae_OBSE_addon.esp
 Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 AvaiRii_UnderwaterHome.esp
@@ -4581,6 +4588,7 @@ Dk second knight update.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
+DemonEnergy.esp
 Demonhunter.esp
 
 DexwoodsHideout.esp
@@ -4731,6 +4739,7 @@ Hero Hill Redone.esp
 HobbitHole.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
+Housewives v101.esp
 Hale Housing.esp
 HanstHolm village.esp
 HeartlandFarm.esp
@@ -5545,6 +5554,7 @@ OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 
 The Lost Spires.esp
+LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 
@@ -6147,6 +6157,8 @@ Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
 Archmage_Enchanted_Chest_OBSE.esp
 Archnamage's Chest For SI.esp
+Arch Mage Chest Remake OBSE.esp
+Arch_Mages_Robe_Enchanted_--_Master_Level-2205.esp
 ArgonianSwiftSwim - Leopard.esp
 Argonians and Khajiit Lose Tails no More Script.esp
 Argonians and Khajiit Lose Tails no More.esp
@@ -6195,6 +6207,7 @@ Birthsigns Expanded.esp
 % {{BASH:Names}}
 ? May be a bit imbalanced when used with Race Balancing Project
 Birthsign Zero.esp
+BlackAzurasStar.esp
 BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
@@ -7206,6 +7219,7 @@ DS Summon Luggage.esp
 Diplomacy and Mercy.esp
 Egress.esp
 DS Realistic Enchanted Item Limits.esp
+Natural Rings Limit.esp
 Is It Safe.esp
 ME_WAR_SUMMONS.esp
 Mannimarco's Grasp.esp
@@ -7213,6 +7227,7 @@ Meteor Shower.esp
 Multiple Creature Summoning.esp
 Level Based Summon Cap.esp
 Nightmare.esp
+NollesMadnessPortalT2.esp
 OblivionGateTraveller.esp
 Open_Very_Hard_Lock.esp
 P1DsafeContainers.esp
@@ -7232,6 +7247,7 @@ RDetectLife.esp
 Rain of Gold OBSE.esp
 Rain of Gold.esp
 Ranokoas Killing Spree Spells.esp
+Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Resurrect.esp
 SetEssentialActors.esp
@@ -7562,6 +7578,8 @@ attack and hide easier v2.0.esp
 ? Check for newer version.
 attack and hide medium v2.0.esp
 ? Check for newer version.
+attack and hide harder v2.0.esp
+? Check for newer version
 attack and hide medium v2.1.esp
 UOE-attack and hide medium v2.1.esp
 attack and hide easier v2.1.esp
@@ -9253,6 +9271,7 @@ Chameleon-NoRefraction-2411.esp
 \''''''''''''''''
 
 AznarsLifeDetect.esp
+AznarsLifeDection-3052.esp
 LifeDetect Shader HQ.esp
 BadderFireFX.esp
 BadderFrostFX.esp

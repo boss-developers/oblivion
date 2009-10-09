@@ -982,6 +982,8 @@ Third Person View Camera Distance Lock -Tight-.esp
 Custom 3rd person view.esp
 FlyingCameraMod.esp
 Flying Camera.esp
+FOV Modifier.esp
+Growlfs Fixed Camera.esp
 ImmersiveFirstPersonView.esp
 VanityCameraSmoother.esp
 VanityCamera Smoother.esp
@@ -1857,6 +1859,7 @@ AC Stock Armor.esp
 Ace's Warlock Gear.esp
 Action_Figures_Series1.esp
 Action_Figures_Series2.esp
+adelina.esp
 Adonnays Classical Weaponry.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
@@ -1869,6 +1872,7 @@ Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 Akiviri Imports MOBS.esp
 AkatoshHead.esp
+Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
 Ayleid Artifacts.esp
@@ -2047,6 +2051,7 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
 BlueStaff.esp
+BlueAndWhitePorcelain - Full.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
@@ -3706,6 +3711,8 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's Monster Mod - Less Bone Loot.esp
 >Mart's Monster Mod - Zombies for Body Meshes.esp
 >Mart's Monster Mod - Vindasel.esp
+>? Obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+>Mart's Monster Mod - Safer Quest Locations.esp
 >Mart's Monster Mod - Foxes.esp
 >Mart's Monster Mod - Bats Addon.esp
 >? Old MMM file. Update MMM to 3.6b3 or later and use 'Dungeons of MMM.esp' instead.
@@ -3824,6 +3831,8 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
 <Mart's Monster Mod - Vindasel.esp
+<? Obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+<Mart's Monster Mod - Safer Quest Locations.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
 <? Old MMM file. Update MMM to 3.6beta3 or later and use 'Dungeons of MMM.esp' instead.
@@ -4705,6 +4714,7 @@ HackdirtCaverns.esp
 Halcyon House.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
+Harpsichords in Cyrodiil.esp
 HauntedHouse v1.3.esp
 % {{BASH:Invent}}
 ? Version 1.5 is available.
@@ -5440,6 +5450,8 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
+Knights - Book Jackets.esp
+% {{BASH:Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp
 % {{BASH:Names}} or without Bash load it later.
 KnightsBabFemaleArmor.esp
@@ -5550,7 +5562,7 @@ Ungarion1TheWelkyndSword.esp
 
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
-? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
+>? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
 
 Lost Paladins of the Divines.esp
 
@@ -5840,6 +5852,7 @@ xulImperialIsle.esp
 xulBlackwoodForest.esp
 
 xulCheydinhalFalls.esp
+Blood&Mud-CheydinhalFalls patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -6196,7 +6209,9 @@ BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Bonds Big Portable Tent.esp
 Bottled_Explosions.esp
-
+Bow Damage Balanced.esp
+% {{BASH:Stats}} and deactivate.
+ 
 Bullettimemod.esp
 Bullettimemodsetkey.esp
 WHOOSH.esp
@@ -6294,6 +6309,7 @@ DecoratorAssistant with OBSE v1.1.esp
 DecoratorAssistant Unlock for OBSE version.esp
 DecoratorAssistant with OBSE v1.11_Unofficial.esp
 Delmar_the_Soulgem_Salesman-5069.esp
+dhsRTent.esp
 dhsRTentwithSorter.esp
 ? Requires COBL.
 Direnni Alchemy Apparatus.esp
@@ -6303,8 +6319,6 @@ Dreightons_Item_Value.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DS Less Predictable Respawn.esp
-dhsRTentwithSorter.esp
-? Requires COBL.
 DS Alchemy Pouch.esp
 ? Old version upgrade to Portable Sorters
 DS Portable Sorters.esp
@@ -6314,6 +6328,7 @@ DS Storage Sacks.esp
 
 Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
+DwemerSpecsEquip.esp
 
 \overrides E
 
@@ -6569,6 +6584,7 @@ P1DkeyChainFrostcraig.esp
 P1DkeyChainKnights.esp
 P1DKeyChainSI Merged.esp
 P1DkeyExtraMouseButton.esp
+Panzer_Kleidung.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
@@ -8559,6 +8575,8 @@ DremoraCompanion.esp
 Eluna.esp
 % {{BASH:Hair,Eyes}}
 DAEluna.esp
+% {{BASH:Hair,Eyes}}
+DAJadeTabaxi.esp
 % {{BASH:Hair,Eyes}}
 GG_Valeria_Revived.esp
 % {{BASH:Hair,Eyes}}

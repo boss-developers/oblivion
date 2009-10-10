@@ -3632,7 +3632,8 @@ MALO - Loot Tweaks FRAN.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
->
+>Mart's Monster Mod - More Passive Wildlife.esp
+
 >Mart's Monster Mod - Safer Roads.esp
 >* Delete and use the 'FCOM_SaferRoads.esp'.
 >FCOM_SaferRoads.esp
@@ -3647,6 +3648,8 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's_Monster Mod -No Wyvern.esp
 >* Delete and use 'FCOM_NoWyverns.esp'.
 >FCOM_NoWyverns.esp
+>Mart's Monster Mod - No Pests.esp
+>Mart's Monster Mod - No Swarms.esp
 >Mart's Monster Mod for OOO - NoReaversInGates.esp
 >* Delete. Use 'FCOM_NoReaversInGates.esp' instead.
 >FCOM_NoReaversInGates.esp
@@ -3802,6 +3805,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' if using OOO.
 <Mart's Monster Mod for OOO - LessReaversInGates.esp
 <Mart's Monster Mod - Safer Roads.esp
+<Mart's Monster Mod - No Swarms.esp
 <Mart's Monster Mod - No Reavers.esp
 <Mart's Monster Mod - NoReaversInGates.esp
 <? Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' if using OOO.
@@ -3820,6 +3824,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - No Lanterns.esp
 <Mart's Monster Mod - No Adventurers.esp
 <Mart's Monster Mod - No Wyvern.esp
+<Mart's Monster Mod - No Pests.esp
 <Mart's Monster Mod - No Beholdens.esp
 <Mart's Monster Mod - No Uberhulks.esp
 <Mart's Monster Mod - No Skeep.esp
@@ -3846,11 +3851,14 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Wilderness Life No Gates.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+<Mart's Monster Mod - More Passive Wildlife.esp
 <Mart's Monster Mod - City Defences.esp
 <Mart's Monster Mod - Curse of Hircine.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
+<?obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
+<Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
@@ -4001,7 +4009,7 @@ FCOM_Archery_Deadly_Artifacts.esp
 
 Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
-Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
+>Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 FCOM_FriendlierFactions.esp
 FCOM_MoreRandomSpawns.esp

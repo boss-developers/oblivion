@@ -1887,6 +1887,7 @@ ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
+ANB_Portable_Bedroll.esp
 ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
 Ancient Dwarven Armour.esp
@@ -4156,6 +4157,9 @@ Tamrielic_Ingredients_MMM.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
+
+Morrowind Ingredients_MMM.esp
+? Consider Upgrading to Tamrielic Ingredients.
 
 FCOM_Archery_4_Arma_Complete_patch.esp
 C&C - The Blackwood Company - OOO.esp

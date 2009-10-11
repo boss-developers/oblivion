@@ -1814,8 +1814,7 @@ NordFemaleMuscles.esp
 
 EVE_StockEquipmentReplacer.esp
 % {{Bash:Graphics}}
-< ? Do not use with MMM or OOO - use the proper compatibility plugin.
-> ? Use FCOM Version instead.
+? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
 % {{Bash:Graphics}}
 
@@ -4176,10 +4175,11 @@ Mage Equipment - OOO.esp
 MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
+? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
->? Do not use with FCOM.
+? For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer4MMM.esp
->? Do not use with FCOM
+? For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
 ? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
@@ -7217,7 +7217,7 @@ IllusionaryScript.esp
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp 
 JADPolymorphSpellv3.esp
-[b]Life Detected - Aura - Huge - 1.esp
+Life Detected - Aura - Huge - 1.esp
 ? Only activate one Life Detected esp at a time.
 Life Detected - Aura - Huge - 2.esp
 ? Only activate one Life Detected esp at a time.
@@ -7376,11 +7376,11 @@ Life Detected - Venting - Small - 2.esp
 Life Detected - Venting - Tiny - 1.esp
 ? Only activate one Life Detected esp at a time.
 Life Detected - Venting - Tiny - 2.esp
-? Only activate one Life Detected esp at a time.[/b]
+? Only activate one Life Detected esp at a time.
 Polymorph DV.esp
 JIM_Summon_Doppleganger.esp
-[b]JIM_Summon_Unicorn.esp
-? Do not activate alongside other horse summoning mods. Use only one .esp.[/b]
+JIM_Summon_Unicorn.esp
+? Do not activate alongside other horse summoning mods. Use only one .esp.
 KT_DetectHostility.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
 Kyoma's Spell Renamer.esp
@@ -7467,7 +7467,7 @@ RoomOfEnchantment.esp
 Scavenger Scamp.esp
 xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
-% {{BASH:Sound}} and deactivate. Requires 'SupremeMagicka'.
+% {{BASH:Sound}}
 kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
@@ -7512,6 +7512,8 @@ SSEE-MM.esp
 
 SupremeMagicka.esp
 % {{BASH:Names,Graphics}}
+AgarVariedSpellSounds_SupremeMagicka.esp
+% {{BASH:Sound}} and deactivate. Requires 'SupremeMagicka'.
 SM Ancestral Guardian.esp
 SM_ShiveringIsles.esp
 SM_DLCSpellTome.esp
@@ -7538,7 +7540,6 @@ SM Spell Leveller - OOO.esp
 SM Spell Leveller - Shivering Isles.esp
 SM Spell Leveller - SupremeMagicka.esp
 SM Spell Leveller - Vile Lair.esp
-AgarVariedSpellSounds_SupremeMagicka.esp
 Diverse Effects Icons for SM.esp
 Diverse Effect Icons for SM.esp
 bgMagicEV_Conjuration_for_Supreme_Magicka.esp
@@ -8903,10 +8904,10 @@ bgBalancingEVNoSIVersion_Core_still_required.esp
 \Expect SM to be moved here for people who want SM to 'win' over LAME.
 
 bgMagicDV.esp
-% {{BASH:Names}}
+% {{BASH:Names,Delev,Relev}}
 ? German version
 bgMagicEV.esp
-% {{BASH:Names}} if you are running more than one magic overhaul and want to use LAME spell names.
+% {{BASH:Names,Delev,Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
 bgMagicSpellTomes_for_WryeBash.esp
 bgMagicDVSpellTomes_for_WryeBash.esp

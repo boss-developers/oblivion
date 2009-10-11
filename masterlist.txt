@@ -42,6 +42,7 @@ You Are Here.esm
 Uncommon GUI.esm
 Skingrad24Vars.esm
 IWRRetrofittedMaster.esm
+Improved Leveling System.esm
 Natural Interiors.esm
 AWS-Core.esm
 EnhancedWeather.esm
@@ -1813,6 +1814,8 @@ NordFemaleMuscles.esp
 
 EVE_StockEquipmentReplacer.esp
 % {{Bash:Graphics}}
+< ? Do not use with MMM or OOO - use the proper compatibility plugin.
+> ? Use FCOM Version instead.
 HGEC_special_armor_repl.esp
 % {{Bash:Graphics}}
 
@@ -2489,6 +2492,8 @@ PythonHolyhg.esp
 
 RavenWearClothing.esp
 RavenWearArmor.esp
+Raziel_Apperal.esp
+Raziel Training Dummy BETA.esp
 RDAyleidArmour.esp
 rdweaponpack1.esp
 Redemption.esp
@@ -3511,7 +3516,6 @@ OOO-Magic_Game_Settings.esp
 OOO-Potions.esp
 OOO-Thief_Guild_Difficult.esp
 OOO-ThiefGuild_Difficult.esp
-OOO-Magic_Script_Effect_Fix.esp
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
 * Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
@@ -4173,7 +4177,9 @@ MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
 EVE_StockEquipmentReplacer for OOO.esp
+>? Do not use with FCOM.
 EVE_StockEquipmentReplacer4MMM.esp
+>? Do not use with FCOM
 
 Diverse Imperial Armor v1.1.esp
 ? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
@@ -4474,6 +4480,7 @@ Better Benirus Manor - Interior Only.esp
 Better Benirus Manor for Cobl - Complete.esp
 Better Benirus Manor for Cobl - Interior Only.esp
 Better Rosethorn Hall.esp
+Better Shady Sam.esp
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -6714,6 +6721,7 @@ Enhanced Vegetation [125%].esp
 Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
+Sigil Stone Alternative.esp
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
@@ -7209,8 +7217,170 @@ IllusionaryScript.esp
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp 
 JADPolymorphSpellv3.esp
+[b]Life Detected - Aura - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Aura - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Burst - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Cascade - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Escape - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Fountain - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Orbit - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Skeleton - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Huge - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Huge - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Large - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Large - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Medium - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Medium - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Small - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Small - 2.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Tiny - 1.esp
+? Only activate one Life Detected esp at a time.
+Life Detected - Venting - Tiny - 2.esp
+? Only activate one Life Detected esp at a time.[/b]
 Polymorph DV.esp
 JIM_Summon_Doppleganger.esp
+[b]JIM_Summon_Unicorn.esp
+? Do not activate alongside other horse summoning mods. Use only one .esp.[/b]
 KT_DetectHostility.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
 Kyoma's Spell Renamer.esp
@@ -7297,7 +7467,7 @@ RoomOfEnchantment.esp
 Scavenger Scamp.esp
 xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
-% {{BASH:Sound}}
+% {{BASH:Sound}} and deactivate. Requires 'SupremeMagicka'.
 kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
@@ -8159,11 +8329,10 @@ FastTravelAllowed.esp
 
 Item interchange - Placement.esp
 * Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
-? Non-FCOM version.
-? Use either FCOM or non-FCOM versions as appropriate but not both together.
+>? Non-FCOM version. Use 'Item interchange - Placement for FCOM.esp' instead.
 ? Requires recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
-? Use either FCOM or non FCOM versions as appropriate but not both together.
+<? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
 Item interchange - Placement for Frostcrag Reborn.esp
 Item interchange - Placement for Frostcrag Spire Revisited.esp
@@ -9608,6 +9777,8 @@ Duke Patricks - Combat Magic.esp
 \I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
 \Staying here until the SCA stuff moves though, these should be after that.
 
+OOO-Magic_Script_Effect_Fix.esp
+% {{BASH:Sound}}
 Duke Patricks Script Effect Silencer.esp
 ? Old. Upgrade to latest version.
 \% {{BASH:Sound}}

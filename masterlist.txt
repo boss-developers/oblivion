@@ -4169,7 +4169,7 @@ C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
 Geomancy & Gem Dust OOO (No Spell Change).esp
-?Use 'Geomancy & Gem Dust OOO (No Spell Change)' or 'Geomancy & Gem Dust OOO' but not both at the same time.
+? Use 'Geomancy & Gem Dust OOO (No Spell Change)' or 'Geomancy & Gem Dust OOO' but not both at the same time.
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
@@ -4196,10 +4196,13 @@ Wearable GS and DS armor for OOO.esp
 
 EnchantedGems_Geomancy.esp
 % {{BASH:Scripts}}
-? Similar to OOO and MMM Gems and Gem Dust. May not be compatible with those. Untested.
+? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
+geomancy.esp
+? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
 TUR_GemDust.esp
 % {{BASH:Scripts}}
-? Similar to OOO and MMM Gems and Gem Dust. May not be compatible with those. Untested.
+? Similar to OOO and MMM Gems and Gem Dust - is almost certainly incompatible with those. Untested.
+
 
 AdrenalineOblivion-SupportElements.esp
 AdrenalineOblivion-SpawnElement.esp
@@ -6784,6 +6787,7 @@ TameWildlife.esp
 Docile SI Creatures.esp
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
+ATakesAll.esp
 dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp

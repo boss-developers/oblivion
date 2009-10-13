@@ -81,7 +81,9 @@ Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 ? Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
+% {{BASH:Invent,Stats,Relations}}
 Mart's Monster Mod.esm
+% {{BASH:Invent,Relations}}
 Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
 Waalx Animals & Creatures.esm
@@ -316,8 +318,8 @@ sulinus fix.esp
 ? Not a fix exactly, so can be used with the UOP.
 
 AdventurersItemMod.esp
-? If not using Bash this must be loaded after UOP but then you will lose a lot of fixed from UOP.
-% {{BASH:Invent}} needed so that it will work before UOP and still have the inventory changes from this.
+? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
+% {{BASH:Invent,Relations}} needed so that it will work before UOP and still have the inventory changes from this.
 Self-Preservation v1.0.esp 
 ? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits
 % {{BASH:Scripts}}
@@ -370,7 +372,7 @@ Traduccion Mejorada S.I.esp
 Unofficial Shivering Isles Patch.esp
 ? Remember to use the 'MOBS' version when using Francesco's and FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
-% {{BASH:C.Light,C.Owner,Invent,Names,Stats,Delev}}
+% {{BASH:C.Light,C.Owner,Invent,Names,Relations,Stats,Delev}}
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp
@@ -1651,7 +1653,7 @@ C&C&EQR.esp
 ? Not the latest version, the latest version has the same file names as the previous version. Update.
 
 C&C - The Blackwood Company.esp
-% {{BASH:C.Owner}}
+% {{BASH:C.Owner,Relations}}
 
 Duke Patricks - Who Goes There.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
@@ -2503,6 +2505,7 @@ Reznod Mannequin.esp
 Reznod_Mannequin_HD[Eng].esp
 RGMsCheerleader.esp
 Rindirs Staves.esp
+Ring of Sunwalker V1.35.esp
 RingwraithArmorMithril.esp
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
@@ -3497,6 +3500,7 @@ G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
+% {{BASH:Invent,Stats,Relations}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -3743,8 +3747,9 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's Monster Mod - Diverse WaterLife.esp
 >Mart's Monster Mod - Diverse Wisps.esp
 >MMM - Playable Undead Armors.esp
+>% {{BASH:Invent}}
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
-
+>% {{BASH:Invent}}
 
 <\MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
@@ -3868,7 +3873,9 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
 <Mart's Monster Mod - Diverse Wisps.esp
 <MMM - Playable Undead Armors.esp
+<% {{BASH:Invent}}
 <MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
+<% {{BASH:Invent}}
 
 MrSiika'sFarmAnimals.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
@@ -4173,6 +4180,7 @@ Geomancy & Gem Dust OOO (No Spell Change).esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
+% {{BASH:Invent}}
 
 EVE_StockEquipmentReplacer4FCOM.esp
 ? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
@@ -4888,6 +4896,7 @@ Lakeview.esp
 Lakeview2.esp
 Lakewood Village Ver 2.0.esp
 Legion Faction Mod.esp
+% {{BASH:Relations}}
 Lem - Celestial Lagoon.esp
 Lem - The Nether.esp
 Lem - The Rift.esp
@@ -5378,7 +5387,9 @@ Arena Immersion Upgrade-1174451252-TESSource.esp
 CDM-Arena Gauntlet.esp
 CDM-Arena Survival.esp
 Arena_BattlesV1.1.esp
+% {{BASH:Relations}}
 Arena_BattlesV1.2EV.esp
+% {{BASH:Relations}}
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
@@ -5490,6 +5501,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
+% {{BASH:Invent}}
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -5667,7 +5679,7 @@ BrewHouse.esp
 
 Enhanced Daedric Invasion.esp
 >? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
-EDI - Less Monotonous DOT.esp
+
 RoS_Enhanced Daedric Invasion Compatability.esp
 Enhanced Daedric Invasion for FCOM.esp
 * Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead.
@@ -6569,6 +6581,7 @@ NameReplacer-Clothing.esp
 ? If possible use the Wrye Bash Bashed Patch tweak instead.
 Near100PercentArrowRecovery.esp
 ? Consider using Bash Patch tweaks instead.
+NE_Realistic_Blocking.esp
 NewMerchantItems.esp
 New_Magical_Staves.esp
 NirnrootPermPotions.esp
@@ -6709,6 +6722,7 @@ Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
+SetsunaDummyTraining.esp
 Sexual_Spriggan.esp
 ? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Sexual_Minotaur.esp

@@ -357,6 +357,7 @@ Permanent Effects from Quest Items fix Merge.esp
 \have to be after UOP in some cases
 \----------------------------------
 
+AOBrokenVoicesFix.esp
 Arena-Ansage-Fix.esp
 OblivionMsg.esp
 singlers_uebersetzungen.esp
@@ -4611,6 +4612,8 @@ Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Sutch Reborn Spawn Patch.esp
+? Use instead of '(DC) Sutch Reborn.esp'... why couldn't it be a proper patch instead of a replacer esp. 
+? Rename to '(DC) Sutch Reborn.esp' if using the ooo/ul patches.
 
 The Dead Knights.esp
 Dk offhand weapons.esp
@@ -5818,6 +5821,7 @@ BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Also use Sutch reborn Lighthouse Fix UL.esp.
 Sutch reborn Lighthouse Fix UL.esp
+OOO-UL-Sutch patch.esp
 SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp

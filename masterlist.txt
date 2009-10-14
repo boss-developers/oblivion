@@ -7533,11 +7533,10 @@ cidnothumpMMversion.esp
 SSEE-MM.esp
 
 \Supreme Magicka
-
+AgarVariedSpellSounds_SupremeMagicka.esp
+% {{BASH:Sound}} and deactivate.
 SupremeMagicka.esp
 % {{BASH:Names,Graphics}}
-AgarVariedSpellSounds_SupremeMagicka.esp
-% {{BASH:Sound}} and deactivate. Requires 'SupremeMagicka'.
 SM Ancestral Guardian.esp
 SM_ShiveringIsles.esp
 SM_DLCSpellTome.esp

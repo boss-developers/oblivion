@@ -903,6 +903,7 @@ Anvil Dock Map Marker.esp
 archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
+? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
 Auto_Recharge.esp
 autosavertest.esp
 Ayleid Coin Add-on.esp
@@ -6643,6 +6644,7 @@ Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
 Potions Recolored.esp
 JQ-PotionReplacer.esp
+PPPickUpBook.esp
 Player's Diary.esp
 
 \overrides Q

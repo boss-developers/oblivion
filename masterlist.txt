@@ -1798,7 +1798,7 @@ GrimbotsSpellTomes.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
-% {{BASH:Graphics,NpcFaces,Hair,Eyes}}
+% {{BASH:Graphics,NpcFaces,Hair,Eyes})
 Bab.esp
 % {{BASH:Graphics}}
 MaleBodyReplacerV3.esp
@@ -3502,7 +3502,7 @@ G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH:Delev,Invent,Names,Relations,Relev,Stats}}
+% {{BASH:Invent,Stats,Relations}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -4182,7 +4182,7 @@ Geomancy & Gem Dust OOO (No Spell Change).esp
 OOO-WaterFish.esp
 Mage Equipment - OOO.esp
 MMM-Cobl.esp
-% {{BASH:Delev,Invent}}
+% {{BASH:Invent}}
 
 EVE_StockEquipmentReplacer4FCOM.esp
 ? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
@@ -5505,7 +5505,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
-% {{BASH:C.Light,Invent,Names,Relev,Stats}}
+% {{BASH:Invent}}
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -9120,6 +9120,7 @@ BCCheydinhalFULL-CheydinhalFalls patch.esp
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
+Better Cities - Unique Landscape Cheydinhal Falls.esp
 
 Better Cities - Leyawiin City Defences.esp
 Better Cities LEYAWIIN.esp

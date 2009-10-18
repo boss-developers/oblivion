@@ -357,7 +357,6 @@ Permanent Effects from Quest Items fix Merge.esp
 \have to be after UOP in some cases
 \----------------------------------
 
-AOBrokenVoicesFix.esp
 Arena-Ansage-Fix.esp
 OblivionMsg.esp
 singlers_uebersetzungen.esp
@@ -1160,6 +1159,7 @@ GuildOwnership1.2.esp
 \Base H
 
 Happyhannah's Wines.esp
+haz_ct2_magesguild_teleport.esp
 haz_ct3_horse_cart.esp
 HTFpcb Extended.esp
 
@@ -6565,6 +6565,9 @@ marcQuickChar.esp
 MarkerExplore.esp
 Merchants Inn Room.esp
 Mimics!.esp
+MIEO.esp
+MIEO-lvl.esp
+MIEO-lvl-ae.esp
 more books teach.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
@@ -6719,6 +6722,8 @@ Sexier Sheogorath DV.esp
 Sexlivion_0.4a_Full_English_v1.esp
 bondage_sex.esp
 Eroblivion.esp
+sexdarkness.esp
+sexdarkness_Eng_only_last.esp
 /don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
 
 ShinySeptims_Septimus.esp
@@ -8823,6 +8828,7 @@ Haowen.esp
 % {{BASH:Hair,Eyes}}
 KendoGirl_Final.esp
 % {{BASH:Hair,Eyes}}
+Kyra Partner.esp
 MarcAntony.esp
 % {{BASH:Hair,Eyes}}
 Nec-Character_Eva.esp
@@ -9397,7 +9403,9 @@ No Load Screen on Death v1.0.esp
 No Vampire Feeding Message Box.esp
 MessageBox Remover.esp
 Zero Annoying Comments and Messages.esp
-
+ReallyImmersiveMessages.esp
+? Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
+ReallyImmersiveMessagesNoBirthsigns.esp
 
 \------------------------------
 \Respawn & day length overrides
@@ -9680,7 +9688,7 @@ Vac's Tweaks.esp
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter,C.Climate}}
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
-
+AOBrokenVoicesFix.esp
 \------------
 \Bashed Patch
 \------------

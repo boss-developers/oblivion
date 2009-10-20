@@ -1345,6 +1345,8 @@ Mud Crabs!_OOO.esp
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
+New Potions.esp
+%{{BASH:Graphics,NoMerge}} 
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
@@ -1397,6 +1399,7 @@ phinix_master_summon.esp
 Pirates Treasure.esp
 Player Hunters Fame and Infamy - Normal.esp
 Poisonous_Food-9719.esp
+Potable Pastiche.esp 
 Posters.esp
 Pitchable_Tent_anywhere.esp
 Portable Campsite.esp
@@ -3541,6 +3544,7 @@ DBSQR - OOO.esp
 OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
+OOONoLockBash.esp
 \Post OOO
 \''''''''
 
@@ -5535,8 +5539,11 @@ M.O.E. - Visit Valen Dreth Topic.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
+* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 Mart's Monster Mod - Knights.esp
+* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 Mart's Monster Mod for OOO - Knights .esp
+* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 

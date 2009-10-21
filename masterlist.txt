@@ -8629,32 +8629,21 @@ AW_Partners_MarkReturnTweak.esp
 CompanionshipRing.esp
 DS Companion Wardrobe Manager.esp
 
-cssCalisto.esp
-% {{BASH:Hair,Eyes}}
-cssCernd.esp
-% {{BASH:Hair,Eyes}}
-cssEdwin.esp
-% {{BASH:Hair,Eyes}}
-cssImoen.esp
-% {{BASH:Hair,Eyes}}
-cssIrenicus.esp
-% {{BASH:Hair,Eyes}}
-cssJaheira.esp
-% {{BASH:Hair,Eyes}}
-cssKeldorn.esp
-% {{BASH:Hair,Eyes}}
-cssMazzy.esp
-% {{BASH:Hair,Eyes}}
-cssMerged12Sets.esp
-% {{BASH:Hair,Eyes}}
-cssNalia.esp
-% {{BASH:Hair,Eyes}}
-cssSafana.esp
-% {{BASH:Hair,Eyes}}
-cssSarevok.esp
-% {{BASH:Hair,Eyes}}
 cssRhett.esp
-% {{BASH:Hair,Eyes}}
+cssCalisto.esp
+cssCernd.esp
+cssEdwin.esp
+cssImoen.esp
+cssIrenicus.esp
+cssJaheira.esp
+cssKeldorn.esp
+cssMazzy.esp
+cssNalia.esp
+cssSafana.esp
+cssSarevok.esp
+cssMerged12Sets.esp
+cssJeremiah.esp
+cssJaKhaiitMyr.esp
 
 Aliyah.esp
 Arwen companion.esp
@@ -8670,7 +8659,6 @@ Companion Neeshka.esp
 companion_moonelves.esp
 companion.esp
 Custom NPCs for CSR.esp
-DASakura.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}
@@ -8731,6 +8719,8 @@ DAEva.esp
 DAValeriaCuteElf.esp
 % {{BASH:Hair,Eyes}}
 DARaewyn.esp
+% {{BASH:Hair,Eyes}}
+DASakura.esp
 % {{BASH:Hair,Eyes}}
 DATalitha.esp
 % {{BASH:Hair,Eyes}}

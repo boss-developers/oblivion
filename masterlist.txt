@@ -913,6 +913,7 @@ Azura's Soul-ob.esp
 kuerteeAutoSaveAndTime.esp
 ? Incompatible with Streamline's Streamsave and Cobl's clock.
 Amulet of Magicka.esp
+Amulet of Magicka_1Ñ.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
 AFC v2 Quick Powerattacks.esp
@@ -2378,7 +2379,8 @@ LootableLichHelm_Hvy.esp
 LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
-LSBSkullWeapons.esp
+LSB Skull Weapons.esp
+
 
 \Items M
 
@@ -2426,6 +2428,7 @@ Mystic Emporium.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
+MHSN Weapons.esp
 
 \Items N
 
@@ -2705,6 +2708,7 @@ UU! Female Undies.esp
 UU! Female Undies NPCs.esp
 ? Consider upgrading to version 4.2.1+.
 UU_Female_Undies.esp
+UFF Armour of HadesRU.esp
 
 \Items V
 
@@ -4792,6 +4796,7 @@ GlimmeringCastle.esp
 Guards.esp
 GwedenBrothel.esp
 Ghogiels Dreugh Armor Plugin.esp
+GM's Deadly Oblivion Overhaul Full.esp
 
 \Quests H
 
@@ -8635,6 +8640,8 @@ Corean Hairs and Elaborate Eyes Merged.esp
 \
 \Mods with custom hair and eyes need tags.
 
+shinyFollowMe_ru.esp
+
 TSS Custom Companion  Template.esp
 TSS Custom Companion Template.esp
 
@@ -8660,10 +8667,12 @@ CM Partners Extra NPCs.esp
 CM Partners Auto Loot add-on.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
+CM Partners 20 Pack.esp
 CM Partner Jordie1.esp
 CM AnyaYelena2.esp
 cm lula wild.esp
 CM Tifa A.esp
+CM_Kailinda.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 MichaelCM.esp
@@ -9749,7 +9758,7 @@ All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter,C.Climate}}
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 AOBrokenVoicesFix.esp
-MQ05Commentaries
+MQ05Commentaries.esp
 
 \------------
 \Bashed Patch

@@ -912,7 +912,7 @@ Ayleid Loot EXtension.esp
 Azura's Soul-ob.esp
 kuerteeAutoSaveAndTime.esp
 ? Incompatible with Streamline's Streamsave and Cobl's clock.
-
+Amulet of Magicka.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
 AFC v2 Quick Powerattacks.esp
@@ -1996,6 +1996,7 @@ ARTICA RAZOR ICMS by_venom91.esp
 ArtifactsFemaleArmor.esp
 Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
+Angeleron.esp
 
 \Items B
 
@@ -2202,6 +2203,10 @@ druid_tomb.esp
 DS Mage's Belt.esp
 doofdillas_potions_recolored_sorted_v0_3_1.esp
 % {{BASH:Graphics,Names}}
+Daedric Weaponz.esp
+Daedric Weaponz_1C.esp
+Dark Tower Shield.esp
+DarkFlame.esp
 
 \Items E
 
@@ -2219,6 +2224,7 @@ extavegant masks.esp
 Elegant Vests.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
+Excessor Sword.esp
 
 \Items F
 
@@ -2271,6 +2277,7 @@ GruntsSigilStones.esp
 GrayFoxArmor.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
+Ghogiel's Jian.esp
 
 \Items H
 
@@ -2301,6 +2308,7 @@ OCC-Hiyoko-Patch.esp
 Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
+Heron Mark Swords 1.0.esp
 
 \Items I
 
@@ -2348,6 +2356,7 @@ Kill_Bill_Katanas.esp
 Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
+kimono_tiberias_v1.esp
 
 \Items L
 
@@ -2369,6 +2378,7 @@ LootableLichHelm_Hvy.esp
 LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
+LSBSkullWeapons.esp
 
 \Items M
 
@@ -2415,6 +2425,7 @@ mycastlebugfix.esp
 Mystic Emporium.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
+Mandalorian Armor.esp
 
 \Items N
 
@@ -2445,12 +2456,18 @@ NorseWeapons.esp
 NosferatuBow.esp
 Negotiator Sword OBSE.esp
 NumenoreanArmor.esp
+Nepher and Bepher Blades.esp
 
 That's so Nico v1.1.esp
 Nicos Ice Bow.esp
 Nico’s Quinga Bows.esp
 Nicoroshi's Bows.esp
 Doomshard Bow.esp
+Nicos Dreadweave Compilation.esp
+? Deactivate 'Nicos Daes Rakan Swords 1.2'
+? Deactivate 'Nicos Dreweave Axes 1.2'
+? Deactivate 'Nicos Dreweave armor 1.4'
+? Deactivate 'Nicos Bow and Arrows 1.1'
 
 \Items O
 
@@ -2582,6 +2599,13 @@ Slof's More Male Stuff.esp
 Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
 
+Kit Rae Weaponry v0_2.esp
+? Use before Shdw_weapon pack
+Kit Rae Weaponry.esp
+? Use before Shdw_weapon pack
+Kit Rae Weaponry v0_4.esp
+? Use before Shdw_weapon pack
+
 PersuasionOverhaul.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
@@ -2610,6 +2634,7 @@ Spirit of Doom.esp
 Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
 Staff_of_Magius.esp
+Staff of Lore.esp
 
 \Items T
 
@@ -2648,6 +2673,10 @@ trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
 Tyrael Armor.esp
 Templer-Armor.esp
+The Soul Reaver.esp
+
+Umarils Armor Separate.esp
+Umarils Armor Separate - RU.esp
 
 Invasion.esp
 Dark Legion.esp
@@ -2692,6 +2721,7 @@ Villain's Arsenal.esp
 volkoth.esp
 VSPTensaZangetsu.esp
 Viro's Kung Fu Set.esp
+Vvardenfell_Imports.esp
 
 \Items W
 
@@ -2702,6 +2732,7 @@ Wyrmfang.esp
 WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
+Warglaive - EV.esp
 
 \Items XYZ
 
@@ -3059,6 +3090,8 @@ IndigoArmor.esp
 tona_simple_dress-armor.esp
 UFF Elven Elite Armor.esp
 UFF RM Ranger Armor.esp
+UFF Armoru of HaesRU.esp
+UFF God of War ArmorRU.esp
 kalikuts_.esp
 necklacesbykalikut.esp
 XiaNewAmuletsV1.esp
@@ -3570,6 +3603,8 @@ ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
+
+NG_New_Carnithus'_Armamentarium_1C.esp
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -4603,6 +4638,8 @@ Cropsford Cottage.esp
 CRT Guest Quarters.esp
 CS_PaperParched.esp
 CastawayIsles.esp
+Chinese Weapons.esp
+CompleteMagePack.esp
 
 \Quests D
 
@@ -4754,6 +4791,7 @@ Gaenor in Dementia.esp
 GlimmeringCastle.esp
 Guards.esp
 GwedenBrothel.esp
+Ghogiels Dreugh Armor Plugin.esp
 
 \Quests H
 
@@ -4916,6 +4954,7 @@ Lem - The Spire of Apparitions.esp
 Lem - Sunken Fortress.esp
 Lem - Zemus's Lair.esp
 Lenawiln_Cottagev2.11.esp
+bladesfactionmod.esp
 
 OldCrowInn.esp
 GlenvarCastle.esp
@@ -5008,6 +5047,7 @@ Marketplace_Eng.esp
 MetherlanceManor.esp
 Milewood.esp
 Mysteries Of Atrene Camp.esp
+MHSN Weapons.estp
 
 \Quests N
 
@@ -5110,6 +5150,7 @@ Ruins of Tarnesia.esp
 RumarePriory.esp
 RuneTower.esp
 The Ranger's House.esp
+rayearth.esp
 
 \Quests S
 
@@ -5192,6 +5233,7 @@ Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
 Sylar0712_ICAgarmirHouse.esp
+Sheogorath`s Artifacts.esp
 
 \Quests T
 
@@ -6736,6 +6778,7 @@ Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
 
+sexlivion.esp
 Sexlivion_0.4a_Full_English_v1.esp
 bondage_sex.esp
 Eroblivion.esp
@@ -6779,6 +6822,7 @@ Skill Perk Descriptions Enhancement.esp
 Skycaptains BloodTime.esp
 Slayer_Goodsfix.esp
 Sleeping Wildlife v1.0.esp
+OMPSlofTiger.esp
 Slof's Dogs.esp
 ? Don't need to use this if you use MMM as it already includes dogs.
 Speedy Disrobe OBSE.esp
@@ -7332,6 +7376,8 @@ SpellDeflection.esp
 Stalk'em SI.esp
 TeachSpell.esp
 
+SD Skill Diary rus.esp
+
 Telekinetic Mastery.esp
 OC+TelekeneticMastery Patch.esp
 
@@ -7673,6 +7719,7 @@ Resist Arrest Increases Bounty.esp
 StealthOverhaul.esp
 Stealth Overhaul.esp
 Deadlier Sneaking 1.1.esp
+SneakingRealism_v1_3_2.esp
 Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp
 Deadlier Traps.esp
@@ -8443,13 +8490,15 @@ TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
 Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Capucines_Beautiful People.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 LattamerV3_P-rrtyCure_Hair_Module.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Disable One Eyed.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Disable BandBlindMask.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Unknown mod file: Beautiful People 2ch-Ed Vanilla Race.esp
+Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
@@ -8746,7 +8795,8 @@ DAMeridiaKatrina.esp
 % {{BASH:Hair,Eyes}}
 DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}
-
+DATiamsGirls.esp
+% {{BASH:Hair,Eyes}}	all
 
 \--------------
 \Race Overrides
@@ -9698,6 +9748,8 @@ All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter,C.Climate}}
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 AOBrokenVoicesFix.esp
+MQ05Commentaries
+
 \------------
 \Bashed Patch
 \------------

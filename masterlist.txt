@@ -3225,9 +3225,9 @@ HaydoxRapier.esp
 % {{BASH:Relev}} if using Not For Free mod.
 GizmodianSorceress.esp
 % {{BASH:Relev}} if using Not For Free mod.
+\\\
 
-\----------
-\Horse Mods
+\\ Horse Mods
 \----------
 
 Shivering Isles Horse.esp
@@ -3336,9 +3336,9 @@ Rund ums Pferd.esp
 Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
+\\\
 
-\------------
-\Pre Overhaul
+\\ Pre Overhaul
 \------------
 \
 \To reduce conflicts.
@@ -3354,17 +3354,17 @@ Goblin Realswords+Tribal Shields.esp
 Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 The Last Queen Of The Ayleids.esp
+\\\
 
-\----------
-\Only Name changing files
+\\ Only Name changing files
 \----------
 \tag with names and total compatibility
 
 Ranokoas Organized Potions.esp
 % {{BASH:Names}}, deactivate. If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
+\\\
 
-\-----
-\DLC 2
+\\ DLC 2
 \-----
 
 DLCThievesDen.esp
@@ -3374,14 +3374,14 @@ SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
 % {{BASH:Stats}}
+\\\
 
-\---------
-\Overhauls
+\\ Overhauls
 \---------
 \
 \FCOM, Fran's, OOO, MMM, etc
 
-\Francesco's Leveled Creatures-Items Mod
+\\ Francesco's Leveled Creatures-Items Mod
 \'''''''''''''''''''''''''''''''''''''''
 
 <Fran Armor Add-on.esp
@@ -3437,8 +3437,9 @@ Francesco's Boars Add-On.esp
 
 Fran-Ayleid Coin Add-on.esp
 ? Don't use with G&GD, COBL or OOO
+\\\
 
-\OOO; FCOM optional and and related components; MMM and optional plungins.
+\\ OOO; FCOM optional and and related components; MMM and optional plungins.
 \'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 KDCircletsOOOOptimized - NPC Equip.esp
@@ -3515,8 +3516,9 @@ FCOM_WarCryNoSpawn.esp
 
 G_'s-Loot-Mod_v2.5[Scaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
+\\\
 
-\OOO full and lite.
+\\ OOO full and lite.
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
@@ -3560,7 +3562,9 @@ OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
 OOONoLockBash.esp
-\Post OOO
+\\\
+
+\\ Post OOO
 \''''''''
 
 mg19obsefix.esp
@@ -3597,8 +3601,9 @@ MALO - Vendor Additions.esp
 MALO - Loot Tweaks.esp
 MALO - Loot Tweaks DCRP.esp
 MALO - Loot Tweaks FRAN.esp
+\\\
 
-\MMM & FCOM
+\\ MMM & FCOM
 \''''''''''
 
 >Mart's Monster Mod.esp
@@ -3636,8 +3641,9 @@ MALO - Loot Tweaks FRAN.esp
 >? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - GhostApparitionFix.esp
 >
->
->\FCOM/MMM optionals 1.
+\\\
+
+\\ FCOM/MMM optionals 1.
 >\'''''''''''''''''''''
 >
 >Mart's Monster Mod - Diverse Runeskulls.esp
@@ -3692,9 +3698,9 @@ MALO - Loot Tweaks FRAN.esp
 >? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
 >
 >CurseOfHircine.esp
->
->
->\FCOM/MMM optionals 2.
+\\\
+
+\\ FCOM/MMM optionals 2.
 >\'''''''''''''''''''''
 >
 >Mart's Monster Mod - Extra Wounding.esp
@@ -3773,8 +3779,9 @@ MALO - Loot Tweaks FRAN.esp
 >% {{BASH:Invent}}
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
 >% {{BASH:Invent}}
+\\\
 
-<\MMM for non-FCOM installs
+\\ MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
 <
 <Mart's Monster Mod.esp
@@ -3956,8 +3963,9 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
+\\\
 
-\Waalx Animals and Creatures
+\\ Waalx Animals and Creatures
 \'''''''''''''''''''
 
 WAC.esp
@@ -3970,8 +3978,9 @@ WAC - Dead Knights.esp
 WAC - Magic.esp
 WAC - Player Summons.esp
 WAC - QuietFeet.esp
+\\\
 
-\Tamriel Travellers.
+\\ Tamriel Travellers.
 \'''''''''''''''''''
 
 TamrielTravellerAdvScript.esp
@@ -4007,8 +4016,9 @@ FCOM_TamrielTravelers.esp
 
 kuerteeWanderingEncounters.esp
 \maybe I should put this somewhere else but until further testing this seems reasonable
+\\\
 
-\FCOM\MMM optionals 3.
+\\ FCOM\MMM optionals 3.
 \'''''''''''''''''''''
 
 >Mart's Monster Mod - Diverse Imperial Armor.esp
@@ -4049,8 +4059,9 @@ FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
 * Delete. Old. Update to FCOM v0.9.9 or later.
+\\\
 
-\Overhaul compatibility
+\\ Overhaul compatibility
 \''''''''''''''''''''''
 
 TIE.esp
@@ -4116,8 +4127,9 @@ TIE In - Game Settings OOO.esp
 TIE In - Sounds.esp
 
 Choices and Consequences - FCOM.esp
+\\\
 
-\Additional MMM OOO Patches
+\\ Additional MMM OOO Patches
 \''''''''''''''''''''''''''
 
 >Mart's Monster Mod - Shivering Isles.esp
@@ -4212,8 +4224,10 @@ EVE_StockEquipmentReplacer4MMM.esp
 
 Diverse Imperial Armor v1.1.esp
 ? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
+\\\
+\\\
 
-\Post Overhaul
+\\ Post Overhaul
 \'''''''''''''
 
 CrystalCalendar.esp
@@ -4254,9 +4268,9 @@ IABaneOils 100.esp
 % {{BASH:Factions}
 ? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
+\\\
 
-\----------------------
-\Quests and Locations 1
+\\ Quests and Locations 1
 \----------------------
 \
 \All mods that add or change quests,
@@ -4266,7 +4280,7 @@ IABaneOils 100.esp
 \
 \Mods not in alphabetical order have been hand placed to avoid conflicts (as much as possible).
 
-\Quests Early
+\\ Quests Early
 
 Enhanced Quest Roleplaying.esp
 % {{BASH:Factions}}
@@ -4340,8 +4354,9 @@ OCC-Ivellon-Patch.esp
 1079-Safe Archmage Storage-TESSource.esp
 
 Anvil Merchant Galley Houseboat v1.0.esp
+\\\
 
-\Quests #
+\\ Quests #
 
 00RBScribeSupplies Intensive.esp
 ? Use only one 00RBScribeSupplies mod at a time.
@@ -4374,8 +4389,9 @@ DLCHorseArmor_300WhiteStallion.esp
 .LuEmaNarfil Cave of Vampires.esp
 
 [NPC] Sharmina.esp
+\\\
 
-\Quests A
+\\ Quests A
 
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
@@ -4475,8 +4491,9 @@ AyleidArrows.esp
 AzurasServices_de.esp
 ? German Version
 AzurasServices_en.esp
+\\\
 
-\Quests B
+\\ Quests B
 
 Banes Cheydinhal Store Upgrade.esp
 Skingrad Store Upgrade.esp
@@ -4556,8 +4573,9 @@ Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
 Buddah Mansion.esp
 BXX_Mines.esp
+\\\
 
-\Quests C
+\\ Quests C
 
 Capsized Ship.esp
 Champion's Mansion.esp
@@ -4619,8 +4637,9 @@ CS_PaperParched.esp
 CastawayIsles.esp
 Chinese Weapons.esp
 CompleteMagePack.esp
+\\\
 
-\Quests D
+\\ Quests D
 
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
@@ -4678,8 +4697,9 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
 DukeCity.esp
+\\\
 
-\Quests E
+\\ Quests E
 
 EaglesRest.esp
 Egainjo Manor.esp
@@ -4698,10 +4718,11 @@ Extended Chorrol.esp
 Extended Skingrad.esp
 Extended NPCs Merge.esp
 Abriael_Human.esp
-/shouldn't go here but one version of eyja.esp requires it so :shrug:
+\shouldn't go here but one version of eyja.esp requires it so :shrug:
 eyja.esp
+\\\
 
-\Quests F
+\\ Quests F
 
 FalamirTheMerchant.esp
 FallenTower.esp
@@ -4737,8 +4758,9 @@ JK_lighthouse.esp
 FuseFruitMachine.esp
 FuseSnailRacing.esp
 ? Needs a patch for Unique Landscapes: Imperial Isle.
+\\\
 
-\Quests G
+\\ Quests G
 
 Gaelendryl.esp
 Gamblers_of_Cyrodiil.esp
@@ -4772,8 +4794,9 @@ Guards.esp
 GwedenBrothel.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
+\\\
 
-\Quests H
+\\ Quests H
 
 hackdirtabyss.esp
 HackdirtCaverns.esp
@@ -4821,8 +4844,9 @@ HOD_delayer.esp
 ? only use without Open Cities
 OC_HOD_delayer.esp
 ? only use with Open Cities
+\\\
 
-\Quests I
+\\ Quests I
 
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
@@ -4843,8 +4867,9 @@ ImperialCemetery.esp
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 Insanity's Pet Shop.esp
+\\\
 
-\Quests J
+\\ Quests J
 
 JADICMothPriests.esp
 ? Not compatible with Better Cities Green Emperor's Way. Already included as part of Better Cities.
@@ -4872,8 +4897,9 @@ JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
 JSRandomTasks.esp
+\\\
 
-\Quests K
+\\ Quests K
 
 KarewManor.esp
 Kats Better Rosethorn Hall.esp
@@ -4916,8 +4942,9 @@ KEMT.esp
 Lair_of_the_Hydra-4490.esp
 5861-2[1].0 Final-Lair of the Hydra-TESSource.esp
 5547-2.0 Final-Lair of the Hydra-TESSource.esp
+\\\
 
-\Quests L
+\\ Quests L
 
 Land of Hyrule.esp
 LakeHouseV1.1.esp
@@ -4973,8 +5000,9 @@ Lynges_Dark_Brotherhood_Assassins-8654.esp
 Lyn-GnollMountain.esp
 
 Lilarcor.esp
+\\\
 
-\Quests M
+\\ Quests M
 
 Mount Archon.esp
 Mara's Tower.esp
@@ -5029,8 +5057,9 @@ MetherlanceManor.esp
 Milewood.esp
 Mysteries Of Atrene Camp.esp
 MHSN Weapons.estp
+\\\
 
-\Quests N
+\\ Quests N
 
 Nabu_Towers.esp
 Naughty_Joana_01.esp
@@ -5051,8 +5080,9 @@ Nine Divines Robes.esp
 ? requires OBSE
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
+\\\
 
-\Quests O
+\\ Quests O
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 OlauronCastleEn.esp
@@ -5066,8 +5096,9 @@ OrangeroadCottage.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
+\\\
 
-\Quests P
+\\ Quests P
 
 ThePaleAdventurer.esp
 Pats Business Mod---Shop Version 1.6.esp
@@ -5092,16 +5123,18 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
+\\\
 
-\Quests Q
+\\ Quests Q
 
 Quest.esp
 ? Related to Belas.esm and therefore may have severe land issues. Unconfirmed.
 Quest For The Elements.esp
 QQuix - Divine Elegance Showroom.esp
 Quest Nirnroot.esp
+\\\
 
-\Quests R
+\\ Quests R
 
 Reaper's Coldstone Town.esp
 ? Incomatible with Hear of the Dead
@@ -5132,8 +5165,9 @@ RumarePriory.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
+\\\
 
-\Quests S
+\\ Quests S
 
 Sakveed Manor.esp
 Salan's Cellar.esp
@@ -5215,8 +5249,9 @@ Stonewall Townhouse.esp
 Street Market.esp
 Sylar0712_ICAgarmirHouse.esp
 Sheogorath`s Artifacts.esp
+\\\
 
-\Quests T
+\\ Quests T
 
 Talos Bridge.esp
 TamrielSnacks11-EV.esp
@@ -5310,8 +5345,9 @@ Topal Island - Safe Water.esp
 TOTW.esp
 TOTWfurn.esp
 TOTWcamp.esp
+\\\
 
-\Quests U
+\\ Quests U
 
 UFF Gypsy Market.esp
 UnfathomedTower.esp
@@ -5320,8 +5356,9 @@ Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
 Ushnars Skinned Hound.esp
+\\\
 
-\Quests V
+\\ Quests V
 
 Valenwood Improved.esp
 Valley_View_Estate.esp
@@ -5354,8 +5391,9 @@ Viking Village.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
+\\\
 
-\Quests W
+\\ Quests W
 
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
@@ -5394,8 +5432,9 @@ WhiteRoseLodgev2.0.esp
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
 Cyrodiil Portal Travel.esp
+\\\
 
-\Quests XYZ
+\\ Quests XYZ
 
 XendersAngels.esp
 Xereau's Better Travel - Mage's Hub.esp
@@ -5410,8 +5449,9 @@ Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
 Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
+\\\
 
-\Quests Arena
+\\ Quests Arena
 
 Arena Imersion Upgrade 1.1.esp
 Angel's Arena Loot en.esp
@@ -5442,9 +5482,10 @@ Visually Enhanced Arena.esp
 ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
 fpsboost-arenanolights.esp
+\\\
+\\\
 
-\-----
-\DLC 3
+\\ DLC 3
 \-----
 
 DLCBattlehornCastle.esp
@@ -5457,9 +5498,9 @@ Battlehorn_mobs.esp
 % {{BASH:Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
+\\\
 
-\----------------------
-\Quests and Locations 2
+\\ Quests and Locations 2
 \----------------------
 
 maze-version 1,0.esp
@@ -5485,9 +5526,9 @@ Lynges Thieves Highway.esp
 Lynges Thieves Highway - OOO.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 ? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
+\\\
 
-\-----
-\DLC 4
+\\ DLC 4
 \-----
 
 DLCFrostcrag.esp
@@ -5590,9 +5631,9 @@ MOBS DLCs.esp
 % {{BASH:Stats}}
 
 RavDCPOD.esp
+\\\
 
-\----------------------
-\Quests and Locations 3
+\\ Quests and Locations 3
 \----------------------
 
 Cybiades.esp
@@ -5678,9 +5719,9 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
+\\\
 
-\--------------------------
-\FCOM Compatibility Section
+\\ FCOM Compatibility Section
 \--------------------------
 \
 \FCOM optional addon patches
@@ -5708,9 +5749,9 @@ FCOM_OMGSRT.esp
 FCOM_DulanCult.esp
 ? Requires 'The Mystery of the Dulan cult.esp'.
 Origin of the Mages Guild OOO Patch.esp
+\\\
 
-\----------------------
-\Quests and Locations 4
+\\ Quests and Locations 4
 \----------------------
 
 Unofficial Patches & Refurbish - ALL.esp
@@ -5774,12 +5815,12 @@ FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 A Imperial Outpost - Fort Novi Sad.esp
 
 ReclaimSancreTor.esp
+\\\
 
-\----------------------------
-\Landscape and City overhauls
+\\ Landscape and City overhauls
 \----------------------------
 
-\Unique Landscapes and Compatibility Patches
+\\ Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
 
 NibenRiverFix.esp
@@ -5947,6 +5988,7 @@ ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
+\\\
 
 \\ Post UL, Pre BC
 \'''''''''''''''
@@ -6158,6 +6200,7 @@ FCOM_NewNPCClothes.esp
 \'''''''''
 
 Blue Destiny's Armor.esp
+\\\
 \\\
 
 \\ Overrides
@@ -6374,6 +6417,7 @@ CUO_UnleveledNpcs&Creatures.esp
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
+\\\
 \\\
 
 \\ Overrides D
@@ -7006,6 +7050,7 @@ Andrews_No_Quest_Items.esp
 Daedric Lord Armor for Eshme.esp
 
 AyleidMeteorIronWeaponsVANILLA.esp
+\\\
 \\\
 
 \\ TIE Integration compatibility
@@ -7691,6 +7736,7 @@ Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Staffcraft.esp
 \\\
+\\\
 
 \\ Thievery, Sneaking and Crime
 \''''''''''''''''''''''''''''
@@ -8301,7 +8347,7 @@ Stat Restore.esp
 Arena betting.esp
 \\\
 
-\\ Beauty Packs & Race Addons
+\\ Beauty Packs & Race Changes\Addons
 \--------------------------
 \
 \Hair, eyes, race addons & changes and other cosmetics.
@@ -8846,6 +8892,9 @@ bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \\\
 
+\\\
+\\\
+
 \\ L.A.M.E.
 \''''''''
 \Inserted here for RBP compatibility
@@ -9267,6 +9316,8 @@ Better Cities IC Arcane University FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
+\\\
+
 \\\
 
 \\ Post BC and OBC
@@ -9712,6 +9763,8 @@ Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
+\\\
+
 \\\
 
 \\ Pre Bash

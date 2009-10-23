@@ -1433,6 +1433,8 @@ RD-TimeKeeper-v1-3-2minUpdate.esp
 RD-TimeKeeper-v1-3-5minUpdate.esp
 RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
+RealitySpectre'sBetterPotions.esp
+%{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -4413,8 +4415,11 @@ ABloodyNight.esp
 AbuEmir01.esp
 ? Requires Shivering Isles
 AdenseEpicDungeon.esp
-? Old, update to AdenseEpicDungeon1_1.esp.
+? Old, update to AdenseEpicDungeon1_2.esp.
 AdenseEpicDungeon1_1.esp
+? Old, update to AdenseEpicDungeon1_2.esp.
+AdenseEpicDungeon1_2.esp
+/ Yay for renaming esp at every version.
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
@@ -4470,6 +4475,7 @@ Archery Shops 2.0.esp
 Archery Shop.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
+ArchersLodge.esp
 Archfall_house.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
@@ -5531,6 +5537,7 @@ BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
+The Wizard's Tower Recall spell.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -5977,7 +5984,7 @@ LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
 
-\Post UL, Pre BC
+\\ Post UL, Pre BC
 \'''''''''''''''
 
 Castle_Seaview.esp
@@ -5985,6 +5992,7 @@ CastleSeaview+LostCoast Patch.esp
 ? Not compatible with EaglesRest+LostCoast+CastleSeaview Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
 ? Not compatible with CastleSeaview+LostCoast Patch.esp
+CastleSeaview-SutchReborn-LostCoast patch.esp
 
 The Ruins of Miscarcand.esp
 
@@ -6063,8 +6071,8 @@ Duke Patricks The Lady said NO.esp
 ? Old. Upgrade to latest version.
 DukePatricksTheLadysaidNO.esp
 
-
-\Open Better Cities
+\\\
+\\ Open Better Cities
 \''''''''''''''''''
 
 Open Better Cities Full.esp
@@ -6088,9 +6096,8 @@ Open Better Cities Skingrad - City Defences.esp
 Open Better Cities SKINGRAD VARIANT.es
 
 Reaper's_Open-B.C._Secret_Entry.esp
-
-
-\Open Cities and Open Cities Complete
+\\\
+\\ Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
 
 Open Cities.esp
@@ -6148,9 +6155,8 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
 OC+Cheydinhal Falls Patch.esp
 III-LeyawiinRebornPatch.esp
-
-\----------------------
-\Quests and Locations 5
+\\\
+\\ Quests and Locations 5
 \----------------------
 
 III-MountainShackPatch.esp
@@ -6180,25 +6186,24 @@ FCOM_UnofficialFranArmorAddon.esp
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
-
-\Post City
+\\\
+\\ Post City
 \'''''''''
 
 Blue Destiny's Armor.esp
 
-
-\---------
-\Overrides
+\\\
+\\ Overrides
 \---------
 \
 \Mods that deliberately change specific things about vanilla Oblivion, overhauls or other mods.
 \Some late loading quests and locations in here too.
 
-
-\General
+\\\
+\\ General
 \'''''''
 
-\overrides Early
+\\ overrides Early
 
 NaturalVegetation.esp
 Natural_Vegetation_by_Max_Tael.esp
@@ -6211,6 +6216,7 @@ Low_FPSFIX_Natural_Vegetation.esp
 High_FPSFIX_Natural_Vegetation.esp
 
 PitcherPlantHarvestable.esp
+PitcherPlantsHarvestable.esp
 Lily of the Valley Nectar.esp
 Harvest [Flora].esp
 Harvest [Flora] - Shivering Isles.esp
@@ -6237,7 +6243,8 @@ WD's Auto Harvest.esp
 DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
 
-\overrides #
+\\\
+\\ overrides #
 
 100% Harvest Chance.esp
 100% Harvest Chance Shivering Isles.esp
@@ -6247,7 +6254,8 @@ LCs Auto Harvest.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
 
-\overrides A
+\\\
+\\ overrides A
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
@@ -6285,7 +6293,8 @@ Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
 
-\overrides B
+\\\
+\\ overrides B
 
 BaurusRunsInSewers.esp
 Bag of Holding.esp
@@ -6337,8 +6346,8 @@ WHOOSH.esp
 
 Buried_Treasure.esp 
 BuyLockpicks.esp
-
-\overrides C
+\\\
+\\ overrides C
 
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
@@ -6379,8 +6388,7 @@ CT-YABM.esp
 CT-YABM - No Idle.esp
 ?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp 
-
-\CUO
+\\ CUO
 
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
@@ -6400,9 +6408,9 @@ CUO_UnleveledNpcs&Creatures.esp
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
-
-
-\Overrides D
+\\\
+\\\
+\\ Overrides D
 
 
 DarkAltars.esp
@@ -6449,8 +6457,8 @@ DS Storage Sacks.esp
 Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
-
-\overrides E
+\\\
+\\ overrides E
 
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
@@ -6473,8 +6481,8 @@ ActorsHaveTorches.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Everlasting Corpses v 1.0.esp
-
-\overrides F
+\\\
+\\ overrides F
 
 faster-grass.esp
 Faster-trees.esp
@@ -6499,8 +6507,8 @@ Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 Furniture Prices.esp
-
-\overrides G
+\\\
+\\ overrides G
 
 gardening.esp
 Gary Gygax's Grave.esp
@@ -6522,8 +6530,8 @@ Great Gate Essential NPC's.esp
 GuildStorage.esp
 GuilesNameReplace-Scrolls.esp
 % {{BASH:Names}} - deactivate.
-
-\overrides H
+\\\
+\\ overrides H
 
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
@@ -6538,8 +6546,8 @@ Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
-
-\overrides I
+\\\
+\\ overrides I
 
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
@@ -6557,7 +6565,7 @@ Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
-
+\\\
 \overrides J
 
 Jarol's NPC Leveled Equipment.esp
@@ -7304,6 +7312,7 @@ Divine Magicka.esp
 DOT Spells.esp
 Elemental Horses.esp
 EnchantmentMastery.esp
+Exit_Spell.esp
 Finders Keepers.esp
 ForecastersWill.esp
 Friendly Fire.esp
@@ -9593,6 +9602,7 @@ Get Wet - just droplets.esp
 Get Wet - no droplets.esp
 Get Wet.esp
 Get Wet v0.92.esp
+[Hexaae] Get Wet v0.92.esp
 BubbleFx.esp
 ? Most likely incompatible with SM
 GW71_Life_Detect.esp

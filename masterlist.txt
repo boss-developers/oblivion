@@ -11,7 +11,6 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-
 \----
 \ESMs
 \----
@@ -192,7 +191,6 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 TRoN.esp
 \Probably doesn't need to load this early but the authors recommend it.
 
-
 \-------------
 \NPC face mods
 \-------------
@@ -270,7 +268,6 @@ LD_Patrick_Stewart_Sean_Bean.esp
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
 
-
 \-------------
 \Vanilla fixes
 \-------------
@@ -278,7 +275,6 @@ Colourwheels Sexy Female NPCs.esp
 \Everything else must be allowed to override these.
 \UOP v3.0.1 or later should be used to fix buggy vanilla quests rather than these -
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
-
 
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead.
@@ -425,7 +421,6 @@ Oblivion.esp
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load. 
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 
-
 \--------
 \Post BSA
 \--------
@@ -434,8 +429,6 @@ MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
 MrSiikaRabbits.esp
 ? Do not use with MMM/FCOM. Already integrated.
-
-
 
 \-----------------------------
 \Initial Fran's files for FCOM
@@ -476,7 +469,6 @@ OMOBS_FRAN.esp
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
 
-
 \---------------------------
 \Loading Screen Alternatives
 \---------------------------
@@ -505,7 +497,6 @@ BlackLoadNoTip.esp
 Zira's Horse Theme Loadscreens.esp
 % {{BASH:Graphics}} if using overhaul mods.
 
-
 \---------
 \Base Mods
 \---------
@@ -514,7 +505,6 @@ Zira's Horse Theme Loadscreens.esp
 \Low priority mods.
 \New Items, NPCs & creatures that are not overrides of other mods.
 \'Library' mods.
-
 
 \Weather mods and overhauls
 \''''''''''''''''''''''''''
@@ -660,7 +650,6 @@ Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
 Enviroment.esp
 
-
 \Sound mods
 \''''''''''
 \
@@ -788,7 +777,6 @@ Weather Inside.esp
 
 Rainbows.esp
 
-
 \Lighting
 \''''''''
 \
@@ -845,7 +833,6 @@ aKALAmbientDungeonsBeta2.esp
 
 AmbientDungeons.esp
 ? OBSE, 'Screen Effects', and 'You Are Here' required.
-
 
 \General Base Mods
 \'''''''''''''''''
@@ -938,7 +925,6 @@ aaaBorsBedrolls.esp
 7lbsBedrolls-OBSE.esp
 BorsBedrolls.esp
 Bedrollsanyone.esp
-
 
 BEER! for Oblivion.esp
 ? If using OOO, check compatibility (untested).
@@ -1670,7 +1656,6 @@ Duke Patricks - Semi Unlimited Rings And Amulets.esp
 
 kuerteeIgnoringTheMainQuestHasConsequences.esp
 
-
 \Map marker Tweaks
 \'''''''''''''''''
 \
@@ -1793,7 +1778,6 @@ Book Jackets DLC.esp
 GrimbotsSpellTomes.esp
 % {{BASH:Graphics}} and deactivate.
 
-
 \--------------
 \Body replacers
 \--------------
@@ -1827,7 +1811,6 @@ EVE_StockEquipmentReplacer.esp
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
 % {{Bash:Graphics}}
-
 
 \-------------------------
 \Items (armor and weapons)
@@ -2382,7 +2365,6 @@ LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
-
 
 \Items M
 
@@ -2949,7 +2931,6 @@ Sergei Robes Compilation.esp
 SS-GenderIndependentClothing v1.0.esp
 300_Classes.esp
 
-
 \--------------------
 \Body Replacer Armour
 \--------------------
@@ -3245,7 +3226,6 @@ HaydoxRapier.esp
 GizmodianSorceress.esp
 % {{BASH:Relev}} if using Not For Free mod.
 
-
 \----------
 \Horse Mods
 \----------
@@ -3357,7 +3337,6 @@ Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
 
-
 \------------
 \Pre Overhaul
 \------------
@@ -3384,7 +3363,6 @@ The Last Queen Of The Ayleids.esp
 Ranokoas Organized Potions.esp
 % {{BASH:Names}}, deactivate. If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
 
-
 \-----
 \DLC 2
 \-----
@@ -3397,13 +3375,11 @@ SM Plugin Refurbish - ThievesDen.esp
 Thievesden_mobs.esp
 % {{BASH:Stats}}
 
-
 \---------
 \Overhauls
 \---------
 \
 \FCOM, Fran's, OOO, MMM, etc
-
 
 \Francesco's Leveled Creatures-Items Mod
 \'''''''''''''''''''''''''''''''''''''''
@@ -3621,7 +3597,6 @@ MALO - Vendor Additions.esp
 MALO - Loot Tweaks.esp
 MALO - Loot Tweaks DCRP.esp
 MALO - Loot Tweaks FRAN.esp
-
 
 \MMM & FCOM
 \''''''''''
@@ -3982,7 +3957,6 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
 
-
 \Waalx Animals and Creatures
 \'''''''''''''''''''
 
@@ -4088,7 +4062,6 @@ T.I.E4MODSOOO+FCOM.esp
 T.I.E4MODSFCOM+COBL.esp
 T.I.E4OOO+FCOM.esp
 T.I.E4FCOM+COBL.esp
-
 
 TIE4MODSMain.esp
 TIE4MODSActorLists.esp
@@ -4240,7 +4213,6 @@ EVE_StockEquipmentReplacer4MMM.esp
 Diverse Imperial Armor v1.1.esp
 ? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
 
-
 \Post Overhaul
 \'''''''''''''
 
@@ -4258,7 +4230,6 @@ geomancy.esp
 TUR_GemDust.esp
 % {{BASH:Scripts}}
 ? Similar to OOO and MMM Gems and Gem Dust - is almost certainly incompatible with those. Untested.
-
 
 AdrenalineOblivion-SupportElements.esp
 AdrenalineOblivion-SpawnElement.esp
@@ -4283,7 +4254,6 @@ IABaneOils 100.esp
 % {{BASH:Factions}
 ? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
-
 
 \----------------------
 \Quests and Locations 1
@@ -4319,7 +4289,6 @@ KvatchAftermath.esp
 FCOM_KvatchAftermath.esp
 County Kvatch version 5.2.esp
 (DC) Kvatch Watch Towers.esp
-
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
@@ -5517,7 +5486,6 @@ Lynges Thieves Highway - OOO.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 ? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
 
-
 \-----
 \DLC 4
 \-----
@@ -5711,7 +5679,6 @@ Prince of Order.esp
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
 
-
 \--------------------------
 \FCOM Compatibility Section
 \--------------------------
@@ -5741,7 +5708,6 @@ FCOM_OMGSRT.esp
 FCOM_DulanCult.esp
 ? Requires 'The Mystery of the Dulan cult.esp'.
 Origin of the Mages Guild OOO Patch.esp
-
 
 \----------------------
 \Quests and Locations 4
@@ -5812,7 +5778,6 @@ ReclaimSancreTor.esp
 \----------------------------
 \Landscape and City overhauls
 \----------------------------
-
 
 \Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
@@ -5983,7 +5948,6 @@ ULII-Roads-Patch.esp
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
-
 \\ Post UL, Pre BC
 \'''''''''''''''
 
@@ -6096,6 +6060,7 @@ Open Better Cities Skingrad - City Defences.esp
 Open Better Cities SKINGRAD VARIANT.es
 
 Reaper's_Open-B.C._Secret_Entry.esp
+
 \\\
 \\ Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
@@ -6155,6 +6120,7 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
 OC+Cheydinhal Falls Patch.esp
 III-LeyawiinRebornPatch.esp
+
 \\\
 \\ Quests and Locations 5
 \----------------------
@@ -6186,6 +6152,7 @@ FCOM_UnofficialFranArmorAddon.esp
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
+
 \\\
 \\ Post City
 \'''''''''
@@ -6252,6 +6219,7 @@ LCs Auto Harvest.esp
 
 \\\
 \\ overrides A
+
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
@@ -6342,6 +6310,7 @@ WHOOSH.esp
 
 Buried_Treasure.esp 
 BuyLockpicks.esp
+
 \\\
 \\ overrides C
 
@@ -6384,6 +6353,7 @@ CT-YABM.esp
 CT-YABM - No Idle.esp
 ?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp 
+
 \\ CUO
 
 CUO_Dwemer.esp
@@ -6404,10 +6374,9 @@ CUO_UnleveledNpcs&Creatures.esp
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
-\\\
+
 \\\
 \\ Overrides D
-
 
 DarkAltars.esp
 DarkUI Fix.esp
@@ -6453,6 +6422,7 @@ DS Storage Sacks.esp
 Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
+
 \\\
 \\ overrides E
 
@@ -6477,6 +6447,7 @@ ActorsHaveTorches.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Everlasting Corpses v 1.0.esp
+
 \\\
 \\ overrides F
 
@@ -6503,6 +6474,7 @@ Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 Furniture Prices.esp
+
 \\\
 \\ overrides G
 
@@ -6526,6 +6498,7 @@ Great Gate Essential NPC's.esp
 GuildStorage.esp
 GuilesNameReplace-Scrolls.esp
 % {{BASH:Names}} - deactivate.
+
 \\\
 \\ overrides H
 
@@ -6542,6 +6515,7 @@ Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
+
 \\\
 \\ overrides I
 
@@ -6561,6 +6535,7 @@ Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
+
 \\\
 \\ overrides J
 
@@ -6569,6 +6544,7 @@ Jerall-Pass.esp
 ? German mod.
 JQ-Backpacks.esp
 JQ-Bandages.esp
+
 \\\
 \\ overrides K
 
@@ -6582,6 +6558,7 @@ KT_KhajEyeToggleNoEff.esp
 KT_VampSightToggle.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
+
 \\\
 \\ overrides L
 
@@ -6600,6 +6577,7 @@ Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
+
 \\\
 \\ overrides M
 
@@ -6647,6 +6625,7 @@ MoreTraining.esp
 movablebodies.esp
 Music Controller.esp
 MYR_AyleidKing.esp
+
 \\\
 \\ overrides N
 
@@ -6685,6 +6664,7 @@ NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 npcjump.esp 
+
 \\\
 \\ overrides O
 
@@ -6701,6 +6681,7 @@ Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
 Orrery_Rewards.esp
+
 \\\
 \\ overrides P
 
@@ -6722,11 +6703,13 @@ Potions Recolored.esp
 JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
+
 \\\
 \\ overrides Q
 
 Quest Item Tag Remover.esp
 QuestItemMessage.esp
+
 \\\ 
 \\ overrides R
 
@@ -6767,6 +6750,7 @@ Leyawin Bridge.esp
 ? Part of the Rowboats mod.
 Rune Stones!.esp
 RuneDoomWell.esp
+
 \\\
 \\ overrides S
 
@@ -6874,6 +6858,7 @@ SkoomaTest.esp
 
 StackableEquipment.esp 
 StarX Vampire Deaths.esp
+
 \\\
 \\ overrides T
 
@@ -6892,9 +6877,9 @@ dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp
 TurretDisable.esp
+
 \\\
 \\ overrides U
-
 
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
@@ -6916,6 +6901,7 @@ Unlimited Rings - Shivering Isles.esp
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 undercover.esp
+
 \\\
 \\ overrides V
 
@@ -6923,6 +6909,7 @@ Valuable Gems and Silverware v1.0.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
 vn_goldweight.esp
+
 \\\
 \\ overrides W
 
@@ -6939,12 +6926,14 @@ kuerteeAlternativesToDeathAndReload.esp
 Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
 ? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
+
 \\\
 \\ overrides XYZ
 
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
+
 \\\
 \\ overrides Late
 
@@ -7017,7 +7006,7 @@ Andrews_No_Quest_Items.esp
 Daedric Lord Armor for Eshme.esp
 
 AyleidMeteorIronWeaponsVANILLA.esp
-\\\
+
 \\\
 \\ TIE Integration compatibility
 \'''''''''''''''''''''''''''''
@@ -7047,6 +7036,7 @@ TIE In - DLCThievesDen.esp
 TIE In - DLCFrostcrag.esp
 
 TIE In - BC-Anvil.esp
+
 \\\
 \\ Alternative starts
 \''''''''''''''''''
@@ -7072,8 +7062,8 @@ CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
-\\\
 
+\\\
 \\ Realism
 \'''''''
 \
@@ -7199,6 +7189,7 @@ Duke Patricks Hydration and Water Harvesting.esp
 Duke Patricks - Hydration and Water Harvesting.esp
 
 Roughing It.esp
+
 \\\
 \\ Vampires
 \''''''''
@@ -7272,6 +7263,7 @@ Duke Patricks - Nosferatu Class Vampires.esp
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
 LithiansNatureOfTheBeastModBeta.esp
+
 \\\
 \\ Magic
 \'''''
@@ -7420,6 +7412,7 @@ Advanced Magecraft.esp
 
 sr_enhanced_magic_system.esp
 SpellSinger.esp
+
 \\\
 \\ Mighty Magic
 
@@ -7453,8 +7446,10 @@ MidasSpells_MM.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
+
 \\\
 \\ Supreme Magicka
+
 AgarVariedSpellSounds_SupremeMagicka.esp
 % {{BASH:Sound}} and deactivate.
 SupremeMagicka.esp
@@ -7491,6 +7486,7 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
+
 \\\
 \\ Midas Magic
 
@@ -7542,6 +7538,7 @@ Midas BeastFortify Fix NONOBSE.esp
 ? Pick either the OBSE version or this one. But not both. 
 Midas BeastFortify Fix OBSE.esp
 ? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
+
 \\\
 \\ Spells Late
 
@@ -7609,6 +7606,7 @@ PMSneakySummons-ForVanilla.esp
 
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
+
 \\\
 \\ Alchemy
 \'''''''
@@ -7666,8 +7664,10 @@ Herbalism - DLCFrostcrag.esp
 Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
 ? Use only with the 'Herbalism' mod, otherwise use newer 'Harvest [Flora]' v3.1.
+
 \\\
 \\ Enchantment
+
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
 EnchantmentRestore.esp
@@ -7690,7 +7690,7 @@ Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Staffcraft.esp
-\\\
+
 \\\
 \\ Thievery, Sneaking and Crime
 \''''''''''''''''''''''''''''
@@ -8178,6 +8178,7 @@ Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
 
 Wrye Leveling.esp
+
 \\\
 \\ Pose mods
 \'''''''''
@@ -8229,6 +8230,7 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 walklikesheo.esp
+
 \\\
 \\ Semi-final overrides
 \''''''''''''''''''''
@@ -8303,7 +8305,6 @@ Arena betting.esp
 \--------------------------
 \
 \Hair, eyes, race addons & changes and other cosmetics.
-
 
 \\ Body and head changes
 \'''''''''''''''''''''
@@ -8423,6 +8424,7 @@ MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
+
 \\\
 \\ Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
@@ -8573,6 +8575,7 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+
 \\\
 \\ Merges and combinations
 \'''''''''''''''''''''''
@@ -8630,6 +8633,7 @@ Diverse NPCs.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
+
 \\\
 \\ Companions
 \----------
@@ -8807,6 +8811,7 @@ DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}
 DATiamsGirls.esp
 % {{BASH:Hair,Eyes}}	all
+
 \\\
 \\ Race Overrides
 \--------------
@@ -8839,6 +8844,7 @@ bgBalancingDVCore.esp
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
+
 \\\
 \\ L.A.M.E.
 \''''''''
@@ -8870,6 +8876,7 @@ bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
+
 \\\
 \\ Post Magicka Overhaul
 \'''''''''''''''''''''
@@ -8878,6 +8885,7 @@ Bound_Arrows_with_Bow.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent,merge}} and deactivate
+
 \\\
 \\ Race Balancing Project 2
 \''''''''''''''''''''''''
@@ -9054,7 +9062,6 @@ Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 
-
 \\ Obsolete BC files
 
 BCAnvil-LostCoast Fix.esp
@@ -9197,6 +9204,7 @@ Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
 ? Old, update to newer version.
 \\\
+
 Portrait Painter for Better Cities.esp
 
 \\ BC IC
@@ -9262,6 +9270,7 @@ Better Cities IC Arcane University FPS Patch.esp
 Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 \\\
+
 \\\
 \\ Post BC and OBC
 \'''''''''''''''
@@ -9275,6 +9284,7 @@ TreeHomeIntLight-ChorrolHinterland patch.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
+
 \\\
 \\ Message suppression overrides
 \-----------------------------
@@ -9706,6 +9716,7 @@ Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
 \\\
+
 \\\
 \\ Pre Bash
 \--------
@@ -9741,7 +9752,6 @@ NRB4 Standard Road Record.esp
 NRB4 OCLR Road Record.esp
 ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
-
 
 Bashed Delayers - MERGE ONLY.esp
 ? Must be merged into the bashed patch in Wrye Bash
@@ -9801,6 +9811,7 @@ Slof's Manly Stride.esp
 SWalk.esp
 bgScriptEffectSilencer.esp
 NoScriptHitVisual.esp
+
 \\\
 \\ Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
@@ -9878,6 +9889,7 @@ Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
 \% {{BASH:Sound}}
+
 \\\
 \\ These should go LAST LAST LAST.
 \I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.

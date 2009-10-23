@@ -6199,10 +6199,6 @@ Blue Destiny's Armor.esp
 \Mods that deliberately change specific things about vanilla Oblivion, overhauls or other mods.
 \Some late loading quests and locations in here too.
 
-\\\
-\\ General
-\'''''''
-
 \\ overrides Early
 
 NaturalVegetation.esp
@@ -6566,15 +6562,15 @@ Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
 \\\
-\overrides J
+\\ overrides J
 
 Jarol's NPC Leveled Equipment.esp
 Jerall-Pass.esp
 ? German mod.
 JQ-Backpacks.esp
 JQ-Bandages.esp
-
-\overrides K
+\\\
+\\ overrides K
 
 KeyBox.esp
 kikaibookbelts-amulet.esp
@@ -6586,8 +6582,8 @@ KT_KhajEyeToggleNoEff.esp
 KT_VampSightToggle.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
-
-\overrides L
+\\\
+\\ overrides L
 
 LastUnicorn.esp
 Leviathan Soulgems.esp
@@ -6604,8 +6600,8 @@ Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
-
-\overrides M
+\\\
+\\ overrides M
 
 M.O.E. - Bone Names and Priced Skull.esp
 ? May not be compatible with MMM bone loot - untested.
@@ -6651,8 +6647,8 @@ MoreTraining.esp
 movablebodies.esp
 Music Controller.esp
 MYR_AyleidKing.esp
-
-\overrides N
+\\\
+\\ overrides N
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
@@ -6689,8 +6685,8 @@ NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 npcjump.esp 
-
-\overrides O
+\\\
+\\ overrides O
 
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
@@ -6705,8 +6701,8 @@ Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
 Orrery_Rewards.esp
-
-\overrides P
+\\\
+\\ overrides P
 
 P1DkeyChain.esp
 P1DKeychain for COBL.esp
@@ -6726,13 +6722,13 @@ Potions Recolored.esp
 JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
-
-\overrides Q
+\\\
+\\ overrides Q
 
 Quest Item Tag Remover.esp
 QuestItemMessage.esp
-
-\overrides R
+\\\ 
+\\ overrides R
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
@@ -6771,8 +6767,8 @@ Leyawin Bridge.esp
 ? Part of the Rowboats mod.
 Rune Stones!.esp
 RuneDoomWell.esp
-
-\overrides S
+\\\
+\\ overrides S
 
 Safer Roads v1.0.esp
 ? Don't use with MMM or FCOM - unkown with other overhauls
@@ -6878,8 +6874,8 @@ SkoomaTest.esp
 
 StackableEquipment.esp 
 StarX Vampire Deaths.esp
-
-\overrides T
+\\\
+\\ overrides T
 
 tag_NaturalWildlife.esp
 GP_Natural Wildlife - MMM.esp
@@ -6896,8 +6892,8 @@ dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp
 TurretDisable.esp
-
-\overrides U
+\\\
+\\ overrides U
 
 
 Unarmored Skill for Everyone.esp
@@ -6920,15 +6916,15 @@ Unlimited Rings - Shivering Isles.esp
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 undercover.esp
-
-\overrides V
+\\\
+\\ overrides V
 
 Valuable Gems and Silverware v1.0.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
 vn_goldweight.esp
-
-\overrides W
+\\\
+\\ overrides W
 
 Wayshrines Improved.esp
 wd purse of wonders.esp
@@ -6943,14 +6939,14 @@ kuerteeAlternativesToDeathAndReload.esp
 Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
 ? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
-
-\overrides XYZ
+\\\
+\\ overrides XYZ
 
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
-
-\overrides Late
+\\\
+\\ overrides Late
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.
@@ -7021,9 +7017,9 @@ Andrews_No_Quest_Items.esp
 Daedric Lord Armor for Eshme.esp
 
 AyleidMeteorIronWeaponsVANILLA.esp
-
-
-\TIE Integration compatibility
+\\\
+\\\
+\\ TIE Integration compatibility
 \'''''''''''''''''''''''''''''
 \
 \TIE In optional addon patches.
@@ -7051,9 +7047,8 @@ TIE In - DLCThievesDen.esp
 TIE In - DLCFrostcrag.esp
 
 TIE In - BC-Anvil.esp
-
-
-\Alternative starts
+\\\
+\\ Alternative starts
 \''''''''''''''''''
 \
 \Must go after anything that alters the main quest.
@@ -7077,9 +7072,9 @@ CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
+\\\
 
-
-\Realism
+\\ Realism
 \'''''''
 \
 \Mainly health, encumberance and fatigue overhauls.

@@ -7199,8 +7199,8 @@ Duke Patricks Hydration and Water Harvesting.esp
 Duke Patricks - Hydration and Water Harvesting.esp
 
 Roughing It.esp
-
-\Vampires
+\\\
+\\ Vampires
 \''''''''
 \
 \Will override changes made by OOO. May cause faction conflicts with any new vampire factions.
@@ -7272,8 +7272,8 @@ Duke Patricks - Nosferatu Class Vampires.esp
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
 LithiansNatureOfTheBeastModBeta.esp
-
-\Magic
+\\\
+\\ Magic
 \'''''
 \
 \Overrides overhauls. New spells and magic systems go here for convenience.
@@ -7282,7 +7282,7 @@ MagLite.esp
 MagLite - Alchemy.esp
 OOO Potions Autocalc.esp
 
-\General Spells
+\\ General Spells
 
 Acidon_EnchantmentFixes.esp
 AddSpells.esp
@@ -7420,8 +7420,8 @@ Advanced Magecraft.esp
 
 sr_enhanced_magic_system.esp
 SpellSinger.esp
-
-\Mighty Magic
+\\\
+\\ Mighty Magic
 
 Mighty Magick - Core.esp
 Mighty Magick - Settings.esp
@@ -7453,8 +7453,8 @@ MidasSpells_MM.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
-
-\Supreme Magicka
+\\\
+\\ Supreme Magicka
 AgarVariedSpellSounds_SupremeMagicka.esp
 % {{BASH:Sound}} and deactivate.
 SupremeMagicka.esp
@@ -7491,8 +7491,8 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
-
-\Midas Magic
+\\\
+\\ Midas Magic
 
 MidasSpells.esp
 OC+Midas Magic Patch.esp
@@ -7542,8 +7542,8 @@ Midas BeastFortify Fix NONOBSE.esp
 ? Pick either the OBSE version or this one. But not both. 
 Midas BeastFortify Fix OBSE.esp
 ? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
-
-\Spells Late
+\\\
+\\ Spells Late
 
 AudaciousMagery.esp
 
@@ -7602,9 +7602,6 @@ TFE - Restore Cost.esp
 ? Not needed if using LAME.
 TFE Magic Costs.esp
 Diverse Effect Icons.esp
-PMSneakySummonCompatibility.esp
-? Requires BASH for proper use
-% {{Bash:IIM,Filter,Invent,merge}} and deactivate
 PMSneakySummons-ForVanilla.esp
 ? Do not use with PMSneakySummonCompatibility.esp, 
 ? to have magic overhaul features move before magic overhauls (but then 
@@ -7612,8 +7609,8 @@ PMSneakySummons-ForVanilla.esp
 
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
-
-\Alchemy
+\\\
+\\ Alchemy
 \'''''''
 
 alchemybugfix.esp
@@ -7669,7 +7666,8 @@ Herbalism - DLCFrostcrag.esp
 Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
 ? Use only with the 'Herbalism' mod, otherwise use newer 'Harvest [Flora]' v3.1.
-
+\\\
+\\ Enchantment
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
 EnchantmentRestore.esp
@@ -7692,9 +7690,9 @@ Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Staffcraft.esp
-
-
-\Thievery, Sneaking and Crime
+\\\
+\\\
+\\ Thievery, Sneaking and Crime
 \''''''''''''''''''''''''''''
 \
 \Overrides overhauls.
@@ -7767,9 +7765,9 @@ ZumbsLockpickingMod - Hide Difficulty Addon.esp
 
 kuerteeNoLootingDuringCombat.esp
 kuerteeNPCsAreSuspicious.esp
+\\\
 
-
-\Guards and Bounty
+\\ Guards and Bounty
 \'''''''''''''''''
 
 OOO-OLC_Realistic_Detection.esp
@@ -7818,9 +7816,9 @@ Duke Patrick's Lockpick challange Autopick.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
 Duke Patrick's Lockpick challange Manual.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
+\\\
 
-
-\Combat
+\\ Combat
 \''''''
 \
 \Overrides 'overhauls'.
@@ -7974,9 +7972,9 @@ Duke Patrick`s Smash of the Titans.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Smash Of The Titans.esp
 SpookyNPCAIModsMerge.esp
+\\\
 
-
-\Skills, Attributes and Leveling
+\\ Skills, Attributes and Leveling
 \'''''''''''''''''''''''''''''''
 \
 \Unlikely to interact with other kinds of mods.
@@ -8180,8 +8178,8 @@ Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
 
 Wrye Leveling.esp
-
-\Pose mods
+\\\
+\\ Pose mods
 \'''''''''
 \
 \Scripts and new animations.
@@ -8231,8 +8229,8 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 walklikesheo.esp
-
-\Semi-final overrides
+\\\
+\\ Semi-final overrides
 \''''''''''''''''''''
 
 Wolvmans_Better_Hand_placed_Loot.esp
@@ -8299,17 +8297,15 @@ Script effect - Bash icon.esp
 Stat Restore.esp
 
 Arena betting.esp
+\\\
 
-
-
-\--------------------------
-\Beauty Packs & Race Addons
+\\ Beauty Packs & Race Addons
 \--------------------------
 \
 \Hair, eyes, race addons & changes and other cosmetics.
 
 
-\Body and head changes
+\\ Body and head changes
 \'''''''''''''''''''''
 
 BulkyNords.esp
@@ -8338,9 +8334,9 @@ Jjiinx_Long Ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Head06 Replacer.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+\\\
 
-
-\Hair
+\\ Hair
 \''''
 
 UnlockedHairs.esp
@@ -8371,9 +8367,9 @@ Saram_Corean_NPC_Hair_1_0.esp
 % {{BASH:Hair}} and deactivate.
 ZelsHairfixRenshairV1_5.esp
 % {{BASH:Hair}} and deactivate.
+\\\
 
-
-\Eyes
+\\ Eyes
 \''''
 
 ElaborateEyes.esp
@@ -8397,8 +8393,8 @@ Cat_eyes_add.esp
 DesuChan's Anime Eyes (Vanilla).esp
 % {{BASH:Eyes}} and deactivate.
 
-
-\Mixed
+\\\
+\\ Mixed
 \'''''
 
 All_hair_and_eyes-1841.esp
@@ -8427,8 +8423,8 @@ MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
-
-\Race additions (+ hair + eyes etc)
+\\\
+\\ Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
 4 New Races for Rens-Beautiful People.esp
@@ -8577,8 +8573,8 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-
-\Merges and combinations
+\\\
+\\ Merges and combinations
 \'''''''''''''''''''''''
 
 Luchaire's Dryad Race for MMM.esp
@@ -8634,9 +8630,8 @@ Diverse NPCs.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
-
-\----------
-\Companions
+\\\
+\\ Companions
 \----------
 \
 \Those related to companion mod systems. Most others in Quests section.
@@ -8812,14 +8807,13 @@ DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}
 DATiamsGirls.esp
 % {{BASH:Hair,Eyes}}	all
-
-\--------------
-\Race Overrides
+\\\
+\\ Race Overrides
 \--------------
 \
 \Includes birthsign mods.
 
-\COBL Races
+\\ COBL Races
 \''''''''''
 
 Cobl Races.esp
@@ -8833,9 +8827,9 @@ Cobl Races TNR SI.esp
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
+\\\
 
-
-\Race Balancing Project 1
+\\ Race Balancing Project 1
 \''''''''''''''''''''''''
 
 bgBalancingEVCore.esp
@@ -8845,8 +8839,8 @@ bgBalancingDVCore.esp
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
-
-\L.A.M.E.
+\\\
+\\ L.A.M.E.
 \''''''''
 \Inserted here for RBP compatibility
 \Expect SM to be moved here for people who want SM to 'win' over LAME.
@@ -8876,15 +8870,16 @@ bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
-
-\Post Magicka Overhaul
+\\\
+\\ Post Magicka Overhaul
 \'''''''''''''''''''''
-\
-\
+
 Bound_Arrows_with_Bow.esp
-
-
-\Race Balancing Project 2
+PMSneakySummonCompatibility.esp
+? Requires BASH for proper use
+% {{Bash:IIM,Filter,Invent,merge}} and deactivate
+\\\
+\\ Race Balancing Project 2
 \''''''''''''''''''''''''
 
 bgBalancingOptionalLessHealth.esp
@@ -8950,9 +8945,9 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
+\\\
 
-
-\BG Integration quest
+\\ BG Integration quest
 \''''''''''''''''''''
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
@@ -8960,9 +8955,9 @@ bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH:Faces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
+\\\
 
-
-\Other race/birthsign mods
+\\ Other race/birthsign mods
 \'''''''''''''''''''''''''
 
 Custom_Birthsigns_Chris.esp
@@ -8979,7 +8974,6 @@ Willful Resistance.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
 DBWBMR.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
-/seems like a funny spot but since Willful Resistance is here and works for me I'll presume it works fine here (PM)
 ArgonianFeets.esp
 % {{BASH:Invent}}
 ScriptedArgonianFeet.esp
@@ -8996,10 +8990,11 @@ CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
+\\\
+\\\
+\\\
 
-
-\-------------
-\Better Cities
+\\ Better Cities
 \-------------
 
 Better Cities - Full City Defences.esp
@@ -9060,7 +9055,7 @@ Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 
 
-\Obsolete BC files
+\\ Obsolete BC files
 
 BCAnvil-LostCoast Fix.esp
 ? Obsolete. Update Better Cities to latest version.
@@ -9201,10 +9196,10 @@ Better Cities IC Arcane University Patch.esp
 Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
 ? Old, update to newer version.
-
+\\\
 Portrait Painter for Better Cities.esp
 
-\BC IC
+\\ BC IC
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp
@@ -9224,12 +9219,11 @@ Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
+\\\
 
-
-\Better Cities FPS Patches
+\\ Better Cities FPS Patches
 
 Better Cities Full FPS Patch.esp
-
 Better Cities Skingrad FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities Leyawiin FPS Patch.esp
@@ -9267,9 +9261,9 @@ Better Cities IC Arcane University FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
-
-
-\Post BC and OBC
+\\\
+\\\
+\\ Post BC and OBC
 \'''''''''''''''
 
 _burning_kvatch.esp
@@ -9281,9 +9275,8 @@ TreeHomeIntLight-ChorrolHinterland patch.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
-
-\-----------------------------
-\Message suppression overrides
+\\\
+\\ Message suppression overrides
 \-----------------------------
 \
 \Best loaded late to override possible message additions from other mods.
@@ -9321,9 +9314,9 @@ Zero Annoying Comments and Messages.esp
 ReallyImmersiveMessages.esp
 ? Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
 ReallyImmersiveMessagesNoBirthsigns.esp
+\\\
 
-\------------------------------
-\Respawn & day length overrides
+\\ Respawn & day length overrides
 \------------------------------
 \
 \Use only one of each kind. Unlikely to interact with other mods.
@@ -9378,15 +9371,14 @@ Combat Timescale x0.5 v1.0.esp
 DynamicTimescale.esp
 Syc_LongerDaysShorterNights.esp
 SPAWN.esp
+\\\
 
-
-\-----------
-\Shader mods
+\\ Shader mods
 \-----------
 \
 \Need to go after new items to affect them.
 
-\Shader removers
+\\ Shader removers
 \'''''''''''''''
 
 _No__persistant_enchantment_glow_fix-1843.esp
@@ -9407,9 +9399,9 @@ Chameleon-NoRefraction-2411.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 1310-chamelion-norefraction-tessource.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
+\\\
 
-
-\Shader replacers
+\\ Shader replacers
 \''''''''''''''''
 
 AznarsLifeDetect.esp
@@ -9713,10 +9705,9 @@ Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
-
-
-\--------
-\Pre Bash
+\\\
+\\\
+\\ Pre Bash
 \--------
 Faction Rank Fix.esp
 Helmet Toggle.esp
@@ -9765,9 +9756,9 @@ All Natural - Indoor Weather Filter For Mods.esp
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
+\\\
 
-\------------
-\Bashed Patch
+\\ Bashed Patch
 \------------
 
 Bashed Patch FCOM.esp
@@ -9785,10 +9776,9 @@ Bashed Patch.esp
 Bashed Patch, Warrior.esp
 Bashed Patch, Thief.esp
 Bashed Patch, Mage.esp
+\\\
 
-
-\-----------------
-\Post Bashed Patch
+\\ Post Bashed Patch
 \-----------------
 
 CybBPcompatibility.esp
@@ -9811,8 +9801,8 @@ Slof's Manly Stride.esp
 SWalk.esp
 bgScriptEffectSilencer.esp
 NoScriptHitVisual.esp
-
-\Obsolete, Unsorted Duke Patrick's Mods
+\\\
+\\ Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
 \
 \Mods that are not available for download and are not referenced in Duke Patrick's load order guidelines.
@@ -9831,9 +9821,9 @@ Duke Patrick's So you think you are a war god 1.2.esp
 ? Obsolete. Do not use.
 Duke Patricks So you think you are a war god MARK II.esp
 ? Obsolete. Do not use.
+\\\
 
-
-\Sorted Duke Patrick's Mods
+\\ Sorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''
 \
 \The rest of these mods are ordered as according to Duke Patrick's guidelines.
@@ -9888,8 +9878,8 @@ Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
 \% {{BASH:Sound}}
-
-\These should go LAST LAST LAST.
+\\\
+\\ These should go LAST LAST LAST.
 \I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
 \Staying here until the SCA stuff moves though, these should be after that.
 
@@ -9912,9 +9902,9 @@ Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
 ? Old. Upgrade to latest version.
 \% {{BASH:Sound}}
+\\\
 
-
-\Last Files
+\\ Last Files
 \''''''''''
 MergedMaps.esp
 \this so has to go last...
@@ -9936,3 +9926,4 @@ Streamline 2.1.esp
 RedDelPCB.esp
 
 CTEFastSaver.esp
+\\\

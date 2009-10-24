@@ -1110,6 +1110,7 @@ Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 Doomstones.esp
 DragonStatuesv1.esp
+DropLPUI.esp
 DS Mage's Belt.esp
 DS Storage Sacks.esp
 DS Time Manager.esp
@@ -3519,6 +3520,8 @@ ExnemRuneskulls.esp
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
 
+MMM_Runeskull_Rebalance_BETA2.esp
+
 FCOM_AyleidCoinDelev.esp
 
 Slof's Oblivion Robe Trader.esp
@@ -4550,11 +4553,13 @@ Aundae.esp
 Aundae_OBSE_addon.esp
 Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
+Auriel's_Retreat.esp
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
 AzurasServices_de.esp
 ? German Version
 AzurasServices_en.esp
+AzuraServices_en.esp
 \\\
 
 \\ Quests B
@@ -4623,6 +4628,7 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 Boqwater_Settlement_V103.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
+BravilSeaDomesExpanded.esp
 Bravil Docks.esp
 ? Not compatible with Better Cities. Already included in Better Cities Bravil.
 Bravil Store Upgrade.esp
@@ -5513,6 +5519,7 @@ Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
 Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
+Zira's Battle Horse.esp
 \\\
 
 \\ Quests Arena
@@ -6360,6 +6367,7 @@ Book Placement v2.esp
 AutoBookPlacer_v2.esp
 ? Update to v3 or later.
 Auto Potion.esp
+Auto Repair.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
@@ -6851,6 +6859,7 @@ Retros Fletching and Imbueing.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
 RingRobeHGEC.esp
+Rock Remover - Shore.esp
 RTSWelkyndClstrTreasure.esp
 Rowboats.esp
 ? Removes border region limmitation too.

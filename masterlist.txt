@@ -11,8 +11,7 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-\----
-\ESMs
+\\ ESMs
 \----
 Oblivion.esm
 Underdark.esm
@@ -178,9 +177,9 @@ UndiesUnderneath.esm
 StarX Vampire Deaths.esm
 MALO - MAIN.esm
 MiddleEarth.esm
+\\\
 
-\-------------
-\Earliest mods
+\\ Earliest mods
 \-------------
 
 HrmnsOblivionScriptOptimizationv1.0.esp
@@ -190,9 +189,9 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 
 TRoN.esp
 \Probably doesn't need to load this early but the authors recommend it.
+\\\
 
-\-------------
-\NPC face mods
+\\ NPC face mods
 \-------------
 \
 \Bash and deactivate to keep new faces with NPC altering mods later.
@@ -267,9 +266,9 @@ LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
+\\\
 
-\-------------
-\Vanilla fixes
+\\ Vanilla fixes
 \-------------
 \
 \Everything else must be allowed to override these.
@@ -321,8 +320,9 @@ Self-Preservation v1.0.esp
 % {{BASH:Scripts}}
 Traduccion Mejorada Oblivion Clan DLAN.esp
 % {{BASH:Names}} or without Bash load it later.
-\---
-\UOP
+\\\
+
+\\ UOP
 \---
 
 Unofficial Oblivion Patch.esp
@@ -336,9 +336,9 @@ Unofficial Oblivion Patch-mobs.esp
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
+\\\
 
-\---------------
-\Post UOP fixes
+\\ Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
 MG01-fix.esp
@@ -347,9 +347,9 @@ Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
 Permanent Effects from Quest Items fix Merge.esp
 ? Obselete upgrade to newest version of Permanent Effects from Quest Items fix.
+\\\
 
-\----------------------------------
-\Non-English Language fixes
+\\ Non-English Language fixes
 \have to be after UOP in some cases
 \----------------------------------
 
@@ -357,9 +357,9 @@ Arena-Ansage-Fix.esp
 OblivionMsg.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
+\\\
 
-\---------------
-\Shivering Isles
+\\ Shivering Isles
 \---------------
 
 DLCShiveringIsles.esp
@@ -398,8 +398,9 @@ MOBS SI Optional Combat Settings.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
 
 New Duke and Duchess.esp
-\----------
-\BSA tricks
+\\\
+
+\\ BSA tricks
 \----------
 
 Better Cities .esp
@@ -420,18 +421,18 @@ Oblivion.esp
 ? Usually a BSA redirection hack.
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+\\\
 
-\--------
-\Post BSA
+\\ Post BSA
 \--------
 
 MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
 MrSiikaRabbits.esp
 ? Do not use with MMM/FCOM. Already integrated.
+\\\
 
-\-----------------------------
-\Initial Fran's files for FCOM
+\\ Initial Fran's files for FCOM
 \-----------------------------
 
 >Francesco's Optional Chance of Stronger Bosses.esp
@@ -468,9 +469,9 @@ OMOBS_FRAN.esp
 % {{BASH:Stats}}
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
+\\\
 
-\---------------------------
-\Loading Screen Alternatives
+\\ Loading Screen Alternatives
 \---------------------------
 \
 \Unlikely to interact with other mods but OOO will overwrite if not correctly Bash Patched.
@@ -496,9 +497,9 @@ BlackLoadNoTip.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Zira's Horse Theme Loadscreens.esp
 % {{BASH:Graphics}} if using overhaul mods.
+\\\
 
-\---------
-\Base Mods
+\\ Base Mods
 \---------
 \
 \Mods that can be overridden in part.
@@ -506,7 +507,7 @@ Zira's Horse Theme Loadscreens.esp
 \New Items, NPCs & creatures that are not overrides of other mods.
 \'Library' mods.
 
-\Weather mods and overhauls
+\\ Weather mods and overhauls
 \''''''''''''''''''''''''''
 \
 \Unlikely to be affected by anything but sound mods.
@@ -623,8 +624,9 @@ NI-Fullcity-Anvilhome.esp
 
 no_wind-2578.esp
 NoWind.esp
+\\\
 
-\Water tweaks
+\\ Water tweaks
 \''''''''''''
 \
 \All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate.
@@ -649,8 +651,9 @@ Advanced Water Modification.esp
 Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
 Enviroment.esp
+\\\
 
-\Sound mods
+\\ Sound mods
 \''''''''''
 \
 \Let other mods override as needed. Sometimes overrides weather overhauls with better lightening sounds etc.
@@ -776,8 +779,9 @@ Weather Inside.esp
 ? Not compatible with later versions of Storms & Sound.
 
 Rainbows.esp
+\\\
 
-\Lighting
+\\ Lighting
 \''''''''
 \
 \Should load early to allow more 'important' mods to override.
@@ -833,14 +837,15 @@ aKALAmbientDungeonsBeta2.esp
 
 AmbientDungeons.esp
 ? OBSE, 'Screen Effects', and 'You Are Here' required.
+\\\
 
-\General Base Mods
+\\ General Base Mods
 \'''''''''''''''''
 \
 \Includes nearly all new items (except weapons and armor).
 \Low priority mods.
 
-\Base #
+\\ Base #
 
 1vampirescocktail.esp
 13rings.esp
@@ -860,8 +865,9 @@ AmbientDungeons.esp
 5076-V2.0-Dwemer Specs Equip-TESSource.esp
 
 [WIP]_Mysterious_Chest_(Combine_or_drain_soulgems)-2047.esp
+\\\
 
-\Base A
+\\ Base A
 
 AliveWaters.esp
 AliveWaters - Koi Addon.esp
@@ -911,8 +917,9 @@ Damage Text v2.esp
 
 All normal clothes buyable.esp
 SI Clothes.esp
+\\\
 
-\Base B
+\\ Base B
 
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}} and deactivate.
@@ -958,8 +965,9 @@ Brighter_Torches.esp
 BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
 % {{BASH:Invent}}
+\\\
 
-\Base C
+\\ Base C
 
 Cobl Bookjackets.esp
 % {{BASH:Graphics}}
@@ -1079,8 +1087,9 @@ Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
 % {{BASH:Invent}}
+\\\
 
-\Base D
+\\ Base D
 
 Daggerfallbooks.esp
 Daedric Wargames.esp
@@ -1105,8 +1114,9 @@ DS Mage's Belt.esp
 DS Storage Sacks.esp
 DS Time Manager.esp
 DZ_Hide_Grass.esp
+\\\
 
-\Base E
+\\ Base E
 
 EasySpellRemovalv1.esp
 Effect Shader Warehouse.esp
@@ -1119,8 +1129,9 @@ Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
 Extended Death Camera.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
+\\\
 
-\Base F
+\\ Base F
 
 FantasyPaintings.esp
 Fatality Cam.esp
@@ -1128,8 +1139,9 @@ Fatality Cam.esp
 Fish!.esp
 Fish! - v1.1.esp
 fwDropGold.esp
+\\\
 
-\Base G
+\\ Base G
 
 GoldnSilverBars.esp
 GrayFoxLeatherReward.esp
@@ -1142,15 +1154,17 @@ Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
 ? Not OOO compatible - already included in OOO.
+\\\
 
-\Base H
+\\ Base H
 
 Happyhannah's Wines.esp
 haz_ct2_magesguild_teleport.esp
 haz_ct3_horse_cart.esp
 HTFpcb Extended.esp
+\\\
 
-\Base I
+\\ Base I
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -1220,16 +1234,18 @@ IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
 ? Requires Bashed Patch.
+\\\
 
-\Base J
+\\ Base J
 
 Japanese Clothing.esp
 JQPotionBottlesTest.esp
 ? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
 JQ-EasterEggHunt09.esp
 JQ-TeaSet-DV.esp
+\\\
 
-\Base K
+\\ Base K
 
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
@@ -1237,8 +1253,9 @@ KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
 Kyoma's Focus on Shrine.esp
+\\\
 
-\Base L
+\\ Base L
 
 lantern.esp
 LCD.esp
@@ -1266,8 +1283,9 @@ LostTelvanniCodex.esp
 Luchaire's Neck Seam Concealer.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH:Invent}}
+\\\
 
-\Base M
+\\ Base M
 
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
@@ -1326,8 +1344,9 @@ Mud Crabs!_MMM.esp
 ? Use only one Mud Crabs! file
 Mud Crabs!_OOO.esp
 ? Use only one Mud Crabs! file
+\\\
 
-\Base N
+\\ Base N
 
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
@@ -1344,8 +1363,9 @@ NPCs Eat More.esp
 
 NWJtamriel.esp
 NpcwithJobsCreatures.esp
+\\\
 
-\Base O
+\\ Base O
 
 OAVO - Weather and Water.esp
 OAVO - Sound.esp
@@ -1360,8 +1380,9 @@ OL_CustomPaintings.esp
 OMP-NewFood.esp
 Oscars_Nicer_Grass-3346.esp
 OSRCustom.esp
+\\\
 
-\Base P
+\\ Base P
 
 Packhorses v1.esp
 personality_idles2.esp
@@ -1394,8 +1415,9 @@ Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
 Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
+\\\
 
-\Base Q
+\\ Base Q
 
 Q - More and Moldy Ingredients v1.1.esp
 Q - More and Moldy Ingredients v1.1 - DV.esp
@@ -1404,8 +1426,9 @@ Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 Qarls_logs.esp
 Quick Wardrobe.esp
+\\\
 
-\Base R
+\\ Base R
 
 R4C - Dark Regalia.esp
 RAEVWD Cities.esp
@@ -1437,8 +1460,9 @@ RingofNightEye.esp
 RoadSigns.esp
 Robes Under Armor.esp
 Rock Remover - Underwater.esp
+\\\
 
-\Base S
+\\ Base S
 
 Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
@@ -1502,8 +1526,9 @@ SummonChest_v2.1.esp
 Summon Bed.esp
 
 svaToMoveObjects_1C.esp
+\\\
 
-\Base T
+\\ Base T
 
 Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
@@ -1520,14 +1545,16 @@ TryBeforeYouBuy.esp
 TreeDoorAddition.esp
 trfSolaris.esp
 ? Old, update to trfjSolarisStaff.esp.
+\\\
 
-\Base U
+\\ Base U
 
 Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
+\\\
 
-\Base V
+\\ Base V
 
 VA_BetterGold.esp
 % {{BASH:Graphics}}
@@ -1539,8 +1566,9 @@ Venom.esp
 Vows and Covenants.esp
 ? Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
+\\\
 
-\Base W
+\\ Base W
 
 Walk to Oblivion.esp
 ? Incompatible with mods like Enhanced Daedric Invasion that modify Oblivion Gate scripts.
@@ -1553,8 +1581,9 @@ Weed AND Beer inebriation 1.32.esp
 Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
+\\\
 
-\Base XYZ
+\\ Base XYZ
 
 Xero's Fame Indicator.esp
 Xia_Nhary_TwilightAssassin.HGEC1.1Normal.esp
@@ -1563,8 +1592,9 @@ XTS-Merchant-Mod-V1.0.esp
 ZariAlchemistsRing.esp
 
 Zedar.esp
+\\\
 
-\Base Late
+\\ Base Late
 
 Harvest[Containers].esp
 ? Not OOO compatible. Included in OOO.
@@ -1655,8 +1685,11 @@ Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
 
 kuerteeIgnoringTheMainQuestHasConsequences.esp
+\\\
+\\\
+\\\
 
-\Map marker Tweaks
+\\ Map marker Tweaks
 \'''''''''''''''''
 \
 \Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
@@ -1697,8 +1730,9 @@ ShrineMarkers.esp
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
 Wayshrine Map Markers.esp
+\\\
 
-\Hotkeys
+\\ Hotkeys
 \'''''''
 \Load order independent. Use only one unless documentation says otherwise.
 
@@ -1724,9 +1758,9 @@ Quick Clothes and Spells.esp
 sr_super_hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 YetAnotherHotkeyMod.esp
+\\\
 
-\-----
-\DLC 1
+\\ DLC 1
 \-----
 
 DLCHorseArmor.esp
@@ -1777,9 +1811,9 @@ Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
 GrimbotsSpellTomes.esp
 % {{BASH:Graphics}} and deactivate.
+\\\
 
-\--------------
-\Body replacers
+\\ Body replacers
 \--------------
 \
 \Load early.
@@ -1811,15 +1845,15 @@ EVE_StockEquipmentReplacer.esp
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
 % {{Bash:Graphics}}
+\\\
 
-\-------------------------
-\Items (armor and weapons)
+\\ Items (armor and weapons)
 \-------------------------
 \
 \VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 \Some items will need to go after overhaul or location altering mods to appear.
 
-\Items Early
+\\ Items Early
 
 Bonemold_Helmet.esp
 % {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
@@ -1829,8 +1863,9 @@ Cryos Ordinator Lite.esp
 ? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 
 avarm.esp
+\\\
 
-\Items #
+\\ Items #
 
 000torturearmorbw.esp
 01_SenTinel's Katanas.esp
@@ -1848,8 +1883,9 @@ avarm.esp
 1scorpionshield.esp
 1dragonbonekatana.esp
 1carbonblade.esp
+\\\
 
-\Items A
+\\ Items A
 
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -1983,8 +2019,9 @@ ArtifactsFemaleArmor.esp
 Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
 Angeleron.esp
+\\\
 
-\Items B
+\\ Items B
 
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
@@ -2058,8 +2095,9 @@ BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
 Buster Sword R.esp
+\\\
 
-\Items C
+\\ Items C
 
 c_dagcol.esp
 c_dragondagger.esp
@@ -2101,8 +2139,9 @@ crusadercg.esp
 Crystalline Sword.esp
 CrystalStaff.esp
 Cy.esp
+\\\
 
-\Items D
+\\ Items D
 
 Dancers clothes.esp
 DBShadowSet.esp
@@ -2193,8 +2232,9 @@ Daedric Weaponz.esp
 Daedric Weaponz_1C.esp
 Dark Tower Shield.esp
 DarkFlame.esp
+\\\
 
-\Items E
+\\ Items E
 
 Echo_MysticShield.esp
 ElegantVests.esp
@@ -2211,8 +2251,9 @@ Elegant Vests.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
 Excessor Sword.esp
+\\\
 
-\Items F
+\\ Items F
 
 FalxMod.esp
 % {{BASH:Invent}}
@@ -2228,8 +2269,9 @@ FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
 Flamberge.esp
+\\\
 
-\Items G
+\\ Items G
 
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
@@ -2264,8 +2306,9 @@ GrayFoxArmor.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
+\\\
 
-\Items H
+\\ Items H
 
 Hades.esp
 Harlequin Armour 0.6.esp
@@ -2295,16 +2338,18 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Heron Mark Swords 1.0.esp
+\\\
 
-\Items I
+\\ Items I
 
 It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
 IvyArmor_Full.esp
+\\\
 
-\Items J
+\\ Items J
 
 Jade Dishes.esp
 javrmb.esp
@@ -2315,8 +2360,9 @@ JG Elven.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 jy-Akaviri Helmets.esp
+\\\ 
 
-\Items K
+\\ Items K
 
 KADdagirbows.esp
 KA_RoseDress.esp
@@ -2343,8 +2389,9 @@ Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
+\\\
 
-\Items L
+\\ Items L
 
 LadiesOrcish.esp
 Lady Jasmine Moon.esp
@@ -2365,8 +2412,9 @@ LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
+\\\
 
-\Items M
+\\ Items M
 
 m_DwemerEliteArmorWeps.esp
 Mage Ward.esp
@@ -2413,8 +2461,9 @@ MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
+\\\
 
-\Items N
+\\ Items N
 
 Nature's_bounty.esp
 Natures_Arsenal.esp
@@ -2455,8 +2504,9 @@ Nicos Dreadweave Compilation.esp
 ? Deactivate 'Nicos Dreweave Axes 1.2'
 ? Deactivate 'Nicos Dreweave armor 1.4'
 ? Deactivate 'Nicos Bow and Arrows 1.1'
+\\\
 
-\Items O
+\\ Items O
 
 Obsidian armor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
@@ -2466,8 +2516,9 @@ Oddbasket Glass Replace.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oonas_Outfitters.esp
 Obclothing.esp
+\\\
 
-\Items P
+\\ Items P
 
 PAF_armor_additions.esp
 paintings.esp
@@ -2496,9 +2547,12 @@ Potion Belt.esp
 PerditionsEdge.esp
 SLPD_Ponytail.esp
 PythonHolyhg.esp
+\\\
 
-\Items Q
-\Items R
+\\ Items Q
+\\\
+
+\\ Items R
 
 RavenWearClothing.esp
 RavenWearArmor.esp
@@ -2528,8 +2582,9 @@ RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
+\\\
 
-\Items S
+\\ Items S
 
 Sacredblade.esp
 Saint Hiryu's Artifacts.esp
@@ -2622,8 +2677,9 @@ Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
+\\\
 
-\Items T
+\\ Items T
 
 talon.esp
 % {{BASH:Invent}}
@@ -2678,8 +2734,9 @@ Travelers' Cloaks.esp
 Tsuguri.esp
 TT-EquipableBeards.esp
 TT-EquipableBeardsLEVELEDLIST.esp
+\\\
 
-\Items U
+\\ Items U
 
 Underwear HGEC placed.esp
 Underworld Armor.esp
@@ -2693,8 +2750,9 @@ UU! Female Undies NPCs.esp
 ? Consider upgrading to version 4.2.1+.
 UU_Female_Undies.esp
 UFF Armour of HadesRU.esp
+\\\
 
-\Items V
+\\ Items V
 
 V1 Imperial Legion Dragon Cuirass.esp
 vahi_clothes.esp
@@ -2710,8 +2768,9 @@ volkoth.esp
 VSPTensaZangetsu.esp
 Viro's Kung Fu Set.esp
 Vvardenfell_Imports.esp
+\\\
 
-\Items W
+\\ Items W
 
 WarriorBandages_V2.0.esp
 WarriorsRobe.esp
@@ -2721,8 +2780,9 @@ WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
 Warglaive - EV.esp
+\\\
 
-\Items XYZ
+\\ Items XYZ
 
 Xifr's Seperated Dark Brotherhood Armour.esp
 XSPipeMod.esp
@@ -2730,8 +2790,9 @@ XiaValentinesDayGift07.esp
 ? May not be compatible with anything that modifies the Tiber Septim Hotel.
 
 ZMP NoError.esp
+\\\
 
-\Items Late
+\\ Items Late
 
 Thieves Arsenal.esp
 ? Requires OBSE.
@@ -2740,7 +2801,7 @@ Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
 
-\RealSwords
+\\ RealSwords
 
 RealSwords - Argonian HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
@@ -2886,6 +2947,7 @@ RealSwords - Redguard LO.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
+\\\
 
 Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
@@ -2930,9 +2992,10 @@ Keybox_+_Nice_items!-7026.esp
 Sergei Robes Compilation.esp
 SS-GenderIndependentClothing v1.0.esp
 300_Classes.esp
+\\\
+\\\
 
-\--------------------
-\Body Replacer Armour
+\\ Body Replacer Armour
 \--------------------
 \
 \Stuff for use with body replacers.
@@ -3192,8 +3255,9 @@ Colourwheels Sexy SI Armor & Clothing Replacer.esp
 
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
+\\\
 
-\Not For Free Armor
+\\ Not For Free Armor
 
 tona_simple_dress-armor_ver3.esp
 % {{BASH:Relev}} if using Not For Free mod.

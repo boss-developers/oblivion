@@ -2198,6 +2198,7 @@ DC-Armor-Pack.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DHAyleidShield.esp
+Diano.esp
 DivineShields.esp
 DMACArmor.esp
 DMGloves.esp
@@ -2326,10 +2327,14 @@ Hel Borne's Blackiron Weapon Set.esp
 Hel Borne's Chitin Armor Weapons.esp
 Hel Borne Spear Set.esp
 HelmetCollection.esp
+
+HentaiChinaDress.esp
 HENTAI's gift.esp
+Hentai_HentaiUniform.esp
 Hentai Compilation.esp
 Hentai_Compilation.esp
 HentaiSummerFesta.esp
+
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -4477,6 +4482,7 @@ Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 A Qrazy Quest.esp
+AL_Maverick.esp
 ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
@@ -8533,6 +8539,8 @@ Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}} and deactivate.
+ElaborateEyes-RensBeautyPackFull.esp
+% {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackHairsOnly.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 CT-Argonian Headstyles-EE.esp
@@ -8557,6 +8565,8 @@ Avariel.esp
 PlayableSheogorathMod.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathModOptionalIcon.esp
+MUIA.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
@@ -8794,6 +8804,11 @@ CM Partners Beasts.esp
 CM Partners 20 Pack.esp
 CM Partner Jordie1.esp
 CM AnyaYelena2.esp
+ambreskav02.esp
+ambreskav02_default_anim.esp
+
+CM_LoreleiU.esp
+% {{BASH:Hair,Eyes}}
 cm lula wild.esp
 CM Tifa A.esp
 CM_Kailinda.esp

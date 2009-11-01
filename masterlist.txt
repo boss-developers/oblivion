@@ -1231,6 +1231,7 @@ Improved Skingrad.esp
 ImprovedSigns.esp
 Inebriation.esp
 ? Not OOO compatible - already included in OOO.
+Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
@@ -1888,6 +1889,7 @@ avarm.esp
 
 \\ Items A
 
+A_Simple_Ring-8333.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Ace's Warlock Gear.esp
@@ -2329,10 +2331,13 @@ Hel Borne Spear Set.esp
 HelmetCollection.esp
 
 HentaiChinaDress.esp
+HentaiDarkLilith.esp
+HENTAI_EVE.esp
 HENTAI's gift.esp
 Hentai_HentaiUniform.esp
 Hentai Compilation.esp
 Hentai_Compilation.esp
+Hentai Mania.esp
 HentaiSummerFesta.esp
 
 HiddenSkulls.esp
@@ -2569,6 +2574,7 @@ rdweaponpack1.esp
 Redemption.esp
 RedgardWeaponsMod.esp
 ? Make sure to load an overhaul or something after or manually rename the cells that this edits.
+RenKnockOutArrow.esp
 Retma Dresses.esp
 Reznod Mannequin.esp
 Reznod_Mannequin_HD[Eng].esp
@@ -5528,6 +5534,9 @@ Oblivion - ZOMBIE.esp
 Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
 Zira's Battle Horse.esp
+Zyrtos' Cheydinhal Garden.esp
+Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
+Cheydinhal Nirnroot Growth Spur.esp
 \\\
 
 \\ Quests Arena
@@ -6058,6 +6067,7 @@ xulBlackwoodForest.esp
 
 xulCheydinhalFalls.esp
 Blood&Mud-CheydinhalFalls patch.esp
+TearsOfTheFiend-CheydinhalFalls patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -6502,6 +6512,7 @@ CUO_UnLeveledVendors.esp
 
 \\ Overrides D
 
+Daedra_Shrine_Level_Requirement_Remover-2011.esp
 DarkAltars.esp
 DarkUI Fix.esp
 ? Old file. Not needed with DarkUI'd DarN 1.5.5 or newer.
@@ -7270,6 +7281,8 @@ WPHealthRegen.esp
 Wounds Healed - 1.1.esp
 NoHealingDuringWait.esp
 Natural Hunger v2_0 by QF.esp
+? Old, upgrade to version 2.1.
+Natural Hunger v2_1 by QF.esp
 Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
 sr_retroactive_health.esp
@@ -7807,6 +7820,8 @@ Better Weapon Enchantments.esp
 Enchantment Master.esp
 lumi_enchantments.esp
 Multiple Enchantments.esp
+IshMultipleApparelEnchantments.esp
+? Requires OBSE.
 Enchantment Reduction.esp
 Mundane Enchantment Adjustment.esp
 Better Enchanting & Spellmaking.esp
@@ -8303,8 +8318,9 @@ Level_Rates_Modified_x3.esp
 Level_Rates_Modified_x4.esp
 Level_Rates_Modified_x5.esp
 4x Slower Leveling.esp
-
+Faster Magic Levelling.esp
 Wrye Leveling.esp
+SaveSkillTrainingForLater.esp
 \\\
 
 \\ Pose mods
@@ -8537,6 +8553,8 @@ Cosmetic Compilation - No NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+EE-Cosmetic Compilation.esp
+% {{BASH:NpcFaces,Hair,Eyes}} and deactivate
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackFull.esp
@@ -8819,6 +8837,7 @@ Poseidon_ii_s Super Sexy CM Companion Pack.esp
 AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
+kgtVeeda.esp
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
@@ -9021,6 +9040,8 @@ bgAddEnVarStandAloneEV.esp
 \'''''''''''''''''''''
 
 Bound_Arrows_with_Bow.esp
+CzBuyToggleNightEye.esp
+Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent,merge}} and deactivate

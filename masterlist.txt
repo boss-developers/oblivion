@@ -1002,9 +1002,18 @@ Rational Names, 2.esp
 % {{BASH:Names}}
 CNRP Brumav02.esp
 % {{BASH:Invent}}
+? With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
+CNRP Bruma4OOO.esp
+% {{BASH:Invent}}
 CNRP Cheydinhal.esp
 % {{BASH:Invent}}
+? With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
+CNRP Cheydinhal4OOO.esp
+% {{BASH:Invent}}
 CNRP Chorrol.esp
+% {{BASH:Invent}}
+? With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
+CNRP Chorrol4OOO.esp
 % {{BASH:Invent}}
 CNRP FightersGuild.esp
 % {{BASH:Invent}}
@@ -1448,6 +1457,8 @@ RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
 RealitySpectre'sBetterPotions.esp
 %{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
+RealWalk.esp
+Oblivion_SI Rwalk Full.esp
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -1776,6 +1787,7 @@ BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 
 DLCOrrery.esp
 DLCOrrery - Unofficial Patch.esp
+DLCOrrery Rwalk.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -1804,6 +1816,7 @@ NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
 % {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
+DLCMehrunesRazor Rwalk UOP.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
 
@@ -3455,6 +3468,7 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 DLCThievesDen - Unofficial Patch.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
+DLCThievesDen Rwalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
@@ -5029,6 +5043,7 @@ Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
 ? Obsolete as of All Natural v0.9.4. Safe to delete.
+Kvatch Rebuilt Rwalk.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -5657,6 +5672,7 @@ Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
 The Wizard's Tower Recall spell.esp
+DLCFrostcrag Rwalk.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -5692,6 +5708,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
+Knights Rwalk UOP.esp
 % {{BASH:C.Light,Invent,Names,Relev,Stats}}
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
@@ -6094,6 +6111,7 @@ xulCheydinhalFalls.esp
 Blood&Mud-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
+CastleRavenpride-CheydinhalFalls patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -6103,6 +6121,8 @@ ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
+
+xul Rwalk Full.esp
 \\\
 
 \\ Post UL, Pre BC
@@ -6119,9 +6139,13 @@ The Ruins of Miscarcand.esp
 
 MTCThievesGrotto.esp
 ? Upgrade to v4.1.
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.esp
 ? Upgrade to v4.1.
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1.esp
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
+ThievesGrotto-ColovianHighlands patch.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp
@@ -7222,6 +7246,7 @@ quickstart.esp
 Quickstart_DV.esp
 newstartV3.esp
 Kobu's Skip Intro Mod.esp
+boh_dungeonbgone.esp  
 dungeonbgone.esp
 CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
@@ -8588,6 +8613,8 @@ Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 EE-Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
+CCR - EE.esp 
+% {{BASH:NpcFaces,Hair,Eyes}} and deactivate
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackFull.esp
@@ -9432,6 +9459,8 @@ Better Cities - Stranded Light.esp
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
 \\\
+
+Better Citeis and IC Rwalk.esp
 
 \\ Better Cities FPS Patches
 

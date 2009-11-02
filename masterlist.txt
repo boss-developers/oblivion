@@ -158,6 +158,7 @@ Eluna.esm
 AinmhiRace.esm
 IceElfRace.esm
 Lattamerv3.esm
+Nec-Character_Clair.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
@@ -2385,6 +2386,7 @@ KDCirclets.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 KDClothCirclets.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
+Kafei's Circlets Reforged.esp
 KDDwemerSpectacles.esp
 Kendo2_Gunman.esp
 kfDarkAdventuressBow.esp
@@ -2678,6 +2680,8 @@ soulblade.esp
 SoulCalibur1h.esp
 SoulCalibur2h.esp
 Spell Breaker Replacer.esp
+SpeedBuster Collection.esp
+SPBAllinone.esp
 spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
@@ -3731,7 +3735,7 @@ MALO - Loot Tweaks FRAN.esp
 >
 >Mart's Monster Mod - Diverse Runeskulls.esp
 >? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
->
+>% {{BASH:Delev}}
 >FCOM_EntropicOrderRebalance.esp
 >FCOM_EntropicOrderHardcore.esp
 >FCOM_RealSwords.esp
@@ -3893,6 +3897,7 @@ MALO - Loot Tweaks FRAN.esp
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
 <Mart's Monster Mod - Diverse Runeskulls.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
+<% {{BASH:Delev}}
 <Mart's Monster Mod - More Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Extra Reavers.esp
@@ -4007,20 +4012,26 @@ Mart's Monster Mod - Slof Horses Complete.esp
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 ? Not compatible with MMM Gems & Gem Dust or MMMforOOO
+% {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot.esp
 ? Not compatible with MMM Gems & Gem Dust or MMMforOOO
+% {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
 ? Requires MMM and MMM Gems & Gem Dust
+% {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
 ? Requires MMM and MMM Gems & Gem Dust
+% {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 ? Requires OOO.esm
 ? Requires MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
+% {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
 ? Requires OOO.esm
 ? Requires MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
+% {{BASH:Delev}}
 
 OMOBS_MMM.esp
 % {{BASH:Stats}}
@@ -5703,10 +5714,13 @@ Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+% {{BASH:Delev}}
 Mart's Monster Mod - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+% {{BASH:Delev}}
 Mart's Monster Mod for OOO - Knights .esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+% {{BASH:Delev}}
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 
@@ -6079,6 +6093,7 @@ xulBlackwoodForest.esp
 xulCheydinhalFalls.esp
 Blood&Mud-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
+KvatchRebuilt-CheydinhalFalls patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -6929,6 +6944,8 @@ sexdarkness_Eng_only_last.esp
 
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
+ShinySeptims_Trajanus.esp
+% {{BASH:Graphics}}
 ScriptIcon_Replacer.esp
 M.O.E. - Alternative Script Effect Icon I.esp
 M.O.E. - Alternative Script Effect Icon II.esp
@@ -7210,6 +7227,7 @@ CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
+MQSDone.esp
 \\\
 
 \\ Realism
@@ -7358,6 +7376,7 @@ MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp
+LTDVampireOverhaul.esp
 Vampirismless Vampires.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
@@ -8675,6 +8694,8 @@ IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
 idkrrr_sarams_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+IDKRRR_KFME4rev.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Riddick.esp
@@ -8938,6 +8959,7 @@ Tamara.esp
 Tiamat the Firedrake.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
+VampireCompanion.esp
 
 DAAltair.esp
 % {{BASH:Hair,Eyes}}
@@ -8968,6 +8990,8 @@ DAKaleah.esp
 % {{BASH:Hair,Eyes}}
 Nec-Elf_Kaleah.esp
 % {{BASH:Hair,Eyes}}
+Kaleah.esp
+% {{BASH:Hair,Eyes}}
 DAXivilai.esp
 % {{BASH:Hair,Eyes}}
 DAWerewolf.esp
@@ -8979,7 +9003,11 @@ DAMeridiaKatrina.esp
 DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}
 DATiamsGirls.esp
-% {{BASH:Hair,Eyes}}	all
+% {{BASH:Hair,Eyes}}
+Merina.esp
+% {{BASH:Hair,Eyes}}
+Isrithr.esp
+% {{BASH:Hair,Eyes}}
 \\\
 
 \\ Race Overrides

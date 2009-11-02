@@ -1437,6 +1437,7 @@ Q-Core - Icons.esp
 ? German version?
 Qarls_Harvest.esp
 Qarls_Harvest addon.esp
+? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
 Quick Wardrobe.esp
 \End Group\\
@@ -4256,7 +4257,9 @@ Qarls Harvest - OOO Patch.esp
 Qarls_Harvest - OOO Patch.esp
 Qarls_Harvest - MMM Patch.esp
 Qarls_Harvest addon_MMM.esp
+? Don't use with 'Qarls_Harvest addon.esp'.
 Qarls_Harvest addon_OOO.esp
+? Don't sue with 'Qarls_Harvest addon.esp'.
 
 Atmospheric Oblivion - MMM Patch.esp
 Atmospheric Oblivion - OOO Patch.esp
@@ -5115,6 +5118,8 @@ LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
 
+Ls More Butterflies and Fireflies Not In Interiors.esp
+Ls More Butterflies and Fireflies.esp
 Lyn-AbsoluteFreedom.esp
 Lyn-AnvilAbandonedHouse.esp
 Lynges_Dark_Brotherhood_Assassins-8654.esp
@@ -5187,6 +5192,7 @@ Naughty_Joana_01.esp
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
 Necromancer Shop.esp
+Nerussa The Wine Collector v1.0.esp
 NewSheothManor.esp
 
 Nascosto Isles 3.esp

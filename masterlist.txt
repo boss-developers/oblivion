@@ -14,6 +14,8 @@
 \Begin Group\: ESMs
 \----
 Oblivion.esm
+Oblivion_1.1.esm
+? A modding esm - do not use in game, deactivate.
 Underdark.esm
 GTAesgaard_2.esm
 Belas.esm
@@ -27,9 +29,11 @@ Silgrad_Tower.esm
 Silgrad_Tower_T.esm
 Cybiades.esm
 Windfall.esm
+TR_OoT_Main.esm
 Hammerfell.esm
 MathFunctions.esm
 BP-CosmeticLibraryBase-Public.esm
+BP-CosmeticLibraryBase.esm 
 Beautiful People 2ch-Ed.esm
 Jog_X_Mod.esm
 piCore.esm
@@ -136,7 +140,6 @@ IngredientJars.esm
 rdweaponpack1.esm
 StaticAlchemyMod.esm
 The Other Spheres Base.esm
-TR_OoT_Main.esm
 cssBase.esm
 EarnYourEquipment.esm
 Lamps of Oblivion Master.esm
@@ -178,6 +181,7 @@ UndiesUnderneath.esm
 StarX Vampire Deaths.esm
 MALO - MAIN.esm
 MiddleEarth.esm
+Housing_Master.esm
 \End Group\\
 
 \Begin Group\: Earliest mods
@@ -189,6 +193,7 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 \This really does need to load this early.
 
 TRoN.esp
+TRoN Rwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 \End Group\\
 
@@ -652,6 +657,7 @@ Advanced Water Modification.esp
 Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
 Enviroment.esp
+Real Water.esp
 \End Group\\
 
 \Begin Group\: Sound mods
@@ -1417,6 +1423,7 @@ Personal Torture Girl.esp
 P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
+PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Normal.esp
 Poisonous_Food-9719.esp
 Potable Pastiche.esp
@@ -2203,6 +2210,7 @@ DarkBrotherhoodRed.esp
 Dark Crusader Armor.esp
 % {{BASH:Invent}}
 Dark Dragon Armor.esp
+DarkSaintHGEC.esp
 darkdwemerXZAR.esp
 Dragonbone Cuirass.esp
 DaedricCrescentBlade.esp
@@ -2550,6 +2558,7 @@ Oddbasket Glass Replace NoEnch.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oddbasket Glass Replace.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 \End Group\\
@@ -4530,6 +4539,11 @@ Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 A Qrazy Quest.esp
 AL_Maverick.esp
+ALTshack02.esp
+SKY.esp
+house.esp
+Xiamara_Zimnel_Chairs_AddOn.esp
+MoreTapestry.esp
 ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
@@ -4655,6 +4669,7 @@ Better Benirus Manor for Cobl - Complete.esp
 Better Benirus Manor for Cobl - Interior Only.esp
 Better Rosethorn Hall.esp
 Better Shady Sam.esp
+BetterShack.esp
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -4697,6 +4712,7 @@ Break Into the Arcane University.esp
 Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
+BrumaMGRestored Rwalk.esp
 Buddah Mansion.esp
 BXX_Mines.esp
 \End Group\\
@@ -5293,6 +5309,8 @@ Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
 RumarePriory.esp
+RumpleMod.esp \^^^^guessed name and position^^^\
+RumpleMod Rwalk.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
@@ -5572,6 +5590,7 @@ XendersAngels.esp
 Xereau's Better Travel - Mage's Hub.esp
 
 Yami_smallhouse.esp
+Yellow Rose Cottage.esp
 YGShop.esp
 
 ZOMBIES! - 28 days and a bit V2.esp
@@ -6012,7 +6031,6 @@ xulChorrolHinterland.esp
 xulChorrolHinterland Rwalk.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
-WeynonRetreat-Patch.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
 ? Obsolete. Delete.
@@ -6828,6 +6846,8 @@ MoreTraining.esp
 movablebodies.esp
 Music Controller.esp
 MYR_AyleidKing.esp
+MQSDone.esp
+
 \End Group\\
 
 \Begin Group\: overrides N
@@ -7504,6 +7524,7 @@ CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
 CDM-Scavenge Corpse.esp
 CDM-Scroll of Identify.esp
+ClaimThatInterior.esp
 ConduitMagic.esp
 Disenchant.esp
 Divine Magicka.esp
@@ -8841,7 +8862,6 @@ _Ren_BeautyPack_full + Soya's hair.esp
 BP-Cosmetic Compilation-MaleBodyReplacer.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics}}
 Additional Cosmetics for BP.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
 TFF ROBERT Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F,Graphics}}.
 TFF & ROBERT & Slof's Better Beasts.esp
@@ -8957,6 +8977,7 @@ Badmagic - Amazon Nord 02.esp
 Cog-Rein.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
+Companion Neeshka Rwalk.esp
 companion_moonelves.esp
 companion.esp
 Custom NPCs for CSR.esp
@@ -9005,6 +9026,7 @@ Sonia.esp
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
+- BetterShack.espAdditional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp
@@ -9283,6 +9305,7 @@ Better Cities - Anvil Bay Expansion.esp
 Better Cities - Chorrol City Defences.esp
 Better Cities CHORROL.esp
 BCChorrol-ChorrolHinterland fix.esp
+WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 
 Better Cities - Knightly Armory.esp
@@ -9468,6 +9491,7 @@ Better Cities IC Talos Plaza.esp
 Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
+Better Imperial City Rwalk.esp
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 
@@ -9988,10 +10012,12 @@ Enhanced Grabbing - Unnecessary Violence Liaison.esp
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
 ? Do not run with ViconiaChapterTwo.esp.
+Viconia Rwalk.esp
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.
+ViconiaChapterTwo Rwalk.esp
 UnderdarkMap.esp
 
 Open Cities Road Record.esp

@@ -527,6 +527,7 @@ oc_darker_nights.esp
 _darker_nights.esp
 ? Not compatible with weather overhauls.
 _darker_nights_2_with_burning_kvatch.esp
+darker nights for shivering isles.esp
 
 AWS-ShiveringIsles.esp
 AWS Tamed HDR Diverse Thunder.esp
@@ -1610,6 +1611,7 @@ Weed AND Beer inebriation 1.32.esp
 Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
+Wyverex - Deployable Traps.esp
 \End Group\\
 
 \Begin Group\: Base XYZ
@@ -2153,6 +2155,7 @@ ChunliClothes.esp
 Collectible T-Shirts V1.1.esp
 Collectible T-Shirts V2.1.esp
 Corthian Akavir Clothing.esp
+cowlredux.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
 CSR - Fine Iron.esp
@@ -2360,6 +2363,7 @@ Hel Borne's Blackiron Weapon Set.esp
 Hel Borne's Chitin Armor Weapons.esp
 Hel Borne Spear Set.esp
 HelmetCollection.esp
+HellSpawnDaedric for Exnem.esp
 
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
@@ -2500,6 +2504,7 @@ mycastle.esp
 mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
+MythicDawnTiein - Lite.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
@@ -5227,6 +5232,12 @@ Nine Divines Robes.esp
 ? requires OBSE
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
+
+NNWAREAyleidDungeons_Series1EV.esp
+NNWARE01EV-Sercen.esp
+NNWARE02EV-Trumbe.esp
+NNWARE03EV-Piukanda.esp
+NNWARE04EV-Veyond.esp
 \End Group\\
 
 \Begin Group\: Quests O
@@ -5457,6 +5468,7 @@ TheMistRetreat1.3_Optimized.esp
 Thermae.esp
 TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
+TheUnluckyLeprechaun.esp
 TheVaultofOrder.esp
 thievery.esp
 thievery - EE patch.esp
@@ -6064,6 +6076,7 @@ OOO-UL-Sutch patch.esp
 SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp
+NNWARE1_Dungeon05ULPatch.esp
 
 xulbravilbarrowfields.esp
 xulbravilbarrowfields Rwalk.esp
@@ -6629,6 +6642,7 @@ Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
 Dousing The Flames.esp
 Dreightons_Item_Value.esp
+Item Value Adjustments 1.0.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DS Less Predictable Respawn.esp
@@ -8756,15 +8770,18 @@ Beautiful People 2ch-Ed Disable BandBlindMask.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+IDKRRR_C_race_closed_mouth_version.esp
 idkrrr_sarams_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 IDKRRR_KFME4rev.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+IDKRRR_Moira_race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 DesuChan's Persocoms RELOADED.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Riddick.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Han1.esp
@@ -8790,6 +8807,10 @@ MGothic Breton Race.esp
 Lattamer.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Chocolate Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+IceElfRace.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Sun_&_Night_Elves.esp 
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -9307,6 +9328,8 @@ Better Cities CHORROL.esp
 BCChorrol-ChorrolHinterland fix.esp
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
+Better Cities CHORROL - Werewolf.esp
+Better Cities BRUMA - Werewolf.esp
 
 Better Cities - Knightly Armory.esp
 
@@ -9885,6 +9908,7 @@ KoldornsImprovedLava.esp
 Templars Lava Replacer v1.0.esp
 Better Lava by elveon.esp
 Better Lava (by elveon).esp
+Magic Projectile Variants.esp
 MotionBlur.esp
 ? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
 New_NightEye_Toggle.esp

@@ -2694,11 +2694,11 @@ Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
 
 Kit Rae Weaponry v0_2.esp
-? Use before Shdw_weapon pack
+? Use after Shdw_weapon pack
 Kit Rae Weaponry.esp
-? Use before Shdw_weapon pack
+? Use after Shdw_weapon pack
 Kit Rae Weaponry v0_4.esp
-? Use before Shdw_weapon pack
+? Use after Shdw_weapon pack
 
 PersuasionOverhaul.esp
 PersuasionSI.esp
@@ -4480,6 +4480,10 @@ OC+CTN Patch.esp
 
 Ivellon.esp
 ? Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
+Cyrodiil Border Regions 1.2.esp
+? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
+? This Esp is used as a patch between  "OOO" and "The Dungeons of Ivellon"
+? Use "Cyrodiil Border Regions 1.2.esp" at once after "Ivellon.esp"
 OCC-Ivellon-Patch.esp
 
 1079-Safe Archmage Storage-TESSource.esp
@@ -7197,8 +7201,6 @@ Merchant_Tim.esp
 Tim_No_SI.esp
 ? Use this without Shivering Isles. Otherwise use 'Merchant_Tim'.
 
-Cyrodiil Border Regions 1.2.esp
-? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Borderless_Cyrodiil-3578.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Border-Region-disabled.esp
@@ -8954,6 +8956,7 @@ CM_LoreleiU.esp
 cm lula wild.esp
 CM Tifa A.esp
 CM_Kailinda.esp
+CM Yana.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 MichaelCM.esp
@@ -9047,7 +9050,8 @@ Sonia.esp
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
-- BetterShack.espAdditional Cosmetics for BP.esp
+BetterShack.esp
+Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp

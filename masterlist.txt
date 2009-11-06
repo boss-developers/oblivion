@@ -148,6 +148,7 @@ morerunes' food collection.esm
 CM Partners.esm
 CM Partners Mod.esm
 Easy_Companion_Share.esm
+mpc.esm
 Toaster Says Share v3.esm
 Beautiful People.esm
 Bab.esm
@@ -166,6 +167,7 @@ Nec-Character_Clair.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
+x117race.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 All Shapes And Sizes 1.0.esm
@@ -1010,6 +1012,7 @@ Complete Names.esp
 % {{BASH:Names}}
 Rational Names, 2.esp
 % {{BASH:Names}}
+
 CNRP Brumav02.esp
 % {{BASH:Invent}}
 ? With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
@@ -1026,6 +1029,9 @@ CNRP Chorrol.esp
 CNRP Chorrol4OOO.esp
 % {{BASH:Invent}}
 CNRP FightersGuild.esp
+? With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
+% {{BASH:Invent}}
+CNRP FightersGuild4OOO.esp
 % {{BASH:Invent}}
 
 cidnothump.esp
@@ -3306,6 +3312,7 @@ StockClothingArmorHGECnormalD.esp
 Battle China Dress.esp
 R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
+R18PN - Mizugi set.esp
 SexyKunoichi.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
@@ -5008,6 +5015,7 @@ OC_HOD_delayer.esp
 
 \Begin Group\: Quests I
 
+IC Atmospheric Shops Mod.esp
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
 ICEXPAND.esp
@@ -8073,6 +8081,8 @@ Enhanced Grabbing.esp
 Enhanced Grabbing - Debug.esp
 ? Old version. Consider updating.
 
+GrabLiveNPC_OBSE.esp
+
 Duke Patrick's Lockpick challange Autopick.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
 Duke Patrick's Lockpick challange Manual.esp
@@ -8808,6 +8818,12 @@ Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Merged Hair Modules.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Sheogorath Eye.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Merged Eye Modules.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -8849,6 +8865,8 @@ Lattamer.esp
 Chocolate Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 IceElfRace.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+LittleElf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sun_&_Night_Elves.esp 
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

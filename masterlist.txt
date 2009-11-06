@@ -4750,6 +4750,8 @@ Cathedral Improver.esp
 castledarkshard.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
+Chateau_Domrose_V.1.2.1-Fr.esp
+? French Version.
 Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
 Castle_Highrock.esp
@@ -6554,6 +6556,7 @@ BloodSpray.esp
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Bonds Big Portable Tent.esp
+Tent.esp
 Bottled_Explosions.esp
 Bow Damage Balanced.esp
 % {{BASH:Stats}} and deactivate.
@@ -7593,6 +7596,7 @@ M.O.E. - Levitation Magic.esp
 M.O.E. - Lock Spells.esp
 M.O.E. - Mythic Dawn Powers.esp
 M.O.E. - Teleportation Magic and Icarian Flight.esp
+MadCompanionshipSpells.esp
 Madgod Powers.esp
 MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
@@ -8824,6 +8828,7 @@ Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+x117race.esp
 
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -8839,6 +8844,8 @@ ChimerofLight_Race.esp
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Riddick.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Riddick Saber Claws.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Han1.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

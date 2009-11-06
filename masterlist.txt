@@ -499,6 +499,8 @@ LoadingScreens.esp
 LoadingScreensAddOn.esp
 LoadingScreensSI.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+Loading Screens - Vanilla No Text.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 Natural Selection.esp
 BlackLoadNoTip.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -8446,6 +8448,7 @@ SaveSkillTrainingForLater.esp
 \Scripts and new animations.
 
 Mayu's Animation Overhaul.esp
+? Highly recommended to use the MAO patcher in Wrye Bash version 275+
 
 Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
@@ -8472,6 +8475,7 @@ SW01Minus.esp
 SexyPlOneHand.esp
 
 SeductiveIdles.esp
+Idle Pose Replacer.esp
 actors_in_charge.esp
 ActorsInMadness.esp
 ActorsInEmotions.esp
@@ -8773,12 +8777,38 @@ Capucines_Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 LattamerV3_P-rrtyCure_Hair_Module.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Beautiful People 2ch-Ed Disable One Eyed.esp
+
+Beautiful People 2ch-Ed Disable AGS Hair.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Disable BandBlindMask.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Corean Hair + Saram Hair + AGS Hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Corean Hair + Saram Hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Corean Hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Glow Eyes + Odd Eyes + One Eyed.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Glow Eyes + Odd Eyes.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Glow Eyes.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Odd Eyes + One Eyed.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Odd Eyes.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable One Eyed + Glow Eyes.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable One Eyed.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Disable Saram Hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Sheogorath Eye.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 IDKRRR_C_race_closed_mouth_version.esp

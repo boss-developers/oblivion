@@ -84,6 +84,7 @@ Tamriel's Glittering Geology.esm
 ? Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
 % {{BASH:Invent,Stats,Relations}}
+DarkDale.esm
 Mart's Monster Mod.esm
 % {{BASH:Invent,Relations}}
 Mart's Monster Mod for OOO.esm
@@ -4849,6 +4850,9 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
 DukeCity.esp
+
+DarkDale.esp
+
 \End Group\\
 
 \Begin Group\: Quests E
@@ -5463,8 +5467,6 @@ Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
 
-GuardsofCyrodiil.esp
-GoC&RRLR_comp.esp
 (DC) The Pride of Wolfs Gate.esp
 TheForgottenShields.esp
 TheForgottenShields_delayer.esp
@@ -5855,6 +5857,9 @@ The Lost Spires_delayer.esp
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp
+
+GuardsofCyrodiil.esp
+GoC&RRLR_comp.esp
 
 Mighty Umbra.esp
 ? FCOM requires 'FCOM_MightyUmbra.esp'.
@@ -8851,6 +8856,8 @@ ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Ancient Elven Sorceress - EV.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 \End Group\\
 
 \Begin Group\: Merges and combinations
@@ -9293,6 +9300,8 @@ KT_CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+boethia custom race.esp
+? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
 \End Group\\

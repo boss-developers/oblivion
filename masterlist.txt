@@ -1035,6 +1035,7 @@ CFVBloodgrass.esp
 CDM - Uderfrykte Matron Fix.esp
 
 ClocksOfCyrodiil.esp
+? For use with Better Cities use 'ClocksOfCyrodiilBC.esp' or 'ClocksOfCyrodiilOBC.esp' or 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp'
 ClocksOfCyrodiilBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
 ClocksOfCyrodiilOBC.esp
@@ -1665,6 +1666,7 @@ StandingJOJO.esp
 
 moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
+? For use with Better Cities use replacing fix for BBC.
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 
@@ -4449,7 +4451,7 @@ GP_Safe Water.esp
 zzzImperialCityUpgradeb.esp
 
 Slof's Goth Shop.esp
-? Requires original plugins 'Slof's Oblivion Goth Shop.esp' and/or 'Slof's Oblivion Goth Shop II.esp', deactivated.
+? Requires original plugins 'Slof's Oblivion Goth Shop.esp' , 'Slof's Oblivion Goth Shop II.esp' , 'Slof's Giger Armour.esp', deactivated.
 
 Lyre's Imperial City Bab Boutique.esp
 BabShop.esp
@@ -5613,6 +5615,7 @@ YGShop.esp
 
 ZOMBIES! - 28 days and a bit V2.esp
 za_bankmod.esp
+? For use with Better Cities use replacing fix for BBC.
 zDangerSense.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
@@ -6296,7 +6299,7 @@ Open Better Cities LEYAWIIN.esp
 Open Better Cities Leyawiin - City Defences.esp
 Open Better Cities SKINGRAD.esp
 Open Better Cities Skingrad - City Defences.esp
-Open Better Cities SKINGRAD VARIANT.es
+Open Better Cities SKINGRAD VARIANT.esp
 
 Reaper's_Open-B.C._Secret_Entry.esp
 \End Group\\
@@ -8821,6 +8824,8 @@ Sun_&_Night_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Nature.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Moon.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sheo Race.esp
@@ -9313,9 +9318,13 @@ Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
 
+Better Cities IC Districts.esp
+
 Better Cities - Skingrad City Defences.esp
 Better Cities SKINGRAD.esp
 BC Skingrad Reduced - EV.esp
+? For use with Better Cities uncheck Better Cities SKINGRAD.esp
+? Do not use this plug-in with Better Cities Full.esp
 
 Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp

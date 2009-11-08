@@ -197,6 +197,7 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 
 TRoN.esp
 TRoN Rwalk.esp
+TRoN Swalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 \End Group\\
 
@@ -650,6 +651,7 @@ Enhanced Water v2.0 ND.esp
 Enhanced Water v2.0 HD.esp
 Enhanced Water v2.0 HDMI.esp
 Improved Water.esp
+NaturalWater.esp
 Natural_Water_by_Max_Tael.esp
 Better Water.esp
 phinix-waterfix.esp
@@ -1479,9 +1481,14 @@ RealitySpectre'sBetterPotions.esp
 RealWalk.esp
 Oblivion Rwalk.esp
 Oblivion_SI Rwalk Full.esp
+Oblivion_SI Swalk Full.esp
 DLCShiveringIsles Rwalk.esp
 DLCShiveringIsles Rwalk DG_DS.esp
+DLCShiveringIsles Swalk.esp
+DLCShiveringIsles Swalk DG_DS.esp
 Better Cities ESM Rwalk.esp
+Better Cities ESM Swalk.esp
+Nude Swalk.esp
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -1815,6 +1822,7 @@ BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 DLCOrrery.esp
 DLCOrrery - Unofficial Patch.esp
 DLCOrrery Rwalk.esp
+DLCOrrery Swalk.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -1844,6 +1852,8 @@ Mehrunes_mobs.esp
 % {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk UOP.esp
+DLCMehrunesRazor Swalk.esp
+DLCMehrunesRazor Swalk UOP.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
 
@@ -3502,6 +3512,8 @@ DLCThievesDen.esp
 DLCThievesDen - Unofficial Patch.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
 DLCThievesDen Rwalk UOP.esp
+DLCThievesDen Swalk.esp
+DLCThievesDen Swalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
@@ -4734,6 +4746,7 @@ Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
 BrumaMGRestored Rwalk.esp
+BrumaMGRestored Swalk.esp
 Buddah Mansion.esp
 BXX_Mines.esp
 \End Group\\
@@ -4812,6 +4825,7 @@ Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
 ? Upgrade to latest version.
 Dark Brotherhood Outpost v3.esp
+DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
@@ -5090,6 +5104,7 @@ Kragenirs_WhiteStallion_Compat.esp
 
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
+Kvatch Rebuilt Swalk.esp
 OCC-KR-Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
@@ -5344,6 +5359,7 @@ Ruins of Tarnesia.esp
 RumarePriory.esp
 RumpleMod.esp \^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
+RumpleMod Swalk.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
@@ -5737,6 +5753,7 @@ Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
+DLCFrostcrag Swalk.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -5774,6 +5791,8 @@ WnA of Righteousness.esp
 Knights - Unofficial Patch.esp
 % {{BASH:C.Light,Invent,Names,Relev,Stats}}
 Knights Rwalk UOP.esp
+Knights Swalk.esp
+Knights Swalk UOP.esp
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -6065,6 +6084,7 @@ EtInArkay-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
 xulChorrolHinterland Rwalk.esp
+xulChorrolHinterland Swalk.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
 TheOrderofNibenay-Chorrol Hinterland patch.esp
@@ -6104,6 +6124,7 @@ NNWARE1_Dungeon05ULPatch.esp
 
 xulbravilbarrowfields.esp
 xulbravilbarrowfields Rwalk.esp
+xulbravilbarrowfields Swalk.esp
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
 Suliin-BravilBarrowfields patch.esp
@@ -6154,6 +6175,7 @@ LostSwordoftheAyleids-ArriusCreek patch.esp
 xulRollingHills_EV_withoutWheat.esp
 xulRollingHills_EV.esp
 xulRollingHills_EV Rwalk.esp
+xulRollingHills_EV Swalk.esp
 TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
 BeldaElysium-RollingHills patch.esp
@@ -6171,11 +6193,13 @@ ValleyViewEstate-RiverEthe patch.esp
 xulBrenaRiverRavine.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 xulBrenaRiverRavine Rwalk.esp
+xulBrenaRiverRavine Swalk.esp
 Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
 xulImperialIsle.esp
 xulImperialIsle Rwalk.esp
+xulImperialIsle Swalk.esp
 
 xulBlackwoodForest.esp
 
@@ -6196,6 +6220,7 @@ LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
 xul Rwalk Full.esp
+xul Swalk Full.esp
 \End Group\\
 
 \Begin Group\: Post UL, Pre BC
@@ -9069,6 +9094,7 @@ Cog-Rein.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 Companion Neeshka Rwalk.esp
+Companion Neeshka Swalk.esp
 companion_moonelves.esp
 companion.esp
 Custom NPCs for CSR.esp
@@ -9372,6 +9398,7 @@ EVE_KhajiitFix.esp
 Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
+Better Cities Full Swalk.esp
 
 Better Cities IC Districts.esp
 
@@ -9592,6 +9619,7 @@ Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
 Better Imperial City Rwalk.esp
+Better Imperial City Swalk.esp
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 
@@ -9602,6 +9630,7 @@ Better Cities - COBL.esp
 \End Group\\
 
 Better Cities and IC Rwalk.esp
+Better Cities and IC Swalk.esp
 
 \Begin Group\: Better Cities FPS Patches
 
@@ -10114,11 +10143,13 @@ Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
 ? Do not run with ViconiaChapterTwo.esp.
 Viconia Rwalk.esp
+Viconia Swalk.esp
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.
 ViconiaChapterTwo Rwalk.esp
+ViconiaChapterTwo Swalk.esp
 UnderdarkMap.esp
 
 Open Cities Road Record.esp

@@ -1126,7 +1126,10 @@ Daedric Wargames.esp
 Damsels In Distress.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
+
 Days&Months.esp
+RealDaysAndMonths.esp
+
 DBCEndOfMayTeaser.esp
 DBSQR.esp
 DBSQR - Shivering Isles.esp
@@ -1480,6 +1483,7 @@ RealitySpectre'sBetterPotions.esp
 %{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 RealWalk.esp
 Oblivion Rwalk.esp
+Oblivion Swalk.esp
 Oblivion_SI Rwalk Full.esp
 Oblivion_SI Swalk Full.esp
 DLCShiveringIsles Rwalk.esp
@@ -2646,6 +2650,7 @@ RingwraithArmorMithril.esp
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
 Royal Daedric Armor.esp
+Rum1.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
 Running4Cover's Welkynd Weapons - Free.esp
@@ -2783,6 +2788,7 @@ tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
 tona_clothes_and_underwear.esp
+tona_traveling_items.esp
 trfdaedricarmors.esp
 trfjChronoStaff.esp
 trfjBladeMasterSword.esp
@@ -4044,7 +4050,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <?obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
-<Mart's Monster Mod - Friendlier Factions OOO.esp
+<Mart's Monster Mod - Friendlier Factions OOO.esps
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
@@ -4736,6 +4742,7 @@ BravilSeaDomesExpanded.esp
 Bravil Docks.esp
 ? Not compatible with Better Cities. Already included in Better Cities Bravil.
 Bravil Store Upgrade.esp
+BravurasBarrel.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
 Badmagic - The Houses.esp
 Barrow Farm Final.esp
@@ -5275,6 +5282,7 @@ NNWARE01EV-Sercen.esp
 NNWARE02EV-Trumbe.esp
 NNWARE03EV-Piukanda.esp
 NNWARE04EV-Veyond.esp
+NNWARE05EV-Bawn.esp
 \End Group\\
 
 \Begin Group\: Quests O
@@ -6462,7 +6470,9 @@ PitcherPlantHarvestable.esp
 PitcherPlantsHarvestable.esp
 Lily of the Valley Nectar.esp
 Harvest [Flora].esp
+NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
+NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
@@ -8928,6 +8938,9 @@ Assassins Creed - Altair's Gear- HeavyArmor.esp
 Assassins Creed - Altair's Gear - ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
+Assassins Creed - Altair's Gear - Heavy Armor.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
@@ -10130,6 +10143,7 @@ Faction Rank Fix.esp
 Helmet Toggle.esp
 
 MiniMap.esp
+MrPwner's Falling.esp
 MUTE.esp
 
 KSE_v3.esp

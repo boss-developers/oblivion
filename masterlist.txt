@@ -11,7 +11,7 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-\Begin Group\: ESMs
+\BeginGroup\: ESMs
 \----
 Oblivion.esm
 Oblivion_1.1.esm
@@ -185,9 +185,9 @@ StarX Vampire Deaths.esm
 MALO - MAIN.esm
 MiddleEarth.esm
 Housing_Master.esm
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Earliest mods
+\BeginGroup\: Earliest mods
 \-------------
 
 HrmnsOblivionScriptOptimizationv1.0.esp
@@ -199,9 +199,9 @@ TRoN.esp
 TRoN Rwalk.esp
 TRoN Swalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: NPC face mods
+\BeginGroup\: NPC face mods
 \-------------
 \
 \Bash and deactivate to keep new faces with NPC altering mods later.
@@ -276,9 +276,9 @@ LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Vanilla fixes
+\BeginGroup\: Vanilla fixes
 \-------------
 \
 \Everything else must be allowed to override these.
@@ -330,9 +330,9 @@ Self-Preservation v1.0.esp
 % {{BASH:Scripts}}
 Traduccion Mejorada Oblivion Clan DLAN.esp
 % {{BASH:Names}} or without Bash load it later.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: UOP
+\BeginGroup\: UOP
 \---
 
 Unofficial Oblivion Patch.esp
@@ -346,9 +346,9 @@ Unofficial Oblivion Patch-mobs.esp
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post UOP fixes
+\BeginGroup\: Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
 MG01-fix.esp
@@ -357,9 +357,9 @@ Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
 Permanent Effects from Quest Items fix Merge.esp
 ? Obselete upgrade to newest version of Permanent Effects from Quest Items fix.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Non-English Language fixes
+\BeginGroup\: Non-English Language fixes
 \have to be after UOP in some cases
 \----------------------------------
 
@@ -367,9 +367,9 @@ Arena-Ansage-Fix.esp
 OblivionMsg.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Shivering Isles
+\BeginGroup\: Shivering Isles
 \---------------
 
 DLCShiveringIsles.esp
@@ -408,9 +408,9 @@ MOBS SI Optional Combat Settings.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
 
 New Duke and Duchess.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: BSA tricks
+\BeginGroup\: BSA tricks
 \----------
 
 Better Cities .esp
@@ -431,18 +431,18 @@ Oblivion.esp
 ? Usually a BSA redirection hack.
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post BSA
+\BeginGroup\: Post BSA
 \--------
 
 MrSiika'sFoxes.esp
 ? Do not use with MMM/FCOM. Already integrated.
 MrSiikaRabbits.esp
 ? Do not use with MMM/FCOM. Already integrated.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Initial Fran's files for FCOM
+\BeginGroup\: Initial Fran's files for FCOM
 \-----------------------------
 
 >Francesco's Optional Chance of Stronger Bosses.esp
@@ -479,9 +479,9 @@ OMOBS_FRAN.esp
 % {{BASH:Stats}}
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Loading Screen Alternatives
+\BeginGroup\: Loading Screen Alternatives
 \---------------------------
 \
 \Unlikely to interact with other mods but OOO will overwrite if not correctly Bash Patched.
@@ -509,9 +509,9 @@ BlackLoadNoTip.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Zira's Horse Theme Loadscreens.esp
 % {{BASH:Graphics}} if using overhaul mods.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base Mods
+\BeginGroup\: Base Mods
 \---------
 \
 \Mods that can be overridden in part.
@@ -519,7 +519,7 @@ Zira's Horse Theme Loadscreens.esp
 \New Items, NPCs & creatures that are not overrides of other mods.
 \'Library' mods.
 
-\Begin Group\: Weather mods and overhauls
+\BeginGroup\: Weather mods and overhauls
 \''''''''''''''''''''''''''
 \
 \Unlikely to be affected by anything but sound mods.
@@ -637,9 +637,9 @@ NI-Fullcity-Anvilhome.esp
 
 no_wind-2578.esp
 NoWind.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Water tweaks
+\BeginGroup\: Water tweaks
 \''''''''''''
 \
 \All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate.
@@ -666,9 +666,9 @@ Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
 Enviroment.esp
 Real Water.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Sound mods
+\BeginGroup\: Sound mods
 \''''''''''
 \
 \Let other mods override as needed. Sometimes overrides weather overhauls with better lightening sounds etc.
@@ -794,9 +794,9 @@ Weather Inside.esp
 ? Not compatible with later versions of Storms & Sound.
 
 Rainbows.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Lighting
+\BeginGroup\: Lighting
 \''''''''
 \
 \Should load early to allow more 'important' mods to override.
@@ -852,15 +852,15 @@ aKALAmbientDungeonsBeta2.esp
 
 AmbientDungeons.esp
 ? OBSE, 'Screen Effects', and 'You Are Here' required.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: General Base Mods
+\BeginGroup\: General Base Mods
 \'''''''''''''''''
 \
 \Includes nearly all new items (except weapons and armor).
 \Low priority mods.
 
-\Begin Group\: Base #
+\BeginGroup\: Base #
 
 1vampirescocktail.esp
 13rings.esp
@@ -880,9 +880,9 @@ AmbientDungeons.esp
 5076-V2.0-Dwemer Specs Equip-TESSource.esp
 
 [WIP]_Mysterious_Chest_(Combine_or_drain_soulgems)-2047.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base A
+\BeginGroup\: Base A
 
 AliveWaters.esp
 AliveWaters - Koi Addon.esp
@@ -932,9 +932,9 @@ Damage Text v2.esp
 
 All normal clothes buyable.esp
 SI Clothes.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base B
+\BeginGroup\: Base B
 
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}} and deactivate.
@@ -980,9 +980,9 @@ Brighter_Torches.esp
 BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
 % {{BASH:Invent}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base C
+\BeginGroup\: Base C
 
 Cobl Bookjackets.esp
 % {{BASH:Graphics}}
@@ -1116,9 +1116,9 @@ Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
 % {{BASH:Invent}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base D
+\BeginGroup\: Base D
 
 Daggerfallbooks.esp
 Daedric Wargames.esp
@@ -1147,9 +1147,9 @@ DS Mage's Belt.esp
 DS Storage Sacks.esp
 DS Time Manager.esp
 DZ_Hide_Grass.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base E
+\BeginGroup\: Base E
 
 EasySpellRemovalv1.esp
 Effect Shader Warehouse.esp
@@ -1162,9 +1162,9 @@ Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
 Extended Death Camera.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base F
+\BeginGroup\: Base F
 
 FantasyPaintings.esp
 Fatality Cam.esp
@@ -1172,9 +1172,9 @@ Fatality Cam.esp
 Fish!.esp
 Fish! - v1.1.esp
 fwDropGold.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base G
+\BeginGroup\: Base G
 
 GoldnSilverBars.esp
 GrayFoxLeatherReward.esp
@@ -1187,17 +1187,17 @@ Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
 ? Not OOO compatible - already included in OOO.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base H
+\BeginGroup\: Base H
 
 Happyhannah's Wines.esp
 haz_ct2_magesguild_teleport.esp
 haz_ct3_horse_cart.esp
 HTFpcb Extended.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base I
+\BeginGroup\: Base I
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -1268,18 +1268,18 @@ IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
 ? Requires Bashed Patch.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base J
+\BeginGroup\: Base J
 
 Japanese Clothing.esp
 JQPotionBottlesTest.esp
 ? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
 JQ-EasterEggHunt09.esp
 JQ-TeaSet-DV.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base K
+\BeginGroup\: Base K
 
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
@@ -1287,9 +1287,9 @@ KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
 Kyoma's Focus on Shrine.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base L
+\BeginGroup\: Base L
 
 lantern.esp
 LCD.esp
@@ -1317,9 +1317,9 @@ LostTelvanniCodex.esp
 Luchaire's Neck Seam Concealer.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH:Invent}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base M
+\BeginGroup\: Base M
 
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
@@ -1378,9 +1378,9 @@ Mud Crabs!_MMM.esp
 ? Use only one Mud Crabs! file
 Mud Crabs!_OOO.esp
 ? Use only one Mud Crabs! file
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base N
+\BeginGroup\: Base N
 
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
@@ -1397,9 +1397,9 @@ NPCs Eat More.esp
 
 NWJtamriel.esp
 NpcwithJobsCreatures.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base O
+\BeginGroup\: Base O
 
 OAVO - Weather and Water.esp
 OAVO - Sound.esp
@@ -1414,9 +1414,9 @@ OL_CustomPaintings.esp
 OMP-NewFood.esp
 Oscars_Nicer_Grass-3346.esp
 OSRCustom.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base P
+\BeginGroup\: Base P
 
 Packhorses v1.esp
 personality_idles2.esp
@@ -1450,9 +1450,9 @@ Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
 Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base Q
+\BeginGroup\: Base Q
 
 Q - More and Moldy Ingredients v1.1.esp
 Q - More and Moldy Ingredients v1.1 - DV.esp
@@ -1463,9 +1463,9 @@ Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
 Quick Wardrobe.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base R
+\BeginGroup\: Base R
 
 R4C - Dark Regalia.esp
 RAEVWD Cities.esp
@@ -1509,9 +1509,9 @@ RingofNightEye.esp
 RoadSigns.esp
 Robes Under Armor.esp
 Rock Remover - Underwater.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base S
+\BeginGroup\: Base S
 
 Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
@@ -1575,9 +1575,9 @@ SummonChest_v2.1.esp
 Summon Bed.esp
 
 svaToMoveObjects_1C.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base T
+\BeginGroup\: Base T
 
 Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
@@ -1594,16 +1594,16 @@ TryBeforeYouBuy.esp
 TreeDoorAddition.esp
 trfSolaris.esp
 ? Old, update to trfjSolarisStaff.esp.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base U
+\BeginGroup\: Base U
 
 Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base V
+\BeginGroup\: Base V
 
 VA_BetterGold.esp
 % {{BASH:Graphics}}
@@ -1615,9 +1615,9 @@ Venom.esp
 Vows and Covenants.esp
 ? Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base W
+\BeginGroup\: Base W
 
 Walk to Oblivion.esp
 ? Incompatible with mods like Enhanced Daedric Invasion that modify Oblivion Gate scripts.
@@ -1633,9 +1633,9 @@ Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
 Wyverex - Deployable Traps.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base XYZ
+\BeginGroup\: Base XYZ
 
 Xero's Fame Indicator.esp
 Xia_Nhary_TwilightAssassin.HGEC1.1Normal.esp
@@ -1644,9 +1644,9 @@ XTS-Merchant-Mod-V1.0.esp
 ZariAlchemistsRing.esp
 
 Zedar.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Base Late
+\BeginGroup\: Base Late
 
 Harvest[Containers].esp
 ? Not OOO compatible. Included in OOO.
@@ -1738,11 +1738,11 @@ Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
 
 kuerteeIgnoringTheMainQuestHasConsequences.esp
-\End Group\\
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Map marker Tweaks
+\BeginGroup\: Map marker Tweaks
 \'''''''''''''''''
 \
 \Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
@@ -1783,9 +1783,9 @@ ShrineMarkers.esp
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
 Wayshrine Map Markers.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Hotkeys
+\BeginGroup\: Hotkeys
 \'''''''
 \Load order independent. Use only one unless documentation says otherwise.
 
@@ -1811,9 +1811,9 @@ Quick Clothes and Spells.esp
 sr_super_hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 YetAnotherHotkeyMod.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: DLC 1
+\BeginGroup\: DLC 1
 \-----
 
 DLCHorseArmor.esp
@@ -1869,9 +1869,9 @@ Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
 GrimbotsSpellTomes.esp
 % {{BASH:Graphics}} and deactivate.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Body replacers
+\BeginGroup\: Body replacers
 \--------------
 \
 \Load early.
@@ -1903,15 +1903,15 @@ EVE_StockEquipmentReplacer.esp
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
 % {{Bash:Graphics}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items (armor and weapons)
+\BeginGroup\: Items (armor and weapons)
 \-------------------------
 \
 \VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 \Some items will need to go after overhaul or location altering mods to appear.
 
-\Begin Group\: Items Early
+\BeginGroup\: Items Early
 
 Bonemold_Helmet.esp
 % {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
@@ -1921,9 +1921,9 @@ Cryos Ordinator Lite.esp
 ? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 
 avarm.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items #
+\BeginGroup\: Items #
 
 000torturearmorbw.esp
 01_SenTinel's Katanas.esp
@@ -1941,9 +1941,9 @@ avarm.esp
 1scorpionshield.esp
 1dragonbonekatana.esp
 1carbonblade.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items A
+\BeginGroup\: Items A
 
 A_Simple_Ring-8333.esp
 AC Stock Armor.esp
@@ -2078,9 +2078,9 @@ ArtifactsFemaleArmor.esp
 Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
 Angeleron.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items B
+\BeginGroup\: Items B
 
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
@@ -2154,9 +2154,9 @@ BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
 Buster Sword R.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items C
+\BeginGroup\: Items C
 
 c_dagcol.esp
 c_dragondagger.esp
@@ -2199,9 +2199,9 @@ crusadercg.esp
 Crystalline Sword.esp
 CrystalStaff.esp
 Cy.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items D
+\BeginGroup\: Items D
 
 Dancers clothes.esp
 DBShadowSet.esp
@@ -2295,9 +2295,9 @@ Daedric Weaponz.esp
 Daedric Weaponz_1C.esp
 Dark Tower Shield.esp
 DarkFlame.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items E
+\BeginGroup\: Items E
 
 Echo_MysticShield.esp
 ElegantVests.esp
@@ -2314,9 +2314,9 @@ Elegant Vests.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
 Excessor Sword.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items F
+\BeginGroup\: Items F
 
 FalxMod.esp
 % {{BASH:Invent}}
@@ -2332,9 +2332,9 @@ FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
 Flamberge.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items G
+\BeginGroup\: Items G
 
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
@@ -2369,9 +2369,9 @@ GrayFoxArmor.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items H
+\BeginGroup\: Items H
 
 Hades.esp
 Harlequin Armour 0.6.esp
@@ -2409,18 +2409,18 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Heron Mark Swords 1.0.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items I
+\BeginGroup\: Items I
 
 It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
 IvyArmor_Full.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items J
+\BeginGroup\: Items J
 
 Jade Dishes.esp
 javrmb.esp
@@ -2431,9 +2431,9 @@ JG Elven.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 jy-Akaviri Helmets.esp
-\End Group\\ 
+\EndGroup\\ 
 
-\Begin Group\: Items K
+\BeginGroup\: Items K
 
 KADdagirbows.esp
 KA_RoseDress.esp
@@ -2462,9 +2462,9 @@ Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items L
+\BeginGroup\: Items L
 
 LadiesOrcish.esp
 Lady Jasmine Moon.esp
@@ -2485,9 +2485,9 @@ LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items M
+\BeginGroup\: Items M
 
 m_DwemerEliteArmorWeps.esp
 Mage Ward.esp
@@ -2535,9 +2535,9 @@ MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items N
+\BeginGroup\: Items N
 
 Nature's_bounty.esp
 Natures_Arsenal.esp
@@ -2579,9 +2579,9 @@ Nicos Dreadweave Compilation.esp
 ? Deactivate 'Nicos Dreweave Axes 1.2'
 ? Deactivate 'Nicos Dreweave armor 1.4'
 ? Deactivate 'Nicos Bow and Arrows 1.1'
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items O
+\BeginGroup\: Items O
 
 Obsidian armor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
@@ -2592,9 +2592,9 @@ Oddbasket Glass Replace.esp
 Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items P
+\BeginGroup\: Items P
 
 PAF_armor_additions.esp
 paintings.esp
@@ -2624,12 +2624,12 @@ Potion Belt.esp
 PerditionsEdge.esp
 SLPD_Ponytail.esp
 PythonHolyhg.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items Q
-\End Group\\
+\BeginGroup\: Items Q
+\EndGroup\\
 
-\Begin Group\: Items R
+\BeginGroup\: Items R
 
 RavenWearClothing.esp
 RavenWearArmor.esp
@@ -2661,9 +2661,9 @@ RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items S
+\BeginGroup\: Items S
 
 Sacredblade.esp
 Saint Hiryu's Artifacts.esp
@@ -2758,9 +2758,9 @@ Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items T
+\BeginGroup\: Items T
 
 talon.esp
 % {{BASH:Invent}}
@@ -2817,9 +2817,9 @@ Travelers' Cloaks.esp
 Tsuguri.esp
 TT-EquipableBeards.esp
 TT-EquipableBeardsLEVELEDLIST.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items U
+\BeginGroup\: Items U
 
 Underwear HGEC placed.esp
 Underworld Armor.esp
@@ -2833,9 +2833,9 @@ UU! Female Undies NPCs.esp
 ? Consider upgrading to version 4.2.1+.
 UU_Female_Undies.esp
 UFF Armour of HadesRU.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items V
+\BeginGroup\: Items V
 
 V1 Imperial Legion Dragon Cuirass.esp
 vahi_clothes.esp
@@ -2851,9 +2851,9 @@ volkoth.esp
 VSPTensaZangetsu.esp
 Viro's Kung Fu Set.esp
 Vvardenfell_Imports.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items W
+\BeginGroup\: Items W
 
 WarriorBandages_V2.0.esp
 WarriorsRobe.esp
@@ -2863,9 +2863,9 @@ WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
 Warglaive - EV.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items XYZ
+\BeginGroup\: Items XYZ
 
 Xifr's Seperated Dark Brotherhood Armour.esp
 XSPipeMod.esp
@@ -2873,9 +2873,9 @@ XiaValentinesDayGift07.esp
 ? May not be compatible with anything that modifies the Tiber Septim Hotel.
 
 ZMP NoError.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Items Late
+\BeginGroup\: Items Late
 
 Thieves Arsenal.esp
 ? Requires OBSE.
@@ -2884,7 +2884,7 @@ Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
 
-\Begin Group\: RealSwords
+\BeginGroup\: RealSwords
 
 RealSwords - Argonian HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
@@ -3030,7 +3030,7 @@ RealSwords - Redguard LO.esp
 * Delete. Use FCOM_RealSwords instead.
 ? Requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
-\End Group\\
+\EndGroup\\
 
 Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
@@ -3075,10 +3075,10 @@ Keybox_+_Nice_items!-7026.esp
 Sergei Robes Compilation.esp
 SS-GenderIndependentClothing v1.0.esp
 300_Classes.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Body Replacer Armour
+\BeginGroup\: Body Replacer Armour
 \--------------------
 \
 \Stuff for use with body replacers.
@@ -3339,9 +3339,9 @@ Colourwheels Sexy SI Armor & Clothing Replacer.esp
 
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Not For Free Armor
+\BeginGroup\: Not For Free Armor
 
 tona_simple_dress-armor_ver3.esp
 % {{BASH:Relev}} if using Not For Free mod.
@@ -3373,9 +3373,9 @@ HaydoxRapier.esp
 % {{BASH:Relev}} if using Not For Free mod.
 GizmodianSorceress.esp
 % {{BASH:Relev}} if using Not For Free mod.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Horse Mods
+\BeginGroup\: Horse Mods
 \----------
 
 Shivering Isles Horse.esp
@@ -3484,9 +3484,9 @@ Rund ums Pferd.esp
 Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Pre Overhaul
+\BeginGroup\: Pre Overhaul
 \------------
 \
 \To reduce conflicts.
@@ -3502,17 +3502,17 @@ Goblin Realswords+Tribal Shields.esp
 Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 The Last Queen Of The Ayleids.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Only Name changing files
+\BeginGroup\: Only Name changing files
 \----------
 \tag with names and total compatibility
 
 Ranokoas Organized Potions.esp
 % {{BASH:Names}}, deactivate. If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: DLC 2
+\BeginGroup\: DLC 2
 \-----
 
 DLCThievesDen.esp
@@ -3525,14 +3525,14 @@ SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
 % {{BASH:Stats}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Overhauls
+\BeginGroup\: Overhauls
 \---------
 \
 \FCOM, Fran's, OOO, MMM, etc
 
-\Begin Group\: Francesco's Leveled Creatures-Items Mod
+\BeginGroup\: Francesco's Leveled Creatures-Items Mod
 \'''''''''''''''''''''''''''''''''''''''
 
 <Fran Armor Add-on.esp
@@ -3588,9 +3588,9 @@ Francesco's Boars Add-On.esp
 
 Fran-Ayleid Coin Add-on.esp
 ? Don't use with G&GD, COBL or OOO
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: OOO; FCOM optional and and related components; MMM and optional plungins.
+\BeginGroup\: OOO; FCOM optional and and related components; MMM and optional plungins.
 \'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 KDCircletsOOOOptimized - NPC Equip.esp
@@ -3669,9 +3669,9 @@ FCOM_WarCryNoSpawn.esp
 
 G_'s-Loot-Mod_v2.5[Scaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: OOO full and lite.
+\BeginGroup\: OOO full and lite.
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
@@ -3715,9 +3715,9 @@ OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
 OOONoLockBash.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post OOO
+\BeginGroup\: Post OOO
 \''''''''
 
 mg19obsefix.esp
@@ -3754,9 +3754,9 @@ MALO - Vendor Additions.esp
 MALO - Loot Tweaks.esp
 MALO - Loot Tweaks DCRP.esp
 MALO - Loot Tweaks FRAN.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: MMM & FCOM
+\BeginGroup\: MMM & FCOM
 \''''''''''
 
 >Mart's Monster Mod.esp
@@ -3794,9 +3794,9 @@ MALO - Loot Tweaks FRAN.esp
 >? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - GhostApparitionFix.esp
 >
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: FCOM/MMM optionals 1.
+\BeginGroup\: FCOM/MMM optionals 1.
 >\'''''''''''''''''''''
 >
 >Mart's Monster Mod - Diverse Runeskulls.esp
@@ -3851,9 +3851,9 @@ MALO - Loot Tweaks FRAN.esp
 >? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
 >
 >CurseOfHircine.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: FCOM/MMM optionals 2.
+\BeginGroup\: FCOM/MMM optionals 2.
 >\'''''''''''''''''''''
 >
 >Mart's Monster Mod - Extra Wounding.esp
@@ -3932,9 +3932,9 @@ MALO - Loot Tweaks FRAN.esp
 >% {{BASH:Invent}}
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
 >% {{BASH:Invent}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: MMM for non-FCOM installs
+\BeginGroup\: MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
 <
 <Mart's Monster Mod.esp
@@ -4123,9 +4123,9 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Waalx Animals and Creatures
+\BeginGroup\: Waalx Animals and Creatures
 \'''''''''''''''''''
 
 WAC.esp
@@ -4138,9 +4138,9 @@ WAC - Dead Knights.esp
 WAC - Magic.esp
 WAC - Player Summons.esp
 WAC - QuietFeet.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Tamriel Travellers.
+\BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
 
 TamrielTravellerAdvScript.esp
@@ -4176,9 +4176,9 @@ FCOM_TamrielTravelers.esp
 
 kuerteeWanderingEncounters.esp
 \maybe I should put this somewhere else but until further testing this seems reasonable
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: FCOM\MMM optionals 3.
+\BeginGroup\: FCOM\MMM optionals 3.
 \'''''''''''''''''''''
 
 >Mart's Monster Mod - Diverse Imperial Armor.esp
@@ -4219,9 +4219,9 @@ FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
 * Delete. Old. Update to FCOM v0.9.9 or later.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Overhaul compatibility
+\BeginGroup\: Overhaul compatibility
 \''''''''''''''''''''''
 
 TIE.esp
@@ -4287,9 +4287,9 @@ TIE In - Game Settings OOO.esp
 TIE In - Sounds.esp
 
 Choices and Consequences - FCOM.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Additional MMM OOO Patches
+\BeginGroup\: Additional MMM OOO Patches
 \''''''''''''''''''''''''''
 
 >Mart's Monster Mod - Shivering Isles.esp
@@ -4386,10 +4386,10 @@ EVE_StockEquipmentReplacer4MMM.esp
 
 Diverse Imperial Armor v1.1.esp
 ? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Post Overhaul
+\BeginGroup\: Post Overhaul
 \'''''''''''''
 
 CrystalCalendar.esp
@@ -4430,9 +4430,9 @@ IABaneOils 100.esp
 % {{BASH:Factions}
 ? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests and Locations 1
+\BeginGroup\: Quests and Locations 1
 \----------------------
 \
 \All mods that add or change quests,
@@ -4442,7 +4442,7 @@ IABaneOils 100.esp
 \
 \Mods not in alphabetical order have been hand placed to avoid conflicts (as much as possible).
 
-\Begin Group\: Quests Early
+\BeginGroup\: Quests Early
 
 Enhanced Quest Roleplaying.esp
 % {{BASH:Factions}}
@@ -4520,9 +4520,9 @@ OCC-Ivellon-Patch.esp
 1079-Safe Archmage Storage-TESSource.esp
 
 Anvil Merchant Galley Houseboat v1.0.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests #
+\BeginGroup\: Quests #
 
 00RBScribeSupplies Intensive.esp
 ? Use only one 00RBScribeSupplies mod at a time.
@@ -4555,9 +4555,9 @@ DLCHorseArmor_300WhiteStallion.esp
 .LuEmaNarfil Cave of Vampires.esp
 
 [NPC] Sharmina.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests A
+\BeginGroup\: Quests A
 
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
@@ -4671,9 +4671,9 @@ AzurasServices_de.esp
 ? German Version
 AzurasServices_en.esp
 AzuraServices_en.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests B
+\BeginGroup\: Quests B
 
 Banes Cheydinhal Store Upgrade.esp
 Skingrad Store Upgrade.esp
@@ -4758,9 +4758,9 @@ BrumaMGRestored Rwalk.esp
 BrumaMGRestored Swalk.esp
 Buddah Mansion.esp
 BXX_Mines.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests C
+\BeginGroup\: Quests C
 
 Capsized Ship.esp
 Champion's Mansion.esp
@@ -4824,9 +4824,9 @@ CS_PaperParched.esp
 CastawayIsles.esp
 Chinese Weapons.esp
 CompleteMagePack.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests D
+\BeginGroup\: Quests D
 
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
@@ -4843,7 +4843,7 @@ Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Sutch Reborn Spawn Patch.esp
-? Use instead of '(DC) Sutch Reborn.esp'... why couldn't it be a proper patch instead of a replacer esp.
+? Use instead of '(DC) Sutch Reborn.esp' \why couldn't it be a proper patch instead of a replacer esp.
 ? Rename to '(DC) Sutch Reborn.esp' if using the ooo/ul patches.
 
 The Dead Knights.esp
@@ -4889,9 +4889,9 @@ DukeCity.esp
 
 DarkDale.esp
 
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests E
+\BeginGroup\: Quests E
 
 EaglesRest.esp
 Egainjo Manor.esp
@@ -4912,9 +4912,9 @@ Extended NPCs Merge.esp
 Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
 eyja.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests F
+\BeginGroup\: Quests F
 
 FalamirTheMerchant.esp
 FallenTower.esp
@@ -4950,9 +4950,9 @@ JK_lighthouse.esp
 FuseFruitMachine.esp
 FuseSnailRacing.esp
 ? Needs a patch for Unique Landscapes: Imperial Isle.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests G
+\BeginGroup\: Quests G
 
 Gaelendryl.esp
 Gamblers_of_Cyrodiil.esp
@@ -4986,9 +4986,9 @@ Guards.esp
 GwedenBrothel.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests H
+\BeginGroup\: Quests H
 
 hackdirtabyss.esp
 HackdirtCaverns.esp
@@ -5036,9 +5036,9 @@ HOD_delayer.esp
 ? only use without Open Cities
 OC_HOD_delayer.esp
 ? only use with Open Cities
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests I
+\BeginGroup\: Quests I
 
 IC Atmospheric Shops Mod.esp
 IC DB Hideout.esp
@@ -5060,9 +5060,9 @@ ImperialCemetery.esp
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 Insanity's Pet Shop.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests J
+\BeginGroup\: Quests J
 
 JADICMothPriests.esp
 ? Not compatible with Better Cities Green Emperor's Way. Already included as part of Better Cities.
@@ -5090,9 +5090,9 @@ JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
 JSRandomTasks.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests K
+\BeginGroup\: Quests K
 
 KarewManor.esp
 Kats Better Rosethorn Hall.esp
@@ -5137,9 +5137,9 @@ KEMT.esp
 Lair_of_the_Hydra-4490.esp
 5861-2[1].0 Final-Lair of the Hydra-TESSource.esp
 5547-2.0 Final-Lair of the Hydra-TESSource.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests L
+\BeginGroup\: Quests L
 
 Land of Hyrule.esp
 LakeHouseV1.1.esp
@@ -5197,9 +5197,9 @@ Lynges_Dark_Brotherhood_Assassins-8654.esp
 Lyn-GnollMountain.esp
 
 Lilarcor.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests M
+\BeginGroup\: Quests M
 
 Mount Archon.esp
 Mara's Tower.esp
@@ -5254,9 +5254,9 @@ MetherlanceManor.esp
 Milewood.esp
 Mysteries Of Atrene Camp.esp
 MHSN Weapons.estp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests N
+\BeginGroup\: Quests N
 
 Nabu_Towers.esp
 Naughty_Joana_01.esp
@@ -5285,9 +5285,9 @@ NNWARE02EV-Trumbe.esp
 NNWARE03EV-Piukanda.esp
 NNWARE04EV-Veyond.esp
 NNWARE05EV-Bawn.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests O
+\BeginGroup\: Quests O
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 OlauronCastleEn.esp
@@ -5301,9 +5301,9 @@ OrangeroadCottage.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests P
+\BeginGroup\: Quests P
 
 ThePaleAdventurer.esp
 Pats Business Mod---Shop Version 1.6.esp
@@ -5328,18 +5328,18 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests Q
+\BeginGroup\: Quests Q
 
 Quest.esp
 ? Related to Belas.esm and therefore may have severe land issues. Unconfirmed.
 Quest For The Elements.esp
 QQuix - Divine Elegance Showroom.esp
 Quest Nirnroot.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests R
+\BeginGroup\: Quests R
 
 Reaper's Coldstone Town.esp
 ? Incomatible with Hear of the Dead
@@ -5373,9 +5373,9 @@ RumpleMod Swalk.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests S
+\BeginGroup\: Quests S
 
 Sakveed Manor.esp
 Salan's Cellar.esp
@@ -5457,9 +5457,9 @@ Stonewall Townhouse.esp
 Street Market.esp
 Sylar0712_ICAgarmirHouse.esp
 Sheogorath`s Artifacts.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests T
+\BeginGroup\: Quests T
 
 Talos Bridge.esp
 TamrielSnacks11-EV.esp
@@ -5554,9 +5554,9 @@ Topal Island - Safe Water.esp
 TOTW.esp
 TOTWfurn.esp
 TOTWcamp.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests U
+\BeginGroup\: Quests U
 
 UFF Gypsy Market.esp
 UnfathomedTower.esp
@@ -5565,9 +5565,9 @@ Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
 Ushnars Skinned Hound.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests V
+\BeginGroup\: Quests V
 
 Valenwood Improved.esp
 Valley_View_Estate.esp
@@ -5600,9 +5600,9 @@ Viking Village.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests W
+\BeginGroup\: Quests W
 
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
@@ -5630,6 +5630,7 @@ Woodland Rangers.esp
 WOTFH_1.3.esp
 Water's Edge Cottage.esp
 Waterfront_Shack-6733.esp
+Fort Weye.esp
 Weye.esp
 Weye_Manor.esp
 WeyeHouse.esp
@@ -5641,9 +5642,9 @@ WhiteRoseLodgev2.0.esp
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
 Cyrodiil Portal Travel.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests XYZ
+\BeginGroup\: Quests XYZ
 
 XendersAngels.esp
 Xereau's Better Travel - Mage's Hub.esp
@@ -5665,9 +5666,9 @@ Zira's Battle Horse Shop.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests Arena
+\BeginGroup\: Quests Arena
 
 Arena Imersion Upgrade 1.1.esp
 Angel's Arena Loot en.esp
@@ -5698,10 +5699,10 @@ Visually Enhanced Arena.esp
 ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
 fpsboost-arenanolights.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: DLC 3
+\BeginGroup\: DLC 3
 \-----
 
 DLCBattlehornCastle.esp
@@ -5714,9 +5715,9 @@ Battlehorn_mobs.esp
 % {{BASH:Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests and Locations 2
+\BeginGroup\: Quests and Locations 2
 \----------------------
 
 maze-version 1,0.esp
@@ -5742,9 +5743,9 @@ Lynges Thieves Highway.esp
 Lynges Thieves Highway - OOO.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 ? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: DLC 4
+\BeginGroup\: DLC 4
 \-----
 
 DLCFrostcrag.esp
@@ -5855,9 +5856,9 @@ MOBS DLCs.esp
 % {{BASH:Stats}}
 
 RavDCPOD.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests and Locations 3
+\BeginGroup\: Quests and Locations 3
 \----------------------
 
 Cybiades.esp
@@ -5946,9 +5947,9 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: FCOM Compatibility Section
+\BeginGroup\: FCOM Compatibility Section
 \--------------------------
 \
 \FCOM optional addon patches
@@ -5976,9 +5977,9 @@ FCOM_OMGSRT.esp
 FCOM_DulanCult.esp
 ? Requires 'The Mystery of the Dulan cult.esp'.
 Origin of the Mages Guild OOO Patch.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests and Locations 4
+\BeginGroup\: Quests and Locations 4
 \----------------------
 
 Unofficial Patches & Refurbish - ALL.esp
@@ -6042,12 +6043,12 @@ FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 A Imperial Outpost - Fort Novi Sad.esp
 
 ReclaimSancreTor.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Landscape and City overhauls
+\BeginGroup\: Landscape and City overhauls
 \----------------------------
 
-\Begin Group\: Unique Landscapes and Compatibility Patches
+\BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
 
 NibenRiverFix.esp
@@ -6127,6 +6128,7 @@ BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Also use Sutch reborn Lighthouse Fix UL.esp.
 Sutch reborn Lighthouse Fix UL.esp
+VeronaHouse-SutchReborn patch.esp
 OOO-UL-Sutch patch.esp
 SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
@@ -6232,9 +6234,9 @@ LtPD+NRB4+UL-II Patch.esp
 
 xul Rwalk Full.esp
 xul Swalk Full.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post UL, Pre BC
+\BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
 
 Castle_Seaview.esp
@@ -6324,9 +6326,9 @@ Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 Duke Patricks The Lady said NO.esp
 ? Old. Upgrade to latest version.
 DukePatricksTheLadysaidNO.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Open Better Cities
+\BeginGroup\: Open Better Cities
 \''''''''''''''''''
 
 Open Better Cities Full.esp
@@ -6350,9 +6352,9 @@ Open Better Cities Skingrad - City Defences.esp
 Open Better Cities SKINGRAD VARIANT.esp
 
 Reaper's_Open-B.C._Secret_Entry.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Open Cities and Open Cities Complete
+\BeginGroup\: Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
 
 Open Cities.esp
@@ -6410,9 +6412,9 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 OCLR+ULBWForest Patch.esp
 OC+Cheydinhal Falls Patch.esp
 III-LeyawiinRebornPatch.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Quests and Locations 5
+\BeginGroup\: Quests and Locations 5
 \----------------------
 
 III-MountainShackPatch.esp
@@ -6442,22 +6444,22 @@ FCOM_UnofficialFranArmorAddon.esp
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post City
+\BeginGroup\: Post City
 \'''''''''
 
 Blue Destiny's Armor.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Overrides
+\BeginGroup\: Overrides
 \---------
 \
 \Mods that deliberately change specific things about vanilla Oblivion, overhauls or other mods.
 \Some late loading quests and locations in here too.
 
-\Begin Group\: overrides Early
+\BeginGroup\: overrides Early
 
 NaturalVegetation.esp
 Natural_Vegetation_by_Max_Tael.esp
@@ -6498,9 +6500,9 @@ RealisticFlora - DLCVileLair.esp
 WD's Auto Harvest.esp
 DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides #
+\BeginGroup\: overrides #
 
 100% Harvest Chance.esp
 100% Harvest Chance Shivering Isles.esp
@@ -6509,9 +6511,9 @@ LCs Auto Harvest.esp
 1456-1-no_wind-TESSource.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides A
+\BeginGroup\: overrides A
 
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
@@ -6550,9 +6552,9 @@ Auto Repair.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides B
+\BeginGroup\: overrides B
 
 BaurusRunsInSewers.esp
 Bag of Holding.esp
@@ -6605,9 +6607,9 @@ WHOOSH.esp
 
 Buried_Treasure.esp
 BuyLockpicks.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides C
+\BeginGroup\: overrides C
 
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
@@ -6649,7 +6651,7 @@ CT-YABM - No Idle.esp
 ?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp
 
-\Begin Group\: CUO
+\BeginGroup\: CUO
 
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
@@ -6669,10 +6671,10 @@ CUO_UnleveledNpcs&Creatures.esp
 ? Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Overrides D
+\BeginGroup\: Overrides D
 
 Daedra_Shrine_Level_Requirement_Remover-2011.esp
 DarkAltars.esp
@@ -6720,9 +6722,9 @@ DS Storage Sacks.esp
 Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides E
+\BeginGroup\: overrides E
 
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
@@ -6745,9 +6747,9 @@ ActorsHaveTorches.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Everlasting Corpses v 1.0.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides F
+\BeginGroup\: overrides F
 
 faster-grass.esp
 Faster-trees.esp
@@ -6772,9 +6774,9 @@ Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 Furniture Prices.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides G
+\BeginGroup\: overrides G
 
 gardening.esp
 Gary Gygax's Grave.esp
@@ -6796,9 +6798,9 @@ Great Gate Essential NPC's.esp
 GuildStorage.esp
 GuilesNameReplace-Scrolls.esp
 % {{BASH:Names}} - deactivate.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides H
+\BeginGroup\: overrides H
 
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
@@ -6813,9 +6815,9 @@ Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides I
+\BeginGroup\: overrides I
 
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
@@ -6833,18 +6835,18 @@ Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides J
+\BeginGroup\: overrides J
 
 Jarol's NPC Leveled Equipment.esp
 Jerall-Pass.esp
 ? German mod.
 JQ-Backpacks.esp
 JQ-Bandages.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides K
+\BeginGroup\: overrides K
 
 KeyBox.esp
 kikaibookbelts-amulet.esp
@@ -6856,9 +6858,9 @@ KT_KhajEyeToggleNoEff.esp
 KT_VampSightToggle.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides L
+\BeginGroup\: overrides L
 
 LastUnicorn.esp
 Leviathan Soulgems.esp
@@ -6875,9 +6877,9 @@ Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides M
+\BeginGroup\: overrides M
 
 M.O.E. - Bone Names and Priced Skull.esp
 ? May not be compatible with MMM bone loot - untested.
@@ -6925,9 +6927,9 @@ Music Controller.esp
 MYR_AyleidKing.esp
 MQSDone.esp
 
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides N
+\BeginGroup\: overrides N
 
 NameReplacer-Clothing.esp
 % {{BASH:Names}} - deactivate.
@@ -6964,9 +6966,9 @@ NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 npcjump.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides O
+\BeginGroup\: overrides O
 
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
@@ -6981,9 +6983,9 @@ Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
 Orrery_Rewards.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides P
+\BeginGroup\: overrides P
 
 P1DkeyChain.esp
 P1DKeychain for COBL.esp
@@ -7003,15 +7005,15 @@ Potions Recolored.esp
 JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides Q
+\BeginGroup\: overrides Q
 
 Quest Item Tag Remover.esp
 QuestItemMessage.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides R
+\BeginGroup\: overrides R
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
@@ -7052,9 +7054,9 @@ Leyawin Bridge.esp
 ? Part of the Rowboats mod.
 Rune Stones!.esp
 RuneDoomWell.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides S
+\BeginGroup\: overrides S
 
 Safer Roads v1.0.esp
 ? Don't use with MMM or FCOM - unkown with other overhauls
@@ -7164,9 +7166,9 @@ StackableEquipment.esp
 StackableOblivion.esp
 
 StarX Vampire Deaths.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides T
+\BeginGroup\: overrides T
 
 tag_NaturalWildlife.esp
 GP_Natural Wildlife - MMM.esp
@@ -7183,9 +7185,9 @@ dyseso_PromptAt2Items.esp
 tona_underwear.esp
 Tona Compilation.esp
 TurretDisable.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides U
+\BeginGroup\: overrides U
 
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
@@ -7207,17 +7209,17 @@ Unlimited Rings - Shivering Isles.esp
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 undercover.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides V
+\BeginGroup\: overrides V
 
 Valuable Gems and Silverware v1.0.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
 vn_goldweight.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides W
+\BeginGroup\: overrides W
 
 Wayshrines Improved.esp 
 Wondrous_Inventory_v091.esp
@@ -7231,16 +7233,16 @@ kuerteeAlternativesToDeathAndReload.esp
 Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
 ? Obsolete. Upgrade to Kuertee's Alternatives To Death And Reload.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides XYZ
+\BeginGroup\: overrides XYZ
 
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: overrides Late
+\BeginGroup\: overrides Late
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.
@@ -7309,10 +7311,10 @@ Andrews_No_Quest_Items.esp
 Daedric Lord Armor for Eshme.esp
 
 AyleidMeteorIronWeaponsVANILLA.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: TIE Integration compatibility
+\BeginGroup\: TIE Integration compatibility
 \'''''''''''''''''''''''''''''
 \
 \TIE In optional addon patches.
@@ -7340,9 +7342,9 @@ TIE In - DLCThievesDen.esp
 TIE In - DLCFrostcrag.esp
 
 TIE In - BC-Anvil.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Alternative starts
+\BeginGroup\: Alternative starts
 \''''''''''''''''''
 \
 \Must go after anything that alters the main quest.
@@ -7368,9 +7370,9 @@ Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
 MQSDone.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Realism
+\BeginGroup\: Realism
 \'''''''
 \
 \Mainly health, encumberance and fatigue overhauls.
@@ -7497,9 +7499,9 @@ Duke Patricks Hydration and Water Harvesting.esp
 Duke Patricks - Hydration and Water Harvesting.esp
 
 Roughing It.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Vampires
+\BeginGroup\: Vampires
 \''''''''
 \
 \Will override changes made by OOO. May cause faction conflicts with any new vampire factions.
@@ -7572,9 +7574,9 @@ Duke Patricks - Nosferatu Class Vampires.esp
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 
 LithiansNatureOfTheBeastModBeta.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Magic
+\BeginGroup\: Magic
 \'''''
 \
 \Overrides overhauls. New spells and magic systems go here for convenience.
@@ -7583,7 +7585,7 @@ MagLite.esp
 MagLite - Alchemy.esp
 OOO Potions Autocalc.esp
 
-\Begin Group\: General Spells
+\BeginGroup\: General Spells
 
 Acidon_EnchantmentFixes.esp
 AddSpells.esp
@@ -7725,9 +7727,9 @@ Advanced Magecraft.esp
 
 sr_enhanced_magic_system.esp
 SpellSinger.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Mighty Magic
+\BeginGroup\: Mighty Magic
 
 Mighty Magick - Core.esp
 Mighty Magick - Settings.esp
@@ -7759,9 +7761,9 @@ MidasSpells_MM.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Supreme Magicka
+\BeginGroup\: Supreme Magicka
 
 AgarVariedSpellSounds_SupremeMagicka.esp
 % {{BASH:Sound}} and deactivate.
@@ -7799,9 +7801,9 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Midas Magic
+\BeginGroup\: Midas Magic
 
 MidasSpells.esp
 OC+Midas Magic Patch.esp
@@ -7851,9 +7853,9 @@ Midas BeastFortify Fix NONOBSE.esp
 ? Pick either the OBSE version or this one. But not both.
 Midas BeastFortify Fix OBSE.esp
 ? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Spells Late
+\BeginGroup\: Spells Late
 
 AudaciousMagery.esp
 
@@ -7920,9 +7922,9 @@ PMSneakySummons-ForVanilla.esp
 
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Alchemy
+\BeginGroup\: Alchemy
 \'''''''
 
 alchemybugfix.esp
@@ -7978,9 +7980,9 @@ Herbalism - DLCFrostcrag.esp
 Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
 ? Use only with the 'Herbalism' mod, otherwise use newer 'Harvest [Flora]' v3.1.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Enchantment
+\BeginGroup\: Enchantment
 
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
@@ -8007,10 +8009,10 @@ Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Staffcraft.esp
 svaReEnch_1C.esp
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: Thievery, Sneaking and Crime
+\BeginGroup\: Thievery, Sneaking and Crime
 \''''''''''''''''''''''''''''
 \
 \Overrides overhauls.
@@ -8083,9 +8085,9 @@ ZumbsLockpickingMod - Hide Difficulty Addon.esp
 
 kuerteeNoLootingDuringCombat.esp
 kuerteeNPCsAreSuspicious.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Guards and Bounty
+\BeginGroup\: Guards and Bounty
 \'''''''''''''''''
 
 OOO-OLC_Realistic_Detection.esp
@@ -8136,9 +8138,9 @@ Duke Patrick's Lockpick challange Autopick.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
 Duke Patrick's Lockpick challange Manual.esp
 ? Only use one 'Lockpick challenge' mod. Choose.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Combat
+\BeginGroup\: Combat
 \''''''
 \
 \Overrides 'overhauls'.
@@ -8292,9 +8294,9 @@ Duke Patrick`s Smash of the Titans.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Smash Of The Titans.esp
 SpookyNPCAIModsMerge.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Skills, Attributes and Leveling
+\BeginGroup\: Skills, Attributes and Leveling
 \'''''''''''''''''''''''''''''''
 \
 \Unlikely to interact with other kinds of mods.
@@ -8499,9 +8501,9 @@ Level_Rates_Modified_x5.esp
 Faster Magic Levelling.esp
 Wrye Leveling.esp
 SaveSkillTrainingForLater.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Pose mods
+\BeginGroup\: Pose mods
 \'''''''''
 \
 \Scripts and new animations.
@@ -8556,9 +8558,9 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 walklikesheo.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Semi-final overrides
+\BeginGroup\: Semi-final overrides
 \''''''''''''''''''''
 
 Wolvmans_Better_Hand_placed_Loot.esp
@@ -8625,14 +8627,14 @@ Script effect - Bash icon.esp
 Stat Restore.esp
 
 Arena betting.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Beauty Packs & Race Changes\Addons
+\BeginGroup\: Beauty Packs & Race Changes\Addons
 \--------------------------
 \
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\Begin Group\: Body and head changes
+\BeginGroup\: Body and head changes
 \'''''''''''''''''''''
 
 BulkyNords.esp
@@ -8661,9 +8663,9 @@ Jjiinx_Long Ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Head06 Replacer.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Hair
+\BeginGroup\: Hair
 \''''
 
 UnlockedHairs.esp
@@ -8694,9 +8696,9 @@ Saram_Corean_NPC_Hair_1_0.esp
 % {{BASH:Hair}} and deactivate.
 ZelsHairfixRenshairV1_5.esp
 % {{BASH:Hair}} and deactivate.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Eyes
+\BeginGroup\: Eyes
 \''''
 
 ElaborateEyes.esp
@@ -8719,9 +8721,9 @@ Cat_eyes_add.esp
 % {{BASH:Eyes}} and deactivate.
 DesuChan's Anime Eyes (Vanilla).esp
 % {{BASH:Eyes}} and deactivate.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Mixed
+\BeginGroup\: Mixed
 \'''''
 
 All_hair_and_eyes-1841.esp
@@ -8756,9 +8758,9 @@ MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Race additions (+ hair + eyes etc)
+\BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
 4 New Races for Rens-Beautiful People.esp
@@ -8966,9 +8968,9 @@ X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ancient Elven Sorceress - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Merges and combinations
+\BeginGroup\: Merges and combinations
 \'''''''''''''''''''''''
 
 Luchaire's Dryad Race for MMM.esp
@@ -9023,9 +9025,9 @@ Diverse NPCs.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Companions
+\BeginGroup\: Companions
 \----------
 \
 \Those related to companion mod systems. Most others in Quests section.
@@ -9219,14 +9221,14 @@ Merina.esp
 % {{BASH:Hair,Eyes}}
 Isrithr.esp
 % {{BASH:Hair,Eyes}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Race Overrides
+\BeginGroup\: Race Overrides
 \--------------
 \
 \Includes birthsign mods.
 
-\Begin Group\: COBL Races
+\BeginGroup\: COBL Races
 \''''''''''
 
 Cobl Races.esp
@@ -9240,9 +9242,9 @@ Cobl Races TNR SI.esp
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Race Balancing Project 1
+\BeginGroup\: Race Balancing Project 1
 \''''''''''''''''''''''''
 
 bgBalancingEVCore.esp
@@ -9252,12 +9254,12 @@ bgBalancingDVCore.esp
 ? German version.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
-\End Group\\
+\EndGroup\\
 
-\End Group\\
-\End Group\\
+\EndGroup\\
+\EndGroup\\
 
-\Begin Group\: L.A.M.E.
+\BeginGroup\: L.A.M.E.
 \''''''''
 \Inserted here for RBP compatibility
 \Expect SM to be moved here for people who want SM to 'win' over LAME.
@@ -9287,9 +9289,9 @@ bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post Magicka Overhaul
+\BeginGroup\: Post Magicka Overhaul
 \'''''''''''''''''''''
 
 Bound_Arrows_with_Bow.esp
@@ -9298,9 +9300,9 @@ Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent,merge}} and deactivate
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Race Balancing Project 2
+\BeginGroup\: Race Balancing Project 2
 \''''''''''''''''''''''''
 
 bgBalancingOptionalLessHealth.esp
@@ -9366,9 +9368,9 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 ? Requires Shivering Isles and Luchaire's Body Seam Reducer.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: BG Integration quest
+\BeginGroup\: BG Integration quest
 \''''''''''''''''''''
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
@@ -9376,9 +9378,9 @@ bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH:Faces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Other race/birthsign mods
+\BeginGroup\: Other race/birthsign mods
 \'''''''''''''''''''''''''
 
 Custom_Birthsigns_Chris.esp
@@ -9414,9 +9416,9 @@ boethia custom race.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Better Cities
+\BeginGroup\: Better Cities
 \-------------
 
 Better Cities - Full City Defences.esp
@@ -9484,7 +9486,7 @@ Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 
-\Begin Group\: Obsolete BC files
+\BeginGroup\: Obsolete BC files
 
 BCAnvil-LostCoast Fix.esp
 ? Obsolete. Update Better Cities to latest version.
@@ -9625,11 +9627,11 @@ Better Cities IC Arcane University Patch.esp
 Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
 ? Old, update to newer version.
-\End Group\\
+\EndGroup\\
 
 Portrait Painter for Better Cities.esp
 
-\Begin Group\: BC IC
+\BeginGroup\: BC IC
 
 Better Cities IC Arboretum.esp
 Better Cities IC Arcane University.esp
@@ -9651,12 +9653,13 @@ Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
-\End Group\\
+\EndGroup\\
 
 Better Cities and IC Rwalk.esp
 Better Cities and IC Swalk.esp
+TheOubliette.esp
 
-\Begin Group\: Better Cities FPS Patches
+\BeginGroup\: Better Cities FPS Patches
 
 Better Cities Full FPS Patch.esp
 Better Cities Skingrad FPS Patch.esp
@@ -9696,11 +9699,11 @@ Better Cities IC Arcane University FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
-\End Group\\
+\EndGroup\\
 
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post BC and OBC
+\BeginGroup\: Post BC and OBC
 \'''''''''''''''
 
 _burning_kvatch.esp
@@ -9712,9 +9715,9 @@ TreeHomeIntLight-ChorrolHinterland patch.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Message suppression overrides
+\BeginGroup\: Message suppression overrides
 \-----------------------------
 \
 \Best loaded late to override possible message additions from other mods.
@@ -9752,9 +9755,9 @@ Zero Annoying Comments and Messages.esp
 ReallyImmersiveMessages.esp
 ? Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
 ReallyImmersiveMessagesNoBirthsigns.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Respawn & day length overrides
+\BeginGroup\: Respawn & day length overrides
 \------------------------------
 \
 \Use only one of each kind. Unlikely to interact with other mods.
@@ -9809,14 +9812,14 @@ Combat Timescale x0.5 v1.0.esp
 DynamicTimescale.esp
 Syc_LongerDaysShorterNights.esp
 SPAWN.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Shader mods
+\BeginGroup\: Shader mods
 \-----------
 \
 \Need to go after new items to affect them.
 
-\Begin Group\: Shader removers
+\BeginGroup\: Shader removers
 \'''''''''''''''
 
 _No__persistant_enchantment_glow_fix-1843.esp
@@ -9837,9 +9840,9 @@ Chameleon-NoRefraction-2411.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 1310-chamelion-norefraction-tessource.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Shader replacers
+\BeginGroup\: Shader replacers
 \''''''''''''''''
 
 AznarsLifeDetect.esp
@@ -10144,11 +10147,11 @@ Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
-\End Group\\
+\EndGroup\\
 
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Pre Bash
+\BeginGroup\: Pre Bash
 \--------
 Faction Rank Fix.esp
 Helmet Toggle.esp
@@ -10201,9 +10204,9 @@ All Natural - Indoor Weather Filter For Mods.esp
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Bashed Patch
+\BeginGroup\: Bashed Patch
 \------------
 
 Bashed Patch FCOM.esp
@@ -10221,9 +10224,9 @@ Bashed Patch.esp
 Bashed Patch, Warrior.esp
 Bashed Patch, Thief.esp
 Bashed Patch, Mage.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Post Bashed Patch
+\BeginGroup\: Post Bashed Patch
 \-----------------
 
 CybBPcompatibility.esp
@@ -10246,9 +10249,9 @@ Slof's Manly Stride.esp
 SWalk.esp
 bgScriptEffectSilencer.esp
 NoScriptHitVisual.esp
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Obsolete, Unsorted Duke Patrick's Mods
+\BeginGroup\: Obsolete, Unsorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
 \
 \Mods that are not available for download and are not referenced in Duke Patrick's load order guidelines.
@@ -10267,9 +10270,9 @@ Duke Patrick's So you think you are a war god 1.2.esp
 ? Obsolete. Do not use.
 Duke Patricks So you think you are a war god MARK II.esp
 ? Obsolete. Do not use.
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Sorted Duke Patrick's Mods
+\BeginGroup\: Sorted Duke Patrick's Mods
 \''''''''''''''''''''''''''''
 \
 \The rest of these mods are ordered as according to Duke Patrick's guidelines.
@@ -10324,9 +10327,9 @@ Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
 \% {{BASH:Sound}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: These should go LAST LAST LAST.
+\BeginGroup\: These should go LAST LAST LAST.
 \I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
 \Staying here until the SCA stuff moves though, these should be after that.
 
@@ -10349,9 +10352,9 @@ Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
 ? Old. Upgrade to latest version.
 \% {{BASH:Sound}}
-\End Group\\
+\EndGroup\\
 
-\Begin Group\: Last Files
+\BeginGroup\: Last Files
 \''''''''''
 MergedMaps.esp
 \this so has to go last...
@@ -10374,4 +10377,4 @@ Streamline 2.1.esp
 RedDelPCB.esp
 
 CTEFastSaver.esp
-\End Group\\
+\EndGroup\\

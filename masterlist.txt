@@ -4606,11 +4606,12 @@ Ancient_Goblin_City-4843.esp
 AncientSource.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
+
 AnvilBayExpansion.esp
 ? Not Better Cities compatible. Already included in Better Cities Anvil.
 ? Not Open Cities compatible. Already incuded in Open Cities Anvil.
 Anvil_Mazecave.esp
-
+Atropa.esp
 Anvil_MorningGloryBetterCities_Blue.esp
 ? Use only one Anvil_MorningGlory mod module.
 Anvil_MorningGloryBetterCities_Orange.esp
@@ -7664,7 +7665,9 @@ Pat's SpellpackMod NoIngredients.esp
 P1DsafeContainers.esp
 PJs Disco Spell.esp
 PJs Spell Compendium - No Requirements.esp
+? Use only one 'PJs Spell Compendium - X .esp.
 PJs Spell Compendium - Spell Requirements.esp
+? Use only one 'PJs Spell Compendium - X .esp.
 PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
@@ -9407,6 +9410,7 @@ KT_CustomRaceFix.esp
 CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 boethia custom race.esp
+? It is obligatory to use together with Cosmetic Compilation.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
@@ -10362,6 +10366,7 @@ kuerteeCleanUp.esp
 CleanQuit.esp
 
 Streamline 3.1.esp
+Streamline_3.1.esp
 Streamline 3.0.esp
 ? Old. Update to 3.1 or later.
 Streamline 2.1.esp

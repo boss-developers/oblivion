@@ -1124,6 +1124,7 @@ Daggerfallbooks.esp
 Daedric Wargames.esp
 ? Requires Shivering Isles expansion.
 Damsels In Distress.esp
+DID3_DoubleTrouble.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
 
@@ -1712,13 +1713,21 @@ Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
 WAC - Crowded Roads Revisited.esp
 
+travellers-new balance.esp
+travellers a.esp
+? Old, update to 'travellers-new balance.esp'.
+travellers b.esp
+? Old, update to 'travellers-new balance.esp'.
+travellers c.esp
+? Old, update to 'travellers-new balance.esp'.
+travellers d.esp
+? Old, update to 'travellers-new balance.esp'.
+
 Populated Prisons.esp
 
 Immersive Travelers.esp
 
 FF_Real_Thirst.esp
-? Don't use with vampire mods.
-FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 
 Terran Vampires Beta.esp
@@ -3440,6 +3449,7 @@ Mounted_Trampling.esp
 HorseCommands.esp
 HorseCommandsv2.esp
 kuerteeHorseCommands.esp
+Command Mount.esp
 NV Imperial Guard Horse Armour.esp
 % {{BASH:Graphics}}
 WhistleTrainer.esp
@@ -3623,6 +3633,8 @@ Cobl Glue.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
 ? Requires Shivering Isles expansion.
+FF_Real_Thirst, Cobl.esp
+? Don't use with vampire mods.
 OOO 1.32-Cobl.esp
 FCOM_Cobl.esp
 ? Requires 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
@@ -4051,7 +4063,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 <?obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
-<Mart's Monster Mod - Friendlier Factions OOO.esps
+<Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
@@ -7120,6 +7132,7 @@ Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
 Skycaptains BloodTime.esp
+SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
 Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
@@ -9296,6 +9309,7 @@ bgAddEnVarStandAloneEV.esp
 
 Bound_Arrows_with_Bow.esp
 CzBuyToggleNightEye.esp
+Conjuration Mastery.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
@@ -10153,6 +10167,8 @@ Shining Flame Atronachs_DLCFrostcrag.esp
 
 \BeginGroup\: Pre Bash
 \--------
+
+DLCFrostcrag_MysticEmporiumKTDH.esp
 Faction Rank Fix.esp
 Helmet Toggle.esp
 

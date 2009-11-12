@@ -123,6 +123,7 @@ Progress.esm
 HelmetFOV.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
+NNWAEMaster.esm
 Wondrous Items.esm
 VVAdvanced.esm
 Adrenaline Locational Masterfile.esm
@@ -922,6 +923,7 @@ kuerteeAutoSaveAndTime.esp
 ? Incompatible with Streamline's Streamsave and Cobl's clock.
 Amulet of Magicka.esp
 Amulet of Magicka_1Ñ.esp
+Amulet of Magicka_1C.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
 AFC v2 Quick Powerattacks.esp
@@ -7090,6 +7092,7 @@ Sexier Sheogorath DV.esp
 
 sexlivion.esp
 Sexlivion_0.4a_Full_English_v1.esp
+FriendsAndLovers.esp
 bondage_sex.esp
 Eroblivion.esp
 sexdarkness.esp
@@ -7435,6 +7438,16 @@ More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 kuerteeEatAndSleep.esp
+Tyler's Hungry, Thirsty, Sleepy, Tired.esp
+Addendum - Tired.esp
+? Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
+Addendum - Hungry.esp
+? Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
+Addendum - Sleepy.esp
+? Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
+Addendum - Thirsty.esp
+? Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
+
 Q - Carrying Capacity x20 v1.0.esp
 WeightLifter.esp
 
@@ -9245,7 +9258,7 @@ Isrithr.esp
 \''''''''''
 
 Cobl Races.esp
-% {{Eyes, Hair, R.Relations, Voice-M, Voice-F}}
+% {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 ? Requires the Cobl Cosmetics Res 01 files installed.

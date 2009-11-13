@@ -322,6 +322,7 @@ CaeliaDraconisFix.esp
 ? Not a fix exactly, so can be used with the UOP.
 sulinus fix.esp
 ? Not a fix exactly, so can be used with the UOP.
+sva_testFixBruma.esp
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
@@ -1172,6 +1173,7 @@ Extended Death Camera.esp
 FantasyPaintings.esp
 Fatality Cam.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
+Female Lich.esp
 Fish!.esp
 Fish! - v1.1.esp
 fwDropGold.esp
@@ -1496,6 +1498,9 @@ DLCShiveringIsles Swalk DG_DS.esp
 Better Cities ESM Rwalk.esp
 Better Cities ESM Swalk.esp
 Nude Swalk.esp
+
+REBetterLCB.esp
+%{{Bash:Graphics}} and deactivate.
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -1947,6 +1952,7 @@ avarm.esp
 1SnowCamo.esp
 1RockCamo.esp
 1ForestCamo.esp
+1masamune.esp
 1scorpionshield.esp
 1dragonbonekatana.esp
 1carbonblade.esp
@@ -2212,6 +2218,7 @@ Cy.esp
 
 \BeginGroup\: Items D
 
+Dalls_Blood_Fang.esp
 Dancers clothes.esp
 DBShadowSet.esp
 ? Only use one DBSHadow Set esp
@@ -2271,6 +2278,7 @@ DHAyleidShield.esp
 Diano.esp
 DivineShields.esp
 DMACArmor.esp
+DMCWeapons.esp
 DMGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
@@ -2329,9 +2337,11 @@ Excessor Sword.esp
 
 FalxMod.esp
 % {{BASH:Invent}}
+Fans for Helain.esp
 Fantasy Mod.esp
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
+ImperialDragonHeavyShield.esp
 femaleorderrobe.esp
 FemaleArmorPack1.esp
 FineWeapons.esp
@@ -2741,6 +2751,8 @@ PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 Realistic Persuasion1.8.esp
 PlukeRoleplayingPersuasion.esp
+SpeechcraftEnhanced.esp
+? Requires OBSE.
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
@@ -2782,7 +2794,9 @@ tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 TGG- Treasure Placement.esp
+The Bow of Daedric Blood.esp
 The Bow of the Mongolian Horseman.esp
+The Bow of Thorns.esp
 The Butcher.esp
 The Doomed King.esp
 TheFatherSword.esp
@@ -2872,6 +2886,7 @@ WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
 Warglaive - EV.esp
+WSW.esp
 \EndGroup\\
 
 \BeginGroup\: Items XYZ
@@ -3059,6 +3074,7 @@ ShaiyaOutfit.esp
 MHSNKirin.esp
 HolyRelics.esp
 AT2 01-Shiki Armor Set.esp
+AT2 02-Shiki Armor Set.esp
 JBlades!.esp
 Black Plate Armor.esp
 The Dragon Bow.esp
@@ -3110,6 +3126,7 @@ UFF & ROBERT Cold Steel.esp
 UFF_CrimsonMidnight.esp
 UFF Mage Skin.esp
 UFF Warrior Skin.esp
+Babarized Cryos Ordinator Lite.esp 
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Babarized DunmerScaleMail.esp
@@ -4573,10 +4590,12 @@ DLCHorseArmor_300WhiteStallion.esp
 
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
+A Sneaky Buy 2.1.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
 ? Requires Shivering Isles
+Adaman Fortress.esp
 AdenseEpicDungeon.esp
 ? Old, update to AdenseEpicDungeon1_3.esp.
 AdenseEpicDungeon1_1.esp
@@ -4813,6 +4832,7 @@ Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
 Clamshell_Cottage_v1.5_COBL.esp
+ArCloudRulerArmoryExtended.esp
 Cloudruler Guest Quarters.esp
 cherydinhal_murder_quest-3185.esp
 2106-2-cherydinhal murder quest-TESSource.esp
@@ -4889,6 +4909,7 @@ DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
+Improved IC Shack.esp
 DSPirateIsleBeta.esp
 Dwemer_Skyship_1_1_0.esp
 
@@ -5022,6 +5043,7 @@ Haunted_House_v1.5.esp
 HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
+hchouse408.esp
 HelsethArmor.esp
 Hero Hill Redone.esp
 HobbitHole.esp
@@ -5156,6 +5178,7 @@ Lair_of_the_Hydra-4490.esp
 \BeginGroup\: Quests L
 
 Land of Hyrule.esp
+Lake Canulus Village.esp
 LakeHouseV1.1.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
@@ -5359,7 +5382,8 @@ Quest Nirnroot.esp
 \BeginGroup\: Quests R
 
 Reaper's Coldstone Town.esp
-? Incomatible with Hear of the Dead
+? Incomatible with Heart of the Dead.
+Reaper_Drakelowe's Witch.esp 
 Raiders of Cyrodil.esp
 RavenCragHome.esp
 RavenviewVillageVer2.0.esp
@@ -5706,6 +5730,7 @@ Arena_BattlesV1.1.esp
 % {{BASH:Relations}}
 Arena_BattlesV1.2EV.esp
 % {{BASH:Relations}}
+Arena Rebuild.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
@@ -6037,6 +6062,7 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 Colored Map for Elsweyr 1.1.esp
+Valenwood.esp
 
 Improved Imperial Infrastructure.esp
 
@@ -6626,6 +6652,7 @@ Bow Damage Balanced.esp
 
 Bullettimemod.esp
 Bullettimemodsetkey.esp
+PowerBulletTime.esp
 WHOOSH.esp
 
 Buried_Treasure.esp
@@ -6887,6 +6914,8 @@ kuerteeInventoryIsABackpack.esp
 
 LastUnicorn.esp
 Leviathan Soulgems.esp
+Leviathan Trophy Soulgems.esp
+? Requires Tibixe's String Function Collection and Leviathan Soulgems.
 Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
@@ -7700,6 +7729,9 @@ Open_Very_Hard_Lock.esp
 Pat's SpellpackMod Classic.esp
 Pat's SpellpackMod NoIngredients.esp
 P1DsafeContainers.esp
+10Physic Magic effect ENG.esp
+10Physic Magic effect ITA.esp
+10phisic.esp
 PJs Disco Spell.esp
 PJs Spell Compendium - No Requirements.esp
 ? Use only one 'PJs Spell Compendium - X .esp.
@@ -7727,6 +7759,8 @@ Smite of Order.esp
 SpellDeflection.esp
 Stalk'em SI.esp
 TeachSpell.esp
+Teleport.esp
+? Requires OBSE.
 
 SD Skill Diary rus.esp
 
@@ -8269,6 +8303,8 @@ Deadly Reflex 5 - Timed block and 150% damage.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed Block and 250% damage.esp
 ? Use no more than one Timed Block ESP.
+Deadly Reflex 5 - Timed block and 1.5x damage.esp
+? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed Block and 2.5x damage.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
@@ -8652,6 +8688,7 @@ Item interchange - Option, Ingredients in Bulk, reduced.esp
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp
+Loading Quotes of AWESOME.esp
 
 ScriptEffectIconReplace.esp
 M.O.E. - Better Icon for Script Effects.esp
@@ -10067,6 +10104,7 @@ Get Wet - just droplets.esp
 Get Wet - no droplets.esp
 Get Wet.esp
 Get Wet v0.92.esp
+Get Wet Dark.esp
 [Hexaae] Get Wet v0.92.esp
 BubbleFx.esp
 ? Most likely incompatible with SM

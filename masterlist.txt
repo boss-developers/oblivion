@@ -92,7 +92,9 @@ Mart's Monster Mod for OOO.esm
 Waalx Animals & Creatures.esm
 ? Not fully compatible with other overhaul mods
 Diverse Wisps - Base.esm
+VASE - core.esm
 Gems and Gem Dusts.esm
+SoS Library.esm
 Enhanced Daedric Invasion.esm
 ORP.esm
 CyrodiilUpgradeResourcePack.esm
@@ -3957,6 +3959,7 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
 >Mart's Monster Mod - Diverse WaterLife.esp
 >Mart's Monster Mod - Diverse Wisps.esp
+>VASE - Cyrodiil for MMM.esp
 >MMM - Playable Undead Armors.esp
 >% {{BASH:Invent}}
 >MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
@@ -4085,6 +4088,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
 <Mart's Monster Mod - Diverse Wisps.esp
+<VASE - Cyrodiil for MMM.esp
 <MMM - Playable Undead Armors.esp
 <% {{BASH:Invent}}
 <MMM - Playable Undead Armors - Oblivion WarCry Compatability Patch.esp
@@ -4096,6 +4100,9 @@ FarmAnimalsofCyrodiil.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
 Diverse Wisps - for Vanilla.esp
 ? MMM users should use 'Mart's Monster Mod - Diverse Wisps.esp'.
+VASE - Vanilla Cyrodiil.esp
+? MMM users should use 'VASE - Cyrodiil for MMM.esp' instead.
+VASE - Vanilla SI.esp
 
 Mart's Monster Mod - Boar's Addon.esp
 ? Old, upgrade to MMM 3.7b3+
@@ -6978,6 +6985,7 @@ movablebodies.esp
 Music Controller.esp
 MYR_AyleidKing.esp
 MQSDone.esp
+MQ Consideration.esp
 
 \EndGroup\\
 
@@ -8426,6 +8434,7 @@ CLS-OldFriends-OBSE.esp
 RetroHealth.esp
 MagicBasedSkillProgression.esp
 SD Skill Diary.esp
+MasterSkillLvlAdjustment.esp
 
 Governing Attributes.esp
 Governing Attributes Overhaul.esp

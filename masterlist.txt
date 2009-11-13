@@ -1699,8 +1699,6 @@ Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
 
-MoreSuburbLife.esp
-
 Crowded Roads.esp
 Crowded Roads 7.esp
 Crowded Roads 15.esp
@@ -4985,11 +4983,13 @@ goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 Gottshaw.esp
 GP_Moretta.esp
+GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 GTAesgaard.esp
 GTAesgaard_delayer.esp
 GTAesgaard_2.esp
 Gates To Aesgaard 2 Delayer.esp
+GTAesgaard 1and2 Delayer.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
@@ -5230,9 +5230,11 @@ Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Madness' Hideout.esp
 Mag1cWind0w_The_Imperial_Water.esp
+MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
 MiniCyrodiil.esp
+Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
 MountainShack.esp
 mrSiikas_TheEmperorsTomb.esp
@@ -5331,6 +5333,7 @@ Player House.esp
 PlayerHomeNaheema.esp
 Players with Jobs.esp
 Pond Cottage.esp
+PotR.esp
 POVS2 v1.1.esp
 Praying Room.esp
 Priests of Akatosh -Ver 1.3-.esp
@@ -5369,6 +5372,7 @@ Region Revive - Lake Rumare - OOO LockBash.esp
 ReneersContainerMod.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
+RightingtheWrongs.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
 RomancingAhnassi.esp
@@ -5555,6 +5559,7 @@ treasure maps captus demus.esp
 Treasure Maps Meridias Womb.esp
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
 Treasure Maps Revenge Of The Nords.esp
+Trial of Achilles.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
 TheMistRetreat1.3_Original.esp
@@ -5909,6 +5914,10 @@ Ruin.esp
 ? FCOM requires 'FCOM_Ruin.esp'.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
+
+MoreSuburbLife.esp
+? If using RTT use MoreSuburbLife_RTT_patch.esp to prevent issues with the Wawnet Inn.
+MoreSuburbLife_RTT_patch.esp
 
 The Lost Spires.esp
 LostSpiresImpeREALFortsPatch2.esp
@@ -9684,7 +9693,6 @@ Better Cities - COBL.esp
 
 Better Cities and IC Rwalk.esp
 Better Cities and IC Swalk.esp
-TheOubliette.esp
 
 \BeginGroup\: Better Cities FPS Patches
 
@@ -9742,6 +9750,8 @@ TreeHomeIntLight-ChorrolHinterland patch.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
+
+TheOubliette.esp
 \EndGroup\\
 
 \BeginGroup\: Message suppression overrides

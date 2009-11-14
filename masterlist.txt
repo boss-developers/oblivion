@@ -2383,6 +2383,10 @@ GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 Grigors_Grimoires.esp
 Griffon Fortress 0.3.esp
+? Old, upgrade to version 0.5.
+Griffon Fortress 0.4.esp
+? Old, upgrade to version 0.5.
+Griffon Fortress 0.5.esp
 Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
@@ -3128,6 +3132,7 @@ UFF & ROBERT Cold Steel.esp
 UFF_CrimsonMidnight.esp
 UFF Mage Skin.esp
 UFF Warrior Skin.esp
+BAB & RM Assassin Elite Armor.esp
 Babarized Cryos Ordinator Lite.esp 
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -5389,7 +5394,7 @@ Quest Nirnroot.esp
 \BeginGroup\: Quests R
 
 Reaper's Coldstone Town.esp
-? Incomatible with Heart of the Dead.
+? Incompatible with Heart of the Dead.
 Reaper_Drakelowe's Witch.esp 
 Raiders of Cyrodil.esp
 RavenCragHome.esp
@@ -6009,7 +6014,7 @@ Shadowcrest_Vineyard_COBL.esp
 \
 \FCOM optional addon patches
 
-Mart's Monster Mod - City Defences.esp
+>Mart's Monster Mod - City Defences.esp
 
 FCOM_mightyumbra.esp
 ? Requires 'Mighty Umbra.esp'.

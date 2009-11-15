@@ -2913,7 +2913,8 @@ Knock Out Arrows.esp
 Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
-
+Robes Staves and Fists.esp
+? Requires OBSE. Not compatible with any mod that uses 'ModPCSpellEffectiveness'.
 \BeginGroup\: RealSwords
 
 RealSwords - Argonian HI-NPC.esp
@@ -5014,6 +5015,10 @@ Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
+Gold Road Cottage - Classy.esp
+? Use only one 'Gold Road Cottage - X.esp'.
+Gold Road Cottage - Rugged.esp
+? Use only one 'Gold Road Cottage - X.esp'.
 Gottshaw.esp
 GP_Moretta.esp
 GPPaleGoblins.esp
@@ -7258,6 +7263,7 @@ TurretDisable.esp
 
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
+GalerionTrueUnarmored-v20.esp
 university cosmetics.esp
 university cosmetics-no orrery dome.esp
 VisiblyUnlimited.esp
@@ -7596,6 +7602,7 @@ New Vampire Feeding Sound.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
+Twillith vampirism 1.7.esp
 Vampirismless Vampires.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
@@ -8801,6 +8808,8 @@ Cernasite - DragonEyes.esp
 % {{BASH:Eyes}} and deactivate.
 JCPeepers.esp
 % {{BASH:Eyes}} and deactivate.
+Koldorns Eys Mod.esp
+% {{BASH:Eyes}} and deactivate.
 Cat_eyes.esp
 % {{BASH:Eyes}} and deactivate.
 Cat_eyes_add.esp
@@ -8893,6 +8902,8 @@ Slof's Playable Xivilai.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
 Slof's Clouded Leopard.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
+Slof's Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 AinmhiRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -10340,6 +10351,8 @@ Slof's Manly Stride.esp
 SWalk.esp
 bgScriptEffectSilencer.esp
 NoScriptHitVisual.esp
+no_mouse_wheel.esp
+
 \EndGroup\\
 
 \BeginGroup\: Obsolete, Unsorted Duke Patrick's Mods

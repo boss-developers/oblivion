@@ -223,6 +223,12 @@ TNR - THE BOSMER.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - THE NORDS.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+TNR - THE ORCS.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+TNR - THE KHAJIIT.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+TNR - THE ARGONIANS.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - all.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR- All Races.esp
@@ -1039,6 +1045,8 @@ CNRP FightersGuild.esp
 ? With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
 % {{BASH:Invent}}
 CNRP FightersGuild4OOO.esp
+% {{BASH:Invent}}
+CNRP DB.esp
 % {{BASH:Invent}}
 
 cidnothump.esp
@@ -1951,6 +1959,8 @@ avarm.esp
 1Elven.esp
 1SBVampireOutfits.esp
 1SB_WarhammerWingedStaff.esp
+1SB Soulshade Sword.esp
+1SB_OrthaeSword.esp
 1SnowCamo.esp
 1RockCamo.esp
 1ForestCamo.esp
@@ -2332,6 +2342,7 @@ extavegant masks.esp
 Elegant Vests.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
+Eyren_AyleidWarrior.esp
 Excessor Sword.esp
 \EndGroup\\
 
@@ -2424,6 +2435,7 @@ Hentai Compilation.esp
 Hentai_Compilation.esp
 Hentai Mania.esp
 HentaiSummerFesta.esp
+Hentai_SnowFlower.esp
 
 HiddenSkulls.esp
 % {{BASH:Invent}}
@@ -2775,6 +2787,7 @@ spartanspears.esp
 SPARTAN VIs Ordinator Lite.esp
 Staff of Portals.esp
 Star Boi's Keyblades In-Game.esp
+SG004_Stargazer.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
 SteelHalberd.esp
@@ -2841,6 +2854,7 @@ mz_Shields.esp
 mz_Shields_SI.esp
 % {{BASH:Graphics,NoMerge}} and deactivate when using overhaul mods.
 
+Tona_ShadowWalker_v2.esp
 Town_Ceremonial_Armor.esp
 Travelers' Cloaks.esp
 Tsuguri.esp
@@ -3276,6 +3290,9 @@ HGEC_BodyGlove.esp
 HGEC_Rogue01.esp
 % {{BASH:Graphics}}
 HGEC_SBBewitching.esp
+Elegance_HGEC.esp
+Blackmarsh_Witch_HGEC.esp
+ShadowWatcher_HGEC_v2.esp
 Swim Suit Retextured By DH13 Part 3.esp
 Robed Panty.esp
 Opale armor for Exnem body.esp
@@ -3361,6 +3378,8 @@ Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
 Battle China Dress.esp
+R18PN - Amy Armor Set.esp
+R18PN - Ayumi Set.esp
 R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
 R18PN - Mizugi set.esp
@@ -4948,6 +4967,7 @@ ElsweyrRiverhold.esp
 Elven_Gardens_Apartment.esp
 Emeraldsvale_01c.esp
 The Emerald Isle.esp
+Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Ever-rest Glade reborn.esp
 Extended Imperial City.esp
@@ -7091,6 +7111,7 @@ Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
+ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
 Repair_Anytime-9384.esp
@@ -7358,10 +7379,6 @@ Feudal Empire 300.esp
 
 DurableEquipment_10.esp
 
-VVAdvanced.esp
-VVAdvanced-SI.esp
-P1DseeYouSleep - VVAdvanced.esp
-
 Wolvmans_Hidden_Unique_Merchant_Items.esp
 Cliff_RPO_NewBeginnings.esp
 Cliff_RPO_NewBeginnings_RPC.esp
@@ -7485,6 +7502,7 @@ RealisticRunning.esp
 _EnhancedFatigue_TLB_v0.1.esp
 901--Fixed- max carrying capacity.-TESSource.esp
 Carry all you want.esp
+Carry_all_you_want-5118.esp
 haz_encumbrance_x1.5.esp
 encumbrance.esp
 encumberancemodx10.esp
@@ -8729,8 +8747,8 @@ Arena betting.esp
 
 \BeginGroup\: Body and head changes
 \'''''''''''''''''''''
-
-BulkyNords.esp
+ArgonianBeautification-RaceSettings.esp
+BulkyNord.esp
 % {{BASH:Body-M,Body-F}} and deactivate.
 BulkyOrcs.esp
 % {{BASH:Body-M,Body-F}} and deactivate.
@@ -10268,6 +10286,10 @@ UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
+
+VVAdvanced.esp
+VVAdvanced-SI.esp
+P1DseeYouSleep - VVAdvanced.esp
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

@@ -1455,6 +1455,7 @@ P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
 PlaceableHeadstonesV4.2.esp
+Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
 Poisonous_Food-9719.esp
 Potable Pastiche.esp
@@ -2656,6 +2657,8 @@ playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
 PMCurioCeremonialRapier.esp
 polearms_1.0.7_EV.esp
+Polearms.esp
+Poleweaponsv1.1.esp
 Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
@@ -6005,6 +6008,7 @@ Ungarion1TheWelkyndSword.esp
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
+Blood&Mud - EE Patch.esp
 
 Lost Paladins of the Divines.esp
 
@@ -6347,6 +6351,7 @@ ThievesGrotto-ColovianHighlands patch.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp
+bartholm - EE patch.esp
 
 Oblivion Gate Map Marker Remover.esp
 
@@ -6440,6 +6445,8 @@ Open Better Cities SKINGRAD VARIANT.esp
 
 Reaper's_Open-B.C._Secret_Entry.esp
 \EndGroup\\
+
+Better Cities - House price patch.esp
 
 \BeginGroup\: Open Cities and Open Cities Complete
 \''''''''''''''''''''''''''''''''''''
@@ -7190,6 +7197,7 @@ Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 Short Grass V2.esp
 Short Grass V3.esp
+Short_Grass-2044.esp
 SetsunaDummyTraining.esp
 Sexual_Spriggan.esp
 ? Obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
@@ -7352,6 +7360,8 @@ CLS-CB-Cobl.esp
 CLS-Craftybits_A_Bloody_Mess-Glue.esp
 CLS-Craftybits_A_Bloody_Mess-Glue-Ragplacer.esp
 CLS-Craftybits Raw Material Supplier addon.esp
+
+Enhanced Economy - House prices.esp
 
 ACF ADVLOCKPICK MOLD.esp
 

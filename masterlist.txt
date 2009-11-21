@@ -201,6 +201,7 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 TRoN.esp
 TRoN Rwalk.esp
 TRoN Swalk.esp
+TRoN Vwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 \EndGroup\\
 
@@ -1500,12 +1501,17 @@ RealitySpectre'sBetterPotions.esp
 RealWalk.esp
 Oblivion Rwalk.esp
 Oblivion Swalk.esp
+Oblivion Vwalk.esp
 Oblivion_SI Rwalk Full.esp
 Oblivion_SI Swalk Full.esp
+Oblivion_SI Vwalk Full.esp
+Oblivion_SI Vwalk Full TNR.esp
 DLCShiveringIsles Rwalk.esp
-DLCShiveringIsles Rwalk DG_DS.esp
 DLCShiveringIsles Swalk.esp
+DLCShiveringIsles Vwalk.esp
+DLCShiveringIsles Rwalk DG_DS.esp
 DLCShiveringIsles Swalk DG_DS.esp
+DLCShiveringIsles Vwalk DG_DS.esp
 Better Cities ESM Rwalk.esp
 Better Cities ESM Swalk.esp
 Nude Swalk.esp
@@ -1852,6 +1858,7 @@ DLCOrrery.esp
 DLCOrrery - Unofficial Patch.esp
 DLCOrrery Rwalk.esp
 DLCOrrery Swalk.esp
+DLCOrrery Vwalk.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -1880,9 +1887,12 @@ NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
 % {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
-DLCMehrunesRazor Rwalk UOP.esp
+DLCMehrunesRazor Rwalk.esp
 DLCMehrunesRazor Swalk.esp
+DLCMehrunesRazor Vwalk.esp
+DLCMehrunesRazor Rwalk UOP.esp
 DLCMehrunesRazor Swalk UOP.esp
+DLCMehrunesRazor Vwalk UOP.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
 
@@ -2313,6 +2323,7 @@ DarkMithril.esp
 Deceiver's Armour.esp
 Divine Armor.esp
 DraconicSet.esp
+HGEC_Draconic_Armor.esp
 Dragon Buster.esp
 Dragon Scale Armor.esp
 dragon weapons.esp
@@ -3577,9 +3588,12 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 DLCThievesDen - Unofficial Patch.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
-DLCThievesDen Rwalk UOP.esp
+DLCThievesDen Rwalk.esp
 DLCThievesDen Swalk.esp
+DLCThievesDen Vwalk.esp
+DLCThievesDen Rwalk UOP.esp
 DLCThievesDen Swalk UOP.esp
+DLCThievesDen Vwalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
@@ -4828,6 +4842,7 @@ Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
 BrumaMGRestored Rwalk.esp
 BrumaMGRestored Swalk.esp
+BrumaMGRestored Vwalk.esp
 Buddah Mansion.esp
 BXX_Mines.esp
 \EndGroup\\
@@ -5202,6 +5217,8 @@ Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
 ? Obsolete as of All Natural v0.9.4. Safe to delete.
 Kvatch Rebuilt Rwalk.esp
+Kvatch Rebuilt Swalk.esp
+Kvatch Rebuilt Vwalk.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -5458,6 +5475,7 @@ RumarePriory.esp
 RumpleMod.esp \^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
 RumpleMod Swalk.esp
+RumpleMod Vwalk.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
@@ -5856,6 +5874,7 @@ FrostcragRebornCobl.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
 DLCFrostcrag Swalk.esp
+DLCFrostcrag Vwalk.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -5892,9 +5911,12 @@ WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
 % {{BASH:C.Light,Invent,Names,Relev,Stats}}
-Knights Rwalk UOP.esp
+Knights Rwalk.esp
 Knights Swalk.esp
+Knights Vwalk.esp
+Knights Rwalk UOP.esp
 Knights Swalk UOP.esp
+Knights Vwalk UOP.esp
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -6962,6 +6984,7 @@ kuerteeInventoryIsABackpack.esp
 
 \BeginGroup\: overrides L
 
+Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Leviathan Soulgems.esp
 Leviathan Trophy Soulgems.esp

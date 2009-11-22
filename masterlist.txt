@@ -238,10 +238,12 @@ TNR ALL RACES FINAL.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - ALL RACES FINAL.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+TNR ALL RACES FINAL Vwalk.esp
 TNR - ShiveringIsles.esp
 % {{BASH:NpcFaces,Invent,NoMerge}} and deactivate.
 TNR - ShiveringIsles no helms.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+TNR - ShiveringIsles no helms Vwalk.esp
 Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TweakedGenericFaces.esp
@@ -254,16 +256,23 @@ Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_NiceOnly Vwalk.esp
 Beautiful_Women_DB_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_DB_Addon Vwalk.esp
 Beautiful_Women_NotSoNice_Bonus.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_NotSoNice_Bonus Vwalk.esp
 Beautiful_Women_SI.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_SI Vwalk.esp
 Beautiful_Women_Vampires.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_Vampires Vwalk.esp
 Beautiful_Women_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_Vampires_50 VWak.esp
+Beautiful Women Vwalk Full.esp
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Handsome_Gents_DB_Addon.esp
@@ -286,6 +295,7 @@ LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
+Colourwheels Sexy Female NPCs Vwalk.esp
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes
@@ -6215,6 +6225,7 @@ EtInArkay-ColovianHighlands patch.esp
 xulChorrolHinterland.esp
 xulChorrolHinterland Rwalk.esp
 xulChorrolHinterland Swalk.esp
+xulChorrolHinterland Vwalk.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
 TheOrderofNibenay-Chorrol Hinterland patch.esp
@@ -6256,6 +6267,7 @@ NNWARE1_Dungeon05ULPatch.esp
 xulbravilbarrowfields.esp
 xulbravilbarrowfields Rwalk.esp
 xulbravilbarrowfields Swalk.esp
+xulbravilbarrowfields Vwalk.esp
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
 Suliin-BravilBarrowfields patch.esp
@@ -6307,6 +6319,7 @@ xulRollingHills_EV_withoutWheat.esp
 xulRollingHills_EV.esp
 xulRollingHills_EV Rwalk.esp
 xulRollingHills_EV Swalk.esp
+xulRollingHills_EV Vwalk.esp
 TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
 BeldaElysium-RollingHills patch.esp
@@ -6325,6 +6338,7 @@ xulBrenaRiverRavine.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 xulBrenaRiverRavine Rwalk.esp
 xulBrenaRiverRavine Swalk.esp
+xulBrenaRiverRavine Vwalk.esp
 Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
@@ -6352,6 +6366,7 @@ LtPD+NRB4+UL-II Patch.esp
 
 xul Rwalk Full.esp
 xul Swalk Full.esp
+xul Vwalk Full.esp
 \EndGroup\\
 
 \BeginGroup\: Post UL, Pre BC
@@ -6757,6 +6772,7 @@ CloudRulerTrainingRoom.esp
 Cobl Hmm.esp
 Cobl Bookplacement.esp
 Colourwheels Sexy Imperial Legion.esp
+Colourwheels Sexy Imperial Legion Vwalk.esp
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 Compass-Disable_POIs.esp
@@ -9274,6 +9290,7 @@ Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 Companion Neeshka Rwalk.esp
 Companion Neeshka Swalk.esp
+Companion Neeshka Vwalk.esp
 companion_moonelves.esp
 companion.esp
 Custom NPCs for CSR.esp
@@ -9579,7 +9596,9 @@ EVE_KhajiitFix.esp
 Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
+Better Cities Full Rwalk.esp
 Better Cities Full Swalk.esp
+Better Cities Full Vwalk.esp
 
 Better Cities IC Districts.esp
 
@@ -9801,6 +9820,7 @@ Better Cities IC Waterfront.esp
 Better Imperial City.esp
 Better Imperial City Rwalk.esp
 Better Imperial City Swalk.esp
+Better Imperial City Vwalk.esp
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 
@@ -9812,6 +9832,7 @@ Better Cities - COBL.esp
 
 Better Cities and IC Rwalk.esp
 Better Cities and IC Swalk.esp
+Better Cities and IC Vwalk.esp
 
 \BeginGroup\: Better Cities FPS Patches
 
@@ -10335,12 +10356,14 @@ Viconia.esp
 ? Do not run with ViconiaChapterTwo.esp.
 Viconia Rwalk.esp
 Viconia Swalk.esp
+Viconia Vwalk.esp
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.
 ViconiaChapterTwo Rwalk.esp
 ViconiaChapterTwo Swalk.esp
+ViconiaChapterTwo Vwalk.esp
 UnderdarkMap.esp
 
 Open Cities Road Record.esp

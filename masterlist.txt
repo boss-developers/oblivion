@@ -549,6 +549,7 @@ Zira's Horse Theme Loadscreens.esp
 _Real_Lights.esp
 ? Accidentally disables the Umbacano branch of The Collector quest - edit to remove the MS21statuescript script changes to fix this.
 ? All Natural's Real Lights implementation doesn't suffer from this.
+? Causes save game bloating - recommend either using All Natural or removing this.
 
 oc_darker_nights.esp
 ? Not compatible with weather overhauls.

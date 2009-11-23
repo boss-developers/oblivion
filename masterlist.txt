@@ -4792,6 +4792,8 @@ Battle4Morrowind.esp
 ? Not compatible with anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
 Beginners_Dungeon.esp
+Beautiful Watch.esp
+? May conflict with OOO/FCOM.
 BeldaElysium.esp
 1209-Beneath The Wall-TESSource.esp
 BenirusManorRebuilt.esp
@@ -5719,6 +5721,10 @@ Viking Village.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
+Vypers Arrow Spells-SI.esp
+? Incompatible with Better Cities.
+Vypers Arrow Spells.esp
+? Incompatible with Better Cities.
 \EndGroup\\
 
 \BeginGroup\: Quests W
@@ -6171,6 +6177,8 @@ FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
 A Imperial Outpost - Fort Novi Sad.esp
+
+Reaper's Waterfront.esp
 
 ReclaimSancreTor.esp
 \EndGroup\\
@@ -8819,6 +8827,8 @@ JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
 EyelashesVanillaRaces.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
+EyelashesVannilaRaces.esp
+% {{BASH:NpcFaces,Graphics}} and deactivate.
 EyelashesForVanillaRaces1.0.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
 Jjiinx_MorrowindStyleArgonians.esp
@@ -10327,6 +10337,7 @@ Shining Flame Atronachs.esp
 Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
+Shining Creatures.esp
 \EndGroup\\
 
 \EndGroup\\

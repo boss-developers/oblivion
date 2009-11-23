@@ -4663,12 +4663,14 @@ AbuEmir01.esp
 ? Requires Shivering Isles
 Adaman Fortress.esp
 AdenseEpicDungeon.esp
-? Old, update to AdenseEpicDungeon1_3.esp.
+? Old, update to AdenseEpicDungeon1_4.esp.
 AdenseEpicDungeon1_1.esp
-? Old, update to AdenseEpicDungeon1_3.esp.
+? Old, update to AdenseEpicDungeon1_4.esp.
 AdenseEpicDungeon1_2.esp
-? Old, update to AdenseEpicDungeon1_3.esp.
+? Old, update to AdenseEpicDungeon1_4.esp.
 AdenseEpicDungeon1_3.esp
+? Old, update to AdenseEpicDungeon1_4.esp.
+AdenseEpicDungeon1_4.esp
 / Yay for renaming esp at every version.
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
@@ -5337,6 +5339,7 @@ MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
 MountainShack.esp
+MrPwner's Ambient Churches.esp
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
@@ -6355,6 +6358,7 @@ NakedNord.esp
 xulImperialIsle.esp
 xulImperialIsle Rwalk.esp
 xulImperialIsle Swalk.esp
+xulImperialIsle Vwalk.esp
 
 xulBlackwoodForest.esp
 
@@ -6562,6 +6566,8 @@ III-LeyawiinRebornPatch.esp
 
 \BeginGroup\: Quests and Locations 5
 \----------------------
+CityBeautificationProject - All Completed + Anvil Harbour.esp
+CityBeautificationProject - All Completed No Anvil Harbour.esp
 
 III-MountainShackPatch.esp
 III-RoadBridgesPatch.esp
@@ -7322,6 +7328,7 @@ StackableEquipment.esp
 StackableOblivion.esp
 
 StarX Vampire Deaths.esp
+stickierenemytargeting.esp
 \EndGroup\\
 
 \BeginGroup\: overrides T
@@ -7675,6 +7682,7 @@ Roughing It.esp
 
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
+? Obselete, consider upgrading to Ashes to Ashes version 1.0+
 
 StarX Vanilla Vampires Revised.esp
 ? Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
@@ -7739,7 +7747,7 @@ Duke Patricks Nosferatu Vampires.esp
 Duke Patricks - Nosferatu Class Vampires.esp
 % {{BASH:Sound}}
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
-
+? Obselete, consider upgrading to Ashes to Ashes version 1.0+
 LithiansNatureOfTheBeastModBeta.esp
 \EndGroup\\
 
@@ -9480,6 +9488,7 @@ bgAddEnVarStandAloneEV.esp
 Bound_Arrows_with_Bow.esp
 CzBuyToggleNightEye.esp
 Conjuration Mastery.esp
+HippoNoStarterSpells.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use

@@ -718,6 +718,8 @@ Atmospheric Oblivion.esp
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
 Soundscaper.esp
+al-smm7.esp
+al-smm7-ru.esp
 PowerAttack Voicemod.esp
 ? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
 ? Will cause OOO's Lock Bashing to fail if loaded after OOO.
@@ -2047,6 +2049,7 @@ ArmorOfTheFallen.esp
 Armory of the Silver Dragon.esp
 Armor of Gaia.esp
 ArmorofKyrai.esp
+Auras.esp
 
 Armor of Heaven's Fury-Gold-Heavy-Alt-helm.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
@@ -5385,6 +5388,7 @@ NecroHideOut.esp
 Necromancer Shop.esp
 Nerussa The Wine Collector v1.0.esp
 NewSheothManor.esp
+NNICTunnel.esp
 
 Nascosto Isles 3.esp
 All Natural - Nascosto Isles Weather Patch.esp
@@ -7684,6 +7688,25 @@ Roughing It.esp
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
 ? Obselete, consider upgrading to Ashes to Ashes version 1.0+
+
+MHE v2 Tail.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
+MHE v2.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
+MHE v2 - UFF&Robert Tail.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
+MHE v2 - UFF&Robert.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
+MHE v2 - Exnem&Robert Tail.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
+MHE v2 - Exnem&Robert.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+? Use only one MHE v2 esp
 
 StarX Vanilla Vampires Revised.esp
 ? Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).

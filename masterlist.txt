@@ -4680,6 +4680,7 @@ Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
+AkaviriSamuraiShop.esp
 A Qrazy Quest.esp
 AL_Maverick.esp
 ALTshack02.esp
@@ -5212,6 +5213,7 @@ JSRandomTasks.esp
 \BeginGroup\: Quests K
 
 KarewManor.esp
+Katana Store v2.0.esp
 Kats Better Rosethorn Hall.esp
 Keys & Furniture Papers Box.esp
 kikaiNocturnalTorch.esp
@@ -5404,11 +5406,17 @@ nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 
 NNWAREAyleidDungeons_Series1EV.esp
+NNWAREAyleidDungeons_Series1DV.esp
 NNWARE01EV-Sercen.esp
 NNWARE02EV-Trumbe.esp
 NNWARE03EV-Piukanda.esp
 NNWARE04EV-Veyond.esp
 NNWARE05EV-Bawn.esp
+NNWARE01-Sercen.esp
+NNWARE02-Trumbe.esp
+NNWARE03-Piukanda.esp
+NNWARE04-Veyond.esp
+NNWARE05-Bawn.esp
 \EndGroup\\
 
 \BeginGroup\: Quests O

@@ -132,6 +132,7 @@ Adrenaline Locational Masterfile.esm
 CLS-craftybits.esm
 A_Bloody_Mess.esm
 Horadric Cube.esm
+StaticRepairItems.esm
 UHK.esm
 DA Run Fatigue.esm
 ? Requires OBSE v9a or higher
@@ -1001,6 +1002,8 @@ bnmDLTIC-1-6.esp
 ? Probably not OOO compatible - drop lit torches already integrated.
 nmDLTIC-1-6.esp
 ? Probably not OOO compatible - drop lit torches already integrated.
+bDLTIC-1-6.esp
+DLTIC-1-6.esp
 BTMM.esp
 Brighter_Torches.esp
 BrighterTorches_v1.2.esp
@@ -2773,6 +2776,8 @@ Sin's Expanded Light Armor Kit [NPC].esp
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
+Skooma_Water_Pipe.esp
+SkoomaPipeMod.esp  
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
 Slof's & Orc's Armours.esp
@@ -4676,6 +4681,8 @@ AdenseEpicDungeon1_3.esp
 ? Old, update to AdenseEpicDungeon1_4.esp.
 AdenseEpicDungeon1_4.esp
 / Yay for renaming esp at every version.
+Adrift.esp
+Adventurers farm.esp
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Abandoned Mania Camp.esp
@@ -5542,6 +5549,7 @@ Shivering Farm.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
+Simple Cabin.esp
 SingingStablehandInn.esp
 skingrad guild castle upgrade.esp
 SkingradHouseAdds.esp

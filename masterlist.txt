@@ -2197,6 +2197,8 @@ blacktempler+HT.esp
 Blakeley’s Lachrymal Bow.esp
 BladeofWoe.esp
 % {{BASH:Graphics}}
+javbs_mod.esp
+% {{BASH:Graphics,Invent}}
 Blades Ceremonial Armour.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Banes Archer Paradox.esp
@@ -4710,6 +4712,7 @@ AlchemistsCave-COBL.esp
 allinonebasement.esp
 Alexandria.esp
 AleswellMerchant Cobl.esp
+AleswellMerchant Cobl SI.esp
 Aleswell House.esp
 AyleidMarket.esp
 AyleidQuest.esp
@@ -4863,6 +4866,8 @@ BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
 Bravil Docks.esp
 ? Not compatible with Better Cities. Already included in Better Cities Bravil.
+Bravil House For Sale Upgrade.esp
+Bravil House For Sale Upgrade - COBL Compatibility Patch.esp
 Bravil Store Upgrade.esp
 BravurasBarrel.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
@@ -5012,6 +5017,7 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
 DukeCity.esp
+Dungeo Forgotten Tower.esp
 
 DarkDale.esp
 
@@ -6097,6 +6103,7 @@ Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
 Blood&Mud - EE Patch.esp
+Blood&Mud Vwalk.esp
 
 Lost Paladins of the Divines.esp
 
@@ -8108,6 +8115,7 @@ Pestilent_Afflictions-DV.esp
 Pestilent Afflictions1.5-DV.esp
 Deadly Diseases.esp
 Jjiinx_Enhanced Diseases.esp
+Jjiinx_Enhanced Disease.esp
 Vector.esp
 
 sr_casting_hand.esp
@@ -8186,6 +8194,7 @@ Alchemy Expansions - Poison Combiner.esp
 Alchemy Expansions - Poison Maker.esp
 Alchemical Formulas.esp
 BoneGrind.esp
+GrindBones.esp
 GrindBones_SI.esp
 ZBoneGrinder.esp
 CLS-AlchemyTools.esp
@@ -8750,13 +8759,14 @@ Wrye Leveling.esp
 SaveSkillTrainingForLater.esp
 \EndGroup\\
 
-\BeginGroup\: Pose mods
+\BeginGroup\: Pose and Animation Mods
 \'''''''''
 \
 \Scripts and new animations.
 
 Mayu's Animation Overhaul.esp
 ? Highly recommended to use the MAO patcher in Wrye Bash version 275+
+zzEDialog.esp
 
 Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
@@ -8943,6 +8953,8 @@ _Ren_BeautyPack_onlyhairs.esp
 KDshorthair.esp
 % {{BASH:Hair}} and deactivate.
 Saram_Corean_NPC_Hair_1_0.esp
+% {{BASH:Hair}} and deactivate.
+ZBRE.esp
 % {{BASH:Hair}} and deactivate.
 ZelsHairfixRenshairV1_5.esp
 % {{BASH:Hair}} and deactivate.
@@ -10124,6 +10136,7 @@ BNewShockEffects.esp
 Detect Life Shader.esp
 Detect Life Shader [New].esp
 DS Flaming Arrows.esp
+fog.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
 ? Only activate one Life Detected esp at a time.

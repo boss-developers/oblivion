@@ -992,6 +992,7 @@ Books-FirstEditionGuidetotheEmpire.esp
 BookTrackerOBSE.esp
 Book Collection.esp
 Bookofthedead.esp
+Books of Console v1.esp
 Book- - Brotherly Betrayal.esp
 David_Whitefang_Book_One.esp
 Bosmer Meat Mandate.esp
@@ -1019,7 +1020,7 @@ Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 Carcernus Prison.esp
 CharGenAmulet.esp
-
+CWar's Chest of Fun v1.4.esp
 007camera.esp
 ChaseCameraMod.esp
 CET-Utility-Belt.esp
@@ -1372,6 +1373,7 @@ M.O.E. - Undermined Leveled Gameplay - Item Edition.esp
 ? Not overhaul mod compatible (Fran's, OOO, MMM, FCOM).
 Moist - Gate Room.esp
 Morrowindbooks.esp
+Morrowind Jewelry.esp
 More_Animals.esp
 ? Content already added by MMM.
 More Drinks.esp
@@ -2036,6 +2038,8 @@ ANB_Emerald_Sorceress_Armor.esp
 ANB_Portable_Bedroll.esp
 ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
+Animated Weapons-JX3.esp
+Adamant Set.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Arcana Infinium.esp
@@ -2274,7 +2278,7 @@ DBShadowSet_Argonian_NE.esp
 ? Only use one DBSHadow Set esp
 DBShadowSet_Khajiit_NE.esp
 ? Only use one DBSHadow Set esp
-
+Daedric Chainsaw.esp
 Daedric_Katana_0.4_leveled_only.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
 Daedric_Katana_0.4_vendors_and_leveled.esp
@@ -2911,6 +2915,7 @@ UU! Female Undies NPCs.esp
 ? Consider upgrading to version 4.2.1+.
 UU_Female_Undies.esp
 UFF Armour of HadesRU.esp
+Ultimate Zelda Mod.esp
 \EndGroup\\
 
 \BeginGroup\: Items V
@@ -4795,7 +4800,7 @@ Banes Bruma Merchant Upgrade.esp
 Red Diamond Jewelry.esp
 Banes Anvil Merchant Upgrade.esp
 Banes Chorrol Store Upgrade.esp
-
+Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
@@ -4849,7 +4854,7 @@ BlackRockManorV11.esp
 
 Blackrock_Mountain-4489.esp
 5726-2.0 Final-Blackrock Mountain-TESSource.esp
-
+Bottomless Cavern.esp
 Blacktache's Secrets 3.esp
 Blitz's Dungeons & Realms- Molag Fel.esp
 Boqwater_Settlement_V103.esp
@@ -4888,6 +4893,7 @@ Cathedral Improver.esp
 castledarkshard.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
+CaveOfLostSouls V1.esp
 Chateau_Domrose_V.1.2.1-Fr.esp
 ? French Version.
 Castle_Dunkerlore_V1.esp
@@ -4941,6 +4947,7 @@ CS_PaperParched.esp
 CastawayIsles.esp
 Chinese Weapons.esp
 CompleteMagePack.esp
+CryptofDecay.esp
 \EndGroup\\
 
 \BeginGroup\: Quests D
@@ -4956,6 +4963,7 @@ DBSRebuiltComplete.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
 DarksullTower1point1.esp
+Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
@@ -5057,6 +5065,11 @@ Fort Falkenshire.esp
 Fort Krakatus.esp
 Fort_FerrionV11.esp
 Fort Tempest.esp
+FortMalice.esp
+Fort_Krakatus-8431.esp
+Fort Charrish v.1.1.esp
+Fort Baltsine - Combat Version.esp
+Fallen_forts-5113.esp
 FortDragonShirev1.esp
 Frostmourne.esp
 Frostmourne-DV.esp
@@ -5115,6 +5128,7 @@ GM's Deadly Oblivion Overhaul Full.esp
 
 \BeginGroup\: Quests H
 
+hallofthemountainking.esp
 hackdirtabyss.esp
 HackdirtCaverns.esp
 Halcyon House.esp
@@ -5453,6 +5467,7 @@ PinePeakLodge.esp
 Pinevale.esp
 Pit Trap.esp
 PirateIsland.esp
+Pirates Grave V1.1.esp
 Player House.esp
 PlayerHomeNaheema.esp
 Players with Jobs.esp
@@ -5500,6 +5515,7 @@ Philips_Prison_Mod-7330.esp
 RightingtheWrongs.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
+Rivana Ayleid Ruine.esp
 RomancingAhnassi.esp
 Romuska Fantasy Store.esp
 Rosethorn Hall Necrmancy Study.esp
@@ -5509,6 +5525,7 @@ Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
+RuinsOfBrenfa.esp
 RumarePriory.esp
 RumpleMod.esp \^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
@@ -5680,6 +5697,7 @@ FCOM_Stirk.esp
 Transmutation.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
+Treasure_Dungeon-8846.esp
 Treasure Maps Blood Ransom.esp
 Treasure Maps_Boethia's Burden.esp
 treasure maps captus demus.esp

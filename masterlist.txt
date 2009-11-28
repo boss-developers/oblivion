@@ -1882,6 +1882,7 @@ SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 ? Make sure you have the latest version from C&C&EQR
+? if using the merged SM Plugin Refurbish, move to load after that.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 ? Not the latest version, the latest version has the same file names as the previous version. Update.
 NLF Orrery.esp
@@ -5546,6 +5547,7 @@ rayearth.esp
 
 Sakveed Manor.esp
 Salan's Cellar.esp
+SamuraiHouse.esp
 Sanguine.esp
 Sanguinenorob.esp
 SaveWaterEdgeEng.esp
@@ -5623,6 +5625,7 @@ SSS_1.0.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
+swamp home cobl.esp
 Sylar0712_ICAgarmirHouse.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\

@@ -2036,6 +2036,7 @@ ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
+ANBHuntersCoat.esp
 ANB_Portable_Bedroll.esp
 ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
@@ -2500,6 +2501,9 @@ IvyArmor_Full.esp
 Jade Dishes.esp
 javrmb.esp
 javbmb.esp
+JCapes!20.esp
+JCapesBonus.esp
+% {{BASH:Invent}}
 Jedi LightSabers with Sound.esp
 ? Requires OBSE
 JG Elven.esp
@@ -2838,6 +2842,7 @@ Spears of Cyrodiil.esp
 Spirit of Doom.esp
 Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
+SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
 \EndGroup\\
@@ -2866,6 +2871,8 @@ The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
 % {{BASH:Invent}}
 The One Ring.esp
+The SilverDragonArmorQuest.esp
+% {{BASH:Invent}}
 The Sword of Cyrodiil.esp
 The Sword of Truth.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
@@ -2881,6 +2888,7 @@ trfjEmpireGreatsword.esp
 trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
+TTB.esp
 Tyrael Armor.esp
 Templer-Armor.esp
 The Soul Reaver.esp
@@ -6736,8 +6744,6 @@ Archnamage's Chest For SI.esp
 Arch Mage Chest Remake OBSE.esp
 Arch_Mages_Robe_Enchanted_--_Master_Level-2205.esp
 ArgonianSwiftSwim - Leopard.esp
-Argonians and Khajiit Lose Tails no More Script.esp
-Argonians and Khajiit Lose Tails no More.esp
 Armor-Long -TESSource.esp
 Assassin Tripwires.esp
 Assassin Tripwires DBSR.esp
@@ -7342,6 +7348,7 @@ Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
 ? Don't need to use this if you use MMM as it already includes dogs.
+SM Essential Kills.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 SPTDiverseGuards.esp
@@ -7462,6 +7469,8 @@ za_less_NPC_conversations.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late
+Argonians and Khajiit Lose Tails no More Script.esp
+Argonians and Khajiit Lose Tails no More.esp
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.

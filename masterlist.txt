@@ -422,10 +422,13 @@ Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
 
+MOBS.esp
+% {{BASH:Stats}} and deactivate.
 MOBS SI.esp
-% {{BASH:Stats}}
+% {{BASH:Stats}} and deactivate.
 OMOBS_SI.esp
-% {{BASH:Stats}}
+% {{BASH:Stats}} and deactivate.
+MOBS Optional Combat Settings.esp
 MOBS SI Optional Combat Settings.esp
 
 PMVisibleMapMarkers-ShiveringIsles.esp
@@ -507,7 +510,7 @@ MrSiikaRabbitsforFrans.esp
 \BeginGroup\: Loading Screen Alternatives
 \---------------------------
 \
-\Unlikely to interact with other mods but OOO will overwrite if not correctly Bash Patched.
+\Unlikely to interact with other mods but OOO will overwrite vanilla replacers if not correctly Bash Patched.
 
 Atmospheric Loading Screens.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -532,6 +535,7 @@ BlackLoadNoTip.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Zira's Horse Theme Loadscreens.esp
 % {{BASH:Graphics}} if using overhaul mods.
+LoadingScreensRemade.esp
 \EndGroup\\
 
 \BeginGroup\: Base Mods
@@ -1482,6 +1486,7 @@ Poisonous_Food-9719.esp
 Potable Pastiche.esp
 Posters.esp
 Pitchable_Tent_anywhere.esp
+Poisonous Apple for poison fix.esp
 Portable Campsite.esp
 Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
@@ -1518,6 +1523,7 @@ RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
 RealitySpectre'sBetterPotions.esp
 %{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
+
 RealWalk.esp
 Oblivion Rwalk.esp
 Oblivion Swalk.esp
@@ -1546,6 +1552,7 @@ RendricNPC(0.21).esp
 ReneerCreatureMod.esp
 ReneersNotesMod.esp
 ReneerDialogMod.esp
+Reset the Blood Decal Variable.esp
 
 Reznod_Mannequin.esp
 Practice_Dummy0.9.5.esp
@@ -4656,6 +4663,8 @@ Anvil Merchant Galley Houseboat v1.0.esp
 
 \BeginGroup\: Quests #
 
+007 Market district fps boost.esp
+? Probably incompatible with Better Cities.
 00RBScribeSupplies Intensive.esp
 ? Use only one 00RBScribeSupplies mod at a time.
 00RBScribeSupplies02, read summary.esp
@@ -4764,6 +4773,7 @@ Anvil_MorningGloryBetterCities_Purple.esp
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
 
+AoshisStealthEntrancesUL.esp
 Aqvatika.esp
 Aqua_City_01.esp
 ? Requires Shivering Isles
@@ -4915,6 +4925,7 @@ Capsized Ship.esp
 Champion's Mansion.esp
 CityofSunevV058.esp
 Colossus_01.esp
+CottageInColoviaV1.6.esp
 CountryHome.esp
 CalairCastle.esp
 Cathedral Improver.esp
@@ -5487,6 +5498,7 @@ One Stop Armors.esp
 000lute.esp
 OCC-OSMS-Patch.esp
 OrangeroadCottage.esp
+Orange Road Cabin.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
@@ -5654,6 +5666,7 @@ Sutch Reborn.esp
 SSS_1.0.esp
 ? Requires Shivering Isles.
 ? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
+Star's Rest.esp 
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
@@ -5842,6 +5855,7 @@ Weye.esp
 Weye_Manor.esp
 WeyeHouse.esp
 Windfall.esp
+Window Entrances 1.0.esp
 
 WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
@@ -6060,6 +6074,8 @@ Consequences_Knights.esp
 Consequences_Vile.esp
 
 EiAmod_Knights.esp
+Knights Essential.esp
+Knights Companion Quarters.esp
 
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
@@ -6685,6 +6701,13 @@ FCOM_UnofficialFranArmorAddon.esp
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 ? requires 'New NPC Clothes 2.6'.
+KS - Cities FPS Boost.esp
+? Probably Better Cities incompatible.
+KS - Imperial FPS Boost.esp
+? Probably Better Cities incompatible.
+KS - Kvatch FPS Boost.esp
+? Probably Better Cities incompatible.
+
 \EndGroup\\
 
 \BeginGroup\: Post City
@@ -7161,6 +7184,7 @@ Mimics-CloudtopMountains patch.esp
 MIEO.esp
 MIEO-lvl.esp
 MIEO-lvl-ae.esp
+MIEO-ae.esp
 more books teach.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
@@ -7809,6 +7833,10 @@ KT_VampSightToggleNoEff.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
 Twillith vampirism 1.7.esp
+? Old upgrade to 'Twillith vampirism.esp'.
+Twillith vampirism 1.71.esp
+? Old upgrade to 'Twillith vampirism.esp'.
+Twillith vampirism.esp
 Vampirismless Vampires.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
@@ -8489,6 +8517,7 @@ erics_triple_damage_fast_for_archers.esp
 erics_double_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
 Fiery Fists v1.2.esp
+GM's Archery Rebalance.esp
 WB Dynamic Weapon Speeds.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
@@ -8504,6 +8533,9 @@ More_Arrows_Recovered.esp
 ? Use Wyre Bash's Bashed Patch Tweaks instead where possible.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
+mighty_bows_damage_bonus.esp
+% {{BASH:Stats}}
+
 Better Hand to Hand.esp
 JM's Bar Fights mortal.esp
 ? Pick and use only 1 of the 2 JM's Bar Fight mod files.
@@ -8671,6 +8703,7 @@ OOO-Intelligence Overhaul BJ.esp
 SniperSneakSkillup.esp
 AFLevelMod.esp
 AFUninstall.esp
+Balor Leveling - Vehem Edition.esp
 
 Kobu's Character Advancement System.esp
 Kobu’s Character Advancement System (MM Version).esp
@@ -8698,6 +8731,7 @@ nGCD Birthsigns.esp
 nGCD Character Generation.esp
 nGCD Oghma Infinium.esp
 nGCD Skeleton Key.esp
+ExperienceTraining1.1(nGCD).esp 
 
 Progress.esp
 ProgressGSD.esp

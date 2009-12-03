@@ -423,12 +423,11 @@ Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
 
 MOBS.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats}}
 MOBS SI.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats}}
 OMOBS_SI.esp
-% {{BASH:Stats}} and deactivate.
-MOBS Optional Combat Settings.esp
+% {{BASH:Stats}}
 MOBS SI Optional Combat Settings.esp
 
 PMVisibleMapMarkers-ShiveringIsles.esp
@@ -1209,6 +1208,8 @@ Fatality Cam.esp
 Female Lich.esp
 Fish!.esp
 Fish! - v1.1.esp
+FrbitPotionReplacer.esp
+% {{BASH:Graphics,Names}}
 fwDropGold.esp
 \EndGroup\\
 
@@ -9467,6 +9468,7 @@ Companion Neeshka Rwalk.esp
 Companion Neeshka Swalk.esp
 Companion Neeshka Vwalk.esp
 companion_moonelves.esp
+companion_chocolate.esp
 companion.esp
 Custom NPCs for CSR.esp
 Dogmeat Companion.esp
@@ -9566,6 +9568,15 @@ DATiamsGirls.esp
 Merina.esp
 % {{BASH:Hair,Eyes}}
 Isrithr.esp
+% {{BASH:Hair,Eyes}}
+Midas CDM partners Beasts.esp
+DADark Seducers.esp
+% {{BASH:Hair,Eyes}}
+DAGolden Saint.esp
+% {{BASH:Hair,Eyes}}
+DALineage2Elves.esp
+% {{BASH:Hair,Eyes}}
+DAMerpeople.esp
 % {{BASH:Hair,Eyes}}
 \EndGroup\\
 

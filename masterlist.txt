@@ -1454,6 +1454,7 @@ OSRCustom.esp
 \BeginGroup\: Base P
 
 Packhorses v1.esp
+passive_horses.esp
 personality_idles2.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
@@ -1948,6 +1949,7 @@ Male Body Replacer.esp
 % {{BASH:Body-M,Graphics}}
 MaleBodyReplacer.esp
 % {{BASH:Body-M,Graphics}}
+MaleBodyReplacerV5Beta.esp
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
@@ -2230,6 +2232,7 @@ Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
 CarsomyrSword.esp
+Catsuit.esp
 CET_DwemerPrecisionBow_v2.esp
 Classic Books.esp
 Classic-Wizard-Robes-UL.esp
@@ -2261,6 +2264,7 @@ crimson dagger.esp
 ? Due to a poorly written script unless this mod is the second mod loaded (i.e no esms except for OB) the player will never get the weapon
 ? To get the weapon open the console and enter  player.additem xx000ED3 where xx is the hexadecimal mod index (LO number).
 crusadercg.esp
+% {{BASH:Invent}}
 Crystalline Sword.esp
 CrystalStaff.esp
 Cy.esp
@@ -2337,6 +2341,7 @@ Dragon Knight Armor v. 1.1.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
+Nicos Dreadweave Armor_Light.esp
 Nico's Dreadweave Bow and Arrows.esp
 dwr.esp
 % {{BASH:Invent}}
@@ -2403,6 +2408,7 @@ FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
 Flamberge.esp
+Fur Cape.esp 
 \EndGroup\\
 
 \BeginGroup\: Items G
@@ -2441,6 +2447,7 @@ Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
 GrayFoxArmor.esp
+Noviere's Gray Fox Armor.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
@@ -2464,6 +2471,7 @@ Hel Borne's Chitin Armor Weapons.esp
 Hel Borne Spear Set.esp
 HelmetCollection.esp
 HellSpawnDaedric for Exnem.esp
+Hell'sExecutioner.esp
 
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
@@ -2547,6 +2555,7 @@ kimono_tiberias_v1.esp
 
 LadiesOrcish.esp
 Lady Jasmine Moon.esp
+lam.esp
 LD - New Arrows.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
@@ -2731,6 +2740,7 @@ Ring of Sunwalker V1.35.esp
 RingwraithArmorMithril.esp
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
+Rotating Mace.esp
 Royal Daedric Armor.esp
 Rum1.esp
 Running4Cover's Welkynd Armors - Free.esp
@@ -2752,6 +2762,7 @@ Saint Hiryu's Artifacts.esp
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
+Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
@@ -4708,6 +4719,7 @@ Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 A Qrazy Quest.esp
 AL_Maverick.esp
+Along Came A Spider.esp
 ALTshack02.esp
 SKY.esp
 house.esp
@@ -4718,6 +4730,7 @@ Adult_BookStore.esp
 adTreeHome.esp
 Adventures Gear.esp
 AkaviriKojima.esp
+AlchemistsCave.esp
 AlchemistsCave-COBL.esp
 allinonebasement.esp
 Alexandria.esp
@@ -5148,6 +5161,7 @@ hallofthemountainking.esp
 hackdirtabyss.esp
 HackdirtCaverns.esp
 Halcyon House.esp
+Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
 Harpsichords in Cyrodiil.esp
@@ -5384,6 +5398,7 @@ Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
 MountainShack.esp
 MrPwner's Ambient Churches.esp
+MrPwner's Ambient Inn's.esp 
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
@@ -5400,6 +5415,10 @@ MountainTower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_LongshipExpansion.esp
+mrSiikas_BetterPorts_Seagulls.esp
+MTCExpandedVillages.esp
+? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
+? Conflicts with Lost Spires and Faregyl
 MTCRiverShackv1.2.esp
 ? Not compatible with Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
@@ -5543,10 +5562,12 @@ Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
 RuinsOfBrenfa.esp
 RumarePriory.esp
-RumpleMod.esp \^^^^guessed name and position^^^\
+RumpleMod.esp
+\^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
 RumpleMod Swalk.esp
 RumpleMod Vwalk.esp
+RunedRobes.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
@@ -5559,6 +5580,7 @@ Salan's Cellar.esp
 SamuraiHouse.esp
 Sanguine.esp
 Sanguinenorob.esp
+Satu Ra - Lord of Beasts.esp
 SaveWaterEdgeEng.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
@@ -5597,6 +5619,7 @@ SkyCastle.esp
 SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
+Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SN_Shivering_Shack.esp
@@ -5635,6 +5658,7 @@ Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
 swamp home cobl.esp
+SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\
@@ -5674,6 +5698,7 @@ The Reluctant Ranger REVAMPED.esp
 The Power of the North.esp
 The Retreat.esp
 The Siren's Deception.esp
+The Spirit Of The Wolf.esp
 The_Dragon_Citadel-6178.esp
 TOSP - Loading Screens.esp
 Dragon Citadel & Tower of the Lich King.esp
@@ -5793,10 +5818,6 @@ Vypers Arrow Spells.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
-WaterfrontMarket.esp
-? Probably incompatible with Better Cities.
-WaterfrontMarketNoShack.esp
-? Probably incompatible with Better Cities.
 WaterSphere.esp
 Wayshrines in the University.esp
 WeaponsOfTheNine.esp
@@ -6243,6 +6264,11 @@ A Imperial Outpost - Fort Novi Sad.esp
 Reaper's Waterfront.esp
 
 ReclaimSancreTor.esp
+
+WaterfrontMarket.esp
+? Probably incompatible with Better Cities.
+WaterfrontMarketNoShack.esp
+? Probably incompatible with Better Cities.
 \EndGroup\\
 
 \BeginGroup\: Landscape and City overhauls
@@ -6364,6 +6390,7 @@ xulAncientYews.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
+ZSkeletonHorse-AncientYews patch.esp 
 
 xulAncientRedwoods.esp
 WaldnirsWoods-AncientRedwoods patch.esp
@@ -6424,6 +6451,7 @@ xulBlackwoodForest.esp
 
 xulCheydinhalFalls.esp
 Blood&Mud-CheydinhalFalls patch.esp
+GiftOfKynareth-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
 CastleRavenpride-CheydinhalFalls patch.esp
@@ -6438,6 +6466,7 @@ ULII-Roads-Patch.esp
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
+EtInArkay-UniqueLandscapes Merged patch.esp 
 xul Rwalk Full.esp
 xul Swalk Full.esp
 xul Vwalk Full.esp
@@ -7200,6 +7229,7 @@ Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
+Ohgma Infinium OverHaul.esp
 Orrery_Rewards.esp
 \EndGroup\\
 
@@ -7621,6 +7651,7 @@ RH 1.5.5 - Original Alchemy Edition.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RH 1.5.5 Original Alchemy Edition MMM Patch.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
+RH1.6 Beta2 - Classic.esp
 
 BathingMod.esp
 BathingMod_Bathrooms.esp
@@ -7956,6 +7987,7 @@ Stalk'em SI.esp
 TeachSpell.esp
 Teleport.esp
 ? Requires OBSE.
+Telestone.esp
 
 SD Skill Diary rus.esp
 

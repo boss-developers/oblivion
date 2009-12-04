@@ -123,6 +123,7 @@ Ambidextrie.esm
 AFC v2 Core.esm
 Progress.esm
 HelmetFOV.esm
+AkaviriKojima.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
 NNWAEMaster.esm
@@ -2713,6 +2714,7 @@ pizz_NINJA_outfit.esp
 Plasma Sabers 1.2.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
+lootableSIArmor.esp
 PMCurioCeremonialRapier.esp
 polearms_1.0.7_EV.esp
 Polearms.esp
@@ -2912,6 +2914,7 @@ Tyrael Armor.esp
 Templer-Armor.esp
 The Soul Reaver.esp
 
+UmarilsArmor.esp
 Umarils Armor Separate.esp
 Umarils Armor Separate - RU.esp
 
@@ -3603,6 +3606,7 @@ Legion's Horses Armored With Slof's Horse Bases.esp
 MD Saddlebags v3.0 Alternative Trader Script.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
+AL_AuroranBattleSteed.esp
 Shadowfax-2838.esp
 SellHorses.esp
 Rund ums Pferd.esp
@@ -4724,6 +4728,7 @@ Adrift.esp
 Adventurers farm.esp
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
+AkaviriKojimaTravel.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
@@ -6250,6 +6255,8 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 Colored Map for Elsweyr 1.1.esp
+ElsweyrAnequinaNoSpiders.esp
+% {{BASH:Delev}}
 Valenwood.esp
 
 Improved Imperial Infrastructure.esp
@@ -7724,6 +7731,7 @@ Vim_and_Vigor.esp
 Vim_and_Vigor_2.5x.esp
 Vim_and_Vigor_5x.esp
 Vim_and_Vigor_Alcohol.esp
+AkaviriKojimaVimVigor.esp
 
 Fatigue Adjustment.esp
 M.O.E. - Fatigue Loss from Running.esp
@@ -9004,6 +9012,8 @@ Jjiinx_Long Ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Head06 Replacer.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+WhiskersAll.esp
+% {{BASH:R.Teeth,Graphics}} and deactivate. 
 \EndGroup\\
 
 \BeginGroup\: Hair

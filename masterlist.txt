@@ -6244,6 +6244,7 @@ FCC-Cheydinhal.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
@@ -6421,6 +6422,7 @@ MadMagesTowerBASIC-CloudtopMountains patch.esp
 BergDesKrieger-CloudtopMountain patch.esp
 KragenirsDeathQuest-CloudtopMountains patch.esp
 Ravenview-Cloudtop-Patch.esp
+Mimics-CloudtopMountains patch.esp
 
 xulArriusCreek.esp
 xulPatch_AY_AC.esp
@@ -7181,7 +7183,6 @@ marcQuickChar.esp
 MarkerExplore.esp
 Merchants Inn Room.esp
 Mimics!.esp
-Mimics-CloudtopMountains patch.esp
 MIEO.esp
 MIEO-lvl.esp
 MIEO-lvl-ae.esp

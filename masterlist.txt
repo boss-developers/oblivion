@@ -6363,21 +6363,23 @@ mythsandlegends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
-? Make sure version is 1.6.2 or later.
+? Make sure version is 1.6.3 or later.
 Cybiades-Lost Coast patch.esp
 ? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
 UL_BOC_LostCoast_1.0.esp
-? Old version. Update to UL:Lost Coast 1.6.2 or higher.
+? Old version. Update to UL:Lost Coast 1.6.3 or higher.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
-? Old version. Update to UL:Lost Coast 1.6.2 or higher.
+? Old version. Update to UL:Lost Coast 1.6.3 or higher.
 VeronaHouseBloodlines-LostCoast fix.esp
 ? Obsolete. Patch is no longer required as of VHB 1.4 or higher.
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
 Sousmarin-beaches fix.esp
+? Obsolete. Upgrade to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 Castle_Almgard-V2.esp
 ? Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
 anvil bay+ul tweak.esp
+? Obsolete. Upgrade to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 BrewHouse-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Also use Sutch reborn Lighthouse Fix UL.esp.

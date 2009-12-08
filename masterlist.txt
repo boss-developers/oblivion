@@ -1597,14 +1597,17 @@ SigilStonesExpanded1.52.esp
 Doomstones Expanded.esp
 
 Skillbookssave.esp
+% {{BASH:Scripts,NoMerge}} and deactivate.
 OBSE Save Skill Books For Later DV.esp
+% {{BASH:Scripts,NoMerge}} and deactivate.
 DBBAM.esp
+% {{BASH:Scripts,NoMerge}} and deactivate.
 Book Jackets Oblivion - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' as this version includes it.
-% {{BASH:Graphics}}
+% {{BASH:Graphics,Scripts,NoMerge}} and deactivate.
 Book Jackets Oblivion - BP - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' or 'Book Placement' as this version includes it.
-% {{BASH:Graphics}}
+% {{BASH:Graphics,Scripts,NoMerge}} and deactivate.
 
 Slof's Oblivion Pillow Book.esp
 SM Soul Delete.esp
@@ -1775,6 +1778,7 @@ travellers d.esp
 ? Old, update to 'travellers-new balance.esp'.
 
 Populated Prisons.esp
+PCTM.esp
 
 Immersive Travelers.esp
 
@@ -2985,6 +2989,8 @@ WSW.esp
 \EndGroup\\
 
 \BeginGroup\: Items XYZ
+
+YAARM Unique Armors 1.1.esp
 
 Xifr's Seperated Dark Brotherhood Armour.esp
 XSPipeMod.esp
@@ -5828,9 +5834,7 @@ Viking Village.esp
 VOILA.esp
 VOILA - Soldiers of Empire.esp
 Vypers Arrow Spells-SI.esp
-? Incompatible with Better Cities.
 Vypers Arrow Spells.esp
-? Incompatible with Better Cities.
 \EndGroup\\
 
 \BeginGroup\: Quests W
@@ -5996,6 +6000,7 @@ The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
 DLCFrostcrag Swalk.esp
 DLCFrostcrag Vwalk.esp
+DLCfrostcrag Reborn Vwalk.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -9800,6 +9805,7 @@ Better Cities Full - B&M Edition.esp
 Better Cities Full Rwalk.esp
 Better Cities Full Swalk.esp
 Better Cities Full Vwalk.esp
+Better Cities Full - B&M Edition Vwalk.esp
 
 Better Cities IC Districts.esp
 

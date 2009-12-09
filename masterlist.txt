@@ -2198,6 +2198,7 @@ battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
 Bisquits.esp
 Bisquits01.esp
+Black Luster.esp
 BlackLuster.esp
 BlackLuster 2SwordStyle.esp
 BlackMail.esp
@@ -3219,6 +3220,7 @@ New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
 UFF Badmagic Catsuits.esp
 UFF & ROBERT Assassin Elite Armor.esp
@@ -3226,7 +3228,9 @@ UFF Blood Ice.esp
 UFF & RM Black Exnem Warrior Armor.esp
 UFF & ROBERT Cold Steel.esp
 UFF_CrimsonMidnight.esp
+UFF HS Amazon Armor.esp
 UFF Mage Skin.esp
+UFF Shirts with Suspenders.esp
 UFF Warrior Skin.esp
 BAB & RM Assassin Elite Armor.esp
 Babarized Cryos Ordinator Lite.esp 
@@ -3613,6 +3617,8 @@ MD Saddlebags v3.0 Alternative Trader Script.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
+Benjamin the Donkey.esp
+Orion the Ox.esp
 Shadowfax-2838.esp
 SellHorses.esp
 Rund ums Pferd.esp
@@ -5417,6 +5423,7 @@ Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
+Mimics!.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
@@ -7200,7 +7207,6 @@ Madhs working training dolls.esp
 marcQuickChar.esp
 MarkerExplore.esp
 Merchants Inn Room.esp
-Mimics!.esp
 MIEO.esp
 MIEO-lvl.esp
 MIEO-lvl-ae.esp

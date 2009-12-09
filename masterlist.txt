@@ -200,6 +200,24 @@ HrmnsOblivionScriptOptimizationv1.0.esp
 ? A fixed edition (for Shivering Isles ONLY! is avaliable here: http://tinyurl.com/kmgaxd
 \This really does need to load this early.
 
+Skillbookssave.esp
+% {{BASH:Scripts}}
+? If not using Wrye Bash load this later (though then it will override somethings)
+OBSE Save Skill Books For Later DV.esp
+% {{BASH:Scripts}}
+? If not using Wrye Bash load this later (though then it will override somethings)
+DBBAM.esp
+% {{BASH:Scripts}}
+? If not using Wrye Bash load this later (though then it will override somethings)
+Book Jackets Oblivion - SSBFL.esp
+? don't use togeter with 'Save Skill Books for Later' as this version includes it.
+% {{BASH:Graphics,Scripts}}
+? If not using Wrye Bash load this later (though then it will override somethings)
+Book Jackets Oblivion - BP - SSBFL.esp
+? don't use togeter with 'Save Skill Books for Later' or 'Book Placement' as this version includes it.
+% {{BASH:Graphics,Scripts}}
+? If not using Wrye Bash load this later (though then it will override somethings)
+
 TRoN.esp
 TRoN Rwalk.esp
 TRoN Swalk.esp
@@ -1072,6 +1090,53 @@ CNRP FightersGuild4OOO.esp
 CNRP DB.esp
 % {{BASH:Invent}}
 
+SNR Fighter Guild UFF.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Fighter Guild.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Mage Guild UFF.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Mage Guild.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Citizens UFF.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Citizens.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Villains UFF.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Villains.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Guards.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Thieves Guild UFF.esp[
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Thieves Guild.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Dark brotherhood.esp
+% {{BASH:Hair,Eyes,Invent}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Dremorae UFF.esp
+% {{BASH:Hair,Eyes,Invent,Body-F,Voice-F}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Dremorae.esp
+% {{BASH:Hair,Eyes,Invent,Body-F,Voice-F}}
+? Make sure to install the additional mods (listed in the readme).
+SNR Crowded Roads UFF.esp
+? Make sure to install the additional mods (listed in the readme).
+SNR Crowded Roads 2.1.esp
+? Make sure to install the additional mods (listed in the readme).
+
 cidnothump.esp
 % {{BASH:Sound}}
 CDM-Duel.esp
@@ -1595,19 +1660,6 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Doomstones Expanded.esp
-
-Skillbookssave.esp
-% {{BASH:Scripts,NoMerge}} and deactivate.
-OBSE Save Skill Books For Later DV.esp
-% {{BASH:Scripts,NoMerge}} and deactivate.
-DBBAM.esp
-% {{BASH:Scripts,NoMerge}} and deactivate.
-Book Jackets Oblivion - SSBFL.esp
-? don't use togeter with 'Save Skill Books for Later' as this version includes it.
-% {{BASH:Graphics,Scripts,NoMerge}} and deactivate.
-Book Jackets Oblivion - BP - SSBFL.esp
-? don't use togeter with 'Save Skill Books for Later' or 'Book Placement' as this version includes it.
-% {{BASH:Graphics,Scripts,NoMerge}} and deactivate.
 
 Slof's Oblivion Pillow Book.esp
 SM Soul Delete.esp
@@ -2691,6 +2743,10 @@ Oddbasket Glass Replace NoEnch.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oddbasket Glass Replace.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+Oddbasket Glass Replace NoEnch ALT.esp
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+Oddbasket Glass Replace ALT.esp
+% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
@@ -3220,6 +3276,7 @@ New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+Rinzei_UFFLeatherCorsetGown.esp
 UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
 UFF Badmagic Catsuits.esp
@@ -3229,6 +3286,7 @@ UFF & RM Black Exnem Warrior Armor.esp
 UFF & ROBERT Cold Steel.esp
 UFF_CrimsonMidnight.esp
 UFF HS Amazon Armor.esp
+UFF Jewelry Collection.esp
 UFF Mage Skin.esp
 UFF Shirts with Suspenders.esp
 UFF Warrior Skin.esp
@@ -5648,6 +5706,7 @@ Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
+Skye Village Final.esp
 SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
@@ -5841,6 +5900,8 @@ Viking Village.esp
 VOILA.esp
 VOILA - Soldiers of Empire.esp
 Vypers Arrow Spells-SI.esp
+? Incompatible with Better Cities.
+Vypers Arrow Spells-SI V2.esp
 Vypers Arrow Spells.esp
 \EndGroup\\
 
@@ -6008,6 +6069,7 @@ DLCFrostcrag Rwalk.esp
 DLCFrostcrag Swalk.esp
 DLCFrostcrag Vwalk.esp
 DLCfrostcrag Reborn Vwalk.esp
+DLCFrostcrag Spire Revisited Vwalk.esp
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -6735,6 +6797,8 @@ KS - Imperial FPS Boost.esp
 ? Probably Better Cities incompatible.
 KS - Kvatch FPS Boost.esp
 ? Probably Better Cities incompatible.
+
+RedBag - Imperial City Pack.esp
 
 \EndGroup\\
 
@@ -9640,7 +9704,6 @@ bgBalancingDVCore.esp
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
-
 \EndGroup\\
 \EndGroup\\
 

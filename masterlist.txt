@@ -70,6 +70,7 @@ Cobl Main.esm
 ? Do not use Tamrielic Ingredients and COBL at the same time.
 Item interchange.esm
 ? Old. All functions are now handled by Cobl.esm. Update to 'Item Interchange' v0.64 or later and make sure you are running Cobl v155 or later.
+TamRes.esm
 Qarls_Harvest.esm
 % {{BASH:Scripts}} and no need for OOO patch.
 Ulrim's Horses.esm
@@ -475,6 +476,8 @@ Oblivion.esp
 ? Usually a BSA redirection hack.
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+TamRes.esp
+? Dummy file to load the TamRes BSA.
 \EndGroup\\
 
 \BeginGroup\: Post BSA
@@ -2313,6 +2316,8 @@ Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
 Collectible T-Shirts V1.1.esp
 Collectible T-Shirts V2.1.esp
+LydarflsCheatCodeBook.esp
+console codes.esp
 Corthian Akavir Clothing.esp
 cowlredux.esp
 Crimson Scar Armor.esp
@@ -3262,7 +3267,7 @@ SS-GenderIndependentClothing v1.0.esp
 \EndGroup\\
 \EndGroup\\
 
-\BeginGroup\: Body Replacer Armour
+\BeginGroup\: Body Replacer Armour & Clothing
 \--------------------
 \
 \Stuff for use with body replacers.
@@ -3275,6 +3280,10 @@ LC-Compilation-Exnem.esp
 New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Armor Skimpy.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Clothing Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 Rinzei_UFFLeatherCorsetGown.esp
 UFF Armor of Gaia.esp
@@ -5481,6 +5490,7 @@ Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
+Mercenaries.esp
 Mimics!.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
@@ -5901,8 +5911,12 @@ VOILA.esp
 VOILA - Soldiers of Empire.esp
 Vypers Arrow Spells-SI.esp
 ? Incompatible with Better Cities.
+? Old, upgrade to V2+.
 Vypers Arrow Spells-SI V2.esp
 Vypers Arrow Spells.esp
+? Incompatible with Better Cities.
+? Old, upgrade to V2+.
+Vypers Arrow Spells-Vanilla V2.esp
 \EndGroup\\
 
 \BeginGroup\: Quests W
@@ -6219,6 +6233,7 @@ Rumare-AFK_Weye Patch.esp
 
 GuardsofCyrodiil.esp
 GoC&RRLR_comp.esp
+GuardsofCyrodiilRedux.esp
 
 Mighty Umbra.esp
 ? FCOM requires 'FCOM_MightyUmbra.esp'.
@@ -6358,6 +6373,7 @@ FortAkatosh.esp
 FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
+Fort Akatosh Redux.esp
 
 A Imperial Outpost - Fort Novi Sad.esp
 
@@ -7349,6 +7365,7 @@ Orrery_Rewards.esp
 
 \BeginGroup\: overrides P
 
+P1DcandlesForKleptos.esp
 P1DkeyChain.esp
 P1DKeychain for COBL.esp
 P1DKeyChainSI.esp
@@ -7759,8 +7776,7 @@ RealHungerv1.4.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RealHungerv1.4_NO_MMM.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
-Real Hunger, Cobl.esp
-? Realistic hunger mods and vampire mods may conflict seriously.
+
 RH 1.5.5 - Original Alchemy Edition.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RH 1.5.5 Original Alchemy Edition MMM Patch.esp
@@ -10631,6 +10647,9 @@ Enhanced Grabbing - Unnecessary Violence Liaison.esp
 VVAdvanced.esp
 VVAdvanced-SI.esp
 P1DseeYouSleep - VVAdvanced.esp
+
+Real Hunger, Cobl.esp
+? Realistic hunger mods and vampire mods may conflict seriously.
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

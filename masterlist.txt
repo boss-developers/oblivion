@@ -446,8 +446,6 @@ MOBS.esp
 % {{BASH:Stats}}
 MOBS SI.esp
 % {{BASH:Stats}}
-OMOBS_SI.esp
-% {{BASH:Stats}}
 MOBS SI Optional Combat Settings.esp
 
 PMVisibleMapMarkers-ShiveringIsles.esp
@@ -3934,6 +3932,12 @@ OOONoLockBash.esp
 \BeginGroup\: Post OOO
 \''''''''
 
+OMOBS.esp
+% {{BASH:Stats}} and deactivate
+OMOBS_SI.esp
+% {{BASH:Stats}} and deactivate
+OMOBS_Optionial Combat Settings
+
 mg19obsefix.esp
 ? Requires OBSE
 
@@ -5926,6 +5930,7 @@ Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
 WaterSphere.esp
 Wayshrines in the University.esp
+Wayshrines.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
@@ -7498,6 +7503,8 @@ Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
 Sigil Stone Alternative.esp
+Sigil Stones Unlevelled.esp
+Sigil Stones Unlevelled - Adjusted.esp
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
@@ -8507,6 +8514,9 @@ Thievery_Hard_Thrill.esp
 ? only use one of the 'Worthwhile Thievery' ESPs.
 Thievery_Hard.esp
 ? only use one of the 'Worthwhile Thievery' ESPs.
+
+IThieveryRaise.esp
+IThieveryRaiseVeryHard.esp
 
 DD_ProximitySneakPenalty.esp
 Toaster's Brutal Stealth.esp

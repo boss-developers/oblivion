@@ -4800,14 +4800,16 @@ AbuEmir01.esp
 ? Requires Shivering Isles
 Adaman Fortress.esp
 AdenseEpicDungeon.esp
-? Old, update to AdenseEpicDungeon1_4.esp.
+? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_1.esp
-? Old, update to AdenseEpicDungeon1_4.esp.
+? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_2.esp
-? Old, update to AdenseEpicDungeon1_4.esp.
+? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_3.esp
-? Old, update to AdenseEpicDungeon1_4.esp.
+? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_4.esp
+? Old, update to AdenseEpicDungeon1_5.esp.
+AdenseEpicDungeon1_5.esp
 / Yay for renaming esp at every version.
 Adenses Better Waterfront.esp
 Adrift.esp
@@ -6382,6 +6384,9 @@ FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 Fort Akatosh Redux.esp
+% {{BASH:Relations}}
+FortAkatoshRedux-NewRoads&Bridges patch.esp
+Cyrodiil Legion Addon.esp
 
 A Imperial Outpost - Fort Novi Sad.esp
 
@@ -7127,6 +7132,7 @@ Dungeon&ExteriorActorsHaveTorchesCT.esp
 ActorsHaveTorches.esp
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
+Essential Trainers.esp
 Everlasting Corpses v 1.0.esp
 \EndGroup\\
 

@@ -3286,6 +3286,8 @@ DMRA Stock Armor Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Robe Skimpy.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 Rinzei_UFFLeatherCorsetGown.esp
 UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
@@ -5599,6 +5601,7 @@ Orange Road Cabin.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
+OSE - Outlook.esp
 \EndGroup\\
 
 \BeginGroup\: Quests P
@@ -5684,6 +5687,7 @@ rayearth.esp
 
 \BeginGroup\: Quests S
 
+SacredOak_Settlement.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 SamuraiHouse.esp

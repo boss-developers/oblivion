@@ -27,6 +27,7 @@ Tribunal_ob.esm
 Bloodmoon_ob.esm
 Silgrad_Tower.esm
 Silgrad_Tower_T.esm
+Solstheim Recreated.esm
 Cybiades.esm
 Windfall.esm
 TR_OoT_Main.esm
@@ -1923,6 +1924,8 @@ FastShortcuts.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+Improved Hotkeys_Extended.esp
+? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Quick Clothes and Spells.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 sr_super_hotkeys.esp
@@ -3275,6 +3278,8 @@ SS-GenderIndependentClothing v1.0.esp
 \VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 
 StockClothingArmor-forExnems.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 LC-Compilation-Exnem.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
@@ -4937,6 +4942,7 @@ Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
 BanditSlaveTrade.esp
+Barbada_Island.esp
 Basement for Cobl.esp
 Basement for Cobl - Sheep Wool addition.esp
 ? Requires MMM
@@ -5473,6 +5479,7 @@ LostSwordOfTheAylied_delayer.esp
 
 Ls More Butterflies and Fireflies Not In Interiors.esp
 Ls More Butterflies and Fireflies.esp
+Lycanmoon.esp
 Lyn-AbsoluteFreedom.esp
 Lyn-AnvilAbandonedHouse.esp
 Lynges_Dark_Brotherhood_Assassins-8654.esp
@@ -5608,6 +5615,8 @@ OSE - Outlook.esp
 
 ThePaleAdventurer.esp
 Pats Business Mod---Shop Version 1.6.esp
+? Old, update to version 2.0+.
+Pats Business Mod---Shop Version 2.0.esp 
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 PinePeakLodge.esp
@@ -7857,6 +7866,7 @@ DA ReducedBackwardsRunningSpeed.esp
 DA ReducedBackwardsRunningSpeedFRAN.esp
 DA Sprint.esp
 NoBackwardsRunning.esp
+NoBackwardsRunning_fran.esp
 ReducedBackwardsSpeed.esp
 StumbleRunningBackwards.esp
 Duke Patricks Running Backwards RISK.esp
@@ -10548,6 +10558,8 @@ omg-dynamicDoF.esp
 omg-staticDoF.esp
 omg-waterrefraction-obse.esp
 Jake's Water.esp
+% {{BASH:Graphics}}
+Advanced_Water_Modification.esp
 % {{BASH:Graphics}}
 Real Lava 1.3.esp
 % {{BASH:Graphics}} and deactivate.

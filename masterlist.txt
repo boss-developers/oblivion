@@ -293,7 +293,7 @@ Beautiful_Women_Vampires.esp
 Beautiful_Women_Vampires Vwalk.esp
 Beautiful_Women_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_Vampires_50 VWak.esp
+Beautiful_Women_Vampires_50 VWalk.esp
 Beautiful Women Vwalk Full.esp
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
@@ -1820,6 +1820,8 @@ Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
 WAC - Crowded Roads Revisited.esp
+Crowded Roads Vwalk.esp
+
 
 travellers-new balance.esp
 travellers a.esp
@@ -3941,6 +3943,7 @@ OOONoLockBash.esp
 
 \BeginGroup\: Post OOO
 \''''''''
+Oscuro's_Oblivion_Overhaul Vwalk.esp
 
 OMOBS.esp
 % {{BASH:Stats}} and deactivate
@@ -7294,8 +7297,13 @@ M.O.E. - Lycanthropy and Lichcraft.esp
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
+% {{BASH:Stats}} and deactivate if you don't care about the No Quest Items feature.
 Better and realistic prices.esp
+% {{BASH:Stats}} and deactivate.
 RedBag - Items Repriced v2.esp
+% {{BASH:Stats}} and deactivate.
+Fixed_Repriced_Clutter_11_by_Carpmalenko_POD-9319.esp
+% {{BASH:Stats}} and deactivate.
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp

@@ -108,6 +108,7 @@ Armamentarium.esm
 ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
 ? Old, merged into newest Armamentarium Complete.
+azsTHouse.esm
 Artifacts.esm
 Underwear HGEC Fighter.esm
 Underwear HGEC Normal.esm
@@ -2132,6 +2133,9 @@ Armory of the Silver Dragon.esp
 Armor of Gaia.esp
 ArmorofKyrai.esp
 Auras.esp
+azsTHouse.esp
+azsTrHouse.esp
+azsNarutoArmor.esp
 
 Armor of Heaven's Fury-Gold-Heavy-Alt-helm.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
@@ -3479,6 +3483,7 @@ HGEC Underwear.esp
 HGEC Dantes Clothes - EV.esp
 HGEC_AmazonArmor.esp
 % {{BASH:Graphics}}
+Sakura Outfit.esp
 Exnem Leather-Iron Warrior.esp
 Exnem Leather Iron Warrior.esp
 Ironless Skirt.esp
@@ -5440,6 +5445,7 @@ Lakeview2.esp
 Lakewood Village Ver 2.0.esp
 Legion Faction Mod.esp
 % {{BASH:Relations}}
+Love Suite Room.esp
 Lem - Celestial Lagoon.esp
 Lem - The Nether.esp
 Lem - The Rift.esp
@@ -9251,6 +9257,8 @@ MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
+Naruto's_Eyes_bY_Van_Groud.esp
+% {{BASH:Graphics,Hair,Eyes}}
 \EndGroup\\
 
 \BeginGroup\: Race additions (+ hair + eyes etc)
@@ -9462,6 +9470,8 @@ ahtata dremora.esp
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ancient Elven Sorceress - EV.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 \EndGroup\\
 
@@ -10720,6 +10730,7 @@ NRB4 OCLR Road Record.esp
 ? Requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
+CUMoreDurableArmor.esp
 Bashed Delayers - MERGE ONLY.esp
 ? Must be merged into the bashed patch in Wrye Bash
 CoreRandmonClothing4Npcs.esp

@@ -1796,6 +1796,7 @@ Cyrodiil Economic Overhaul.esp
 GoldAdjustment.esp
 ? Upgrade to Enhanced Economy.
 Enhanced Economy.esp
+? Replaces Living Economy plugin
 
 JOJOeffect.esp
 StandingJOJO.esp
@@ -3021,6 +3022,13 @@ Travelers' Cloaks.esp
 Tsuguri.esp
 TT-EquipableBeards.esp
 TT-EquipableBeardsLEVELEDLIST.esp
+
+The lord of the ring weapon 1.esp
+LOTR Weapons.esp
+LOTR Weapon 2.esp
+UK47_LOTR_Weapons_Merged.esp
+? Reqires LOTR1 and LOTR2 plugins
+? Unckeck or delete The lord of the ring weapon 1.esp , LOTR Weapons.esp ,  LOTR Weapon 2.esp
 \EndGroup\\
 
 \BeginGroup\: Items U
@@ -6233,6 +6241,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
+? Use version 1.01 'http://tesnexus.com/downloads/download.php?id=29355' for Bashed Patch
 % {{BASH:Stats}}
 MOBS DLCs.esp
 % {{BASH:Stats}}
@@ -9153,12 +9162,18 @@ Item interchange - Placement.esp
 >? Non-FCOM version. Use 'Item interchange - Placement for FCOM.esp' instead.
 ? Requires recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
+? Requires Bashed Patch
 <? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
+? Requires Bashed Patch
 Item interchange - Placement for Frostcrag Reborn.esp
+? Requires Bashed Patch
 Item interchange - Placement for Frostcrag Spire Revisited.esp
+? Requires Bashed Patch
 Item interchange - Option, Ingredients in Bulk.esp
+? Requires Bashed Patch
 Item interchange - Option, Ingredients in Bulk, reduced.esp
+? Requires Bashed Patch
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp

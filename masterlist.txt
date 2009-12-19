@@ -1238,6 +1238,7 @@ Days&Months.esp
 RealDaysAndMonths.esp
 
 DBCEndOfMayTeaser.esp
+DBOO.esp
 DBSQR.esp
 DBSQR - Shivering Isles.esp
 Decoration Pillows.esp
@@ -1951,6 +1952,7 @@ Compatibility Patch - DLCHorseArmor.esp
 BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 
 DLCOrrery.esp
+DBOO - Orrey.esp
 DLCOrrery - Unofficial Patch.esp
 DLCOrrery Rwalk.esp
 DLCOrrery Swalk.esp
@@ -1979,6 +1981,7 @@ Lair_mobs.esp
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
+DBOO - MehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
 NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
@@ -3752,6 +3755,7 @@ Ranokoas Organized Potions.esp
 \-----
 
 DLCThievesDen.esp
+DBOO - ThievesDen.esp
 DLCThievesDen - Unofficial Patch.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
 DLCThievesDen Rwalk.esp
@@ -6073,7 +6077,9 @@ fpsboost-arenanolights.esp
 \-----
 
 DLCBattlehornCastle.esp
+DBOO - BattlehornCastle.esp 
 DLCBattlehornCastle - Unofficial Patch.esp
+BattlehornCastle UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
@@ -6162,6 +6168,7 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
+DBOO - Knights.esp
 Knights - Book Jackets.esp
 % {{BASH:Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -6417,6 +6424,7 @@ Vergayun.esp
 Faregyl.esp
 % {{BASH:Relations}}
 Faregyl-FGRoad-Patch.esp
+Faregyl Vwalk.esp
 
 TVIcar.esp
 

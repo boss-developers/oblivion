@@ -235,6 +235,10 @@ TRoN Vwalk.esp
 \
 \Bash and deactivate to keep new faces with NPC altering mods later.
 
+xeoex.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+xeoex Vwalk.esp
+
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - THE DUNMER.esp
@@ -2021,6 +2025,10 @@ GrimbotsSpellTomes.esp
 \Load early.
 \Robert's Male Body Replacer has problems with race mods and patches are needed.
 
+Nude.esp
+Nude Vwalk.esp
+LeoGoBezerk_MakeItPorn_UA_v100.esp
+JuvenileMod.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
@@ -6457,6 +6465,7 @@ Vergayun.esp
 Faregyl.esp
 % {{BASH:Relations}}
 Faregyl-FGRoad-Patch.esp
+Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
 Faregyl Vwalk.esp
 
 TVIcar.esp

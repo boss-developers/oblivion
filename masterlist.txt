@@ -223,6 +223,7 @@ Book Jackets Oblivion - BP - SSBFL.esp
 ? If not using Wrye Bash load this later (though then it will override somethings)
 
 TRoN.esp
+TRoN 0-59-1b Vwalk.esp
 TRoN Rwalk.esp
 TRoN Swalk.esp
 TRoN Vwalk.esp
@@ -278,6 +279,7 @@ Better-Horse-Eyes.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
 Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Younger Hotter NPC's v1.0 Vwalk.esp
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_NiceOnly Vwalk.esp
@@ -1564,6 +1566,7 @@ Poisonous Apple for poison fix.esp
 Portable Campsite.esp
 Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
+Faction_Rank_Fix-5862.esp
 Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
 \EndGroup\\
@@ -1809,14 +1812,20 @@ moDem's City Life.esp
 OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
+Crowded Cities 15 Vwalk.esp
 Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
 
 Crowded Roads.esp
+Crowded Roads Vwalk.esp
 Crowded Roads 7.esp
+Crowded Roads 7 Vwalk.esp
 Crowded Roads 15.esp
+Crowded Roads 15 Vwalk.esp
 Crowded Roads 23.esp
+Crowded Cities 30 Vwalk.esp
+Crowded Roads 23 Vwalk.esp
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
@@ -1826,7 +1835,6 @@ Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
 WAC - Crowded Roads Revisited.esp
-Crowded Roads Vwalk.esp
 
 
 travellers-new balance.esp
@@ -1838,6 +1846,7 @@ travellers c.esp
 ? Old, update to 'travellers-new balance.esp'.
 travellers d.esp
 ? Old, update to 'travellers-new balance.esp'.
+travellers-new balance Vwalk.esp
 
 Populated Prisons.esp
 PCTM.esp
@@ -4418,8 +4427,10 @@ WAC - QuietFeet.esp
 TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
+TamrielTravellers Vwalk.esp
 TamrielTravellers4MMM.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
+TamrielTravellers4MMM Vwalk.esp
 Travellers4MMMHostileFactions.esp
 * Delete. Not FCOM compatible.
 TamrielTravellersFactionAll.esp
@@ -4428,6 +4439,7 @@ TamrielTravellers4000.esp
 >? Requires 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
 >? Requires 'FCOM_TamrielTravelers.esp'.
+TamrielTravellers4OOO Vwalk.esp
 TamrielTravellersItemsNPC.esp
 TamrielTravellersItemsCobl.esp
 ? Requires COBL.
@@ -4438,6 +4450,7 @@ TamrielTravellersItemsUnscaled.esp
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
 ? Requires Shivering Isles expansion.
+ShiveringIsleTravellers Vwalk.esp
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
 ShiveringIsleTravellersFriendlyFactions.esp
 ShiveringIsleTravellersFriendlyFactions4MMM.esp
@@ -4445,6 +4458,7 @@ TamrielTravellersHorseTextures.esp
 % {{BASH:NoMerge,Graphics}} and deactivate.
 FCOM_TamrielTravelers.esp
 ? Requires 'TamrielTravellers4OOO.esp'
+
 
 kuerteeWanderingEncounters.esp
 \maybe I should put this somewhere else but until further testing this seems reasonable
@@ -5215,12 +5229,18 @@ Epic Dark Brotherhood.esp
 Ever-rest Glade reborn.esp
 Extended Imperial City.esp
 Extended Imperial City Version 1.0.esp
+Extended Imperial City Version 1.0 Vwalk.esp
 Extended Chorrol.esp
+Extended Chorrol Vwalk.esp
 Extended Skingrad.esp
+Extended Skingrad Vwalk.esp
+Extended City Series Vwalk.esp
 Extended NPCs Merge.esp
 Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
 eyja.esp
+eyja Vwalk.esp
+Eyja Abriael Human Vwalk.esp
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -5354,6 +5374,7 @@ Hunter's Haven File 1.esp
 
 HeartoftheDead.esp
 % {{BASH:Hair}}
+HeartOftheDead Vwalk.esp
 OC-HOD-Patch.esp
 ? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
 HOD_delayer.esp
@@ -6411,6 +6432,7 @@ FCC-Cheydinhal.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+ElsweyrAnequina Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
@@ -10457,6 +10479,7 @@ BNewShockEffects.esp
 Detect Life Shader.esp
 Detect Life Shader [New].esp
 DS Flaming Arrows.esp
+Li-Glassphials.esp
 fog.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp

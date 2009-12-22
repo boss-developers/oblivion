@@ -262,14 +262,21 @@ TNR - THE ARGONIANS.esp
 TNR - all.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR- All Races.esp
+? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR ALL RACES FINAL.esp
+? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - ALL RACES FINAL.esp
+? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR ALL RACES FINAL Vwalk.esp
 TNR - All Races for OOO.esp
+? Use this instead TNR ALL RACES esps for OOO
+? Not need if use Cobl Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - ShiveringIsles.esp
+? Not need if use Cobl Races TNR SI.esp
 % {{BASH:NpcFaces,Invent,NoMerge}} and deactivate.
 TNR - ShiveringIsles no helms.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
@@ -457,6 +464,8 @@ MOBS.esp
 MOBS SI.esp
 % {{BASH:Stats}}
 MOBS SI Optional Combat Settings.esp
+
+DBOO - MOBS.esp
 
 PMVisibleMapMarkers-ShiveringIsles.esp
 
@@ -1675,6 +1684,7 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Doomstones Expanded.esp
+ShriekingBolete.esp
 
 Slof's Oblivion Pillow Book.esp
 SM Soul Delete.esp
@@ -2322,6 +2332,7 @@ BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
 Buster Sword R.esp
+BrivasArmor.esp
 \EndGroup\\
 
 \BeginGroup\: Items C
@@ -2336,8 +2347,7 @@ CarsomyrSword.esp
 Catsuit.esp
 CET_DwemerPrecisionBow_v2.esp
 
-ClassyClothingCompendium.esp.
-
+ClassyClothingCompendium.esp
 Classic Books.esp
 Classic-Wizard-Robes-UL.esp
 Classic-Wizard-Robes-U.esp
@@ -2350,6 +2360,7 @@ Change Undies Everyday.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
 Collectible T-Shirts V1.1.esp
+Collectible_TShirts_V11.esp
 Collectible T-Shirts V2.1.esp
 LydarflsCheatCodeBook.esp
 console codes.esp
@@ -2374,6 +2385,9 @@ crusadercg.esp
 Crystalline Sword.esp
 CrystalStaff.esp
 Cy.esp
+CaptureBalls.esp
+Colourwheels Sexy Lingerie HGEC.esp
+chainmailsdezi.esp
 \EndGroup\\
 
 \BeginGroup\: Items D
@@ -2477,6 +2491,7 @@ Daedric Weaponz.esp
 Daedric Weaponz_1C.esp
 Dark Tower Shield.esp
 DarkFlame.esp
+dezichainrobe.esp
 \EndGroup\\
 
 \BeginGroup\: Items E
@@ -2604,6 +2619,7 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Heron Mark Swords 1.0.esp
+Hadhafang.esp
 \EndGroup\\
 
 \BeginGroup\: Items I
@@ -2661,6 +2677,7 @@ Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
+Kikai & Slof Clothing.esp
 \EndGroup\\
 
 \BeginGroup\: Items L
@@ -2735,6 +2752,7 @@ MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
+MehrunesDagonOutfit.esp
 \EndGroup\\
 
 \BeginGroup\: Items N
@@ -2930,6 +2948,7 @@ Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
+Slof's Persian Outfit For Males.esp
 
 Kit Rae Weaponry v0_2.esp
 ? Use after Shdw_weapon pack
@@ -3508,6 +3527,7 @@ Crimson Eyecandy White.esp
 EC_BlackDeathWarrRetex.esp
 BlackRogue.esp
 darkrosearmor.esp
+Dark Rose Armor.esp
 GreenNGold Amazon armor for Exnem body.esp
 JB Catsuit Variants.esp
 JB Catsuit Weapons.esp
@@ -3545,6 +3565,7 @@ Grim's Necro Robe.esp
 Jade Armor v1.0.esp
 A_Dremora_Armor_for_you-7602.esp
 Platinum Armor and Weapons.esp
+RobertsFemaleShirt07.esp
 
 Dragon Claw Sword And Shield.esp
 Pegasus Armor Set.esp
@@ -3871,8 +3892,10 @@ FCOM_KDCircletsOOOOptimizedNPCEquip.esp
 
 ExnemRuneskulls.esp
 >? Requires 'FCOM_ExnemRuneskulls.esp'.
+? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
+? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 
 MMM_Runeskull_Rebalance_BETA2.esp
 
@@ -3991,6 +4014,7 @@ OOONoLockBash.esp
 \''''''''
 
 DBOO.esp
+DBOO - OOO.esp
 
 Oscuro's_Oblivion_Overhaul Vwalk.esp
 
@@ -4888,6 +4912,7 @@ Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 A Qrazy Quest.esp
+AleswellHomeQuest.esp
 AL_Maverick.esp
 Along Came A Spider.esp
 ALTshack02.esp
@@ -4934,6 +4959,7 @@ Anvil_MorningGloryBetterCities_Purple.esp
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
 
+AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
 Aqvatika.esp
 Aqua_City_01.esp
@@ -6448,6 +6474,7 @@ ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
+Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
@@ -7331,6 +7358,7 @@ In_Game_Map.esp
 Jarol's NPC Leveled Equipment.esp
 Jerall-Pass.esp
 ? German mod.
+Jerall View Inn upgrade.esp
 JQ-Backpacks.esp
 JQ-Bandages.esp
 \EndGroup\\
@@ -7370,6 +7398,7 @@ Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
+Lem - Easy Construction.esp
 \EndGroup\\
 
 \BeginGroup\: overrides M
@@ -7642,6 +7671,7 @@ Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
 ? Don't need to use this if you use MMM as it already includes dogs.
+Slof's Epona.esp
 SM Essential Kills.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
@@ -8172,6 +8202,7 @@ ConduitMagic.esp
 Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
+Detect Item.esp
 Elemental Horses.esp
 EnchantmentMastery.esp
 Exit_Spell.esp
@@ -8295,6 +8326,7 @@ AgarMoreVariedSpellEffects.esp
 kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
+unnatural_aura_by_trollf.esp
 
 sr_enhanced_magic_system.esp
 SpellSinger.esp
@@ -9417,6 +9449,8 @@ Slof's Playable Xivilai.esp
 ? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
 Slof's Clouded Leopard.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
+Slof's Snow Leopard Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Slof's Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 AinmhiRace.esp
@@ -9687,6 +9721,7 @@ cm lula wild.esp
 CM Tifa A.esp
 CM_Kailinda.esp
 CM Yana.esp
+CM_Dragonchixx.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 MichaelCM.esp
@@ -9695,6 +9730,7 @@ AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 kgtVeeda.esp
+mbass_CMpartnerMelissa.esp
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
@@ -9844,6 +9880,10 @@ DAGolden Saint.esp
 DALineage2Elves.esp
 % {{BASH:Hair,Eyes}}
 DAMerpeople.esp
+% {{BASH:Hair,Eyes}}
+DAAlien.esp
+% {{BASH:Hair,Eyes}}
+DASatyr.esp
 % {{BASH:Hair,Eyes}}
 \EndGroup\\
 

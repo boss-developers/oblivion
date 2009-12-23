@@ -6522,6 +6522,16 @@ WaterfrontMarketNoShack.esp
 ? Probably incompatible with Better Cities.
 \EndGroup\\
 
+MTCThievesGrotto.esp
+? Upgrade to v4.1.
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
+MTCThievesGrottoV4.esp
+? Upgrade to v4.1.
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
+MTCThievesGrottoV4.1.esp
+? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
+ThievesGrotto-ColovianHighlands patch.esp
+
 \BeginGroup\: Landscape and City overhauls
 \----------------------------
 
@@ -6740,16 +6750,6 @@ EaglesRest+LostCoast+CastleSeaview Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
 
 The Ruins of Miscarcand.esp
-
-MTCThievesGrotto.esp
-? Upgrade to v4.1.
-? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
-MTCThievesGrottoV4.esp
-? Upgrade to v4.1.
-? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
-MTCThievesGrottoV4.1.esp
-? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
-ThievesGrotto-ColovianHighlands patch.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp

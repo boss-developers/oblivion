@@ -211,8 +211,6 @@ OBSE Save Skill Books For Later DV.esp
 % {{BASH:Scripts}}
 ? If not using Wrye Bash load this later (though then it will override somethings)
 DBBAM.esp
-% {{BASH:Scripts}}
-? If not using Wrye Bash load this later (though then it will override somethings)
 Book Jackets Oblivion - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' as this version includes it.
 % {{BASH:Graphics,Scripts}}
@@ -5005,6 +5003,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
+AshTentMod
 Assassin's Hideout v1.1.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
@@ -6065,6 +6064,8 @@ Whispered Warning.esp
 White Tower v0.8.esp
 Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
+Woodcutters_Cabin.esp
+Woodcutters_Cabin_COBL.esp
 Woodland Village.esp
 WoodlandVillage1.2.esp
 WoodlandVillage, Cobl.esp

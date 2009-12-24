@@ -351,6 +351,7 @@ Fighters_Guild_Dissapearences_Mission_Bug_Fix-3483.esp
 ? Use UOP v3.0.1 or later instead.
 FathisFix.esp
 ? Use UOP v3.0.1 or later instead.
+Grove of Reflection Fix.esp
 Mages Guild Quest Fixes.esp
 ? Use UOP v3.0.1 or later instead.
 id_CompetitionFix.esp
@@ -2879,6 +2880,7 @@ Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
 Rum1.esp
+runestone.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
 Running4Cover's Welkynd Weapons - Free.esp
@@ -9393,6 +9395,8 @@ CCR - EE.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}} and deactivate.
+Comprehensive Style Collection RM.esp
+% {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackFull.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 ElaborateEyes-RensBeautyPackHairsOnly.esp
@@ -9543,6 +9547,8 @@ IDKRRR_Moira_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Energy - Beautiful Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Riddick.esp
@@ -9619,6 +9625,8 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Night.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ancient Elven Sorceress - EV.esp
@@ -9676,6 +9684,8 @@ Beautiful PeopleV22 - MaleReplacerV3.esp
 Ren + Exnem.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BP_and_Soya.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+Elaborate HGEBetter Beauty Soya Expansion.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Diverse NPCs.esp
 ? Requires TNR, Ren's Hair, Elaborate Eyes.
@@ -9741,6 +9751,7 @@ AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
+companion_moonelves.esp.
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
@@ -9830,6 +9841,7 @@ Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
 BetterShack.esp
+Candlelight.esp
 Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}

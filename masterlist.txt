@@ -294,23 +294,15 @@ Younger Hotter NPC's v1.0.esp
 Younger Hotter NPC's v1.0 Vwalk.esp
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_NiceOnly Vwalk.esp
 Beautiful_Women_DB_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_DB_Addon Vwalk.esp
-Beautiful_Women_NotSoNice_Bonus.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_NotSoNice_Bonus Vwalk.esp
 Beautiful_Women_SI.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_SI Vwalk.esp
 Beautiful_Women_Vampires.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_Vampires Vwalk.esp
 Beautiful_Women_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-Beautiful_Women_Vampires_50 VWalk.esp
-Beautiful Women Vwalk Full.esp
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Handsome_Gents_DB_Addon.esp
@@ -1633,6 +1625,14 @@ DLCShiveringIsles Vwalk DG_DS.esp
 Better Cities ESM Rwalk.esp
 Better Cities ESM Swalk.esp
 Nude Swalk.esp
+Beautiful_Women_DB_Addon Vwalk.esp
+Beautiful_Women_NiceOnly Vwalk.esp
+Beautiful_Women_NotSoNice_Bonus Vwalk.esp
+Beautiful_Women_NotSoNice_Bonus.esp
+Beautiful_Women_SI Vwalk.esp
+Beautiful_Women_Vampires_50 VWalk.esp
+Beautiful Women Vwalk Full.esp
+Beautiful_Women_Vampires Vwalk.esp
 
 REBetterLCB.esp
 %{{Bash:Graphics}} and deactivate.
@@ -6372,7 +6372,7 @@ GoC&RRLR_comp.esp
 GuardsofCyrodiilRedux.esp
 
 Mighty Umbra.esp
-? FCOM requires 'FCOM_MightyUmbra.esp'.
+FCOM users might consider 'FCOM_MightyUmbra.esp'
 Mighty Umbra - Vanilla OB.esp
 
 The Soul of Ilithiel.esp

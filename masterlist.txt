@@ -587,6 +587,9 @@ LoadingScreensRemade.esp
 \
 \Unlikely to be affected by anything but sound mods.
 
+Oblivion_Audio_and_Visual_Overhaul_1st_esp.esp
+Oblivion_Audio_and_Visual_Overhaul_2nd_esp.esp
+
 _Real_Lights.esp
 ? Accidentally disables the Umbacano branch of The Collector quest - edit to remove the MS21statuescript script changes to fix this.
 ? All Natural's Real Lights implementation doesn't suffer from this.
@@ -5617,6 +5620,7 @@ MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp 
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
+Millstone_Farm.esp
 
 Malevolent.esp
 OCC-Malevolent-Patch.esp
@@ -5651,7 +5655,6 @@ Marketplace_Eng.esp
 MetherlanceManor.esp
 Milewood.esp
 Mysteries Of Atrene Camp.esp
-MHSN Weapons.estp
 \EndGroup\\
 
 \BeginGroup\: Quests N
@@ -6581,6 +6584,7 @@ xulColovianHighlands_EV.esp
 Billsburg-ColovianHighlands patch.esp
 EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
+ThievesGrotto-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
 xulChorrolHinterland Rwalk.esp

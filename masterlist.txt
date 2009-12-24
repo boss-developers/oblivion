@@ -2133,6 +2133,8 @@ Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 Akiviri Imports MOBS.esp
 AkatoshHead.esp
+Alchemist's Tome.esp
+? If using Wrye Bash use the bashed patch tweak instead.
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
@@ -5051,6 +5053,9 @@ BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
 Better Abandoned House.esp
+AbandonedHouse.esp
+? Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
+AbandonedHouseBC.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
@@ -6478,8 +6483,6 @@ ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
-Elsweyr Color Map.esp
-Colored Map for Elsweyr 1.1.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 Valenwood.esp
@@ -11054,7 +11057,10 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 \BeginGroup\: Last Files
 \''''''''''
 MergedMaps.esp
-\this so has to go last...
+Elsweyr Color Map.esp
+Colored Map for Elsweyr 1.1.esp
+\any map changing files esp have to go dead last other than pure script mods
+
 FormID Finder.esp
 ? Old, upgrade to version 4
 FormID Finder without Pluggy.esp

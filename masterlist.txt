@@ -371,6 +371,8 @@ CaeliaDraconisFix.esp
 sulinus fix.esp
 ? Not a fix exactly, so can be used with the UOP.
 sva_testFixBruma.esp
+Specular_Fix_1.1.esp
+% {{BASH:Graphics}}
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
@@ -7311,6 +7313,7 @@ Furniture Prices.esp
 gardening.esp
 Gary Gygax's Grave.esp
 Gattsurus Easier Black Soul Gems-TESSource.esp
+Gattsurus_Easier_Black_Soul_Gems.esp
 Get_Your_Arrows_Back-9403.esp
 ? Consider using Bash Patch tweaks instead, if possible.
 Gemfix-6955.esp
@@ -8214,11 +8217,13 @@ CDM-Scroll of Identify.esp
 Chargeable Spells by grmblf.esp
 ClaimThatInterior.esp
 ConduitMagic.esp
+DeathKightSpells v1_3.esp
 Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
 Detect Item.esp
 Elemental Horses.esp
+Empty_Soul_Gems.esp
 EnchantmentMastery.esp
 Exit_Spell.esp
 Finders Keepers.esp

@@ -6404,6 +6404,9 @@ HoarfrostCastle.esp
 % {{BASH:Hair}}
 HoarfrostCastle_delayer.esp
 
+LanternMonastery.esp
+FiveLanterns-HoarfrostCastle patch.esp
+
 MannimarcoComplete.esp
 MannimarcoRevisited.esp
 MannimarcoRevisitedOOO.esp

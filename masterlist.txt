@@ -47,6 +47,7 @@ Skingrad24Vars.esm
 IWRRetrofittedMaster.esm
 Improved Leveling System.esm
 Natural Interiors.esm
+? Not needed when using the mod 'All Natural'
 AWS-Core.esm
 EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
@@ -691,6 +692,7 @@ Weather Debug Spammer.esp
 Natural Interiors.esp
 % {{BASH:C.Climate}}
 Natural Interiors - Cities.esp
+? Not needed when using the mod 'All Natural'
 Natural Interiors - NE Compatibility.esp
 Natural Interiors - Windows to the World.esp
 NI-Fullcity-Anvilhome.esp
@@ -2391,6 +2393,7 @@ CrystalStaff.esp
 Cy.esp
 CaptureBalls.esp
 Colourwheels Sexy Lingerie HGEC.esp
+Colourwheels Sexy Regal Uniforms.esp
 chainmailsdezi.esp
 \EndGroup\\
 
@@ -3898,7 +3901,7 @@ FCOM_KDCircletsOOOOptimizedNPCEquip.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 ExnemRuneskulls.esp
->? Requires 'FCOM_ExnemRuneskulls.esp'.
+>? Requires 'FCOM_ExnemRuneskulls.esp'. If You use FCOM mod.
 ? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
@@ -5190,6 +5193,7 @@ CastawayIsles.esp
 Chinese Weapons.esp
 CompleteMagePack.esp
 CryptofDecay.esp
+Colourwheels_sexy_school_uniforms.esp
 \EndGroup\\
 
 \BeginGroup\: Quests D
@@ -7633,6 +7637,7 @@ Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
 
+Lovers.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp

@@ -3901,7 +3901,7 @@ FCOM_KDCircletsOOOOptimizedNPCEquip.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 ExnemRuneskulls.esp
->? Requires 'FCOM_ExnemRuneskulls.esp'. If You use FCOM mod.
+>? Requires 'FCOM_ExnemRuneskulls.esp'.
 ? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 FCOM_ExnemRuneskulls.esp
 ? Requires 'ExnemRuneskulls.esp'.
@@ -7077,6 +7077,7 @@ Book Placement v2.esp
 ? Try AutoBookPlacer v3 or later.
 AutoBookPlacer_v2.esp
 ? Update to v3 or later.
+Automatic Difficulty Increaser.esp
 Auto Potion.esp
 Auto Repair.esp
 Axebane_Hunters25.esp
@@ -7132,6 +7133,7 @@ Bottled_Explosions.esp
 Bow Damage Balanced.esp
 % {{BASH:Stats}} and deactivate.
 
+BOO_BulletTime.esp 
 Bullettimemod.esp
 Bullettimemodsetkey.esp
 Bullet Time Custom.esp
@@ -8518,6 +8520,9 @@ arcanevelocity200.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Faster Spells.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
+FasterArrows200.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+
 
 SSEE.esp
 Useful_TK-10337.esp

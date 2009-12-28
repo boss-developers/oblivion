@@ -221,10 +221,15 @@ Book Jackets Oblivion - BP - SSBFL.esp
 % {{BASH:Graphics,Scripts}}
 ? If not using Wrye Bash load this later (though then it will override somethings)
 
+Oblivion Vwalk.esp
+Oblivion_SI Vwalk Full.esp
+
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
 TRoN Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 TRoN Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 TRoN Vwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 \EndGroup\\
@@ -282,6 +287,7 @@ TNR - ShiveringIsles no helms.esp
 TNR - ShiveringIsles no helms Vwalk.esp
 Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Oblivion_SI Vwalk Full TNR.esp
 TweakedGenericFaces.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TweakedGenericFaces-LITE.esp
@@ -302,6 +308,14 @@ Beautiful_Women_Vampires.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Beautiful_Women_DB_Addon Vwalk.esp
+Beautiful_Women_NiceOnly Vwalk.esp
+Beautiful_Women_NotSoNice_Bonus Vwalk.esp
+Beautiful_Women_NotSoNice_Bonus.esp
+Beautiful_Women_SI Vwalk.esp
+Beautiful_Women_Vampires_50 VWalk.esp
+Beautiful Women Vwalk Full.esp
+Beautiful_Women_Vampires Vwalk.esp
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Handsome_Gents_DB_Addon.esp
@@ -452,6 +466,9 @@ SM Plugin Refurbish - SI.esp
 Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
+
+DLCShiveringIsles Vwalk.esp
+DLCShiveringIsles Vwalk DG_DS.esp
 
 MOBS.esp
 % {{BASH:Stats}}
@@ -1614,30 +1631,29 @@ RealitySpectre'sBetterPotions.esp
 %{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 
 RealWalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Oblivion Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Oblivion Swalk.esp
-Oblivion Vwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Oblivion_SI Rwalk Full.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Oblivion_SI Swalk Full.esp
-Oblivion_SI Vwalk Full.esp
-Oblivion_SI Vwalk Full TNR.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCShiveringIsles Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCShiveringIsles Swalk.esp
-DLCShiveringIsles Vwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCShiveringIsles Rwalk DG_DS.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCShiveringIsles Swalk DG_DS.esp
-DLCShiveringIsles Vwalk DG_DS.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities ESM Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities ESM Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Nude Swalk.esp
-Beautiful_Women_DB_Addon Vwalk.esp
-Beautiful_Women_NiceOnly Vwalk.esp
-Beautiful_Women_NotSoNice_Bonus Vwalk.esp
-Beautiful_Women_NotSoNice_Bonus.esp
-Beautiful_Women_SI Vwalk.esp
-Beautiful_Women_Vampires_50 VWalk.esp
-Beautiful Women Vwalk Full.esp
-Beautiful_Women_Vampires Vwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 
 REBetterLCB.esp
 %{{Bash:Graphics}} and deactivate.
@@ -1985,7 +2001,9 @@ DLCOrrery.esp
 DLCOrrery - Unofficial Patch.esp
 DBOO - Orrey.esp
 DLCOrrery Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCOrrery Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCOrrery Vwalk.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
@@ -2018,10 +2036,14 @@ Mehrunes_mobs.esp
 % {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk.esp
 DLCMehrunesRazor Rwalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Swalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk UOP.esp
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
@@ -3821,10 +3843,14 @@ DLCThievesDen - Unofficial Patch.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
 DBOO - ThievesDen.esp
 DLCThievesDen Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk.esp
 DLCThievesDen Rwalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Swalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
@@ -5127,7 +5153,9 @@ Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 BrumaMGRestored.esp
 BrumaMGRestored Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 BrumaMGRestored Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 BrumaMGRestored Vwalk.esp
 Buddah Mansion.esp
 BXX_Mines.esp
@@ -5526,7 +5554,9 @@ Kvatch Rebuilt - Leveled Guards - FCOM.esp
 All Natural - Kvatch Rebuilt Weather Patch.esp
 ? Obsolete as of All Natural v0.9.4. Safe to delete.
 Kvatch Rebuilt Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Vwalk.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
@@ -5808,7 +5838,9 @@ RumarePriory.esp
 RumpleMod.esp
 \^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 RumpleMod Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 RumpleMod Vwalk.esp
 RunedRobes.esp
 RuneTower.esp
@@ -6233,7 +6265,9 @@ Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCFrostcrag Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 DLCFrostcrag Vwalk.esp
 DLCfrostcrag Reborn Vwalk.esp
 DLCFrostcrag Spire Revisited Vwalk.esp
@@ -6275,10 +6309,14 @@ Knights - Unofficial Patch.esp
 % {{BASH:C.Light,Invent,Names,Relev,Stats}}
 DBOO - Knights.esp
 Knights Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Knights Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk.esp
 Knights Rwalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Knights Swalk UOP.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk UOP.esp
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
@@ -6614,7 +6652,9 @@ ThievesGrotto-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
 xulChorrolHinterland Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulChorrolHinterland Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulChorrolHinterland Vwalk.esp
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
@@ -6659,7 +6699,9 @@ NNWARE1_Dungeon05ULPatch.esp
 
 xulbravilbarrowfields.esp
 xulbravilbarrowfields Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulbravilbarrowfields Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulbravilbarrowfields Vwalk.esp
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
@@ -6713,7 +6755,9 @@ LostSwordoftheAyleids-ArriusCreek patch.esp
 xulRollingHills_EV_withoutWheat.esp
 xulRollingHills_EV.esp
 xulRollingHills_EV Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulRollingHills_EV Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulRollingHills_EV Vwalk.esp
 TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
@@ -6732,14 +6776,18 @@ ValleyViewEstate-RiverEthe patch.esp
 xulBrenaRiverRavine.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 xulBrenaRiverRavine Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulBrenaRiverRavine Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulBrenaRiverRavine Vwalk.esp
 Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
 xulImperialIsle.esp
 xulImperialIsle Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Vwalk.esp
 
 xulBlackwoodForest.esp
@@ -6767,7 +6815,9 @@ LtPD+NRB4+UL-II Patch.esp
 
 EtInArkay-UniqueLandscapes Merged patch.esp 
 xul Rwalk Full.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xul Swalk Full.esp
+? Old, consider upgrading to Sensual Walks mod'.
 xul Vwalk Full.esp
 \EndGroup\\
 
@@ -9826,7 +9876,9 @@ Cog-Rein.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 Companion Neeshka Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Companion Neeshka Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Companion Neeshka Vwalk.esp
 companion_moonelves.esp
 companion_chocolate.esp
@@ -10150,7 +10202,9 @@ Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
 Better Cities Full Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities Full Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities Full Vwalk.esp
 Better Cities Full - B&M Edition Vwalk.esp
 
@@ -10373,7 +10427,9 @@ Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
 Better Imperial City Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Imperial City Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Imperial City Vwalk.esp
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
@@ -10385,7 +10441,9 @@ Better Cities - COBL.esp
 \EndGroup\\
 
 Better Cities and IC Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities and IC Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Better Cities and IC Vwalk.esp
 
 \BeginGroup\: Better Cities FPS Patches
@@ -10917,14 +10975,18 @@ Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
 ? Do not run with ViconiaChapterTwo.esp.
 Viconia Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Viconia Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 Viconia Vwalk.esp
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
 ? Requires the Underdark.
 ? Do not run with Viconia.esp.
 ViconiaChapterTwo Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
 UnderdarkMap.esp
 

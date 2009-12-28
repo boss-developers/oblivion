@@ -6498,8 +6498,8 @@ FCOM_ruin.esp
 FCOM_slofsrobetrader.esp
 ? Requires 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
-? Requires 'Origin of the Mages Guild.esp' unless also using Slof's Oblivion Robe Trader.
-? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' instead.
+? Requires 'Origin of the Mages Guild.esp'.
+? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
 FCOM_OMGSRT.esp
 ? Requires both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
 FCOM_DulanCult.esp

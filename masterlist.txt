@@ -1414,6 +1414,8 @@ Kyoma's Focus on Shrine.esp
 \EndGroup\\
 
 \BeginGroup\: Base L
+LIPTemplate.esp
+? A modding esp - do not use in game, deactivate.
 
 lantern.esp
 LCD.esp
@@ -2951,6 +2953,7 @@ Slof's Boners! v5.esp
 Slof's Bracelet Collection.esp
 Slof's Bracelets & Rings.esp
 Slof's Claws.esp
+Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
 Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
@@ -3365,6 +3368,8 @@ DMRA Stock Armor Skimpy.esp
 DMRA Stock Clothing Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Robe Skimpy Replacer.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+HGEC Glass Replacement.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 Rinzei_UFFLeatherCorsetGown.esp
 UFF Armor of Gaia.esp
@@ -5010,7 +5015,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
-AshTentMod
+AshTentMod.esp
 Assassin's Hideout v1.1.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
@@ -5099,6 +5104,7 @@ Blackrock_Mountain-4489.esp
 Bottomless Cavern.esp
 Blacktache's Secrets 3.esp
 Blitz's Dungeons & Realms- Molag Fel.esp
+BogwaterDowns.esp
 Boqwater_Settlement_V103.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
@@ -7838,6 +7844,7 @@ CLS-CB-Cobl.esp
 CLS-Craftybits_A_Bloody_Mess-Glue.esp
 CLS-Craftybits_A_Bloody_Mess-Glue-Ragplacer.esp
 CLS-Craftybits Raw Material Supplier addon.esp
+CB-X-Skills Removal.esp
 
 Enhanced Economy - House prices.esp
 
@@ -8358,6 +8365,7 @@ unnatural_aura_by_trollf.esp
 
 sr_enhanced_magic_system.esp
 SpellSinger.esp
+ZuzSetBody.esp
 \EndGroup\\
 
 \BeginGroup\: Mighty Magic
@@ -10006,6 +10014,7 @@ Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent,merge}} and deactivate
+TML_SummonsUnlocked.esp 
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 2

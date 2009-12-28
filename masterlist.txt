@@ -3039,6 +3039,7 @@ tkRapiers.esp
 tkSwords.esp
 tona_muffler.esp
 tona_clothes_and_underwear.esp
+tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
 trfdaedricarmors.esp
 trfjChronoStaff.esp
@@ -4038,7 +4039,8 @@ OMOBS.esp
 % {{BASH:Stats}} and deactivate
 OMOBS_SI.esp
 % {{BASH:Stats}} and deactivate
-OMOBS_Optionial Combat Settings
+OMOBS_Optionial Combat Settings.esp
+OMOBS Optional Combat Settings.esp
 
 mg19obsefix.esp
 ? Requires OBSE
@@ -6214,6 +6216,8 @@ Lynges Thieves Highway - OOO.esp
 
 DLCFrostcrag.esp
 % {{BASH:C.Owner}}
+DLCFrostcragReborn.esp
+? Dummy esp for use with The Ayleid Steps.
 Kvatch Rebuilt_Frostcrag Reborn.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
@@ -6642,6 +6646,7 @@ Castle_Almgard-V2.esp
 anvil bay+ul tweak.esp
 ? Obsolete. Upgrade to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 BrewHouse-LostCoast patch.esp
+SkingradMarket-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Also use Sutch reborn Lighthouse Fix UL.esp.
 Sutch reborn Lighthouse Fix UL.esp
@@ -6746,6 +6751,7 @@ TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
+Villages-CheydinhalFalls patch.
 
 xulAspenWood.esp
 Lakewood+AspenWood Patch.esp
@@ -7690,7 +7696,10 @@ Enhanced Vegetation [150%].esp
 
 Sigil Stone Alternative.esp
 Sigil Stones Unlevelled.esp
+SigilStonesUnlevelled.esp
 Sigil Stones Unlevelled - Adjusted.esp
+SigilStonesUnlevelled - Adjusted.esp
+
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
@@ -9804,6 +9813,7 @@ cssMerged12Sets.esp
 cssJeremiah.esp
 cssJaKhaiitMyr.esp
 
+1em_Vilja.esp
 Aliyah.esp
 Arwen companion.esp
 % {{BASH:Hair,Eyes}}

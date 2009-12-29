@@ -10185,7 +10185,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:Faces}} and deactivate
+% {{BASH:NPCFaces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 \EndGroup\\

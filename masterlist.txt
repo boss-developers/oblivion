@@ -945,6 +945,7 @@ AmbientDungeons.esp
 
 1vampirescocktail.esp
 13rings.esp
+1440-1-Black Soul Merchant-TESSource.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
 2680twohand.esp
@@ -4760,6 +4761,7 @@ CrystalCalendar.esp
 Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp
 Wearable GS and DS armor for OOO.esp
+SI Armours Wearable - Frans.esp
 
 EnchantedGems_Geomancy.esp
 % {{BASH:Scripts}}
@@ -9155,6 +9157,8 @@ GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
 
 DMRequirements.esp
+? Old, update to version 1.4+
+DMRequirements V1.4.esp
 
 TML_TrainingUncap.esp
 Uncapped Blivvy UHM.esp
@@ -9838,6 +9842,8 @@ AsharasCMPartners.esp
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
 companion_moonelves.esp.
+Terimer.esp
+% {{BASH:Hair,Eyes}}
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp

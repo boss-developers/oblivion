@@ -5044,6 +5044,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 A Son's Revenge 2.0.esp
+Asharnakibibi 1_2.esp
 AshTentMod.esp
 Assassin's Hideout v1.1.esp
 Aundae.esp
@@ -5126,6 +5127,7 @@ BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
 Bjornheim.esp
+BlackMarshHall.esp
 BlackRockManorV11.esp
 
 Blackrock_Mountain-4489.esp
@@ -5165,6 +5167,7 @@ BXX_Mines.esp
 \BeginGroup\: Quests C
 
 Capsized Ship.esp
+CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
 CityofSunevV058.esp
 Colossus_01.esp
@@ -5296,9 +5299,11 @@ Duke Patricks Dragon and the Sword of Might.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
+Duke Patricks - HammerBlade.esp
 
 DukeCity.esp
 Dungeo Forgotten Tower.esp
+Dungeo Forgotten Tower Reduced Spawns.esp
 
 DarkDale.esp
 
@@ -5342,6 +5347,7 @@ FalamirTheMerchant.esp
 FallenTower.esp
 Fanacasecul.esp
 fishing boat.esp
+TheForbiddenSecret.esp
 Forgotten Chapel.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
@@ -5517,6 +5523,8 @@ Jagnot- Imperial City Library V1.3.esp
 Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
+Jason1_Pirate Ship.esp
+Jeral View Chalet.esp
 JolardHome.esp
 JQ-AssassinQuest.esp
 JQ-AssassinQuest-NoMarkers.esp
@@ -6169,6 +6177,7 @@ ZOMBIES! - 28 days and a bit V2.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
 zDangerSense.esp
+Zergonipilamat 1_2.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
 Zera LeSaar's Frostrift Cavern.esp
@@ -7766,6 +7775,7 @@ Sigil Stones Unlevelled.esp
 SigilStonesUnlevelled.esp
 Sigil Stones Unlevelled - Adjusted.esp
 SigilStonesUnlevelled - Adjusted.esp
+SigilStonesUnlevelled - SSEE-OOO.esp
 
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
@@ -7816,6 +7826,7 @@ Storms & Sound Patches.esp
 ? This is a custom merge.
 
 ShippingInCyrodiil-08.esp
+ShippingInCyrodiil_Normal_Lights_V1-1 - With Drawbridges.esp
 SkoomaTest.esp
 
 StackableEquipment.esp
@@ -8986,6 +8997,7 @@ kuerteeAttributeAndSkillBasedDamageModifiers.esp
 ? Make sure to set calculateFromVanilla in the included ini file to 0 when used alongside other combat mods.
 kuerteeNPCsYield.esp
 kuerteeBattleFatigueAndInjuries.esp
+kuertee MMM OnLoadCS disabled hmf effects.esp
 
 Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
 ? Old. Upgrade to latest version.

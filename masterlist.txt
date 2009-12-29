@@ -2910,7 +2910,6 @@ Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
 Rum1.esp
-runestone.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
 Running4Cover's Welkynd Weapons - Free.esp
@@ -4059,6 +4058,7 @@ OOONoLockBash.esp
 DBOO.esp
 DBOO - MOBS.esp
 DBOO - OOO.esp
+Fine Weapons for OOO.esp
 
 Oscuro's_Oblivion_Overhaul Vwalk.esp
 
@@ -4083,8 +4083,6 @@ Choices and Consequences - OOO.esp
 C&C&EQR - OOO.esp
 ? Not the latest version, the latest version has the same file names as the previous version. Update.
 
-\ArmamentariumLLVendor.esp
-\incorrect file
 ArmamentariumLLVendors.esp
 ? Can be used with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
@@ -5033,6 +5031,7 @@ Armoured Arms Altered.esp
 ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
+ArrowRestLodge.esp
 Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 Artifacts.esp
@@ -5208,10 +5207,13 @@ ChangeinManagement.esp
 Clamshell_Cottage_v1.5_COBL.esp
 ArCloudRulerArmoryExtended.esp
 Cloudruler Guest Quarters.esp
+Chapel Sanctuary.esp
 cherydinhal_murder_quest-3185.esp
 2106-2-cherydinhal murder quest-TESSource.esp
+Cheydinhal House.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
+ChorrolFirstHouse.esp
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
@@ -5305,6 +5307,7 @@ DarkDale.esp
 \BeginGroup\: Quests E
 
 EaglesRest.esp
+eden castle.esp
 Egainjo Manor.esp
 Elemental Witches.esp
 ElsweyrRiverhold.esp
@@ -5325,6 +5328,7 @@ Extended Skingrad.esp
 Extended Skingrad Vwalk.esp
 Extended City Series Vwalk.esp
 Extended NPCs Merge.esp
+EvilLair.esp
 Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
 eyja.esp
@@ -5338,6 +5342,7 @@ FalamirTheMerchant.esp
 FallenTower.esp
 Fanacasecul.esp
 fishing boat.esp
+Forgotten Chapel.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
 Fort_Walastar.esp
@@ -5424,6 +5429,7 @@ hallofthemountainking.esp
 hackdirtabyss.esp
 HackdirtCaverns.esp
 Halcyon House.esp
+Halls of Unrelent.esp
 Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
@@ -5649,6 +5655,7 @@ Mara's Tower.esp
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
 MadHouseV12.esp
+Mad Mages Manor.esp
 MadMagesTower.esp
 ? Edits border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
 ? Use 'MadMagesTower-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
@@ -5663,6 +5670,7 @@ MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
 Mercenaries.esp
+Millstone_Farm.esp
 Mimics!.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
@@ -5726,6 +5734,7 @@ All Natural - Nascosto Isles Weather Patch.esp
 NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
+NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
 Nine Divines Robes.esp
@@ -5773,8 +5782,10 @@ Pats Business Mod---Shop Version 1.6.esp
 Pats Business Mod---Shop Version 2.0.esp 
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
+Pimea_Necromancers_lair.esp
 PinePeakLodge.esp
 Pinevale.esp
+Pinewood.esp
 Pit Trap.esp
 PirateIsland.esp
 Pirates Grave V1.1.esp
@@ -5845,6 +5856,7 @@ RumpleMod Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 RumpleMod Vwalk.esp
 RunedRobes.esp
+runestone.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
@@ -5895,6 +5907,7 @@ Skingrad Market 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
 Skye Village Final.esp
+Sky Haven.esp
 SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
@@ -6102,6 +6115,7 @@ Vypers Arrow Spells-Vanilla V2.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
+WaterloggedTower.esp
 WaterSphere.esp
 Wayshrines in the University.esp
 Wayshrines.esp
@@ -6112,6 +6126,7 @@ WellspringGrove.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 White Tower v0.8.esp
+WinterCabin.esp
 Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
 Woodcutters_Cabin.esp

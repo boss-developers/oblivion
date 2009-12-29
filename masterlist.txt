@@ -1510,6 +1510,8 @@ Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 ? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
+CBMS_V2.esp
+? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin) 
 
 Better Beggars.esp
 
@@ -2202,6 +2204,7 @@ Auras.esp
 azsTHouse.esp
 azsTrHouse.esp
 azsNarutoArmor.esp
+alllll61s-blueness lion armor.esp
 
 Armor of Heaven's Fury-Gold-Heavy-Alt-helm.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
@@ -2419,6 +2422,7 @@ Cy.esp
 CaptureBalls.esp
 Colourwheels Sexy Lingerie HGEC.esp
 Colourwheels Sexy Regal Uniforms.esp
+ColourWheels Sexy Servant Uniform.esp
 chainmailsdezi.esp
 \EndGroup\\
 
@@ -2524,6 +2528,7 @@ Daedric Weaponz_1C.esp
 Dark Tower Shield.esp
 DarkFlame.esp
 dezichainrobe.esp
+DH13 Recolor Hentai Cloths.esp
 \EndGroup\\
 
 \BeginGroup\: Items E
@@ -2566,6 +2571,7 @@ Frost Atronach Staff.esp
 FrostmourneBetter.esp
 Flamberge.esp
 Fur Cape.esp 
+FancyFinery.esp
 \EndGroup\\
 
 \BeginGroup\: Items G
@@ -2642,6 +2648,7 @@ Hentai Mania.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
+HGEC Evening Dress.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -2734,6 +2741,7 @@ LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
+0FLeatherSuitV2.esp
 \EndGroup\\
 
 \BeginGroup\: Items M
@@ -2784,6 +2792,7 @@ MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
+MHSNfuru.esp
 MehrunesDagonOutfit.esp
 \EndGroup\\
 
@@ -2846,6 +2855,7 @@ Oddbasket Glass Replace ALT.esp
 Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
+Onechanbara Aya's Bikini.esp
 \EndGroup\\
 
 \BeginGroup\: Items P
@@ -7631,6 +7641,7 @@ Oblivifall - New Classes.esp
 Oblivifall - Something's Not Right.esp
 Ohgma Infinium OverHaul.esp
 Orrery_Rewards.esp
+OS-foot-HORSE.esp
 \EndGroup\\
 
 \BeginGroup\: overrides P
@@ -8385,10 +8396,12 @@ P1DsafeContainers.esp
 10Physic Magic effect ITA.esp
 10phisic.esp
 PJs Disco Spell.esp
+PJs Spells - Cheap Spells.esp
+? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
 PJs Spell Compendium - No Requirements.esp
-? Use only one 'PJs Spell Compendium - X .esp.
+? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
 PJs Spell Compendium - Spell Requirements.esp
-? Use only one 'PJs Spell Compendium - X .esp.
+? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
 PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
@@ -8521,9 +8534,11 @@ SM Spell Leveller - OOO.esp
 SM Spell Leveller - Shivering Isles.esp
 SM Spell Leveller - SupremeMagicka.esp
 SM Spell Leveller - Vile Lair.esp
+Restore Health Addon By Hqthief.esp
 Diverse Effects Icons for SM.esp
 Diverse Effect Icons for SM.esp
 bgMagicEV_Conjuration_for_Supreme_Magicka.esp
+% {{BASH:NoMerge}}
 ? Requires Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.

@@ -132,6 +132,7 @@ AkaviriKojima.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
 NNWAEMaster.esm
+WhiteArmor.esm
 Wondrous Items.esm
 VVAdvanced.esm
 Adrenaline Locational Masterfile.esm
@@ -1293,6 +1294,7 @@ DZ_Hide_Grass.esp
 \BeginGroup\: Base E
 
 EasySpellRemovalv1.esp
+eek's Poisoning and Skooma Refining merged.esp
 Effect Shader Warehouse.esp
 Elder Scrolls Book Club - Oblivion.esp
 Elys - Yuda The Elder Trainer.esp
@@ -1342,69 +1344,6 @@ HTFpcb Extended.esp
 \EndGroup\\
 
 \BeginGroup\: Base I
-
-IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
-SB IC Palace Tower Light Mod v1.1.esp
-SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
-
-ImpeREAL City Unique Districts - Talos Plaza.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Elven Gardens.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Green Emperor Way.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Prison.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Arena.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Waterfront.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Temple.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - The Arcane University.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - The Arcane University Towers Visible From Outside.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Market.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Arboretum.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
-ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
-? Not compatible with Better Cities.
-ImpeREAL Empire - Unique Castles - Anvil.esp
-? Not compatible with Better Cities Full or Better Cities Anvil components.
-ImpeREAL Empire - Unique Castles - Bravil.esp
-? Not compatible with Better Cities Full or Better Cities Bravil components.
-ImpeREAL Empire - Unique Castles - Bruma.esp
-? Not compatible with Better Cities Full or Better Cities Bruma components.
-ImpeREAL Empire - Unique Castles - Cheydinhal.esp
-? Not compatible with Better Cities Full or Better Cities Cheydinhal components.
-ImpeREAL Empire - Unique Castles - Chorrol.esp
-? Not compatible with Better Cities Full or Better Cities Chorrol components.
-ImpeREAL Empire - Unique Castles - Leyawiin.esp
-? Not compatible with Better Cities Full or Better Cities Leyawiin components.
-ImpeREAL Empire - Unique Castles - Skingrad.esp
-? Not compatible with Better Cities Full or Better Cities Skingrad components.
-ImpeREAL Empire - Unique Forts.esp
-
-ImprovedChorrol.esp
-? Not compatible with Better Cities Full or Better Cities Chorrol components.
-? Not compatible with Open Cities Complete or Open Cities Chorrol components.
-? Not compatible with Open Better Cities Complete or Open Better Cities Chorrol components.
-Improved Skingrad.esp
-? Not compatible with Better Cities Full or Better Cities Skingrad components.
-? Not compatible with Open Cities Complete or Open Cities Skingrad components.
-? Not compatible with Open Better Cities Complete or Open Better Cities Skingrad components.
 
 ImprovedSigns.esp
 Inebriation.esp
@@ -3163,6 +3102,7 @@ WarriorBandages_V2.0.esp
 WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
+White Leather Armor.esp
 WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
@@ -5026,6 +4966,7 @@ Anvil_MorningGloryBetterCities_Mixed.esp
 
 AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
+AoshisStealthEntrances.esp
 Aqvatika.esp
 Aqua_City_01.esp
 ? Requires Shivering Isles
@@ -5114,6 +5055,11 @@ BeldaElysium.esp
 BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
+Better Dark Brotherhood Sanctuary.esp
+Better Dark Brotherhood Sanctuary for OBSE.esp
+Better Dark Brotherhood Sanctuary for Cobl.esp
+Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
+Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 Better Abandoned House.esp
 AbandonedHouse.esp
 ? Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
@@ -5507,6 +5453,72 @@ OC_HOD_delayer.esp
 
 \BeginGroup\: Quests I
 
+IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
+SB IC Palace Tower Light Mod v1.1.esp
+SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
+
+Shezrie's Villages.esp
+ImpeREAL City Unique Districts - Talos Plaza.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Elven Gardens.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Green Emperor Way.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Prison.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Arena.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Waterfront.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Temple.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - The Arcane University.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - The Arcane University Towers Visible From Outside.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Market.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Arboretum.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Disstricts - Lightless - All the Districts - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
+? Not compatible with Better Cities.
+ImpeREAL Empire - Unique Castles - Anvil.esp
+? Not compatible with Better Cities Full or Better Cities Anvil components.
+ImpeREAL Empire - Unique Castles - Bravil.esp
+? Not compatible with Better Cities Full or Better Cities Bravil components.
+ImpeREAL Empire - Unique Castles - Bruma.esp
+? Not compatible with Better Cities Full or Better Cities Bruma components.
+ImpeREAL Empire - Unique Castles - Cheydinhal.esp
+? Not compatible with Better Cities Full or Better Cities Cheydinhal components.
+ImpeREAL Empire - Unique Castles - Chorrol.esp
+? Not compatible with Better Cities Full or Better Cities Chorrol components.
+ImpeREAL Empire - Unique Castles - Leyawiin.esp
+? Not compatible with Better Cities Full or Better Cities Leyawiin components.
+ImpeREAL Empire - Unique Castles - Skingrad.esp
+? Not compatible with Better Cities Full or Better Cities Skingrad components.
+ImpeREAL Empire - Unique Forts.esp
+
+ImprovedChorrol.esp
+? Not compatible with Better Cities Full or Better Cities Chorrol components.
+? Not compatible with Open Cities Complete or Open Cities Chorrol components.
+? Not compatible with Open Better Cities Complete or Open Better Cities Chorrol components.
+Improved Skingrad.esp
+? Not compatible with Better Cities Full or Better Cities Skingrad components.
+? Not compatible with Open Cities Complete or Open Cities Skingrad components.
+? Not compatible with Open Better Cities Complete or Open Better Cities Skingrad components.
+
 IC Atmospheric Shops Mod.esp
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
@@ -5850,6 +5862,7 @@ Quest Nirnroot.esp
 Reaper's Coldstone Town.esp
 ? Incompatible with Heart of the Dead.
 Reaper_Drakelowe's Witch.esp 
+Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
 RavenviewVillageVer2.0.esp
@@ -5918,7 +5931,6 @@ Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
 ShadySamFence.esp
-Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
 ShipInATree.esp
 Shivering Farm.esp
@@ -5979,6 +5991,7 @@ Star's Rest.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
+swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
@@ -6846,7 +6859,8 @@ TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
-Villages-CheydinhalFalls patch.
+Villages-CheydinhalFalls patch.esp
+Villges-CheydinhalFalls patch.esp 
 
 xulAspenWood.esp
 Lakewood+AspenWood Patch.esp
@@ -7202,11 +7216,6 @@ Automagic Bags.esp
 Bag of Alchemy.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
-Better Dark Brotherhood Sanctuary.esp
-Better Dark Brotherhood Sanctuary for OBSE.esp
-Better Dark Brotherhood Sanctuary for Cobl.esp
-Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
-Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 Better_Amelion_Gear.esp
 Better_Blade_Equipment.esp
 BetterCoins.esp
@@ -7240,6 +7249,8 @@ Bonds Big Portable Tent.esp
 Tent.esp
 Bottled_Explosions.esp
 Bow Damage Balanced.esp
+% {{BASH:Stats}} and deactivate.
+Brandon's Misc Rebalance.esp
 % {{BASH:Stats}} and deactivate.
 
 BOO_BulletTime.esp 
@@ -7465,6 +7476,7 @@ Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
+Hurt Me Traps.esp
 \EndGroup\\
 
 \BeginGroup\: overrides I
@@ -7614,6 +7626,7 @@ Near100PercentArrowRecovery.esp
 NE_Realistic_Blocking.esp
 NewMerchantItems.esp
 New_Magical_Staves.esp
+NFs_Kvatch_Guard_Tweak-7399.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
 No Glow Grass.esp
@@ -7758,6 +7771,7 @@ sexlivion.esp
 FriendsAndLovers.esp
 bondage_sex.esp
 Eroblivion.esp
+Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
 /don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
@@ -9310,6 +9324,8 @@ CTAddPose_Le01.esp
 CTAddPose_Le02.esp
 CTAddPose_OTPair.esp
 CTAddPose_ bondage_sex.esp
+CTAddPose_bondage_sex-2.esp 
+
 
 LainPose.esp
 LainPoseMOD.esp

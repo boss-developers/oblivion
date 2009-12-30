@@ -180,6 +180,8 @@ Tabaxi_Race_Default.esm
 x117race.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+p2p'sAshDraconian.esm
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
@@ -1606,6 +1608,7 @@ Purge Cell Buffers - Loading.esp
 Faction_Rank_Fix-5862.esp
 Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
+p2p'sAshDraconian.esp
 \EndGroup\\
 
 \BeginGroup\: Base Q
@@ -8330,6 +8333,7 @@ Arcane Calendar.esp
 Ayleid Expansion.esp
 ? Suspected of messing up your magicka multiplier.
 AyleidWeaponEnchantments_balance.esp
+aaBlazesPlusMod.esp
 Banishment Works.esp
 BasicInstinct.esp
 Better Scrolls.esp
@@ -8392,9 +8396,11 @@ Natural Rings Limit.esp
 Is It Safe.esp
 ME_WAR_SUMMONS.esp
 Mannimarco's Grasp.esp
+mass magic and spells.esp
 Meteor Shower.esp
 Multiple Creature Summoning.esp
 Level Based Summon Cap.esp
+Necronlittlemagicmod1.1.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
 OblivionGateTraveller.esp
@@ -8405,6 +8411,7 @@ P1DsafeContainers.esp
 10Physic Magic effect ENG.esp
 10Physic Magic effect ITA.esp
 10phisic.esp
+p2p'sADMagic.esp
 PJs Disco Spell.esp
 PJs Spells - Cheap Spells.esp
 ? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
@@ -8491,7 +8498,7 @@ Mighty Magick - Side Effects.esp
 Mighty Magick - Sigil Stones.esp
 Mighty Magick - Restore Magicka Potions.esp
 Mighty Magick - Restore Magicka Potions [Vanilla].esp
-Mighty for Midas - Rational.esp
+MMRSpells.esp
 DLCSpellTomes MM Patch.esp
 DLCSpellTomes MMR Patch.esp
 DLCThievesDen MMR Patch.esp
@@ -8506,7 +8513,7 @@ Mighty Magick Mod Upgrades.esp
 Alter Weight Spells - MM.esp
 Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
-MidasSpells_MM.esp
+Improved_Ancestor_Guardian_Mighty_Magick_Version.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
@@ -8574,6 +8581,11 @@ Midas Reduced Costs 3 Quarters.esp
 ? Use only one Reduced Costs module at a time
 Mart's Monster Mod - Midas Creature Ingredients.esp
 FrostcragMidasLab.esp
+
+Mighty for Midas - Rational.esp
+MidasSpells_MM.esp
+Mighty Magick - Midas.esp
+MidasSpells - MMR Patch.esp
 
 Midas PowDur1.5x.esp
 ? Use only one PowDur modifier at a time. Load after midasspells.esp
@@ -10224,6 +10236,7 @@ sr_race_balance_tweaks.esp
 Trap.esp
 Cobl Races - Balanced.esp
 % {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
+Cobl Balanced Races - MMR Patch.esp
 Diverse Races.esp
 % {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp

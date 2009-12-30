@@ -119,6 +119,7 @@ Kvatch Rebuilt.esm
 Better Cities Resources.esm
 Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
+BetterMusicSystem.esm
 bookplacing.esm
 BathingMod_Base.esm
 BP EDIT.esm
@@ -1017,7 +1018,7 @@ All normal clothes buyable.esp
 SI Clothes.esp
 \EndGroup\\
 
-\BeginGroup\: Base B
+\BeginGroup\: 
 
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}} and deactivate.
@@ -1053,6 +1054,7 @@ Book- - Brotherly Betrayal.esp
 David_Whitefang_Book_One.esp
 Bosmer Meat Mandate.esp
 % {{BASH:Invent}}
+Bottledbloodv1.esp
 Brandy.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
@@ -1509,6 +1511,9 @@ Immersive Music.esp
 Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
+? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
+? Old version, upgrade to version 2+.
+BetterMusicSystem(Elsweyr).esp
 ? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 CBMS_V2.esp
 ? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin) 
@@ -3727,6 +3732,7 @@ Slof's Extra Horses.esp
 % {{BASH:Graphics}}
 Slof's Black Unicorn.esp
 % {{BASH:Graphics}}
+Tyler's Horses.esp
 HRMHorseArmor.esp
 % {{BASH:Graphics}}
 HRMHorseArmorSlofsHorsesPatch.esp
@@ -4770,6 +4776,7 @@ Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp
 Wearable GS and DS armor for OOO.esp
 SI Armours Wearable - Frans.esp
+Loot_All_Armor_SE.esp
 
 EnchantedGems_Geomancy.esp
 % {{BASH:Scripts}}
@@ -4913,6 +4920,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
 300_Artifacts.esp
+300_Weapons.esp
 300_KillTheDB.esp
 
 300_White Stallion+SB23.esp
@@ -8233,9 +8241,11 @@ StarX Vanilla Vampires Revised.esp
 StarX VVR_OOO Patch.esp
 MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
+JaySuS-Vampire-Mod-MKV-V3.8.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
+PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
 ? Old upgrade to 'Twillith vampirism.esp'.
 Twillith vampirism 1.71.esp
@@ -10684,6 +10694,7 @@ Chameleon-NoRefraction-2411.esp
 AznarsLifeDetect.esp
 AznarsLifeDection-3052.esp
 LifeDetect Shader HQ.esp
+LifeDetect Shader LQ.esp
 BadderFireFX.esp
 BadderFrostFX.esp
 BadderShockFX.esp

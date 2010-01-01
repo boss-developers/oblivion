@@ -2527,6 +2527,7 @@ FrostmourneBetter.esp
 Flamberge.esp
 Fur Cape.esp 
 FancyFinery.esp
+0FallenOutfit.esp
 \EndGroup\\
 
 \BeginGroup\: Items G
@@ -2569,6 +2570,7 @@ Noviere's Gray Fox Armor.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
+GekkoukanSet.esp
 \EndGroup\\
 
 \BeginGroup\: Items H
@@ -2878,6 +2880,8 @@ Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
+RRSeifuku.esp
+RRWeapos&Armors.esp
 Rum1.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
@@ -2939,6 +2943,7 @@ Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp  
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
+SedaArmorL.esp
 Slof's & Orc's Armours.esp
 Slof's Boners!.esp
 Slof's Boners! v5.esp
@@ -9509,6 +9514,8 @@ WhiskersAll.esp
 \''''
 
 UnlockedHairs.esp
+Custom Hairs for Vanilla Race.esp
+% {{BASH:Hair}}
 M.O.E. - Unlocked Hairstyles.esp
 Bald_Hairstyle.esp
 % {{BASH:Hair}} and deactivate.

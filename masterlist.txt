@@ -1258,6 +1258,10 @@ Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
 % {{BASH:Invent}}
+? Only use one ChallangingThievery*.esp.
+ChallangingThieveryNoHouseAdditions.esp
+% {{BASH:Invent}}
+? Only use one ChallangingThievery*.esp.
 \EndGroup\\
 
 \BeginGroup\: Base D
@@ -2586,6 +2590,8 @@ HD Aragorn Armor.esp
 HelmetCollection.esp
 HellSpawnDaedric for Exnem.esp
 Hell'sExecutioner.esp
+Hemingweys NPC Capes.esp
+Hemingweys Capes.esp
 
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
@@ -2631,6 +2637,8 @@ JCapesBonus.esp
 Jedi LightSabers with Sound.esp
 ? Requires OBSE
 JG Elven.esp
+Johnn's Cutlass Mod.esp
+Johnn's Cutlass Mod - Offhand Series.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
@@ -2889,6 +2897,7 @@ Saint Hiryu's Artifacts.esp
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
+ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
@@ -6128,6 +6137,7 @@ VaultsofCyrodiilBC.esp
 Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
+VHBloodlines 1.2 Vwalk.esp
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
@@ -7500,6 +7510,7 @@ Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
+IS_CaskOfSouls_1.1.esp
 \EndGroup\\
 
 \BeginGroup\: overrides J
@@ -7730,6 +7741,7 @@ DBWGP.esp
 ReneersTrainingMod.esp
 ReneerShipMod.esp
 ResizedPassivenQuiet.esp
+Respawning Varla & Welkynd Stones.esp
 Retros Fletching and Imbueing.esp
 ? May not be compatible with MMM crafting - untested.
 Ring of console.esp

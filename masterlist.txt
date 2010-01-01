@@ -101,6 +101,7 @@ SoS Library.esm
 Enhanced Daedric Invasion.esm
 ORP.esm
 CyrodiilUpgradeResourcePack.esm
+AGC-TARDISmstr.esm
 (DC)A Saints Tale Master.esm
 TamrielTravellers.esm
 TamrielTravellers SI.esm
@@ -4922,6 +4923,10 @@ AdenseEpicDungeon1_5.esp
 Adenses Better Waterfront.esp
 Adrift.esp
 Adventurers farm.esp
+AGC-TARDISoutside.esp
+? use either outside for vanilla or inside for open cities
+AGC-TARDISinside.esp
+? use either outside for vanilla or inside for open cities
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 AkaviriKojimaTravel.esp
@@ -5094,6 +5099,7 @@ Better_Alchemy_Shops-2482.esp
 BeyondCyrodiil-Camps.esp
 Big Business.esp
 Billsburg.esp
+English Billsburg_Rens_Hair_1.51.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
@@ -5404,6 +5410,7 @@ Gaenor in Dementia.esp
 GlimmeringCastle.esp
 Guards.esp
 GwedenBrothel.esp
+GwedenExpansion.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
 \EndGroup\\
@@ -6719,6 +6726,7 @@ Anequina-Fallenleaf-Patch.esp
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
 Billsburg-ColovianHighlands patch.esp
+Billsburg-UniqueLandscapes patch.esp
 EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
 ThievesGrotto-ColovianHighlands patch.esp

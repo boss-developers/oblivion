@@ -2373,6 +2373,7 @@ crusadercg.esp
 % {{BASH:Invent}}
 Crystalline Sword.esp
 CrystalStaff.esp
+Crystal Weapons and Armor.esp
 Cy.esp
 CaptureBalls.esp
 Colourwheels Sexy Lingerie HGEC.esp
@@ -6089,6 +6090,7 @@ To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
+Tona's_ModsStore.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
@@ -6475,8 +6477,6 @@ CybHardest.esp
 Damarask.esp
 Castle_Knightstone.esp
 ? Remember to use the correct version depending on Knights of the Nine being installed or not.
-Gah Falquan Umarile.esp
-Gah Falquan Umarile Indy.esp
 
 TOTF.esp
 OCC-TOTF-Patch.esp
@@ -6594,6 +6594,9 @@ Origin of the Mages Guild OOO Patch.esp
 
 \BeginGroup\: Quests and Locations 4
 \----------------------
+
+Gah Falquan Umarile.esp
+Gah Falquan Umarile Indy.esp
 
 Unofficial Patches & Refurbish - ALL.esp
 

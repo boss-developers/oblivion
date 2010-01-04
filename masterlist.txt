@@ -16,6 +16,7 @@
 Oblivion.esm
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
+MiddleEarth.esm
 Underdark.esm
 GTAesgaard_2.esm
 Belas.esm
@@ -197,7 +198,6 @@ ShieldOnBack.esm
 UndiesUnderneath.esm
 StarX Vampire Deaths.esm
 MALO - MAIN.esm
-MiddleEarth.esm
 Housing_Master.esm
 \EndGroup\\
 
@@ -1452,6 +1452,7 @@ MYR_AyleidExtensions.esp
 Maigrets House Cats.esp
 Maigrets Pet Fox.esp
 Summon Undead Mount by Nitocris.esp
+MERP-Bree House Interiors.esp
 
 P1DmenuEscape.esp
 QZ Easy Menus.esp
@@ -5338,6 +5339,7 @@ Eyja Abriael Human Vwalk.esp
 FalamirTheMerchant.esp
 FallenTower.esp
 Fanacasecul.esp
+Farleum V 1.2.esp
 fishing boat.esp
 TheForbiddenSecret.esp
 Forgotten Chapel.esp
@@ -7950,7 +7952,6 @@ Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 undercover.esp
 UV Vanilla Quest Fixes.esp
-UV Vanilla Quest Fixes.esp
 \EndGroup\\
 
 \BeginGroup\: overrides V
@@ -8418,6 +8419,9 @@ JADPolymorphSpellv3.esp
 Polymorph DV.esp
 Master_of_Puppets-7132.esp
 JIM_Summon_Doppleganger.esp
+? use only one 'JIM_Summon_Doppleganger.esp' or 'JIM_Balanced_Doppleganger.esp'
+JIM_Balanced_Doppleganger.esp
+? use only one 'JIM_Summon_Doppleganger.esp' or 'JIM_Balanced_Doppleganger.esp'
 JIM_Summon_Unicorn.esp
 ? Do not activate alongside other horse summoning mods. Use only one .esp.
 KT_DetectHostility.esp

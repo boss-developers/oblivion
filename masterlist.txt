@@ -354,9 +354,9 @@ Colourwheels Sexy Female NPCs Vwalk.esp
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
 nVidia Black Screen Fix.esp
-? Use UOP v3.0.1 or later instead.
+? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
 Black Screen Fix.esp
-? Use UOP v3.0.1 or later instead.
+? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
 BlackScreenToggleFix.esp
 
 Erthor_Fix-2593.esp
@@ -484,6 +484,29 @@ MOBS SI Optional Combat Settings.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
 
 New Duke and Duchess.esp
+\EndGroup\\
+
+\BeginGroup\: VWalk Post-UOP Files
+\----------
+
+Oblivion Vwalk UOS.esp
+Oblivion_SI Vwalk Full UOS.esp
+DLCShiveringIsles Vwalk UOS.esp
+DLCShiveringIsles Vwalk DG_DS UOS.esp
+
+TNR ALL RACES FINAL Vwalk UOS.esp
+TNR - ShiveringIsles no helms Vwalk UOS.esp
+Oblivion_SI Vwalk Full TNR UOS.esp
+
+Beautiful_Women_NiceOnly Vwalk UOS.esp
+Beautiful_Women_DB_Addon Vwalk UOS.esp
+Beautiful_Women_SI Vwalk UOS.esp
+Beautiful_Women_Vampires Vwalk UOS.esp
+Beautiful_Women_Vampires_50 Vwalk UOS.esp
+Beautiful_Women_NotSoNice_Bonus Vwalk UOS.esp
+Beautiful Women Vwalk Full UOS.esp
+
+Colourwheels Sexy Female NPCs Vwalk UOS.esp
 \EndGroup\\
 
 \BeginGroup\: BSA tricks
@@ -2049,6 +2072,7 @@ TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
 % {{BASH:Body-F,Graphics}}
+Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
 % {{Bash:Graphics}}
@@ -3086,6 +3110,7 @@ Underwear HGEC placed.esp
 Underworld Armor.esp
 Unenchanted Staves.esp
 UnexpurgatedBarenziahv100.esp
+UnexpurgatedBarenziahPAv100.esp
 Unique Ebony Sets.esp
 Universal_Armor_Stands.esp
 Unlimited Wear.esp
@@ -6658,6 +6683,7 @@ Faregyl.esp
 Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
+Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 Faregyl+Anequina Patch.esp
 Faregyl Vwalk.esp
 

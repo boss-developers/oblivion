@@ -156,6 +156,7 @@ beeratcompil_fishstick.esm
 IngredientJars.esm
 rdweaponpack1.esm
 StaticAlchemyMod.esm
+TantrivayliaChimer.esm
 The Other Spheres Base.esm
 cssBase.esm
 EarnYourEquipment.esm
@@ -240,6 +241,9 @@ TRoN Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 TRoN Vwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
+
+!Oblivion_PL.esp
+% {{BASH:Names}}
 \EndGroup\\
 
 \BeginGroup\: NPC face mods
@@ -3168,6 +3172,7 @@ Warglaives by Jojjo v1.0.esp
 
 YAARM Unique Armors 1.1.esp
 
+Xifr's Plain Surcoats.esp
 Xifr's Seperated Dark Brotherhood Armour.esp
 XSPipeMod.esp
 XiaValentinesDayGift07.esp
@@ -4569,25 +4574,37 @@ FCOM_BobsGuardUnity.esp
 FCOM_HungersUnitySI.esp
 ? Requires Shivering Isles expansion.
 FCOM_Archery.esp
+% {{BASH:Stats}}
 FCOM_ArcheryArmamentarium.esp
 ? Requires the Armamentarium Complete mod.
+% {{BASH:Stats}}
 FCOM_Archery_Armamentarium.esp
+% {{BASH:Stats}}
 FCOM_Archery_Artifacts.esp
+% {{BASH:Stats}}
 FCOM_ArcheryRealSwords.esp
 ? Requires 'FCOM_Realswords.esp'.
+% {{BASH:Stats}}
 FCOM_Archery_RealSwords.esp
 ? Requires 'FCOM_Realswords.esp'
+% {{BASH:Stats}}
 FCOM_ArcheryHunting&Crafting.esp
 ? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+% {{BASH:Stats}}
 FCOM_Archery_MMM_H&C.esp
 ? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+% {{BASH:Stats}}
 FCOM_Archery_Deadly.esp
+% {{BASH:Stats}}
 FCOM_Archery_Deadly_Armamentarium.esp
 ? Requires the Armamentarium Complete mod.
+% {{BASH:Stats}}
 FCOM_Archery_Deadly_RealSwords.esp
 ? Requires 'FCOM_Realswords.esp'
+% {{BASH:Stats}}
 FCOM_Archery_Deadly_Artifacts.esp
 ? Requires the Artifacts mod.
+% {{BASH:Stats}}
 
 Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
@@ -4746,6 +4763,7 @@ Morrowind Ingredients_MMM.esp
 ? Consider Upgrading to Tamrielic Ingredients.
 
 FCOM_Archery_4_Arma_Complete_patch.esp
+% {{BASH:Stats}}
 C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
 Geomancy & Gem Dust OOO.esp
@@ -4770,6 +4788,9 @@ Diverse Imperial Armor v1.1.esp
 
 \BeginGroup\: Post Overhaul
 \'''''''''''''
+
+dangerous wilderness.esp
+% {{BASH:Delev,Relev}}
 
 CrystalCalendar.esp
 
@@ -6079,6 +6100,7 @@ Sheogorath`s Artifacts.esp
 Talos Bridge.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
+Tantrivaylia.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TempleoftheFullMoon.esp
@@ -6563,6 +6585,8 @@ Rumare-AFK_Weye Patch.esp
 GuardsofCyrodiil.esp
 GoC&RRLR_comp.esp
 GuardsofCyrodiilRedux.esp
+? If using with Region Revive Lake Rumare, use 'GuardsofaCyrodiilRedux - RRLRpatch.esp' as well.
+GuardsofaCyrodiilRedux - RRLRpatch.esp
 
 Mighty Umbra.esp
 FCOM users might consider 'FCOM_MightyUmbra.esp'
@@ -7518,6 +7542,7 @@ NoRandomOBGatesEVER.esp
 NoMoreRandomOBGates.esp
 AlmostNoRandomOBGates.esp
 
+Finite Ammo.esp
 First Person Messages.esp
 ? Not needed if using OOO.
 2nd to 1st person.esp

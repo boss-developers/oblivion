@@ -6964,6 +6964,11 @@ Fort Akatosh Redux.esp
 FortAkatoshRedux-NewRoads&Bridges patch.esp
 Cyrodiil Legion Addon.esp
 
+Millstone_Farm.esp
+Millstone_Farm_COBL.esp
+Millstone_UL_Patch.esp
+MillstoneCOBL_UL_Patch.esp
+
 Oblivion Gate Map Marker Remover.esp
 
 OTEP - Aleswell.esp
@@ -7307,6 +7312,7 @@ BloodSpray.esp
 % {{BASH:Graphics}}
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+Enchanted Portable Tent.esp
 Bonds Big Portable Tent.esp
 Tent.esp
 Bottled_Explosions.esp
@@ -7408,6 +7414,9 @@ DarNified Books_BP_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
 kuerteeCustomisableHUDComponents.esp
 DB_NightMotherMoney5k.esp
+DDJailShackles.esp
+? Old, update to version 1.04+
+DD_JailShackles.esp
 DeadlierDarkBrotherHood.esp
 Deadly Clutter.esp
 Deadly Clutter_update.esp
@@ -7638,9 +7647,6 @@ KnightClassAbility1.esp
 Way of the Wild.esp
 
 MagicArrows_1.0.esp
-MassA.I-30.esp
-MassA.I-40.esp
-MassA.I-50.esp
 Masters Alive.esp
 master_essentials.esp
 Madhs working training dolls.esp
@@ -11109,6 +11115,14 @@ DLCFrostcrag_MysticEmporiumKTDH.esp
 Faction Rank Fix.esp
 Helmet Toggle.esp
 
+MassA.I.esp
+? Use Bashed patch tweak instead if using Wrye Bash.
+MassA.I-30.esp
+? Use Bashed patch tweak instead if using Wrye Bash.
+MassA.I-40.esp
+? Use Bashed patch tweak instead if using Wrye Bash.
+MassA.I-50.esp
+? Use Bashed patch tweak instead if using Wrye Bash.
 MiniMap.esp
 MrPwner's Falling.esp
 MUTE.esp

@@ -6676,16 +6676,19 @@ NRB4-TchosTower-Patch.esp
 Bridges For the Fools.esp
 
 Feldscar.esp
+Feldscar Vwalk.esp
+
 Vergayun.esp
+Vergayun Vwalk.esp
 
 Faregyl.esp
 % {{BASH:Relations}}
 Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
-Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
-Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 Faregyl+Anequina Patch.esp
 Faregyl Vwalk.esp
+Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
+Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 
 TVIcar.esp
 

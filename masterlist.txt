@@ -7109,8 +7109,8 @@ Reaper's_Open-B.C._Secret_Entry.esp
 
 Better Cities - House price patch.esp
 
-\BeginGroup\: Open Cities and Open Cities Complete
-\''''''''''''''''''''''''''''''''''''
+\BeginGroup\: Open Cities Classic
+\''''''''''''''''''''''''''''''''
 
 Open Cities.esp
 ? Obsolete, unsupported. Please upgrade to version 3.0+.
@@ -7149,9 +7149,17 @@ Open Cities Full + Bravil Blood & Mud.esp
 Open Cities Full + Leyawiin Reborn.esp
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Requires Bravil Blood&Mud.
+\EndGroup\\
+
+\BeginGroup\: Open Cities Reborn
+\'''''''''''''''''''''''''''''''
+\EndGroup\\
+
+\BeginGroup\: Open Cities Patches
+\''''''''''''''''''''''''''''''''
 
 OC+Bravil Docks Patch.esp
-? Note - Be sure this is being used on Bravil Docks by Greg Simmonds.
+? Note - Be sure this is being used on Bravil Docks by Greg Simmonds. Will cause a CTD with the wrong file.
 OCC-ABE-LC-Land Patch.esp
 ? Obsolete. Now part of OCC v3.0+. Update and delete.
 OCC-ABE-Patch.esp
@@ -7491,7 +7499,6 @@ DS Portable Sorters.esp
 DS Storage Sacks.esp
 ? Requires COBL.
 
-Duke Patricks Dont Be A Soch.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
 \EndGroup\\
@@ -9175,6 +9182,8 @@ Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
 Duke Patricks - arrow shots alarm the targets.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
+? Old. Upgrade to latest version.
+Duke Patricks - Near Miss Magic And Arrows Alert The Target.esp
 
 Duke Patricks - Stat Based Bob And Weave.esp
 ? Old. Upgrade to latest version.

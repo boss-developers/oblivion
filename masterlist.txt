@@ -1323,7 +1323,6 @@ Doomstones.esp
 DragonStatuesv1.esp
 DropLPUI.esp
 DS Mage's Belt.esp
-DS Storage Sacks.esp
 DS Time Manager.esp
 DZ_Hide_Grass.esp
 \EndGroup\\
@@ -5375,6 +5374,7 @@ The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Ever-rest Glade reborn.esp
+exhSIPalacelodge.esp
 Extended Imperial City.esp
 Extended Imperial City Version 1.0.esp
 Extended Imperial City Version 1.0 Vwalk.esp
@@ -7690,6 +7690,12 @@ Better and realistic prices.esp
 RedBag - Items Repriced v2.esp
 % {{BASH:Stats}} and deactivate.
 Fixed_Repriced_Clutter_11_by_Carpmalenko_POD-9319.esp
+% {{BASH:Stats}} and deactivate.
+Shadow's Balance Price Fixv2.0.esp
+% {{BASH:Stats}} and deactivate.
+Shadow's Merged Value FixesNOBLOODPOTv2.0.esp
+% {{BASH:Stats}} and deactivate.
+Shadow's Merged Value Fixesv2.0.esp
 % {{BASH:Stats}} and deactivate.
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp

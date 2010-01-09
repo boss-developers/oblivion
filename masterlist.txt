@@ -1348,6 +1348,7 @@ FantasyPaintings.esp
 Fatality Cam.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
 Female Lich.esp
+FileOne.esp
 Fish!.esp
 Fish! - v1.1.esp
 Flamering.esp
@@ -1404,6 +1405,8 @@ JQ-TeaSet-DV.esp
 
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
+ Katana Store.esp
+? requires patch to use with Kalikuts 
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
@@ -2133,6 +2136,7 @@ A_Simple_Ring-8333.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Ace's Warlock Gear.esp
+Acolyte_Of_Kynareth_HGEC.esp
 Action_Figures_Series1.esp
 Action_Figures_Series2.esp
 adelina.esp
@@ -2386,6 +2390,7 @@ Collectible T-Shirts V2.1.esp
 LydarflsCheatCodeBook.esp
 console codes.esp
 Corthian Akavir Clothing.esp
+Cowgirl_HGEC.esp 
 cowlredux.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
@@ -4000,6 +4005,12 @@ COBL-FransNewCre.esp
 ? Remember to use the SI or no-SI versions as appropriate (same file names).
 GM-PISC.esp
 ? German mod.
+VVAdvanced.esp
+VVAdvanced-SI.esp
+CLS-CB-Cobl Glue.esp 
+CB-VVA Glue.esp
+CB-Cobl-VVA Glue.esp
+P1DseeYouSleep - VVAdvanced.esp
 
 PoisonousIntent Cobl.esp
 
@@ -8095,12 +8106,14 @@ LCE-addon.esp
 ? If not using monster overhaul mods, use 'Lore Creatures.esp'.
 
 CLS-craftybits.esp
+craftybits.esp
 CLS-Craftybits Working Smithy addon.esp
 CLS-CB-Cobl.esp
 CLS-Craftybits_A_Bloody_Mess-Glue.esp
 CLS-Craftybits_A_Bloody_Mess-Glue-Ragplacer.esp
 CLS-Craftybits Raw Material Supplier addon.esp
 CB-X-Skills Removal.esp
+CB-X Skills Removal.esp
 
 Enhanced Economy - House prices.esp
 
@@ -11201,10 +11214,6 @@ UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
-
-VVAdvanced.esp
-VVAdvanced-SI.esp
-P1DseeYouSleep - VVAdvanced.esp
 
 Real Hunger, Cobl.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.

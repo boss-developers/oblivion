@@ -557,7 +557,6 @@ MrSiikaRabbits.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
 >Francesco's Optional Chance of More Enemies.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
->Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Guards.esp
 >? Requires Shivering Isles expansion.
 >Francesco's Dark Seducer Weapons Patch.esp
@@ -2587,6 +2586,7 @@ GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
 Glyphmod.esp
 Godslayer and Divine Protection.esp
+GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
 GothFreak's Celtic Rings and Swords.esp
@@ -2629,8 +2629,8 @@ HD Aragorn Armor.esp
 HelmetCollection.esp
 HellSpawnDaedric for Exnem.esp
 Hell'sExecutioner.esp
-Hemingweys Capes.esp
 Hemingweys NPC Capes.esp
+% {{BASH:Invent}}
 
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
@@ -3601,7 +3601,7 @@ Ironless Skirt.esp
 SexyLeather.esp
 ares-Exnem.esp
 Armamentium female.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}} and deactivate
 Roberts Armamentium female.esp
 % {{BASH:Graphics}}
 Robert Blackluster.esp
@@ -3940,6 +3940,11 @@ Francesco's Boars Add-On.esp
 
 Fran-Ayleid Coin Add-on.esp
 ? Don't use with G&GD, COBL or OOO
+
+Fran's Ore Refiner - SI only.esp
+? Use only if you have SI, use on one Fran's Ore Refiner esp
+Fran's Ore Refiner.esp
+? Use only if you do not have SI, use on one Fran's Ore Refiner esp
 \EndGroup\\
 
 \BeginGroup\: OOO; FCOM optional and and related components; MMM and optional plungins.
@@ -4084,9 +4089,9 @@ Fine Weapons for OOO.esp
 Oscuro's_Oblivion_Overhaul Vwalk.esp
 
 OMOBS.esp
-% {{BASH:Stats}} and deactivate
+% {{BASH:Stats}}
 OMOBS_SI.esp
-% {{BASH:Stats}} and deactivate
+% {{BASH:Stats}}
 OMOBS_Optionial Combat Settings.esp
 OMOBS Optional Combat Settings.esp
 
@@ -4112,6 +4117,7 @@ ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
+% {{BASH:Invent}}
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -4333,7 +4339,7 @@ MALO - Loot Tweaks FRAN.esp
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
 <Mart's Monster Mod - Diverse Runeskulls.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
-<% {{BASH:Delev}}
+<% {{BASH:Delev,Relev}}
 <Mart's Monster Mod - More Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Extra Reavers.esp
@@ -5715,6 +5721,7 @@ Lair_of_the_Hydra-4490.esp
 
 Land of Hyrule.esp
 Lake Canulus Village.esp
+Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
@@ -6454,7 +6461,7 @@ Ulrim's Horses - Vanilla.esp
 
 Knights.esp
 Knights - Book Jackets.esp
-% {{BASH:Graphics, NoMerge}}
+% {{BASH:Graphics, NoMerge}} and deactivate
 Traduccion mejorada KoT9.esp
 % {{BASH:Names}} or without Bash load it later.
 KnightsBabFemaleArmor.esp
@@ -6602,10 +6609,10 @@ Blood&Mud Vwalk.esp
 Lost Paladins of the Divines.esp
 
 Origin of the Mages Guild.esp
-? FCOM requires 'FCOM_OMG.esp' or 'FCOM_OMGSRT.esp'.
+>? FCOM requires 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 
 The Mystery of the Dulan cult.esp
-? FCOM requires 'FCOM_DulanCult.esp'.
+>? FCOM requires 'FCOM_DulanCult.esp'.
 
 TheNecromancer.esp
 ? Has some landscape issues with OOO.
@@ -11173,6 +11180,8 @@ Shining Creatures.esp
 DLCFrostcrag_MysticEmporiumKTDH.esp
 Faction Rank Fix.esp
 Helmet Toggle.esp
+Hemingweys Capes.esp
+? Don't use Bash's unlimited amulet's tweak with this.
 
 MassA.I.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.

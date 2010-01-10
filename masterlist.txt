@@ -4555,9 +4555,11 @@ TamrielTravellers4OOO.esp
 >? Requires 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO Vwalk.esp
 TamrielTravellersItemsNPC.esp
+% {{BASH:Filter,Delev,Relev}} and deactivate.
 TamrielTravellersItemsCobl.esp
 ? Requires COBL.
 TamrielTravellersItemsVendor.esp
+% {{BASH:Filter,Delev,Relev}} and deactivate.
 TamrielTravellersItemsUnscaled.esp
 * Delete. Not FCOM compatible.
 ? Not overhaul mod compatible.

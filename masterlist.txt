@@ -556,6 +556,7 @@ MrSiikaRabbits.esp
 >Francesco's Optional Chance of Stronger Bosses.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
 >Francesco's Optional Chance of More Enemies.esp
+>Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
 >Francesco's Optional Leveled Guards.esp
 >? Requires Shivering Isles expansion.
@@ -1542,6 +1543,8 @@ OAVO - Visual Enhancements.esp
 Oblivion Cats v0.22b.esp
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
+Oblivion_Deutsch_v3_1.esp
+% {{BASH:Names}}
 OblivionOnline.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
@@ -5775,6 +5778,7 @@ DB Listeners Quarters [Darker].esp
 LOCH_New_Skingrad_Bridge.esp
 Lock Spells.esp
 Lobo_the_Wolf.esp
+Lobo_the_Wolf_v101.esp
 LordKain_Adash_World.esp
 ? German mod.
 Lorekeep.esp
@@ -7668,6 +7672,7 @@ kuerteeInventoryIsABackpack.esp
 
 \BeginGroup\: overrides L
 
+Large_Battle_FPS_increase-7447.esp
 Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Leviathan Soulgems.esp
@@ -8486,6 +8491,7 @@ OOO Potions Autocalc.esp
 \BeginGroup\: General Spells
 
 Acidon_EnchantmentFixes.esp
+Active_Inventory_Spell_1.2.esp
 AddSpells.esp
 Advanced Magic.esp
 Advanced Mark & Recall.esp
@@ -9226,8 +9232,10 @@ Duke Patrick's Vampires Bob Under Your Shots.esp
 Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
 
 Duke Patricks NPC Arrow Shots Can Miss Now.esp
-? Old. Upgrade to latest version.
+? Old. Upgrade to latest version ('Duke Patricks - Actors Can Miss Now.esp').
 Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
+? Old. upgrade to latest version ('Duke Patricks - Actors Can Miss Now.esp').
+Duke Patricks - Actors Can Miss Now.esp 
 
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
 

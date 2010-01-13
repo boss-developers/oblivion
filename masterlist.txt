@@ -419,6 +419,7 @@ Unofficial Oblivion Patch.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Unofficial Oblivion Patch DV.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
+Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Unofficial Oblivion Patch-mobs.esp
@@ -459,6 +460,7 @@ Unofficial Shivering Isles Patch.esp
 ? Remember to use the 'MOBS' version when using Francesco's and FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
 % {{BASH:C.Light,C.Owner,Invent,Names,Relations,Stats,Delev}}
+CorrectifSI.esp
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp
@@ -1309,6 +1311,9 @@ Dancer_Undress0_6-10194.esp
 Days&Months.esp
 RealDaysAndMonths.esp
 
+Oblivion_Deutsch_v3_1.esp
+% {{BASH:Names}}
+
 DBCEndOfMayTeaser.esp
 DBSQR.esp
 DBSQR - Shivering Isles.esp
@@ -1543,8 +1548,6 @@ OAVO - Visual Enhancements.esp
 Oblivion Cats v0.22b.esp
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
-Oblivion_Deutsch_v3_1.esp
-% {{BASH:Names}}
 OblivionOnline.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
@@ -1986,13 +1989,17 @@ YetAnotherHotkeyMod.esp
 
 DLCHorseArmor.esp
 DLCHorseArmor - Unofficial Patch.esp
+
 SM Plugin Refurbish - HorseArmor.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Compatibility Patch - DLCHorseArmor.esp
 BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
-
+Correctif HorseArmor.esp
+Correctif HorseArmor RP.esp
 DLCOrrery.esp
 DLCOrrery - Unofficial Patch.esp
+Correctif Orrery.esp
+Correctif Orrery RP.esp
 DBOO - Orrey.esp
 DLCOrrery Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -2012,6 +2019,8 @@ Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
+Correctif VileLair.esp
+Correctif VileLair RP.esp
 DBSQR - Vile Lair.esp
 ? If usng SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp or DBSQR - Vile Lair SMPR Full.esp as well.
 SM Plugin Refurbish - VileLair.esp
@@ -2024,6 +2033,8 @@ P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
+Correctif MehrunesRazor.esp
+Correctif MehrunesRazor RP.esp
 DBOO - MehrunesRazor.esp
 NLF MehrunesRazor.esp
 Mehrunes_mobs.esp
@@ -2046,6 +2057,7 @@ DLCSpellTomes.esp
 % {{BASH:Relev}}
 DLCSpellTomes - Unofficial Patch.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
+Correctif SpellTomes.esp
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
 GrimbotsSpellTomes.esp
@@ -3864,7 +3876,10 @@ Ranokoas Organized Potions.esp
 
 DLCThievesDen.esp
 DLCThievesDen - Unofficial Patch.esp
+Correctif ThievesDen.esp
+Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
+Correctif ThievesDen - SSSB.esp
 DBOO - ThievesDen.esp
 DLCThievesDen Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -6427,6 +6442,8 @@ DLCFrostcragReborn.esp
 Kvatch Rebuilt_Frostcrag Reborn.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
+Correctif Frostcrag.esp
+Correctif Frostcrag RP.esp
 SM Plugin Refurbish - FrostCrag.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 NLF FrostCrag.esp
@@ -6487,6 +6504,7 @@ WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
 % {{BASH:C.Light,Invent,Names,Relev,Stats}}
+Correctif Knights.esp
 DBOO - Knights.esp
 Knights Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.

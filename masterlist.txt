@@ -4144,6 +4144,7 @@ ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
+Armamentarium SoB Patch.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 % {{BASH:Invent}}
@@ -4204,7 +4205,7 @@ MALO - Loot Tweaks FRAN.esp
 >
 >Mart's Monster Mod - Diverse Runeskulls.esp
 >? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
->% {{BASH:Delev}}
+>% {{BASH:Delev,Relev}}
 >FCOM_EntropicOrderRebalance.esp
 >FCOM_EntropicOrderHardcore.esp
 >FCOM_RealSwords.esp
@@ -5124,6 +5125,8 @@ Artifacts for ArmaComplete.esp
 ? Obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
+Artifacts SoB Patch.esp
+
 A Son's Revenge 2.0.esp
 Asharnakibibi 1_2.esp
 AshTentMod.esp
@@ -11233,6 +11236,8 @@ MassA.I-40.esp
 MassA.I-50.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.
 MiniMap.esp
+Scathe.esp
+Vacuity.esp
 MrPwner's Falling.esp
 MUTE.esp
 

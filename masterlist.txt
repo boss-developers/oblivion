@@ -9954,10 +9954,6 @@ Sun_&_Night_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-X.Nature.Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-X.Moon.Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sheo Race.esp
 Soqui Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -9992,9 +9988,15 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Nature.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Moon.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Night.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Vampire.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+X.Races.Comp.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ancient Elven Sorceress - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

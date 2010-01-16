@@ -173,6 +173,7 @@ EyeCandy - Content.esm
 EyeCandy Compilation.esm
 Kaleah.esm
 SC_Drow Race.esm
+DrowRacesofFaerun.esm
 DIM Elves Of Lineage II Retex.esm
 Lineage II Elves.esm
 Eluna.esm
@@ -969,7 +970,7 @@ aKALAmbientDungeonsBeta2.esp
 ? Old version, incompatible with other ScreenEffects mods. Upgrade to latest.
 
 AmbientDungeons.esp
-? OBSE, 'Screen Effects', and 'You Are Here' required.
+? OBSE, and 'You Are Here' required. Also for version before 1.3 'Screen Effects' is also required
 \EndGroup\\
 
 \BeginGroup\: General Base Mods
@@ -1990,6 +1991,8 @@ YetAnotherHotkeyMod.esp
 DLCHorseArmor.esp
 DLCHorseArmor - Unofficial Patch.esp
 
+Marts Monster Mod - DLCHorseArmor+Slof.esp
+{{BASH:Graphics}}
 SM Plugin Refurbish - HorseArmor.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Compatibility Patch - DLCHorseArmor.esp
@@ -3758,6 +3761,12 @@ HRMHorseArmor.esp
 HRMHorseArmorSlofsHorsesPatch.esp
 % {{BASH:Graphics}}
 HRMHorseArmorSlofsHorsesPatch20.esp
+% {{BASH:Graphics}}
+DappleClydesdaleupdate.esp
+% {{BASH:Graphics}}
+greyclydesdale.esp
+% {{BASH:Graphics}}
+brownclydesdale.esp
 % {{BASH:Graphics}}
 DLCHorseArmor_SlofBase.esp
 % {{BASH:Graphics}}
@@ -5952,6 +5961,7 @@ Pats Business Mod---Shop Version 2.0.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 Pimea_Necromancers_lair.esp
+Pine Lodge.esp
 PinePeakLodge.esp
 Pinevale.esp
 Pinewood.esp
@@ -9169,6 +9179,7 @@ Marksman Velocity SI.esp
 CombatFPSOptimizer.esp
 Realistic Arrow Flight.esp
 Add-on for Ambidextrie.esp
+exhDual_Wield_Complete.esp
 arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
 ? Use Wyre Bash's Bashed Patch Tweaks instead where possible.
@@ -10454,6 +10465,8 @@ SC_Drow Race Addon - Plus Pack.esp
 SC_Drow Race Addon - Adantium Bound Armour.esp
 SC_Drow Race Addon - Adantium Bound Armour + Helm.esp
 SC_Drow Race Addon - Adantium Bound Armour + Sun Damage.esp
+DrowRacesofFaerunVampire.esp
+DrowRacesofFaerunEyeFix.esp
 
 KT_CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.

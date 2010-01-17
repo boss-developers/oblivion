@@ -4157,6 +4157,8 @@ Armamentarium SoB Patch.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 % {{BASH:Invent}}
+Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
+% {{BASH:Invent}}
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -8051,6 +8053,7 @@ SkoomaTest.esp
 StackableEquipment.esp
 StackableOblivion.esp
 
+SRJIrresponsibleHorses.esp
 StarX Vampire Deaths.esp
 stickierenemytargeting.esp
 \EndGroup\\
@@ -8686,6 +8689,7 @@ unnatural_aura_by_trollf.esp
 sr_enhanced_magic_system.esp
 SpellSinger.esp
 ZuzSetBody.esp
+SetBody.esp
 \EndGroup\\
 
 \BeginGroup\: Mighty Magic

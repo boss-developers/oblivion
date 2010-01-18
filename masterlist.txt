@@ -1243,6 +1243,7 @@ OCLR-Sailboat-Patch.esp
 
 CityLights - ImperialCity.esp
 Cliff's Smokey Chimneys.esp
+Clothes Get Wet.esp
 Chapel Tithe.esp
 CM_Better Wine.esp
 % {{BASH:Graphics}} and deactivated
@@ -1330,6 +1331,7 @@ DragonStatuesv1.esp
 DropLPUI.esp
 DS Mage's Belt.esp
 DS Time Manager.esp
+Duke Patricks - Basic Alchemic Immersion.esp
 DZ_Hide_Grass.esp
 \EndGroup\\
 
@@ -6073,6 +6075,7 @@ Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
 ShadySamFence.esp
+Sheogoraths_Accords_of_Madness.esp
 ShezriesVillagesCOBL.esp
 ShipInATree.esp
 Shivering Farm.esp
@@ -6641,6 +6644,7 @@ GoC&RRLR_comp.esp
 GuardsofCyrodiilRedux.esp
 ? If using with Region Revive Lake Rumare, use 'GuardsofaCyrodiilRedux - RRLRpatch.esp' as well.
 GuardsofaCyrodiilRedux - RRLRpatch.esp
+GuardsofCyrodiilRedux - RRLRpatch.esp
 
 Mighty Umbra.esp
 FCOM users might consider 'FCOM_MightyUmbra.esp'
@@ -6837,6 +6841,7 @@ xulBrenaRiverRavine02.esp
 ? Obsolete beta. Need to upgrade to released version.
 
 xulStendarrValley.esp
+FiveLanterns-StendarrValley patch.esp
 TheNecromancer-StendarrValley patch.esp
 ? Obsolete as of version 1.2 of Stendarr Valley.
 Ravenpride-Stendarr patch.esp
@@ -7043,6 +7048,8 @@ xul Swalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Vwalk Full.esp
 \EndGroup\\
+
+xleyawiinSwamp.esp
 
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''

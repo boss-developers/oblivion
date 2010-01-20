@@ -1593,6 +1593,7 @@ Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
 Portable Campsite.esp
 Portable Campsite - Quickstart.esp
+P1dSeeYouSleep - Portable Campsite - Quickstart.esp
 Purge Cell Buffers - Loading.esp
 Faction_Rank_Fix-5862.esp
 Purge Cell Buffers - Cell Change.esp
@@ -1692,6 +1693,7 @@ Shads Coffee.esp
 Shads Hunting & Fauna.esp
 ? MMM users are probably better to use MMM Farm Animals plugin.
 % {{BASH:Invent}}
+ShadsTent.esp
 Sheepherder's Vampirism Fix - OBSE.esp
 ? v0.9 is a testing version. Not much information on load order or any stability issues.
 Shield on Back RC5-Public.esp
@@ -2610,6 +2612,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
+Glypha_Giltal.esp
 Glyphmod.esp
 Godslayer and Divine Protection.esp
 GoldbrandDEF.esp
@@ -5560,6 +5563,7 @@ hchouse408.esp
 HelsethArmor.esp
 Hero Hill Redone.esp
 HobbitHole.esp
+Holy Cathedral.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
 Housewives v101.esp
@@ -9228,6 +9232,8 @@ ptThrowingKnives.esp
 ptThrowingWeapons.esp
 ? Obsolete and known bugs fixed in upgrade. Upgrade to Unnecessary Violence.
 
+CombatWarning.esp
+
 Deadly Reflex 5 - Timed Block.esp
 ? Use no more than one Timed Block ESP.
 Deadly Reflex 5 - Timed block and 150% damage.esp
@@ -10128,6 +10134,7 @@ CM_LoreleiU.esp
 cm lula wild.esp
 CM Tifa A.esp
 CM_Kailinda.esp
+cm_Jo-han.esp
 CM Yana.esp
 CM_Dragonchixx.esp
 Colourwheels Sexy Tifa.esp

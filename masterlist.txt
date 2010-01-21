@@ -640,16 +640,19 @@ Oblivion_Audio_and_Visual_Overhaul_1st_esp.esp
 Oblivion_Audio_and_Visual_Overhaul_2nd_esp.esp
 
 _Real_Lights.esp
-? Accidentally disables the Umbacano branch of The Collector quest - edit to remove the MS21statuescript script changes to fix this.
-? All Natural's Real Lights implementation doesn't suffer from this.
-? Causes save game bloating - recommend either using All Natural or removing this.
+? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
+? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
 
 oc_darker_nights.esp
 ? Not compatible with weather overhauls.
 _darker_nights.esp
 ? Not compatible with weather overhauls.
 _darker_nights_2_with_burning_kvatch.esp
+? Not compatible with weather overhauls.
 darker nights for shivering isles.esp
+? Not compatible with weather overhauls that affect SI.
+
+Lem - Modified Weather.esp
 
 AWS-ShiveringIsles.esp
 AWS Tamed HDR Diverse Thunder.esp
@@ -2616,6 +2619,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
+Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
 Godslayer and Divine Protection.esp
@@ -5145,7 +5149,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 Artifacts SoB Patch.esp
-
+AraenyaRealm.esp
 A Son's Revenge 2.0.esp
 Asharnakibibi 1_2.esp
 AshTentMod.esp
@@ -6141,6 +6145,7 @@ SSS_1.0.esp
 ? Requires Shivering Isles.
 ? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 Star's Rest.esp 
+Star's Rest - Ayleid Well.esp  
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp

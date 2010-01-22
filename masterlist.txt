@@ -6181,6 +6181,7 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
 TGInheritEarlOfImbelsICHouse.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
+The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
 The_Honor_of_Assassins.esp
@@ -8573,6 +8574,8 @@ CDM-Scroll of Identify.esp
 Chargeable Spells by grmblf.esp
 ClaimThatInterior.esp
 CompanionResurrect.esp
+CompanionRepair.esp
+? Requires RefStuff, OBSE.
 ConduitMagic.esp
 DeathKightSpells v1_3.esp
 Disenchant.esp
@@ -10397,7 +10400,8 @@ HippoNoStarterSpells.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
-% {{Bash:IIM,Filter,Invent,merge}} and deactivate
+% {{Bash:IIM,Filter,Invent}} and deactivate
+sr_casting_time.esp
 TML_SummonsUnlocked.esp 
 \EndGroup\\
 

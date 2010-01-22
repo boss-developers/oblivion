@@ -1375,6 +1375,7 @@ Fish! - v1.1.esp
 Flamering.esp
 FrbitPotionReplacer.esp
 % {{BASH:Graphics,Names}}
+Fundies.esp
 fwDropGold.esp
 \EndGroup\\
 
@@ -5665,6 +5666,8 @@ ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
 
+Imperial City Ranch.esp
+
 ImprovedChorrol.esp
 ? Not compatible with Better Cities Full or Better Cities Chorrol components.
 ? Not compatible with Open Cities Complete or Open Cities Chorrol components.
@@ -5890,6 +5893,7 @@ M_M_TreeHouse.esp
 Mod - IC Armory.esp
 MolagBalTreasury.esp
 More Skingrad.esp
+MountainRetreat.esp
 MountainTower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
@@ -8629,6 +8633,8 @@ MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
 ? Requires OBSE.
+SNxMarkers.esp
+? Requires OBSE.
 MindRip.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
 DS Summon Luggage.esp
@@ -10239,6 +10245,8 @@ MarcAntony.esp
 % {{BASH:Hair,Eyes}}
 Nec-Character_Eva.esp
 % {{BASH:Hair,Eyes}}
+Olga.esp
+% {{BASH:Hair,Eyes}}
 PetsOfChorrol.esp
 % {{BASH:Hair,Eyes}}
 Ramy Enfant.esp
@@ -10269,6 +10277,8 @@ RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp
 
+DAAanila.esp
+% {{BASH:Hair,Eyes}}
 DAAltair.esp
 % {{BASH:Hair,Eyes}}
 DAJynx.esp

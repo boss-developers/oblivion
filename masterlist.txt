@@ -2170,6 +2170,7 @@ avarm.esp
 A_Simple_Ring-8333.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
+ACB_Yamigarasu.esp
 Ace's Warlock Gear.esp
 Acolyte_Of_Kynareth_HGEC.esp
 Action_Figures_Series1.esp
@@ -2706,6 +2707,7 @@ IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
 IvyArmor_Full.esp
+IvyArmor_Purple.esp
 \EndGroup\\
 
 \BeginGroup\: Items J
@@ -2981,6 +2983,7 @@ Saint Hiryu's Artifacts.esp
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
+Scarves!.esp
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
@@ -5469,6 +5472,7 @@ Farleum V 1.2.esp
 fishing boat.esp
 TheForbiddenSecret.esp
 Forgotten Chapel.esp
+Forgotten Tower.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
 Fort_Walastar.esp
@@ -6027,6 +6031,7 @@ Quest Nirnroot.esp
 Reaper's Coldstone Town.esp
 ? Incompatible with Heart of the Dead.
 Reaper_Drakelowe's Witch.esp 
+Reaper's Friendly Back-Up.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
@@ -6045,11 +6050,13 @@ RightingtheWrongs.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
 Rivana Ayleid Ruine.esp
+rivernesite.esp
 RomancingAhnassi.esp
 Romuska Fantasy Store.esp
 Rosethorn Hall Necrmancy Study.esp
 Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
+RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
@@ -6154,6 +6161,7 @@ Sutch Reborn.esp
 SSS_1.0.esp
 ? Requires Shivering Isles.
 ? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
+SST - Eagle's Reach.esp
 Star's Rest.esp 
 Star's Rest - Ayleid Well.esp  
 Stonewall Shields.esp
@@ -6196,6 +6204,7 @@ The_Honor_of_Assassins.esp
 The Hunt.esp
 The forgotten Castle.esp
 % {{BASH:Hair}}
+The Lost Tomb.esp
 The Necromancers start V1.0.esp
 The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
@@ -7504,8 +7513,13 @@ Colourwheels Sexy Imperial Legion Vwalk.esp
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 Compass-Disable_POIs.esp
+? If using Wrye Bash use Bashed Patch tweaker instead.
 Compass-Disable_QuestMarkers.esp
+? If using Wrye Bash use Bashed Patch tweaker instead.
 Compass-Disable_Both.esp
+? If using Wrye Bash use Bashed Patch tweaker instead.
+Compass_Marker_Reducer.esp
+? If using Wrye Bash use Bashed Patch tweaker instead.
 Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
 Curseman's Anti Extinction Mod.esp
@@ -8028,6 +8042,9 @@ Enhanced Vegetation [125%].esp
 ? Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
+
+Side's Backpacks.esp
+%{{BASH:Invent}}
 
 Sigil Stone Alternative.esp
 Sigil Stones Unlevelled.esp
@@ -9717,6 +9734,8 @@ Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
 Better Redguard v2.esp
 % {{BASH:NpcFaces,Graphics}} and deactivate.
+BigDunmerEars.esp
+% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Smaller Elf ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
 Jjiinx_Long Ears.esp
@@ -10169,12 +10188,17 @@ Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
+ArnoldCM2.esp
+AmidalaSaramHair.esp
+% {{BASH:Hair,Eyes}}
 AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
-companion_moonelves.esp.
+companion_moonelves.esp
+companion_nightelves.esp
+% {{BASH:Hair,Eyes}}
 Terimer.esp
 % {{BASH:Hair,Eyes}}
 

@@ -2512,6 +2512,7 @@ Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
 Deathlilith.esp
+Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DHAyleidShield.esp
@@ -4086,7 +4087,10 @@ FCOM_WarCry.esp
 FCOM_WarCryNoSpawn.esp
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 
+LG's Unscaled Enemies.esp
+
 G_'s-Loot-Mod_v2.5[Scaled Version].esp
+G_'s-Loot-Mod_v2.5[Unscaled Version].esp 
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \EndGroup\\
 
@@ -6244,6 +6248,7 @@ To Feed an Empire - Wickmere Farm.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
+Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
@@ -7512,6 +7517,10 @@ Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
+CompanionHorseSupport.esp
+? Requires OBSE version 17b or higher.
+CompanionHorseSupportFIX forCMPartners.esp
+? Requires OBSE version 17b or higher.
 Compass-Disable_POIs.esp
 ? If using Wrye Bash use Bashed Patch tweaker instead.
 Compass-Disable_QuestMarkers.esp
@@ -8653,6 +8662,7 @@ Mark3.esp
 SNxMarkers.esp
 ? Requires OBSE.
 MindRip.esp
+morespells.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
 DS Summon Luggage.esp
 Diplomacy and Mercy.esp
@@ -10398,6 +10408,7 @@ bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
 \EndGroup\\
+TamrielTravellers Cosmetics Cobl or RBP.esp
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.

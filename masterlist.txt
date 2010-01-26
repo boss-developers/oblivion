@@ -1117,7 +1117,9 @@ BPMerchantStorage.esp
 Cobl Bookjackets.esp
 % {{BASH:Graphics}}
 Cats & Rats.esp
+? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 OC+Cats&Rats Patch.esp
+? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 Carcernus Prison.esp
 CharGenAmulet.esp
 Character_Changer-2826.esp
@@ -1516,8 +1518,6 @@ Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 ? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 ? Old version, upgrade to version 2+.
-BetterMusicSystem(Elsweyr).esp
-? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 CBMS_V2.esp
 ? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin) 
 
@@ -4802,6 +4802,7 @@ SSEE-OOO.esp
 SigilStoneSelector-SSEE-OOO.esp
 StockClothingArmor-forExnems - OOO Patch.esp
 zCats & Rats.esp
+? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 OOOPekImperialHorseArmor.esp
 MMM Goblin Assassin Fix.esp
 ? Only needed to fix stat damage caused by an early version of MMM.
@@ -4824,7 +4825,9 @@ NpcwithJobsCreatures4MMM.esp
 NpcwithJobsCreatures4000.esp
 
 Cats & Rats for MMM.esp
+? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 Cats & Rats for Francescos.esp
+? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 
 Tamrielic_Ingredients.esp
 Tamrielic_Ingredients_MMM.esp
@@ -6233,6 +6236,7 @@ EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
 
 (DC) The Pride of Wolfs Gate.esp
+TheFeedBag.esp
 TheForgottenShields.esp
 TheForgottenShields_delayer.esp
 TheMistRetreat1.3_Optimized.esp
@@ -6798,6 +6802,8 @@ FCC-Cheydinhal.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+BetterMusicSystem(Elsweyr).esp
+? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp

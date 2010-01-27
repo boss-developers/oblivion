@@ -6651,13 +6651,6 @@ Damarask.esp
 Castle_Knightstone.esp
 ? Remember to use the correct version depending on Knights of the Nine being installed or not.
 
-TOTF.esp
-OCC-TOTF-Patch.esp
-TotF Stronger Cleon.esp
-TotF MtyMgc Patch.esp
-TOTF-EiAE Patch.esp
-TOTF Delayer.esp
-
 Ruined Tale 3.0.esp
 RTT.esp
 Enhanced Weather - Ruined Tail's Tale Patch.esp
@@ -6855,6 +6848,13 @@ A Imperial Outpost - Fort Novi Sad.esp
 Reaper's Waterfront.esp
 
 ReclaimSancreTor.esp
+
+TOTF.esp
+OCC-TOTF-Patch.esp
+TotF Stronger Cleon.esp
+TotF MtyMgc Patch.esp
+TOTF-EiAE Patch.esp
+TOTF Delayer.esp
 
 WaterfrontMarket.esp
 ? Probably incompatible with Better Cities.
@@ -7315,6 +7315,9 @@ JQ-Fighters_Guild_United.esp
 % {{BASH:Invent}}
 FCOM_FighterGUnited.esp
 ? requires Fighters Guild United.
+
+CUO_Chorrol.esp
+CUO_Leyawiin.esp
 
 FCOM_UnofficialFranArmorAddon.esp
 ? Requires 'Fran Armor Add-on.esp' from 'Unofficial Francesco's Armor'.
@@ -10192,6 +10195,7 @@ CM Partners Beasts.esp
 CM Partners 20 Pack.esp
 CM Partner Jordie1.esp
 CM AnyaYelena2.esp
+CM_Blackie_the_Fence.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
 

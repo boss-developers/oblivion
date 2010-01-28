@@ -1229,8 +1229,6 @@ SNR Crowded Roads UFF.esp
 SNR Crowded Roads 2.1.esp
 ? Make sure to install the additional mods (listed in the readme).
 
-cidnothump.esp
-% {{BASH:Sound}}
 CDM-Duel.esp
 CDM-Exploding Arrows.esp
 CDM-Skip Purification.esp
@@ -1345,7 +1343,6 @@ diversegrasses.esp
 Doomstones.esp
 DragonStatuesv1.esp
 DropLPUI.esp
-DS Mage's Belt.esp
 DS Time Manager.esp
 Duke Patricks - Basic Alchemic Immersion.esp
 DZ_Hide_Grass.esp
@@ -2425,6 +2422,7 @@ ClothGloves.esp
 CLS-ClassyClothesFactions.esp
 Christian's Claymore.esp
 Change Undies Everyday.esp
+Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
 Collectible T-Shirts V1.1.esp
@@ -2761,7 +2759,6 @@ kibuka-light.esp
 KIVampires_HoodAddon.esp
 kikaibookbelts.esp
 Kill_Bill_Katanas.esp
-Kit Rae Weaponry v0_4.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
@@ -2892,6 +2889,7 @@ Nicos Dreadweave Compilation.esp
 
 \BeginGroup\: Items O
 
+Obsidian Axe.esp
 Obsidian armor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 Oddbasket Glass Replace NoEnch.esp
@@ -3705,8 +3703,6 @@ More_Shields.esp
 DarkFlameSwordAndShield_v10_FIXED_ESP.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH:Graphics}}
-Obsidian Axe.esp
-Charon's Call by Nicoroshi.esp
 CDM-Assassin Robes Renamed.esp
 StockClothingArmorHGECnormalD.esp
 Battle China Dress.esp
@@ -3889,9 +3885,6 @@ CavalryCustomization.esp
 
 AncientTowers.esp
 AncientTowersNoExnem.esp
-cidnothump.esp
-% {{BASH:Sound}}
-? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
 ? Only use this or Goblin Realswords.esp (or FCOM)
@@ -4002,9 +3995,9 @@ Fran-Ayleid Coin Add-on.esp
 ? Don't use with G&GD, COBL or OOO
 
 Fran's Ore Refiner - SI only.esp
-? Use only if you have SI, use on one Fran's Ore Refiner esp
+? Use only if you have SI, use only one Fran's Ore Refiner esp.
 Fran's Ore Refiner.esp
-? Use only if you do not have SI, use on one Fran's Ore Refiner esp
+? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
 \EndGroup\\
 
 \BeginGroup\: OOO; FCOM optional and and related components; MMM and optional plungins.
@@ -4784,7 +4777,7 @@ Qarls_Harvest - MMM Patch.esp
 Qarls_Harvest addon_MMM.esp
 ? Don't use with 'Qarls_Harvest addon.esp'.
 Qarls_Harvest addon_OOO.esp
-? Don't sue with 'Qarls_Harvest addon.esp'.
+? Don't use with 'Qarls_Harvest addon.esp'.
 
 Atmospheric Oblivion - MMM Patch.esp
 Atmospheric Oblivion - OOO Patch.esp
@@ -6273,13 +6266,19 @@ FCOM_Stirk.esp
 Transmutation.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
+? Incompatible with UL mod(s).
 Treasure_Dungeon-8846.esp
 Treasure Maps Blood Ransom.esp
+? Incompatible with UL mod(s).
 Treasure Maps_Boethia's Burden.esp
+? Incompatible with UL mod(s).
 treasure maps captus demus.esp
 Treasure Maps Meridias Womb.esp
+? Incompatible with UL mod(s).
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
+? Incompatible with UL mod(s).
 Treasure Maps Revenge Of The Nords.esp
+? Incompatible with UL mod(s).
 Trial of Achilles.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
@@ -6991,10 +6990,6 @@ LostSpires-BravilBarrowfields patch.esp
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
 MTCRiverShack-BravilBarrowfields patch.esp
-OBCBravil-Barrowfields patch.esp
-? Use OBCBravil or OBCBravilB&M but not both at the same time.
-OBCBravilB&M-Barrowfields patch.esp
-? Use OBCBravil or OBCBravilB&M but not both at the same time.
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
 
@@ -7224,9 +7219,11 @@ Open Better Cities Skingrad - City Defences.esp
 Open Better Cities SKINGRAD VARIANT.esp
 
 Reaper's_Open-B.C._Secret_Entry.esp
+OBCBravil-Barrowfields patch.esp
+? Use OBCBravil or OBCBravilB&M but not both at the same time.
+OBCBravilB&M-Barrowfields patch.esp
+? Use OBCBravil or OBCBravilB&M but not both at the same time.
 \EndGroup\\
-
-Better Cities - House price patch.esp
 
 \BeginGroup\: Open Cities Classic
 \''''''''''''''''''''''''''''''''
@@ -7347,7 +7344,9 @@ RedBag - Imperial City Pack.esp
 \BeginGroup\: Post City
 \'''''''''
 
+Better Cities - House price patch.esp
 Blue Destiny's Armor.esp
+
 \EndGroup\\
 \EndGroup\\
 
@@ -8676,7 +8675,6 @@ JIM_Balanced_Doppleganger.esp
 JIM_Summon_Unicorn.esp
 ? Do not activate alongside other horse summoning mods. Use only one .esp.
 KT_DetectHostility.esp
-Kyoma's Spell Renamer for L.A.M.E..esp
 Kyoma's Spell Renamer.esp
 Levitate-8921.esp
 Lap's_Spell_Pack_11.esp
@@ -8782,7 +8780,7 @@ RoomOfEnchantment.esp
 Scavenger Scamp.esp
 xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
-% {{BASH:Sound}}
+% {{BASH:Sound}} and deactivate.
 kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
@@ -8976,8 +8974,6 @@ Poison Arrows.esp
 Spell Failure Chance.esp
 ? Requires OBSE.
 Fizzle.esp
-
-PJs Spells - Cheap Spells.esp
 
 Jpm's Miniature Necromancy.esp
 TheDarkArts.esp
@@ -10486,8 +10482,12 @@ bgAddEnVarStandAloneEV.esp
 
 Bound_Arrows_with_Bow.esp
 CzBuyToggleNightEye.esp
+cidnothump.esp
+% {{BASH:Sound}}
+? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Conjuration Mastery.esp
 HippoNoStarterSpells.esp
+Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
@@ -10734,6 +10734,7 @@ Better Cities - Blood&Mud.esp
 Better Cities - Full Additions.esp
 ? Obsolete. Update Better Cities to latest version.
 Better Cities - Lost Spires.esp
+? Obsolete. Update Better Citeis to latest version.
 Better Cities - B&M LS RTT TotF.esp
 ? Obsolete file. Deactivate and remove.
 Better Cities - B&M LS RTT.esp
@@ -10832,8 +10833,6 @@ Better Cities IC Arboretum Patch.esp
 ? Old, update to newer version.
 \EndGroup\\
 
-Portrait Painter for Better Cities.esp
-
 \BeginGroup\: BC IC
 
 Better Cities IC Arboretum.esp
@@ -10919,6 +10918,8 @@ Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
+
+Portrait Painter for Better Cities.esp
 
 HTS.esp
 OCC-HTS-Patch.esp

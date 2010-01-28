@@ -799,6 +799,7 @@ HBM.esp
 Louder Nirnroot Sound.esp
 Louder Nirnroots.esp
 ln.esp
+lninroot.esp
 Louder Nirns.esp
 Symphony of Violence.esp
 ? May cause CTDs when used with Deadly Reflex. Unverified.
@@ -1055,6 +1056,7 @@ AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
 Damage Text v2.esp
 AFK_PrayerIdles.esp
+Arena_Ring_V2.esp
 
 All normal clothes buyable.esp
 SI Clothes.esp
@@ -1684,6 +1686,8 @@ Reznod_Mannequin.esp
 Practice_Dummy0.9.5.esp
 
 RingofNightEye.esp
+Rings of Infiltration.esp
+? Requires OBSE 16+.
 RoadSigns.esp
 Robes Under Armor.esp
 Rock Remover - Underwater.esp
@@ -1753,6 +1757,8 @@ svaToMoveObjects_1C.esp
 Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
+Teleport Arrows.esp
+%{{BASH:Invent}}
 The White Stallions.esp
 the secret black market.esp
 Time Keeper.esp
@@ -2801,6 +2807,7 @@ MandBSwords.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
 Mage Leather Armor.esp
+Materia.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
 MotherSword.esp
@@ -8080,9 +8087,12 @@ Silgrad_Tower_T.esp
 Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
+SkillSpecialization.esp
 Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
+Sleep to Save.esp
+? Requires OBSE 11+.
 Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
@@ -8133,6 +8143,13 @@ StackableOblivion.esp
 SRJIrresponsibleHorses.esp
 StarX Vampire Deaths.esp
 stickierenemytargeting.esp
+Stronger Soul Gems - no cap x1.esp
+Stronger Soul Gems - no cap x2.esp
+Stronger Soul Gems - no cap x3.esp
+Stronger Soul Gems - no cap x10.esp
+Stronger Soul Gems - with cap x2.esp
+Stronger Soul Gems - with cap x3.esp
+Stronger Soul Gems - with cap x10.esp
 \EndGroup\\
 
 \BeginGroup\: overrides T
@@ -8191,7 +8208,8 @@ vn_goldweight.esp
 
 \BeginGroup\: overrides W
 
-Wayshrines Improved.esp 
+Wayshrines Improved.esp
+WeaponAndStaffSpecs.esp 
 Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp
 WolfPacks.esp
@@ -8608,6 +8626,7 @@ Advanced Magic.esp
 Advanced Mark & Recall.esp
 Alter Weight Spells.esp
 always protection.esp
+Apprentice Mystic.esp
 Arcane Calendar.esp
 Ayleid Expansion.esp
 ? Suspected of messing up your magicka multiplier.
@@ -8783,6 +8802,7 @@ Mighty Magick - Spells and Creatures.esp
 Mighty Magick - Shivering Isles.esp
 Mighty Magick - Skills.esp
 Mighty Magick - Races.esp
+Mighty Magick - Spells.esp
 Mighty Magick - Magicka Pool Progression.esp
 Mighty Magick - Side Effects.esp
 Mighty Magick - Sigil Stones.esp
@@ -8807,6 +8827,7 @@ Improved_Ancestor_Guardian_Mighty_Magick_Version.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
+Recastable Summons - Mighty Magicka Version.esp
 \EndGroup\\
 
 \BeginGroup\: Supreme Magicka
@@ -9255,6 +9276,8 @@ erics_triple_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
 erics_double_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
+Fast Arrow Collection.esp
+? Requires OBSE 16+
 Fiery Fists v1.2.esp
 GM's Archery Rebalance.esp
 WB Dynamic Weapon Speeds.esp
@@ -9721,6 +9744,7 @@ M.O.E. - Better Icon for Script Effects.esp
 SciptIcon Replacer.esp
 JOTN script effect replacer.esp
 Script effect - Bash icon.esp
+ScriptEffectSubduer.esp
 
 Stat Restore.esp
 
@@ -10468,6 +10492,7 @@ Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent}} and deactivate
+Recastable Summons.esp
 sr_casting_time.esp
 TML_SummonsUnlocked.esp 
 \EndGroup\\

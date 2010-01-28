@@ -2016,6 +2016,8 @@ DLCHorseArmor - Unofficial Patch.esp
 
 Marts Monster Mod - DLCHorseArmor+Slof.esp
 {{BASH:Graphics}}
+Mart's Monster Mod - DLCHorseArmor+Slofs .esp
+{{BASH:Graphics}}
 SM Plugin Refurbish - HorseArmor.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Compatibility Patch - DLCHorseArmor.esp
@@ -2762,6 +2764,7 @@ kibuka-light.esp
 KIVampires_HoodAddon.esp
 kikaibookbelts.esp
 Kill_Bill_Katanas.esp
+kitsune.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
@@ -3041,10 +3044,12 @@ Slof's Boners! v5.esp
 Slof's Bracelet Collection.esp
 Slof's Bracelets & Rings.esp
 Slof's Claws.esp
+Slof's Dark Assassin Armour.esp
 Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
 Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
+Slof's Even More Male Things.esp
 Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
 Slof's Persian Outfit For Males.esp
@@ -8631,6 +8636,7 @@ Alter Weight Spells.esp
 always protection.esp
 Apprentice Mystic.esp
 Arcane Calendar.esp
+Ayleid Chain Shock.esp
 Ayleid Expansion.esp
 ? Suspected of messing up your magicka multiplier.
 AyleidWeaponEnchantments_balance.esp
@@ -8794,6 +8800,7 @@ sr_enhanced_magic_system.esp
 SpellSinger.esp
 ZuzSetBody.esp
 SetBody.esp
+vn_boundapparatus.esp
 \EndGroup\\
 
 \BeginGroup\: Mighty Magic

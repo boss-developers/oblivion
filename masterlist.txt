@@ -1864,6 +1864,9 @@ moDem's City Life - BP Compat.esp
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 
+Oblivion Alive.esp
+? May be incompatible with BC - untested.
+
 OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
@@ -5485,6 +5488,7 @@ Forgotten Tower.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
 Fort_Walastar.esp
+Fort Wildeye.esp
 FarmersStrikeBack.esp
 OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
@@ -10355,6 +10359,8 @@ DAJynx.esp
 DAClair.esp
 % {{BASH:Hair,Eyes}}
 DAEva.esp
+% {{BASH:Hair,Eyes}}
+DAGimli.esp
 % {{BASH:Hair,Eyes}}
 DAValeriaCuteElf.esp
 % {{BASH:Hair,Eyes}}

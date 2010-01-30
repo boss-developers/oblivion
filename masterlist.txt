@@ -4040,7 +4040,7 @@ FCOM_TamrielicIngredients.esp
 
 Cobl Main RUS.esp
 Cobl Glue.esp
->? Requires 'FCOM_Cobl.esp'.
+>? >? Make sure to install the FCOM patch 'FCOM_Cobl.esp'.
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
 ? Requires Shivering Isles expansion.
@@ -6680,13 +6680,14 @@ TOTF Delayer.esp
 
 Ruined Tale 3.0.esp
 RTT.esp
+>? Make sure to install the FCOM patch "FCOM_Ruin.esp".
 Enhanced Weather - Ruined Tail's Tale Patch.esp
 RTT-Weye Relocation Patch.esp
 RTT RR Lake Rumare Patch.esp
 OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
 Ruin.esp
-? FCOM requires 'FCOM_Ruin.esp'.
+? Upgrade to latest version of Ruined Tail's Tale.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 
@@ -6776,7 +6777,6 @@ FCOM_Knights.esp
 FCOM_WelkyndSwordBlood&Mud.esp
 ? Requires 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
 FCOM_ruin.esp
-? Requires 'Ruin.esp'.
 FCOM_slofsrobetrader.esp
 ? Requires 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
@@ -8525,7 +8525,6 @@ Roughing It.esp
 
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
-? Obselete, consider upgrading to Ashes to Ashes version 1.0+
 
 MHE v2 Tail.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

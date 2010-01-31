@@ -50,17 +50,15 @@ Skingrad24Vars.esm
 IWRRetrofittedMaster.esm
 Improved Leveling System.esm
 Natural Interiors.esm
-? Not needed when using the mod 'All Natural'
 AWS-Core.esm
 EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
-? Obsolete. Upgrade to the latest version of Enhanced Weather.
+? Outdated. Upgrade to the latest version of Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
->Francesco's Optional New Creatures Add-On.esm
+Francesco's Optional New Creatures Add-On.esm
 >* Delete. Not FCOM compatible. Already integrated into FCOM.
-<Francesco's Optional New Creatures Add-On.esm
 battlemagearmor2-0Base.esm
 MD_Saddle_Master.esm
 Children Of Rourken.esm
@@ -74,7 +72,7 @@ Tamrielic Ingredients.esm
 Cobl Main.esm
 ? Do not use Tamrielic Ingredients and COBL at the same time.
 Item interchange.esm
-? Old. All functions are now handled by Cobl.esm. Update to 'Item Interchange' v0.64 or later and make sure you are running Cobl v155 or later.
+? Outdated. All functions are now handled by Cobl.esm. Update to the latest versions of 'Item Interchange' and Cobl.
 TamRes.esm
 Qarls_Harvest.esm
 % {{BASH:Scripts}} and no need for OOO patch.
@@ -96,7 +94,7 @@ Mart's Monster Mod.esm
 Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
 Waalx Animals & Creatures.esm
-? Not fully compatible with other overhaul mods
+? Not compatible with other overhaul mods.
 Diverse Wisps - Base.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
@@ -112,7 +110,7 @@ FCOM_Convergence.esm
 Armamentarium.esm
 ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
-? Old, merged into newest Armamentarium Complete.
+? Outdated, included newest Armamentarium Complete.
 azsTHouse.esm
 Artifacts.esm
 Underwear HGEC Fighter.esm
@@ -146,7 +144,6 @@ Horadric Cube.esm
 StaticRepairItems.esm
 UHK.esm
 DA Run Fatigue.esm
-? Requires OBSE v9a or higher
 ANB_Scrolls.esm
 OblivionMountProject.esm
 Oblivion Sexualized Monsters.esm
@@ -237,9 +234,9 @@ Oblivion_SI Vwalk Full.esp
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
 TRoN Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Outdated, upgrade to Sensual Walks.
 TRoN Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Outdated, upgrade to Sensual Walks.
 TRoN Vwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 
@@ -390,14 +387,12 @@ ClavicusFix.esp
 ArenaChampionHotfix.esp
 ? Use UOP v3.2.0 or later instead.
 995-Specular Fix 1.1-TESSource.esp
-? 'Specular not set to max' crash bug may have been fixed in an official 1.2 patch?
+? Obsolete, as the bug was fixed in the 1.2 official patch.
 vampirescriptfix.esp
 object_placement.esp
-? compatible with UOP, some errors are fixed by both - load after if you want the fixes that are shared to use this one's version of the fixes.
+? Overlaps slightly with UOP, load whichever you want to have an effect last.
 CaeliaDraconisFix.esp
-? Not a fix exactly, so can be used with the UOP.
 sulinus fix.esp
-? Not a fix exactly, so can be used with the UOP.
 sva_testFixBruma.esp
 Specular_Fix_1.1.esp
 % {{BASH:Graphics}}
@@ -438,7 +433,7 @@ Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
 Permanent Effects from Quest Items fix Merge.esp
-? Obselete upgrade to newest version of Permanent Effects from Quest Items fix.
+? Outdated. Upgrade to newest version of Permanent Effects from Quest Items fix.
 \EndGroup\\
 
 \BeginGroup\: Non-English Language fixes
@@ -535,7 +530,7 @@ Fra.esp
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 MMM.esp
-? Dummy file to load the MMM .BSA
+? Dummy file to load the MMM .BSA.
 Oblivion.esp
 ? Usually a BSA redirection hack.
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
@@ -598,28 +593,28 @@ MrSiikaRabbitsforFrans.esp
 \Unlikely to interact with other mods but OOO will overwrite vanilla replacers if not correctly Bash Patched.
 
 Atmospheric Loading Screens.esp
-% {{BASH:Graphics}} if using overhaul mods.
+% {{BASH:Graphics}}
 ? Move after Race Balancing Project if using that.
 Atmospheric Loading Screens - Original Text.esp
-% {{BASH:Graphics}} if using overhaul mods.
+% {{BASH:Graphics}}
 ? Move after Race Balancing Project if using that.
 Atmospheric Loading Screens - Random Quotes.esp
-% {{BASH:Graphics}} if using overhaul mods.
+% {{BASH:Graphics}}
 alternative loading tips - lore.esp
 Loading Screens.esp
-% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+% {{BASH:Graphics,NoMerge}}
 LoadingScreens.esp
-% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+% {{BASH:Graphics,NoMerge}}
 LoadingScreensAddOn.esp
 LoadingScreensSI.esp
-% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+% {{BASH:Graphics,NoMerge}}
 Loading Screens - Vanilla No Text.esp
-% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+% {{BASH:Graphics,NoMerge}}
 Natural Selection.esp
 BlackLoadNoTip.esp
-% {{BASH:Graphics}} if using overhaul mods.
+% {{BASH:Graphics}}
 Zira's Horse Theme Loadscreens.esp
-% {{BASH:Graphics}} if using overhaul mods.
+% {{BASH:Graphics}}
 LoadingScreensRemade.esp
 \EndGroup\\
 
@@ -664,24 +659,37 @@ AWS Merged Tweaks.esp
 
 Arthur_Natural_Weather_HDR_by_Max_Tael.esp
 Arthur_ Natural weather with HDR.esp
-Natural_Weather_by_Max_Tael_RD.esp
-? Ryu Doppler's fixes for NW
+? Outdated. Upgrade to latest version of Arthur Natural Environments.
 
 Natural Environments.esp
 NaturalWeather.esp
 Natural_Weather_by_Max_Tael.esp
+? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
 Natural_Weather_HDR_by_Max_Tael.esp
-Natural_Weather_HDR_2.1.2_bugfree.esp
-Natural_Weather_non-HDR_2.1.2_bugfree.esp
-
-Natural_Weather_HDR+Darker_Nights_2.1.2_bugfree.esp
+? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
 Natural_Weather_with_darker_Nights_by_Max_Tael.esp
-Natural_Weather_with_darker_Nights_by_Max_Tael_RD.esp
+? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
 Natural_Weather_HDR_with_darker_Nights_by_Max_Tael.esp
+? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
+
+Natural_Weather_HDR_2.1.3_coloroverride.esp.esp
+\No, that's not a typo. The plugin has two .esps in its name.
+Natural_Weather_HDR_by_Max_Tae_CO_RD.esp
+Natural_Weather_by_Max_Tael_RD.esp
+Natural_Weather_HDR_by_Max_Tael_RD.esp
+Natural_Weather_HDR_with_darker_Nights_by_Max_Tael_RD.esp
+Natural_Weather_with_darker_Nights_by_Max_Tael_RD.esp
+
 Darker Nights for Nat Env.esp
 _darker_nights_for_nat_env.esp
-
+Natural_Weather_HDR+Darker_Nights_2.1.2_bugfree.esp
+? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+Natural_Weather_HDR_2.1.2_bugfree.esp
+? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+Natural_Weather_non-HDR_2.1.2_bugfree.esp
+? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
 Natural_Weather_HDR_2.1.2_coloroverride.esp
+? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
 
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
@@ -701,9 +709,9 @@ EW_WeatherOrb.esp
 EnhancedWeather - Enhanced Seasons.esp
 ? Requires ScreenEffects.
 EnhancedWeather - SI.esp
-? Obsolete. Upgrade to the latest version of Enhanced Weather.
+? Outdated. Upgrade to the latest version of Enhanced Weather.
 EnhancedWeatherSIOnly.esp
-? Obsolete. Upgrade to the latest version of Enhanced Weather.
+? Outdated. Upgrade to the latest version of Enhanced Weather.
 EW-GTA2 Patch.esp
 ? Obsolete. Upgrade to the latest version of Enhanced Weather.
 
@@ -742,7 +750,7 @@ All Natural - Optional Features.esp
 ? Obsolete. Update to latest version of All Natural.
 
 Gates To Aesgaard 2 Weather Patch.esp
-? Deprecated. Update to latest Gates To Aesgaard Episode 2 and remove this patch.
+? Obsolete. Update to latest Gates To Aesgaard Episode 2 and remove this patch.
 Kvatch Rebuilt Weather Patch.esp
 
 Weather Debug Ring.esp
@@ -751,7 +759,6 @@ Weather Debug Spammer.esp
 Natural Interiors.esp
 % {{BASH:C.Climate}}
 Natural Interiors - Cities.esp
-? Not needed when using the mod 'All Natural'
 Natural Interiors - NE Compatibility.esp
 Natural Interiors - Windows to the World.esp
 NI-Fullcity-Anvilhome.esp
@@ -821,7 +828,6 @@ al-smm7.esp
 al-smm7-ru.esp
 PowerAttack Voicemod.esp
 ? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
-? Will cause OOO's Lock Bashing to fail if loaded after OOO.
 PowerAttack Voicemod - The Shivering Isles.esp
 
 Elves Of Lineage II Female Anime Voice.esp
@@ -972,10 +978,9 @@ Sunlit Interiors 1.31.esp
 
 aKALAmbientDungeonsBeta2.esp
 ? Requires 'ScreenEffects' and 'You Are Here'.
-? Old version, incompatible with other ScreenEffects mods. Upgrade to latest.
-
+? Outdated, incompatible with other ScreenEffects mods. Upgrade to latest version of Ambient Dungeons.
 AmbientDungeons.esp
-? OBSE, and 'You Are Here' required. Also for version before 1.3 'Screen Effects' is also required
+? OBSE and 'You Are Here' required. ScreenEffects required for versions below 1.3.
 \EndGroup\\
 
 \BeginGroup\: General Base Mods

@@ -1623,6 +1623,7 @@ Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
+QQuix - Rock, rock, rock your ship - V2.0.esp
 Quick Wardrobe.esp
 \EndGroup\\
 
@@ -1711,11 +1712,13 @@ ShadsTent.esp
 Sheepherder's Vampirism Fix - OBSE.esp
 ? v0.9 is a testing version. Not much information on load order or any stability issues.
 Shield on Back RC5-Public.esp
-? Old upgrade to ShieldOnBack.esm & ShieldOnBack_1C.esp.
+? Obsolete. Upgrade to latest version.
 Shield on Back 3.1.esp
-? Old upgrade to ShieldOnBack.esm & ShieldOnBack_1C.esp.
+? Obsolete. Upgrade to latest version.
 ShieldOnBack_1C.esp
+? Obsolete. Upgrade to latest version.
 1HweaponOnBack.esp
+? Obsolete. Upgrade to latest version.
 shiveringislesdoorusable.esp
 ShowHideAmulet.esp
 SilverFence.esp
@@ -1921,10 +1924,11 @@ OCC-TVamp-Patch.esp
 Choices and Consequences.esp
 ? Make sure you have the latest version.
 C&C&EQR.esp
-? Not the latest version, the latest version has the same file names as the previous version. Update.
+? Obsolete. Upgrade to latest version.
 
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner,Relations}}
+? Obsolete. Upgrade to latest version.
 
 Duke Patricks - Who Goes There.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
@@ -2038,10 +2042,10 @@ DLCOrrery Vwalk.esp
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
-? Make sure you have the latest version from C&C&EQR
+? Make sure you have the latest version.
 ? if using the merged SM Plugin Refurbish, move to load after that.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
-? Not the latest version, the latest version has the same file names as the previous version. Update.
+? Obsolete. Upgrade to latest version.
 NLF Orrery.esp
 DBSQR - Orrery.esp
 Orrery_Rewards-9767.esp
@@ -2489,11 +2493,11 @@ Daedric_Katana_0.4_vendors_and_leveled.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
 Daedric_Katana_0.4_vendors_only.esp
 ? Use only one of the three Daedric_Katana_0.4 ESPs.
-
 DaedricCausticSet.esp
 daedric sky armor.esp
 % {{BASH:Invent}}
 Daedric Trap Weapons.esp
+Daemon Queen Garb.esp
 Dalls_Anduril.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
@@ -2736,6 +2740,7 @@ Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
+JQ-TrekLirpa.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
 jy-Akaviri Helmets.esp
 \EndGroup\\ 
@@ -3700,7 +3705,7 @@ Grim Reaper.esp
 shadow lord_normal.esp
 A Very Silly Slaughterfish Mod.esp
 fishclub.esp
-
+Velveteen_Armor_HGEC.esp
 FF7 Swords 01 complete tsurugi.esp
 FF7 Swords 05 back butterfly.esp
 FF7 Swords 04 side rune.esp
@@ -4176,9 +4181,9 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 ? For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
 Choices and Consequences - OOO.esp
-? Make sure you have the latest version from C&C&EQR
+? Make sure you have the latest version.
 C&C&EQR - OOO.esp
-? Not the latest version, the latest version has the same file names as the previous version. Update.
+? Obsolete. Upgrade to latest version.
 
 ArmamentariumLLVendors.esp
 ? Can be used with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
@@ -4231,9 +4236,9 @@ MALO - Loot Tweaks FRAN.esp
 >? Only use when not using MMM.
 >
 >Choices and Consequences - MMM.esp
->? Make sure you have the latest version from C&C&EQR
+>? Obsolete. Upgrade to latest version and remove.
 >C&C&EQR - MMM.esp
->? Not the latest version, the latest version has the same file names as the previous version. Update.
+>? Obsolete. Upgrade to latest version and remove.
 >
 >Mart's Monster Mod - Blood Fix v3.esp
 >? Not needed in MMM 3.6beta3 integrated.
@@ -4399,9 +4404,9 @@ MALO - Loot Tweaks FRAN.esp
 <Mart's Monster Mod - Shivering Isles.esp
 <
 <Choices and Consequences - MMM.esp
-<? Make sure you have the latest version from C&C&EQR
+<? Obsolete. Upgrade to latest version and remove.
 <C&C&EQR - MMM.esp
-<? Not the latest version, the latest version has the same file names as the previous version. Update.
+<? Obsolete. Upgrade to latest version and remove.
 <CurseOfHircine.esp
 <
 <Mart's Monster Mod - Blood Fix v3.esp
@@ -4580,6 +4585,7 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
+? Obsolete. Upgrade to latest version and remove.
 \EndGroup\\
 
 \BeginGroup\: Waalx Animals and Creatures
@@ -4650,6 +4656,7 @@ kuerteeWanderingEncounters.esp
 >* Delete already integrated into FCOM components, use 'FCOM_DiverseGuardUnity.esp' instead.
 FCOM_DiverseGuardUnity.esp
 Choices and Consequences - FCOM - Diverse Guards.esp
+? Obsolete. Upgrade to latest version and remove.
 FCOM_BobsGuardUnity.esp
 ? Requires 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
@@ -4765,6 +4772,7 @@ TIE In - Game Settings OOO.esp
 TIE In - Sounds.esp
 
 Choices and Consequences - FCOM.esp
+? Obsolete. Upgrade to latest version and remove.
 \EndGroup\\
 
 \BeginGroup\: Additional MMM OOO Patches
@@ -4851,6 +4859,7 @@ FCOM_Archery_4_Arma_Complete_patch.esp
 % {{BASH:Stats}}
 C&C - The Blackwood Company - OOO.esp
 % {{BASH:C.Owner, Names, Relations}
+? Obsolete. Upgrade to latest version.
 Geomancy & Gem Dust OOO.esp
 Geomancy & Gem Dust OOO (No Spell Change).esp
 ? Use 'Geomancy & Gem Dust OOO (No Spell Change)' or 'Geomancy & Gem Dust OOO' but not both at the same time.
@@ -5722,6 +5731,7 @@ ImpeREAL Empire - Unique Forts - Bouayard.esp
 Imperial House.esp
 ImperialCemetery.esp
 Improved dungeons.esp
+? Upgrade to latest version, called "The Lost Treasures Of Cyrodiil"
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 Insanity's Pet Shop.esp
@@ -5866,7 +5876,7 @@ LostSwordOfTheAylied.esp
 LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
-
+LostTreasures1.1.esp
 Ls More Butterflies and Fireflies Not In Interiors.esp
 Ls More Butterflies and Fireflies.esp
 Lycanmoon.esp
@@ -6827,6 +6837,7 @@ BetterMusicSystem(Elsweyr).esp
 ElsweyrAnequina Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
+? Obsolete. Upgrade to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Requires OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
@@ -10236,6 +10247,7 @@ CM_Blackie_the_Fence.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
 
+CMPartner_Xenia.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp

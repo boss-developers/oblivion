@@ -4232,7 +4232,7 @@ MALO - Loot Tweaks FRAN.esp
 >* Delete. Already integrated into FCOM.
 >
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
->? May cause CTD issues - not recommended.
+>? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
 >FCOM_ConvergenceNoFran.esp
@@ -4421,6 +4421,7 @@ MALO - Loot Tweaks FRAN.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
 <
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
+<? Can increase the chances of a CTD in a heavily modded game.
 <Mart's Monster Mod - Diverse Runeskulls.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
 <% {{BASH:Delev,Relev}}

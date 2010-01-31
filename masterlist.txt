@@ -6692,8 +6692,9 @@ Ruined Tale 3.0.esp
 RTT.esp
 >? Make sure to install the FCOM patch "FCOM_Ruin.esp".
 Enhanced Weather - Ruined Tail's Tale Patch.esp
-RTT-Weye Relocation Patch.esp
 RTT RR Lake Rumare Patch.esp
+? Obsolete. Use RTT-Weye Relocation Patch.esp instead.
+RTT-Weye Relocation Patch.esp
 OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
 Ruin.esp

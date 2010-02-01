@@ -1693,6 +1693,7 @@ Practice_Dummy0.9.5.esp
 RingofNightEye.esp
 Rings of Infiltration.esp
 ? Requires OBSE 16+.
+RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
 Rock Remover - Underwater.esp
@@ -10497,7 +10498,6 @@ TamrielTravellers Cosmetics Cobl or RBP.esp
 \BeginGroup\: L.A.M.E.
 \''''''''
 \Inserted here for RBP compatibility
-\Expect SM to be moved here for people who want SM to 'win' over LAME.
 
 bgMagicDV.esp
 % {{BASH:Names,Delev,Relev}}
@@ -10525,6 +10525,8 @@ bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
 \EndGroup\\
+
+\Expect SM to be moved here for people who want SM to 'win' over LAME.
 
 \BeginGroup\: Post Magicka Overhaul
 \'''''''''''''''''''''

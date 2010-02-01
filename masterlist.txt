@@ -9735,20 +9735,22 @@ _darker dungeons.esp
 _darker_dungeons.esp
 % {{BASH:C.Light}} and deactivate.
 less_dungeon_effects-6330.esp
+
+
 Let There Be Darkness.esp
 ? Obsolete. Upgrade to version 1.2+.
-% {{BASH:C.Light}}
-Let There Be Darkness - Cyrodiil.esp
-% {{BASH:C.Light}}
-Let There Be Darkness - Knights.esp
-? Requires Knights of the Nine.
 % {{BASH:C.Light}}
 Let There Be Darkness - Shivering Isles.esp
 ? Requires Shivering Isles.
 ? Obsolete. Upgrade to version 1.2+.
 % {{BASH:C.Light}}
+Let There Be Darkness - Cyrodiil.esp
+% {{BASH:C.Light}}
 Let There Be Darkness - Cyrodiil + SI.esp
 ? Requires Shivering Isles.
+% {{BASH:C.Light}}
+Let There Be Darkness - Knights.esp
+? Requires Knights of the Nine.
 % {{BASH:C.Light}}
 Let There Be Darkness - Mehrunes Razor.esp
 ? Requires Mehrunes Razor DLC
@@ -9756,6 +9758,52 @@ Let There Be Darkness - Mehrunes Razor.esp
 Let there be Darkness All Merge.esp
 ? Merge requiring KOTN, Shivering Isles and Mehrunes Razor.
 % {{BASH:C.Light}}
+Let There Be Darkness - Thieves Den.esp
+? Requires Thieves Den.
+% {{BASH:C.Light}}
+Let There Be Darkness - OOO.esp
+? Requires Oscuro's Oblivion Overhaul.
+% {{BASH:C.Light}}
+Let There Be Darkness - Kvatch Rebuilt.esp
+? Requires Kvatch Rebuilt.
+% {{BASH:C.Light}}
+Let There Be Darkness - Curse of Hircine.esp
+? Requires Curse of Hircine.
+% {{BASH:C.Light}}
+Let There Be Darkness - Glenvar Castle.esp
+? Requires Glenvar Castle.
+% {{BASH:C.Light}}
+Let There Be Darkness - The Elder Council.esp
+? Requires The Elder Council.
+% {{BASH:C.Light}}
+Let There Be Darkness - Thievery.esp
+? Requires Thievery in the Imperial City.
+% {{BASH:C.Light}}
+Let There Be Darkness - VH Bloodlines.esp
+? Requires Verona House Bloodlines.
+% {{BASH:C.Light}}
+Let There Be Darkness - Lost Spires.esp
+? Requires The Lost Spires.
+% {{BASH:C.Light}}
+Let There Be Darkness - Elsweyr.esp
+? Requires Elsweyr Deserts of Anequina.
+% {{BASH:C.Light}}
+Let There Be Darkness - UL Colovian Highlands.esp
+? Requires UL Colovian Highlands.
+% {{BASH:C.Light}}
+Let There Be Darkness - UL Lost Coast.esp
+? Requires UL Lost Coast.
+% {{BASH:C.Light}}
+Let There Be Darkness - UL Brena.esp
+? Requires Ul Brena River Ravine.
+% {{BASH:C.Light}}
+Let There Be Darkness - UL Blackwood Forest.esp
+? Requires UL Blackwood Forest.esp
+% {{BASH:C.Light}}
+Let There Be Darkness All.esp
+? Merge, please ensure all masters are present. Masters can be checked using Wrye Bash.
+% {{BASH:C.Light}}
+
 FastTravelAllowed.esp
 
 Item interchange - Placement.esp

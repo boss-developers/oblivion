@@ -10240,20 +10240,26 @@ Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
 
 CM Partners.esp
+CM Partners Vwalk.esp
 CM Partners Special NPCs.esp
 % {{BASH:Hair,Eyes}}
+CM Partners Special NPCs Vwalk.esp
 CM Partners NPC.esp
 % {{BASH:Hair,Eyes}}
 CM Partners NPC NE.esp
 % {{BASH:Hair,Eyes}}
+CM Partners NPC Vwalk.esp
 CM Partners More NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs NE.esp
 % {{BASH:Hair,Eyes}}
+CM Partners More NPCs Vwalk.esp
 CM Partners Marker NPCs.esp
 % {{BASH:Hair,Eyes}}
+CM Partners Marker NPCs Vwalk.esp
 CM Partners Extra NPCs.esp
 % {{BASH:Hair,Eyes}}
+CM Partners Extra NPCs Vwalk.esp
 CM Partners Auto Loot add-on.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.

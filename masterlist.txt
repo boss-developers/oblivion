@@ -6144,6 +6144,8 @@ Sheogoraths_Accords_of_Madness.esp
 ShezriesVillagesCOBL.esp
 ShipInATree.esp
 Shivering Farm.esp
+SI-BlissAquaductHouse.esp
+SI-BlissAquaductHouse-COBL.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
@@ -6203,6 +6205,7 @@ Star's Rest - Ayleid Well.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
+Sunset Keep.esp
 swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
@@ -8235,6 +8238,8 @@ Valuable Gems and Silverware v1.0.esp
 VDust Causes Vampirism.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
+vendorfreedom.esp
+% {{BASH:relev}}
 vn_goldweight.esp
 \EndGroup\\
 
@@ -9955,6 +9960,8 @@ Nec - Extra Mystic Elf Face.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec-Character_Clair.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Nec-Character_Sonnet_Mature.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec Mystic Dark Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Capucine's Aquamer Race.esp
@@ -10308,7 +10315,9 @@ cssJeremiah.esp
 cssJaKhaiitMyr.esp
 
 1em_Vilja.esp
+1em_Vilja Not Essential Vwalk.esp
 Aliyah.esp
+ArianaTrudeaux.esp
 Arwen companion.esp
 % {{BASH:Hair,Eyes}}
 Audrey companion.esp
@@ -10452,7 +10461,8 @@ DASatyr.esp
 \--------------
 \
 \Includes birthsign mods.
-
+AMB.esp
+% {{BASH:Body-F,Body-M}}
 \BeginGroup\: COBL Races
 \''''''''''
 

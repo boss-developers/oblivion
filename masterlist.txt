@@ -5941,9 +5941,6 @@ mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_LongshipExpansion.esp
 mrSiikas_BetterPorts_Seagulls.esp
-MTCExpandedVillages.esp
-? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
-? Conflicts with Lost Spires and Faregyl
 MTCRiverShackv1.2.esp
 ? Not compatible with Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
@@ -6707,6 +6704,10 @@ Ruin.esp
 ? Upgrade to latest version of Ruined Tail's Tale.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
+
+MTCExpandedVillages.esp
+? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
+? Conflicts with Lost Spires and Faregyl
 
 MoreSuburbLife.esp
 ? If using RTT use MoreSuburbLife_RTT_patch.esp to prevent issues with the Wawnet Inn.

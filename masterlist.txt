@@ -1,5 +1,3 @@
-\$Revision$, $Date$, $LastChangedBy$
-\
 \ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
@@ -16,6 +14,7 @@
 \BeginGroup\: ESMs
 \----
 Oblivion.esm
+? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
 MiddleEarth.esm

@@ -5711,6 +5711,7 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
+ImpeREAL Empire - Unique Forts Vwalk.esp
 
 Imperial City Ranch.esp
 
@@ -6214,6 +6215,8 @@ swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
+Sylar_INNMergedCyrodillInnsRevisedV1.1
+Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\
 
@@ -6223,6 +6226,7 @@ Talos Bridge.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
 Tantrivaylia.esp
+Tantrivaylia Vwalk.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TempleoftheFullMoon.esp
@@ -6425,6 +6429,7 @@ WhiteRoseLodgev2.0.esp
 
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
+Cyrodiil Travel Services Vwalk.esp
 Fairies.esp
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
@@ -6687,6 +6692,7 @@ CybHarder.esp
 ? only use one Cybiades difficulty plugin
 CybHardest.esp
 ? only use one Cybiades difficulty plugin
+Cybiades Vwalk.esp
 
 Damarask.esp
 Castle_Knightstone.esp
@@ -6712,6 +6718,7 @@ Ruin.esp
 ? Upgrade to latest version of Ruined Tail's Tale.
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
+RTT Vwalk.esp
 
 MTCExpandedVillages.esp
 ? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
@@ -7122,6 +7129,7 @@ Villges-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
 Lakewood+AspenWood Patch.esp
+xulAspenWood Vwalk.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -8923,6 +8931,9 @@ Midas OscuroGems.esp
 MidasSpellTomes.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
+MMC_Iphigenia Vwalk.esp
+MMC_DarkZoe.esp
+MMC_DarkZoe Vwalk.esp
 Midas Betterholy.esp
 Midas SMHolyHeal.esp
 ? DELETE: Outdated
@@ -10299,13 +10310,15 @@ CM Partners Special NPCs.esp
 CM Partners Special NPCs Vwalk.esp
 CM Partners NPC.esp
 % {{BASH:Hair,Eyes}}
+CM Partners NPC Vwalk.esp
 CM Partners NPC NE.esp
 % {{BASH:Hair,Eyes}}
-CM Partners NPC Vwalk.esp
+CM Partners NPC NE Vwalk.esp
 CM Partners More NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs NE.esp
 % {{BASH:Hair,Eyes}}
+CM Partners More NPCs NE Vwalk.esp
 CM Partners More NPCs Vwalk.esp
 CM Partners Marker NPCs.esp
 % {{BASH:Hair,Eyes}}
@@ -10324,6 +10337,8 @@ ambreskav02.esp
 ambreskav02_default_anim.esp
 
 CMPartner_Xenia.esp
+Xenia_CMPartner.esp 
+Xenia_CMPartner Vwalk.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp
@@ -10375,6 +10390,7 @@ cssJeremiah.esp
 cssJaKhaiitMyr.esp
 
 1em_Vilja.esp
+1em_Vilja Vwalk.esp
 1em_Vilja Not Essential Vwalk.esp
 Aliyah.esp
 ArianaTrudeaux.esp
@@ -10427,6 +10443,7 @@ Ramy Enfant.esp
 % {{BASH:Hair,Eyes}}
 Rhianna.esp
 % {{BASH:Hair,Eyes}}
+Rhianna Vwalk.esp
 RhiannaII.esp
 % {{BASH:Hair,Eyes}}
 Rinn.esp

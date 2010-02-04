@@ -6216,7 +6216,7 @@ swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
-Sylar_INNMergedCyrodillInnsRevisedV1.1
+Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\
@@ -6859,6 +6859,7 @@ ElsweyrAnequina.esp
 BetterMusicSystem(Elsweyr).esp
 ? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina Vwalk.esp
+ElsweyrAnequina v2 Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Upgrade to latest version and remove.
@@ -11494,6 +11495,15 @@ Shining Flame Atronachs_ElementalSummonAmulets.esp
 Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
 Shining Creatures.esp
+% {{BASH:Invent}}
+Shining Creatures_AtronachFlame.esp
+% {{BASH:Invent}}
+Shining Creatures_AtronachFrost.esp
+% {{BASH:Invent}}
+Shining Creatures_WillOWisp.esp
+% {{BASH:Invent}}
+Shining Creatures_DLCFrostcrag.esp
+% {{BASH:Invent}}
 \EndGroup\\
 
 \EndGroup\\

@@ -2742,6 +2742,7 @@ JCapes!20.esp
 JCapesBonus.esp
 % {{BASH:Invent}}
 Jedi LightSabers with Sound.esp
+JediLightsabersWithSheathFIX.esp
 ? Requires OBSE
 JG Elven.esp
 Johnn's Cutlass Mod.esp
@@ -8655,6 +8656,7 @@ Duke Patricks - Nosferatu Class Vampires.esp
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 ? Obselete, consider upgrading to Ashes to Ashes version 1.0+
 LithiansNatureOfTheBeastModBeta.esp
+Scorn_Vampirism_Mod.esp
 Vampire Fire by Darkhart.esp
 \EndGroup\\
 

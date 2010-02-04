@@ -1070,7 +1070,7 @@ All normal clothes buyable.esp
 SI Clothes.esp
 \EndGroup\\
 
-\BeginGroup\: 
+\BeginGroup\: Base B
 
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}} and deactivate.
@@ -1583,6 +1583,7 @@ OSRCustom.esp
 Packhorses v1.esp
 passive_horses.esp
 personality_idles2.esp
+personality_idles3b.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
 personality_idles4_nopc.esp
@@ -5893,6 +5894,10 @@ LostTreasures1.1.esp
 Ls More Butterflies and Fireflies Not In Interiors.esp
 Ls More Butterflies and Fireflies.esp
 Lycanmoon.esp
+Lycanthrope.esp
+? Consider upgrading to Werewolf - Legends of the North.
+Lycanthrope 2.esp
+? Consider upgrading to Werewolf - Legends of the North.
 Lyn-AbsoluteFreedom.esp
 Lyn-AnvilAbandonedHouse.esp
 Lynges_Dark_Brotherhood_Assassins-8654.esp
@@ -6193,6 +6198,7 @@ Spear_of_Bitter_Mercy.esp
 Spirit's Edge.esp
 ? Incompatible with 'Ayleid Wells'
 Star Ship Orion.esp
+StokerWolff.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
@@ -8989,6 +8995,8 @@ Midas BeastFortify Fix OBSE.esp
 \BeginGroup\: Spells Late
 
 AudaciousMagery.esp
+
+LeveledMagicka.esp
 
 Pestilent Afflictions.esp
 Pestilent_Afflictions-DV.esp

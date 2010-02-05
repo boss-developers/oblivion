@@ -2220,6 +2220,7 @@ Ayleid Artifacts.esp
 Ayleid Kings Armor.esp
 Ancient Aylied elven armors.esp
 Ancient Silver Armor.esp
+Ancient Silver Elven Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
 ArenaEyeCandyArmor.esp
@@ -2970,6 +2971,7 @@ PythonHolyhg.esp
 
 \BeginGroup\: Items R
 
+Ranger's Shroud Armor.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 Raziel_Apperal.esp
@@ -5081,6 +5083,7 @@ ABloodyNight.esp
 AbuEmir01.esp
 ? Requires Shivering Isles
 Adaman Fortress.esp
+A_dark_elvish_cave-5121.esp
 AdenseEpicDungeon.esp
 ? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_1.esp
@@ -5198,6 +5201,7 @@ Artifacts - ArmaCompleteAddon.esp
 Artifacts SoB Patch.esp
 AraenyaRealm.esp
 A Son's Revenge 2.0.esp
+AsarusTomb1.esp
 Asharnakibibi 1_2.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
@@ -5406,6 +5410,9 @@ Colourwheels_sexy_school_uniforms.esp
 \BeginGroup\: Quests D
 
 Daedric Quests Unleveled.esp
+Dalls_Skingrad.esp
+Dalls_ICHouse.esp
+Dalls_Inheritance.esp
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 Dark Sanctuary Display Room.esp
@@ -7714,6 +7721,8 @@ Dungeon&ExteriorActorsHaveTorchesCT.esp
 ActorsHaveTorches.esp
 Fading Torches v1.3b.esp
 ? Old, update to v2.2+.
+fadingtorches v1.3b.esp
+? Old, update to v2.2+.
 fadingtorches v2.2b.esp
 % {{BASH:Names}}
 Essential Trainers.esp
@@ -9348,6 +9357,7 @@ Fast Arrow Collection.esp
 ? Requires OBSE 16+
 Fiery Fists v1.2.esp
 GM's Archery Rebalance.esp
+Archery Rebalance.esp
 WB Dynamic Weapon Speeds.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp

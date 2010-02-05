@@ -2614,6 +2614,7 @@ FalxMod.esp
 % {{BASH:Invent}}
 Fans for Helain.esp
 Fantasy Mod.esp
+% {{BASH:Hair,Eyes}}
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
 ImperialDragonHeavyShield.esp
@@ -2746,6 +2747,7 @@ Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
 ? Requires OBSE
 JG Elven.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
 JQ-Amulets.esp
@@ -10463,6 +10465,7 @@ Saerileth.esp
 % {{BASH:Hair,Eyes}}
 sexycompanion.esp
 % {{BASH:Hair,Eyes}}
+sexycompanion Vwalk.esp
 Shivering Creature Companion.esp
 Sher Ja Lion Companion.esp
 SnowAndHarukoCMPartners.esp

@@ -10371,9 +10371,6 @@ AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
-companion_moonelves.esp
-companion_nightelves.esp
-% {{BASH:Hair,Eyes}}
 Terimer.esp
 % {{BASH:Hair,Eyes}}
 
@@ -10423,6 +10420,8 @@ Companion Neeshka Swalk.esp
 Companion Neeshka Vwalk.esp
 companion_moonelves.esp
 companion_chocolate.esp
+companion_nightelves.esp
+% {{BASH:Hair,Eyes}}
 companion.esp
 Custom NPCs for CSR.esp
 Dogmeat Companion.esp

@@ -2171,6 +2171,7 @@ avarm.esp
 % {{BASH:Invent}}
 
 1.4TheAtlanteanSword.esp
+1.4TheAtlanteanSword_leather.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1Elven.esp
@@ -10023,6 +10024,8 @@ King_O_POPver2
 % {{BASH:Graphics,Hair,Eyes}}
 Naruto's_Eyes_bY_Van_Groud.esp
 % {{BASH:Graphics,Hair,Eyes}}
+idkrrr_sarameyesNhairs4originalrace.esp
+% {{BASH:Graphics,Hair,Eyes}}
 \EndGroup\\
 
 \BeginGroup\: Race additions (+ hair + eyes etc)
@@ -10384,6 +10387,10 @@ AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
+SonjaCM.esp
+SonjaCMRen.esp
+Kristen2CM.esp
+RoseCM.esp
 Terimer.esp
 % {{BASH:Hair,Eyes}}
 

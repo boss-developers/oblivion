@@ -1040,6 +1040,7 @@ ANBPantherFigurine.esp
 Ancient_Artifacts.esp
 Anvil Dock Map Marker.esp
 ? Included in UOP 3.2.0. Recommended that you use that, and remove this plugin.
+Arena Posters Diversified.esp
 archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
@@ -5875,7 +5876,9 @@ Lenawiln_Cottagev2.11.esp
 bladesfactionmod.esp
 
 OldCrowInn.esp
+Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
+Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
 LetThePeopleDrink-Cobl.esp
@@ -6498,8 +6501,10 @@ CDM-Arena Gauntlet.esp
 CDM-Arena Survival.esp
 Arena_BattlesV1.1.esp
 % {{BASH:Relations}}
+? Old, update to version 1.2+.
 Arena_BattlesV1.2EV.esp
 % {{BASH:Relations}}
+Arena Capacity Crowds.esp
 Arena Rebuild.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
@@ -6931,6 +6936,8 @@ A Imperial Outpost - Fort Novi Sad.esp
 Reaper's Waterfront.esp
 
 ReclaimSancreTor.esp
+
+Tales from Elsweyr 2_1.esp
 
 WaterfrontMarket.esp
 ? Probably incompatible with Better Cities.
@@ -10087,6 +10094,8 @@ Slof's Snow Leopard Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Slof's Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
+Stars_elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 AinmhiRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Dark_Seducer_and_Golden_Saint_Race.esp
@@ -10571,6 +10580,8 @@ DAAlien.esp
 % {{BASH:Hair,Eyes}}
 DASatyr.esp
 % {{BASH:Hair,Eyes}}
+Tladytest.esp
+prettyEnh.esp
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

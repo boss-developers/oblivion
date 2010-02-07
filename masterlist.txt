@@ -2193,6 +2193,7 @@ avarm.esp
 A_Simple_Ring-8333.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
+AC2Gear_RS.esp
 ACB_Yamigarasu.esp
 Ace's Warlock Gear.esp
 Acolyte_Of_Kynareth_HGEC.esp
@@ -2419,6 +2420,7 @@ Brigand's Gear.esp
 % {{BASH:Invent}}
 Buster Sword R.esp
 BrivasArmor.esp
+BWisteria.esp
 \EndGroup\\
 
 \BeginGroup\: Items C
@@ -8161,6 +8163,7 @@ Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
+Skillbased Thieves Guild Invitation.esp 
 Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
@@ -10391,6 +10394,8 @@ kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
 SonjaCM.esp
 SonjaCMRen.esp
+SonjaCMcorean24.esp
+SonjaCMtkBarbyBand.esp
 Kristen2CM.esp
 RoseCM.esp
 Terimer.esp

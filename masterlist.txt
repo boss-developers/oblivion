@@ -5271,6 +5271,8 @@ Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 Better Abandoned House.esp
+Better Abandoned House OC Full.esp
+? Chance it may need to load later (as in after Open Cities) - someone with OC please check and report.
 AbandonedHouse.esp
 ? Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
 AbandonedHouseBC.esp
@@ -6032,6 +6034,7 @@ NNWARE05-Bawn.esp
 \BeginGroup\: Quests O
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
+Oblivion Achievements Core with Rewards.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
 OMPexample.esp
@@ -6214,6 +6217,7 @@ sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Spirit's Edge.esp
 ? Incompatible with 'Ayleid Wells'
+SRJmarasProtection.esp
 Star Ship Orion.esp
 StokerWolff.esp
 Stonehenge.esp
@@ -9900,37 +9904,37 @@ Arena betting.esp
 \'''''''''''''''''''''
 ArgonianBeautification-RaceSettings.esp
 BulkyNord.esp
-% {{BASH:Body-M,Body-F}} and deactivate.
+% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 BulkyOrcs.esp
-% {{BASH:Body-M,Body-F}} and deactivate.
+% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-M,Body-F}}
+% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Bigger_Dremora.esp
-% {{BASH:Body-M,Body-F}} and deactivate... mprobably.
+% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
 JJR'sWhiskers and Eyebrow.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics}} and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
 EyelashesVanillaRaces.esp
-% {{BASH:NpcFaces,Graphics}} and deactivate.
+% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 EyelashesVannilaRaces.esp
-% {{BASH:NpcFaces,Graphics}} and deactivate.
+% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 EyelashesForVanillaRaces1.0.esp
-% {{BASH:NpcFaces,Graphics}} and deactivate.
+% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 Jjiinx_MorrowindStyleArgonians.esp
-% {{BASH:NpcFaces,Graphics}} and deactivate.
+% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 Better Redguard v2.esp
-% {{BASH:NpcFaces,Graphics}} and deactivate.
+% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 BigDunmerEars.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 Smaller Elf ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 Jjiinx_Long Ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 Head06 Replacer.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 WhiskersAll.esp
-% {{BASH:R.Teeth,Graphics}} and deactivate. 
+% {{BASH:R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate. 
 \EndGroup\\
 
 \BeginGroup\: Hair

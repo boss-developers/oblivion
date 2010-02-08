@@ -87,7 +87,7 @@ Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 ? Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
-% {{BASH:Invent,Stats,Relations}}
+% {{BASH:Invent,Scripts,Stats,Relations}}
 DarkDale.esm
 Mart's Monster Mod.esm
 % {{BASH:Invent,Relations}}
@@ -414,7 +414,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 
 Unofficial Oblivion Patch.esp
 ? Recommend installing UOP hotfix for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
-% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
+% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Scripts,Stats,Relations}} and remove the C.Water tag (only exist in older version).
 Unofficial Oblivion Patch DV.esp
 % {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Stats,Relations}} and remove the C.Water tag.
 Correctif.esp
@@ -4131,7 +4131,7 @@ G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH:Delev,Invent,Names,Relations,Relev,Stats}}
+% {{BASH:Delev,Invent,Names,Relations,Relev,Stats,Scripts}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -4213,7 +4213,7 @@ ArmamentariumLLArmaVendor.esp
 Armamentarium SoB Patch.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
-% {{BASH:Invent}}
+? Obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
 Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
 % {{BASH:Invent}}
 
@@ -4230,18 +4230,6 @@ MALO - Loot Tweaks FRAN.esp
 
 \BeginGroup\: MMM & FCOM
 \''''''''''
-
->Mart's Monster Mod.esp
->* Delete. Use 'FCOM_convergence.esp'.
->Mart's Monster Mod for FCOM.esp
->* Delete. Old. Use 'FCOM_convergence.esp'.
->? Update MMM to 3.6beta3 or later.
->Mart's Monster Mod for Fran.esp
->* Delete. Not needed with FCOM.
->Mart's Monster Mod for Francescos.esp
->* Delete. Not needed with FCOM.
->Mart's Monster Mod for OOO.esp
->* Delete. Not needed with FCOM.
 >Mart's Monster Mod - Fran's Leveled Quests.esp
 >* Delete. Already integrated into FCOM.
 >
@@ -4249,23 +4237,23 @@ MALO - Loot Tweaks FRAN.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
+%{{BASH:Invent}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp
 >? Only use when not using MMM.
->
+
 >Choices and Consequences - MMM.esp
 >? Obsolete. Upgrade to latest version and remove.
 >C&C&EQR - MMM.esp
 >? Obsolete. Upgrade to latest version and remove.
->
+
 >Mart's Monster Mod - Blood Fix v3.esp
 >? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - Lesser Balrog Fix.esp
 >MMM - UberhulkParalyzeFix.esp
 >? Not needed in MMM 3.6beta3 integrated.
 >Mart's Monster Mod - GhostApparitionFix.esp
->
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 1.
@@ -4410,24 +4398,30 @@ MALO - Loot Tweaks FRAN.esp
 
 \BeginGroup\: MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
-<
+
 <Mart's Monster Mod.esp
+>* Delete. Not needed with FCOM.
 <Mart's Monster Mod for Fran.esp
+>* Delete. Not needed with FCOM.
+<% {{BASH:Invent}}
 <Mart's Monster Mod for Francescos.esp
+<% {{BASH:Invent}}
+>* Delete. Not needed with FCOM.
 <Mart's Monster Mod TNR Faces.esp
 <Mart's Monster Mod COBL Races TNR.esp
 <Mart's Monster Mod for OOO.esp
+>* Delete. Not needed with FCOM.
 <% {{BASH:Invent,Factions,Relations}}
 <Mart's Monster Mod for OOO TNR Faces.esp
 <Mart's Monster Mod for OOO COBL Races TNR.esp
 <Mart's Monster Mod - Shivering Isles.esp
-<
+
 <Choices and Consequences - MMM.esp
 <? Obsolete. Upgrade to latest version and remove.
 <C&C&EQR - MMM.esp
 <? Obsolete. Upgrade to latest version and remove.
 <CurseOfHircine.esp
-<
+
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Old version. Not needed in MMM 3.6beta3 integrated or later.
 <Mart's Monster Mod - Lesser Balrog Fix.esp
@@ -9036,6 +9030,7 @@ Jjiinx_Enhanced Diseases.esp
 Jjiinx_Enhanced Disease.esp
 Vector.esp
 
+FingerOfTheMountain.esp
 sr_casting_hand.esp
 CandleNoMagicCapsV2.esp
 LightSpellWhiteDimmer.esp
@@ -9392,8 +9387,11 @@ More_Arrows_Recovered.esp
 ? Use Wyre Bash's Bashed Patch Tweaks instead where possible.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
+mighty_bows_full.esp
+% {{BASH:Stats}}
 mighty_bows_damage_bonus.esp
 % {{BASH:Stats}}
+mighty_bows_sneak_dmg_bonus.esp
 
 Better Hand to Hand.esp
 JM's Bar Fights mortal.esp
@@ -10020,6 +10018,7 @@ EE-Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
 CCR - EE.esp 
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
+CCR - Capucine.esp
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}} and deactivate.
 Comprehensive Style Collection RM.esp

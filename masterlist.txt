@@ -10606,7 +10606,7 @@ Cobl Races TNR SI.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate.
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 \EndGroup\\
 

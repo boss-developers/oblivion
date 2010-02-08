@@ -2212,7 +2212,6 @@ AK-47GR2.esp
 Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
-Akiviri Imports MOBS.esp
 AkatoshHead.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
@@ -5103,6 +5102,10 @@ AGC-TARDISinside.esp
 ? use either outside for vanilla or inside for open cities
 Akaviri Imports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
+Akiviri Imports MOBS.esp
+? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
+Akaviri Imports MOBS.esp
+? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
 AkaviriKojimaTravel.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp

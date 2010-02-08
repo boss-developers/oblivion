@@ -1735,6 +1735,7 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Sigil_Stone_Spawner-3025.esp
+SimpleSprinting.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
 
@@ -3921,6 +3922,8 @@ Goblin Realswords+Tribal Shields.esp
 ? Only use this or Goblin Realswords.esp (or FCOM)
 Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
+Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
+% {{BASH:Invent}}
 The Last Queen Of The Ayleids.esp
 \EndGroup\\
 
@@ -4212,8 +4215,6 @@ Armamentarium SoB Patch.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 ? Obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
-Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
-% {{BASH:Invent}}
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -5266,9 +5267,6 @@ Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
-Better Abandoned House.esp
-Better Abandoned House OC Full.esp
-? Chance it may need to load later (as in after Open Cities) - someone with OC please check and report.
 AbandonedHouse.esp
 ? Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
 AbandonedHouseBC.esp
@@ -6368,6 +6366,7 @@ Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
 Ushnars Skinned Hound.esp
+Ushnar's Re-Skinned Hound.esp
 \EndGroup\\
 
 \BeginGroup\: Quests V
@@ -7376,6 +7375,12 @@ III-LeyawiinRebornPatch.esp
 
 \BeginGroup\: Quests and Locations 5
 \----------------------
+Better Abandoned House OC Full.esp
+Better Abandoned House OC Cheydinhal.esp
+Better Abandoned House.esp
+? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
+Better Abandoned House - Interior Only.esp
+
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
 

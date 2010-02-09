@@ -9176,7 +9176,6 @@ Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
-lumi_enchantments.esp
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp
 ? Requires OBSE.
@@ -11429,6 +11428,7 @@ Life Detected - Venting - Tiny - 2.esp
 ? Only activate one Life Detected esp at a time.
 Life Detected - Enhanced Shader.esp
 Life Detected - OMOD.esp
+lumi_enchantments.esp
 Forward Motion Blur.esp
 Get Wet - just droplets.esp
 Get Wet - no droplets.esp

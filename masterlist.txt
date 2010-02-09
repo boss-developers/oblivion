@@ -2775,6 +2775,7 @@ KDClothCirclets.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 Kafei's Circlets Reforged.esp
 KDDwemerSpectacles.esp
+kdThiefVest.esp
 Kendo2_Gunman.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
@@ -2877,6 +2878,7 @@ MehrunesDagonOutfit.esp
 Nature's_bounty.esp
 Natures_Arsenal.esp
 Necessary Violence.esp
+Neckerchiefs v1.2.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -2975,6 +2977,7 @@ PythonHolyhg.esp
 
 \BeginGroup\: Items R
 
+RealitySpectresThiefGarb.esp
 Ranger's Shroud Armor.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
@@ -3016,6 +3019,7 @@ RingwraithArmorDaedric.esp
 Sacredblade.esp
 Saint Hiryu's Artifacts.esp
 % {{BASH:Invent}}
+SaiyanRanger.esp
 samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
@@ -3243,6 +3247,7 @@ White Leather Armor.esp
 WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wood Bows and Leather Armors.esp
+Woodsman Armor.esp
 Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
@@ -10279,6 +10284,8 @@ Ancient Elven Sorceress - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+CapsAdmin.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 \EndGroup\\
 
 \BeginGroup\: Merges and combinations
@@ -10390,12 +10397,14 @@ CM_Blackie_the_Fence.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
 
+A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
 Xenia_CMPartner.esp 
 Xenia_CMPartner Vwalk.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp
+CM Garrus.esp
 CM Tifa A.esp
 CM_Kailinda.esp
 cm_Jo-han.esp
@@ -10459,6 +10468,7 @@ Baddy.esp
 Baddy-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
 Cog-Rein.esp
+CompanionMaster.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 Companion Neeshka Rwalk.esp

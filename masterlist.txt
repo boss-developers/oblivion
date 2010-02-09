@@ -4236,7 +4236,7 @@ MALO - Loot Tweaks FRAN.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
-%{{BASH:Invent}}
+% {{BASH:Relev,Delev,Invent}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp

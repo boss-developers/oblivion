@@ -996,6 +996,7 @@ AmbientDungeons.esp
 1vampirescocktail.esp
 13rings.esp
 1440-1-Black Soul Merchant-TESSource.esp
+1DeadlyShadows.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
 2680twohand.esp
@@ -9740,7 +9741,11 @@ CTAddPose_Le01.esp
 CTAddPose_Le02.esp
 CTAddPose_OTPair.esp
 CTAddPose_ bondage_sex.esp
-CTAddPose_bondage_sex-2.esp 
+CTAddPose_bondage_sex-2.esp
+CTAddPose_2ch_(Hentai).esp
+CTAddPose_gobu.esp
+CTAddPose_Dsk(erori)Pose.esp
+
 
 
 LainPose.esp
@@ -10269,6 +10274,8 @@ AsharasSirensAndTritons.esp
 Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Moogles.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Nature.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

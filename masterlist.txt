@@ -17,6 +17,7 @@ Oblivion.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
+MERP Data.esm
 MiddleEarth.esm
 Underdark.esm
 GTAesgaard_2.esm
@@ -1609,7 +1610,6 @@ PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
 Poisonous_Food-9719.esp
-Potable Pastiche.esp
 Posters.esp
 Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
@@ -1634,6 +1634,8 @@ Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
+? Old, upgrade to V3+
+QQuix - Rock, rock, rock your ship - V3.esp
 Quick Wardrobe.esp
 \EndGroup\\
 

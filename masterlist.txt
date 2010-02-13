@@ -6912,8 +6912,6 @@ NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
 NRB4-TchosTower-Patch.esp
 
-West Roads.esp
-
 Bridges For the Fools.esp
 
 Feldscar.esp
@@ -7170,6 +7168,8 @@ xulAspenWood.esp
 Lakewood+AspenWood Patch.esp
 xulAspenWood Vwalk.esp
 
+xulSkingradOutskirts.esp
+
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
 NRB4+UL-II Patch.esp
@@ -7187,10 +7187,12 @@ xul Swalk Full.esp
 xul Vwalk Full.esp
 \EndGroup\\
 
-xleyawiinSwamp.esp
-
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
+
+West Roads.esp
+
+xleyawiinSwamp.esp
 
 Castle_Seaview.esp
 CastleSeaview+LostCoast Patch.esp

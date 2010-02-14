@@ -7168,7 +7168,6 @@ Lakewood+AspenWood Patch.esp
 xulAspenWood Vwalk.esp
 
 xulSkingradOutskirts.esp
-ULSO+WestRoads Patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -7191,6 +7190,7 @@ xul Vwalk Full.esp
 \'''''''''''''''
 
 West Roads.esp
+ULSO+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
 
@@ -10898,6 +10898,7 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Bruma City Defences.esp
 Better Cities BRUMA.esp
 
+BCSkingrad-SkingradOutskirts patch.esp
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp

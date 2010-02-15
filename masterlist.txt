@@ -5645,6 +5645,7 @@ hchouse408.esp
 HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair}}
+Hentai Mania Vwalk.esp
 Hero Hill Redone.esp
 HobbitHole.esp
 Holy Cathedral.esp
@@ -6181,6 +6182,7 @@ ShipInATree.esp
 Shivering Farm.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
+Side's Sailing Ships.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
@@ -6889,6 +6891,8 @@ FCC-IC-Talosplaza.esp
 FCC-Bruma.esp
 FCC-Cheydinhal.esp
 
+Blackmarsh.esp
+Valenwood.esp
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
@@ -6903,7 +6907,8 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
-Valenwood.esp
+Valenwood_Anequina patch.esp
+
 
 Improved Imperial Infrastructure.esp
 
@@ -7169,6 +7174,7 @@ Lakewood+AspenWood Patch.esp
 xulAspenWood Vwalk.esp
 
 xulSkingradOutskirts.esp
+xulSkingradOutskirts Vwalk.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp

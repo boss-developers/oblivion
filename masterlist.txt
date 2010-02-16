@@ -10290,7 +10290,17 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Arabian Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Ash Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Ancient Elven Sorceress - EV.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+CapsAdmin.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Moogles.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Nature.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -10301,12 +10311,6 @@ X.Night.Elf.esp
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Races.Comp.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-Ancient Elven Sorceress - EV.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-Sharingan and Uchiha Clan.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-CapsAdmin.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 \EndGroup\\
 

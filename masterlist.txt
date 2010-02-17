@@ -4722,6 +4722,7 @@ Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 >Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 FCOM_FriendlierFactions.esp
+% {{BASH:Relations}}
 FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp

@@ -44,6 +44,7 @@ Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
 Q-Core.esm
+GlobalSettingsInterface.esm  
 Inventory Tracker.esm
 You Are Here.esm
 Uncommon GUI.esm
@@ -445,6 +446,8 @@ Permanent Effects from Quest Items fix Merge.esp
 
 Arena-Ansage-Fix.esp
 OblivionMsg.esp
+Obl-IM.esp
+Obl-IM_SI.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
 \EndGroup\\
@@ -1782,6 +1785,7 @@ Time Keeper.esp
 Timekeeper_Advanced.esp
 Timescale Options.esp
 Trainer_Book.esp
+Trainer_Book_DV.esp
 Treasure Hunt.esp
 TurnoffLights.esp
 TryBeforeYouBuy.esp
@@ -2611,6 +2615,7 @@ Exnem Pekka Pumps.esp
 Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
+Elfenwacht.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
 Eyren_AyleidWarrior.esp
@@ -2643,6 +2648,7 @@ FancyFinery.esp
 
 \BeginGroup\: Items G
 
+Galadhrim_DV.esp
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
 Garaks Seelensteinbeutel + beute.esp
@@ -2660,6 +2666,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
+GizmodianNetherweaveRobe DV.esp
 Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
@@ -2975,6 +2982,7 @@ Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
 SLPD_Ponytail.esp
+PTArtifacts.esp
 PythonHolyhg.esp
 \EndGroup\\
 
@@ -3019,6 +3027,7 @@ RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
+Ryk_SimpleDress_DV.esp
 \EndGroup\\
 
 \BeginGroup\: Items S
@@ -4077,6 +4086,7 @@ Tamrielic_Ingredients_cOMbo.esp
 FCOM_TamrielicIngredients.esp
 ? Requires 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
 
+Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp'.
@@ -4101,6 +4111,7 @@ COBL-FransNewCre.esp
 ? Remember to use the SI or no-SI versions as appropriate (same file names).
 GM-PISC.esp
 ? German mod.
+Oblivion Improved - Cobl.esp
 VVAdvanced.esp
 VVAdvanced-SI.esp
 CLS-CB-Cobl Glue.esp 
@@ -5503,6 +5514,7 @@ EaglesRest.esp
 eden castle.esp
 Egainjo Manor.esp
 Elemental Witches.esp
+Elfengesang.esp
 ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 ? Do not use if using ElsweyrAnequina.esp
@@ -5876,6 +5888,7 @@ LakeHouseV1.1.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
 Lakeview2.esp
+Lakeview2 DV.esp
 Lakewood Village Ver 2.0.esp
 latexshopstore.esp
 Legion Faction Mod.esp
@@ -5960,12 +5973,17 @@ Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 ME_MERCENARIES.esp
+Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
+? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
+Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
+? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
 Mercenaries.esp
 Mimics!.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
 MountainShack.esp
+MountainShack DV.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp 
 mrSiikas_TheEmperorsTomb.esp
@@ -6223,6 +6241,7 @@ Snow Dragon Temple v1.0.esp
 snowglobe.esp
 Snow Line Lodge.esp
 Solace.esp
+SolaceDV.esp
 CM SOLACE.esp
 SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
@@ -6387,6 +6406,15 @@ Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
 Ushnars Skinned Hound.esp
 Ushnar's Re-Skinned Hound.esp
+? Only use one Ushnar's Re-Skinned Hound*.esp
+Ushnar's Re-Skinned Hound-Default.esp
+? Only use one Ushnar's Re-Skinned Hound*.esp
+Ushnar's Re-Skinned Hound-Atronach.esp
+? Only use one Ushnar's Re-Skinned Hound*.esp
+Ushnar's Re-Skinned Hound-Dog.esp
+? Only use one Ushnar's Re-Skinned Hound*.esp
+Ushnar's Re-Skinned Hound-Wolf.esp
+? Only use one Ushnar's Re-Skinned Hound*.esp
 \EndGroup\\
 
 \BeginGroup\: Quests V
@@ -6500,6 +6528,7 @@ Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
 Zira's Battle Horse.esp
 Zira's Battle Horse Shop.esp
+Zira Horse Showjumping Track.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
@@ -7519,6 +7548,7 @@ LCs Auto Harvest.esp
 1229-Priced Clutter-TESSource.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 1456-1-no_wind-TESSource.esp
+lTrainingseinheiten erhalten.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
 \EndGroup\\
@@ -9169,6 +9199,7 @@ Arcane Infusion.esp
 Essence Extracter.esp
 ArcaneArchery.esp
 Poison Equipper.esp
+Poison EquipperDV.esp
 DirenniAlchemyApparatus.esp
 dyseso_Light_Ingred.esp
 dyseso_Light_Ingred_Appar.esp
@@ -9226,6 +9257,7 @@ svaReEnch_1C.esp
 \
 \Overrides overhauls.
 
+MerchantFriendsBuysStolen.esp
 More Realistic Sneaking - Sneaking Changes.esp
 More Realistic Sneaking 1.9 - Sneaking Changes.esp
 More Realistic Sneaking - Sleepkill Dagger.esp
@@ -9358,6 +9390,8 @@ Duke Patrick's Lockpick challange Manual.esp
 \''''''
 \
 \Overrides 'overhauls'.
+
+bgCombatMessage.esp
 
 Locational Damage- Core.esp
 Locational Damage- Effects.esp
@@ -9772,8 +9806,9 @@ CTAddPose_bondage_sex-2.esp
 CTAddPose_2ch_(Hentai).esp
 CTAddPose_gobu.esp
 CTAddPose_Dsk(erori)Pose.esp
-
-
+CTAddPose_2ch.esp
+CTAddPose_2ch-2.esp
+CTAddPose_enfant.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -11503,6 +11538,8 @@ Better Lava (by elveon).esp
 Magic Projectile Variants.esp
 MotionBlur.esp
 ? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
+New Frost Damage cloud3.esp
+New Disintegration Effect.esp
 New_NightEye_Toggle.esp
 _auto_night-eye.esp
 QTdof.esp

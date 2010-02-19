@@ -1692,6 +1692,7 @@ RendricNPC(0.21).esp
 ReneerCreatureMod.esp
 ReneersNotesMod.esp
 ReneerDialogMod.esp
+ReneerVariedNPCsMod.esp
 Reset the Blood Decal Variable.esp
 
 Reznod_Mannequin.esp
@@ -2078,6 +2079,7 @@ P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
+YX33A Razor Edit.esp
 Correctif MehrunesRazor.esp
 Correctif MehrunesRazor RP.esp
 DBOO - MehrunesRazor.esp
@@ -2805,6 +2807,7 @@ lam.esp
 LD - New Arrows.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
+Leveled Weapons.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
@@ -2937,6 +2940,7 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
+OS Artifacts.esp
 \EndGroup\\
 
 \BeginGroup\: Items P
@@ -2998,6 +3002,7 @@ RGMsCheerleader.esp
 Rindirs Staves.esp
 Ring of Sunwalker V1.35.esp
 RingwraithArmorMithril.esp
+RinzeiCrystalStaff_Unenchanted.esp
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
@@ -3253,6 +3258,7 @@ Woodsman Armor.esp
 Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
+Wyverex's - Runes by DJ.esp
 \EndGroup\\
 
 \BeginGroup\: Items XYZ
@@ -4913,6 +4919,10 @@ Wearable GS and DS armor for OOO CG.esp
 Wearable GS and DS armor for OOO.esp
 SI Armours Wearable - Frans.esp
 Loot_All_Armor_SE.esp
+
+Daggerfall NPCs.esp
+%{{BASH:Delev}} - not yet tested.
+Daggerfall NPCs - MMM Patch.esp
 
 EnchantedGems_Geomancy.esp
 % {{BASH:Scripts}}
@@ -6944,10 +6954,9 @@ FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
 A Imperial Outpost - Fort Novi Sad.esp
-
 Reaper's Waterfront.esp
-
 ReclaimSancreTor.esp
+Sylix.esp
 
 Tales from Elsweyr 2_1.esp
 
@@ -9206,6 +9215,7 @@ Empower Enchantment.3x.esp
 Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
+Panzer_Kleidung_03.esp
 Staffcraft.esp
 svaReEnch_1C.esp
 \EndGroup\\
@@ -9490,6 +9500,7 @@ Duke Patricks - Stat Based Bob And Weave.esp
 Duke Patricks Bob and Weave Dodge GOLD Edition.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Bob and Weave Dodge Mark II.esp
+DocDodge.esp 
 
 Duke Patricks - NPCs Now Bob Under Your Shots.esp
 ? Old. Upgrade to latest version.
@@ -10638,7 +10649,9 @@ prettyEnh.esp
 \
 \Includes birthsign mods.
 AMB.esp
-% {{BASH:Body-F,Body-M}}
+% {{BASH:Body-M}}
+AMD.esp
+% {{BASH:Body-M}}
 \BeginGroup\: COBL Races
 \''''''''''
 
@@ -10712,6 +10725,7 @@ cidnothump.esp
 % {{BASH:Sound}}
 ? If using Mighty Magic, use 'cidnothumpMMversion.esp' instead.
 Conjuration Mastery.esp
+Enemy Actors Use Powers 0.1.esp
 HippoNoStarterSpells.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
@@ -11182,6 +11196,7 @@ MM_NoMoreAnnoyingMessages-Lite.esp
 No More Annoying Messages.esp
 'Cannot Equip' Message Remover.esp
 Annoying Comment Remover.esp
+Annoying messages begone!.esp
 No More Annoying Merchant Comments.esp
 NoMerchantBarterChatter.esp
 No More Annoying Merchant Comments - Combined.esp
@@ -11721,6 +11736,7 @@ Deadly Reflex - Timed Block no other changes.esp
 DeadlyReflex - Timed Block + Very High Damage.esp
 ? Old version - update to v5 or later.
 
+Mart's Monster Mod - Diverse Runeskulls Loot beta Place After Bashed Patch.esp
 Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
 ? Try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
@@ -11853,6 +11869,7 @@ FormID Finder without Pluggy.esp
 FormID Finder4.esp
 TES4ViewLink.esp
 
+KuerteeActorDetails.esp
 kuerteeCleanUp.esp
 CleanQuit.esp
 

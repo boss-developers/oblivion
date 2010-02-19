@@ -233,6 +233,7 @@ Book Jackets Oblivion - BP - SSBFL.esp
 ? don't use togeter with 'Save Skill Books for Later' or 'Book Placement' as this version includes it.
 % {{BASH:Graphics,Scripts}}
 ? If not using Wrye Bash load this later (though then it will override somethings)
+bookplacing.esp
 
 Oblivion Vwalk.esp
 Oblivion_SI Vwalk Full.esp
@@ -3455,8 +3456,10 @@ RealSwords - Redguard LO.esp
 
 Mage Equipment.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
+? If using Mage Equipment Lite load after SRT.
 Mage Equipment - No Manni.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
+? If using Mage Equipment Lite load after SRT.
 Francesco's Mage Equipment.esp
 ? Use either this or Mage Equipment, but not both. Requires Franseco's leveled creatures/items mod.
 
@@ -4031,6 +4034,7 @@ Francesco's Optional Vendor Tweaks.esp
 <Francesco's Optional Chance of More Enemies.esp
 Francesco's Optional Leveled Quests.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
+UOP-Frans Optional Quests patch.esp
 
 <Francesco's Optional Leveled Quests-SI only.esp
 Francesco's Optional Leveled Arena.esp
@@ -4067,6 +4071,8 @@ Fran's Ore Refiner - SI only.esp
 ? Use only if you have SI, use only one Fran's Ore Refiner esp.
 Fran's Ore Refiner.esp
 ? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
+No Seducers.esp
+ChestMenuFixes.esp
 \EndGroup\\
 
 \BeginGroup\: OOO; FCOM optional and and related components; MMM and optional plungins.
@@ -8259,6 +8265,8 @@ Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
 Side's Backpacks.esp
+%{{BASH:Invent}}
+Side's Backpacks (COBL).esp
 %{{BASH:Invent}}
 
 Sigil Stone Alternative.esp

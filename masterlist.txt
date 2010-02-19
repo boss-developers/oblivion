@@ -801,6 +801,7 @@ Advanced_Water_Modification-2734.esp
 Advanced Water Modification.esp
 Enhanced Water v2.0 HD - SI Addon.esp
 Clear_Water-3763.esp
+Underwater.esp
 Enviroment.esp
 Real Water.esp
 \EndGroup\\
@@ -1508,6 +1509,7 @@ Morrowindbooks.esp
 Morrowind Jewelry.esp
 More_Animals.esp
 ? Content already added by MMM.
+more_classes.esp
 More Drinks.esp
 ? Probably not OOO compatible. Untested.
 more broadsheets.esp
@@ -1610,6 +1612,10 @@ Parps_Invisibility_Cloak-6294.esp
 Pegasus.esp
 AltPegasus.esp
 Personal Torture Girl.esp
+P-Froggys Corpse Carry DV.esp 
+? Requires OBSE.
+P-Froggys Corpse Carry EV.esp 
+? Requires OBSE.
 P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
@@ -1802,6 +1808,7 @@ trfSolaris.esp
 Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
+Unlimited.esp
 \EndGroup\\
 
 \BeginGroup\: Base V
@@ -5376,6 +5383,7 @@ Colossus_01.esp
 CottageInColoviaV1.6.esp
 CountryHome.esp
 CalairCastle.esp
+Cannibalism.esp
 Cathedral Improver.esp
 castledarkshard.esp
 castleofnight.esp
@@ -6482,6 +6490,7 @@ WeatherWizard.esp
 WellspringGrove.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
+Whispers of Death Extended.esp
 White Tower v0.8.esp
 WinterCabin.esp
 Winter Palace.esp
@@ -8062,6 +8071,8 @@ Near100PercentArrowRecovery.esp
 NE_Realistic_Blocking.esp
 NewMerchantItems.esp
 New_Magical_Staves.esp
+newsheogorath.esp
+%{{BASH:NpcFaces}} and deactivate.
 NFs_Kvatch_Guard_Tweak-7399.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
@@ -8580,6 +8591,7 @@ RealisticFatigue-hard.esp
 RealisticRunning.esp
 _EnhancedFatigue_TLB_v0.1.esp
 901--Fixed- max carrying capacity.-TESSource.esp
+carry_10%_more-3032.esp
 Carry all you want.esp
 Carry_all_you_want-5118.esp
 haz_encumbrance_x1.5.esp
@@ -8784,6 +8796,7 @@ Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 LithiansNatureOfTheBeastModBeta.esp
 Scorn_Vampirism_Mod.esp
 Vampire Fire by Darkhart.esp
+The Vampire Experience.esp
 \EndGroup\\
 
 \BeginGroup\: Magic
@@ -8924,6 +8937,7 @@ Resurrect.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 Smite of Order.esp
+Special Abilities.esp
 SpellDeflection.esp
 Stalk'em SI.esp
 stickyfingers.esp
@@ -10465,6 +10479,8 @@ Toaster Says Share 2.11.esp
 Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
 
+CompanionMaster.esp
+
 CM Partners.esp
 CM Partners Vwalk.esp
 CM Partners Special NPCs.esp
@@ -10999,6 +11015,7 @@ Better Cities - Bruma City Defences.esp
 Better Cities BRUMA.esp
 
 BCSkingrad-SkingradOutskirts patch.esp
+Better Cities - Unique Landscape Skingrad Outskirts.esp
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
@@ -11777,6 +11794,11 @@ All Natural - Indoor Weather Filter For Mods.esp
 ? Do not activate. Must be merged into Bashed Patch using Import Cells.
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
+
+Wrye Morph, X6.esp
+Wrye Morph Keys.esp
+Wrye Morph Wearable.esp
+Wrye Morph-See You Sleep.esp
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch

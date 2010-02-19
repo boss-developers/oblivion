@@ -144,6 +144,8 @@ CLS-craftybits.esm
 A_Bloody_Mess.esm
 Horadric Cube.esm
 StaticRepairItems.esm
+TLS Modded Mannequins.esm
+? Do not use with Reznod's Mannequins.
 UHK.esm
 DA Run Fatigue.esm
 ANB_Scrolls.esm
@@ -447,6 +449,7 @@ Permanent Effects from Quest Items fix Merge.esp
 Arena-Ansage-Fix.esp
 OblivionMsg.esp
 Obl-IM.esp
+%{{BASH:Names,Stats,Relev,Delev,Invent,Sound,Factions,Graphics}}
 Obl-IM_SI.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
@@ -3172,6 +3175,8 @@ The Sword of Truth.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
 tkSwords.esp
+TLS Modded Mannequins.esp
+? Do not use with Reznod's Mannequins.
 tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
@@ -5703,6 +5708,7 @@ OC_HOD_delayer.esp
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
+SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
 
 Shezrie's Villages.esp
 ImpeREAL City Unique Districts - Talos Plaza.esp

@@ -6253,7 +6253,6 @@ Spirit's Edge.esp
 ? Incompatible with 'Ayleid Wells'
 SRJmarasProtection.esp
 Star Ship Orion.esp
-StokerWolff.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
@@ -6430,6 +6429,7 @@ CV - Castle Dracula.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
+Verbesserte Magiergilde.esp
 Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
@@ -7014,6 +7014,7 @@ MTCThievesGrottoV4.1.esp
 NibenRiverFix.esp
 
 xuldarkforest.esp
+Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 
 Silverfish.esp
@@ -7022,6 +7023,7 @@ xulBrenaRiverRavine02.esp
 ? Obsolete beta. Need to upgrade to released version.
 
 xulStendarrValley.esp
+Unique Landscapes - Stendarr Valley DV.esp
 FiveLanterns-StendarrValley patch.esp
 TheNecromancer-StendarrValley patch.esp
 ? Obsolete as of version 1.2 of Stendarr Valley.
@@ -7031,12 +7033,14 @@ WindspearTower-StendarrValley compatibility patch.esp
 ? Update to patch version 1.1 if using Stendarr Valley 1.2
 
 xulTheHeath.esp
+Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
 FranMWL-TheHeath patch.esp
 MMMMWL-TheHeath patch.esp
 xulHeathCreatureAddon.esp
 
 XulEntiusGorge.esp
+Unique Landscapes - Entius Gorge DV.esp
 KvatchAftermath-EntiusGorge compatibility patch.esp
 DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
 TheNecromancer-EntiusGorge patch.esp
@@ -7045,6 +7049,7 @@ SpiritsEdge-EntiusGorge patch.esp
 ULFallenLeafEverglade.esp
 ? Obsolete. Update to latest version, then delete.
 xulFallenLeafEverglade.esp
+Unique Landscapes - Fallenleaf Everglade DV.esp
 LostSpires-Everglade patch.esp
 LostSpires_TheOrderofNibenay_patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
@@ -7052,6 +7057,7 @@ Anequina-Fallenleaf-Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
+Unique Landscapes - ColovianHighlands DV.esp
 Billsburg-ColovianHighlands patch.esp
 Billsburg-UniqueLandscapes patch.esp
 EtInArkay-ColovianHighlands patch.esp
@@ -7059,6 +7065,7 @@ EtInArkay-ColovianHighlands patch.esp
 ThievesGrotto-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
+Unique Landscapes - ChorrolHinterland DV.esp
 xulChorrolHinterland Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulChorrolHinterland Swalk.esp
@@ -7077,6 +7084,7 @@ mythsandlegends.esp
 
 xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6.3 or later.
+Unique Landscapes - Beaches of Cyrodiil DV.esp
 Cybiades-Lost Coast patch.esp
 ? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
 UL_BOC_LostCoast_1.0.esp
@@ -7106,6 +7114,7 @@ KragenirsDeathQuest-LostCoast patch.esp
 NNWARE1_Dungeon05ULPatch.esp
 
 xulbravilbarrowfields.esp
+Unique Landscapes - Bravil Barrowfields DV.esp
 xulbravilbarrowfields Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulbravilbarrowfields Swalk.esp
@@ -7120,6 +7129,7 @@ ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
+Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 HoarfrostCastle-LushWoodlands patch.esp
@@ -7127,18 +7137,21 @@ EtInArkay-LushWoodlands patch.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 
 xulAncientYews.esp
+Unique Landscapes - AncientYews DV.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp 
 
 xulAncientRedwoods.esp
+Unique Landscapes - Ancient Redwoods DV.esp
 WaldnirsWoods-AncientRedwoods patch.esp
 xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 ? Obsolete if using Ancient Redwoods 1.6 or higher.
 
 xulCloudtopMountains.esp
+Unique Landscapes - Cloudtop Mountains DV.esp
 MadMagesTower-CloudtopMountains patch.esp
 MadMagesTowerBASIC-CloudtopMountains patch.esp
 BergDesKrieger-CloudtopMountain patch.esp
@@ -7147,8 +7160,8 @@ Ravenview-Cloudtop-Patch.esp
 Mimics-CloudtopMountains patch.esp
 
 xulArriusCreek.esp
+Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
-
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. Requires the Unique Landscapes Ancient Yews/Arrius Creek patch.
 HeartoftheDead-ArriusCreek patch.esp
@@ -7157,7 +7170,9 @@ HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
+Unique Landscapes - Rolling Hills DV - ohne Weizen.esp (only use one esp)
 xulRollingHills_EV.esp
+Unique Landscapes - Rolling Hills DV.esp 
 xulRollingHills_EV Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulRollingHills_EV Swalk.esp
@@ -7174,10 +7189,12 @@ KragenirsDeathQuest-RollingHills patch.esp
 xulPantherRiver.esp
 
 xulRiverEthe.esp
+Unique Landscapes - River Ethe DV.esp
 ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.
 
 xulBrenaRiverRavine.esp
+Unique Landscapes - Brena River Ravine DV.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 xulBrenaRiverRavine Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -7188,6 +7205,7 @@ Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
 xulImperialIsle.esp
+Unique Landscapes - Imperial Isle DV.esp
 xulImperialIsle Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Swalk.esp
@@ -7195,8 +7213,10 @@ xulImperialIsle Swalk.esp
 xulImperialIsle Vwalk.esp
 
 xulBlackwoodForest.esp
+Unique Landscapes - Blackwood Forest DV.esp
 
 xulCheydinhalFalls.esp
+Unique Landscapes - Cheydinhal Falls DV.esp
 Blood&Mud-CheydinhalFalls patch.esp
 GiftOfKynareth-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
@@ -7207,10 +7227,12 @@ Villages-CheydinhalFalls patch.esp
 Villges-CheydinhalFalls patch.esp 
 
 xulAspenWood.esp
+Unique Landscapes - Aspen Wood DV.esp
 Lakewood+AspenWood Patch.esp
 xulAspenWood Vwalk.esp
 
 xulSkingradOutskirts.esp
+Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
 
 NRB4+LtPD Patch.esp
@@ -10800,19 +10822,29 @@ bgBalancingVanillaGMSTSpellCostProgression.esp
 
 bgBalancingEVOptionalBetterRedguards.esp
 ? Requires Better Redguards installed with its ESP deactivated.
+bgBalancingDVOptionalBetterRedguards.esp
+? Requires Better Redguards installed with its ESP deactivated.
 
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
+? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 
 bgBalancingEVOptionalFCOMAdditions.esp
 
@@ -11691,6 +11723,9 @@ Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Real Hunger, Cobl.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
+
+StokerWolff.esp
+StokerWolff 1.3.esp
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

@@ -4504,8 +4504,6 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Less Bone Loot.esp
 <Mart's Monster Mod - Less Rats.esp
 <Mart's Monster Mod - Less Reavers.esp
-<? Use 'Mart's Monster Mod for OOO - LessReavers.esp' if using OOO.
-<Mart's Monster Mod for OOO - LessReavers.esp
 <Mart's Monster Mod - LessReaversInGates.esp
 <? Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' if using OOO.
 <Mart's Monster Mod for OOO - LessReaversInGates.esp
@@ -5459,6 +5457,7 @@ Colourwheels_sexy_school_uniforms.esp
 
 \BeginGroup\: Quests D
 
+Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
@@ -5725,6 +5724,8 @@ IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
+SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
+SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
 Shezrie's Villages.esp
 ImpeREAL City Unique Districts - Talos Plaza.esp
@@ -5758,6 +5759,42 @@ ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Green Emperor Way - Tombless Version.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Let The People Drink Compatible Version - All the Districts - Merged.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arboretum.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arena.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Talos Plaza.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Arboretum.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Arena.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Elven Gardens.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Green Emperor Way.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arboretum.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arena.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Talos Plaza.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Market.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Prison.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Talos Plaza.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Temple.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - The Arcane University.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - Lightless - Waterfront.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
@@ -7282,6 +7319,7 @@ xul Vwalk Full.esp
 \'''''''''''''''
 
 West Roads.esp
+WR Villages Addon.esp
 ULSO+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
@@ -8810,6 +8848,7 @@ LithiansNatureOfTheBeastModBeta.esp
 Scorn_Vampirism_Mod.esp
 Vampire Fire by Darkhart.esp
 The Vampire Experience.esp
+No Vampirism.esp
 \EndGroup\\
 
 \BeginGroup\: Magic

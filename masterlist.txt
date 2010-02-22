@@ -1084,7 +1084,7 @@ SI Clothes.esp
 \BeginGroup\: Base B
 
 Book Jackets Oblivion.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}} and deactivate.
 OBG - Bchermod - Bilder - BP.esp
@@ -2192,6 +2192,7 @@ avarm.esp
 
 1.4TheAtlanteanSword.esp
 1.4TheAtlanteanSword_leather.esp
+1.4TheAtlanteanSword2h_leather.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1Elven.esp
@@ -2232,6 +2233,7 @@ Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 AkatoshHead.esp
+alllll61-Saint Silver armor.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
 Alternative_Light_Armors-3931.esp
@@ -2453,6 +2455,7 @@ Caine's Outfit.esp
 CapesandCloaks.esp
 CarsomyrSword.esp
 Catsuit.esp
+Chin CatSuit.esp
 CET_DwemerPrecisionBow_v2.esp
 
 ClassyClothingCompendium.esp
@@ -2676,6 +2679,7 @@ GC Gowns.esp
 GCBloodgown.esp
 GemSword.esp
 Ghogiels Armor.esp
+GhostArmor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
@@ -3260,6 +3264,7 @@ VA_FemmeDaedricHelmet.esp
 VA_HonamiDaito.esp
 VA_UniqueKatana1.esp
 VA_UniqueKatana1Replace.esp
+Vampiria.esp
 VCTestRing.esp
 vermillionandsilverthorn.esp
 Villain's Arsenal.esp
@@ -5535,6 +5540,7 @@ DarkDale.esp
 EaglesRest.esp
 eden castle.esp
 Egainjo Manor.esp
+EirikWythringSpellmaker.esp
 Elemental Witches.esp
 Elfengesang.esp
 ElsweyrRiverhold.esp
@@ -10870,6 +10876,7 @@ Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
 % {{Bash:IIM,Filter,Invent}} and deactivate
+qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp
 TML_SummonsUnlocked.esp 

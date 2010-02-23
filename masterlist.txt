@@ -1156,6 +1156,7 @@ Flying Camera.esp
 FOV Modifier.esp
 Growlfs Fixed Camera.esp
 ImmersiveFirstPersonView.esp
+Ultimate 3rd Person Camera.esp
 VanityCameraSmoother.esp
 VanityCamera Smoother.esp
 Vanitycamlesswait.esp
@@ -3065,6 +3066,7 @@ SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
 SentientWeaponExchange.esp
+SexyTops.esp
 shamblingbooks.esp
 ShinobiSet.esp
 ShinobiSet_NoEnchant.esp
@@ -5439,6 +5441,8 @@ cherydinhal_murder_quest-3185.esp
 Cheydinhal House.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
+Clintmichs Beautiful Imperial City Arboretum.esp
+? Probably incompatible with BC IC Arboretum and similar.
 ChorrolFirstHouse.esp
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
@@ -6343,6 +6347,8 @@ swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
+Sylar_INNMergedCyrodillInnsRevised.esp
+Sylar_INNMergedCyrodillInnsRevised vwalk.esp
 Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 Sheogorath`s Artifacts.esp
@@ -9571,6 +9577,7 @@ mighty_bows_full.esp
 mighty_bows_damage_bonus.esp
 % {{BASH:Stats}}
 mighty_bows_sneak_dmg_bonus.esp
+mighty_bows_improved_firerate.esp
 
 Better Hand to Hand.esp
 JM's Bar Fights mortal.esp
@@ -10573,21 +10580,28 @@ CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners 20 Pack.esp
 CM Partner Jordie1.esp
+CM Partner - Ace the Rottweiler.esp
+CM Partner - Aries the Dalmation.esp
+CM Partner - Blackjack the Mongrel.esp
+CM Partner - Roscoe the Labrador.esp
 CM AnyaYelena2.esp
 CM_Blackie_the_Fence.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
 
+A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
 Xenia_CMPartner.esp 
 Xenia_CMPartner Vwalk.esp
+cmChocolates.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp
 CM Garrus.esp
 CM Tifa A.esp
 CM_Kailinda.esp
+CM Jessica.esp
 cm_Jo-han.esp
 CM Yana.esp
 CM_Dragonchixx.esp
@@ -10601,6 +10615,7 @@ AmidalaSaramHair.esp
 AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
+kgt_Aida.esp
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp
 SonjaCM.esp
@@ -10608,9 +10623,11 @@ SonjaCMRen.esp
 SonjaCMcorean24.esp
 SonjaCMtkBarbyBand.esp
 Kristen2CM.esp
+RavenCM2.esp
 RoseCM.esp
 Terimer.esp
 % {{BASH:Hair,Eyes}}
+Three CM Partners.esp
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
@@ -11087,6 +11104,8 @@ Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
+
+Better Cities - VWD of the IC.esp
 
 \BeginGroup\: Obsolete BC files
 

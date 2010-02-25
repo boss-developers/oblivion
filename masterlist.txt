@@ -3989,6 +3989,7 @@ Ranokoas Organized Potions.esp
 \-----
 
 DLCThievesDen.esp
+% {{BASH:C.Name,C.Light}}
 DLCThievesDen - Unofficial Patch.esp
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
@@ -7050,7 +7051,7 @@ Vergayun.esp
 Vergayun Vwalk.esp
 
 Faregyl.esp
-% {{BASH:Relations}}
+% {{BASH:Factions,Relations}}
 Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp

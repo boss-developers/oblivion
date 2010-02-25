@@ -6705,12 +6705,13 @@ Lynges Thieves Highway - OOO.esp
 \-----
 
 DLCFrostcrag.esp
-% {{BASH:C.Owner}}
+% {{BASH:C.Name,C.Owner}}
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 Kvatch Rebuilt_Frostcrag Reborn.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
+% {{BASH:C.Name,C.Owner}} and remove the C.Climate tag
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp
 SM Plugin Refurbish - FrostCrag.esp

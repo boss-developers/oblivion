@@ -58,6 +58,7 @@ EnhancedWeatherSIOnly.esm
 ? Outdated. Upgrade to the latest version of Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
+% {{BASH:Invent, Delev, Relev, Actors.AIData,Actors.Stats, Stats}}
 Francesco's Optional New Items Add-On.esm
 Francesco's Optional New Creatures Add-On.esm
 >* Delete. Not FCOM compatible. Already integrated into FCOM.
@@ -92,9 +93,10 @@ Oscuro's_Oblivion_Overhaul.esm
 % {{BASH:Invent,Scripts,Stats,Relations}}
 DarkDale.esm
 Mart's Monster Mod.esm
-% {{BASH:Invent,Relations}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
+% {{BASH:Delev,Factions,Relations,Relev}}
 Waalx Animals & Creatures.esm
 ? Not compatible with other overhaul mods.
 Diverse Wisps - Base.esm
@@ -109,6 +111,7 @@ AGC-TARDISmstr.esm
 TamrielTravellers.esm
 TamrielTravellers SI.esm
 FCOM_Convergence.esm
+% {{BASH:Delev,Factions,Relations,Relev}}
 Armamentarium.esm
 ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
@@ -419,7 +422,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 
 Unofficial Oblivion Patch.esp
 ? Recommend installing UOP hotfix for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
-% {{BASH:C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Scripts,Stats,Relations}} and remove the C.Water tag (only exist in older version).
+%{{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Scripts,Stats,Relations}} and remove the C.Water tag (only exist in older version).
 ? Remember to use the 'MOBS' version when using Francesco's or FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
 Unofficial Oblivion Patch DV.esp
@@ -467,7 +470,7 @@ Traduccion Mejorada S.I.esp
 Unofficial Shivering Isles Patch.esp
 ? Remember to use the 'MOBS' version when using Francesco's and FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
-% {{BASH:C.Light,C.Owner,Invent,Names,Relations,Stats,Delev}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,C.Light,C.Owner,Invent,Names,Relations,Stats,Delev}}
 CorrectifSI.esp
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
@@ -4198,7 +4201,7 @@ G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH:Delev,Invent,Names,Relations,Relev,Stats,Scripts}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -4301,7 +4304,7 @@ MALO - Loot Tweaks FRAN.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
-% {{BASH:Relev,Delev,Invent}}
+% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp
@@ -4445,7 +4448,7 @@ MALO - Loot Tweaks FRAN.esp
 >Gems and Gem Dusts - MMM.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
->% {{BASH:Scripts}}
+>% {{BASH:Invent,Scripts,Stats}}
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -4463,22 +4466,25 @@ MALO - Loot Tweaks FRAN.esp
 \BeginGroup\: MMM for non-FCOM installs
 <\'''''''''''''''''''''''''
 
-<Mart's Monster Mod.esp
+Mart's Monster Mod.esp
 >* Delete. Not needed with FCOM.
-<Mart's Monster Mod for Fran.esp
+{%{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
-<% {{BASH:Invent}}
+%{{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 <Mart's Monster Mod for Francescos.esp
-<% {{BASH:Invent}}
+<* Older Version Consider Upgrading
+<% {{BASH:Invent,Relations,Delev,Factions,Graphics,Relev,Scripts}}
 >* Delete. Not needed with FCOM.
 <Mart's Monster Mod TNR Faces.esp
 <Mart's Monster Mod COBL Races TNR.esp
 <Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
-<% {{BASH:Invent,Factions,Relations}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 <Mart's Monster Mod for OOO TNR Faces.esp
 <Mart's Monster Mod for OOO COBL Races TNR.esp
 <Mart's Monster Mod - Shivering Isles.esp
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 
 <Choices and Consequences - MMM.esp
 <? Obsolete. Upgrade to latest version and remove.
@@ -4856,7 +4862,7 @@ Choices and Consequences - FCOM.esp
 \''''''''''''''''''''''''''
 
 >Mart's Monster Mod - Shivering Isles.esp
->% {{BASH:Relev,Delev}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 
 ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
@@ -6836,13 +6842,13 @@ Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Delev}}
+% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
 Mart's Monster Mod - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Delev}}
+% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
 Mart's Monster Mod for OOO - Knights .esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Delev}}
+% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 

@@ -439,7 +439,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 
 Unofficial Oblivion Patch.esp
 ? Recommend installing UOP hotfix for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
-%{{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Scripts,Stats,Relations}} and remove the C.Water tag (only exist in older version).
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,C.Climate,C.Light,C.Owner,Delev,Invent,Names,Relev,Scripts,Stats,Relations}} and remove the C.Water tag (only exist in older version).
 ? Remember to use the 'MOBS' version when using Francesco's or FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
 Unofficial Oblivion Patch DV.esp
@@ -472,7 +472,7 @@ Permanent Effects from Quest Items fix Merge.esp
 Arena-Ansage-Fix.esp
 OblivionMsg.esp
 Obl-IM.esp
-%{{BASH:Names,Stats,Relev,Delev,Invent,Sound,Factions,Graphics}}
+% {{BASH:Names,Stats,Relev,Delev,Invent,Sound,Factions,Graphics}}
 Obl-IM_SI.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
@@ -1609,7 +1609,7 @@ NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
 New Potions.esp
-%{{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics,NoMerge}}
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
@@ -1717,7 +1717,7 @@ RD-TimeKeeper-v1-3-5minUpdate.esp
 RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
 RealitySpectre'sBetterPotions.esp
-%{{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
+% {{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 
 RealWalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -1745,7 +1745,7 @@ Nude Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 
 REBetterLCB.esp
-%{{Bash:Graphics}} and deactivate.
+% {{Bash:Graphics}} and deactivate.
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -1837,7 +1837,7 @@ Tamriel VWD v0.5.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 Teleport Arrows.esp
-%{{BASH:Invent}}
+% {{BASH:Invent}}
 The White Stallions.esp
 the secret black market.esp
 Time Keeper.esp
@@ -4518,7 +4518,7 @@ Mart's Monster Mod.esp
 {%{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
-%{{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 <Mart's Monster Mod for Francescos.esp
 <* Older Version Consider Upgrading
 <% {{BASH:Invent,Relations,Delev,Factions,Graphics,Relev,Scripts}}
@@ -5028,7 +5028,7 @@ SI Armours Wearable - Frans.esp
 Loot_All_Armor_SE.esp
 
 Daggerfall NPCs.esp
-%{{BASH:Delev}} - not yet tested.
+% {{BASH:Delev}} - not yet tested.
 Daggerfall NPCs - MMM Patch.esp
 
 EnchantedGems_Geomancy.esp
@@ -8278,7 +8278,7 @@ NE_Realistic_Blocking.esp
 NewMerchantItems.esp
 New_Magical_Staves.esp
 newsheogorath.esp
-%{{BASH:NpcFaces}} and deactivate.
+% {{BASH:NpcFaces}} and deactivate.
 NFs_Kvatch_Guard_Tweak-7399.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
@@ -8465,9 +8465,9 @@ Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
 
 Side's Backpacks.esp
-%{{BASH:Invent}}
+% {{BASH:Invent}}
 Side's Backpacks (COBL).esp
-%{{BASH:Invent}}
+% {{BASH:Invent}}
 
 Sigil Stone Alternative.esp
 Sigil Stones Unlevelled.esp
@@ -11087,23 +11087,23 @@ bgBalancingDVOptionalBetterRedguards.esp
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 ? Requires 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-%{{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 
 bgBalancingEVOptionalFCOMAdditions.esp
 

@@ -706,6 +706,12 @@ Natural_Weather_HDR_2.1.2_coloroverride.esp
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 Ls More Butterflies and Fireflies.esp
+Ls More Butterflies and Fireflies 4.0.esp
+Ls More Butterflies and Fireflies 4.0 Halved.esp
+Ls More Butterflies and Fireflies 4.0 Quarter.esp
+Ls More Butterflies and Fireflies Not In Interiors 4.0.esp
+Ls More Butterflies and Fireflies Not In Interiors 4.0 Halved.esp
+Ls More Butterflies and Fireflies Not In Interiors 4.0 Quarter.esp
 
 Enhanced Night Sky.esp
 
@@ -5449,8 +5455,6 @@ cherydinhal_murder_quest-3185.esp
 Cheydinhal House.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
-Clintmichs Beautiful Imperial City Arboretum.esp
-? Probably incompatible with BC IC Arboretum and similar.
 ChorrolFirstHouse.esp
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
@@ -5460,6 +5464,19 @@ ConLoBattleGenMod.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
+
+Clintmichs Beautiful Imperial City Arboretum.esp
+? Probably incompatible with BC IC Arboretum and similar.
+Clintmichs Beautiful Arcane University.esp
+? Probably incompatible with BC
+Clintmichs Beautiful Market District v1.3.esp
+? Probably incompatible with BC
+Clintmichs Beautiful Elven Gardens District v1.1.esp
+? Probably incompatible with BC
+Clintmichs Improved Prison District v1.1.esp
+? Probably incompatible with BC
+Clintmichs Beautiful Talos Plaza District.esp
+? Probably incompatible with BC
 
 COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
@@ -5472,6 +5489,11 @@ Chinese Weapons.esp
 CompleteMagePack.esp
 CryptofDecay.esp
 Colourwheels_sexy_school_uniforms.esp
+Companion Gate.esp
+? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
+Companion Gate_Load.esp
+? Use this, if you haven a exsisting save game
+? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 \EndGroup\\
 
 \BeginGroup\: Quests D
@@ -5872,6 +5894,7 @@ Improved dungeons.esp
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 Insanity's Pet Shop.esp
+Ivy Cottage.esp
 \EndGroup\\
 
 \BeginGroup\: Quests J
@@ -7549,9 +7572,9 @@ III-LeyawiinRebornPatch.esp
 
 \BeginGroup\: Quests and Locations 5
 \----------------------
+Better Abandoned House.esp
 Better Abandoned House OC Full.esp
 Better Abandoned House OC Cheydinhal.esp
-Better Abandoned House.esp
 ? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
 Better Abandoned House - Interior Only.esp
 

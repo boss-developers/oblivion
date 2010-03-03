@@ -2626,6 +2626,7 @@ Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DHAyleidShield.esp
+DHuntress.esp
 Diano.esp
 Diano2_UltraLite.esp 
 Diano for DM Unenchanted.esp
@@ -5177,15 +5178,6 @@ Anvil Merchant Galley Houseboat v1.0.esp
 300_Weapons.esp
 300_KillTheDB.esp
 
-300_White Stallion+SB23.esp
-? Check for newer version.
-? Compatible with MD_SaddleBags Lite.
-300_White Stallion 4.esp
-? Use Feudal Empire ('Feudal Empire 300.esp') instead.
-300_White Stallion 4 - OOO.esp
-300 White Stallion 4 - OOO.esp
-DLCHorseArmor_300WhiteStallion.esp
-
 301_Compass.esp
 3_Numbers_v.1.0.esp
 
@@ -5200,6 +5192,7 @@ DLCHorseArmor_300WhiteStallion.esp
 
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
+A Cut Above Hairdressers.esp
 A Sneaky Buy 2.1.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
@@ -5570,6 +5563,7 @@ Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
 ? Upgrade to latest version.
 Dark Brotherhood Outpost v3.esp
+Dark Brotherhood Sanctuaries.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
 DarkLair.esp
@@ -6018,6 +6012,20 @@ Kriegerburg.esp
 
 Kragenir's Death Quest.esp
 KDQ - Rural Line Additions.esp
+
+300_White Stallion+SB23.esp
+? Check for newer version.
+? Compatible with MD_SaddleBags Lite.
+300_White Stallion 4.esp
+? Consider updating to Feudal Empire ('Feudal Empire 300.esp') instead.
+Feudal Empire 300.esp
+% {{BASH:Invent,Graphics}}
+? Use instead of 300_White Stallion 4.esp
+300 Feudal Empire.esp
+% {{BASH:Invent,Graphics}}
+300_White Stallion 4 - OOO.esp
+300 White Stallion 4 - OOO.esp
+DLCHorseArmor_300WhiteStallion.esp
 Kragenirs_WhiteStallion_Compat.esp
 
 Burning Kvatch.esp
@@ -6541,6 +6549,7 @@ Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
+Travelers Inns.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
@@ -8169,6 +8178,7 @@ KT_KhajEyeToggleNoEff.esp
 KT_VampSightToggle.esp
 Kyoma's Journal Mod.esp
 kuerteeInventoryIsABackpack.esp
+kuerteeSilentEquipUnequipClothing.esp
 \EndGroup\\
 
 \BeginGroup\: overrides L
@@ -8671,12 +8681,6 @@ Shadow Ranger.esp
 
 Roleplaying Dialogues.esp
 
-Feudal Empire 300.esp
-% {{BASH:Invent,Graphics}}
-? Use instead of 300_White Stallion 4.esp
-300 Feudal Empire.esp
-% {{BASH:Invent,Graphics}}
-
 DurableEquipment_10.esp
 
 Wolvmans_Hidden_Unique_Merchant_Items.esp
@@ -8796,6 +8800,7 @@ BathingMod_ABMCP_Bathtubs_and_Bathrooms.esp
 BathingMod_InnsHaveTubs.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
+OWE&P.esp
 RealisticFatigue.esp
 RealisticFatigue-hard.esp
 RealisticRunning.esp
@@ -9133,6 +9138,8 @@ PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
 PetrifyandStoneSkinSpells.esp
+PoisonSpells.esp
+PoisonSpellsDHealth.esp
 PortableOblivionPortal.esp
 Portal - SI.esp
 ? Requires Shivering Isles
@@ -10746,6 +10753,7 @@ CMPartner_Xenia.esp
 Xenia_CMPartner.esp 
 Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
+cmAbbeyAeryn.esp
 cmChocolates.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}

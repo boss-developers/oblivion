@@ -1486,6 +1486,9 @@ Item interchange - Extraction.esp
 \BeginGroup\: Base J
 
 Japanese Clothing.esp
+JPWikiMod.esp
+% {{BASH:Names}}
+? If little of the translated test shows move lower but may then overwrite other mods.
 JQPotionBottlesTest.esp
 ? Does not add anything to the game except some examples in the testing hall - deactivate and keep resources is most often the best thing to do.
 JQ-EasterEggHunt09.esp
@@ -2845,6 +2848,8 @@ JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
+JPBooks_Vanilla+SI.esp
+morrowindJPbooks.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 JQ-TrekLirpa.esp

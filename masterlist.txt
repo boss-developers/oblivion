@@ -130,6 +130,7 @@ BetterMusicSystem.esm
 bookplacing.esm
 BathingMod_Base.esm
 BP EDIT.esm
+CURP_Controller.esm
 No Lights Flicker.esm
 Ambidextrie.esm
 AFC v2 Core.esm
@@ -6315,9 +6316,11 @@ Quest Nirnroot.esp
 
 \BeginGroup\: Quests R
 
+Reaper's Animated Lute.esp
 Reaper's Coldstone Town.esp
 ? Incompatible with Heart of the Dead.
 Reaper_Drakelowe's Witch.esp 
+Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
@@ -6393,11 +6396,16 @@ Shady Sam Enhanced.esp
 Shady Sam Plus.esp
 ShadySamFence.esp
 Sheogoraths_Accords_of_Madness.esp
+Sheos Quarters.esp
+Sheo's Quarters (Mania & Dementia Gardens).esp
 ShezriesVillagesCOBL.esp
 ShipInATree.esp
 Shivering Farm.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
+Side's Cheydinhal House.esp[/url]
+Side's Cheydinhal House (BathMod).esp
+Side's Cheydinhal House (COBL).esp
 Side's Sailing Ships.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
@@ -7145,6 +7153,7 @@ FCC-Cheydinhal.esp
 
 Blackmarsh.esp
 Valenwood.esp
+Summerset.esp
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
@@ -7162,6 +7171,7 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 Valenwood_Anequina patch.esp
+Valenwood_Anequina_Patch.esp
 
 
 Improved Imperial Infrastructure.esp
@@ -12045,6 +12055,10 @@ NRB4 OCLR Road Record.esp
 
 CUMoreDurableArmor.esp
 Bashed Delayers - MERGE ONLY.esp
+% {BASH:Filter}}
+? Must be merged into the bashed patch in Wrye Bash
+Bashed Delayers E - MERGE ONLY.esp
+% {BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 CoreRandmonClothing4Npcs.esp
 % {{BASH:Filter,Invent,IIM}}

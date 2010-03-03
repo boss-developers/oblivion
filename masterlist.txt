@@ -1586,6 +1586,7 @@ Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 ? Requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 ? Old version, upgrade to version 2+.
+BetterMusicSystem(SI).esp
 CBMS_V2.esp
 ? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin) 
 
@@ -4704,6 +4705,7 @@ FaunaOfTamriel.esp
 Creature Diversity.esp
 Creatures Alive v1.3.esp
 ReteroX_BEvilSkeletons.esp
+ReteroX_BBEvilSkeletons.esp
 Zombie Diversity.esp
 ? Consider using Creature Diversity.esp or MMM or Frans instead.
 
@@ -5611,6 +5613,8 @@ DSPirateIsleBeta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
 
+Duke Patricks - Basic Combat Training.esp
+Duke Patricks - Bottle Shoot Archery Practice.esp
 Duke Patricks Dragon and the Sword of Might.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 Duke Patricks Dragon and the Sword of Might Light Version.esp
@@ -9968,6 +9972,8 @@ Oblivion XP - OOO.esp
 Oblivion XP - Midas Magic.esp
 Oblivion XP - The Ayleid Steps.esp
 Oblivion XP - The Lost Spires.esp
+Oblivion XP - Journal Mod Patch.esp
+? Edits "ObXPMiscScript" from version  4.1.5. Important: use this patch with that version only!
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp

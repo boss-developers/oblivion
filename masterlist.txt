@@ -4236,9 +4236,11 @@ FCOM_LothsBluntWeapons.esp
 ? Requires 'Loths Blunt Weapons for NPCs.esp'.
 
 Oblivion WarCry.esp
+% {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 * Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
 Oblivion WarCry EV.esp
+% {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 >? Requires either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.

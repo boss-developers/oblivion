@@ -424,6 +424,7 @@ sulinus fix.esp
 sva_testFixBruma.esp
 Specular_Fix_1.1.esp
 % {{BASH:Graphics}}
+NoNextRankDUMMY_v1.0-RSS.esp
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
@@ -519,6 +520,7 @@ MOBS.esp
 % {{BASH:Stats}}
 MOBS SI.esp
 % {{BASH:Stats}}
+MOBS Optional Combat Settings.esp
 MOBS SI Optional Combat Settings.esp
 
 PMVisibleMapMarkers-ShiveringIsles.esp
@@ -1209,6 +1211,11 @@ VanityCameraSmoother.esp
 VanityCamera Smoother.esp
 Vanitycamlesswait.esp
 kuerteeAutoFirstThirdPersonView.esp
+EnableFreeLook.esp
+EnableFreeLookNoWheel.esp
+? Only use if you do not have a mouse wheel
+EnableFreeLookOBSE.esp
+? Requires OBSE
 
 CATSDeerPeltsAndAntlers.esp
 ? May not be compatible with OOO or MMM Hunting and Crafting.
@@ -1676,6 +1683,7 @@ Pirates Treasure.esp
 PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
+PMVisibleMapMarkersSI.esp
 Poisonous_Food-9719.esp
 Posters.esp
 Pitchable_Tent_anywhere.esp
@@ -6223,8 +6231,11 @@ Nabu_Towers.esp
 Naughty_Joana_01.esp
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
+NecromancerHunting.esp
 Necromancer Shop.esp
 Nerussa The Wine Collector v1.0.esp
+New Imperial City.esp
+? Probably incompatible with Better Cities IC components.
 NewSheothManor.esp
 NNICTunnel.esp
 
@@ -6273,7 +6284,7 @@ OrangeroadCottage.esp
 Orange Road Cabin.esp
 OrderCloudKnights.esp
 Order of the Virtuous Blood Expanded v0.1.esp
-? Old, upgrade to Order of the Virtuous Blood Expanded v0.3.esp.
+? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
 OSE - Outlook.esp
 \EndGroup\\
@@ -6288,6 +6299,8 @@ Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
+? Old, update to version 2.
+Pine Lodge ver2.esp 
 PinePeakLodge.esp
 Pinevale.esp
 Pinewood.esp
@@ -6329,6 +6342,7 @@ Reaper's Coldstone Town.esp
 Reaper_Drakelowe's Witch.esp 
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
+Reaper_Tree_Home.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
@@ -7315,6 +7329,7 @@ VeronaHouseBloodlines-ChorrolHinterland fix.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
 ? Obsolete. Delete.
+WeynonRetreat-ChorrolHinterland-Patch.esp
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -7905,6 +7920,7 @@ BloodSpray.esp
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Enchanted Portable Tent.esp
+Enchanted Portable Tent - See You Sleep Patch.esp
 Bonds Big Portable Tent.esp
 Tent.esp
 Bottled_Explosions.esp
@@ -9096,6 +9112,7 @@ IllusionaryScript.esp
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp
 JADPolymorphSpellv3.esp
+Lockpicking Spells.esp
 Polymorph DV.esp
 Master_of_Puppets-7132.esp
 JIM_Summon_Doppleganger.esp
@@ -10428,6 +10445,8 @@ Ayleid.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Half-Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Half Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 YX33A_batch_of_stuff.esp
 Nec Mystic High Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
@@ -10908,6 +10927,7 @@ Saerileth.esp
 sexycompanion.esp
 sexycompanion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
+Shard.esp
 Shivering Creature Companion.esp
 Sher Ja Lion Companion.esp
 SnowAndHarukoCMPartners.esp
@@ -10923,6 +10943,7 @@ Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp
+Vance.esp
 
 DAAanila.esp
 % {{BASH:Hair,Eyes}}
@@ -11079,7 +11100,8 @@ Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 ? Requires BASH for proper use
-% {{Bash:IIM,Filter,Invent}} and deactivate
+% {{Bash:IIM,Filter,Invent}} and deactivate.
+Shads Spellbook.esp
 qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp

@@ -187,6 +187,7 @@ AinmhiRace.esm
 IceElfRace.esm
 Lattamerv3.esm
 Nec-Character_Clair.esm
+Nec-Character_Eva.esm
 Nec Mystic High Elf-Remake.esm
 Nec - Extra Mystic Elf Face.esm
 Tabaxi_Race_Default.esm
@@ -323,6 +324,9 @@ TweakedGenericFaces-LITE.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Better-Horse-Eyes.esp
 % {{BASH:Graphics,NoMerge}} and deactivate.
+Younger Hotter NPC's 0.99.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+? Old, update to version 1+.
 Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Younger Hotter NPC's v1.0 Vwalk.esp
@@ -2438,6 +2442,7 @@ Ageha Tortured Soul HGEC.esp
 
 \BeginGroup\: Items B
 
+BABnecklacesbykalikut.esp
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
 Badmagic Red Ebony - Ebony Strength.esp
@@ -2510,7 +2515,6 @@ Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
 BowOfShadows.esp
-BridFetishGirl.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
 Buster Sword R.esp
@@ -2526,6 +2530,7 @@ Caliburn.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
+Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
 Chin CatSuit.esp
@@ -2540,6 +2545,7 @@ ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
 Christian's Claymore.esp
+Chain it!.esp
 Change Undies Everyday.esp
 Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
@@ -2757,6 +2763,7 @@ GhostArmor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
+GLoF_Potion_of_Vampirism.esp
 Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
@@ -2892,6 +2899,8 @@ KIVampires_HoodAddon.esp
 kikaibookbelts.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
+KohdiBladesofAnkewan.esp
+KohdiArmoryofAnsephaer.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
@@ -3141,6 +3150,7 @@ SB_PFM_AyleidMageOutfits.esp
 Seductress Armour.esp
 SentientWeapon.esp
 SentientWeaponExchange.esp
+sepulcresorceressoutfit.esp
 SexyTops.esp
 shamblingbooks.esp
 ShinobiSet.esp
@@ -3216,6 +3226,7 @@ Spell Breaker Replacer.esp
 SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
+SPB Belt Girl.esp
 SPB Suicup 2.esp
 spartanspears.esp
 % {{BASH:Invent}}
@@ -5625,6 +5636,9 @@ DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
 Improved IC Shack.esp
+Dschinni.esp
+Dschinni Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate.
 DSPirateIsleBeta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
@@ -5678,6 +5692,8 @@ Extended NPCs Merge.esp
 EvilLair.esp
 Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
+BridFetishGirl.esp
+BridFetishGirlTrainerAddon.esp
 eyja.esp
 eyja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
@@ -5749,6 +5765,8 @@ Gianna.esp
 Gift of Kynareth.esp
 Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
+Gold Coast's Hillsborough Estate.esp 
+? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 Gold Road Cottage - Classy.esp
@@ -7888,6 +7906,7 @@ BaurusRunsInSewers.esp
 Bag of Holding.esp
 Automagic Bags.esp
 Bag of Alchemy.esp
+Badmagic - Landscape Fix for 20 -18.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
 Better_Amelion_Gear.esp
@@ -7907,6 +7926,8 @@ Birthsigns Expanded.esp
 ? May be a bit imbalanced when used with Race Balancing Project
 Birthsign Zero.esp
 BlackAzurasStar.esp
+BlackFineryWithAmulet.esp
+? If using Wrye Bash use the better to use the 'clothing show amulets' tweak instead.
 BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
@@ -8055,6 +8076,7 @@ Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
+Druid_Cowl_proper.esp
 DS Less Predictable Respawn.esp
 Alchemy Pocket.esp
 DS Alchemy Pouch.esp
@@ -8854,6 +8876,7 @@ More Realistic Encumbrance.esp
 More Realistic Encumbrance with Fatigue.esp
 More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
+carry_more_mod.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 kuerteeEatAndSleep.esp
 Tyler's Hungry, Thirsty, Sleepy, Tired.esp
@@ -10112,6 +10135,7 @@ CTAddPose_Dsk(erori)Pose.esp
 CTAddPose_2ch.esp
 CTAddPose_2ch-2.esp
 CTAddPose_enfant.esp
+CTAddPose_SPB_01.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -10432,6 +10456,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 
 4 New Races for Rens-Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+AinmhiRace-RensBeautyPackFull.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathMod.esp
@@ -10448,11 +10474,15 @@ Half-Devil.esp
 Half Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 YX33A_batch_of_stuff.esp
+Nec-Mystic Dark ElF.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec Mystic High Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec - Extra Mystic Elf Face.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec-Character_Clair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Nec-Character_Karla.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec-Character_Sonnet_Mature.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -10972,6 +11002,8 @@ DADemons.esp
 % {{BASH:Hair,Eyes}}
 DAJackSparrow.esp
 % {{BASH:Hair,Eyes}}
+DAJadeAmberSheevaTabaxi.esp
+% {{BASH:Hair,Eyes}}
 DAKaleahSuccubus.esp
 % {{BASH:Hair,Eyes}}
 DAKaleah.esp
@@ -10987,6 +11019,10 @@ DAWerewolf.esp
 DALeonidas.esp
 % {{BASH:Hair,Eyes}}
 DAMeridiaKatrina.esp
+% {{BASH:Hair,Eyes}}
+DANECSSONNET.esp
+% {{BASH:Hair,Eyes}}
+DANecsKarla.esp
 % {{BASH:Hair,Eyes}}
 DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}

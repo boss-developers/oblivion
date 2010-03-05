@@ -1556,6 +1556,8 @@ Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 marksman_challenge.esp
 Medic!.esp
+MeosPotionReplacer.esp
+% {BASH:Graphics}}
 merchant chest fix.esp
 MG Recommendation Skip.esp
 Milt-SecretStorage.esp
@@ -12329,6 +12331,7 @@ Streamline 3.0.esp
 Streamline 2.1.esp
 ? Very Old. Update to 3.1+.
 RedDelPCB.esp
+LazyPCB.esp
 
 CTEFastSaver.esp
 \EndGroup\\

@@ -2732,7 +2732,7 @@ ImperialDragonHeavyShield.esp
 femaleorderrobe.esp
 FemaleArmorPack1.esp
 FineWeapons.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 FinGleamRing.esp
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
@@ -3128,6 +3128,7 @@ Running4Cover's Welkynd Armors - For Sale.esp
 Running4Cover's Welkynd Weapons - Free.esp
 Running4Cover's Welkynd Weapons - For Sale.esp
 RustyItems.esp
+% {{BASH:Graphics}}
 RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp

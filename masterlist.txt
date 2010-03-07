@@ -1969,6 +1969,8 @@ moDem's City Life.esp
 
 Oblivion Alive.esp
 ? May be incompatible with BC - untested.
+Oblivion Alive Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate
 
 OBC City Life - FULL.esp
 
@@ -7271,6 +7273,10 @@ WaterfrontMarketNoShack.esp
 ? Probably incompatible with Better Cities.
 \EndGroup\\
 
+Valhalla Asgardia.esp
+Valhalla Asgardia Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate
+
 MTCThievesGrotto.esp
 ? Upgrade to v4.1.
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
@@ -7279,6 +7285,8 @@ MTCThievesGrottoV4.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
+MTCThievesGrottoV4.1 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate
 
 
 \BeginGroup\: Landscape and City overhauls
@@ -10831,6 +10839,8 @@ ambreskav02_default_anim.esp
 A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
+CMPartner_Xenia Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate
 Xenia_CMPartner.esp 
 Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate

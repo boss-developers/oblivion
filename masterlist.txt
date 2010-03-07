@@ -2066,8 +2066,7 @@ Landmarks, w Wells_DV.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks With Wells.esp
 ? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
-Ayelid Wells.esp
-? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+
 AddMapMarkers.esp
 Aurix's_Names.esp
 AyleidStatueMap.esp
@@ -7912,6 +7911,7 @@ Auto Repair.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
+Ayelid Wells.esp
 \EndGroup\\
 
 \BeginGroup\: overrides B

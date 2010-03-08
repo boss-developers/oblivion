@@ -884,6 +884,7 @@ More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
 MIS New Sounds Optional Part.esp
 Atmospheric Oblivion.esp
+% {{BASH:Scripts}}
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
 Soundscaper.esp
@@ -7834,6 +7835,7 @@ PitcherPlantHarvestable.esp
 PitcherPlantsHarvestable.esp
 Lily of the Valley Nectar.esp
 Harvest [Flora].esp
+% {{BASH:Scripts}}
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 NoHFailure_HFlora_SE.esp

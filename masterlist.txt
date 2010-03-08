@@ -38,13 +38,13 @@ MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 MathFunctions.esm
 BP-CosmeticLibraryBase-Public.esm
-BP-CosmeticLibraryBase.esm 
+BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
 Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
 Q-Core.esm
-GlobalSettingsInterface.esm  
+GlobalSettingsInterface.esm
 Inventory Tracker.esm
 You Are Here.esm
 Uncommon GUI.esm
@@ -1514,7 +1514,7 @@ JQ-TeaSet-DV.esp
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
  Katana Store.esp
-? requires patch to use with Kalikuts 
+? requires patch to use with Kalikuts
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
@@ -1608,7 +1608,7 @@ BetterMusicSystem.esp
 ? Old version, upgrade to version 2+.
 BetterMusicSystem(SI).esp
 CBMS_V2.esp
-? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin) 
+? Requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
 
 Better Beggars.esp
 
@@ -1682,9 +1682,9 @@ Parps_Invisibility_Cloak-6294.esp
 Pegasus.esp
 AltPegasus.esp
 Personal Torture Girl.esp
-P-Froggys Corpse Carry DV.esp 
+P-Froggys Corpse Carry DV.esp
 ? Requires OBSE.
-P-Froggys Corpse Carry EV.esp 
+P-Froggys Corpse Carry EV.esp
 ? Requires OBSE.
 P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
@@ -2562,7 +2562,7 @@ Collectible T-Shirts V2.1.esp
 LydarflsCheatCodeBook.esp
 console codes.esp
 Corthian Akavir Clothing.esp
-Cowgirl_HGEC.esp 
+Cowgirl_HGEC.esp
 cowlredux.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
@@ -2653,7 +2653,7 @@ Defensive_staves_Chest_Optional.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
-Diano2_UltraLite.esp 
+Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
 DMACArmor.esp
@@ -2742,7 +2742,7 @@ FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
 Flamberge.esp
-Fur Cape.esp 
+Fur Cape.esp
 FancyFinery.esp
 0FallenOutfit.esp
 \EndGroup\\
@@ -2876,7 +2876,7 @@ JQ-EldarArmour.esp
 JQ-TrekLirpa.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
 jy-Akaviri Helmets.esp
-\EndGroup\\ 
+\EndGroup\\
 
 \BeginGroup\: Items K
 
@@ -3190,7 +3190,7 @@ Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
 Skooma_Water_Pipe.esp
-SkoomaPipeMod.esp  
+SkoomaPipeMod.esp
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
 SedaArmorL.esp
@@ -3647,7 +3647,7 @@ UFF Mage Skin.esp
 UFF Shirts with Suspenders.esp
 UFF Warrior Skin.esp
 BAB & RM Assassin Elite Armor.esp
-Babarized Cryos Ordinator Lite.esp 
+Babarized Cryos Ordinator Lite.esp
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Babarized DunmerScaleMail.esp
@@ -4240,7 +4240,7 @@ GM-PISC.esp
 Oblivion Improved - Cobl.esp
 VVAdvanced.esp
 VVAdvanced-SI.esp
-CLS-CB-Cobl Glue.esp 
+CLS-CB-Cobl Glue.esp
 CB-VVA Glue.esp
 CB-Cobl-VVA Glue.esp
 P1DseeYouSleep - VVAdvanced.esp
@@ -4277,7 +4277,7 @@ FCOM_WarCryNoSpawn.esp
 LG's Unscaled Enemies.esp
 
 G_'s-Loot-Mod_v2.5[Scaled Version].esp
-G_'s-Loot-Mod_v2.5[Unscaled Version].esp 
+G_'s-Loot-Mod_v2.5[Unscaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 \EndGroup\\
 
@@ -5774,7 +5774,7 @@ Gianna.esp
 Gift of Kynareth.esp
 Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
-Gold Coast's Hillsborough Estate.esp 
+Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
@@ -6215,7 +6215,7 @@ MistyHideout.esp
 MountainShack.esp
 MountainShack DV.esp
 MrPwner's Ambient Churches.esp
-MrPwner's Ambient Inn's.esp 
+MrPwner's Ambient Inn's.esp
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
@@ -6321,13 +6321,13 @@ OSE - Outlook.esp
 ThePaleAdventurer.esp
 Pats Business Mod---Shop Version 1.6.esp
 ? Old, update to version 2.0+.
-Pats Business Mod---Shop Version 2.0.esp 
+Pats Business Mod---Shop Version 2.0.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
 ? Old, update to version 2.
-Pine Lodge ver2.esp 
+Pine Lodge ver2.esp
 PinePeakLodge.esp
 Pinevale.esp
 Pinewood.esp
@@ -6366,7 +6366,7 @@ Quest Nirnroot.esp
 Reaper's Animated Lute.esp
 Reaper's Coldstone Town.esp
 ? Incompatible with Heart of the Dead.
-Reaper_Drakelowe's Witch.esp 
+Reaper_Drakelowe's Witch.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
 Reaper_Tree_Home.esp
@@ -6512,8 +6512,8 @@ SSS_1.0.esp
 ? Requires Shivering Isles.
 ? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
-Star's Rest.esp 
-Star's Rest - Ayleid Well.esp  
+Star's Rest.esp
+Star's Rest - Ayleid Well.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
@@ -6836,7 +6836,7 @@ fpsboost-arenanolights.esp
 
 DLCBattlehornCastle.esp
 DLCBattlehornCastle - Unofficial Patch.esp
-DBOO - BattlehornCastle.esp 
+DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
@@ -7430,7 +7430,7 @@ Unique Landscapes - AncientYews DV.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
-ZSkeletonHorse-AncientYews patch.esp 
+ZSkeletonHorse-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
@@ -7464,7 +7464,7 @@ Unique Landscapes - Rolling Hills DV - ohne Weizen.esp
 ? Only use one UL Rolling Hills esp
 xulRollingHills_EV.esp
 ? Only use one UL Rolling Hills esp
-Unique Landscapes - Rolling Hills DV.esp 
+Unique Landscapes - Rolling Hills DV.esp
 ? Only use one UL Rolling Hills esp
 xulRollingHills_EV Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -7520,7 +7520,7 @@ KvatchRebuilt-CheydinhalFalls patch.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Villages-CheydinhalFalls patch.esp
-Villges-CheydinhalFalls patch.esp 
+Villges-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
@@ -7542,7 +7542,7 @@ ULII-Roads-Patch.esp
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
-EtInArkay-UniqueLandscapes Merged patch.esp 
+EtInArkay-UniqueLandscapes Merged patch.esp
 xul Rwalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Swalk Full.esp
@@ -7969,7 +7969,7 @@ Bow Damage Balanced.esp
 Brandon's Misc Rebalance.esp
 % {{BASH:Stats}} and deactivate.
 
-BOO_BulletTime.esp 
+BOO_BulletTime.esp
 Bullettimemod.esp
 Bullettimemodsetkey.esp
 Bullet Time Custom.esp
@@ -8572,7 +8572,7 @@ Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
 ? OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
-Skillbased Thieves Guild Invitation.esp 
+Skillbased Thieves Guild Invitation.esp
 Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
@@ -8696,7 +8696,7 @@ vn_goldweight.esp
 \BeginGroup\: overrides W
 
 Wayshrines Improved.esp
-WeaponAndStaffSpecs.esp 
+WeaponAndStaffSpecs.esp
 Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp
 WolfPacks.esp
@@ -8835,7 +8835,7 @@ quickstart.esp
 Quickstart_DV.esp
 newstartV3.esp
 Kobu's Skip Intro Mod.esp
-boh_dungeonbgone.esp  
+boh_dungeonbgone.esp
 dungeonbgone.esp
 CDM-New Start.esp
 Cliff_Roleplayingcharacter.esp
@@ -9879,7 +9879,7 @@ Duke Patricks - Stat Based Bob And Weave.esp
 Duke Patricks Bob and Weave Dodge GOLD Edition.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Bob and Weave Dodge Mark II.esp
-DocDodge.esp 
+DocDodge.esp
 
 Duke Patricks - NPCs Now Bob Under Your Shots.esp
 ? Old. Upgrade to latest version.
@@ -10015,7 +10015,7 @@ nGCD Birthsigns.esp
 nGCD Character Generation.esp
 nGCD Oghma Infinium.esp
 nGCD Skeleton Key.esp
-ExperienceTraining1.1(nGCD).esp 
+ExperienceTraining1.1(nGCD).esp
 
 Progress.esp
 ProgressGSD.esp
@@ -10450,7 +10450,7 @@ Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
 EE-Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
-CCR - EE.esp 
+CCR - EE.esp
 % {{BASH:NpcFaces,Hair,Eyes}} and deactivate
 CCR - Capucine.esp
 Capucine'sEyeSelection+NewHair.esp
@@ -10659,7 +10659,7 @@ IceElfRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 LittleElf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-Sun_&_Night_Elves.esp 
+Sun_&_Night_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -10850,7 +10850,7 @@ A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
 CMPartner_Xenia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
-Xenia_CMPartner.esp 
+Xenia_CMPartner.esp
 Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
 cmAbbeyAeryn.esp
@@ -11169,7 +11169,7 @@ Shads Spellbook.esp
 qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp
-TML_SummonsUnlocked.esp 
+TML_SummonsUnlocked.esp
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 2

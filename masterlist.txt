@@ -335,7 +335,6 @@ Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_DB_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_SI.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_Vampires.esp
@@ -349,6 +348,7 @@ Beautiful_Women_NiceOnly Vwalk.esp
 Beautiful_Women_NotSoNice_Bonus Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
 Beautiful_Women_NotSoNice_Bonus.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_SI Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
 Beautiful_Women_Vampires_50 VWalk.esp
@@ -536,35 +536,35 @@ New Duke and Duchess.esp
 \----------
 
 Oblivion Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Oblivion_SI Vwalk Full UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 DLCShiveringIsles Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 DLCShiveringIsles Vwalk DG_DS UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 
 TNR ALL RACES FINAL Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 TNR - ShiveringIsles no helms Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Oblivion_SI Vwalk Full TNR UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 
 Beautiful_Women_NiceOnly Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful_Women_DB_Addon Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful_Women_SI Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful_Women_Vampires Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful_Women_Vampires_50 Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful_Women_NotSoNice_Bonus Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful Women Vwalk Full UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 
 Colourwheels Sexy Female NPCs Vwalk UOS.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate

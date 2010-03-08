@@ -381,6 +381,8 @@ Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate
+beardy.esp
+% {{BASH:NpcFaces}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes
@@ -567,7 +569,7 @@ Beautiful Women Vwalk Full UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 
 Colourwheels Sexy Female NPCs Vwalk UOS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 \EndGroup\\
 
 \BeginGroup\: BSA tricks
@@ -7923,6 +7925,7 @@ Bag of Holding.esp
 Automagic Bags.esp
 Bag of Alchemy.esp
 Badmagic - Landscape Fix for 20 -18.esp
+Badmagic - Landscape Fix for Fanacasecul.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
 Better_Amelion_Gear.esp
@@ -10359,7 +10362,11 @@ Jjiinx_Long Ears.esp
 Head06 Replacer.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 WhiskersAll.esp
-% {{BASH:R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate. 
+% {{BASH:R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
+MergedMouth.esp
+% {{BASH:R.Mouth}} make sure to merge into the bashed patch and deactivate.
+JoinedJaws.esp
+% {{BASH:R.Teeth}} make sure to merge into the bashed patch and deactivate.
 \EndGroup\\
 
 \BeginGroup\: Hair
@@ -11294,7 +11301,7 @@ boethia custom race.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
-? Delete if you use 'Cobl Races - Balanced.esp'. 
+? Delete if you use 'Cobl Races - Balanced.esp'.
 \EndGroup\\
 
 \BeginGroup\: Better Cities
@@ -12144,6 +12151,9 @@ Bashed Delayers - MERGE ONLY.esp
 % {BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 Bashed Delayers E - MERGE ONLY.esp
+% {BASH:Filter}}
+? Must be merged into the bashed patch in Wrye Bash
+Bashed Delayers NE - MERGE ONLY.esp
 % {BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 CoreRandmonClothing4Npcs.esp

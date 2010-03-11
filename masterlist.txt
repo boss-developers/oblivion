@@ -1471,6 +1471,7 @@ Grand Potions.esp
 ? May need Wrye Bashed Patch to work with overhaul mods.
 % {{BASH:Delev,Relev}} ??? Untested.
 SwampGrass.esp
+Guardianalcset.esp
 Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
@@ -1712,6 +1713,8 @@ p2p'sAshDraconian.esp
 
 Q - More and Moldy Ingredients v1.1.esp
 Q - More and Moldy Ingredients v1.1 - DV.esp
+MoreMoldyIngredients&Vegeteables.esp
+? do not use 'Q - More and Moldy Ingredients v1.1.esp' and 'More_vegetables.esp' with this; this replaces those two esps.
 Q-Core - Icons.esp
 ? German version?
 Qarls_Harvest.esp
@@ -2907,7 +2910,10 @@ kikaibookbelts.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
 KohdiBladesofAnkewan.esp
+KohdiBladesofAnkewan Delayer.esp
 KohdiArmoryofAnsephaer.esp
+KohdiArmoryofAnsephaer Delayer.esp
+Kohdi Ankewan-Anesphar Delayer.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
@@ -6040,6 +6046,7 @@ OC+Coffeshop Patch.esp
 JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
+JM_safehouse.esp
 JSRandomTasks.esp
 \EndGroup\\
 
@@ -6210,6 +6217,7 @@ Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
 Mercenaries.esp
+Mero Trading.esp
 Mimics!.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
@@ -6429,6 +6437,7 @@ Sanguine.esp
 Sanguinenorob.esp
 Satu Ra - Lord of Beasts.esp
 SaveWaterEdgeEng.esp
+ScarletMonastery.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
 ? Or use the replacer esp in from the BC package (same name).
@@ -7402,6 +7411,8 @@ SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp
 NNWARE1_Dungeon05ULPatch.esp
+Cybiades - UL Beaches of Cyrodiil Patch.esp
+? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - aslo do not use the prepatched version of the Cybiades esp.
 
 xulbravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -8427,6 +8438,12 @@ P1DkeyChainFrostcraig.esp
 P1DkeyChainKnights.esp
 P1DKeyChainSI Merged.esp
 P1DkeyExtraMouseButton.esp
+P-Froggys NPC-Respawning-Oblivion Normal.esp
+P-Froggys NPC-Respawning-Oblivion_Quest NPCs.esp
+P-Froggys NPC-Respawning-SI Normal.esp
+P-Froggys NPC-Respawning-SI_Quest NPCs.esp
+P-Froggys NPC-Respawning X Tage.esp
+P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
 PersuasionSI.esp
@@ -9180,6 +9197,7 @@ MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
 ? Requires OBSE.
+Master of Magic.esp
 SNxMarkers.esp
 ? Requires OBSE.
 MindRip.esp
@@ -9603,7 +9621,9 @@ svaReEnch_1C.esp
 \
 \Overrides overhauls.
 
+Crime and Stealth Rebalance.esp
 MerchantFriendsBuysStolen.esp
+MerchantsAlwaysBuyStolen.esp
 More Realistic Sneaking - Sneaking Changes.esp
 More Realistic Sneaking 1.9 - Sneaking Changes.esp
 More Realistic Sneaking - Sleepkill Dagger.esp

@@ -32,6 +32,7 @@ Silgrad_Tower_T.esm
 Solstheim Recreated.esm
 Cybiades.esm
 Windfall.esm
+Skyrim.esm
 TR_OoT_Main.esm
 Hammerfell.esm
 MooCowVolcanicIslands.esm
@@ -1666,6 +1667,7 @@ OSRCustom.esp
 
 Packhorses v1.esp
 passive_horses.esp
+910-passive wildlife-TESSource.esp
 personality_idles2.esp
 personality_idles3b.esp
 personality_idles3b_nc.esp
@@ -5013,6 +5015,8 @@ MMM Goblin Assassin Fix.esp
 OOO Dread Armor Upgrade.esp
 LDEnhancedSI.esp
 Shield on Back Plugin - OOO.esp
+BladesSmithySTANDARD.esp
+? If using OOO use 'BladesSmithyOOO.esp' instead.
 BladesSmithyOOO.esp
 OOO_ThievesGuildFix.esp
 ? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
@@ -5373,6 +5377,7 @@ Artifacts SoB Patch.esp
 AraenyaRealm.esp
 A Son's Revenge 2.0.esp
 AsarusTomb1.esp
+Asharnakibibi.esp
 Asharnakibibi 1_2.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
@@ -5570,6 +5575,7 @@ ConLoBattleGenMod.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
+Cliff_PersonalGuildStorageChest.esp
 
 Clintmichs Beautiful Imperial City Arboretum.esp
 ? Probably incompatible with BC IC Arboretum and similar.
@@ -5769,7 +5775,7 @@ JK_lighthouse.esp
 
 FuseFruitMachine.esp
 FuseSnailRacing.esp
-? Needs a patch for Unique Landscapes: Imperial Isle.
+If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp'.
 \EndGroup\\
 
 \BeginGroup\: Quests G
@@ -6802,6 +6808,7 @@ ZOMBIES! - 28 days and a bit V2.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
 zDangerSense.esp
+Zergonipilamat.esp
 Zergonipilamat 1_2.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
@@ -7243,6 +7250,7 @@ ElsweyrAnequinaNoSpiders.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 
+Skyrim.esp
 
 Improved Imperial Infrastructure.esp
 
@@ -7532,6 +7540,7 @@ xulImperialIsle Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp

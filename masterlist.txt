@@ -1701,6 +1701,7 @@ Poisonous_Food-9719.esp
 Posters.esp
 Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
+Portable Bedroll.esp
 Portable Campsite.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
@@ -4361,6 +4362,7 @@ mg19obsefix.esp
 
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
+% {{BASH:Graphics}}
 
 ArmamentariumFixes.esp
 ArmamentariumLL.esp
@@ -4786,6 +4788,7 @@ WACESM_MiscItemsRebal.esp
 % {{BASH:Stats}}
 WACESM_Ingredients_Rebalance.esp
 % {{BASH:Stats}}
+WAC-OOO.esp
 \EndGroup\\
 
 \BeginGroup\: Tamriel Travellers.
@@ -5706,6 +5709,7 @@ Epic Dark Brotherhood.esp
 Ever-rest Glade reborn.esp
 exhSIPalacelodge.esp
 Extended Imperial City.esp
+Extended Imperial City point 5.esp
 Extended Imperial City Version 1.0.esp
 Extended Imperial City Version 1.0 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
@@ -6178,6 +6182,8 @@ Listener Quarters.esp
 DB Listeners Quarters [Darker].esp
 
 LOCH_New_Skingrad_Bridge.esp
+Locked Doors and Knocking v1.02.esp
+? Imcompatible with BC/probably other city altering mods.
 Lock Spells.esp
 Lobo_the_Wolf.esp
 Lobo_the_Wolf_v101.esp
@@ -6225,6 +6231,7 @@ Madness' Hideout.esp
 Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
+Markets of Cyrodiil LO.esp
 ME_MERCENARIES.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
@@ -6566,6 +6573,7 @@ Tantrivaylia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
+TelValus1pt1c.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
@@ -9009,6 +9017,7 @@ Jump_Adjustment.esp
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
 Duke patricks jump modifier.esp
+Easy Sleep v11.esp
 PC Sleep Disrober.esp
 RealSleep.esp
 RealSleepExtended.esp
@@ -12379,6 +12388,7 @@ MWakeMap.esp
 MergedMaps.esp
 Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
+TamrielWorldspaceCompleteWorldMap.esp
 \any map changing files esp have to go dead last other than pure script mods
 
 FormID Finder.esp

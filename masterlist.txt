@@ -1158,6 +1158,7 @@ Bedrollsanyone.esp
 
 BEER! for Oblivion.esp
 ? If using OOO, check compatibility (untested).
+BEER_Inebriation.esp
 Better Wine SI.esp
 ? Not compatible with OOO. OOO contains a similar mod.
 bgShaderStandAloneEV.esp
@@ -1461,6 +1462,8 @@ Female Lich.esp
 FileOne.esp
 Fish!.esp
 Fish! - v1.1.esp
+Fishing in Cyrodiil.esp
+? If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
 Flamering.esp
 FrbitPotionReplacer.esp
 % {{BASH:Graphics,Names}}
@@ -2328,6 +2331,7 @@ Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 AkatoshHead.esp
 alllll61-Saint Silver armor.esp
+alllll61s-Templar armors beta 0.9.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
 Alternative_Light_Armors-3931.esp
@@ -2607,6 +2611,7 @@ chainmailsdezi.esp
 
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
+Dauphni Clothing.esp
 DBShadowSet.esp
 ? Only use one DBSHadow Set esp
 DBShadowSet_NE.esp
@@ -3256,6 +3261,7 @@ spartanspears.esp
 SPARTAN VIs Ordinator Lite.esp
 spirit_bast.esp
 Staff of Portals.esp
+StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
 SG004_Stargazer.esp
 Staves&Polearms&Spears.esp
@@ -3390,6 +3396,7 @@ Vvardenfell_Imports.esp
 \BeginGroup\: Items W
 
 WarriorBandages_V2.0.esp
+WarriorBandages_OOO_V2.0.esp
 WarriorsRobe.esp
 witchkingsword.esp
 Wyrmfang.esp
@@ -4067,6 +4074,7 @@ Rund ums Pferd.esp
 Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
+FastHorse v03.esp
 \EndGroup\\
 
 \BeginGroup\: Pre Overhaul
@@ -5476,6 +5484,7 @@ ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
 _Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
+Blessed Cloud Ruler Temple.esp
 Blissful_DreamsCOBL.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
@@ -6336,6 +6345,7 @@ NNWARE05-Bawn.esp
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
+Oblivion Wine Overhaul.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
 OMPexample.esp
@@ -6494,6 +6504,8 @@ Side's Cheydinhal House.esp
 Side's Cheydinhal House (BathMod).esp
 Side's Cheydinhal House (COBL).esp
 Side's Sailing Ships.esp
+Side's Sailing Ships (Bathing).esp
+Side's Sailing Ships (COBL).esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 SIMushroomHouse.esp
@@ -7602,6 +7614,7 @@ ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
+Patch-Wolfspike-UL.esp
 
 EtInArkay-UniqueLandscapes Merged patch.esp
 xul Rwalk Full.esp
@@ -11351,6 +11364,7 @@ OC+Integration Patch.esp
 \BeginGroup\: Other race/birthsign mods
 \'''''''''''''''''''''''''
 
+Appler's Passive Birthsigns.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 Birthsigns Revamped.esp

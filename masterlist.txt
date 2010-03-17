@@ -517,6 +517,8 @@ SM Plugin Refurbish - SI.esp
 Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
+SI Public Music.esp
+% {{BASH:C.CellType}} (name to be finalized)
 
 DLCShiveringIsles Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
@@ -5668,9 +5670,6 @@ DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
 Improved IC Shack.esp
-Dschinni.esp
-Dschinni Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors)..
 DSPirateIsleBeta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
@@ -6228,6 +6227,7 @@ MadMagesTowerBASIC.esp
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Madness' Hideout.esp
+Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
@@ -6529,7 +6529,12 @@ sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Spirit's Edge.esp
 ? Incompatible with 'Ayleid Wells'
+SRJelytra.esp
+SRJlandDreugh.esp
 SRJmarasProtection.esp
+SRJriverbendhouse.esp
+SRJspiderDaedra.esp
+SRJtrollKajsa.esp
 Star Ship Orion.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
@@ -6770,6 +6775,7 @@ WellspringGrove.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 Whispers of Death Extended.esp
+WhiteGoldTowerV19.esp
 White Tower v0.8.esp
 WinterCabin.esp
 Winter Palace.esp
@@ -7239,6 +7245,7 @@ FCC-Cheydinhal.esp
 Blackmarsh.esp
 Valenwood.esp
 Summerset.esp
+SummersetLandscapes.esp
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
@@ -7522,6 +7529,7 @@ MMMMWL-RollingHills patch.esp
 KragenirsDeathQuest-RollingHills patch.esp
 
 xulPantherRiver.esp
+Blood&Mud-PantherRiver patch.esp
 
 xulRiverEthe.esp
 Unique Landscapes - River Ethe DV.esp
@@ -9222,6 +9230,7 @@ M.O.E. - Mythic Dawn Powers.esp
 M.O.E. - Teleportation Magic and Icarian Flight.esp
 MadCompanionshipSpells.esp
 Madgod Powers.esp
+Magus Lost Alteration Spells.esp
 MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
@@ -9245,6 +9254,7 @@ Meteor Shower.esp
 MrF - Spell Efficiency.esp
 Multiple Creature Summoning.esp
 Level Based Summon Cap.esp
+Necromancer's Power.esp 
 Necronlittlemagicmod1.1.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
@@ -9485,6 +9495,10 @@ Pestilent Afflictions.esp
 Pestilent_Afflictions-DV.esp
 Pestilent Afflictions1.5-DV.esp
 Deadly Diseases.esp
+Disease Immunity (Oblivion).esp
+? Only use one Disease Immunity esp - use this one without SI.
+Disease Immunity (Oblivion + Shivering Isles).esp
+? Only use one Disease Immunity esp - use this one with SI.
 Jjiinx_Enhanced Diseases.esp
 Jjiinx_Enhanced Disease.esp
 Vector.esp
@@ -9816,6 +9830,7 @@ Kythrius_Mod_OBSE.esp
 AR's Hand to Hand - 27.esp
 AR's Hand to Hand - 30.esp
 AR's Hand to Hand - 34.esp
+Armorer's Advantage.esp
 cancelattack.esp
 Denock Arrows.esp
 Combat Behavior 2.11b.esp
@@ -9865,6 +9880,8 @@ mighty_bows_improved_firerate.esp
 
 NE_Realistic_Blocking.esp
 BetterBlocking.esp
+
+Cant Wear Broken Armor.esp
 
 Better Hand to Hand.esp
 JM's Bar Fights mortal.esp
@@ -10395,7 +10412,8 @@ Mart's Monster Mod - Resized Races.esp
 Bigger_Dremora.esp
 % {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F} make sure to merge into the bashed patch and deactivate. 
+? Also to be safe only use the Body-M & Body-F tags with Wrye Bash version 280+ (otherwise may have incorrect body changes include in the bashed patch).
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
 EyelashesVanillaRaces.esp
@@ -10998,7 +11016,10 @@ companion_chocolate.esp
 companion_nightelves.esp
 % {{BASH:Hair,Eyes}}
 companion.esp
+
 Custom NPCs for CSR.esp
+SRJsleepCommandForCSR.esp
+
 Dogmeat Companion.esp
 DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}
@@ -12168,6 +12189,10 @@ Real Hunger, Cobl.esp
 
 StokerWolff.esp
 StokerWolff 1.3.esp
+
+Dschinni.esp
+Dschinni Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

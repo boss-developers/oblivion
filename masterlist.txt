@@ -432,6 +432,7 @@ sva_testFixBruma.esp
 Specular_Fix_1.1.esp
 % {{BASH:Graphics}}
 NoNextRankDUMMY_v1.0-RSS.esp
+DaedricHelmFIX.esp
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
@@ -1485,6 +1486,8 @@ Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
 ? Not OOO compatible - already included in OOO.
+GW71_Soulgems.esp
+% {{BASH:Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Base H
@@ -1857,6 +1860,7 @@ Guard Torches.esp
 sS-PotionVendors.esp
 Soup01b.esp
 MW_booze.esp
+MW_Booze, Cobl.esp
 
 Street Gangs.esp
 Unsafe Streets.esp
@@ -2532,6 +2536,7 @@ BloodElvenArmorV1.0.esp
 Blue Destiny.esp
 BlueStaff.esp
 BlueAndWhitePorcelain - Full.esp
+BlueAndWhitePorcelain - Shop Inventory Only.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 BowOfShadow.esp
@@ -2973,6 +2978,7 @@ MandBSwords.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
 Mage Leather Armor.esp
+MagicElvenCapes1a.esp
 Materia.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
@@ -3075,6 +3081,7 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
+ORM -Travelers' Cloaks.esp 
 OS Artifacts.esp
 \EndGroup\\
 
@@ -3140,6 +3147,8 @@ Rindirs Staves.esp
 Ring of Sunwalker V1.35.esp
 RingwraithArmorMithril.esp
 RinzeiCrystalStaff_Unenchanted.esp
+Robe Replacer2.esp
+% {{BASH:Graphics}}
 Rogue Sun's Blood Lust Dress.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
@@ -4372,6 +4381,7 @@ OMOBS Optional Combat Settings.esp
 mg19obsefix.esp
 ? Requires OBSE
 
+OOO CheapWine Vanilla Effects.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
 % {{BASH:Graphics}}
@@ -5946,6 +5956,8 @@ ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged - Lightless.esp
+? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Green Emperor Way - Tombless Version.esp
@@ -6487,7 +6499,9 @@ Servant of the Dawn.esp
 Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
+Sewer_Mansion.esp 
 Shads Shack.esp
+Shads Water Bucket Plus.esp
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
@@ -6517,6 +6531,7 @@ Skingrad_House_Basement_Addon-4110.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
+Skingrad Market - MoC 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
 Skye Village Final.esp
@@ -8975,6 +8990,7 @@ More Realistic Encumbrance with Fatigue.esp
 More Capacity Encumbrance with Fatigue.esp
 Carry_four_times_more_loot-7515.esp
 carry_more_mod.esp
+LooterWeightMod.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 kuerteeEatAndSleep.esp
 Tyler's Hungry, Thirsty, Sleepy, Tired.esp
@@ -9255,6 +9271,7 @@ M.O.E. - Teleportation Magic and Icarian Flight.esp
 MadCompanionshipSpells.esp
 Madgod Powers.esp
 Magus Lost Alteration Spells.esp
+Mark & Recall.esp 
 MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
@@ -9882,6 +9899,8 @@ Archery Rebalance.esp
 WB Dynamic Weapon Speeds.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
+More_Arrows_Recovered-2169.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 ArrowVelocity.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
@@ -10648,6 +10667,8 @@ DemonRace.esp
 Dremora.esp
 % {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
+The Complete Dremora.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Luchaire's Dryad Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Use 'for MMM' version if using MMM/FCOM.
@@ -10720,6 +10741,8 @@ IDKRRR_Moira_race.esp
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Energy - Beautiful Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Demon Hunter.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

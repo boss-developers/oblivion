@@ -2955,6 +2955,7 @@ LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
 LockpickMold.esp
+LockpickToolkit.esp
 LoH Equipment v0_02_2.esp
 Loth's Armory of the 1st Empire.esp
 LootableLichHelm_Lt.esp
@@ -3087,7 +3088,7 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
-ORM -Travelers' Cloaks.esp 
+ORM -Travelers' Cloaks.esp
 OS Artifacts.esp
 \EndGroup\\
 
@@ -5076,6 +5077,8 @@ Tamrielic_Ingredients_MMM.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
 * Delete. Not FCOM compatible. Use cOMbo plugin instead.
+Tamrielic_Ingredients_FraM.esp
+* Delete. Not FCOM compatible. Use cOMbo plugin instead.
 
 Morrowind Ingredients_MMM.esp
 ? Consider Upgrading to Tamrielic Ingredients.
@@ -5283,6 +5286,7 @@ A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
 A Cut Above Hairdressers.esp
 A Sneaky Buy 2.1.esp
+A Sorceress Love 1_1.esp 
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
@@ -5495,6 +5499,7 @@ Better Elven Gardens.esp
 Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 BeyondCyrodiil-Camps.esp
+BF_FortRapture.esp
 Big Business.esp
 Billsburg.esp
 English Billsburg_Rens_Hair_1.51.esp
@@ -5650,6 +5655,7 @@ Daedric Quests Unleveled.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
 Dalls_Inheritance.esp
+Dalls_Merchant.esp
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 Dark Sanctuary Display Room.esp
@@ -5723,6 +5729,7 @@ DarkDale.esp
 
 EaglesRest.esp
 eden castle.esp
+Edolsian's Furnace, Kamal Volcano Caves.esp
 Egainjo Manor.esp
 EirikWythringSpellmaker.esp
 Elemental Witches.esp
@@ -6279,6 +6286,7 @@ Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
 Mercenaries.esp
 Mero Trading.esp
 Mimics!.esp
+Miners n Pickaxes.esp
 MiniCyrodiil.esp
 Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
@@ -6493,6 +6501,7 @@ rayearth.esp
 SacredOak_Settlement.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
+Saldaea.esp
 SamuraiHouse.esp
 SanctumSanctorum.esp
 Sanguine.esp
@@ -6512,7 +6521,7 @@ Servant of the Dawn.esp
 Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
-Sewer_Mansion.esp 
+Sewer_Mansion.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
 Shadowmist Manor v1.1.esp
@@ -6593,12 +6602,14 @@ Ship Wrack.esp
 sinked ship.esp
 Sunken Fortress.esp
 Sutch Reborn.esp
+Sseths Resource Foundry.esp
 SSS_1.0.esp
 ? Requires Shivering Isles.
 ? Requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 Star's Rest.esp
 Star's Rest - Ayleid Well.esp
+Steve - Hitman.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
@@ -6619,6 +6630,7 @@ Sheogorath`s Artifacts.esp
 \BeginGroup\: Quests T
 
 Talos Bridge.esp
+Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
 Tantrivaylia.esp
@@ -6636,6 +6648,7 @@ CHEAT - TempleofNirn.esp
 TempleOfZealots.esp
 ? Check out version 2.
 TempleOfZealotsV2.esp
+The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
@@ -6645,6 +6658,7 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
 TGInheritEarlOfImbelsICHouse.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
+The Black Marsh_Snake Head Island.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
@@ -6652,6 +6666,7 @@ The_Honor_of_Assassins.esp
 The Hunt.esp
 The forgotten Castle.esp
 % {{BASH:Hair}}
+The Island Of Fire.esp
 The Lost Tomb.esp
 The Necromancers start V1.0.esp
 The Old Riddle.esp
@@ -8369,6 +8384,8 @@ Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Leviathan Soulgems.esp
 ? Use the original rather than the abridged version (same name); the abridged version has a malformed esp which may cause problems.
+SoulgemSalvation.esp
+? Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
 Leviathan Trophy Soulgems.esp
 ? Requires Tibixe's String Function Collection and Leviathan Soulgems.
@@ -8496,6 +8513,7 @@ npcjump.esp
 
 \BeginGroup\: overrides O
 
+OBGate Partner bugfix.esp
 OL_MyBrumaFireplace.esp
 One handed weapons on back 1_1.esp
 One handed weapons on back 1_1 .esp
@@ -9247,6 +9265,7 @@ Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
 Detect Item.esp
+Duplicate_Item_Spell.esp
 Elemental Horses.esp
 Empty_Soul_Gems.esp
 EnchantmentMastery.esp
@@ -9285,7 +9304,7 @@ M.O.E. - Teleportation Magic and Icarian Flight.esp
 MadCompanionshipSpells.esp
 Madgod Powers.esp
 Magus Lost Alteration Spells.esp
-Mark & Recall.esp 
+Mark & Recall.esp
 MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
@@ -9309,7 +9328,7 @@ Meteor Shower.esp
 MrF - Spell Efficiency.esp
 Multiple Creature Summoning.esp
 Level Based Summon Cap.esp
-Necromancer's Power.esp 
+Necromancer's Power.esp
 Necronlittlemagicmod1.1.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
@@ -9347,6 +9366,7 @@ Ranokoas Killing Spree Spells.esp
 Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Resurrect.esp
+ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 Smite of Order.esp
@@ -10256,6 +10276,8 @@ Level_Rates_Modified_x5.esp
 Faster Magic Levelling.esp
 Wrye Leveling.esp
 SaveSkillTrainingForLater.esp
+DPCS.esp
+DPCSRealisticLeveling.esp
 \EndGroup\\
 
 \BeginGroup\: Pose and Animation Mods
@@ -10470,7 +10492,7 @@ Mart's Monster Mod - Resized Races.esp
 Bigger_Dremora.esp
 % {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F} make sure to merge into the bashed patch and deactivate. 
+% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F} make sure to merge into the bashed patch and deactivate.
 ? Also to be safe only use the Body-M & Body-F tags with Wrye Bash version 280+ (otherwise may have incorrect body changes include in the bashed patch).
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.

@@ -195,6 +195,8 @@ Tabaxi_Race_Default.esm
 x117race.esm
 SoVvM.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+SoVvM Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 p2p'sAshDraconian.esm
@@ -4100,6 +4102,8 @@ FastHorse v03.esp
 \To reduce conflicts.
 
 AncientTowers.esp
+AncientTowers Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 AncientTowersNoExnem.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
@@ -11158,6 +11162,8 @@ SnowAndHarukoCMPartners.esp
 % {{BASH:Hair,Eyes}}
 Sonia.esp
 % {{BASH:Hair,Eyes}}
+Sonia Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp

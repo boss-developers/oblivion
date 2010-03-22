@@ -724,6 +724,7 @@ AWS Tamed HDR Diverse Thunder.esp
 AWS-Nicer Weather.esp
 AWS-Tweaks BN.esp
 AWS-Tweaks PB.esp
+AWS-Longer Nights.esp
 AWS-Shorter Nights.esp
 AWS Merged Tweaks.esp
 
@@ -2206,6 +2207,8 @@ Correctif MehrunesRazor.esp
 Correctif MehrunesRazor RP.esp
 DBOO - MehrunesRazor.esp
 NLF MehrunesRazor.esp
+MOBS MehrunesRazor.esp
+% {{BASH:Stats}}
 Mehrunes_mobs.esp
 % {{BASH:Stats}}
 DLCMehrunesRazorPatched.esp
@@ -6853,6 +6856,7 @@ Vypers Arrow Spells.esp
 ? Incompatible with Better Cities.
 ? Old, upgrade to V2+.
 Vypers Arrow Spells-Vanilla V2.esp
+VypersAstralStorage.esp
 \EndGroup\\
 
 \BeginGroup\: Quests W
@@ -8877,8 +8881,6 @@ za_less_NPC_conversations.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late
-Argonians and Khajiit Lose Tails no More Script.esp
-Argonians and Khajiit Lose Tails no More.esp
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.
@@ -10671,6 +10673,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 AinmhiRace-RensBeautyPackFull.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Anwolf Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 PlayableSheogorathMod.esp
@@ -11212,6 +11216,8 @@ DAJynx.esp
 % {{BASH:Hair,Eyes}}
 DAClair.esp
 % {{BASH:Hair,Eyes}}
+DABrinn.esp
+% {{BASH:Hair,Eyes}}
 DAEva.esp
 % {{BASH:Hair,Eyes}}
 DAGimli.esp
@@ -11298,7 +11304,6 @@ Cobl Races TNR SI.esp
 ? Requires the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate.
-Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 1
@@ -11920,6 +11925,7 @@ Combat Timescale x0.5.esp
 Combat Timescale x0.5 v1.0.esp
 DynamicTimescale.esp
 Syc_LongerDaysShorterNights.esp
+Syc_LongerNightsforVampires.esp
 SPAWN.esp
 \EndGroup\\
 
@@ -12287,6 +12293,12 @@ Faction Rank Fix.esp
 Helmet Toggle.esp
 Hemingweys Capes.esp
 ? Don't use Bash's unlimited amulet's tweak with this.
+? If you're using this with the mod "[b]Beast Characters lose tails no more[/b]", temporarily move it below the Bashed Patch whenever you rebuild it
+Argonians and Khajiit Lose Tails no More Script.esp
+Argonians and Khajiit Lose Tails no More Script - CoBl.esp
+Argonians and Khajiit Lose Tails no More Script - Anwolf.esp 
+Argonians and Khajiit Lose Tails no More Script - Lilmothiit.esp
+
 
 MassA.I.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.

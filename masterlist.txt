@@ -4611,7 +4611,7 @@ MALO - Loot Tweaks FRAN.esp
 
 Mart's Monster Mod.esp
 >* Delete. Not needed with FCOM.
-{%{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}

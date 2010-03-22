@@ -195,8 +195,6 @@ Tabaxi_Race_Default.esm
 x117race.esm
 SoVvM.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
-SoVvM Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 p2p'sAshDraconian.esm
@@ -245,8 +243,11 @@ bookplacing.esp
 
 Oblivion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+SoVvM Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Oblivion_SI Vwalk Full.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
@@ -321,6 +322,7 @@ Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Oblivion_SI Vwalk Full TNR.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 TweakedGenericFaces.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TweakedGenericFaces-LITE.esp
@@ -358,6 +360,7 @@ Beautiful_Women_Vampires_50 VWalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Beautiful Women Vwalk Full.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Handsome_Gents_Addon.esp
@@ -547,6 +550,7 @@ Oblivion Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Oblivion_SI Vwalk Full UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 DLCShiveringIsles Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 DLCShiveringIsles Vwalk DG_DS UOS.esp
@@ -558,6 +562,7 @@ TNR - ShiveringIsles no helms Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Oblivion_SI Vwalk Full TNR UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Beautiful_Women_NiceOnly Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
@@ -573,6 +578,7 @@ Beautiful_Women_NotSoNice_Bonus Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
 Beautiful Women Vwalk Full UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Colourwheels Sexy Female NPCs Vwalk UOS.esp
 % {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
@@ -2502,6 +2508,8 @@ BlackGlovesRus.esp
 Blackhand Courtesan.esp
 Blackheart and Gizmodian ECRobes.esp
 BlackSoulGemArmory.esp
+Blade Of Woe Replacer.esp
+% {{BASH:Graphics}}
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bluefire Claymore by Mr. V.esp
@@ -6640,9 +6648,12 @@ Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
 Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
+? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil.
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 Sheogorath`s Artifacts.esp
 \EndGroup\\
 
@@ -7379,8 +7390,10 @@ Faregyl Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
 Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TVIcar.esp
 
@@ -7686,6 +7699,7 @@ xul Swalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Vwalk Full.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 \EndGroup\\
 
 \BeginGroup\: Post UL, Pre BC

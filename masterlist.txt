@@ -1575,7 +1575,7 @@ Mage_Guild_Teleport v1.1.esp
 marksman_challenge.esp
 Medic!.esp
 MeosPotionReplacer.esp
-% {BASH:Graphics}}
+% {{BASH:Graphics}}
 merchant chest fix.esp
 MG Recommendation Skip.esp
 Milt-SecretStorage.esp
@@ -5330,6 +5330,7 @@ A Qrazy Quest.esp
 AleswellHomeQuest.esp
 AL_Maverick.esp
 Along Came A Spider.esp
+alto angelos proveing ground.esp
 ALTshack02.esp
 SKY.esp
 house.esp
@@ -6368,16 +6369,28 @@ nordinkarst_1.0.1_dv.esp
 
 NNWAREAyleidDungeons_Series1EV.esp
 NNWAREAyleidDungeons_Series1DV.esp
+NNWAEDungeons-Series2EV.esp
+NNWAEDungeons-Series2DV.esp
 NNWARE01EV-Sercen.esp
+? Obselete, update to series 2+.
 NNWARE02EV-Trumbe.esp
+? Obselete, update to series 2+.
 NNWARE03EV-Piukanda.esp
+? Obselete, update to series 2+.
 NNWARE04EV-Veyond.esp
+? Obselete, update to series 2+.
 NNWARE05EV-Bawn.esp
+? Obselete, update to series 2+.
 NNWARE01-Sercen.esp
+? Obselete, update to series 2+.
 NNWARE02-Trumbe.esp
+? Obselete, update to series 2+.
 NNWARE03-Piukanda.esp
+? Obselete, update to series 2+.
 NNWARE04-Veyond.esp
+? Obselete, update to series 2+.
 NNWARE05-Bawn.esp
+? Obselete, update to series 2+.
 \EndGroup\\
 
 \BeginGroup\: Quests O
@@ -9375,6 +9388,7 @@ Resurrect.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
+sjdDetectArrow.esp
 Smite of Order.esp
 Special Abilities.esp
 SpellDeflection.esp
@@ -11427,7 +11441,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 bgIntegrationEV.esp
 ? Requires LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:NPCFaces}} and deactivate
+% {{BASH:NpcFaces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 \EndGroup\\
@@ -12325,13 +12339,13 @@ NRB4 OCLR Road Record.esp
 
 CUMoreDurableArmor.esp
 Bashed Delayers - MERGE ONLY.esp
-% {BASH:Filter}}
+% {{BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 Bashed Delayers E - MERGE ONLY.esp
-% {BASH:Filter}}
+% {{BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 Bashed Delayers NE - MERGE ONLY.esp
-% {BASH:Filter}}
+% {{BASH:Filter}}
 ? Must be merged into the bashed patch in Wrye Bash
 CoreRandmonClothing4Npcs.esp
 % {{BASH:Filter,Invent,IIM}}

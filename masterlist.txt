@@ -888,7 +888,7 @@ ln.esp
 lninroot.esp
 Louder Nirns.esp
 Symphony of Violence.esp
-? May cause CTDs when used with Deadly Reflex. Unverified.
+? May cause CTDs when used with Deadly Reflex. Merging it into the bashed patch with Wrye Bash *May* fix it.
 Echo_ChapelChant.esp
 AmbientTownSounds.esp
 Ambient Inns, 0.1.esp
@@ -1644,6 +1644,7 @@ Mud Crabs!_MMM.esp
 ? Use only one Mud Crabs! file
 Mud Crabs!_OOO.esp
 ? Use only one Mud Crabs! file
+My Voice Extender.esp
 \EndGroup\\
 
 \BeginGroup\: Base N
@@ -2995,6 +2996,7 @@ M&BShields.esp
 MandBSwords.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
+mageitems.esp
 Mage Leather Armor.esp
 MagicElvenCapes1a.esp
 Materia.esp
@@ -6724,6 +6726,7 @@ EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
 
 (DC) The Pride of Wolfs Gate.esp
+(DC) The Way of the Necromancer - Light.esp
 TheFeedBag.esp
 TheForgottenShields.esp
 TheForgottenShields_delayer.esp
@@ -7303,6 +7306,7 @@ FCOM_ruin.esp
 FCOM_slofsrobetrader.esp
 ? Requires 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
+% {{BASH:Relations}}
 ? Requires 'Origin of the Mages Guild.esp'.
 ? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
 FCOM_OMGSRT.esp
@@ -9768,6 +9772,7 @@ Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Panzer_Kleidung_03.esp
+Soolie'sBetterEnchantmentEffects.esp
 Staffcraft.esp
 svaReEnch_1C.esp
 \EndGroup\\
@@ -12299,7 +12304,7 @@ Argonians and Khajiit Lose Tails no More Script.esp
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 Argonians and Khajiit Lose Tails no More Script - Anwolf.esp 
 Argonians and Khajiit Lose Tails no More Script - Lilmothiit.esp
-
+Argonians and Khajiit Lose Tails no More.esp
 
 MassA.I.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.
@@ -12547,6 +12552,8 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 
 \BeginGroup\: Last Files
 \''''''''''
+LandMagicPatch.esp
+\Has to go last but before map changing mods.
 MWakeMap.esp
 MergedMaps.esp
 Elsweyr Color Map.esp

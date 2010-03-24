@@ -244,22 +244,22 @@ Book Jackets Oblivion - BP - SSBFL.esp
 bookplacing.esp
 
 Oblivion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 SoVvM Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Oblivion_SI Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TRoN Rwalk.esp
 ? Outdated, upgrade to Sensual Walks.
 TRoN Swalk.esp
 ? Outdated, upgrade to Sensual Walks.
 TRoN Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 \Probably doesn't need to load this early but the authors recommend it.
 
 !Oblivion_PL.esp
@@ -274,7 +274,7 @@ TRoN Vwalk.esp
 xeoex.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 xeoex Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
@@ -308,7 +308,7 @@ TNR - ALL RACES FINAL.esp
 ? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR ALL RACES FINAL Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TNR - All Races for OOO.esp
 ? Use this instead TNR ALL RACES esps for OOO
 ? Not need if use Cobl Races TNR.esp
@@ -319,11 +319,11 @@ TNR - ShiveringIsles.esp
 TNR - ShiveringIsles no helms.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 TNR - ShiveringIsles no helms Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Oblivion_SI Vwalk Full TNR.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 TweakedGenericFaces.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
@@ -337,7 +337,7 @@ Younger Hotter NPC's 0.99.esp
 Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Younger Hotter NPC's v1.0 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_DB_Addon.esp
@@ -349,22 +349,22 @@ Beautiful_Women_Vampires.esp
 Beautiful_Women_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_DB_Addon Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful_Women_NiceOnly Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful_Women_NotSoNice_Bonus.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Beautiful_Women_NotSoNice_Bonus Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful_Women_SI Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful_Women_Vampires_50 VWalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Beautiful Women Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Handsome_Gents_DB_Addon.esp
@@ -388,7 +388,7 @@ LD_Patrick_Stewart_Sean_Bean.esp
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 beardy.esp
 % {{BASH:NpcFaces}}
 \EndGroup\\
@@ -529,9 +529,9 @@ SI Public Music.esp
 % {{BASH:C.Music}}
 
 DLCShiveringIsles Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 DLCShiveringIsles Vwalk DG_DS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 MOBS.esp
 % {{BASH:Stats}}
@@ -629,7 +629,7 @@ MrSiikaRabbits.esp
 >Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
 >Francesco's Optional Leveled Guards.esp
->: Requires Shivering Isles expansion.
+>: Shivering Isles expansion.
 >Francesco's Dark Seducer Weapons Patch.esp
 >% {{BASH:Delev, Relev}}
 >FranDarkSeducerWeapFix.esp
@@ -637,20 +637,20 @@ MrSiikaRabbits.esp
 >FranSeducerScriptFix.esp
 
 FCOM_Francescos.esp
-: Francesco's Leveled Creatures-Items 4.5b required.
+: Francesco's Leveled Creatures-Items 4.5b.
 FCOM_FrancescosItemsAddOn.esp
-: Francesco's Leveled Creatures-Items 4.5b required.
-: Francesco's supplementary addon package required.
+: Francesco's Leveled Creatures-Items 4.5b.
+: Francesco's supplementary addon package.
 FCOM_FrancescosNamedBosses.esp
-: Francesco's Leveled Creatures-Items 4.5b required.
+: Francesco's Leveled Creatures-Items 4.5b.
 
 >Fran Armor Add-on.esp
 >% {{BASH:Invent}}
->: Requires FCOM_UnofficialFranArmorAddon.esp
->: Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
->: Francesco's Leveled Creatures-Items 4.5b required.
+>: FCOM_UnofficialFranArmorAddon.esp
+>: the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
+>: Francesco's Leveled Creatures-Items 4.5b.
 >Fran_Lv30Item_Maltz.esp
->: Francesco's Leveled Creatures-Items 4.5b required.
+>: Francesco's Leveled Creatures-Items 4.5b.
 
 FranOBSEConfig.esp
 OMOBS_FRAN.esp
@@ -782,11 +782,11 @@ EnhancedWeather - Darker Nights, 50.esp
 EnhancedWeather - Darker Nights, 80.esp
 ? Use only one 'Darker Nights' plugin.
 Enhanced Weather - Across-The-Borders Mods Patch.esp
-: Requires OBSE v18+.
+: OBSE v18+.
 EW_WeatherOrb.esp
-: Requires Enhanced Weather.
+: Enhanced Weather.
 EnhancedWeather - Enhanced Seasons.esp
-: Requires ScreenEffects.
+: ScreenEffects.
 EnhancedWeather - SI.esp
 ? Outdated. Upgrade to the latest version of Enhanced Weather.
 EnhancedWeatherSIOnly.esp
@@ -819,7 +819,7 @@ All Natural - NW + AWS.esp
 All Natural - EW + NW + AWS.esp
 ? Only use one All Natural weather plugin.
 All Natural - Enhanced Seasons.esp
-: requires ScreenEffects.
+: ScreenEffects.
 ? Obsolete. Update to latest version of All Natural.
 All Natural - Debug Ring.esp
 ? Obsolete. Update to latest version of All Natural.
@@ -1060,10 +1060,10 @@ IWRRAMarketDistrict.esp
 Sunlit Interiors 1.31.esp
 
 aKALAmbientDungeonsBeta2.esp
-: requires 'ScreenEffects' and 'You Are Here'.
+: 'ScreenEffects' and 'You Are Here'.
 ? Outdated, incompatible with other ScreenEffects mods. Upgrade to latest version of Ambient Dungeons.
 AmbientDungeons.esp
-: OBSE and 'You Are Here' required. ScreenEffects required for versions below 1.3.
+: OBSE and 'You Are Here'. ScreenEffects for versions below 1.3.
 \EndGroup\\
 
 \BeginGroup\: General Base Mods
@@ -1175,7 +1175,7 @@ Better Wine SI.esp
 $ Not compatible with OOO. OOO contains a similar mod.
 bgShaderStandAloneEV.esp
 % {{BASH:Graphics}}
-: requires Wrye Bash if using spell mods.
+: Wrye Bash if using spell mods.
 Black Screen Sneak Fix.esp
 Black Sheep.esp
 Blackpowder_bombs v04.esp
@@ -1239,9 +1239,9 @@ EnableFreeLook.esp
 EnableFreeLookNoWheel.esp
 ? Only use if you do not have a mouse wheel
 EnableFreeLookOBSE.esp
-: requires OBSE.
+: OBSE.
 tw1_fov_adjustor.esp
-: requires OBSE.
+: OBSE.
 
 CATSDeerPeltsAndAntlers.esp
 ? May not be compatible with OOO or MMM Hunting and Crafting.
@@ -1419,7 +1419,7 @@ ChallangingThieveryNoHouseAdditions.esp
 
 Daggerfallbooks.esp
 Daedric Wargames.esp
-: requires Shivering Isles expansion.
+: Shivering Isles expansion.
 Damsels In Distress.esp
 DID3_DoubleTrouble.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
@@ -1518,7 +1518,7 @@ Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
-: requires Bashed Patch.
+: Bashed Patch.
 \EndGroup\\
 
 \BeginGroup\: Base J
@@ -1538,7 +1538,7 @@ JQ-TeaSet-DV.esp
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
  Katana Store.esp
-: requires patch to use with Kalikuts
+: patch to use with Kalikuts
 KB - House of Wonders.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
@@ -1628,11 +1628,11 @@ Immersive Music.esp
 Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
-: requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
+: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 ? Old version, upgrade to version 2+.
 BetterMusicSystem(SI).esp
 CBMS_V2.esp
-: requires OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
+: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
 
 Better Beggars.esp
 
@@ -1709,9 +1709,9 @@ Pegasus.esp
 AltPegasus.esp
 Personal Torture Girl.esp
 P-Froggys Corpse Carry DV.esp
-: requires OBSE.
+: OBSE.
 P-Froggys Corpse Carry EV.esp
-: requires OBSE.
+: OBSE.
 P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
@@ -1813,7 +1813,7 @@ Practice_Dummy0.9.5.esp
 
 RingofNightEye.esp
 Rings of Infiltration.esp
-: requires OBSE 16+.
+: OBSE 16+.
 RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
@@ -1979,7 +1979,7 @@ Piratelords Trade Fixes.esp
 Living Economy.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
-? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. Requires Shivering Isles expansion.
+? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. Shivering Isles expansion.
 SI Living Economy.esp
 ? Check for newer version.
 Living Economy - Items.esp
@@ -2003,31 +2003,31 @@ moDem's City Life.esp
 Oblivion Alive.esp
 ? May be incompatible with BC - untested.
 Oblivion Alive Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
 Crowded Cities 15 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
 
 Crowded Roads.esp
 Crowded Roads Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Roads 7.esp
 Crowded Roads 7 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Roads 15.esp
 Crowded Roads 15 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Roads 23.esp
 Crowded Cities 30 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Roads 23 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
@@ -2049,7 +2049,7 @@ travellers c.esp
 travellers d.esp
 ? Old, update to 'travellers-new balance.esp'.
 travellers-new balance Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Populated Prisons.esp
 PCTM.esp
@@ -2178,7 +2178,7 @@ DLCOrrery Rwalk.esp
 DLCOrrery Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCOrrery Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -2220,13 +2220,13 @@ DLCMehrunesRazor Rwalk.esp
 DLCMehrunesRazor Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 DLCMehrunesRazor Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
 
@@ -2249,7 +2249,7 @@ GrimbotsSpellTomes.esp
 
 Nude.esp
 Nude Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 LeoGoBezerk_MakeItPorn_UA_v100.esp
 JuvenileMod.esp
 EshmesBodiesV2.esp
@@ -2452,7 +2452,7 @@ Angelic Alliance.esp
 ArchersDesire2.esp
 ArkaySword.esp
 Armors of the Black Moon - EV.esp
-: requires Shivering Isles
+: Shivering Isles
 
 ArmamentariumTest.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
@@ -2905,7 +2905,7 @@ JCapesBonus.esp
 % {{BASH:Invent}}
 Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
-: requires OBSE
+: OBSE
 JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Johnn's Cutlass Mod.esp
@@ -3275,7 +3275,7 @@ Kit Rae Weaponry v0_4.esp
 Realistic Persuasion1.8.esp
 PlukeRoleplayingPersuasion.esp
 SpeechcraftEnhanced.esp
-: requires OBSE.
+: OBSE.
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
@@ -3461,158 +3461,158 @@ ZMP NoError.esp
 \BeginGroup\: Items Late
 
 Thieves Arsenal.esp
-: requires OBSE.
+: OBSE.
 Knock Out Arrows.esp
 Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
 Robes Staves and Fists.esp
-: requires OBSE. Not compatible with any mod that uses 'ModPCSpellEffectiveness'.
+: OBSE. Not compatible with any mod that uses 'ModPCSpellEffectiveness'.
 \BeginGroup\: RealSwords
 
 RealSwords - Argonian HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Argonian HI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Argonian LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Argonian LO.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Bosmer HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Bosmer HI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Bosmer LO.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Bosmer LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Breton LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Breton LO.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Breton HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Breton HI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Goblin.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Combined.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Khajiit HI-NPC v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Khajiit LO-NPC v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Khajiit LO v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Khajiit HI v1.3.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Nord HI-NPC SI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord HI-SI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord HI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord LO-NPC SI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord LO-SI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Nord LO.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Orc HI_NPC v1.0.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Orc HI v1.0.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Orc LO v1.0.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Orc LO-NPC v1.0.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 
 RealSwords - Redguard HI-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Redguard LO-NPC.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Redguard HI.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 RealSwords - Redguard LO.esp
 * Delete. Use FCOM_RealSwords instead.
-: requires Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH:Invent}} if using overhaul mods (except FCOM).
 \EndGroup\\
 
@@ -3623,7 +3623,7 @@ Mage Equipment - No Manni.esp
 ? Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
 ? If using Mage Equipment Lite load after SRT.
 Francesco's Mage Equipment.esp
-? Use either this or Mage Equipment, but not both. Requires Franseco's leveled creatures/items mod.
+? Use either this or Mage Equipment, but not both. Franseco's leveled creatures/items mod.
 
 \To be alphabetically sorted sometime.
 
@@ -3993,7 +3993,7 @@ GizmodianSorceress.esp
 
 Shivering Isles Horse.esp
 CDM-Horses.esp
-: Shivering Isles required.
+: Shivering Isles.
 Kylin.esp
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
@@ -4118,7 +4118,7 @@ FastHorse v03.esp
 
 AncientTowers.esp
 AncientTowers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 AncientTowersNoExnem.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
@@ -4154,13 +4154,13 @@ DLCThievesDen Rwalk.esp
 DLCThievesDen Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 DLCThievesDen Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
@@ -4178,10 +4178,10 @@ Thievesden_mobs.esp
 <Fran Armor Add-on.esp
 <% {{BASH:Invent}}
 <? Use FCOM_UnofficialFranArmorAddon.esp instead of the tag if using FCOM
-<: requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
-<: Francesco's Leveled Creatures-Items 4.5b required.
+<: the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
+<: Francesco's Leveled Creatures-Items 4.5b.
 <Fran_Lv30Item_Maltz.esp
-<: Francesco's Leveled Creatures-Items 4.5b required.
+<: Francesco's Leveled Creatures-Items 4.5b.
 
 Francesco's More Wilderness Life.esp
 * Delete. Not FCOM compatible.
@@ -4251,14 +4251,14 @@ KDCircletsOOOOptimized - NPC Equip.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 FCOM_KDCircletsOOOOptimizedNPCEquip.esp
-: requires 'KDCircletsOOOOptimized - NPC Equip'.
+: 'KDCircletsOOOOptimized - NPC Equip'.
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 ExnemRuneskulls.esp
->: requires 'FCOM_ExnemRuneskulls.esp'.
+>: 'FCOM_ExnemRuneskulls.esp'.
 ? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 FCOM_ExnemRuneskulls.esp
-: requires 'ExnemRuneskulls.esp'.
+: 'ExnemRuneskulls.esp'.
 ? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 
 MMM_Runeskull_Rebalance_BETA2.esp
@@ -4266,11 +4266,11 @@ MMM_Runeskull_Rebalance_BETA2.esp
 FCOM_AyleidCoinDelev.esp
 
 Slof's Oblivion Robe Trader.esp
->: requires 'FCOM_SlofsRobeTrader.esp'.
+>: 'FCOM_SlofsRobeTrader.esp'.
 
 Tamrielic_Ingredients_cOMbo.esp
 FCOM_TamrielicIngredients.esp
-: requires 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
+: 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
 
 Cobl Main DE.esp
 Cobl Main RUS.esp
@@ -4278,22 +4278,22 @@ Cobl Glue.esp
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp'.
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
-: requires Shivering Isles expansion.
+: Shivering Isles expansion.
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 OOO 1.32-Cobl.esp
 FCOM_Cobl.esp
-: requires 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
+: 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
 ? Do not use COBL and Tamerielic Ingredients at the same time.
 Cobl Tweaks.esp
 * Delete. Already included in 'FCOM_COBL.esp'.
 COBL-FransCre.esp
 * Delete. Not compatible with FCOM.
-: requires COBL and Fran's.
+: COBL and Fran's.
 ? Remember to use the SI or no-SI versions as appropriate (same file names).
 COBL-FransNewCre.esp
 * Delete. Not compatible with FCOM.
-: requires COBL and Fran's + Fran's addon.
+: COBL and Fran's + Fran's addon.
 ? Remember to use the SI or no-SI versions as appropriate (same file names).
 GM-PISC.esp
 ? German mod.
@@ -4308,19 +4308,19 @@ P1DseeYouSleep - VVAdvanced.esp
 PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
->: requires 'FCOM_BobsArmory.esp'.
+>: 'FCOM_BobsArmory.esp'.
 Cheat Bob's Armory Oblivion.esp
 FCOM_BobsArmory.esp
-: requires 'Bob's Armory Oblivion.esp'.
+: 'Bob's Armory Oblivion.esp'.
 
 Loth's Blunt Weapons.esp
 * Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' and 'FCOM_LothsBluntWeapons.esp'.
 Loth's Blunt Weapons- Mobs.esp
 * Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' and 'FCOM_LothsBluntWeapons.esp'.
 Loth's Blunt Weapons for NPCs.esp
->: requires 'FCOM_LothsBluntWeapons.esp'.
+>: 'FCOM_LothsBluntWeapons.esp'.
 FCOM_LothsBluntWeapons.esp
-: requires 'Loths Blunt Weapons for NPCs.esp'.
+: 'Loths Blunt Weapons for NPCs.esp'.
 
 Oblivion WarCry.esp
 % {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
@@ -4328,7 +4328,7 @@ Oblivion WarCry.esp
 ? German version.
 Oblivion WarCry EV.esp
 % {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
->: requires either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
+>: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 FCOM_WarCryNoSpawn.esp
@@ -4396,7 +4396,7 @@ DBOO - OOO.esp
 Fine Weapons for OOO.esp
 
 Oscuro's_Oblivion_Overhaul Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 OMOBS.esp
 % {{BASH:Stats}}
@@ -4406,7 +4406,7 @@ OMOBS_Optionial Combat Settings.esp
 OMOBS Optional Combat Settings.esp
 
 mg19obsefix.esp
-: requires OBSE
+: OBSE
 
 OOO CheapWine Vanilla Effects.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -4674,7 +4674,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Durability & Damage.esp
 <$ Don't use with OOO. Already integrated into OOO.
 <Mart's Monster Mod - Fran's leveled quests.esp
-<: requires a Fran's install with the Leveled Quests option.
+<: a Fran's install with the Leveled Quests option.
 <Mart's Monster Mod - Less Bone Loot.esp
 <Mart's Monster Mod - Less Rats.esp
 <Mart's Monster Mod - Less Reavers.esp
@@ -4772,19 +4772,19 @@ Mart's Monster Mod - Diverse Runeskulls Loot.esp
 ? Not compatible with MMM Gems & Gem Dust or MMMforOOO
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
-: requires MMM and MMM Gems & Gem Dust
+: MMM and MMM Gems & Gem Dust
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
-: requires MMM and MMM Gems & Gem Dust
+: MMM and MMM Gems & Gem Dust
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
-: requires OOO.esm
-: requires MMMforOOO or FCOM.
+: OOO.esm
+: MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
-: requires OOO.esm
-: requires MMMforOOO or FCOM.
+: OOO.esm
+: MMMforOOO or FCOM.
 ? Not compatible with MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 
@@ -4814,7 +4814,7 @@ Master-Crafting-1.1-MMM.esp
 Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
-: requires 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
+: 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
 ? Obsolete. Upgrade to latest version and remove.
 \EndGroup\\
 
@@ -4847,25 +4847,25 @@ TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 TamrielTravellers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TamrielTravellers4MMM.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 TamrielTravellers4MMM Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Travellers4MMMHostileFactions.esp
 * Delete. Not FCOM compatible.
 TamrielTravellersFactionAll.esp
 * Delete. Not FCOM compatible.
 TamrielTravellers4000.esp
->: requires 'FCOM_TamrielTravelers.esp'.
+>: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
->: requires 'FCOM_TamrielTravelers.esp'.
+>: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TamrielTravellersItemsNPC.esp
 % {{BASH:Filter,Delev,Relev}} and deactivate.
 TamrielTravellersItemsCobl.esp
-: requires COBL.
+: COBL.
 TamrielTravellersItemsVendor.esp
 % {{BASH:Filter,Delev,Relev}} and deactivate.
 TamrielTravellersItemsUnscaled.esp
@@ -4873,16 +4873,16 @@ TamrielTravellersItemsUnscaled.esp
 ? Not overhaul mod compatible.
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
-: requires Shivering Isles expansion.
+: Shivering Isles expansion.
 ShiveringIsleTravellers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
 ShiveringIsleTravellersFriendlyFactions.esp
 ShiveringIsleTravellersFriendlyFactions4MMM.esp
 TamrielTravellersHorseTextures.esp
 % {{BASH:NoMerge,Graphics}} and deactivate.
 FCOM_TamrielTravelers.esp
-: requires 'TamrielTravellers4OOO.esp'
+: 'TamrielTravellers4OOO.esp'
 
 
 kuerteeWanderingEncounters.esp
@@ -4898,40 +4898,40 @@ FCOM_DiverseGuardUnity.esp
 Choices and Consequences - FCOM - Diverse Guards.esp
 ? Obsolete. Upgrade to latest version and remove.
 FCOM_BobsGuardUnity.esp
-: requires 'Bob's Armory Oblivion.esp'.
+: 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
-: requires Shivering Isles expansion.
+: Shivering Isles expansion.
 FCOM_Archery.esp
 % {{BASH:Stats}}
 FCOM_ArcheryArmamentarium.esp
-: requires the Armamentarium Complete mod.
+: the Armamentarium Complete mod.
 % {{BASH:Stats}}
 FCOM_Archery_Armamentarium.esp
 % {{BASH:Stats}}
 FCOM_Archery_Artifacts.esp
 % {{BASH:Stats}}
 FCOM_ArcheryRealSwords.esp
-: requires 'FCOM_Realswords.esp'.
+: 'FCOM_Realswords.esp'.
 % {{BASH:Stats}}
 FCOM_Archery_RealSwords.esp
-: requires 'FCOM_Realswords.esp'
+: 'FCOM_Realswords.esp'
 % {{BASH:Stats}}
 FCOM_ArcheryHunting&Crafting.esp
-: requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+: 'Mart's Monster Mod - Hunting & Crafting.esp'.
 % {{BASH:Stats}}
 FCOM_Archery_MMM_H&C.esp
-: requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+: 'Mart's Monster Mod - Hunting & Crafting.esp'.
 % {{BASH:Stats}}
 FCOM_Archery_Deadly.esp
 % {{BASH:Stats}}
 FCOM_Archery_Deadly_Armamentarium.esp
-: requires the Armamentarium Complete mod.
+: the Armamentarium Complete mod.
 % {{BASH:Stats}}
 FCOM_Archery_Deadly_RealSwords.esp
-: requires 'FCOM_Realswords.esp'
+: 'FCOM_Realswords.esp'
 % {{BASH:Stats}}
 FCOM_Archery_Deadly_Artifacts.esp
-: requires the Artifacts mod.
+: the Artifacts mod.
 % {{BASH:Stats}}
 
 Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
@@ -4951,7 +4951,7 @@ FCOM_VanillaItemReleveler.esp
 
 TIE.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.RecordFlags,Delev,Invent,NpcFaces,Relations,Relev,Scripts}}
-: requires compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
+: compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 TIE+Frans NPC Inventory.esp
 % {{BASH:NoMerge}}
 FCOM_T.I.E.esp
@@ -4971,7 +4971,7 @@ TIE4MODSMagicSettings.esp
 TIE4MODSGameplaySettings.esp
 
 TIE In.esp
-: requires FCOM.
+: FCOM.
 ? Recommend avoid using TNR.
 TIE In - Frans.esp
 ? Modular development plugin. Do not use with 'TIE In - FCOM Convergence.esp'.
@@ -5044,7 +5044,7 @@ Atmospheric Oblivion - OOO Patch.esp
 FineWeapons for OOO.esp
 Fransfemale.esp
 Jade Dishes for MMM - HnC.es
-: requires original Jade Dishes mod.
+: original Jade Dishes mod.
 LoadingScreens-OOO.esp
 % {{BASH:Graphics,NoMerge}}
 MMM Pelt Extension.esp
@@ -5200,11 +5200,11 @@ Suliin V1.2.esp
 Quelldorf 1.5.esp
 ? Not compatible with Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
-: requires 'Quelldorf-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
+: 'Quelldorf-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 Quelldorf ohne Schiff1.5.esp
 ? Not compatible with Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
-: requires 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
+: 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 
 AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
@@ -5225,7 +5225,7 @@ GP_Safe Water.esp
 zzzImperialCityUpgradeb.esp
 
 Slof's Goth Shop.esp
-: requires original plugins 'Slof's Oblivion Goth Shop.esp' , 'Slof's Oblivion Goth Shop II.esp' , 'Slof's Giger Armour.esp', deactivated.
+: original plugins 'Slof's Oblivion Goth Shop.esp' , 'Slof's Oblivion Goth Shop II.esp' , 'Slof's Giger Armour.esp', deactivated.
 
 Lyre's Imperial City Bab Boutique.esp
 BabShop.esp
@@ -5309,7 +5309,7 @@ A Sorceress Love 1_1.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
-: requires Shivering Isles
+: Shivering Isles
 Adaman Fortress.esp
 A_dark_elvish_cave-5121.esp
 AdenseEpicDungeon.esp
@@ -5395,7 +5395,7 @@ AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 Aqvatika.esp
 Aqua_City_01.esp
-: requires Shivering Isles
+: Shivering Isles
 AranMathi.esp
 Aranmathi Druid Version v.1.2.esp
 ArboretumHouse.esp
@@ -5446,7 +5446,7 @@ Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
 AzurasServices_de.esp
@@ -5476,7 +5476,7 @@ BanditSlaveTrade.esp
 Barbada_Island.esp
 Basement for Cobl.esp
 Basement for Cobl - Sheep Wool addition.esp
-: requires MMM
+: MMM
 Basement_Skingradhouse V1-0.esp
 Basement_leyawiinhouse V1-1.esp
 Basement_Imperialshack V1-0.esp
@@ -5569,7 +5569,7 @@ Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 BXX_Mines.esp
 BXX Tamriel Resource Exchange.esp
-: requires OBSE.
+: OBSE.
 \EndGroup\\
 
 \BeginGroup\: Quests C
@@ -5603,9 +5603,9 @@ CDEP-UnderpallCave.esp
 CDM-The Necromantic Experience.esp
 CDM-Necromancy.esp
 CDM-Necromancy-No-Undead-Association.esp
-: requires CDM-Necromancy.esp
+: CDM-Necromancy.esp
 CDM-Necromancy Vendors OOO.esp
-: requires Oscuro's Oblivion Overhaul.esm and CDM-Necromancy.esp
+: Oscuro's Oblivion Overhaul.esm and CDM-Necromancy.esp
 CDM-BMG.esp
 CDM-Wanted Criminals.esp
 CDM-Books and Markers.esp
@@ -5768,26 +5768,26 @@ Extended Imperial City.esp
 Extended Imperial City point 5.esp
 Extended Imperial City Version 1.0.esp
 Extended Imperial City Version 1.0 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Extended Chorrol.esp
 Extended Chorrol Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Extended Skingrad.esp
 Extended Skingrad Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Extended City Series Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Extended NPCs Merge.esp
 EvilLair.esp
 Abriael_Human.esp
-\shouldn't go here but one version of eyja.esp requires it so :shrug:
+\shouldn't go here but one version of eyja.esp it so :shrug:
 BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
 eyja.esp
 eyja Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Eyja Abriael Human Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -5896,7 +5896,7 @@ Halcyon House.esp
 Halls of Unrelent.esp
 Hammerfell.esp
 Hammerfell Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
@@ -5918,7 +5918,7 @@ HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair}}
 Hentai Mania Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
@@ -5938,7 +5938,7 @@ Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
 Heroes of Cyrodiil Part 5.esp
 01_Helms_Deep.esp
-: requires 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
+: 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
 03_Helms_Deep.esp
 Hunter's Haven File 1.esp
@@ -5946,7 +5946,7 @@ Hunter's Haven File 1.esp
 HeartoftheDead.esp
 % {{BASH:Hair}}
 HeartOftheDead Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 OC-HOD-Patch.esp
 ? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
 HOD_delayer.esp
@@ -6055,7 +6055,7 @@ ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Imperial City Ranch.esp
 
@@ -6176,7 +6176,7 @@ Kvatch Rebuilt Rwalk.esp
 Kvatch Rebuilt Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -6226,7 +6226,7 @@ OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
 GlenvarCastle Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
@@ -6376,7 +6376,7 @@ NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
 Nine Divines Robes.esp
-: requires OBSE
+: OBSE
 Nocturne.esp
 NocturneCallSteed.esp
 nordinkarst_1.0.1_en.esp
@@ -6492,7 +6492,7 @@ Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
 Region Revive - Lake Rumare.esp
 ? Incompatible with most Weye-related mods.
-? If used with 'xulImperialIsle.esp', requires 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
 Region Revive - Lake Rumare - OOO LockBash.esp
 Return Of Shadows.esp
 ReneersContainerMod.esp
@@ -6522,7 +6522,7 @@ RumpleMod Rwalk.esp
 RumpleMod Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 RumpleMod Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 RunedRobes.esp
 runestone.esp
 RuneTower.esp
@@ -6638,8 +6638,8 @@ Sunken Fortress.esp
 Sutch Reborn.esp
 Sseths Resource Foundry.esp
 SSS_1.0.esp
-: requires Shivering Isles.
-: requires 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
+: Shivering Isles.
+: 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 Star's Rest.esp
 Star's Rest - Ayleid Well.esp
@@ -6654,12 +6654,12 @@ SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
 Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
 ? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil.
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 Sheogorath`s Artifacts.esp
 \EndGroup\\
@@ -6672,7 +6672,7 @@ TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
 Tantrivaylia.esp
 Tantrivaylia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
@@ -6688,7 +6688,7 @@ TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
@@ -6761,7 +6761,7 @@ TR_Stirk_v0.9.esp
 TR_Stirk.esp
 % {{BASH:Graphics}}
 Stirk_Compatibility_Patch.esp
-: requires TR_Stirk.
+: TR_Stirk.
 FCOM_Stirk.esp
 Transmutation.esp
 treasure maps v1.esp
@@ -6835,7 +6835,7 @@ Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
 VHBloodlines 1.2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
@@ -6909,7 +6909,7 @@ WhiteRoseLodgev2.0.esp
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
 Cyrodiil Travel Services Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Fairies.esp
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
@@ -7049,7 +7049,7 @@ BrumaMGRestored Rwalk.esp
 BrumaMGRestored Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 BrumaMGRestored Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
@@ -7060,11 +7060,11 @@ DLCFrostcrag Rwalk.esp
 DLCFrostcrag Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCFrostcrag Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 DLCfrostcrag Reborn Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 DLCFrostcrag Spire Revisited Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -7108,13 +7108,13 @@ Knights Rwalk.esp
 Knights Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Knights Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -7124,7 +7124,7 @@ MOBS Knights.esp
 SM Plugin Refurbish - Knights.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 SM Plugin Refurbish(Merged).esp
-: requires all DLCs and Shivering Isles to be installed and active.
+: all DLCs and Shivering Isles to be installed and active.
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
@@ -7184,7 +7184,7 @@ CybHarder.esp
 CybHardest.esp
 ? only use one Cybiades difficulty plugin
 Cybiades Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Damarask.esp
 Castle_Knightstone.esp
@@ -7211,7 +7211,7 @@ OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 ? Upgrade to latest version of Ruined Tail's Tale.
 RTT Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 MTCExpandedVillages.esp
 ? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
@@ -7226,7 +7226,7 @@ LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 The Lost Spires Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp
@@ -7249,18 +7249,18 @@ Ungarion1TheWelkyndSword.esp
 
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
->? FCOM requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
+>? FCOM 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
 Blood&Mud - EE Patch.esp
 Blood&Mud Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Lost Paladins of the Divines.esp
 
 Origin of the Mages Guild.esp
->? FCOM requires 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
+>? FCOM 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 
 The Mystery of the Dulan cult.esp
->? FCOM requires 'FCOM_DulanCult.esp'.
+>? FCOM 'FCOM_DulanCult.esp'.
 
 TheNecromancer.esp
 $ Has some landscape issues with OOO.
@@ -7296,25 +7296,25 @@ Shadowcrest_Vineyard_Guard.esp
 >Mart's Monster Mod - City Defences.esp
 
 FCOM_mightyumbra.esp
-: requires 'Mighty Umbra.esp'.
+: 'Mighty Umbra.esp'.
 FCOM_Blood&Mud.esp
-: requires 'Blood&Mud.esp'.
+: 'Blood&Mud.esp'.
 FCOM_Knights.esp
 % {{BASH:Delev,Relev}}
-: requires DLC 'Knights.esp'.
+: DLC 'Knights.esp'.
 FCOM_WelkyndSwordBlood&Mud.esp
-: requires 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
+: 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
 FCOM_ruin.esp
 FCOM_slofsrobetrader.esp
-: requires 'Slof's Oblivion Robe Trader.esp'.
+: 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
 % {{BASH:Relations}}
-: requires 'Origin of the Mages Guild.esp'.
+: 'Origin of the Mages Guild.esp'.
 ? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
 FCOM_OMGSRT.esp
-: requires both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
+: both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
 FCOM_DulanCult.esp
-: requires 'The Mystery of the Dulan cult.esp'.
+: 'The Mystery of the Dulan cult.esp'.
 Origin of the Mages Guild OOO Patch.esp
 \EndGroup\\
 
@@ -7330,7 +7330,7 @@ BrewHouse.esp
 ? Use v1.5 or later to avoid extensive compatibility issues.
 
 Enhanced Daedric Invasion.esp
->: requires 'FCOM_EnhancedDaedricInvasion.esp'.
+>: 'FCOM_EnhancedDaedricInvasion.esp'.
 
 RoS_Enhanced Daedric Invasion Compatability.esp
 Enhanced Daedric Invasion for FCOM.esp
@@ -7356,16 +7356,16 @@ SummersetLandscapes.esp
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
-: requires OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
+: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ElsweyrAnequina v2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Upgrade to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
-: requires OBSE v0018.
+: OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
@@ -7385,11 +7385,11 @@ Bridges For the Fools.esp
 
 Feldscar.esp
 Feldscar Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Vergayun.esp
 Vergayun Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Faregyl.esp
 % {{BASH:Factions,Relations}}
@@ -7397,12 +7397,12 @@ Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp
 Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TVIcar.esp
@@ -7430,7 +7430,7 @@ WaterfrontMarketNoShack.esp
 
 Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 MTCThievesGrotto.esp
 ? Upgrade to v4.1.
@@ -7441,10 +7441,10 @@ MTCThievesGrottoV4.esp
 MTCThievesGrottoV4.1.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 \BeginGroup\: Landscape and City overhauls
 \----------------------------
@@ -7512,7 +7512,7 @@ xulChorrolHinterland Rwalk.esp
 xulChorrolHinterland Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulChorrolHinterland Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
 TheOrderofNibenay-Chorrol Hinterland patch.esp
@@ -7565,7 +7565,7 @@ xulbravilbarrowfields Rwalk.esp
 xulbravilbarrowfields Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulbravilbarrowfields Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
 Suliin-BravilBarrowfields patch.esp
@@ -7585,7 +7585,7 @@ EtInArkay-LushWoodlands patch.esp
 xulAncientYews.esp
 Unique Landscapes - AncientYews DV.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
-? Use only one Verwen Brewery esp. Requires Unique Landscapes Ancient Yews.
+? Use only one Verwen Brewery esp. Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
 
@@ -7609,7 +7609,7 @@ xulArriusCreek.esp
 Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
 Verwen Brewery UL_AY_AC Compatable.esp
-? Use only one Verwen Brewery esp. Requires the Unique Landscapes Ancient Yews/Arrius Creek patch.
+? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
 HeartoftheDead-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
@@ -7628,7 +7628,7 @@ xulRollingHills_EV Rwalk.esp
 xulRollingHills_EV Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulRollingHills_EV Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
 BeldaElysium-RollingHills patch.esp
@@ -7653,7 +7653,7 @@ xulBrenaRiverRavine Rwalk.esp
 xulBrenaRiverRavine Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulBrenaRiverRavine Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
@@ -7664,7 +7664,7 @@ xulImperialIsle Rwalk.esp
 xulImperialIsle Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 
 xulBlackwoodForest.esp
@@ -7685,12 +7685,12 @@ xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
 Lakewood+AspenWood Patch.esp
 xulAspenWood Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 xulSkingradOutskirts.esp
 Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -7708,7 +7708,7 @@ xul Rwalk Full.esp
 xul Swalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 \EndGroup\\
 
@@ -7855,16 +7855,16 @@ Open Cities + Cats & Rats for Francescos.esp
 ? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
 
 Open Cities New Sheoth.esp
-: requires Shivering Isles expansion.
+: Shivering Isles expansion.
 
 Open Cities Bartholm.esp
-: requires Bartholm.
+: Bartholm.
 
 Open Cities Anvil.esp
 Open Cities Bravil.esp
 
 Open Cities Bravil Blood&Mud.esp
-: requires Bravil Blood&Mud.
+: Bravil Blood&Mud.
 
 Open Cities Bruma.esp
 Open Cities Cheydinhal.esp
@@ -7876,11 +7876,11 @@ Open Cities Outer Districts.esp
 Open Cities Full.esp
 
 Open Cities Full + Bravil Blood & Mud.esp
-: requires Bravil Blood&Mud.
+: Bravil Blood&Mud.
 
 Open Cities Full + Leyawiin Reborn.esp
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
-: requires Bravil Blood&Mud.
+: Bravil Blood&Mud.
 \EndGroup\\
 
 \BeginGroup\: Open Cities Reborn
@@ -7945,17 +7945,17 @@ FightersGuildContracts.esp
 JQ-Fighters_Guild_United.esp
 % {{BASH:Invent}}
 FCOM_FighterGUnited.esp
-: requires Fighters Guild United.
+: Fighters Guild United.
 
 CUO_Chorrol.esp
 CUO_Leyawiin.esp
 
 FCOM_UnofficialFranArmorAddon.esp
-: requires 'Fran Armor Add-on.esp' from 'Unofficial Francesco's Armor'.
+: 'Fran Armor Add-on.esp' from 'Unofficial Francesco's Armor'.
 
 NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
-: requires 'New NPC Clothes 2.6'.
+: 'New NPC Clothes 2.6'.
 KS - Cities FPS Boost.esp
 ? Probably Better Cities incompatible.
 KS - Imperial FPS Boost.esp
@@ -8005,7 +8005,7 @@ NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
-: requires Harvest Flora
+: Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
 DEJ Harvest - Flora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
@@ -8168,13 +8168,13 @@ Cobl Hmm.esp
 Cobl Bookplacement.esp
 Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 CompanionHorseSupport.esp
-: requires OBSE version 17b or higher.
+: OBSE version 17b or higher.
 CompanionHorseSupportFIX forCMPartners.esp
-: requires OBSE version 17b or higher.
+: OBSE version 17b or higher.
 Compass-Disable_POIs.esp
 ? If using Wrye Bash use Bashed Patch tweaker instead.
 Compass-Disable_QuestMarkers.esp
@@ -8248,7 +8248,7 @@ DecoratorAssistant with OBSE v1.11_Unofficial.esp
 Delmar_the_Soulgem_Salesman-5069.esp
 dhsRTent.esp
 dhsRTentwithSorter.esp
-: requires COBL.
+: COBL.
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
 Dousing The Flames.esp
@@ -8262,9 +8262,9 @@ Alchemy Pocket.esp
 DS Alchemy Pouch.esp
 ? Old version upgrade to Portable Sorters
 DS Portable Sorters.esp
-: requires COBL.
+: COBL.
 DS Storage Sacks.esp
-: requires COBL.
+: COBL.
 
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
@@ -8431,7 +8431,7 @@ SoulgemSalvation.esp
 ? Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
 Leviathan Trophy Soulgems.esp
-: requires Tibixe's String Function Collection and Leviathan Soulgems.
+: Tibixe's String Function Collection and Leviathan Soulgems.
 Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
@@ -8746,7 +8746,7 @@ Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
 Sleep to Save.esp
-: requires OBSE 11+.
+: OBSE 11+.
 Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
@@ -8767,24 +8767,24 @@ sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
 
 Storms & Sound - AFK_Weye.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Amajor7 Imperial Furniture.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Bank of Cyrodiil.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Bartholm.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Blood&Mud.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - The Lost Spires.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Shezrie's Villages.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 Storms & Sound - Better Cities.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 ? Better Cities patch is based off Better Cities.esm and can load above all Better Cities esps.
 Storms & Sound Patches.esp
-? Using any of the Storms & Sound patches requires Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 ? This is a custom merge.
 
 ShippingInCyrodiil-08.esp
@@ -9300,7 +9300,7 @@ Chargeable Spells by grmblf.esp
 ClaimThatInterior.esp
 CompanionResurrect.esp
 CompanionRepair.esp
-: requires RefStuff, OBSE.
+: RefStuff, OBSE.
 ConduitMagic.esp
 DeathKightSpells v1_3.esp
 Disenchant.esp
@@ -9350,10 +9350,10 @@ Mark & Recall.esp
 MarkRecall.esp
 ? Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
-: requires OBSE.
+: OBSE.
 Master of Magic.esp
 SNxMarkers.esp
-: requires OBSE.
+: OBSE.
 MindRip.esp
 morespells.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
@@ -9398,7 +9398,7 @@ PoisonSpells.esp
 PoisonSpellsDHealth.esp
 PortableOblivionPortal.esp
 Portal - SI.esp
-: requires Shivering Isles
+: Shivering Isles
 QuickStore.esp
 RD-HeavensWrath-v1-1-Easy.esp
 RDetectLife.esp
@@ -9419,7 +9419,7 @@ Stalk'em SI.esp
 stickyfingers.esp
 TeachSpell.esp
 Teleport.esp
-: requires OBSE.
+: OBSE.
 Telestone.esp
 
 SD Skill Diary rus.esp
@@ -9537,7 +9537,7 @@ Restore Health Addon By Hqthief.esp
 Diverse Effects Icons for SM.esp
 Diverse Effect Icons for SM.esp
 bgMagicEV_Conjuration_for_Supreme_Magicka.esp
-: requires Supreme Magicka.
+: Supreme Magicka.
 ? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
 ? Always place this file after Supreme Magika.
 \EndGroup\\
@@ -9551,10 +9551,10 @@ MidasSpellTomes.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
 MMC_Iphigenia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 MMC_DarkZoe.esp
 MMC_DarkZoe Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Midas Betterholy.esp
 Midas SMHolyHeal.esp
 ? DELETE: Outdated
@@ -9656,10 +9656,10 @@ Useful_TK-10337.esp
 Poison Spells
 Poison FX.esp
 Poison Arrows.esp
-: requires OBSE 15 or higher.
+: OBSE 15 or higher.
 
 Spell Failure Chance.esp
-: requires OBSE.
+: OBSE.
 Fizzle.esp
 
 Jpm's Miniature Necromancy.esp
@@ -9764,7 +9764,7 @@ Better Weapon Enchantments.esp
 Enchantment Master.esp
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp
-: requires OBSE.
+: OBSE.
 Enchantment Reduction.esp
 Mundane Enchantment Adjustment.esp
 Better Enchanting & Spellmaking.esp
@@ -9868,7 +9868,7 @@ kuerteeNPCsAreSuspicious.esp
 
 OOO-OLC_Realistic_Detection.esp
 ? Not compatible with other thievery-detection mods
-: OOO required.
+: OOO.
 M.O.E. - Realistic Law Enforcement - Part One.esp
 M.O.E. - Realistic Law Enforcement - Part Two.esp
 SM Bounty.esp
@@ -9940,9 +9940,9 @@ SuddenViolence_Sprint.esp
 SuddenViolence_ElementalSpells.esp
 
 Push_Spin_Fly.esp
-: OBSE required.
+: OBSE.
 Push_Shove_Die.esp
-: OBSE required.
+: OBSE.
 
 Kythrius_Mod.esp
 Kythrius_Mod_OBSE.esp
@@ -9970,7 +9970,7 @@ erics_triple_damage_fast_for_archers.esp
 erics_double_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
 Fast Arrow Collection.esp
-: requires OBSE 16+
+: OBSE 16+
 Fiery Fists v1.2.esp
 GM's Archery Rebalance.esp
 Archery Rebalance.esp
@@ -10420,64 +10420,64 @@ Let There Be Darkness.esp
 ? Obsolete. Upgrade to version 1.2+.
 % {{BASH:C.Light}}
 Let There Be Darkness - Shivering Isles.esp
-: requires Shivering Isles.
+: Shivering Isles.
 ? Obsolete. Upgrade to version 1.2+.
 % {{BASH:C.Light}}
 Let There Be Darkness - Cyrodiil.esp
 % {{BASH:C.Light}}
 Let There Be Darkness - Cyrodiil + SI.esp
-: requires Shivering Isles.
+: Shivering Isles.
 % {{BASH:C.Light}}
 Let There Be Darkness - Knights.esp
-: requires Knights of the Nine.
+: Knights of the Nine.
 % {{BASH:C.Light}}
 Let There Be Darkness - Mehrunes Razor.esp
-: requires Mehrunes Razor DLC
+: Mehrunes Razor DLC
 % {{BASH:C.Light}}
 Let there be Darkness All Merge.esp
 ? Merge requiring KOTN, Shivering Isles and Mehrunes Razor.
 % {{BASH:C.Light}}
 Let There Be Darkness - Thieves Den.esp
-: requires Thieves Den.
+: Thieves Den.
 % {{BASH:C.Light}}
 Let There Be Darkness - OOO.esp
-: requires Oscuro's Oblivion Overhaul.
+: Oscuro's Oblivion Overhaul.
 % {{BASH:C.Light}}
 Let There Be Darkness - Kvatch Rebuilt.esp
-: requires Kvatch Rebuilt.
+: Kvatch Rebuilt.
 % {{BASH:C.Light}}
 Let There Be Darkness - Curse of Hircine.esp
-: requires Curse of Hircine.
+: Curse of Hircine.
 % {{BASH:C.Light}}
 Let There Be Darkness - Glenvar Castle.esp
-: requires Glenvar Castle.
+: Glenvar Castle.
 % {{BASH:C.Light}}
 Let There Be Darkness - The Elder Council.esp
-: requires The Elder Council.
+: The Elder Council.
 % {{BASH:C.Light}}
 Let There Be Darkness - Thievery.esp
-: requires Thievery in the Imperial City.
+: Thievery in the Imperial City.
 % {{BASH:C.Light}}
 Let There Be Darkness - VH Bloodlines.esp
-: requires Verona House Bloodlines.
+: Verona House Bloodlines.
 % {{BASH:C.Light}}
 Let There Be Darkness - Lost Spires.esp
-: requires The Lost Spires.
+: The Lost Spires.
 % {{BASH:C.Light}}
 Let There Be Darkness - Elsweyr.esp
-: requires Elsweyr Deserts of Anequina.
+: Elsweyr Deserts of Anequina.
 % {{BASH:C.Light}}
 Let There Be Darkness - UL Colovian Highlands.esp
-: requires UL Colovian Highlands.
+: UL Colovian Highlands.
 % {{BASH:C.Light}}
 Let There Be Darkness - UL Lost Coast.esp
-: requires UL Lost Coast.
+: UL Lost Coast.
 % {{BASH:C.Light}}
 Let There Be Darkness - UL Brena.esp
-: requires Ul Brena River Ravine.
+: Ul Brena River Ravine.
 % {{BASH:C.Light}}
 Let There Be Darkness - UL Blackwood Forest.esp
-: requires UL Blackwood Forest.esp
+: UL Blackwood Forest.esp
 % {{BASH:C.Light}}
 Let There Be Darkness All.esp
 ? Merge, please ensure all masters are present. Masters can be checked using Wrye Bash.
@@ -10488,20 +10488,20 @@ FastTravelAllowed.esp
 Item interchange - Placement.esp
 * Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
 >? Non-FCOM version. Use 'Item interchange - Placement for FCOM.esp' instead.
-: requires recent version of Wrye Bash.
+: recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
-: requires Bashed Patch
+: Bashed Patch
 <? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
-: requires Bashed Patch
+: Bashed Patch
 Item interchange - Placement for Frostcrag Reborn.esp
-: requires Bashed Patch
+: Bashed Patch
 Item interchange - Placement for Frostcrag Spire Revisited.esp
-: requires Bashed Patch
+: Bashed Patch
 Item interchange - Option, Ingredients in Bulk.esp
-: requires Bashed Patch
+: Bashed Patch
 Item interchange - Option, Ingredients in Bulk, reduced.esp
-: requires Bashed Patch
+: Bashed Patch
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp
@@ -10982,7 +10982,7 @@ BP_and_Soya.esp
 Elaborate HGEBetter Beauty Soya Expansion.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Diverse NPCs.esp
-: requires TNR, Ren's Hair, Elaborate Eyes.
+: TNR, Ren's Hair, Elaborate Eyes.
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,NoMerge}}
 Corean Hairs and Elaborate Eyes Merged.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
@@ -11009,35 +11009,35 @@ CompanionMaster.esp
 
 CM Partners.esp
 CM Partners Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners Special NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Special NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners NPC.esp
 % {{BASH:Hair,Eyes}}
 CM Partners NPC Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners NPC NE.esp
 % {{BASH:Hair,Eyes}}
 CM Partners NPC NE Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners More NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners More NPCs NE.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs NE Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners Marker NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Marker NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners Extra NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Extra NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 CM Partners Auto Loot add-on.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
@@ -11056,10 +11056,10 @@ A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
 CMPartner_Xenia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Xenia_CMPartner.esp
 Xenia_CMPartner Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 cmAbbeyAeryn.esp
 cmChocolates.esp
 CM_LoreleiU.esp
@@ -11122,9 +11122,9 @@ cssJaKhaiitMyr.esp
 
 1em_Vilja.esp
 1em_Vilja Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 1em_Vilja Not Essential Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Aliyah.esp
 ArianaTrudeaux.esp
 Arwen companion.esp
@@ -11143,7 +11143,7 @@ Companion Neeshka Rwalk.esp
 Companion Neeshka Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Companion Neeshka Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 companion_deepelves.esp
 companion_moonelves.esp
 companion_chocolate.esp
@@ -11185,7 +11185,7 @@ Ramy Enfant.esp
 Rhianna.esp
 % {{BASH:Hair,Eyes}}
 Rhianna Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 RhiannaII.esp
 % {{BASH:Hair,Eyes}}
 Rinn.esp
@@ -11194,7 +11194,7 @@ Saerileth.esp
 % {{BASH:Hair,Eyes}}
 sexycompanion.esp
 sexycompanion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Shard.esp
 Shivering Creature Companion.esp
 Sher Ja Lion Companion.esp
@@ -11203,7 +11203,7 @@ SnowAndHarukoCMPartners.esp
 Sonia.esp
 % {{BASH:Hair,Eyes}}
 Sonia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
@@ -11220,7 +11220,7 @@ DAAanila.esp
 DAAltair.esp
 % {{BASH:Hair,Eyes}}
 DAJynx.esp
-: requires OBSE.
+: OBSE.
 % {{BASH:Hair,Eyes}}
 DAClair.esp
 % {{BASH:Hair,Eyes}}
@@ -11306,10 +11306,10 @@ Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-: requires the Cobl Cosmetics Res 01 files installed.
+: the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-: requires the Cobl Cosmetics Res 01 files installed.
+: the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate.
 \EndGroup\\
@@ -11376,7 +11376,7 @@ HippoNoStarterSpells.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
-: requires BASH for proper use
+: BASH for proper use
 % {{Bash:IIM,Filter,Invent}} and deactivate.
 Shads Spellbook.esp
 qazSpellbook.esp
@@ -11412,28 +11412,28 @@ bgBalancingVanillaGMSTMagickaRegeneration.esp
 bgBalancingVanillaGMSTSpellCostProgression.esp
 
 bgBalancingEVOptionalBetterRedguards.esp
-: requires Better Redguards installed with its ESP deactivated.
+: Better Redguards installed with its ESP deactivated.
 bgBalancingDVOptionalBetterRedguards.esp
-: requires Better Redguards installed with its ESP deactivated.
+: Better Redguards installed with its ESP deactivated.
 
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
-: requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
-: requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
-: requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
-: requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
-: requires 'bgBalancingEVOptionalBetterRedguards.esp'.
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 
@@ -11445,28 +11445,28 @@ bgBalancingOptionalFranAddition.esp
 bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
 
 bgBalancingEVLAMEAddition.esp
-: requires LAME and Shivering Isles.
+: LAME and Shivering Isles.
 bgBalancingDVLAMEAddition.esp
-: requires LAME and Shivering Isles.
+: LAME and Shivering Isles.
 bgBalancingEVLAMEGlue.esp
-: requires LAME and Shivering Isles.
+: LAME and Shivering Isles.
 bgBalancingDVLAMEGlue.esp
-: requires LAME and Shivering Isles.
+: LAME and Shivering Isles.
 bgBalancingEVOptionalNPCDiversityLAME.esp
 
 bgBalancingEVLAMEIntegration.esp
 
 bgHighElfSeamReducerFixEV.esp
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
-: requires Shivering Isles and Luchaire's Body Seam Reducer.
+: Shivering Isles and Luchaire's Body Seam Reducer.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
-: requires Shivering Isles and Luchaire's Body Seam Reducer.
+: Shivering Isles and Luchaire's Body Seam Reducer.
 \EndGroup\\
 
 \BeginGroup\: BG Integration quest
 \''''''''''''''''''''
 bgIntegrationEV.esp
-: requires LAME, Shivering Isles and Race Balancing Project.
+: LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH:NpcFaces}} and deactivate
 bgIntegrationEV - Unique Clothes.esp
@@ -11529,9 +11529,9 @@ Better Cities Full Rwalk.esp
 Better Cities Full Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Cities Full Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Better Cities Full - B&M Edition Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Better Cities IC Districts.esp
 
@@ -11759,7 +11759,7 @@ Better Imperial City Rwalk.esp
 Better Imperial City Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Imperial City Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 
@@ -11774,7 +11774,7 @@ Better Cities and IC Rwalk.esp
 Better Cities and IC Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Cities and IC Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 \BeginGroup\: Better Cities FPS Patches
 
@@ -12337,7 +12337,7 @@ StokerWolff 1.3.esp
 
 Dschinni.esp
 Dschinni Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
@@ -12347,17 +12347,17 @@ Viconia Rwalk.esp
 Viconia Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Viconia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
-: requires the Underdark.
+: the Underdark.
 ? Do not run with Viconia.esp.
 ViconiaChapterTwo Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (requires WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 UnderdarkMap.esp
 
 Open Cities Road Record.esp
@@ -12365,10 +12365,10 @@ Open Cities Road Record.esp
 Open Cities LR Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 Standard Road Record.esp
-: requires New Roads+Bridges.
+: New Roads+Bridges.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 OCLR Road Record.esp
-: requires New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
+: New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
 CUMoreDurableArmor.esp

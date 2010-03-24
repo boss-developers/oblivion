@@ -4,6 +4,8 @@
 \ % A Bashed Patch suggestion for the mod above.
 \ ? A comment about the mod above.
 \ * Flags a critical mistake for FCOM installation in relation to the mod above.
+\ : An installation requirement (ie another mod or OBSE etc.)
+\ $ an OOO specific comment
 \
 \ > process this line only if FCOM is installed.
 \ < process this line only if FCOM isn't installed.
@@ -89,7 +91,7 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esm
 Harvest[Containers] - Havok Crates Add-on.esm
 Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
-? Not OOO compatible. Already included in OOO.
+$ Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
 % {{BASH:Invent,Scripts,Stats,Relations}}
 DarkDale.esm
@@ -951,7 +953,7 @@ RWTavernTemple.esp
 
 Hear-Me-Not.esp
 QuietFeet.esp
-? Not compatible with OOO. Try 'Quiet Feet Max' (or any similar mod that replaces sound files).
+$ Not compatible with OOO. Try 'Quiet Feet Max' (or any similar mod that replaces sound files).
 Footstep Sound Fix.esp
 Quiet Feet Complete.esp
 Silent Player Voice.esp
@@ -1167,10 +1169,10 @@ BorsBedrolls.esp
 Bedrollsanyone.esp
 
 BEER! for Oblivion.esp
-? If using OOO, check compatibility (untested).
+$ If using OOO, check compatibility (untested).
 BEER_Inebriation.esp
 Better Wine SI.esp
-? Not compatible with OOO. OOO contains a similar mod.
+$ Not compatible with OOO. OOO contains a similar mod.
 bgShaderStandAloneEV.esp
 % {{BASH:Graphics}}
 ? Requires Wrye Bash if using spell mods.
@@ -1191,11 +1193,11 @@ Bosmer Meat Mandate.esp
 % {{BASH:Invent}}
 Bottledbloodv1.esp
 Brandy.esp
-? Not compatible with OOO. OOO contains a similar mod.
+$ Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
-? Probably not OOO compatible - drop lit torches already integrated.
+$ Probably not OOO compatible - drop lit torches already integrated.
 nmDLTIC-1-6.esp
-? Probably not OOO compatible - drop lit torches already integrated.
+$ Probably not OOO compatible - drop lit torches already integrated.
 bDLTIC-1-6.esp
 DLTIC-1-6.esp
 BTMM.esp
@@ -1252,27 +1254,27 @@ Rational Names, 2.esp
 
 CNRP Brumav02.esp
 % {{BASH:Invent}}
-? With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
+$ With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
 CNRP Bruma4OOO.esp
 % {{BASH:Invent}}
 CNRP Cheydinhal.esp
 % {{BASH:Invent}}
-? With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
+$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
 CNRP Cheydinhal4OOO.esp
 % {{BASH:Invent}}
 CNRP Chorrol.esp
 % {{BASH:Invent}}
-? With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
+$ With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
 CNRP Chorrol4OOO.esp
 % {{BASH:Invent}}
 CNRP FightersGuild.esp
-? With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
+$ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
 % {{BASH:Invent}}
 CNRP FightersGuild4OOO.esp
 % {{BASH:Invent}}
 CNRP DB.esp
 % {{BASH:Invent}}
-? With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
+$ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
 CNPR DB for OOO.esp
 % {{BASH:Invent}}
 /looks like a mispelling but listed on the mod page as such so maybe?
@@ -1494,7 +1496,7 @@ Guardianalcset.esp
 Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
-? Not OOO compatible - already included in OOO.
+$ Not OOO compatible - already included in OOO.
 GW71_Soulgems.esp
 % {{BASH:Graphics}}
 \EndGroup\\
@@ -1511,7 +1513,7 @@ HTFpcb Extended.esp
 
 ImprovedSigns.esp
 Inebriation.esp
-? Not OOO compatible - already included in OOO.
+$ Not OOO compatible - already included in OOO.
 Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
@@ -1560,10 +1562,10 @@ Lamps of Oblivion.esp
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Lock Bash v99.9.esp
-? Not OOO compatible - already included in OOO.
+$ Not OOO compatible - already included in OOO.
 ? Newer version is available. Update to v99.91 or later.
 Lock Bash v99.91.esp
-? Not OOO compatible - already included in OOO.
+$ Not OOO compatible - already included in OOO.
 Lock Bash Omega.esp
 Security Rebalance-Traps and Bash Locks.esp
 Lyn-DarkBrotherhoodAssassins.esp
@@ -1602,7 +1604,7 @@ More_Animals.esp
 ? Content already added by MMM.
 more_classes.esp
 More Drinks.esp
-? Probably not OOO compatible. Untested.
+$ Probably not OOO compatible. Untested.
 more broadsheets.esp
 more_broadsheets.esp
 More Female Servants.esp
@@ -1936,7 +1938,7 @@ wd purse of wonders.esp
 % {{BASH:Scripts}}
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
-? May not be OOO compatible as OOO includes inebriation.
+$ May not be OOO compatible as OOO includes inebriation.
 Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
@@ -1957,20 +1959,20 @@ Zedar.esp
 \BeginGroup\: Base Late
 
 Harvest[Containers].esp
-? Not OOO compatible. Included in OOO.
+$ Not OOO compatible. Included in OOO.
 Harvest[Containers] - Vanilla.esp
-? Not OOO Compatible
+$ Not OOO Compatible
 Harvest[Containers] - SI.esp
 Harvest[Containers] - SI - Ore Respawn.esp
 Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - Player Home Add-on.esp
-? Not OOO compatible. Included in OOO.
+$ Not OOO compatible. Included in OOO.
 DEJ Harvest - Containers [Combo] v0.99.08.esp
-? Not OOO compatible. Included in OOO.
+$ Not OOO compatible. Included in OOO.
 Harvest[Containers] - Flat-Top Barrels Add-on.esp
-? Not OOO compatible. Included in OOO.
+$ Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
-? Not OOO compatible.
+$ Not OOO compatible.
 
 Piratelords Trade Fixes.esp
 
@@ -2090,13 +2092,13 @@ Map Marker Overhaul.esp
 Map Marker Overhaul - SI additions.esp
 Maps!.esp
 Landmarks.esp
-? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells.esp
-? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells_DV.esp
-? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks With Wells.esp
-? If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 
 AddMapMarkers.esp
 Aurix's_Names.esp
@@ -2490,7 +2492,7 @@ Baedoona_recurve_bow.esp
 Bamboo Armor.esp
 % {{BASH:Invent}}
 Banes Guilds United.esp
-? May have trouble with OOO. Untested.
+$ May have trouble with OOO. Untested.
 BarbarianShop.esp
 Bar Maid.esp
 battlemagearmor2-0 vanilla loot.esp
@@ -3012,7 +3014,7 @@ M.O.E. - Unlocked Glenroy and Captain Renault Blades Armour.esp
 ? Use 'FCOM_MOECaptainRenaultArmor' to fix compatibility issues with FCOM.
 FCOM_MOECaptainRenaultArmor.esp
 Wearable GS and DS armor.esp
-? Use 'for OOO' version for better OOO/FCOM compatibility.
+$ Use 'for OOO' version for better OOO/FCOM compatibility.
 Ma.S.Tro's Black Crest Kit v1.03.esp
 Masks Revised.esp
 Medieval Shields.esp
@@ -3235,10 +3237,10 @@ SilverwareWeapons.esp
 ? if using FCOM use Silverware Weapons - FCOM.esp instead
 Silverware Weapons - FCOM.esp
 Sin's Expanded Light Armor Kit [Chest].esp
-? Not compatible with OOO - armors already included - so deactivate when using OOO.
+$ Not compatible with OOO - armors already included - so deactivate when using OOO.
 % {{BASH:Invent}}
 Sin's Expanded Light Armor Kit [NPC].esp
-? Not compatible with OOO - armors already included - so deactivate when using OOO.
+$ Not compatible with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 SK_Berserk_v0.6.esp
@@ -4413,7 +4415,7 @@ RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
 
 ArmamentariumFixes.esp
 ArmamentariumLL.esp
-? For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
+$ For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
 Choices and Consequences - OOO.esp
 C&C&EQR - OOO.esp
 ? Obsolete. Upgrade to latest version.
@@ -4654,12 +4656,12 @@ Mart's Monster Mod for Fran.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <
 <Mart's Monster Mod - Diverse Imperial Armor.esp
-<? Don't use if using OOO. Integrated into OOO.
+<$ Don't use if using OOO. Integrated into OOO.
 <Mart's Monster Mod - Diverse Creature Skins.esp
-<? Don't use if using OOO. Integrated into MMM for OOO.
+<$ Don't use if using OOO. Integrated into MMM for OOO.
 <? Old version. Consider using 3.7 or later.
 <Mart's Monster Mod - More Reaver Variants.esp
-<? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
+<? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3 or higher.
 <Mart's Monster Mod - Gems & Gem Dust.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 <Gems and Gem Dusts - MMM.esp
@@ -4670,20 +4672,20 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
 <Mart's Monster Mod - Durability & Damage.esp
-<? Don't use with OOO. Already integrated into OOO.
+<$ Don't use with OOO. Already integrated into OOO.
 <Mart's Monster Mod - Fran's leveled quests.esp
 <? Requires a Fran's install with the Leveled Quests option.
 <Mart's Monster Mod - Less Bone Loot.esp
 <Mart's Monster Mod - Less Rats.esp
 <Mart's Monster Mod - Less Reavers.esp
 <Mart's Monster Mod - LessReaversInGates.esp
-<? Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' if using OOO.
+<$ Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' if using OOO.
 <Mart's Monster Mod for OOO - LessReaversInGates.esp
 <Mart's Monster Mod - Safer Roads.esp
 <Mart's Monster Mod - No Swarms.esp
 <Mart's Monster Mod - No Reavers.esp
 <Mart's Monster Mod - NoReaversInGates.esp
-<? Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' if using OOO.
+<$ Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' if using OOO.
 <Mart's Monster Mod for OOO - NoReaversInGates.esp
 <Mart's Monster Mod - No Reaver Hounds.esp
 <? Older version. Update to 3.6beta3 or later.
@@ -5068,7 +5070,7 @@ OOO Dread Armor Upgrade.esp
 LDEnhancedSI.esp
 Shield on Back Plugin - OOO.esp
 BladesSmithySTANDARD.esp
-? If using OOO use 'BladesSmithyOOO.esp' instead.
+$ If using OOO use 'BladesSmithyOOO.esp' instead.
 BladesSmithyOOO.esp
 OOO_ThievesGuildFix.esp
 ? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
@@ -5156,23 +5158,23 @@ AdrenalineOblivion-SpawnElement.esp
 
 IABaneOils Wimpy.esp
 % {{BASH:Factions}
-? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+$ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 1000.esp
 % {{BASH:Factions}
-? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+$ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 500.esp
 % {{BASH:Factions}
-? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+$ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 250.esp
 % {{BASH:Factions}
-? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+$ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 100.esp
 % {{BASH:Factions}
-? Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
+$ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 \EndGroup\\
 
@@ -5254,7 +5256,7 @@ cyrodiil transportation network 1.2 DV.esp
 OC+CTN Patch.esp
 
 Ivellon.esp
-? Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
+$ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 ? This Esp is used as a patch between  "OOO" and "The Dungeons of Ivellon"
@@ -5487,7 +5489,7 @@ bazOOkasWatchTowers_v1.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp
 Beautiful Watch.esp
-? May conflict with OOO/FCOM.
+$ May conflict with OOO/FCOM.
 BeldaElysium.esp
 1209-Beneath The Wall-TESSource.esp
 BenirusManorRebuilt.esp
@@ -6134,8 +6136,8 @@ Keric.esp
 Keys & Furniture Papers Box.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
-? If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
-? ...found here: 'http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip'
+$ If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
+$ ...found here: 'http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip'
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
 Klarre Forestheart MR.esp
@@ -7261,7 +7263,7 @@ The Mystery of the Dulan cult.esp
 >? FCOM requires 'FCOM_DulanCult.esp'.
 
 TheNecromancer.esp
-? Has some landscape issues with OOO.
+$ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
@@ -8318,9 +8320,9 @@ Fewer Foes.ESP
 
 Finite Ammo.esp
 First Person Messages.esp
-? Not needed if using OOO.
+$ Not needed if using OOO.
 2nd to 1st person.esp
-? Not needed if using OOO.
+$ Not needed if using OOO.
 
 Flee Further.esp
 Friendly Hits up 20 points.esp
@@ -8737,7 +8739,7 @@ Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
 Skill Perk Descriptions Enhancement.esp
-? OOO changes skill perks and their descriptions as well.
+$ OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
 Skillbased Thieves Guild Invitation.esp
 Skycaptains BloodTime.esp
@@ -8754,7 +8756,7 @@ SM Essential Kills.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 SPTDiverseGuards.esp
-? Probably not compatible with OOO.
+$ Probably not compatible with OOO.
 SPTDiverseGuardsMRAll.esp
 ? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
 SPTDiverseGuardsMRHuman.esp
@@ -9185,8 +9187,8 @@ MHE v2 - Exnem&Robert.esp
 ? Use only one MHE v2 esp
 
 StarX Vanilla Vampires Revised.esp
-? Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
-? There is a patch to solve these problems.
+$ Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
+$ There is a patch to solve these problems.
 StarX VVR_OOO Patch.esp
 MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
@@ -9227,7 +9229,7 @@ PxVampireAge0.esp
 PxVampireAge-10000.esp
 
 M.O.E. - Vampire Clan Raelu.esp
-? May have problems with OOO.
+$ May have problems with OOO.
 M.O.E. - Vampire Players Scarier.esp
 Scorn's Vampirism 2.esp
 VampireExperience1.0.esp
@@ -9821,14 +9823,14 @@ SneakingRealism_v1_3_2.esp
 Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp
 Deadlier Traps.esp
-? Included with OOO. Delete if using OOO.
+$ Included with OOO. Delete if using OOO.
 SM Security.esp
-? Partly included with OOO. May not be OOO compatible.
+$ Partly included with OOO. May not be OOO compatible.
 Skeleton Key Revised.esp
 
 Speedy Looting OBSE.esp
 Speedy Looting - Harvest [Containers].esp
-? Harvest [Containers] will have conflicts with OOO.
+$ Harvest [Containers] will have conflicts with OOO.
 Speedy Looting - Harvest [Containers] - Player Home Add-on.esp
 Speedy Looting - OOO.esp
 Speedy Looting - wd purse of wonders.esp
@@ -10173,7 +10175,7 @@ IDFQR, Cobl.esp
 Intelligence Overhaul.esp
 Intelligence Overhaul (No Book Changes).esp
 Intelligence Overhaul BJ.esp
-? If using OOO, use 'OOO-Intelligence Overhaul BJ' instead.
+$ If using OOO, use 'OOO-Intelligence Overhaul BJ' instead.
 OOO-Intelligence Overhaul BJ.esp
 
 SniperSneakSkillup.esp
@@ -11873,7 +11875,7 @@ No Vampire Feeding Message Box.esp
 MessageBox Remover.esp
 Zero Annoying Comments and Messages.esp
 ReallyImmersiveMessages.esp
-? Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
+$ Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
 ReallyImmersiveMessagesNoBirthsigns.esp
 \EndGroup\\
 

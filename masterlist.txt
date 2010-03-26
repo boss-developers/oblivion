@@ -5106,7 +5106,7 @@ Morrowind Ingredients_MMM.esp
 FCOM_Archery_4_Arma_Complete_patch.esp
 % {{BASH:Stats}}
 C&C - The Blackwood Company - OOO.esp
-% {{BASH:C.Owner, Names, Relations}
+% {{BASH:C.Owner, Names, Relations}}
 Geomancy & Gem Dust OOO.esp
 Geomancy & Gem Dust OOO (No Spell Change).esp
 ? Use 'Geomancy & Gem Dust OOO (No Spell Change)' or 'Geomancy & Gem Dust OOO' but not both at the same time.
@@ -5158,23 +5158,23 @@ AdrenalineOblivion-SupportElements.esp
 AdrenalineOblivion-SpawnElement.esp
 
 IABaneOils Wimpy.esp
-% {{BASH:Factions}
+% {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 1000.esp
-% {{BASH:Factions}
+% {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 500.esp
-% {{BASH:Factions}
+% {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 250.esp
-% {{BASH:Factions}
+% {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 IABaneOils 100.esp
-% {{BASH:Factions}
+% {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 \EndGroup\\

@@ -10537,7 +10537,7 @@ Mart's Monster Mod - Resized Races.esp
 Bigger_Dremora.esp
 % {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
 ? Also to be safe only use the Body-M & Body-F tags with Wrye Bash version 280+ (otherwise may have incorrect body changes include in the bashed patch).
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.

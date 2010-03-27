@@ -1770,7 +1770,7 @@ RD-TimeKeeper-v1-3-5minUpdate.esp
 RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
 RealitySpectre'sBetterPotions.esp
-% {{Bash:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
+% {{BASH:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 
 RealWalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -1798,9 +1798,9 @@ Nude Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 
 REBetterLCB.esp
-% {{Bash:Graphics}} and deactivate.
+% {{BASH:Graphics}} and deactivate.
 REBetterDrinks.esp
-% {{Bash:Graphics,Invent}}
+% {{BASH:Graphics,Invent}}
 Redecoration.esp
 Regrowing Nirnroot - Dissappear Reappear.esp
 Regrowing Nirnroot - Normal Plant.esp
@@ -2281,10 +2281,10 @@ NordFemaleMuscles.esp
 Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
-% {{Bash:Graphics}}
+% {{BASH:Graphics}}
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
-% {{Bash:Graphics}}
+% {{BASH:Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Items (armor and weapons)
@@ -11390,7 +11390,7 @@ Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 : BASH for proper use
-% {{Bash:IIM,Filter,Invent}} and deactivate.
+% {{BASH:IIM,Filter,Invent}} and deactivate.
 Shads Spellbook.esp
 qazSpellbook.esp
 Recastable Summons.esp

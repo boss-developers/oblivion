@@ -1258,11 +1258,6 @@ CNRP Brumav02.esp
 $ With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
 CNRP Bruma4OOO.esp
 % {{BASH:Invent}}
-CNRP Cheydinhal.esp
-% {{BASH:Invent}}
-$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
-CNRP Cheydinhal4OOO.esp
-% {{BASH:Invent}}
 CNRP Chorrol.esp
 % {{BASH:Invent}}
 $ With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
@@ -1282,6 +1277,11 @@ CNPR DB for OOO.esp
 CNRP DB for OOO.esp
 % {{BASH:Invent}}
 CNRP FB for OOO.esp
+% {{BASH:Invent}}
+CNRP Cheydinhal.esp
+% {{BASH:Invent}}
+$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
+CNRP Cheydinhal4OOO.esp
 % {{BASH:Invent}}
 
 SNR Fighter Guild UFF.esp
@@ -1657,7 +1657,7 @@ New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
 New Potions.esp
 % {{BASH:Graphics,NoMerge}}
-Never die
+Never die.esp
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
@@ -2112,6 +2112,7 @@ HouseMapMarkersOnlyBought.esp
 JQ-PortableSigns.esp
 MapMarkers.esp
 Map Markers for Explorers & Adventurers.esp
+moremapmarkers.esp
 Nirnroot Completion.esp
 Oblivion Gate Markers.esp
 Order_Obelisk_Mark.esp
@@ -2720,6 +2721,7 @@ Dark-Stealth Gear.esp
 DarkMithril.esp
 Deceiver's Armour.esp
 Divine Armor.esp
+DM-Elite Witch.esp
 DraconicSet.esp
 HGEC_Draconic_Armor.esp
 Dragon Buster.esp
@@ -2759,6 +2761,7 @@ Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
 Elfenwacht.esp
+Elwing.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
 Eyren_AyleidWarrior.esp
@@ -3003,6 +3006,7 @@ MandBSwords.esp
 mageitems.esp
 Mage Leather Armor.esp
 MagicElvenCapes1a.esp
+Marine Bunny.esp
 Materia.esp
 Midlander_HGEC.esp
 Morrigan Armor Set v1_0.esp
@@ -3140,6 +3144,7 @@ PocketGuideEmpire.esp
 polearms_1.0.7_EV.esp
 Polearms.esp
 Poleweaponsv1.1.esp
+PortableAltars.esp
 Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
@@ -9885,6 +9890,7 @@ No psychic guards v1.2.esp
 No psychic guards harder v1.2.esp
 No psychic guards harder fix.esp
 RenGuardOverhaul.esp
+% {{BASH:Actors.AIData}}
 RenGuardOverhaulShiveringIsles.esp
 sycHearNoEvil.esp
 sycSHOUT.esp

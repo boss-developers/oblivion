@@ -1657,6 +1657,7 @@ New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
 New Potions.esp
 % {{BASH:Graphics,NoMerge}}
+Never die
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
@@ -1827,7 +1828,7 @@ Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
 Sexual_SpiderDaedra.esp
 % {{BASH:Graphics}} and deactivate.
-: OBSElete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
  Oblivion Sexualized Monsters-exclu TRM.esm
@@ -4430,7 +4431,7 @@ ArmamentariumLLArmaVendor.esp
 Armamentarium SoB Patch.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
-: OBSElete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
+? obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -4584,7 +4585,7 @@ MALO - Loot Tweaks FRAN.esp
 >Mart's Monster Mod - Less Bone Loot.esp
 >Mart's Monster Mod - Zombies for Body Meshes.esp
 >Mart's Monster Mod - Vindasel.esp
->: OBSElete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+>? obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 >Mart's Monster Mod - Safer Quest Locations.esp
 >Mart's Monster Mod - Foxes.esp
 >Mart's Monster Mod - Bats Addon.esp
@@ -4719,7 +4720,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
 <Mart's Monster Mod - Vindasel.esp
-<: OBSElete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+<? obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 <Mart's Monster Mod - Safer Quest Locations.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
@@ -5427,9 +5428,9 @@ Artifacts.esp
 ArtifactsFemaleArmor
 % {{BASH:Graphics}}
 ArtifactsforArmaComplete.esp
-: OBSElete - Use Artifacts-ArmaCompleteAddon.esp instead
+? obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts for ArmaComplete.esp
-: OBSElete - Use Artifacts-ArmaCompleteAddon.esp instead
+? obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 Artifacts SoB Patch.esp
@@ -6387,26 +6388,28 @@ NNWAREAyleidDungeons_Series1EV.esp
 NNWAREAyleidDungeons_Series1DV.esp
 NNWAEDungeons-Series2EV.esp
 NNWAEDungeons-Series2DV.esp
+NNWARE06-RhyeliaEmeroEV.esp
+NNWARE06-RhyeliaEmeroDV.esp
 NNWARE01EV-Sercen.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE02EV-Trumbe.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE03EV-Piukanda.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE04EV-Veyond.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE05EV-Bawn.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE01-Sercen.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE02-Trumbe.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE03-Piukanda.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE04-Veyond.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 NNWARE05-Bawn.esp
-: OBSElete, update to series 2+.
+? obselete, update to series 2+.
 \EndGroup\\
 
 \BeginGroup\: Quests O
@@ -8710,11 +8713,11 @@ Short Grass V3.esp
 Short_Grass-2044.esp
 SetsunaDummyTraining.esp
 Sexual_Spriggan.esp
-: OBSElete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Sexual_Minotaur.esp
-: OBSElete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Sexual_Ogre.esp
-: OBSElete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Enhanced Vegetation [100%].esp
 ? Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [110%].esp
@@ -9257,7 +9260,7 @@ Duke Patricks Nosferatu Vampires.esp
 Duke Patricks - Nosferatu Class Vampires.esp
 % {{BASH:Sound}}
 Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
-: OBSElete, consider upgrading to Ashes to Ashes version 1.0+
+? obselete, consider upgrading to Ashes to Ashes version 1.0+
 LithiansNatureOfTheBeastModBeta.esp
 Scorn_Vampirism_Mod.esp
 Vampire Fire by Darkhart.esp
@@ -10551,6 +10554,7 @@ Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
 Better Redguard v2.esp
 % {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
 Smaller Elf ears.esp
@@ -11396,12 +11400,15 @@ bgBalancingEVOptionalMoreEyes.esp
 
 bgBalancingEVOptionalNPCDiversity, Beautification.esp
 ? Use only one 'OptionalNPCDiversity' file.
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp
 ? Replace with 'bgBalancingEVOptionalNPCDiversity, Vanilla.esp'
 bgBalancingEVOptionalNPCDiversity, Vanilla.esp
 ? Use only one 'OptionalNPCDiversity' file.
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
 ? Use only one 'OptionalNPCDiversity' file.
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 
 bgBalancingEVOptionalHalvedMagicka.esp
 bgBalancingEVOptionalWeaker.esp
@@ -11414,28 +11421,30 @@ bgBalancingVanillaGMSTSpellCostProgression.esp
 
 bgBalancingEVOptionalBetterRedguards.esp
 : Better Redguards installed with its ESP deactivated.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 bgBalancingDVOptionalBetterRedguards.esp
 : Better Redguards installed with its ESP deactivated.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
-bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
-: 'bgBalancingEVOptionalBetterRedguards.esp'.
-? Use only one 'OptionalNPCDiversity' plugin.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 % {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 
 bgBalancingEVOptionalFCOMAdditions.esp

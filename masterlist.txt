@@ -2922,6 +2922,7 @@ morrowindJPbooks.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 JQ-TrekLirpa.esp
+JSSoulCrystals_01.esp    
 JTP_GlassWeaponsRecolorsGREEN1.esp
 jy-Akaviri Helmets.esp
 \EndGroup\\
@@ -3306,6 +3307,7 @@ spirit_bast.esp
 Staff of Portals.esp
 StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
+Starsouls.esp 
 SG004_Stargazer.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
@@ -5321,6 +5323,7 @@ AbuEmir01.esp
 : Shivering Isles
 Adaman Fortress.esp
 A_dark_elvish_cave-5121.esp
+Adele_blackSwanBoutique.esp
 AdenseEpicDungeon.esp
 ? Old, update to AdenseEpicDungeon1_5.esp.
 AdenseEpicDungeon1_1.esp
@@ -5368,12 +5371,15 @@ AkaviriKojima.esp
 AlchemistsCave.esp
 AlchemistsCave-COBL.esp
 allinonebasement.esp
+allinonebasement_COBLnoCM.esp
+? Use only one allinonebasement esp.
 Alexandria.esp
 AleswellMerchant Cobl.esp
 AleswellMerchant Cobl SI.esp
 Aleswell House.esp
 AyleidMarket.esp
 AyleidQuest.esp
+Ayleid Treasury
 Amajor7 Imperial Furniture.esp
 Amaterasu no Yume.esp
 AmVampireRing.esp
@@ -5538,6 +5544,7 @@ ElsweyrFaregylRoad.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
+Blissful_Condo.esp
 Blissful_DreamsCOBL.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
@@ -5725,8 +5732,10 @@ SkingradHoleInTheWall_COBL_v6.esp
 delivery_job.esp
 Delivery Job - BC.esp
 ? Must deactivate delivery_job.esp if using it. This ESP replaces that file.
+DJZ Archmage's Study.esp
 DJ Markov Manor.esp
 Don't Forget Nirn!.esp
+DopplersArmory.esp
 Draelins Hidden Abode.esp
 DragonInvasion.esp
 DragonHouse.esp
@@ -5974,6 +5983,7 @@ SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
 Shezrie's Villages.esp
+Imperial City Townhouse.esp
 ImpeREAL City Unique Districts - Talos Plaza.esp
 ? Not compatible with Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Elven Gardens.esp
@@ -6139,6 +6149,7 @@ JSRandomTasks.esp
 \BeginGroup\: Quests K
 
 KarewManor.esp
+Kariba.esp
 Katana Store v2.0.esp
 Kats Better Rosethorn Hall.esp
 Keric.esp
@@ -6308,6 +6319,7 @@ Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
+marketway.esp
 ME_MERCENARIES.esp
 MehrunesFel.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
@@ -6354,6 +6366,7 @@ Muffin Display Rooms.esp
 Museum.esp
 Your_Personal_Museum_Updated-9300.esp
 My Big House.esp
+My Dark Brotherhood Room.esp 
 Mages_house.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
@@ -6498,6 +6511,8 @@ Reaper_Tree_Home.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
+Ravenrock.esp
+? Shivering Isles.
 RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
@@ -6653,6 +6668,7 @@ SSS_1.0.esp
 : 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 Star's Rest.esp
+Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
 Steve - Hitman.esp
 Stonewall Shields.esp
@@ -6895,6 +6911,7 @@ Whispers of Death Extended.esp
 WhiteGoldTowerV19.esp
 White Tower v0.8.esp
 WinterCabin.esp
+Winterhouse.esp
 Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
 Woodcutters_Cabin.esp
@@ -9418,6 +9435,7 @@ Rain of Gold.esp
 Ranokoas Killing Spree Spells.esp
 Recharge Spell - Easy.esp
 Remote Life Detect.esp
+Remove Extra Data.esp
 Resurrect.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
@@ -10918,6 +10936,9 @@ Ahtata_Khabaxi.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Ahtata Arquamer spike4hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,Body-F,Body-M}}
+? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down. 
 Arabian Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ash Elves.esp
@@ -11083,6 +11104,7 @@ CM Tifa A.esp
 CM_Kailinda.esp
 CM Jessica.esp
 cm_Jo-han.esp
+CmRisingStars.esp
 CM Yana.esp
 CM_Dragonchixx.esp
 Colourwheels Sexy Tifa.esp
@@ -11095,6 +11117,7 @@ AmidalaSaramHair.esp
 AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
+BloodLady.esp
 kgt_Aida.esp
 kgtVeeda.esp
 mbass_CMpartnerMelissa.esp

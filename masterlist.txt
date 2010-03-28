@@ -1946,6 +1946,7 @@ $ May not be OOO compatible as OOO includes inebriation.
 Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
+% {{BASH:Invent}}
 Wyverex - Deployable Traps.esp
 \EndGroup\\
 
@@ -2153,6 +2154,8 @@ Improved Hotkeys_Extended.esp
 Quick Clothes and Spells.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 sr_super_hotkeys.esp
+? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+STHotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 YetAnotherHotkeyMod.esp
 \EndGroup\\
@@ -2837,6 +2840,7 @@ Griffon Fortress 0.5.esp
 Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
+% {{BASH:Invent}}
 GrayFoxArmor.esp
 Noviere's Gray Fox Armor.esp
 Guide Cities of Cyrodiil.esp
@@ -3332,11 +3336,15 @@ Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
 tda_Armoury.esp
+tda_PHModv1.2.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 TGG- Treasure Placement.esp
+The Bow of Ash.esp
+The Bow of Bones.esp
 The Bow of Daedric Blood.esp
+The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
 The Bow of Thorns.esp
 The Butcher.esp
@@ -6763,6 +6771,7 @@ TheMistRetreat1.3_Optimized.esp
 Thermae.esp
 TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
+TheUndercity.esp
 The UnderCroft v-04.esp
 The UnderCroft v-04a.esp
 The UnderCroft v-04-Forjoining.esp
@@ -6807,6 +6816,7 @@ Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
 Treasure Maps Revenge Of The Nords.esp
 ? Incompatible with UL mod(s).
 Trial of Achilles.esp
+Tyler's Property Tax.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
 TheMistRetreat1.3_Original.esp
@@ -8626,6 +8636,7 @@ Panzer_Kleidung.esp
 PersuasionOverhaul.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
+persuasioncompatable1.8.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
@@ -9634,6 +9645,8 @@ Midas BeastFortify Fix OBSE.esp
 \EndGroup\\
 
 \BeginGroup\: Spells Late
+
+NewEnchantingAndSpellmakingOptions.esp
 
 AudaciousMagery.esp
 
@@ -11081,6 +11094,7 @@ CM Partner - Ace the Rottweiler.esp
 CM Partner - Aries the Dalmation.esp
 CM Partner - Blackjack the Mongrel.esp
 CM Partner - Roscoe the Labrador.esp
+CM Partner Renita.esp
 CM AnyaYelena2.esp
 CM_Blackie_the_Fence.esp
 ambreskav02.esp
@@ -11323,6 +11337,8 @@ DAAlien.esp
 % {{BASH:Hair,Eyes}}
 DASatyr.esp
 % {{BASH:Hair,Eyes}}
+DASkeleton.esp
+DATarantula.esp
 Tladytest.esp
 prettyEnh.esp
 \EndGroup\\
@@ -11965,6 +11981,7 @@ OOO-Respawn_Week.esp
 OOO-Respawn_Year.esp
 ThingasTime 1-15 Scale.esp
 Automatic Timescale.esp
+Timescale 5x Real-Life.esp
 Timescale 10x Real-Life.esp
 Time-2hr-realtime.esp
 TF_timemod1-10.esp

@@ -11606,6 +11606,7 @@ boethia custom race.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
+% {{BASH:Body-F,NoMerge}} and deactivate
 ? Delete if you use 'Cobl Races - Balanced.esp'.
 \EndGroup\\
 

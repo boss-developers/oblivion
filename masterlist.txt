@@ -3293,6 +3293,11 @@ SpeechcraftEnhanced.esp
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
+SOLS CLUTTER MERGE.esp
+SOLS CLUTTER_B MERGE.esp
+SOLS MASSIVE ATIRE PART 1.esp
+SOLS MASSIVE ATIRE PART 2.esp
+SOLS WEAPON MERGE.esp
 SomeRobes.esp
 SoT_Rise of Sheogorath.esp
 soulblade.esp
@@ -3709,6 +3714,14 @@ DMRA Stock Robe Skimpy Replacer.esp
 HGEC Glass Replacement.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 Rinzei_UFFLeatherCorsetGown.esp
+
+TGND.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+TGND_SI.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+TGND - Kogane's Ranger Armor.esp
+TGND - Sinblood's Fantasy Mage.esp
+
 UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
 UFF Badmagic Catsuits.esp
@@ -5139,6 +5152,7 @@ EVE_StockEquipmentReplacer4FCOM.esp
 ? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
 ? For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
+HGEC_special_armor_repl_for_OOO.esp
 EVE_StockEquipmentReplacer4MMM.esp
 ? For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
@@ -7773,6 +7787,8 @@ The Ruins of Miscarcand.esp
 bartholm.esp
 Bartholm-Panther River Patch.esp
 bartholm - EE patch.esp
+Bartholm Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 Fort Akatosh Redux.esp
 % {{BASH:Relations}}
@@ -8794,6 +8810,8 @@ Slof's Dogs.esp
 ? Don't need to use this if you use MMM as it already includes dogs.
 Slof's Epona.esp
 SM Essential Kills.esp
+SOLS CREATURE MERGE.esp
+SOLS ECONOMY MERGE.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 SPTDiverseGuards.esp
@@ -11343,6 +11361,8 @@ DASkeleton.esp
 DATarantula.esp
 Tladytest.esp
 prettyEnh.esp
+
+SOLS COMPANION MERGE.esp
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

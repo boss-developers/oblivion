@@ -4472,6 +4472,9 @@ MALO - Vendor Additions.esp
 MALO - Loot Tweaks.esp
 MALO - Loot Tweaks DCRP.esp
 MALO - Loot Tweaks FRAN.esp
+
+MTCDirtierBandits.esp
+% {{BASH:Invent}}
 \EndGroup\\
 
 \BeginGroup\: MMM & FCOM
@@ -6382,7 +6385,10 @@ mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
 ? Not compatible with Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
+00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
+MTCGlarthirsHouse.esp
+MTCStableInteriors.esp
 
 NPCs Alive - Faregyll Inn.esp
 
@@ -8422,6 +8428,7 @@ HelmetFOV-OBSE.esp
 HexRattCampnstyle.esp
 HideHelms.esp
 Higher Thieves' Guild Fence Amounts.esp
+High Personality Namira Quest.esp
 Horadric Cube.esp
 Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
@@ -10817,6 +10824,10 @@ DemonRace.esp
 Dremora.esp
 % {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
+Dremora Race Playable.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+DremoraFemales.esp
+% {{BASH:Voices-F}}
 The Complete Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Luchaire's Dryad Race.esp

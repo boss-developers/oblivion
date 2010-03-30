@@ -213,6 +213,7 @@ UnnecessaryViolence.esm
 ShieldOnBack.esm
 UndiesUnderneath.esm
 StarX Vampire Deaths.esm
+SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
 \EndGroup\\
@@ -2926,7 +2927,7 @@ morrowindJPbooks.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 JQ-TrekLirpa.esp
-JSSoulCrystals_01.esp    
+JSSoulCrystals_01.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
 jy-Akaviri Helmets.esp
 \EndGroup\\
@@ -3316,7 +3317,7 @@ spirit_bast.esp
 Staff of Portals.esp
 StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
-Starsouls.esp 
+Starsouls.esp
 SG004_Stargazer.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
@@ -5344,7 +5345,7 @@ A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
 A Cut Above Hairdressers.esp
 A Sneaky Buy 2.1.esp
-A Sorceress Love 1_1.esp 
+A Sorceress Love 1_1.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
@@ -5395,6 +5396,7 @@ ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
 Adventures Gear.esp
+AK_corpses_collector.esp
 AkaviriKojima.esp
 AlchemistsCave.esp
 AlchemistsCave-COBL.esp
@@ -6397,7 +6399,7 @@ Muffin Display Rooms.esp
 Museum.esp
 Your_Personal_Museum_Updated-9300.esp
 My Big House.esp
-My Dark Brotherhood Room.esp 
+My Dark Brotherhood Room.esp
 Mages_house.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
@@ -6706,6 +6708,7 @@ Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
 Sunset Keep.esp
+SuperMarioblivion.esp
 swamp home.esp
 swamp home cobl.esp
 SwordOfTheEye.esp
@@ -6754,6 +6757,8 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 TGInheritEarlOfImbelsICHouse.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Black Marsh_Snake Head Island.esp
+The Black Sacrament.esp
+: OBSE
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
@@ -6966,6 +6971,7 @@ Window Entrances 1.0.esp
 
 WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
+Wrath of Sithis.esp
 
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
@@ -8832,6 +8838,7 @@ ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
+defaultstand.esp
 
 Storms & Sound - AFK_Weye.esp
 ? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
@@ -9450,6 +9457,7 @@ P1DsafeContainers.esp
 10Physic Magic effect ITA.esp
 10phisic.esp
 p2p'sADMagic.esp
+Pilgrim Spells.esp
 PJs Disco Spell.esp
 PJs Spells - Cheap Spells.esp
 ? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
@@ -10002,6 +10010,8 @@ Adrenaline-Fuelled Combat.esp
 ? Old version. Consider updating to v2.
 Adrenaline Fuelled Archery- Bow Sway.esp
 ? Old version. Consider updating to v2.
+
+CDM - Fisticuffs.esp
 
 ResetEmotionAfterCombat.esp
 
@@ -10984,7 +10994,7 @@ ahtata dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ahtata Arquamer spike4hair.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,Body-F,Body-M}}
-? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down. 
+? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
 Arabian Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ash Elves.esp
@@ -12398,7 +12408,7 @@ Hemingweys Capes.esp
 ? If you're using this with the mod "[b]Beast Characters lose tails no more[/b]", temporarily move it below the Bashed Patch whenever you rebuild it
 Argonians and Khajiit Lose Tails no More Script.esp
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
-Argonians and Khajiit Lose Tails no More Script - Anwolf.esp 
+Argonians and Khajiit Lose Tails no More Script - Anwolf.esp
 Argonians and Khajiit Lose Tails no More Script - Lilmothiit.esp
 Argonians and Khajiit Lose Tails no More.esp
 

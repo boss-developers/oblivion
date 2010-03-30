@@ -7421,6 +7421,7 @@ Valenwood.esp
 Summerset.esp
 SummersetLandscapes.esp
 ElsweyrAnequina.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.

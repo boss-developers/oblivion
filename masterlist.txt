@@ -387,7 +387,7 @@ YoungerNPCs.esp
 LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
-% {{BASH:NpcFaces}}
+% {{BASH:Actors.Anims,NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 beardy.esp

@@ -2598,7 +2598,6 @@ ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
 Christian's Claymore.esp
-Chain it!.esp
 Change Undies Everyday.esp
 Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
@@ -3258,6 +3257,7 @@ Sin's Expanded Light Armor Kit [NPC].esp
 $ Not compatible with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
+Sister_of_Eisen_HGEC.esp
 SK_Berserk_v0.6.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
@@ -5621,7 +5621,6 @@ BXX Tamriel Resource Exchange.esp
 \BeginGroup\: Quests C
 
 Capsized Ship.esp
-Castle_Wolfspike.esp
 CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
 CityofSunevV058.esp
@@ -7768,7 +7767,6 @@ ULII-Roads-Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
-Patch-Wolfspike-UL.esp
 
 EtInArkay-UniqueLandscapes Merged patch.esp
 xul Rwalk Full.esp
@@ -7795,6 +7793,9 @@ CastleSeaview+LostCoast Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
 ? Not compatible with CastleSeaview+LostCoast Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
+
+Castle_Wolfspike.esp
+Patch-Wolfspike-UL.esp
 
 The Ruins of Miscarcand.esp
 
@@ -9742,6 +9743,9 @@ Spell Failure Chance.esp
 Fizzle.esp
 
 Jpm's Miniature Necromancy.esp
+? Consider updating to doubledeviant's updated version.
+Miniature Necromancy Revised.esp
+? Do not have Jpm's original active at the same time as this.
 TheDarkArts.esp
 
 Magicka Regen x2.esp
@@ -10456,6 +10460,7 @@ Animation and Poses.esp
 77_Umpa_Animation.esp
 77_Umpa_Sexy_walk.esp
 EFGAddPose.esp
+Chain it!.esp
 CT_prendre_pose.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp

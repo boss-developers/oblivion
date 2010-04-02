@@ -1700,6 +1700,8 @@ personality_idles2.esp
 personality_idles3b.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
+Personality Idles 4 - Cleanned version.esp
+% {{BASH:Actors.Anims,NoMerge}}
 personality_idles4_nopc.esp
 personality_idles_custom.esp
 /before P1DseeYouSleep... hopefully will work better
@@ -3726,6 +3728,7 @@ TGND.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 TGND_SI.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+TGND Accompt of the Delitescent.esp
 TGND - Kogane's Ranger Armor.esp
 TGND - Sinblood's Fantasy Mage.esp
 
@@ -6905,7 +6908,8 @@ Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
 VHBloodlines 1.2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+? Override merge animations – does not seem to work properly for VH Bloodlines.
+? Mark Mergeable and deactivate
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
@@ -9536,7 +9540,7 @@ RoomOfEnchantment.esp
 Scavenger Scamp.esp
 xFC64PetAttackStaffv2.esp
 AgarMoreVariedSpellEffects.esp
-% {{BASH:Sound}} and deactivate.
+% {{BASH:Sound}}
 kuerteeMagickaBasedMagicJeweleryLimits.esp
 MofMagecraft1.7.esp
 Advanced Magecraft.esp
@@ -9589,7 +9593,7 @@ Recastable Summons - Mighty Magicka Version.esp
 \BeginGroup\: Supreme Magicka
 
 AgarVariedSpellSounds_SupremeMagicka.esp
-% {{BASH:Sound}} and deactivate.
+% {{BASH:Sound}}.
 SupremeMagicka.esp
 % {{BASH:Names,Graphics}}
 SM Ancestral Guardian.esp

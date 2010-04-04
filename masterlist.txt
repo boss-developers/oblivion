@@ -5,7 +5,9 @@
 \ ? A comment about the mod above.
 \ * Flags a critical mistake for FCOM installation in relation to the mod above.
 \ : An installation requirement (ie another mod or OBSE etc.)
+\ " A specific incompatibility.
 \ $ an OOO specific comment
+\ ^ A Better Cities specific comment
 \
 \ > process this line only if FCOM is installed.
 \ < process this line only if FCOM isn't installed.
@@ -1140,7 +1142,7 @@ Ayleid Loot EXtension.esp
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
 kuerteeAutoSaveAndTime.esp
-? Incompatible with Streamline's Streamsave and Cobl's clock.
+" Streamline's Streamsave and Cobl's clock.
 Amulet of Magicka.esp
 Amulet of Magicka_1Ñ.esp
 Amulet of Magicka_1C.esp
@@ -1940,7 +1942,7 @@ VvardenfellIngredRedone.esp
 \BeginGroup\: Base W
 
 Walk to Oblivion.esp
-? Incompatible with mods like Enhanced Daedric Invasion that modify Oblivion Gate scripts.
+" Mods like Enhanced Daedric Invasion that modify Oblivion Gate scripts.
 ? Use Walk to Oblivion - OBSE.esp if you need compatibility with those mods.
 Walk to Oblivion - OBSE.esp
 Walk to Oblivion - OGMMR.esp
@@ -2012,7 +2014,7 @@ moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 
 Oblivion Alive.esp
-? May be incompatible with BC - untested.
+^ May be incompatible with BC - untested.
 Oblivion Alive Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
@@ -3494,6 +3496,7 @@ ZMP NoError.esp
 
 Thieves Arsenal.esp
 : OBSE.
+Thieves_Arsenal_Patch_033010.esp
 Knock Out Arrows.esp
 Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
@@ -4775,6 +4778,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Passive Wildlife.esp
 <Mart's Monster Mod - City Defences.esp
+<^ Incompatible with BC - City Defences.
 <Mart's Monster Mod - Curse of Hircine.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
@@ -4853,7 +4857,7 @@ Zombie Diversity.esp
 ? Consider using Creature Diversity.esp or MMM or Frans instead.
 
 WCGL - Wilderness Creatures 1.1.esp
-? Incompatible with OOO, MMM and Francescos.
+" OOO, MMM and Francescos.
 
 Master-Crafting-1.1-MMM.esp
 ? Needs patch: Master-Crafting-1.1-MMM Greaves fix.esp
@@ -5321,7 +5325,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 [Calsar] BetterWhiteStallionLodge.esp
 
 007 Market district fps boost.esp
-? Probably incompatible with Better Cities.
+^ Probably incompatible with Better Cities.
 00RBScribeSupplies Intensive.esp
 ? Use only one 00RBScribeSupplies mod at a time.
 00RBScribeSupplies02, read summary.esp
@@ -5554,7 +5558,7 @@ Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 AbandonedHouse.esp
-? Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
+^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
 AbandonedHouseBC.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
@@ -5691,17 +5695,17 @@ TCP Silence remover.esp
 Cliff_PersonalGuildStorageChest.esp
 
 Clintmichs Beautiful Imperial City Arboretum.esp
-? Probably incompatible with BC IC Arboretum and similar.
+^ Probably incompatible with BC IC Arboretum and similar.
 Clintmichs Beautiful Arcane University.esp
-? Probably incompatible with BC
+^ Probably incompatible with BC
 Clintmichs Beautiful Market District v1.3.esp
-? Probably incompatible with BC
+^ Probably incompatible with BC
 Clintmichs Beautiful Elven Gardens District v1.1.esp
-? Probably incompatible with BC
+^ Probably incompatible with BC
 Clintmichs Improved Prison District v1.1.esp
-? Probably incompatible with BC
+^ Probably incompatible with BC
 Clintmichs Beautiful Talos Plaza District.esp
-? Probably incompatible with BC
+^ Probably incompatible with BC
 
 COR-Episode1 Secret of Enourk.esp
 CM_Minor_Quests_1.2.esp
@@ -6424,7 +6428,7 @@ NecromancerHunting.esp
 Necromancer Shop.esp
 Nerussa The Wine Collector v1.0.esp
 New Imperial City.esp
-? Probably incompatible with Better Cities IC components.
+^ Probably incompatible with Better Cities IC components.
 NewSheothManor.esp
 NNICTunnel.esp
 
@@ -6544,7 +6548,7 @@ Quest Nirnroot.esp
 Reaper's Animated Lute.esp
 Reaper's Bleaker's Way Village Revamp.esp
 Reaper's Coldstone Town.esp
-? Incompatible with Heart of the Dead.
+" Heart of the Dead.
 Reaper_Drakelowe's Witch.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
@@ -6558,7 +6562,7 @@ RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
 Region Revive - Lake Rumare.esp
-? Incompatible with most Weye-related mods.
+" most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
 Region Revive - Lake Rumare - OOO LockBash.esp
 Return Of Shadows.esp
@@ -6686,7 +6690,7 @@ sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
-? Incompatible with 'Ayleid Wells'
+" 'Ayleid Wells'
 SRJelytra.esp
 SRJlandDreugh.esp
 SRJmarasProtection.esp
@@ -6838,19 +6842,19 @@ FCOM_Stirk.esp
 Transmutation.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
-? Incompatible with UL mod(s).
+" UL mod(s).
 Treasure_Dungeon-8846.esp
 Treasure Maps Blood Ransom.esp
-? Incompatible with UL mod(s).
+" UL mod(s).
 Treasure Maps_Boethia's Burden.esp
-? Incompatible with UL mod(s).
+" UL mod(s).
 treasure maps captus demus.esp
 Treasure Maps Meridias Womb.esp
-? Incompatible with UL mod(s).
+" UL mod(s).
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
-? Incompatible with UL mod(s).
+" UL mod(s).
 Treasure Maps Revenge Of The Nords.esp
-? Incompatible with UL mod(s).
+" UL mod(s).
 Trial of Achilles.esp
 Tyler's Property Tax.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
@@ -6928,11 +6932,11 @@ Viking Village.esp
 VOILA.esp
 VOILA - Soldiers of Empire.esp
 Vypers Arrow Spells-SI.esp
-? Incompatible with Better Cities.
+^ Incompatible with Better Cities.
 ? Old, upgrade to V2+.
 Vypers Arrow Spells-SI V2.esp
 Vypers Arrow Spells.esp
-? Incompatible with Better Cities.
+^ Incompatible with Better Cities.
 ? Old, upgrade to V2+.
 Vypers Arrow Spells-Vanilla V2.esp
 VypersAstralStorage.esp
@@ -7370,6 +7374,7 @@ Shadowcrest_Vineyard_Guard.esp
 \FCOM optional addon patches
 
 >Mart's Monster Mod - City Defences.esp
+>^ Incompatible with BC - City Defences.
 
 FCOM_mightyumbra.esp
 : 'Mighty Umbra.esp'.
@@ -7500,9 +7505,9 @@ Sylix.esp
 Tales from Elsweyr 2_1.esp
 
 WaterfrontMarket.esp
-? Probably incompatible with Better Cities.
+^ Probably incompatible with Better Cities.
 WaterfrontMarketNoShack.esp
-? Probably incompatible with Better Cities.
+^ Probably incompatible with Better Cities.
 \EndGroup\\
 
 Valhalla Asgardia.esp
@@ -8039,11 +8044,11 @@ NPC new clothes V2.6.esp
 FCOM_NewNPCClothes.esp
 : 'New NPC Clothes 2.6'.
 KS - Cities FPS Boost.esp
-? Probably Better Cities incompatible.
+^ Probably Better Cities incompatible.
 KS - Imperial FPS Boost.esp
-? Probably Better Cities incompatible.
+^ Probably Better Cities incompatible.
 KS - Kvatch FPS Boost.esp
-? Probably Better Cities incompatible.
+^ Probably Better Cities incompatible.
 
 RedBag - Imperial City Pack.esp
 
@@ -8269,7 +8274,7 @@ Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
 Curseman's Anti Extinction Mod.esp
 % {{BASH:Delev,Relev}}
-? Incompatible with overhauls
+" overhauls
 CT-YABM.esp
 ?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 CT-YABM - No Idle.esp
@@ -9813,7 +9818,7 @@ Poison Combiner.esp
 Advanced Magecraft.esp
 Weapon Magic.esp
 varlatest.esp
-? Incompatible with mods that alter Welkynd or Varla stones or the AyleidWell script.
+" mods that alter Welkynd or Varla stones or the AyleidWell script.
 TSRCS.esp
 CDM-Alchemy Anywhere.esp
 Arcane Infusion.esp
@@ -11634,7 +11639,7 @@ boethia custom race.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
-% {{BASH:Body-F,NoMerge}} and deactivate
+% {{BASH:Body-F}} and deactivate
 ? Delete if you use 'Cobl Races - Balanced.esp'.
 \EndGroup\\
 

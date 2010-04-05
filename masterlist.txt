@@ -137,6 +137,7 @@ BetterMusicSystem.esm
 bookplacing.esm
 BathingMod_Base.esm
 BP EDIT.esm
+BreakUndies.esm
 CURP_Controller.esm
 No Lights Flicker.esm
 Ambidextrie.esm
@@ -961,6 +962,11 @@ QuietFeet.esp
 $ Not compatible with OOO. Try 'Quiet Feet Max' (or any similar mod that replaces sound files).
 Footstep Sound Fix.esp
 Quiet Feet Complete.esp
+QuietFeet Max.esp
+? Make sure that you have the right codecs installed to be able to play the sound files.
+% {{BASH:Sound}}
+QuietFeet HorseArmor.esp
+% {{BASH:Sound}}
 Silent Player Voice.esp
 Drum_Fix.esp
 
@@ -2010,8 +2016,12 @@ StandingJOJO.esp
 moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 ? For use with Better Cities use replacing fix for BBC.
+moDem's City Life - BP Compat Vwalk.esp[
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)	
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
+moDem's City Life Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)	
 
 Oblivion Alive.esp
 ^ May be incompatible with BC - untested.
@@ -2344,6 +2354,7 @@ avarm.esp
 \BeginGroup\: Items A
 
 A_Simple_Ring-8333.esp
+AAbuiesdaqun.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 AC2Gear_RS.esp
@@ -2530,8 +2541,10 @@ BlackGlovesRus.esp
 Blackhand Courtesan.esp
 Blackheart and Gizmodian ECRobes.esp
 BlackSoulGemArmory.esp
+Blackwire.esp
 Blade Of Woe Replacer.esp
 % {{BASH:Graphics}}
+Blakeley's Lachrymal Bow.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bluefire Claymore by Mr. V.esp
@@ -2606,6 +2619,7 @@ ClothGloves.esp
 CLS-ClassyClothesFactions.esp
 Christian's Claymore.esp
 Change Undies Everyday.esp
+Chapel Shop.esp
 Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
@@ -2705,6 +2719,7 @@ Deathlilith.esp
 Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
+DesuChan's Stealth Gear Complete.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
@@ -2762,6 +2777,7 @@ DH13 Battle China Dress.esp
 Echo_MysticShield.esp
 ElegantVests.esp
 ElementalWeapons.esp
+Elwing.esp
 Emperor's Heavy War Armor.esp
 % {{BASH:Invent}}
 Eternal Dragon Armor light.esp
@@ -2891,6 +2907,7 @@ HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
 HGEC Evening Dress.esp
+HGEC Witch Queen Ritual Robe.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -2900,6 +2917,7 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Heron Mark Swords 1.0.esp
+HL2set.esp
 Hadhafang.esp
 \EndGroup\\
 
@@ -2911,6 +2929,7 @@ Ice Gowns for HGEC.esp
 Icxth Sword.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
+IvyArmor_Arena_Hcup.esp
 \EndGroup\\
 
 \BeginGroup\: Items J
@@ -2980,6 +2999,7 @@ Kikai & Slof Clothing.esp
 \BeginGroup\: Items L
 
 LadiesOrcish.esp
+LadyDeath.esp
 Lady Jasmine Moon.esp
 lam.esp
 LD - New Arrows.esp
@@ -2989,6 +3009,7 @@ Leveled Weapons.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
+Lockbreaker.esp
 LockpickMold.esp
 LockpickToolkit.esp
 LoH Equipment v0_02_2.esp
@@ -3037,6 +3058,7 @@ Wearable GS and DS armor.esp
 $ Use 'for OOO' version for better OOO/FCOM compatibility.
 Ma.S.Tro's Black Crest Kit v1.03.esp
 Masks Revised.esp
+MechaFox.esp
 Medieval Shields.esp
 Meerkat Clothing.esp
 MerryBellInn.esp
@@ -3318,6 +3340,7 @@ SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
 SPB Belt Girl.esp
+SPB Serpent Suits.esp
 SPB Suicup 2.esp
 spartanspears.esp
 % {{BASH:Invent}}
@@ -3733,6 +3756,7 @@ TGND_SI.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 TGND Accompt of the Delitescent.esp
 TGND - Kogane's Ranger Armor.esp
+TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
 
 UFF Armor of Gaia.esp
@@ -5395,6 +5419,7 @@ Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 A Qrazy Quest.esp
+AlchemistForHire.esp
 AleswellHomeQuest.esp
 AL_Maverick.esp
 Along Came A Spider.esp
@@ -5424,6 +5449,7 @@ AyleidQuest.esp
 Ayleid Treasury
 Amajor7 Imperial Furniture.esp
 Amaterasu no Yume.esp
+Amen'thalas Well House.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
@@ -5692,6 +5718,7 @@ ConLoBattleGenMod.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
+Clep Reborn.esp
 Cliff_PersonalGuildStorageChest.esp
 
 Clintmichs Beautiful Imperial City Arboretum.esp
@@ -6243,12 +6270,16 @@ kvatch essential.esp
 KvatchRising.esp
 
 EiAmod.esp
-? Use 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
-? Use 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
-? Use 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
+: 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
+: 'EtInArkay-BravilBarrowfields patch.esp' compatibility patch if using Unique Landscapes Bravil Barrowfields.
+: 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
+: 'EtInArkay-CheydinhalFalls patch.esp' if using UL Cheydinhal Falls
+: 'EtInArkay-AspenWood patch.esp' if using UL Aspen Wood
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
+EiAmod Vwalk.esp[
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
 
 KumikoManor.esp
 KEMT.esp
@@ -7212,6 +7243,7 @@ Knights - AWS Patch.esp
 Knights_fem.esp
 NLF Knights.esp
 M.O.E. - Visit Valen Dreth Topic.esp
+M.O.E. - Main Quest Delayer.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
@@ -7439,6 +7471,7 @@ ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
+ElsweyrAnequina - Races HGEC-Robert.esp
 ElsweyrAnequina Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 ElsweyrAnequina v2 Vwalk.esp
@@ -7453,6 +7486,7 @@ ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
+Walkabout.esp
 
 Skyrim.esp
 
@@ -7501,6 +7535,9 @@ A Imperial Outpost - Fort Novi Sad.esp
 Reaper's Waterfront.esp
 ReclaimSancreTor.esp
 Sylix.esp
+Split Expansion.esp
+Split Expansion Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
 
 Tales from Elsweyr 2_1.esp
 
@@ -7763,10 +7800,12 @@ CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Villages-CheydinhalFalls patch.esp
 Villges-CheydinhalFalls patch.esp
+EtInArkay-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
 Lakewood+AspenWood Patch.esp
+EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
@@ -8447,6 +8486,7 @@ GuilesNameReplace-Scrolls.esp
 
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
+haz_ct1_no_fasttravel.esp
 haz_spawn_oblivion_gates.esp
 HelmetFOV.esp
 HelmetFOV-OBSE.esp
@@ -8908,6 +8948,8 @@ talkwithyourhands2.esp
 talkwithyourhands PI4.esp
 TameWildlife.esp
 Docile SI Creatures.esp
+Teleport Everywhere.esp
+: OBSE.
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 ATakesAll.esp
@@ -9081,7 +9123,6 @@ TIE In - BC-Anvil.esp
 \Must go after anything that alters the main quest.
 
 Arks Tutorial Terminator.esp
-M.O.E. - Main Quest Delayer.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations}}
 Skip Tutorial.esp
@@ -9384,6 +9425,7 @@ aaBlazesPlusMod.esp
 Banishment Works.esp
 BasicInstinct.esp
 Better Scrolls.esp
+CartographersUnite.esp
 CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
 CDM-Scavenge Corpse.esp
@@ -10818,6 +10860,8 @@ Nec-Character_Karla.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec-Character_Sonnet_Mature.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Moonshadow Elves - Sc.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Mystic_DarkElf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Nec Mystic Dark Elf-Remake.esp
@@ -10838,6 +10882,8 @@ Ice Elves and Wolf Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Riflers Races.esp
+% {{BASH:Hair,Eyes,R.Relations}}
 Slof's Playable Xivilai.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
@@ -10922,6 +10968,15 @@ Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Beautiful People 2ch-Ed Chocolate Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Beautiful People 2ch-Ed Cute Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Beautiful People 2ch-Ed Nec Mystic High Elf Remake
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+
 x117race.esp
 
 IDKRRR_C_race.esp
@@ -11017,6 +11072,8 @@ ahtata dremora.esp
 Ahtata Arquamer spike4hair.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,Body-F,Body-M}}
 ? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
+ahtata Ork.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Arabian Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ash Elves.esp
@@ -11183,7 +11240,9 @@ CM Tifa A.esp
 CM_Kailinda.esp
 CM Jessica.esp
 cm_Jo-han.esp
+CM Partner Sarija.esp
 CmRisingStars.esp
+cmSashaSonja.esp
 CM Yana.esp
 CM_Dragonchixx.esp
 Colourwheels Sexy Tifa.esp
@@ -12047,6 +12106,7 @@ OOO-Respawn_Month.esp
 OOO-Respawn_Two_Week.esp
 OOO-Respawn_Week.esp
 OOO-Respawn_Year.esp
+Z 1 Hour respawn.esp
 ThingasTime 1-15 Scale.esp
 Automatic Timescale.esp
 Timescale 5x Real-Life.esp

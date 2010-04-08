@@ -3380,6 +3380,7 @@ SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
 Silverlight Armor by Jojjo.esp
+superspeedrings100.esp
 \EndGroup\\
 
 \BeginGroup\: Items T
@@ -5654,6 +5655,7 @@ Blackrock_Mountain-4489.esp
 Bottomless Cavern.esp
 Blacktache's Secrets 3.esp
 Blitz's Dungeons & Realms- Molag Fel.esp
+Bonds Firebird V01.esp
 BogwaterDowns.esp
 Boqwater_Settlement_V103.esp
 br_anvilchurch.esp
@@ -5911,6 +5913,7 @@ FalamirTheMerchant.esp
 FallenTower.esp
 Fanacasecul.esp
 Farleum V 1.2.esp
+FishermansCottage.esp
 fishing boat.esp
 TheForbiddenSecret.esp
 Forgotten Chapel.esp
@@ -6040,6 +6043,7 @@ Hentai mania OOO patch.esp
 Hero Hill Redone.esp
 HobbitHole.esp
 Holy Cathedral.esp
+Home_1.1a.esp
 Horse Dreamland.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
@@ -6886,6 +6890,7 @@ thievery - EE patch.esp
 
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
+Tobes_house.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
@@ -8299,6 +8304,8 @@ Bullettimemodsetkey.esp
 Bullet Time Custom.esp
 PowerBulletTime.esp
 WHOOSH.esp
+TimeWizard.esp
+: OBSE (only if using version 2.1+)
 
 Buried_Treasure.esp
 BuyLockpicks.esp
@@ -8794,6 +8801,8 @@ ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
 Repair_Anytime-9384.esp
+real_tools.esp
+% {{BASH:Scripts}}
 Realistic Creature Rarity.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RareItemsv1.18 for RCR.esp

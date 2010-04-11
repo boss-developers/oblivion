@@ -544,9 +544,10 @@ DLCShiveringIsles Vwalk DG_DS.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 
 MOBS.esp
-% {{BASH:Stats}}
+% {{BASH:Graphics,Stats}}
+? Not need if you use MOBS SI.esp
 MOBS SI.esp
-% {{BASH:Stats}}
+% {{BASH:Graphics,Stats}}
 MOBS Optional Combat Settings.esp
 MOBS SI Optional Combat Settings.esp
 

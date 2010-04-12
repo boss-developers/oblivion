@@ -4,9 +4,9 @@
 \ % A Bashed Patch suggestion for the mod above.
 \ ? A comment about the mod above.
 \ * Flags a critical mistake for FCOM installation in relation to the mod above.
-\ : An installation requirement (ie another mod or OBSE etc.)
+\ : An installation requirement (ie another mod or OBSE etc.).
 \ " A specific incompatibility.
-\ $ an OOO specific comment
+\ $ An OOO specific comment.
 \ ^ A Better Cities specific comment
 \
 \ > process this line only if FCOM is installed.
@@ -1423,6 +1423,7 @@ Buyable Ayldeid Dishes.esp
 ? Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
 
 CT-Com's Torch Compendium.esp
+CT-Backpacks.esp
 Cyrodilic Brandy.esp
 % {{BASH:Graphics}} and deactivate.
 Cure_Vampirism.esp
@@ -1497,8 +1498,6 @@ Fish! - v1.1.esp
 Fishing in Cyrodiil.esp
 ? If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
 Flamering.esp
-FrbitPotionReplacer.esp
-% {{BASH:Graphics,Names}}
 Fundies.esp
 fwDropGold.esp
 \EndGroup\\
@@ -8502,6 +8501,8 @@ $ Not needed if using OOO.
 Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
+FrbitPotionReplacer.esp
+% {{BASH:Graphics,Names,NoMerge}} and deactivate.
 Furniture Prices.esp
 \EndGroup\\
 
@@ -8807,6 +8808,7 @@ ResNormalWepsAdd.esp
 Repair_Anytime-9384.esp
 real_tools.esp
 % {{BASH:Scripts}}
+? Very dirty - Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile all command'.
 Realistic Creature Rarity.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RareItemsv1.18 for RCR.esp
@@ -9133,6 +9135,8 @@ Quest Award Leveller - Mehrunes Razor.esp
 Quest Award Leveller - Knights of the Nine.esp
 
 Quest Stacks - Black Bows and Vampire Dust.esp
+
+toothPCanims.esp
 
 Andrews_No_Quest_Items.esp
 
@@ -10921,6 +10925,8 @@ Nec-Character_Karla.esp
 Nec-Character_Sonnet_Mature.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Moonshadow Elves - Sc.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Moonshadow Elves - NoSc.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Mystic_DarkElf.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

@@ -2559,6 +2559,7 @@ Blade Of Woe Replacer.esp
 Blakeley's Lachrymal Bow.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
+Blue and White.esp
 Bluefire Claymore by Mr. V.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
@@ -2768,6 +2769,7 @@ Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
 Dread Knight Armor.esp
+Dread Knight Weapons.esp
 druid_tomb.esp
 DS Mage's Belt.esp
 doofdillas_potions_recolored_unsorted_v0_2_1.esp
@@ -2809,6 +2811,7 @@ Excessor Sword.esp
 
 \BeginGroup\: Items F
 
+Fall Hair Wig - EV.esp
 FalxMod.esp
 % {{BASH:Invent}}
 Fans for Helain.esp
@@ -2828,6 +2831,7 @@ FinGleamRing.esp
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
+FSN Equipments.esp
 Flamberge.esp
 Fur Cape.esp
 FancyFinery.esp
@@ -2909,6 +2913,7 @@ Hell'sExecutioner.esp
 Hemingweys NPC Capes.esp
 % {{BASH:Invent}}
 
+Hentai_CerenityArmor.esp
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
 HENTAI_EVE.esp
@@ -2917,6 +2922,7 @@ Hentai_HentaiUniform.esp
 Cloth_Hentai_Compilation.esp
 Hentai Compilation.esp
 Hentai_Compilation.esp
+Hentai_LilyClothes.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
@@ -3029,6 +3035,7 @@ Lockbreaker.esp
 LockpickMold.esp
 LockpickToolkit.esp
 LoH Equipment v0_02_2.esp
+LongTop.esp
 Loth's Armory of the 1st Empire.esp
 LootableLichHelm_Lt.esp
 % {{BASH:Invent}}
@@ -3256,6 +3263,7 @@ RoseGear.esp
 
 \BeginGroup\: Items S
 
+SaberCloth.esp
 Sacredblade.esp
 Saint Hiryu's Artifacts.esp
 % {{BASH:Invent}}
@@ -3416,6 +3424,7 @@ The SilverDragonArmorQuest.esp
 % {{BASH:Invent}}
 The Sword of Cyrodiil.esp
 The Sword of Truth.esp
+thunderfury.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
 tkSwords.esp
@@ -3779,6 +3788,7 @@ TGND_LeatherHunterArmour.esp
 TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND Warrior Skin.esp
+Underwear TGND.esp
 
 UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
@@ -4032,6 +4042,7 @@ R18PN - Amy Armor Set.esp
 R18PN - Ayumi Set.esp
 R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
+R18PN - Leere Armor.esp
 R18PN - Mizugi set.esp
 SexyKunoichi.esp
 
@@ -4429,6 +4440,7 @@ LG's Unscaled Enemies.esp
 G_'s-Loot-Mod_v2.5[Scaled Version].esp
 G_'s-Loot-Mod_v2.5[Unscaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
+G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
 \EndGroup\\
 
 \BeginGroup\: OOO full and lite.
@@ -4502,6 +4514,7 @@ mg19obsefix.esp
 
 OOO_Arena_Loot.esp
 OOO CheapWine Vanilla Effects.esp
+OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
 % {{BASH:Graphics}}
@@ -5487,6 +5500,7 @@ AnorielsCrossroadsManor1.2.esp
 AnvilBayExpansion.esp
 ? Not Better Cities compatible. Already included in Better Cities Anvil.
 ? Not Open Cities compatible. Already incuded in Open Cities Anvil.
+AnvilManor2.0.esp
 Anvil_Mazecave.esp
 Atropa.esp
 Anvil_MorningGloryBetterCities_Blue.esp
@@ -7830,6 +7844,8 @@ xulImperialIsle Swalk.esp
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
+ImperialManor-ImperialIsle patch.esp
+ImperialManor-ImperialIsle patch DV.esp
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
@@ -8926,6 +8942,8 @@ Skill Perk Descriptions Enhancement.esp
 $ OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
 Skillbased Thieves Guild Invitation.esp
+Steel Helm Replacer.esp
+% {{BASH:Graphics,NoMerge}} and deactivate.
 Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
@@ -9248,6 +9266,7 @@ Carry all you want.esp
 Carry_all_you_want-5118.esp
 haz_encumbrance_x1.5.esp
 encumbrance.esp
+Encumbrance100.esp
 encumberancemodx10.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
@@ -10975,6 +10994,8 @@ Dremora Race Playable.esp
 DremoraFemales.esp
 % {{BASH:Voices-F}}
 The Complete Dremora.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+LJD_HumanMIKA.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Luchaire's Dryad Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}

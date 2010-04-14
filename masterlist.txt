@@ -6414,6 +6414,8 @@ LostTreasures1.1.esp
 Ls More Butterflies and Fireflies Not In Interiors.esp
 Ls More Butterflies and Fireflies.esp
 Lycanmoon.esp
+? Old, update to version 1.6+.
+Lycanmoon1.6b.esp
 Lycanthrope.esp
 ? Consider upgrading to Werewolf - Legends of the North.
 Lycanthrope 2.esp
@@ -8630,7 +8632,7 @@ Large_Battle_FPS_increase-7447.esp
 Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Leviathan Soulgems.esp
-? Use the original rather than the abridged version (same name); the abridged version has a malformed esp which may cause problems.
+? if using the abridged version (same name); make sure to be using the latest version (released in 2010) the earlier version had a malformed header tha could cause errors.
 SoulgemSalvation.esp
 ? Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
@@ -11582,6 +11584,7 @@ AMD.esp
 
 Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F}}
+? Do not use with RBP.
 Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 : the Cobl Cosmetics Res 01 files installed.
@@ -11597,9 +11600,11 @@ Cobl - NPCDiversity - TNR Merge.esp
 
 bgBalancingEVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
+? Do not use with COBL Races.
 bgBalancingDVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
+? Do not use with COBL Races
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
@@ -11774,6 +11779,7 @@ sr_race_balance_tweaks.esp
 Trap.esp
 Cobl Races - Balanced.esp
 % {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
+? Do not use with RBP.
 Cobl Balanced Races - MMR Patch.esp
 Diverse Races.esp
 % {{BASH:Body-F,Body-M}}

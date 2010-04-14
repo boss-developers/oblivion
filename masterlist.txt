@@ -271,7 +271,8 @@ TRoN Swalk.esp
 TRoN Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
 \Probably doesn't need to load this early but the authors recommend it.
-
+notamod.esp
+? I'm just here for temporary testing -- specifically for Surazal.
 !Oblivion_PL.esp
 % {{BASH:Names}}
 \EndGroup\\
@@ -3210,6 +3211,7 @@ Potion Belt.esp
 PerditionsEdge.esp
 SLPD_Ponytail.esp
 PTArtifacts.esp
+PureSteelBlade.esp
 PythonHolyhg.esp
 \EndGroup\\
 
@@ -5820,6 +5822,9 @@ Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
+(DC) Sutch Reborn Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+? The bash tag seems to be ignored by WB 282 - turn off Automatic and set manually
 Sutch Reborn Spawn Patch.esp
 
 The Dead Knights.esp
@@ -5861,6 +5866,8 @@ DSPirateIsleBeta.esp
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
+Dwarven Mines Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
 
 Duke Patricks - Basic Combat Training.esp
 Duke Patricks - Bottle Shoot Archery Practice.esp
@@ -6576,6 +6583,8 @@ Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
 Vampire Hunting - Order Of The Virtuous Blood.esp
+Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
 OSE - Outlook.esp
 \EndGroup\\
 
@@ -7200,6 +7209,7 @@ DLCFrostcrag.esp
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 Kvatch Rebuilt_Frostcrag Reborn.esp
+Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
 % {{BASH:C.Name,C.Owner}} and remove the C.Climate tag
@@ -11607,6 +11617,8 @@ bgMagicDV.esp
 bgMagicEV.esp
 % {{BASH:Names,Delev,Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
+bgMagicEV Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
 bgMagicSpellTomes_for_WryeBash.esp
 bgMagicDVSpellTomes_for_WryeBash.esp
 bgMagicItemSigil.esp
@@ -11689,6 +11701,11 @@ bgBalancingDVOptionalBetterRedguards.esp
 : Better Redguards installed with its ESP deactivated.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 
+bgBalancingEVOptionalNPCDiversity, Vanilla Better Redguards.esp
+: 'bgBalancingEVOptionalBetterRedguards.esp'.
+? Use only one 'OptionalNPCDiversity' plugin.
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
+% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
@@ -12600,6 +12617,14 @@ MUTE.esp
 
 KSE_v3.esp
 
+
+OOO-Magic_Script_Effect_Fix.esp
+% {{BASH:Sound,Graphics}}
+bgScriptEffectSilencer.esp
+% {{BASH:Sound,Graphics}}
+NoScriptHitVisual.esp
+% {{BASH:Sound,Graphics}}
+
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
@@ -12717,8 +12742,6 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 
 Slof's Manly Stride.esp
 SWalk.esp
-bgScriptEffectSilencer.esp
-NoScriptHitVisual.esp
 no_mouse_wheel.esp
 
 \EndGroup\\
@@ -12807,25 +12830,23 @@ Duke Patricks - Combat Magic.esp
 \I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
 \Staying here until the SCA stuff moves though, these should be after that.
 
-OOO-Magic_Script_Effect_Fix.esp
-% {{BASH:Sound}}
 Duke Patricks Script Effect Silencer.esp
 ? Old. Upgrade to latest version.
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 Duke Patricks Script Effect Silencer Rev 2.esp
 ? Old. Upgrade to latest version.
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 Duke Patricks Script Effect Silencer Silver Edition.esp
 ? Old. Upgrade to latest version.
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 Duke Patricks Script Effect Silencer Gold Edition.esp
 ? Old. Upgrade to latest version.
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 Duke Patricks - BASIC Script Effect Silencer.esp
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
 ? Old. Upgrade to latest version.
-\% {{BASH:Sound}}
+% {{BASH:Sound,Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Last Files

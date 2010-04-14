@@ -205,7 +205,7 @@ Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
 x117race.esm
 SoVvM.esm
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Graphics}}
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 p2p'sAshDraconian.esm
@@ -11601,10 +11601,12 @@ Cobl - NPCDiversity - TNR Merge.esp
 bgBalancingEVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? Do not use with COBL Races.
+% {{BASH:Eyes,Hair,R.Relations}}
 bgBalancingDVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
 ? Do not use with COBL Races
+% {{BASH:Eyes,Hair,R.Relations}}
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\

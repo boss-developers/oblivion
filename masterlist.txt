@@ -11080,7 +11080,7 @@ Beautiful People 2ch-Ed Nec Mystic High Elf Remake
 x117race.esp
 
 IDKRRR_C_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race_closed_mouth_version.esp
 idkrrr_sarams_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -11126,7 +11126,7 @@ Lattamer.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Chocolate Elves.esp
 : Hairs from Corean mod FULL 1.8
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IceElfRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 LittleElf.esp
@@ -11182,7 +11182,7 @@ Ash Elves.esp
 Ancient Elven Sorceress - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 CapsAdmin.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Moogles.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sharingan and Uchiha Clan.esp
@@ -11196,7 +11196,7 @@ X.Night.Elf.esp
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 X.Races.Comp.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Merges and combinations

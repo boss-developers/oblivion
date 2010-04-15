@@ -11756,8 +11756,10 @@ bgBalancingEVLAMEIntegration.esp
 bgHighElfSeamReducerFixEV.esp
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
+% {{BASH:Body-M}}
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
+% {{BASH:Body-M}}
 \EndGroup\\
 
 \BeginGroup\: BG Integration quest

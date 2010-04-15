@@ -1586,7 +1586,6 @@ $ Not OOO compatible - already included in OOO.
 ? Newer version is available. Update to v99.91 or later.
 Lock Bash v99.91.esp
 $ Not OOO compatible - already included in OOO.
-Lock Bash Omega.esp
 Security Rebalance-Traps and Bash Locks.esp
 Lyn-CitySigns.esp
 Lyn-DarkBrotherhoodAssassins.esp
@@ -3299,6 +3298,7 @@ Shdw_Weapon Set_Thorgeir.esp
 Shdw_weapon pack01.esp
 Shdw_weapon pack02.esp
 Shields Of Antiquity.esp
+% {BASH:Invent}}
 Shivering Armor Variety.esp
 SCHIFFWHITEMAGEROBE.esp
 Shrouded Armor X.esp
@@ -4230,6 +4230,8 @@ Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
 % {{BASH:Invent}}
+SIRMS.esp  
+% {{BASH:Names}}
 The Last Queen Of The Ayleids.esp
 \EndGroup\\
 
@@ -5292,6 +5294,8 @@ IABaneOils 100.esp
 % {{BASH:Factions}}
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
+
+Lock Bash Omega.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -5533,6 +5537,7 @@ Archery Shop.esp
 Arboretum Bathhouse.esp
 Arboretum Bathhouse Variety.esp
 Arena Armory.esp
+Arena Girl.esp
 ArchersLodge.esp
 ? Update to version 1.1.
 ArchersLodge1.1.esp

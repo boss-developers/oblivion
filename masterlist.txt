@@ -1180,6 +1180,7 @@ Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}} and deactivate.
+!Book Jackets Oblivion - PL.esp
 OBG - Buechermod - Bilder.esp
 OBG - Buechermod - Bilder - BP.esp
 % {{BASH:Graphics}}
@@ -4308,6 +4309,7 @@ Francesco's Optional Vendor Tweaks.esp
 Francesco's Optional Leveled Quests.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 UOP-Frans Optional Quests patch.esp
+UOP-Optional Quests Patch.esp
 
 <Francesco's Optional Leveled Quests-SI only.esp
 Francesco's Optional Leveled Arena.esp
@@ -9862,7 +9864,6 @@ Vector.esp
 FingerOfTheMountain.esp
 sr_casting_hand.esp
 CandleNoMagicCapsV2.esp
-LightSpellWhiteDimmer.esp
 Josef Grey's Natural Starlight.esp
 Spells No Lighting.esp
 
@@ -10029,6 +10030,7 @@ svaReEnch_1C.esp
 Crime and Stealth Rebalance.esp
 MerchantFriendsBuysStolen.esp
 MerchantsAlwaysBuyStolen.esp
+Merchants Buy Stolen Goods.esp
 More Realistic Sneaking - Sneaking Changes.esp
 More Realistic Sneaking 1.9 - Sneaking Changes.esp
 More Realistic Sneaking - Sleepkill Dagger.esp
@@ -11816,6 +11818,8 @@ KT_CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 CustomRaceFix.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
+Custom Race Fix.esp
+? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 boethia custom race.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 ? It is obligatory to use together with Cosmetic Compilation.esp
@@ -12575,7 +12579,11 @@ Visual Enchantments v1.0.esp
 LightSpellLiteBlue.esp
 STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
+LightSpellBlue.esp
+LightSpellEvilRed.esp
+LightSpellTorch.esp
 LightSpellWhite.esp
+LightSpellWhiteDimmer.esp
 ScriptEffectSubduer.esp
 SnArrowEffects.esp
 bgMagicEVNoSpellLight.esp

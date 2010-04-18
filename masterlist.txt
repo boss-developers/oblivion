@@ -6066,9 +6066,11 @@ hchouse408.esp
 HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts}}
+>:FCOM_Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 FCOM_Hentai Mania.esp
+:Hentai Mania.esp and FCOM
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
@@ -10643,7 +10645,7 @@ Slof's Sexy Anims.esp
 zzEstrus.esp
 walklikesheo.esp
 NewAnimation.esp
-% {{BASH:Actors.Anims,Deactivate}}
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides

@@ -254,22 +254,22 @@ Book Jackets Oblivion - BP - SSBFL.esp
 bookplacing.esp
 
 Oblivion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 SoVvM Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Oblivion_SI Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TRoN Rwalk.esp
 ? Outdated, upgrade to Sensual Walks.
 TRoN Swalk.esp
 ? Outdated, upgrade to Sensual Walks.
 TRoN Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 \Probably doesn't need to load this early but the authors recommend it.
 notamod.esp
 ? I'm just here for temporary testing -- specifically for Surazal.
@@ -285,121 +285,121 @@ notamod.esp
 xeoex.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 xeoex Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 TNR - THE REDGUARDS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE DUNMER.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE IMPERIALS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE BRETONS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE ALTMER.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE BOSMER.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE NORDS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE ORCS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE KHAJIIT.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - THE ARGONIANS.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - all.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR- All Races.esp
 ? Not need if use Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR ALL RACES FINAL.esp
 ? Not need if use Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - ALL RACES FINAL.esp
 ? Not need if use Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR ALL RACES FINAL Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TNR - All Races for OOO.esp
 ? Use this instead TNR ALL RACES esps for OOO
 ? Not need if use Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - ShiveringIsles.esp
 ? Not need if use Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,Invent,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,Invent,NoMerge,Deactivate}}
 TNR - ShiveringIsles no helms.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TNR - ShiveringIsles no helms Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Tamriel NPCs Revamped.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Oblivion_SI Vwalk Full TNR.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 TweakedGenericFaces.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 TweakedGenericFaces-LITE.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Better-Horse-Eyes.esp
-% {{BASH:Graphics,NoMerge}} and deactivate.
+% {{BASH:Graphics,NoMerge,Deactivate}}
 Younger Hotter NPC's 0.99.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 ? Old, update to version 1+.
 Younger Hotter NPC's v1.0.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Younger Hotter NPC's v1.0 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful_Women_NiceOnly.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_DB_Addon.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_SI.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_Vampires.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_Vampires_50.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_DB_Addon Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful_Women_NiceOnly Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful_Women_NotSoNice_Bonus.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_NotSoNice_Bonus Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful_Women_SI Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful_Women_Vampires_50 VWalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Beautiful Women Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Handsome_Gents_Addon.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Handsome_Gents_DB_Addon.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Handsome_Gents_SI.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Handsome_Gents_Vampires.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Handsome_Gents_Vampires_50.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Handsome_Gents_Bonus.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 emperorface.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Absolutely_Sexy_MarketDistrict.esp
-% {{BASH:NpcFaces,Invent,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,Invent,NoMerge,Deactivate}}
 YoungerNPCs.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH:NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
 % {{BASH:Actors.Anims,NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 beardy.esp
 % {{BASH:NpcFaces}}
 \EndGroup\\
@@ -540,9 +540,9 @@ SI Public Music.esp
 % {{BASH:C.Music}}
 
 DLCShiveringIsles Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 DLCShiveringIsles Vwalk DG_DS.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 MOBS.esp
 % {{BASH:Graphics,Stats}}
@@ -562,41 +562,41 @@ ShiveringMounts.esp
 \----------
 
 Oblivion Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Oblivion_SI Vwalk Full UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 DLCShiveringIsles Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 DLCShiveringIsles Vwalk DG_DS UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 
 TNR ALL RACES FINAL Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 TNR - ShiveringIsles no helms Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Oblivion_SI Vwalk Full TNR UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Beautiful_Women_NiceOnly Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_DB_Addon Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_SI Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_Vampires Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_Vampires_50 Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful_Women_NotSoNice_Bonus Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 Beautiful Women Vwalk Full UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Colourwheels Sexy Female NPCs Vwalk UOS.esp
-% {{BASH:Actors.Anims,NpcFaces,NoMerge}} and deactivate
+% {{BASH:Actors.Anims,NpcFaces,NoMerge,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: BSA tricks
@@ -1179,7 +1179,7 @@ SI Clothes.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 !Book Jackets Oblivion - PL.esp
 OBG - Buechermod - Bilder.esp
 OBG - Buechermod - Bilder - BP.esp
@@ -1383,7 +1383,7 @@ Cliff's Smokey Chimneys.esp
 Clothes Get Wet.esp
 Chapel Tithe.esp
 CM_Better Wine.esp
-% {{BASH:Graphics}} and deactivated
+% {{BASH:Graphics,Deactivate}}d
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
@@ -1427,7 +1427,7 @@ Buyable Ayldeid Dishes.esp
 CT-Com's Torch Compendium.esp
 CT-Backpacks.esp
 Cyrodilic Brandy.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
@@ -1824,7 +1824,7 @@ Nude Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 
 REBetterLCB.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 REBetterDrinks.esp
 % {{BASH:Graphics,Invent}}
 Redecoration.esp
@@ -1855,12 +1855,12 @@ Rock Remover - Underwater.esp
 Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
 Sexual_SpiderDaedra.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 ? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
- % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
+ % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
  Oblivion Sexualized Monsters-exclu TRM.esm
-  % {{BASH:Graphics,Invent}} and deactivate. This is just an educated guess - needs confirming by someone who uses this.
+  % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -2029,40 +2029,40 @@ moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 ? For use with Better Cities use replacing fix for BBC.
 moDem's City Life - BP Compat Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)	
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}	
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 moDem's City Life Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)	
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}	
 
 Oblivion Alive.esp
 ^ May be incompatible with BC - untested.
 Oblivion Alive Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 OBC City Life - FULL.esp
 
 Crowded Cities 15.esp
 Crowded Cities 15 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
 
 Crowded Roads.esp
 Crowded Roads Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Roads 7.esp
 Crowded Roads 7 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Roads 15.esp
 Crowded Roads 15 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Roads 23.esp
 Crowded Cities 30 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Roads 23 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
 Crowded Roads Revamped.esp
@@ -2084,7 +2084,7 @@ travellers c.esp
 travellers d.esp
 ? Old, update to 'travellers-new balance.esp'.
 travellers-new balance Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Populated Prisons.esp
 PCTM.esp
@@ -2216,7 +2216,7 @@ DLCOrrery Rwalk.esp
 DLCOrrery Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCOrrery Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -2258,13 +2258,13 @@ DLCMehrunesRazor Rwalk.esp
 DLCMehrunesRazor Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 DLCMehrunesRazor Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCMehrunesRazor Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 SM Plugin Refurbish - MehrunesRazor.esp
 DBSQR - MehrunesRazor.esp
 
@@ -2274,9 +2274,9 @@ DLCSpellTomes - Unofficial Patch.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Correctif SpellTomes.esp
 Book Jackets DLC.esp
-% {{BASH:Graphics,NoMerge}} and deactivate.
+% {{BASH:Graphics,NoMerge,Deactivate}}
 GrimbotsSpellTomes.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Body replacers
@@ -2287,7 +2287,7 @@ GrimbotsSpellTomes.esp
 
 Nude.esp
 Nude Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 LeoGoBezerk_MakeItPorn_UA_v100.esp
 JuvenileMod.esp
 EshmesBodiesV2.esp
@@ -3458,9 +3458,9 @@ Invasion.esp
 Dark Legion.esp
 
 mz_Shields.esp
-% {{BASH:Graphics}} and deactivate when using overhaul mods.
+% {{BASH:Graphics,Deactivate}} when using overhaul mods.
 mz_Shields_SI.esp
-% {{BASH:Graphics,NoMerge}} and deactivate when using overhaul mods.
+% {{BASH:Graphics,NoMerge,Deactivate}} when using overhaul mods.
 
 Tona_ShadowWalker_v2.esp
 Town_Ceremonial_Armor.esp
@@ -3986,7 +3986,7 @@ Ironless Skirt.esp
 SexyLeather.esp
 ares-Exnem.esp
 Armamentium female.esp
-% {{BASH:Graphics,NoMerge}} and deactivate
+% {{BASH:Graphics,NoMerge,Deactivate}}
 Roberts Armamentium female.esp
 % {{BASH:Graphics}}
 Robert Blackluster.esp
@@ -4223,7 +4223,7 @@ FastHorse v03.esp
 
 AncientTowers.esp
 AncientTowers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 AncientTowersNoExnem.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
@@ -4242,7 +4242,7 @@ The Last Queen Of The Ayleids.esp
 \tag with names and total compatibility
 
 Ranokoas Organized Potions.esp
-% {{BASH:Names}}, deactivate. If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
+% {{BASH:Names,Deactivate}} If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
 \EndGroup\\
 
 \BeginGroup\: DLC 2
@@ -4261,13 +4261,13 @@ DLCThievesDen Rwalk.esp
 DLCThievesDen Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 DLCThievesDen Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCThievesDen Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 SM Plugin Refurbish - ThievesDen.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
@@ -4507,7 +4507,7 @@ Fine Weapons for OOO.esp
 Improved Imperial Dragon.esp
 
 Oscuro's_Oblivion_Overhaul Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 OMOBS.esp
 % {{BASH:Stats}}
@@ -4966,11 +4966,11 @@ TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 TamrielTravellers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TamrielTravellers4MMM.esp
 * Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
 TamrielTravellers4MMM Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Travellers4MMMHostileFactions.esp
 * Delete. Not FCOM compatible.
 TamrielTravellersFactionAll.esp
@@ -4980,13 +4980,13 @@ TamrielTravellers4000.esp
 TamrielTravellers4OOO.esp
 >: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TamrielTravellersItemsNPC.esp
-% {{BASH:Filter,Delev,Relev}} and deactivate.
+% {{BASH:Filter,Delev,Relev,Deactivate}}
 TamrielTravellersItemsCobl.esp
 : COBL.
 TamrielTravellersItemsVendor.esp
-% {{BASH:Filter,Delev,Relev}} and deactivate.
+% {{BASH:Filter,Delev,Relev,Deactivate}}
 TamrielTravellersItemsUnscaled.esp
 * Delete. Not FCOM compatible.
 ? Not overhaul mod compatible.
@@ -4994,12 +4994,12 @@ ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
 : Shivering Isles expansion.
 ShiveringIsleTravellers Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
 ShiveringIsleTravellersFriendlyFactions.esp
 ShiveringIsleTravellersFriendlyFactions4MMM.esp
 TamrielTravellersHorseTextures.esp
-% {{BASH:NoMerge,Graphics}} and deactivate.
+% {{BASH:NoMerge,Graphics,Deactivate}}
 FCOM_TamrielTravelers.esp
 : 'TamrielTravellers4OOO.esp'
 
@@ -5579,7 +5579,7 @@ Auriel's Books.esp
 ? Not compatible with better cities - already included in BC IC Market District plugin.
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
 AzurasServices_de.esp
@@ -5831,7 +5831,7 @@ Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 (DC) Sutch Reborn Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? The bash tag seems to be ignored by WB 282 - turn off Automatic and set manually
 Sutch Reborn Spawn Patch.esp
 
@@ -5875,7 +5875,7 @@ aaaJNF-&-DS-Pirate-Isles-Beta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
 Dwarven Mines Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Duke Patricks - Basic Combat Training.esp
 Duke Patricks - Bottle Shoot Archery Practice.esp
@@ -5915,15 +5915,15 @@ Extended Imperial City.esp
 Extended Imperial City point 5.esp
 Extended Imperial City Version 1.0.esp
 Extended Imperial City Version 1.0 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Extended Chorrol.esp
 Extended Chorrol Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Extended Skingrad.esp
 Extended Skingrad Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Extended City Series Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Extended NPCs Merge.esp
 EvilLair.esp
 Abriael_Human.esp
@@ -5932,9 +5932,9 @@ BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
 eyja.esp
 eyja Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Eyja Abriael Human Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -6045,7 +6045,7 @@ Halcyon House.esp
 Halls of Unrelent.esp
 Hammerfell.esp
 Hammerfell Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
@@ -6067,7 +6067,7 @@ HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts}}
 Hentai Mania Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
@@ -6096,7 +6096,7 @@ Hunter's Haven File 1.esp
 HeartoftheDead.esp
 % {{BASH:Hair}}
 HeartOftheDead Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 OC-HOD-Patch.esp
 ? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
 HOD_delayer.esp
@@ -6206,7 +6206,7 @@ ImpeREAL Empire - Unique Castles - Skingrad.esp
 ? Not compatible with Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Imperial City Ranch.esp
 
@@ -6329,7 +6329,7 @@ Kvatch Rebuilt Rwalk.esp
 Kvatch Rebuilt Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -6344,7 +6344,7 @@ EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
 EiAmod Vwalk.esp[
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 KumikoManor.esp
 KEMT.esp
@@ -6383,7 +6383,7 @@ OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
 GlenvarCastle Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
@@ -6594,7 +6594,7 @@ Order of the Virtuous Blood Expanded v0.1.esp
 Order of the Virtuous Blood Expanded v0.3.esp
 Vampire Hunting - Order Of The Virtuous Blood.esp
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 OSE - Outlook.esp
 \EndGroup\\
 
@@ -6642,6 +6642,7 @@ Quest.esp
 Quest For The Elements.esp
 QQuix - Divine Elegance Showroom.esp
 QQUix Conceptuals - Anvil Docks Beta.esp
+QQuix Conceptual - NPC ACE - Anvil Docks - Beta 0.1.esp
 Quest Nirnroot.esp
 \EndGroup\\
 
@@ -6695,7 +6696,7 @@ RumpleMod Rwalk.esp
 RumpleMod Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 RumpleMod Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 RunedRobes.esp
 runestone.esp
 RuneTower.esp
@@ -6830,12 +6831,12 @@ SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
 Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
 ? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil.
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 Sheogorath`s Artifacts.esp
 \EndGroup\\
@@ -6848,7 +6849,7 @@ TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
 Tantrivaylia.esp
 Tantrivaylia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
@@ -6864,7 +6865,7 @@ TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
@@ -7096,7 +7097,7 @@ Wrath of Sithis.esp
 Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
 Cyrodiil Travel Services Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Fairies.esp
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
@@ -7237,7 +7238,7 @@ BrumaMGRestored Rwalk.esp
 BrumaMGRestored Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 BrumaMGRestored Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
 Frostcrag Revisited Coblised.esp
@@ -7248,11 +7249,11 @@ DLCFrostcrag Rwalk.esp
 DLCFrostcrag Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 DLCFrostcrag Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 DLCfrostcrag Reborn Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 DLCFrostcrag Spire Revisited Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -7280,7 +7281,7 @@ Ulrim's Horses - Vanilla.esp
 
 Knights.esp
 Knights - Book Jackets.esp
-% {{BASH:Graphics, NoMerge}} and deactivate
+% {{BASH:Graphics,NoMerge,Deactivate}}
 Traduccion mejorada KoT9.esp
 % {{BASH:Names}} or without Bash load it later.
 KnightsBabFemaleArmor.esp
@@ -7296,13 +7297,13 @@ Knights Rwalk.esp
 Knights Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Knights Rwalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Swalk UOP.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Knights Vwalk UOP.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 EVE_KnightsoftheNine.esp
 % {{BASH:Graphics}}
 MOBS_Knights.esp
@@ -7373,7 +7374,7 @@ CybHarder.esp
 CybHardest.esp
 ? only use one Cybiades difficulty plugin
 Cybiades Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Damarask.esp
 Castle_Knightstone.esp
@@ -7400,7 +7401,7 @@ OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 ? Upgrade to latest version of Ruined Tail's Tale.
 RTT Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 MTCExpandedVillages.esp
 ? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
@@ -7415,7 +7416,7 @@ LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 The Lost Spires Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp
@@ -7441,7 +7442,7 @@ Blood&Mud.esp
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
 Blood&Mud - EE Patch.esp
 Blood&Mud Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Lost Paladins of the Divines.esp
 
@@ -7550,9 +7551,9 @@ BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina - Races HGEC-Robert.esp
 ElsweyrAnequina Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ElsweyrAnequina v2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Reaper's Esmeralda's Desert Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Upgrade to latest version and remove.
@@ -7578,11 +7579,11 @@ Bridges For the Fools.esp
 
 Feldscar.esp
 Feldscar Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Vergayun.esp
 Vergayun Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Faregyl.esp
 % {{BASH:Factions,Relations}}
@@ -7590,12 +7591,12 @@ Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp
 Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 
 TVIcar.esp
@@ -7614,7 +7615,7 @@ ReclaimSancreTor.esp
 Sylix.esp
 Split Expansion.esp
 Split Expansion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Tales from Elsweyr 2_1.esp
 
@@ -7626,7 +7627,7 @@ WaterfrontMarketNoShack.esp
 
 Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 MTCThievesGrotto.esp
 ? Upgrade to v4.1.
@@ -7637,10 +7638,10 @@ MTCThievesGrottoV4.esp
 MTCThievesGrottoV4.1.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 \BeginGroup\: Landscape and City overhauls
 \----------------------------
@@ -7708,7 +7709,7 @@ xulChorrolHinterland Rwalk.esp
 xulChorrolHinterland Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulChorrolHinterland Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
 TheOrderofNibenay-Chorrol Hinterland patch.esp
@@ -7762,7 +7763,7 @@ xulbravilbarrowfields Rwalk.esp
 xulbravilbarrowfields Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulbravilbarrowfields Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
 Suliin-BravilBarrowfields patch.esp
@@ -7826,7 +7827,7 @@ xulRollingHills_EV Rwalk.esp
 xulRollingHills_EV Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulRollingHills_EV Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 TreasureMapsCaptusDemus-RollingHills patch.esp
 CDMNecromancy-RollingHills patch.esp
 BeldaElysium-RollingHills patch.esp
@@ -7851,7 +7852,7 @@ xulBrenaRiverRavine Rwalk.esp
 xulBrenaRiverRavine Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulBrenaRiverRavine Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Gaelendryll-BrenaRiver patch.esp
 NakedNord.esp
 
@@ -7862,7 +7863,7 @@ xulImperialIsle Rwalk.esp
 xulImperialIsle Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 ImperialManor-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch DV.esp
@@ -7887,12 +7888,12 @@ Unique Landscapes - Aspen Wood DV.esp
 Lakewood+AspenWood Patch.esp
 EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 xulSkingradOutskirts.esp
 Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -7910,7 +7911,7 @@ xul Rwalk Full.esp
 xul Swalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Vwalk Full.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 \EndGroup\\
 
@@ -7939,7 +7940,7 @@ bartholm.esp
 Bartholm-Panther River Patch.esp
 bartholm - EE patch.esp
 Bartholm Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Fort Akatosh Redux.esp
 % {{BASH:Relations}}
@@ -8333,9 +8334,9 @@ Bonds Big Portable Tent.esp
 Tent.esp
 Bottled_Explosions.esp
 Bow Damage Balanced.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 Brandon's Misc Rebalance.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 
 BOO_BulletTime.esp
 Bullettimemod.esp
@@ -8377,7 +8378,7 @@ Cobl Hmm.esp
 Cobl Bookplacement.esp
 Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 CompanionHorseSupport.esp
@@ -8538,7 +8539,7 @@ Flee Further.esp
 Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 FrbitPotionReplacer.esp
-% {{BASH:Graphics,Names,NoMerge}} and deactivate.
+% {{BASH:Graphics,Names,NoMerge,Deactivate}}
 Furniture Prices.esp
 \EndGroup\\
 
@@ -8641,6 +8642,7 @@ Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Leviathan Soulgems.esp
 ? if using the abridged version (same name); make sure to be using the latest version (released in 2010) the earlier version had a malformed header tha could cause errors.
+Leviathan Soul Gems Abridged.esp
 SoulgemSalvation.esp
 ? Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
@@ -8674,19 +8676,19 @@ M.O.E. - Lycanthropy and Lichcraft.esp
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
-% {{BASH:Stats}} and deactivate if you don't care about the No Quest Items feature.
+% {{BASH:Stats,Deactivate}} if you don't care about the No Quest Items feature.
 Better and realistic prices.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 RedBag - Items Repriced v2.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 Fixed_Repriced_Clutter_11_by_Carpmalenko_POD-9319.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 Shadow's Balance Price Fixv2.0.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 Shadow's Merged Value FixesNOBLOODPOTv2.0.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 Shadow's Merged Value Fixesv2.0.esp
-% {{BASH:Stats}} and deactivate.
+% {{BASH:Stats,Deactivate}}
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 CM_Essential_Classes.esp
@@ -8744,7 +8746,7 @@ Near100PercentArrowRecovery.esp
 NewMerchantItems.esp
 New_Magical_Staves.esp
 newsheogorath.esp
-% {{BASH:NpcFaces}} and deactivate.
+% {{BASH:NpcFaces,Deactivate}}
 NFs_Kvatch_Guard_Tweak-7399.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
@@ -8963,7 +8965,7 @@ $ OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
 Skillbased Thieves Guild Invitation.esp
 Steel Helm Replacer.esp
-% {{BASH:Graphics,NoMerge}} and deactivate.
+% {{BASH:Graphics,NoMerge,Deactivate}}
 Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
@@ -9789,10 +9791,10 @@ MidasSpellTomes.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
 MMC_Iphigenia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 MMC_DarkZoe.esp
 MMC_DarkZoe Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Midas Betterholy.esp
 Midas SMHolyHeal.esp
 ? DELETE: Outdated
@@ -10654,15 +10656,15 @@ immersive_caves_auto.esp
 % {{BASH:Names}}
 immersive_caves_manual.esp
 Dark Dungeons.esp
-% {{BASH:C.Light}} and deactivate.
+% {{BASH:C.Light,Deactivate}}
 Dark Dungeons -  SI.esp
 % {{BASH:C.Light}}
 Darker Dungeons.esp
 % {{BASH:C.Light}}
 _darker dungeons.esp
-% {{BASH:C.Light}} and deactivate.
+% {{BASH:C.Light,Deactivate}}
 _darker_dungeons.esp
-% {{BASH:C.Light}} and deactivate.
+% {{BASH:C.Light,Deactivate}}
 less_dungeon_effects-6330.esp
 
 
@@ -10778,43 +10780,42 @@ Arena betting.esp
 \'''''''''''''''''''''
 ArgonianBeautification-RaceSettings.esp
 BulkyNord.esp
-% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,Deactivate}}
 BulkyOrcs.esp
-% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,Deactivate}}
 Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-M,Body-F,R.Relations}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,R.Relations,Deactivate}}
 Bigger_Dremora.esp
-% {{BASH:Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,Deactivate}}
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F}} make sure to merge into the bashed patch and deactivate.
-? Also to be safe only use the Body-M & Body-F tags with Wrye Bash version 280+ (otherwise may have incorrect body changes include in the bashed patch).
+% {{BASH:NpcFaces,R.Teeth,Graphics,Body-M,Body-F,Deactivate}}
 JJR'sWhiskers and Eyebrow.esp
-% {{BASH:NpcFaces,R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,R.Teeth,Graphics,Deactivate}}
 EyelashesVanillaRaces.esp
-% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,Graphics,Deactivate}}
 EyelashesVannilaRaces.esp
-% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,Graphics,Deactivate}}
 EyelashesForVanillaRaces1.0.esp
-% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,Graphics,Deactivate}}
 Jjiinx_MorrowindStyleArgonians.esp
-% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,Graphics,Deactivate}}
 Better Redguard v2.esp
-% {{BASH:NpcFaces,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:NpcFaces,Graphics,Deactivate}}
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 BigDunmerEars.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces,Deactivate}}
 Smaller Elf ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces,Deactivate}}
 Jjiinx_Long Ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces,Deactivate}}
 Head06 Replacer.esp
-% {{BASH:Body-M,Body-F,NpcFaces}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:Body-M,Body-F,NpcFaces,Deactivate}}
 WhiskersAll.esp
-% {{BASH:R.Teeth,Graphics}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:R.Teeth,Graphics,Deactivate}}
 MergedMouth.esp
-% {{BASH:R.Mouth}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:R.Mouth,Deactivate}}
 JoinedJaws.esp
-% {{BASH:R.Teeth}} make sure to merge into the bashed patch and deactivate.
+% {{BASH:R.Teeth,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Hair
@@ -10825,96 +10826,96 @@ Custom Hairs for Vanilla Race.esp
 % {{BASH:Hair}}
 M.O.E. - Unlocked Hairstyles.esp
 Bald_Hairstyle.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 tkHairPack01.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 babehair_EV.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 soya_04hair.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 Soya 4 Hair Pack.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 Soya 4 Hair Pack - English.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 BWs Argonian Hair.esp
-% {{BASH:Graphics,Hair}} and deactivate.
+% {{BASH:Graphics,Hair,Deactivate}}
 CT-Argonian Headstyles.esp
-% {{BASH:Graphics,Hair}} and deactivate.
+% {{BASH:Graphics,Hair,Deactivate}}
 Corean_hair_for_Original_race.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 _Ren_BeautyPack_onlyhairs.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 KDshorthair.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 Saram_Corean_NPC_Hair_1_0.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 ZBRE.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 ZelsHairfixRenshairV1_5.esp
-% {{BASH:Hair}} and deactivate.
+% {{BASH:Hair,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Eyes
 \''''
 
 ElaborateEyes.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 Ethereal - Eyes.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 DaMage's_Eye_Pack.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 PHVanillaEyesAddon.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 elveons realistic eyes.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 Cernasite - DragonEyes.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 JCPeepers.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 Koldorns Eye Mod.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 Cat_eyes.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 Cat_eyes_add.esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 DesuChan's Anime Eyes (Vanilla).esp
-% {{BASH:Eyes}} and deactivate.
+% {{BASH:Eyes,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Mixed
 \'''''
 
 All_hair_and_eyes-1841.esp
-% {{BASH:Hair,Eyes}} and deactivate.
+% {{BASH:Hair,Eyes,Deactivate}}
 BP-Cosmetic_Compilation-Alternative.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
 Cosmetic Compilation XXL DV.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
 EE-Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes}} and deactivate
+% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
 CCR - EE.esp
-% {{BASH:NpcFaces,Hair,Eyes}} and deactivate
+% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
 CCR - Capucine.esp
 Capucine'sEyeSelection+NewHair.esp
-% {{BASH:Hair,Eyes}} and deactivate.
+% {{BASH:Hair,Eyes,Deactivate}}
 Comprehensive Style Collection RM.esp
-% {{BASH:Hair,Eyes}} and deactivate.
+% {{BASH:Hair,Eyes,Deactivate}}
 ElaborateEyes-RensBeautyPackFull.esp
-% {{BASH:Hair,Eyes}} and deactivate.
+% {{BASH:Hair,Eyes,Deactivate}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
-% {{BASH:Hair,Eyes}} and deactivate.
+% {{BASH:Hair,Eyes,Deactivate}}
 CT-Argonian Headstyles-EE.esp
-% {{BASH:Graphics,Hair,Eyes}} and deactivate.
+% {{BASH:Graphics,Hair,Eyes,Deactivate}}
 CT-Argonian Headstyles-MM.esp
-% {{BASH:Graphics,Hair,Eyes}} and deactivate.
+% {{BASH:Graphics,Hair,Eyes,Deactivate}}
 CT-Argonian Headstyles-EE+MM.esp
-% {{BASH:Graphics,Hair,Eyes}} and deactivate.
+% {{BASH:Graphics,Hair,Eyes,Deactivate}}
 MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
@@ -11242,7 +11243,7 @@ Additional Cosmetics for BP.esp
 TFF ROBERT Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Graphics,Hair,Eyes,Body-M,Body-F,Graphics}}.
 TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,Graphics,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,R.Teeth,Graphics,NoMerge,Deactivate}}
 BeautifulPeople2.2+TweakedGenericFacesLITE.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BeautifulPeople2.2+TweakedGenericFaces.esp
@@ -11287,35 +11288,35 @@ CompanionMaster.esp
 
 CM Partners.esp
 CM Partners Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners Special NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Special NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners NPC.esp
 % {{BASH:Hair,Eyes}}
 CM Partners NPC Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners NPC NE.esp
 % {{BASH:Hair,Eyes}}
 CM Partners NPC NE Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners More NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners More NPCs NE.esp
 % {{BASH:Hair,Eyes}}
 CM Partners More NPCs NE Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners Marker NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Marker NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners Extra NPCs.esp
 % {{BASH:Hair,Eyes}}
 CM Partners Extra NPCs Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Partners Auto Loot add-on.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
@@ -11335,10 +11336,10 @@ A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 CMPartner_Xenia.esp
 CMPartner_Xenia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Xenia_CMPartner.esp
 Xenia_CMPartner Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 cmAbbeyAeryn.esp
 cmChocolates.esp
 CM_LoreleiU.esp
@@ -11405,9 +11406,9 @@ cssJaKhaiitMyr.esp
 
 1em_Vilja.esp
 1em_Vilja Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 1em_Vilja Not Essential Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Aliyah.esp
 ArianaTrudeaux.esp
 Arwen companion.esp
@@ -11426,7 +11427,7 @@ Companion Neeshka Rwalk.esp
 Companion Neeshka Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Companion Neeshka Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 companion_deepelves.esp
 companion_moonelves.esp
 companion_chocolate.esp
@@ -11468,7 +11469,7 @@ Ramy Enfant.esp
 Rhianna.esp
 % {{BASH:Hair,Eyes}}
 Rhianna Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 RhiannaII.esp
 % {{BASH:Hair,Eyes}}
 Rinn.esp
@@ -11477,7 +11478,7 @@ Saerileth.esp
 % {{BASH:Hair,Eyes}}
 sexycompanion.esp
 sexycompanion Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Shard.esp
 Shivering Creature Companion.esp
 Sher Ja Lion Companion.esp
@@ -11486,7 +11487,7 @@ SnowAndHarukoCMPartners.esp
 Sonia.esp
 % {{BASH:Hair,Eyes}}
 Sonia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
@@ -11596,13 +11597,13 @@ Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F}}
 ? Do not use with RBP.
 Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate.
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 1
@@ -11635,7 +11636,7 @@ bgMagicEV.esp
 % {{BASH:Names,Delev,Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
 bgMagicEV Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (Tag requires WB version 278+)
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 bgMagicSpellTomes_for_WryeBash.esp
 bgMagicDVSpellTomes_for_WryeBash.esp
 bgMagicItemSigil.esp
@@ -11674,7 +11675,7 @@ Kyoma's Spell Renamer for L.A.M.E..esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 : BASH for proper use
-% {{BASH:IIM,Filter,Invent}} and deactivate.
+% {{BASH:IIM,Filter,Invent,Deactivate}}
 Shads Spellbook.esp
 qazSpellbook.esp
 Recastable Summons.esp
@@ -11692,15 +11693,15 @@ bgBalancingEVOptionalMoreEyes.esp
 
 bgBalancingEVOptionalNPCDiversity, Beautification.esp
 ? Use only one 'OptionalNPCDiversity' file.
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp
 ? Replace with 'bgBalancingEVOptionalNPCDiversity, Vanilla.esp'
 bgBalancingEVOptionalNPCDiversity, Vanilla.esp
 ? Use only one 'OptionalNPCDiversity' file.
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
 ? Use only one 'OptionalNPCDiversity' file.
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 
 bgBalancingEVOptionalHalvedMagicka.esp
 bgBalancingEVOptionalWeaker.esp
@@ -11722,27 +11723,27 @@ bgBalancingEVOptionalNPCDiversity, Vanilla Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 bgBalancingEVOptionalNPCDiversity, Beautification Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 bgBalancingEVOptionalNPCDiversity, for Wrye Bash Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 bgBalancingEVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}} and deactivate
+% {{BASH: NpcFaces,Invent,NoMerge,Deactivate}}
 
 bgBalancingEVOptionalFCOMAdditions.esp
 
@@ -11777,7 +11778,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:NpcFaces}} and deactivate
+% {{BASH:NpcFaces,Deactivate}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 \EndGroup\\
@@ -11827,7 +11828,7 @@ boethia custom race.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
 EVE_KhajiitFix.esp
-% {{BASH:Body-F}} and deactivate
+% {{BASH:Body-F,Deactivate}}
 ? Delete if you use 'Cobl Races - Balanced.esp'.
 \EndGroup\\
 
@@ -11842,9 +11843,9 @@ Better Cities Full Rwalk.esp
 Better Cities Full Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Cities Full Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Better Cities Full - B&M Edition Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Better Cities IC Districts.esp
 
@@ -12072,7 +12073,7 @@ Better Imperial City Rwalk.esp
 Better Imperial City Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Imperial City Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 
@@ -12087,7 +12088,7 @@ Better Cities and IC Rwalk.esp
 Better Cities and IC Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Cities and IC Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 \BeginGroup\: Better Cities FPS Patches
 
@@ -12508,21 +12509,21 @@ Jake's Water.esp
 Advanced_Water_Modification.esp
 % {{BASH:Graphics}}
 Real Lava 1.3.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Real Lava.esp
 ? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Real Lava v1.1.esp
 ? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Real Lava 1.2.esp
 ? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Real Lava v1.2.esp
 ? Update to 1.3 or later.
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Improved Lava.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 ScreenControls.esp
 Summon_Bear.esp
 Better Turn Undead Shader.esp
@@ -12531,39 +12532,39 @@ Visually Enchanted 2.1 No Shock Particles.esp
 Visually Enchanted 2.1.esp
 Visually Enchanted.esp
 Visually Enchanted Damage and Absorb with Particles.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Drains 1.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Drains.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Fire 1.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Fire 2.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Fire 3.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Fire.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Frost 1.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Frost 2.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Frost 3.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Frost.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Shock 1.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Shock 2.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Shock 3.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted Shock.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted SoulTrap 1.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Enchanted SoulTrap.esp
-% {{BASH:Graphics}} and deactivate.
+% {{BASH:Graphics,Deactivate}}
 Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp
 Visual Enchantments LessFire.esp
@@ -12664,7 +12665,7 @@ StokerWolff 1.3.esp
 
 Dschinni.esp
 Dschinni Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.
@@ -12674,7 +12675,7 @@ Viconia Rwalk.esp
 Viconia Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Viconia Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Viconia_delayer.esp
 ViconiaChapterTwo.esp
 : the Underdark.
@@ -12684,7 +12685,7 @@ ViconiaChapterTwo Rwalk.esp
 ViconiaChapterTwo Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}} and deactivate (WB version 278+ otherwise merge but may run into facial errors).
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 UnderdarkMap.esp
 
 Open Cities Road Record.esp
@@ -12715,8 +12716,7 @@ Cobl Filter Late MERGE ONLY.esp
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 All Natural - Indoor Weather Filter For Mods.esp
-% {{BASH:Filter,C.Climate}}
-? Do not activate. Must be merged into Bashed Patch using Import Cells.
+% {{BASH:Filter,C.Climate,Deactivate}}
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
 

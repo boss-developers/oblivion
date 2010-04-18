@@ -1539,7 +1539,7 @@ Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
-: Bashed Patch.
+% {{BASH:Filter,Deactivate}}
 \EndGroup\\
 
 \BeginGroup\: Base J
@@ -10742,9 +10742,11 @@ Item interchange - Placement.esp
 >? Non-FCOM version. Use 'Item interchange - Placement for FCOM.esp' instead.
 : recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
+% {{BASH:Delev,Filter,IIM,Invent,Relev,Deactivate}}
 : Bashed Patch
 <? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
+% {{BASH:Filter,IIM,Invent,Deactivate}}
 : Bashed Patch
 Item interchange - Placement for Frostcrag Reborn.esp
 : Bashed Patch
@@ -12701,18 +12703,18 @@ NRB4 OCLR Road Record.esp
 
 CUMoreDurableArmor.esp
 Bashed Delayers - MERGE ONLY.esp
-% {{BASH:Filter}}
+% {{BASH:Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
 Bashed Delayers E - MERGE ONLY.esp
-% {{BASH:Filter}}
+% {{BASH:Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
 Bashed Delayers NE - MERGE ONLY.esp
-% {{BASH:Filter}}
+% {{BASH: Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
 CoreRandmonClothing4Npcs.esp
-% {{BASH:Filter,Invent,IIM}}
+% {{BASH:Filter,Invent,IIM,Deactivate}}
 Cobl Filter Late MERGE ONLY.esp
-? Make sure it is deactivated. Must be merged into Bashed Patch
+% {{BASH: Filter,Deactivate}}
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 All Natural - Indoor Weather Filter For Mods.esp

@@ -225,6 +225,7 @@ StarX Vampire Deaths.esm
 SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
+HTSClight.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -12159,6 +12160,12 @@ Portrait Painter for Better Cities.esp
 HTS.esp
 OCC-HTS-Patch.esp
 HTS_getwet.esp
+HTS with Cooking.esp
+HTSCl_base.esp
+HTSCl_cobl.esp
+HTSCl_mmm.esp
+HTSCl_ooo.esp
+HTSCl_tent.esp
 
 TheOubliette.esp
 \EndGroup\\

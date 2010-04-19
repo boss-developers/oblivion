@@ -73,6 +73,7 @@ Children Of Rourken.esm
 Slof's Clouded Leopard.esm
 DASkeleton.esm
 Crafting Skill Engine.esm
+HTSClight.esm
 NPC With Jobs.esm
 CLS-ClassyClothes.esm
 Tamrielic Ingredients.esm
@@ -225,7 +226,6 @@ StarX Vampire Deaths.esm
 SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
-HTSClight.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1470,6 +1470,7 @@ DropLPUI.esp
 DS Time Manager.esp
 Duke Patricks - Basic Alchemic Immersion.esp
 DZ_Hide_Grass.esp
+DoF AutoToggle.esp
 \EndGroup\\
 
 \BeginGroup\: Base E
@@ -1540,6 +1541,10 @@ IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
 % {{BASH:Filter,Deactivate}}
+Immersive FOV.esp
+Immersive FOV for BMS.esp
+Immersive FOV No SI.esp
+Immersive FOV No SI for BMS.esp
 \EndGroup\\
 
 \BeginGroup\: Base J
@@ -1911,6 +1916,7 @@ SummonChest_v2.1.esp
 Summon Bed.esp
 
 svaToMoveObjects_1C.esp
+Shader Hotkey.esp
 \EndGroup\\
 
 \BeginGroup\: Base T

@@ -475,8 +475,6 @@ Unofficial Oblivion Patch DV.esp
 Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag.
-Unofficial Oblivion Patch-mobs.esp
-% {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag.
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 Oblivion Citadel Door Fix.esp
@@ -783,6 +781,7 @@ Ls More Butterflies and Fireflies.esp
 Ls More Butterflies and Fireflies 4.0.esp
 Ls More Butterflies and Fireflies 4.0 Halved.esp
 Ls More Butterflies and Fireflies 4.0 Quarter.esp
+Ls More Butterflies and Fireflies Not In Interiors.esp
 Ls More Butterflies and Fireflies Not In Interiors 4.0.esp
 Ls More Butterflies and Fireflies Not In Interiors 4.0 Halved.esp
 Ls More Butterflies and Fireflies Not In Interiors 4.0 Quarter.esp
@@ -4852,7 +4851,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
-<?obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
+<? obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
 <Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
@@ -4882,7 +4881,7 @@ Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH:Graphics}}
-?Not compatible with Slof's Horses or Slof's Extra Horses.
+? Not compatible with Slof's Horses or Slof's Extra Horses.
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 ? Not compatible with MMM Gems & Gem Dust or MMMforOOO
@@ -5019,15 +5018,15 @@ Choices and Consequences - FCOM - Diverse Guards.esp
 FCOM_BobsGuardUnity.esp
 : 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
-% {{BASH:Graphics}}
+% {{BASH:Factions,Graphics,Invent,NoMerge,Relev,Scripts,Deactivate}}
 : Shivering Isles expansion.
 FCOM_Archery.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats,Deactivate}}
 FCOM_ArcheryArmamentarium.esp
 : the Armamentarium Complete mod.
 % {{BASH:Stats}}
 FCOM_Archery_Armamentarium.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats,Deactivate}}
 FCOM_Archery_Artifacts.esp
 % {{BASH:Stats}}
 FCOM_ArcheryRealSwords.esp
@@ -5035,10 +5034,10 @@ FCOM_ArcheryRealSwords.esp
 % {{BASH:Stats}}
 FCOM_Archery_RealSwords.esp
 : 'FCOM_Realswords.esp'
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats,Deactivate}}
 FCOM_ArcheryHunting&Crafting.esp
 : 'Mart's Monster Mod - Hunting & Crafting.esp'.
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats,Deactivate}}
 FCOM_Archery_MMM_H&C.esp
 : 'Mart's Monster Mod - Hunting & Crafting.esp'.
 % {{BASH:Stats}}
@@ -5059,7 +5058,7 @@ Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 >Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 FCOM_FriendlierFactions.esp
-% {{BASH:Relations}}
+% {{BASH:NoMerge,Relations,Deactivate}}
 FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
@@ -5235,6 +5234,7 @@ MMM-Cobl.esp
 % {{BASH:Delev,Invent}}
 
 EVE_StockEquipmentReplacer4FCOM.esp
+% {{BASH:Graphics,NoMerge,Deactivate}}
 ? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
 ? For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
@@ -5521,7 +5521,6 @@ Anvil_MorningGloryBetterCities_Purple.esp
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
 
-AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 Aqvatika.esp
@@ -5556,6 +5555,8 @@ ArrowRestLodge.esp
 Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 Artifacts.esp
+Artifacts Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 ArtifactsFemaleArmor
 % {{BASH:Graphics}}
 ArtifactsforArmaComplete.esp
@@ -5647,7 +5648,6 @@ Better Benirus Manor for Cobl - Complete.esp
 Better Benirus Manor for Cobl - Interior Only.esp
 Better Rosethorn Hall.esp
 Better Shady Sam.esp
-BetterShack.esp
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -6066,11 +6066,11 @@ hchouse408.esp
 HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts}}
->:FCOM_Hentai Mania.esp
+>: FCOM_Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 FCOM_Hentai Mania.esp
-:Hentai Mania.esp and FCOM
+: Hentai Mania.esp and FCOM
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
@@ -6423,8 +6423,6 @@ LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
 LostTreasures1.1.esp
-Ls More Butterflies and Fireflies Not In Interiors.esp
-Ls More Butterflies and Fireflies.esp
 Lycanmoon.esp
 ? Old, update to version 1.6+.
 Lycanmoon1.6b.esp
@@ -6524,6 +6522,8 @@ Mysteries Of Atrene Camp.esp
 
 Nabu_Towers.esp
 Naughty_Joana_01.esp
+Naughty_Joana_01 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 Nanaelas Heartbreak.esp
 NecroHideOut.esp
 NecromancerHunting.esp
@@ -6809,7 +6809,6 @@ Star Ship Orion.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
-Street Market.esp
 sunk ships.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -7310,11 +7309,11 @@ Knights Swalk UOP.esp
 Knights Vwalk UOP.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 EVE_KnightsoftheNine.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge,Deactivate}}
 MOBS_Knights.esp
 % {{BASH:Stats}}
 MOBS Knights.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats,Deactivate}}
 SM Plugin Refurbish - Knights.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 SM Plugin Refurbish(Merged).esp
@@ -8404,9 +8403,9 @@ Curseman's Anti Extinction Mod.esp
 % {{BASH:Delev,Relev}}
 " overhauls
 CT-YABM.esp
-?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
+? Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 CT-YABM - No Idle.esp
-?Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
+? Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp
 
 \BeginGroup\: CUO
@@ -10614,9 +10613,9 @@ LainPoseMOD.esp
 LainPoseMODv1.4.esp
 
 SW01.esp
-?Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
+? Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
 SW01Plus.esp
-?Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
+? Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
 SW01Minus.esp
 SexyPlOneHand.esp
 
@@ -11292,6 +11291,7 @@ Toaster Says Share Faction Recruitment.esp
 
 CompanionMaster.esp
 
+rusik.esp
 CM Partners.esp
 CM Partners Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
@@ -11354,6 +11354,8 @@ cm lula wild.esp
 CM Garrus.esp
 CM Tifa A.esp
 CM_Kailinda.esp
+CM_Kailinda Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 CM Jessica.esp
 cm_Jo-han.esp
 CM Partner Sarija.esp
@@ -11436,7 +11438,11 @@ Companion Neeshka Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 companion_deepelves.esp
 companion_moonelves.esp
+companion_moonelves Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 companion_chocolate.esp
+companion_chocolate Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge,Deactivate}}
 companion_nightelves.esp
 % {{BASH:Hair,Eyes}}
 companion.esp
@@ -11499,7 +11505,6 @@ Tamara.esp
 Tiamat the Firedrake.esp
 BetterShack.esp
 Candlelight.esp
-Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp

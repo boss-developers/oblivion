@@ -176,6 +176,9 @@ cssBase.esm
 EarnYourEquipment.esm
 Lamps of Oblivion Master.esm
 morerunes' food collection.esm
+Nec - Extra Mystic Elf Face.esm
+AinmhiRace.esm
+Eluna.esm
 CM Partners.esm
 CM Partners Mod.esm
 Easy_Companion_Share.esm
@@ -192,15 +195,12 @@ SC_Drow Race.esm
 DrowRacesofFaerun.esm
 DIM Elves Of Lineage II Retex.esm
 Lineage II Elves.esm
-Eluna.esm
 300_Races.esm
-AinmhiRace.esm
 IceElfRace.esm
 Lattamerv3.esm
 Nec-Character_Clair.esm
 Nec-Character_Eva.esm
 Nec Mystic High Elf-Remake.esm
-Nec - Extra Mystic Elf Face.esm
 RaceFrameWork.esm
 Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
@@ -1383,7 +1383,7 @@ Cliff's Smokey Chimneys.esp
 Clothes Get Wet.esp
 Chapel Tithe.esp
 CM_Better Wine.esp
-% {{BASH:Graphics,Deactivate}}d
+% {{BASH:Graphics,Deactivate}}
 CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
@@ -2677,6 +2677,8 @@ Colourwheels Sexy Lingerie HGEC.esp
 Colourwheels Sexy Regal Uniforms.esp
 ColourWheels Sexy Servant Uniform.esp
 Colourwheels Sexy Nami.esp
+Colourwheels Sexy Hentais DarkRose.esp
+Colourwheels_Sexy_Sweetclothes.esp
 chainmailsdezi.esp
 \EndGroup\\
 
@@ -2741,12 +2743,14 @@ Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DesuChan's Stealth Gear Complete.esp
+DesuChan's Demon Huntress.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
 Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
+Dollparts_CorsetsoftheRose.esp
 DMACArmor.esp
 DMCWeapons.esp
 DMGloves.esp
@@ -2844,6 +2848,7 @@ Flamberge.esp
 Fur Cape.esp
 FancyFinery.esp
 0FallenOutfit.esp
+0FSexyLingerie.esp
 \EndGroup\\
 
 \BeginGroup\: Items G
@@ -2874,6 +2879,8 @@ Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
 Godslayer and Divine Protection.esp
+God Ring 1.esp
+the god ring.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
@@ -3135,6 +3142,8 @@ Nicos Scimitars Side.esp
 Nicos  Scimitars Side.esp
 Nicos Tabaxi Bows.esp
 Nicos Kynareth Archery.esp
+Nicos Gift NPC.esp
+Nicos Gift.esp
 Nighteye Glasses.obse.esp
 Night Knight Armor.esp
 ninjacowl.esp
@@ -3378,6 +3387,10 @@ SPBAllinone.esp
 SPB Belt Girl.esp
 SPB Serpent Suits.esp
 SPB Suicup 2.esp
+SPB Rider Suits.esp
+SPB BodyCon Suits.esp
+MDP - BG1 Companion.esp
+MDP - BG2 Companion.esp
 spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
@@ -3386,6 +3399,8 @@ Staff of Portals.esp
 StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
+SG001_BunnyGirl.esp
+SG003_Slit.esp
 SG004_Stargazer.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
@@ -4054,6 +4069,8 @@ R18PN - Bikini Re-Textured.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
 R18PN - Mizugi set.esp
+R18PN - Bs Bondage.esp
+kunoichi DM Enchanted.esp
 SexyKunoichi.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
@@ -4061,6 +4078,7 @@ Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
 
+ArynnsDrowWitchHGEC.esp
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
 \EndGroup\\
@@ -5609,6 +5627,7 @@ Banes Bruma Merchant Upgrade.esp
 Red Diamond Jewelry.esp
 Banes Anvil Merchant Upgrade.esp
 Banes Chorrol Store Upgrade.esp
+Banes Fallen Angel Sanctuary.esp
 Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
 
@@ -8387,6 +8406,8 @@ Cliff's Shacks Basements-Radiant AI.esp
 CloudRulerTrainingRoom.esp
 Cobl Hmm.esp
 Cobl Bookplacement.esp
+Colourwheels Sexy Wantedposter.esp
+Colourwheels Sexy Panty Shop HGEC.esp
 Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
@@ -8913,11 +8934,13 @@ Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
 
+Vtoy.esp
 Lovers.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp
 
+Goranga's prostitution system.esp
 FriendsAndLovers.esp
 bondage_sex.esp
 Eroblivion.esp
@@ -11164,6 +11187,8 @@ Half Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+XeniaRace.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 
 Assassins Creed - Altair's Gear.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -11354,6 +11379,7 @@ Xenia_CMPartner.esp
 Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 cmAbbeyAeryn.esp
+cmBellenia.esp
 cmChocolates.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
@@ -11370,8 +11396,16 @@ CmRisingStars.esp
 cmSashaSonja.esp
 CM Yana.esp
 CM_Dragonchixx.esp
+CM Partner Fiona.esp
+CM DESTINY M.esp
+CM NIKA SB.esp
+CM NOVA.esp
+CM SASHEIRA.esp
+CM SHEILA A.esp
+CM TATIANNA.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
+CM ElizabethColourWheel.esp
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
 ArnoldCM2.esp
@@ -11451,6 +11485,7 @@ companion_chocolate.esp
 companion_chocolate Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 companion_nightelves.esp
+companion_iceelves.esp
 % {{BASH:Hair,Eyes}}
 companion.esp
 
@@ -12748,6 +12783,7 @@ Wrye Morph, X6.esp
 Wrye Morph Keys.esp
 Wrye Morph Wearable.esp
 Wrye Morph-See You Sleep.esp
+ShowRaceMenu StatsFix.esp
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch

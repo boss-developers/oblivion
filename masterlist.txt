@@ -187,6 +187,7 @@ Toaster Says Share v3.esm
 
 Beautiful People.esm
 Bab.esm
+Cosmetic Compilation - No JPeepers or NPC Changes.esm
 DADemons.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
@@ -226,6 +227,7 @@ StarX Vampire Deaths.esm
 SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
+wz_TripWire.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -2370,6 +2372,7 @@ avarm.esp
 1scorpionshield.esp
 1dragonbonekatana.esp
 1carbonblade.esp
+4431-1.0-wz_Tripwire Test Plugin-TESSource.esp
 \EndGroup\\
 
 \BeginGroup\: Items A
@@ -2922,7 +2925,9 @@ HB Legacy Dwemer Weapons.esp
 Hel Borne's Boning Knife.esp
 Hel Borne's Blackiron Weapon Set.esp
 Hel Borne's Chitin Armor Weapons.esp
+Hel Borne's MW Style Wooden Staff.esp
 Hel Borne Spear Set.esp
+Hel Borne's Vampire Slayer Sword.esp
 HD Aragorn Armor.esp
 HelmetCollection.esp
 HellSpawnDaedric for Exnem.esp
@@ -3058,6 +3063,7 @@ LootableLichHelm_Lt.esp
 % {{BASH:Invent}}
 LootableLichHelm_Hvy.esp
 % {{BASH:Invent}}
+Lost_Akiviri_Armor.esp
 LSBSkullWeapons.1.esp
 % {{BASH:Invent}}
 Lyn-ClawsOfTheGreyLady.esp
@@ -3199,6 +3205,7 @@ OS Artifacts.esp
 
 PAF_armor_additions.esp
 paintings.esp
+pegasus_alpha.esp
 Pek_Painting_Exchanger.esp
 pale_rider's Armor of Dragon's Nightmare.esp
 ? Changes some cell names to German either load an overhaul after (or another mod that changes the testing hall & the best defence)
@@ -3416,6 +3423,7 @@ SpringheelJakBoots.esp
 SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
+Staff of the Scamp-Milt.esp
 Silverlight Armor by Jojjo.esp
 superspeedrings100.esp
 \EndGroup\\
@@ -3437,6 +3445,8 @@ TGG- Treasure Placement.esp
 The Bow of Ash.esp
 The Bow of Bones.esp
 The Bow of Daedric Blood.esp
+The Bow of Robin of Locksley.esp
+The Bow of the Drow.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
 The Bow of Thorns.esp
@@ -4896,6 +4906,10 @@ MrSiika'sFarmAnimals.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
 FarmAnimalsofCyrodiil.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
+MrSiikasBats.esp
+" MMM
+OblivionDurzogs.esp
+" MMM
 Diverse Wisps - for Vanilla.esp
 ? MMM users should use 'Mart's Monster Mod - Diverse Wisps.esp'.
 VASE - Vanilla Cyrodiil.esp
@@ -5484,6 +5498,7 @@ AGC-TARDISoutside.esp
 AGC-TARDISinside.esp
 ? use either outside for vanilla or inside for open cities
 Akaviri Imports.esp
+akaviriimports.esp
 Akaviri_Imports_Fixed_esp-4277.esp
 Akiviri Imports MOBS.esp
 ? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
@@ -6241,6 +6256,7 @@ ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge,Deactivate}}
 
+Imperial Library.esp
 Imperial City Ranch.esp
 
 ImprovedChorrol.esp
@@ -6765,6 +6781,7 @@ Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
 Sewer_Mansion.esp
+SFSpecialtyContainers.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
 Shadowmist Manor v1.1.esp
@@ -6857,6 +6874,7 @@ Steve - Hitman.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
+striders.esp
 Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
@@ -7113,6 +7131,8 @@ WoodlandVillage1.2.esp
 WoodlandVillage, Cobl.esp
 Woodland Refuge.esp
 Woodland Rangers.esp
+WOTFH_1.2.esp
+? Old Version, update to version 1.3+
 WOTFH_1.3.esp
 Water's Edge Cottage.esp
 Waterfront_Shack-6733.esp
@@ -8267,6 +8287,9 @@ RealisticFlora - DLCVileLair.esp
 WD's Auto Harvest.esp
 DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
+Diseased Corpses.esp
+? If using HC decide which you want to have priority and move that one after the other (needs compatibility patch that is not currently available)
+% {{BASH:Scripts}}
 \EndGroup\\
 
 \BeginGroup\: overrides #
@@ -8302,6 +8325,8 @@ Arch Mage Chest Remake OBSE.esp
 Arch_Mages_Robe_Enchanted_--_Master_Level-2205.esp
 ArgonianSwiftSwim - Leopard.esp
 Armor-Long -TESSource.esp
+Armoured Imperial Patrols - Realism.esp
+
 Assassin Tripwires.esp
 Assassin Tripwires DBSR.esp
 AleswellNoRefractFix.esp
@@ -8408,6 +8433,8 @@ Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
 Cliff's Shacks Basements-Radiant AI.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
+Cliff's Daggerfall Uriel Septim and Ocato.esp
+% {{BASH:NpcFaces,NoMerge}}
 CloudRulerTrainingRoom.esp
 Cobl Hmm.esp
 Cobl Bookplacement.esp
@@ -9083,6 +9110,7 @@ talkwithyourhands2.esp
 talkwithyourhands PI4.esp
 TameWildlife.esp
 Docile SI Creatures.esp
+Tamriel's Glittering Geology- No Gold Weight.esp
 Teleport Everywhere.esp
 : OBSE.
 Tombstone Epitaphs.esp
@@ -10628,6 +10656,8 @@ zzEDialog.esp
 Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
 
+BETA2_Strike_a_Pose_Character_Idle_Animations.esp
+
 CTAddPose_v_1.esp
 CTAddPose_osr1.esp
 CTAddPose_osr2.esp
@@ -10847,6 +10877,7 @@ Jjiinx_MorrowindStyleArgonians.esp
 Better Redguard v2.esp
 % {{BASH:NpcFaces,Graphics,Deactivate}}
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
+Better Looking Redguards.esp
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces,Deactivate}}
 Smaller Elf ears.esp
@@ -12694,6 +12725,8 @@ Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 Argonians and Khajiit Lose Tails no More Script - Anwolf.esp
 Argonians and Khajiit Lose Tails no More Script - Lilmothiit.esp
 Argonians and Khajiit Lose Tails no More.esp
+JazzJRKhajiitfeets.esp
+% {{BASH:Invent}}
 LT_EquipTailItem.esp
 MassA.I.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.

@@ -1334,7 +1334,7 @@ SNR Villains.esp
 SNR Guards.esp
 % {{BASH:Hair,Eyes,Invent}}
 ? Make sure to install the additional mods (listed in the readme).
-SNR Thieves Guild UFF.esp[
+SNR Thieves Guild UFF.esp
 % {{BASH:Hair,Eyes,Invent}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Thieves Guild.esp
@@ -4560,6 +4560,8 @@ mg19obsefix.esp
 : OBSE
 
 OOO_Arena_Loot.esp
+OOO-Better_Priced_Clutter.esp
+% {{BASH:Stats}}
 OOO CheapWine Vanilla Effects.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -6396,7 +6398,7 @@ EiAmod.esp
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
-EiAmod Vwalk.esp[
+EiAmod Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 KumikoManor.esp
@@ -6887,6 +6889,7 @@ swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
+Sylar_INNMergedCyrodiilInnsRevised_COCPatch.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
@@ -7608,7 +7611,6 @@ Valenwood.esp
 Summerset.esp
 SummersetLandscapes.esp
 ElsweyrAnequina.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
@@ -11517,6 +11519,7 @@ Arwen companion.esp
 Audrey companion.esp
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
+Arren.esp
 Baddy-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
 Cog-Rein.esp

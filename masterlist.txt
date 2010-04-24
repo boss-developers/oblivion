@@ -2652,6 +2652,9 @@ ChunliClothes.esp
 Collectible T-Shirts V1.1.esp
 Collectible_TShirts_V11.esp
 Collectible T-Shirts V2.1.esp
+Colonial Clothing.esp
+ComfortableClothing.esp
+ComfortableClothing_NoHiddenAmulets.esp 
 LydarflsCheatCodeBook.esp
 console codes.esp
 Corthian Akavir Clothing.esp
@@ -2720,6 +2723,7 @@ Dalls_Anduril.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
+DarkAdventuressBow.esp 
 Dark BrotherHood Hood Replacer V1.2.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 DarkBrotherhoodRed.esp
@@ -2835,6 +2839,7 @@ FalxMod.esp
 Fans for Helain.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
+Featherwynd - Amazon Priestess.esp
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
 ImperialDragonHeavyShield.esp
@@ -3140,6 +3145,7 @@ Nature's_bounty.esp
 Natures_Arsenal.esp
 Necessary Violence.esp
 Neckerchiefs v1.2.esp
+NecroArmour.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -3288,6 +3294,7 @@ RTFemaleReplacerV12.esp
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
 Ryk_SimpleDress_DV.esp
+Ryk_SorceressArmor.esp 
 RoseGear.esp
 \EndGroup\\
 
@@ -3361,12 +3368,15 @@ Slof's Claws.esp
 Slof's Dark Assassin Armour.esp
 Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
+Slof's Jeans.esp
 Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Even More Male Things.esp
 Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
+Slof's Thunderbird Armour.esp
 Slof's Persian Outfit For Males.esp
+Slof's Victorian Clothes.esp 
 
 Kit Rae Weaponry v0_2.esp
 ? Use after Shdw_weapon pack
@@ -3474,6 +3484,7 @@ tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
+Tribute armor.esp
 trfdaedricarmors.esp
 trfjChronoStaff.esp
 trfjBladeMasterSword.esp
@@ -6385,6 +6396,7 @@ Kvatch Rebuilt Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -7123,6 +7135,7 @@ Wayshrines.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
+WellDiver.esp 
 WellOfSouls.esp
 WellspringGrove.esp
 WestwatchTowerV1.0.esp
@@ -10869,6 +10882,9 @@ BulkyNord.esp
 % {{BASH:Body-M,Body-F}}
 BulkyOrcs.esp
 % {{BASH:Body-M,Body-F}}
+EVE_KhajiitFix.esp
+% {{BASH:Body-F}}
+? Delete if you use 'Cobl Races - Balanced.esp'.
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F,R.Relations}}
 Bigger_Dremora.esp
@@ -11851,9 +11867,10 @@ bgBalancingDVOptionalNPCDiversity, TNR Merge Better Redguards.esp
 : 'bgBalancingEVOptionalBetterRedguards.esp'.
 ? Use only one 'OptionalNPCDiversity' plugin.
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-% {{BASH: NpcFaces,Invent,NoMerge}}
+% {{BASH:NpcFaces,Invent,NoMerge}}
 
 bgBalancingEVOptionalFCOMAdditions.esp
+% {{BASH:Actors.Stats,Actors.ACBS,NpcFaces}}
 
 bgBalancingOptionalFranAddition.esp
 * Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
@@ -11886,7 +11903,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:NpcFaces,Deactivate}}
+% {{BASH:NpcFaces,NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 \EndGroup\\
@@ -11935,9 +11952,6 @@ boethia custom race.esp
 ? It is obligatory to use together with Cosmetic Compilation.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
 Patch Naked NPCs.esp
-EVE_KhajiitFix.esp
-% {{BASH:Body-F,Deactivate}}
-? Delete if you use 'Cobl Races - Balanced.esp'.
 \EndGroup\\
 
 \BeginGroup\: Better Cities

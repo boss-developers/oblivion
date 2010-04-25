@@ -21,6 +21,8 @@ Oblivion.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
+Oblivion_SI.esm
+? A modding esm - do not use in game, deactivate.
 MERP Data.esm
 MiddleEarth.esm
 Underdark.esm
@@ -209,9 +211,9 @@ x117race.esm
 SoVvM.esm
 % {{BASH:NpcFaces,Graphics}}
 Chocolate Elves.esm
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 p2p'sAshDraconian.esm
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
@@ -1568,6 +1570,8 @@ kalikuts_raretradegoods2_0.esp
  Katana Store.esp
 : patch to use with Kalikuts
 KB - House of Wonders.esp
+Kill_Bruma_Statue.esp
+Kill_KvatchRebuilt_Statue.esp
 kuerteeSittableRocks.esp
 KF Chapel Shop.esp
 Kyoma's Focus on Shrine.esp
@@ -2431,6 +2435,7 @@ Ancient Elven Set.esp
 Arcana Infinium.esp
 Andragorn_Weapons_Armors.esp
 AngelslayerEN.esp
+ares-HGEC.esp
 Armblade.esp
 % {{BASH:Invent}}
 arme - excalibur.esp
@@ -2448,6 +2453,8 @@ azsTHouse.esp
 azsTrHouse.esp
 azsNarutoArmor.esp
 alllll61s-blueness lion armor.esp
+alllll61-Space Plug Suit.esp
+alllll61-Tiny Demon suit.esp
 
 Armor of Heaven's Fury-Gold-Heavy-Alt-helm.esp
 ? Make sure to use only one Light and one Heavy Armor from this Mod.
@@ -2552,6 +2559,7 @@ Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
 Battlespire Books.esp
 bcrich.esp
+BisPainBringer.esp
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -2946,6 +2954,7 @@ Hentai_CerenityArmor.esp
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
 HENTAI_EVE.esp
+HentaiEveriaArmor.esp
 HENTAI's gift.esp
 Hentai_HentaiUniform.esp
 Cloth_Hentai_Compilation.esp
@@ -2976,6 +2985,7 @@ It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
+IvyArmor_Black.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
 IvyArmor_Arena_Hcup.esp
@@ -3051,6 +3061,7 @@ LadiesOrcish.esp
 LadyDeath.esp
 Lady Jasmine Moon.esp
 lam.esp
+Lamayo's Dragon Bow.esp
 LD - New Arrows.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
@@ -3120,6 +3131,7 @@ MilkJugsComplete.esp
 Mirage_Rosewood.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
 Mithris_HGEC.esp
+Mizuki Ninja.esp
 mnp Nighteye Goggles.esp
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
@@ -3422,8 +3434,11 @@ StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
 SG001_BunnyGirl.esp
+SG002_Button.esp
 SG003_Slit.esp
 SG004_Stargazer.esp
+SG005_DHuntress.esp
+SG007_Nobody.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
 SteelHalberd.esp
@@ -3474,6 +3489,7 @@ The SilverDragonArmorQuest.esp
 % {{BASH:Invent}}
 The Sword of Cyrodiil.esp
 The Sword of Truth.esp
+Thunderbird Armor.esp
 thunderfury.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
@@ -3484,6 +3500,7 @@ tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
+TreasuresOfTyrV10.esp
 Tribute armor.esp
 trfdaedricarmors.esp
 trfjChronoStaff.esp
@@ -3568,6 +3585,7 @@ Vvardenfell_Imports.esp
 WarriorBandages_V2.0.esp
 WarriorBandages_OOO_V2.0.esp
 WarriorsRobe.esp
+Western Armor.esp
 witchkingsword.esp
 Wyrmfang.esp
 White Leather Armor.esp
@@ -3596,6 +3614,7 @@ ZMP NoError.esp
 
 \BeginGroup\: Items Late
 
+BleachOverhaul.esp
 Thieves Arsenal.esp
 : OBSE.
 Thieves_Arsenal_Patch_033010.esp
@@ -3841,6 +3860,7 @@ TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND Warrior Skin.esp
 Underwear TGND.esp
+Ryk_AtholBrose.esp
 
 UFF Armor of Gaia.esp
 UFF AtronachsPrize.esp
@@ -5357,6 +5377,9 @@ $ Has minor incompatibility with OOO - changes Meridia quest & script back to le
 ? Only use one IABane Oils X.esp
 
 Lock Bash Omega.esp
+Modified Bandits.esp 
+% {{BASH:Delev}}
+? not very compatible with any overhauls.
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -5743,6 +5766,7 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 Bonds Firebird V01.esp
 BogwaterDowns.esp
 Boqwater_Settlement_V103.esp
+Boxworld.esp
 br_anvilchurch.esp
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
@@ -5849,6 +5873,7 @@ Clintmichs Beautiful Talos Plaza District.esp
 ^ Probably incompatible with BC
 
 COR-Episode1 Secret of Enourk.esp
+CM Armor Expansion.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
 Cropsford Cottage.esp
@@ -6156,17 +6181,6 @@ Heroes of Cyrodiil Part 5.esp
 02_Helms_Deep.esp
 03_Helms_Deep.esp
 Hunter's Haven File 1.esp
-
-HeartoftheDead.esp
-% {{BASH:Hair}}
-HeartOftheDead Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-OC-HOD-Patch.esp
-? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
-HOD_delayer.esp
-? only use without Open Cities
-OC_HOD_delayer.esp
-? only use with Open Cities
 \EndGroup\\
 
 \BeginGroup\: Quests I
@@ -6647,6 +6661,7 @@ NNWARE05-Bawn.esp
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
+Oblivion Achievements CORE Version.esp
 Oblivion Wine Overhaul.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
@@ -7141,6 +7156,7 @@ WellspringGrove.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 Whispers of Death Extended.esp
+White Gold Top.esp
 WhiteGoldTowerV19.esp
 White Tower v0.8.esp
 WinterCabin.esp
@@ -7229,6 +7245,7 @@ Arena_BattlesV1.1.esp
 Arena_BattlesV1.2EV.esp
 % {{BASH:Relations}}
 Arena Capacity Crowds.esp
+Arena_Capacity_Crowds-5845.esp
 Arena Rebuild.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
@@ -7701,7 +7718,6 @@ WaterfrontMarket.esp
 ^ Probably incompatible with Better Cities.
 WaterfrontMarketNoShack.esp
 ^ Probably incompatible with Better Cities.
-\EndGroup\\
 
 Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
@@ -7720,6 +7736,24 @@ MTCThievesGrottoV4.1 Vwalk.esp
 Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
+Dschinni.esp
+? There are incompatibilities with Servant of the Dawn.
+? Use the patch for UL Arrius Creek and The Heart of the Dead version 6.3 to resolve compatibility issues.
+Dschinni Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
+HeartoftheDead.esp
+% {{BASH:Hair}}
+HeartOftheDead Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+OC-HOD-Patch.esp
+? Obsolete patch. Update to Heart of the Dead 5.5 and then delete this file.
+HOD_delayer.esp
+? only use without Open Cities
+OC_HOD_delayer.esp
+? only use with Open Cities
+\EndGroup\\
 
 \BeginGroup\: Landscape and City overhauls
 \----------------------------
@@ -7833,6 +7867,7 @@ NNWARE1_Dungeon05ULPatch.esp
 ? Obselete. Upgrade to NNWAREAyleidDungeons series 1+
 Cybiades - UL Beaches of Cyrodiil Patch.esp
 ? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - aslo do not use the prepatched version of the Cybiades esp.
+ForgottenTomb-LostCoast patch.esp
 
 xulbravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -7891,6 +7926,7 @@ HeartoftheDead-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
+Dschinni - UL Arrius Creek Patch EV.esp
 
 xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills esp
@@ -7943,6 +7979,7 @@ xulImperialIsle Swalk.esp
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
+FuseSnailRacing-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch DV.esp
 
@@ -8368,6 +8405,7 @@ Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 Ayleid Wells.esp
 Ayelid Wells.esp
+" First Person Messages.esp
 \EndGroup\\
 
 \BeginGroup\: overrides B
@@ -9112,6 +9150,7 @@ StackableEquipment.esp
 StackableOblivion.esp
 
 SRJIrresponsibleHorses.esp
+% {{BASH:Actors.AIData,NoMerge}}
 StarX Vampire Deaths.esp
 stickierenemytargeting.esp
 Stronger Soul Gems - no cap x1.esp
@@ -9226,6 +9265,12 @@ CLS-Craftybits_A_Bloody_Mess-Glue-Ragplacer.esp
 CLS-Craftybits Raw Material Supplier addon.esp
 CB-X-Skills Removal.esp
 CB-X Skills Removal.esp
+
+Erics Crafting Mod.esp
+% {{BASH:Scripts,Invent}}
+? If it doesn't work move past your bashed patch (author reccomends that placment but the tags added here should fix that... to be investigated)
+
+Immersive Mining.esp
 
 Enhanced Economy - House prices.esp
 
@@ -9381,6 +9426,7 @@ Carry_all_you_want-5118.esp
 haz_encumbrance_x1.5.esp
 encumbrance.esp
 Encumbrance100.esp
+EncumbranceMod.esp
 encumberancemodx10.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
@@ -9390,6 +9436,8 @@ Carry_four_times_more_loot-7515.esp
 carry_more_mod.esp
 LooterWeightMod.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
+Extended Game Mechanics.esp
+Extended Game Mechanics - Cobl.esp
 kuerteeEatAndSleep.esp
 Tyler's Hungry, Thirsty, Sleepy, Tired.esp
 Addendum - Tired.esp
@@ -10088,6 +10136,7 @@ Harvest [Flora] - Patch.esp
 
 \BeginGroup\: Enchantment
 
+Compleat Enchanter easy.esp
 Empower Enchantment.3.x.esp
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
@@ -10829,8 +10878,7 @@ Let There Be Darkness - UL Blackwood Forest.esp
 : UL Blackwood Forest.esp
 % {{BASH:C.Light}}
 Let There Be Darkness All.esp
-? Merge, please ensure all masters are present. Masters can be checked using Wrye Bash.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Filter}}
 
 FastTravelAllowed.esp
 
@@ -11037,51 +11085,51 @@ idkrrr_sarameyesNhairs4originalrace.esp
 \''''''''''''''''''''''''''''''''''
 
 4 New Races for Rens-Beautiful People.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AinmhiRace-RensBeautyPackFull.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Anwolf Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Avariel.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 PlayableSheogorathMod.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 PlayableSheogorathModOptionalIcon.esp
 MUIA.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 MW Style Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ayleid.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Half-Devil.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Half Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Hidden_Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
 Nec-Mystic Dark ElF.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec Mystic High Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec - Extra Mystic Elf Face.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Clair.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Karla.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Sonnet_Mature.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moonshadow Elves - Sc.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moonshadow Elves - NoSc.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Mystic_DarkElf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec Mystic Dark Elf-Remake.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Capucine's Aquamer Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Capucines Character Expansion.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Capucines Character Expansion - No NPC Change.esp
@@ -11095,11 +11143,11 @@ _Ren_BeautyPack_full.esp
 Ice Elves and Wolf Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Slof's Playable Xivilai.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
 Slof's Clouded Leopard.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
@@ -11110,35 +11158,35 @@ Slof's Devil.esp
 Stars_elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 AinmhiRace.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dark_Seducer_and_Golden_Saint_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DemonRace.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dremora.esp
 % {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
 Dremora Race Playable.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DremoraFemales.esp
 % {{BASH:Voices-F}}
 The Complete Dremora.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 LJD_HumanMIKA.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Luchaire's Dryad Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Use 'for MMM' version if using MMM/FCOM.
 The Southlanders.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Tabaxi_Race_Default.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Tabaxi Race 2.0.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lineage II Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Elves Of Lineage II.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
 Beautiful People.esp
@@ -11197,11 +11245,11 @@ IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race_closed_mouth_version.esp
 idkrrr_sarams_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 IDKRRR_KFME4rev.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 IDKRRR_Moira_race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Energy - Beautiful Elves.esp
@@ -11209,108 +11257,109 @@ Energy - Beautiful Elves.esp
 Demon Hunter.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 DesuChan's Persocoms RELOADED.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesuChan's Kawa-Khajiits.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Riddick.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Riddick Saber Claws.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Han1.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ShadowElf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Shadow Hunter Races v1.1.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Spartan Race v1.5.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moon Elven Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ka Po White.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ka Po.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lilmothiit.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Icthylean_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 MGothic Breton Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lattamer.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Chocolate Elves.esp
 : Hairs from Corean mod FULL 1.8
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IceElfRace.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 LittleElf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Sun_&_Night_Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Vexend Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Sheo Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Soqui Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Half Devil.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Altair_Race.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 XeniaRace.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 
 Assassins Creed - Altair's Gear.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - Light Armor.esp
 ? Choose only one 'Assassins Creed' ESP.
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Assassins Creed - Altair's Gear- HeavyArmor.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - ThrowingKnives.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - Heavy Armor.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Assassins Creed - Altair's Gear - HeavyArmor+ThrowingKnives.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ? Choose only one 'Assassins Creed' ESP.
 Raven Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AsharasSirensAndTritons.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ahtata_Khabaxi.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ahtata dremora.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ahtata Arquamer spike4hair.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations,Body-F,Body-M}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations,Body-F,Body-M}}
 ? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
+Ahtata Arquamer female got hair.esp
 ahtata Ork.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Arabian Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ash Elves.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ancient Elven Sorceress - EV.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 CapsAdmin.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Moogles.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Sharingan and Uchiha Clan.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Nature.Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Moon.Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Night.Elf.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Vampire.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Races.Comp.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 \EndGroup\\
@@ -11319,7 +11368,7 @@ X.Races.Comp.esp
 \'''''''''''''''''''''''
 
 Luchaire's Dryad Race for MMM.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Tabaxi_Race_Robert.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-M,Graphics,R.Relations}}
 Tabaxi_Race_BAB.esp
@@ -11428,6 +11477,7 @@ CM Partners Extra NPCs Vwalk.esp
 CM Partners Auto Loot add-on.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
+CM Partners Belle.esp
 CM Partners 20 Pack.esp
 CM Partner Jordie1.esp
 CM Partner - Ace the Rottweiler.esp
@@ -11442,6 +11492,7 @@ ambreskav02_default_anim.esp
 
 A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
+A CM Partner - Sah.esp
 CMPartner_Xenia.esp
 CMPartner_Xenia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -11578,12 +11629,15 @@ GG_Vincente.esp
 % {{BASH:Hair,Eyes}}
 Haowen.esp
 % {{BASH:Hair,Eyes}}
+Herculine's Tabaxi Companions.esp
 KendoGirl_Final.esp
 % {{BASH:Hair,Eyes}}
 Kyra Partner.esp
 MarcAntony.esp
 % {{BASH:Hair,Eyes}}
 Nec-Character_Eva.esp
+% {{BASH:Hair,Eyes}}
+Nec Character Eva-Remake.esp
 % {{BASH:Hair,Eyes}}
 Olga.esp
 % {{BASH:Hair,Eyes}}
@@ -12792,10 +12846,6 @@ Real Hunger, Cobl.esp
 
 StokerWolff.esp
 StokerWolff 1.3.esp
-
-Dschinni.esp
-Dschinni Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
 
 Viconia.esp
 \Temporary placement pending investigation into BC IC startup crash.

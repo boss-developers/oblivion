@@ -2895,6 +2895,7 @@ GhostArmor.esp
 GHSamuraiArmor.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
+GizmodianSothaDagger.esp
 GLoF_Potion_of_Vampirism.esp
 Gloves.esp
 Glypha_Giltal.esp
@@ -3855,10 +3856,13 @@ TGND.esp
 TGND_SI.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 TGND Accompt of the Delitescent.esp
+TGND Brigand's Gear.esp
+TGND Fantabulous Formal Dresses.esp
 TGND - Kogane's Ranger Armor.esp
 TGND_LeatherHunterArmour.esp
 TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
+TGND_SwordDancer.esp
 TGND Warrior Skin.esp
 Underwear TGND.esp
 Ryk_AtholBrose.esp
@@ -5849,6 +5853,7 @@ Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
 ChorrolFirstHouse.esp
 Cinderella Craft V2.0.esp
+Clover the lucky pig.esp
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
@@ -6570,6 +6575,7 @@ meg - Crow's Nest Cottage v1.esp
 M_M_TreeHouse.esp
 Mod - IC Armory.esp
 MolagBalTreasury.esp
+Mondstein - female Companion.esp
 More Skingrad.esp
 MountainRetreat.esp
 MountainTower.esp
@@ -7425,13 +7431,13 @@ Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 Mart's Monster Mod - Knights of the Nine Patch.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 Mart's Monster Mod - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 Mart's Monster Mod for OOO - Knights .esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
-% {{BASH:Actors.AIData,Actors.AIPackages, Actors.Stats,Delev,Relev,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 
@@ -7590,7 +7596,7 @@ FCOM_mightyumbra.esp
 FCOM_Blood&Mud.esp
 : 'Blood&Mud.esp'.
 FCOM_Knights.esp
-% {{BASH:Delev,Relev}}
+% {{BASH:Delev,Factions,Relations,Relev}}
 : DLC 'Knights.esp'.
 FCOM_WelkyndSwordBlood&Mud.esp
 : 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.

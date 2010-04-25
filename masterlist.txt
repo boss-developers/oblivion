@@ -901,6 +901,7 @@ phinix-waterfix.esp
 UnderwaterVisibilityMod.esp
 Better_Water-1830.esp
 BetterImperfectWater.esp
+Blue_Lagoon_Water-2032.esp
 Advanced_Water.esp
 Advanced_Water_Modification-2734.esp
 Advanced Water Modification.esp
@@ -2675,11 +2676,8 @@ Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
 Collectible T-Shirts V1.0.esp
-? Old, update to V2.1+.
 Collectible T-Shirts V1.1.esp
-? Old, update to V2.1+.
 Collectible_TShirts_V11.esp
-? Old, update to V2.1+.
 Collectible T-Shirts V2.1.esp
 Colonial Clothing.esp
 ComfortableClothing.esp
@@ -2910,6 +2908,7 @@ Gazerith's Spell Books V1.0.esp
 GC Draped Gowns.esp
 GC Gowns.esp
 GCBloodgown.esp
+gemhammer.esp
 GemSword.esp
 Ghogiels Armor.esp
 GhostArmor.esp
@@ -2988,6 +2987,7 @@ HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
 HGEC Evening Dress.esp
+HGECKoganeHuntressOutfit.esp
 HGEC Witch Queen Ritual Robe.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
@@ -3265,6 +3265,7 @@ PhoenixEquipment.esp
 PinkGlassArmor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 pizz_NINJA_outfit.esp
+PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
@@ -3331,6 +3332,7 @@ RingwraithArmorDaedric.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp 
 RoseGear.esp
+RZWPortableCandles.esp
 \EndGroup\\
 
 \BeginGroup\: Items S
@@ -4282,6 +4284,8 @@ PSFastHorse.esp
 HorseSpeedEqualsPlayerSpeed.esp
 HRMHorseCommands.esp
 qazSteerHorsesWithMouse.esp
+qazHorseCommand -horsearmor.esp
+% {{BASH:Scripts}}
 MD_FasterHorseTurning.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Faster_Turning_Horses.esp
@@ -5359,6 +5363,7 @@ dangerous wilderness.esp
 % {{BASH:Delev,Relev}}
 
 CrystalCalendar.esp
+CrystalCalendarAlternateEdition.esp
 
 Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp
@@ -5513,6 +5518,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
+2423-1.00-Town Armor To House-TESSource.esp
 300 Regal Imperial City 2.esp
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
@@ -5523,6 +5529,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 301_Compass.esp
 3_Numbers_v.1.0.esp
 
+5573-1.0-Villa Nova, my private retreat-TESSource.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 
 .LuEmaNarfil Cave of Vampires.esp
@@ -5703,6 +5710,8 @@ AzuraServices_en.esp
 Banes Cheydinhal Store Upgrade.esp
 Skingrad Store Upgrade.esp
 
+Banes_Artifacts_for_Adventurers.esp
+Banes_Artifacts_for_Adventurers_2.esp
 Banes Artifacts for Adventurers Part 1.esp
 Banes Artifacts for Adventurers 2.esp
 
@@ -6177,6 +6186,7 @@ HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 hchouse408.esp
+Hedge Home.esp
 HelsethArmor.esp
 Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts}}
@@ -6208,6 +6218,7 @@ Heroes of Cyrodiil Part 5.esp
 : 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
 03_Helms_Deep.esp
+Hidden Cave.esp
 Hunter's Haven File 1.esp
 \EndGroup\\
 
@@ -6574,6 +6585,7 @@ Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
 Mercenaries.esp
 Mero Trading.esp
+TradeShip.esp
 Mimics!.esp
 Miners n Pickaxes.esp
 MiniCyrodiil.esp
@@ -6688,6 +6700,7 @@ NNWARE05-Bawn.esp
 \EndGroup\\
 
 \BeginGroup\: Quests O
+OakmoorFarmhouse.esp
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
@@ -6721,6 +6734,7 @@ Pats Business Mod---Shop Version 1.6.esp
 Pats Business Mod---Shop Version 2.0.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
+photoroom.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
 ? Old, update to version 2.
@@ -6995,6 +7009,7 @@ The Black Sacrament.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
+The Haven Of Weye.esp
 The_Honor_of_Assassins.esp
 The Hunt.esp
 The forgotten Castle.esp
@@ -7183,6 +7198,7 @@ WeatherWizard.esp
 WellDiver.esp 
 WellOfSouls.esp
 WellspringGrove.esp
+Well Thief v 1.1.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 Whispers of Death Extended.esp
@@ -8923,6 +8939,7 @@ No Screensaver.esp
 NoWindSI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
+NPCsMoreGold.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
@@ -10399,6 +10416,7 @@ erics_triple_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
 erics_double_damage_fast_for_archers.esp
 ? Only use one Erics * for archers.esp
+886-ExtremeMarksman.esp
 Fast Arrow Collection.esp
 : OBSE 16+
 Fiery Fists v1.2.esp
@@ -10779,12 +10797,14 @@ CTAddPose_OTPair.esp
 CTAddPose_ bondage_sex.esp
 CTAddPose_bondage_sex-2.esp
 CTAddPose_2ch_(Hentai).esp
+CTAddPose_glock3.esp
 CTAddPose_gobu.esp
 CTAddPose_Dsk(erori)Pose.esp
 CTAddPose_2ch.esp
 CTAddPose_2ch-2.esp
 CTAddPose_enfant.esp
 CTAddPose_SPB_01.esp
+CTAddPose SPB 02.esp
 
 LainPose.esp
 LainPoseMOD.esp

@@ -784,13 +784,29 @@ Natural_Weather_HDR_2.1.2_coloroverride.esp
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
 Ls More Butterflies and Fireflies.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies 4.0.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies 4.0 Halved.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies 4.0 Quarter.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies Not In Interiors.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies Not In Interiors 4.0.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies Not In Interiors 4.0 Halved.esp
+? Old, update to version 5+.
 Ls More Butterflies and Fireflies Not In Interiors 4.0 Quarter.esp
+? Old, update to version 5+.
+Ls More Butterflies and Fireflies 5.0.esp
+Ls More Butterflies and Fireflies 5.0 Halved.esp
+Ls More Butterflies and Fireflies 5.0 Quarter.esp
+Ls More Butterflies and Fireflies Not In Interiors.esp
+Ls More Butterflies and Fireflies Not In Interiors 5.0.esp
+Ls More Butterflies and Fireflies Not In Interiors 5.0 Halved.esp
+Ls More Butterflies and Fireflies Not In Interiors 5.0 Quarter.esp
+Ls More Butterflies and Fireflies Not In Interiors Without Fairies 5.0 Halved.esp
 
 Enhanced Night Sky.esp
 
@@ -2837,6 +2853,7 @@ EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
 Eyren_AyleidWarrior.esp
+Excalibur2.esp
 Excessor Sword.esp
 \EndGroup\\
 
@@ -6559,6 +6576,7 @@ Minotaur's Revenge 1.7b.esp
 MistyHideout.esp
 MountainShack.esp
 MountainShack DV.esp
+MountainShackR12.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp
 mrSiikas_TheEmperorsTomb.esp
@@ -8413,9 +8431,6 @@ Auto Potion.esp
 Auto Repair.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
-Ayleid Wells.esp
-Ayelid Wells.esp
-" First Person Messages.esp
 \EndGroup\\
 
 \BeginGroup\: overrides B
@@ -9261,6 +9276,10 @@ za_less_NPC_conversations.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late
+Ayleid Wells.esp
+% {{BASH:Scripts,Scriptcontents}}
+Ayelid Wells.esp
+% {{BASH:Scripts,Scriptcontents}}
 
 Lore Creatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.

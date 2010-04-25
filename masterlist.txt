@@ -488,6 +488,7 @@ Oblivion Citadel Door Fix.esp
 \BeginGroup\: Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
+[Hexaae] Vilverin fires UOP.esp
 MG01-fix.esp
 Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
@@ -7251,6 +7252,7 @@ Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
 MoreArenaSpectators.esp
+MoreArenaSpectatorsLite.esp
 UOE-MoreArenaSpectators.esp
 LFox Expensive Arena Gambling.esp
 JV-ArenaModification-0.9.esp
@@ -8888,6 +8890,7 @@ NoObsoleteEnemies.esp
 ? Highly likely to be incompatible with every overhaul out there.
 NoObsoleteLoot.esp
 ? Highly likely to be incompatible with every overhaul out there.
+No Screensaver.esp
 NoWindSI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
@@ -9088,6 +9091,7 @@ SigilStonesUnlevelled - SSEE-OOO.esp
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
+Size of rats more normal.esp
 Skill Perk Descriptions Enhancement.esp
 $ OOO changes skill perks and their descriptions as well.
 SkillSpecialization.esp
@@ -11530,6 +11534,7 @@ CM ElizabethColourWheel.esp
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
 ArnoldCM2.esp
+ANB_Gabby_Comp.esp
 AmidalaSaramHair.esp
 % {{BASH:Hair,Eyes}}
 AsharasCMBeasts.esp

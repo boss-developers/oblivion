@@ -1502,6 +1502,10 @@ Elder Scrolls Book Club - Oblivion.esp
 Elys - Yuda The Elder Trainer.esp
 Elytramount.esp
 Encyclopaedia Cyrodilica.esp
+Enhanced Key Functionality.esp
+? Only use one EKF esp.
+Enhanced Key Functionality [Shivering Isles].esp
+? Only use one EKF esp.
 ES4_Alchemists Reference.esp
 Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
@@ -3882,6 +3886,8 @@ TGND_Corsets_of_the_Rose.esp
 TGND Fantabulous Formal Dresses.esp
 TGND - Kogane's Ranger Armor.esp
 TGND_LeatherHunterArmour.esp
+TGND_EY_Vampirehunter.esp
+" EY_Vampirehunter.esp
 TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND_SwordDancer.esp
@@ -5105,7 +5111,7 @@ TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
 ShiveringIsleTravellersFriendlyFactions.esp
 ShiveringIsleTravellersFriendlyFactions4MMM.esp
 TamrielTravellersHorseTextures.esp
-% {{BASH:NoMerge,Graphics,Deactivate}}
+% {{BASH:NoMerge,Graphics}}
 FCOM_TamrielTravelers.esp
 : 'TamrielTravellers4OOO.esp'
 
@@ -5125,15 +5131,15 @@ Choices and Consequences - FCOM - Diverse Guards.esp
 FCOM_BobsGuardUnity.esp
 : 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
-% {{BASH:Factions,Graphics,Invent,NoMerge,Relev,Scripts,Deactivate}}
+% {{BASH:Factions,Graphics,Invent,NoMerge,Relev}}
 : Shivering Isles expansion.
 FCOM_Archery.esp
-% {{BASH:NoMerge,Stats,Deactivate}}
+% {{BASH:NoMerge,Stats}}
 FCOM_ArcheryArmamentarium.esp
 : the Armamentarium Complete mod.
 % {{BASH:Stats}}
 FCOM_Archery_Armamentarium.esp
-% {{BASH:NoMerge,Stats,Deactivate}}
+% {{BASH:NoMerge,Stats}}
 FCOM_Archery_Artifacts.esp
 % {{BASH:Stats}}
 FCOM_ArcheryRealSwords.esp
@@ -5141,10 +5147,10 @@ FCOM_ArcheryRealSwords.esp
 % {{BASH:Stats}}
 FCOM_Archery_RealSwords.esp
 : 'FCOM_Realswords.esp'
-% {{BASH:NoMerge,Stats,Deactivate}}
+% {{BASH:NoMerge,Stats}}
 FCOM_ArcheryHunting&Crafting.esp
 : 'Mart's Monster Mod - Hunting & Crafting.esp'.
-% {{BASH:NoMerge,Stats,Deactivate}}
+% {{BASH:NoMerge,Stats}}
 FCOM_Archery_MMM_H&C.esp
 : 'Mart's Monster Mod - Hunting & Crafting.esp'.
 % {{BASH:Stats}}
@@ -5165,7 +5171,7 @@ Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 >Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
 * Delete and use 'FCOM_FriendlierFactions.esp'.
 FCOM_FriendlierFactions.esp
-% {{BASH:NoMerge,Relations,Deactivate}}
+% {{BASH:NoMerge,Relations}}
 FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
@@ -7450,7 +7456,7 @@ EVE_KnightsoftheNine.esp
 MOBS_Knights.esp
 % {{BASH:Stats}}
 MOBS Knights.esp
-% {{BASH:NoMerge,Stats,Deactivate}}
+% {{BASH:NoMerge,Stats}}
 SM Plugin Refurbish - Knights.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
 SM Plugin Refurbish(Merged).esp

@@ -5132,7 +5132,7 @@ Choices and Consequences - FCOM - Diverse Guards.esp
 FCOM_BobsGuardUnity.esp
 : 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
-% {{BASH:Factions,Graphics,Invent,NoMerge,Relev}}
+% {{BASH:Factions,Graphics,Invent,Relev}}
 : Shivering Isles expansion.
 FCOM_Archery.esp
 % {{BASH:NoMerge,Stats}}

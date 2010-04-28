@@ -3304,6 +3304,7 @@ rdweaponpack1.esp
 Redemption.esp
 RedgardWeaponsMod.esp
 ? Make sure to load an overhaul or something after or manually rename the cells that this edits.
+RedGlassGear.esp
 RenKnockOutArrow.esp
 Retma Dresses.esp
 Reznod Mannequin.esp
@@ -9727,6 +9728,7 @@ aaBlazesPlusMod.esp
 Banishment Works.esp
 BasicInstinct.esp
 Better Scrolls.esp
+blink.esp
 CartographersUnite.esp
 CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
@@ -11688,6 +11690,8 @@ DAEluna.esp
 DAJadeTabaxi.esp
 % {{BASH:Hair,Eyes}}
 GG_Valeria_Revived.esp
+% {{BASH:Hair,Eyes}}
+GGValeria2_0.esp
 % {{BASH:Hair,Eyes}}
 GG_Vincente.esp
 % {{BASH:Hair,Eyes}}

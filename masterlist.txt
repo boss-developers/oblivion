@@ -5187,6 +5187,8 @@ FCOM_VanillaItemReleveler.esp
 TIE.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.RecordFlags,Delev,Invent,NpcFaces,Relations,Relev,Scripts}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
+TIE Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge }} 
 TIE+Frans NPC Inventory.esp
 % {{BASH:NoMerge}}
 FCOM_T.I.E.esp
@@ -7081,6 +7083,8 @@ TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
 % {{BASH:Graphics}}
+TR_Stirk Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge }}
 Stirk_Compatibility_Patch.esp
 : TR_Stirk.
 FCOM_Stirk.esp

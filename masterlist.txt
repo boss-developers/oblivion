@@ -2554,7 +2554,6 @@ ArmamentariumStaffs.esp
 ? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
 ARTICA RAZOR ICMS by_venom91.esp
-ArtifactsFemaleArmor.esp
 Arynns-Heavenly-Sword_hottest.esp
 Assassins_set.esp
 Angeleron.esp
@@ -5682,7 +5681,7 @@ ArTheIceUnicorn.esp
 Artifacts.esp
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-ArtifactsFemaleArmor
+ArtifactsFemaleArmor.esp
 % {{BASH:Graphics}}
 ArtifactsforArmaComplete.esp
 ? obselete - Use Artifacts-ArmaCompleteAddon.esp instead

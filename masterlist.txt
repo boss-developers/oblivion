@@ -488,7 +488,6 @@ Oblivion Citadel Door Fix.esp
 \BeginGroup\: Post UOP fixes
 \---------------
 ArUderfrykteFix.esp
-[Hexaae] Vilverin fires UOP.esp
 MG01-fix.esp
 Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
@@ -1742,6 +1741,7 @@ OSRCustom.esp
 \BeginGroup\: Base P
 
 Packhorses v1.esp
+paladin.esp 
 passive_horses.esp
 910-passive wildlife-TESSource.esp
 personality_idles2.esp
@@ -3010,6 +3010,8 @@ It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
+IP_Magerobes.esp
+% {{BASH:Graphics}}
 IvyArmor_Black.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
@@ -3452,6 +3454,7 @@ SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
+Spirit Blade.esp
 MDP - BG1 Companion.esp
 MDP - BG2 Companion.esp
 spartanspears.esp
@@ -3561,6 +3564,7 @@ Travelers' Cloaks.esp
 Tsuguri.esp
 TT-EquipableBeards.esp
 TT-EquipableBeardsLEVELEDLIST.esp
+Tyrael Mage Armor.esp
 
 The lord of the ring weapon 1.esp
 LOTR Weapons.esp
@@ -5791,6 +5795,7 @@ _Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
+Blissful_Dreams.esp
 Blissful_DreamsCOBL.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
@@ -6146,6 +6151,7 @@ Gottshaw.esp
 GP_Moretta.esp
 GPPaleGoblins.esp
 Grand Ayleid Maze.esp
+green market district.esp
 GTAesgaard.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
@@ -6209,6 +6215,7 @@ Hero Hill Redone.esp
 HobbitHole.esp
 Holy Cathedral.esp
 Home_1.1a.esp
+Home in Bleakers Way.esp
 Horse Dreamland.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
@@ -6894,6 +6901,7 @@ Silgrad_Tower.esp
 Silvercliff.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
+Simple Life - Antus Family.esp
 SingingStablehandInn.esp
 skingrad guild castle upgrade.esp
 SkingradHouseAdds.esp
@@ -8752,7 +8760,8 @@ GuilesNameReplace-Scrolls.esp
 \EndGroup\\
 
 \BeginGroup\: overrides H
-
+[Hexaae] Vilverin fires.esp 
+[Hexaae] Vilverin fires UOP.esp
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
 haz_ct1_no_fasttravel.esp
@@ -9081,6 +9090,7 @@ Salmo WV, Cobl.esp
 SA Social Alertness.esp
 SBDummyTraining.esp
 Scouter.esp
+ScreamingMawHF.esp
 seorin's Artifact Fix.esp
 SecretsoftheAyleidsClosure.esp
 Sexier Sheogorath.esp
@@ -9221,6 +9231,7 @@ Stronger Soul Gems - no cap x10.esp
 Stronger Soul Gems - with cap x2.esp
 Stronger Soul Gems - with cap x3.esp
 Stronger Soul Gems - with cap x10.esp
+SynchronizedStatueWithPose.esp
 \EndGroup\\
 
 \BeginGroup\: overrides T
@@ -9655,6 +9666,7 @@ vamp_normal_eyes.esp
 BladeVampires.esp
 NoVampirismComments.esp
 LessFrequentVampirismComments.esp
+LithiansVampEyes.esp
 Vampire Hunters Tools.esp
 CDM - Vampirism.esp
 Hunter's Sight Toggle.esp
@@ -9755,6 +9767,7 @@ Duplicate_Item_Spell.esp
 Elemental Horses.esp
 Empty_Soul_Gems.esp
 EnchantmentMastery.esp
+Exit.esp
 Exit_Spell.esp
 Finders Keepers.esp
 ForecastersWill.esp
@@ -10228,6 +10241,7 @@ Empower Enchantment.3x.esp
 Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
+Imperishable Varla Stones.esp
 Panzer_Kleidung_03.esp
 Soolie'sBetterEnchantmentEffects.esp
 Staffcraft.esp
@@ -11009,6 +11023,8 @@ Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F,R.Relations}}
 Bigger_Dremora.esp
 % {{BASH:Body-M,Body-F}}
+Bigger_Dremora-2369.esp
+% {{BASH:Body-M,Body-F}}
 Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces,R.Teeth,Body-M,Body-F}}
 JJR'sWhiskers and Eyebrow.esp
@@ -11422,6 +11438,8 @@ CapsAdmin.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Moogles.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Na'vi race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Nature.Elf.esp
@@ -11685,7 +11703,10 @@ companion_iceelves.esp
 % {{BASH:Hair,Eyes}}
 companion.esp
 
+BrumaBarbarian.esp
 Custom NPCs for CSR.esp
+ICtemplehealer.esp
+leyawiinthief.esp
 SRJsleepCommandForCSR.esp
 
 Dogmeat Companion.esp

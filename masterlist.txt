@@ -8104,6 +8104,7 @@ xul Vwalk Full.esp
 West Roads.esp
 WR Villages Addon.esp
 ULSO+WestRoads Patch.esp
+? Outdated - Upgrade to latest version of West Roads and delete this patch.
 
 xleyawiinSwamp.esp
 
@@ -8118,6 +8119,9 @@ Castle_Wolfspike.esp
 Patch-Wolfspike-UL.esp
 
 The Ruins of Miscarcand.esp
+? Not compatible with Miscarcand Expanded.esp
+Miscarcand Expanded.esp
+? Not compatible with The Ruins of Miscarcand.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp

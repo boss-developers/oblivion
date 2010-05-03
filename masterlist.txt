@@ -2254,8 +2254,6 @@ DLCOrrery Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 SM Plugin Refurbish - Orrery.esp
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
-Choices and Consequences - SM Plugin Refurbish - Orrery.esp
-? if using the merged SM Plugin Refurbish, move to load after that.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 ? Obsolete. Upgrade to latest version.
 NLF Orrery.esp
@@ -5424,6 +5422,7 @@ Lock Bash Omega.esp
 Modified Bandits.esp 
 % {{BASH:Delev}}
 ? not very compatible with any overhauls.
+Unscaled Loot and Encounters.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -6796,6 +6795,7 @@ Reaper's Animated Lute.esp
 Reaper's Bleaker's Way Village Revamp.esp
 Reaper's Coldstone Town.esp
 " Heart of the Dead.
+Reaper's Coldstone Town Vwalk.esp
 Reaper_Drakelowe's Witch.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
@@ -7477,6 +7477,7 @@ SM Plugin Refurbish - Knights.esp
 SM Plugin Refurbish(Merged).esp
 : all DLCs and Shivering Isles to be installed and active.
 ? Not compatible with 'CDM-CGO Compatibility plugins'.
+Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
 Knights - AWS Patch.esp
@@ -8905,6 +8906,7 @@ MIEO-lvl.esp
 MIEO-lvl-ae.esp
 MIEO-ae.esp
 % {{BASH:Stats}}
+MM_TorchLight80.esp
 more books teach.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
@@ -10288,6 +10290,7 @@ attack and hide easier v2.1.esp
 UOE-attack and hide easier v2.1.esp
 attack and hide harder v2.1.esp
 UOE-attack and hide harder v2.1.esp
+LFox No Trespassing.esp
 Resist Arrest Increases Bounty.esp
 StealthOverhaul.esp
 Stealth Overhaul.esp
@@ -12462,6 +12465,8 @@ MM_NoMoreAnnoyingMessages.esp
 NoMoreAnnoyingMessages.esp
 MM_NoAnnoyingMessages.esp
 MM_NoMoreAnnoyingMessages-Lite.esp
+MM_TextHorse.esp
+MM_TextLoading.esp
 No More Annoying Messages.esp
 'Cannot Equip' Message Remover.esp
 Annoying Comment Remover.esp

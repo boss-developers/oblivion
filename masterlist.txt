@@ -106,7 +106,7 @@ Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
 % {{BASH:Delev,Factions,Relations,Relev}}
 Waalx Animals & Creatures.esm
-? Not compatible with other overhaul mods.
+" other overhaul mods.
 Diverse Wisps - Base.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
@@ -454,6 +454,8 @@ sulinus fix.esp
 sva_testFixBruma.esp
 Specular_Fix_1.1.esp
 % {{BASH:Graphics}}
+Umbacana_quest_fix-9117.esp
+? Possibly fixed in official patch 1.5.11+
 NoNextRankDUMMY_v1.0-RSS.esp
 DaedricHelmFIX.esp
 
@@ -535,7 +537,7 @@ Unofficial Shivering Isles Patch-MOBS.esp
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 SM Plugin Refurbish - SI.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
@@ -727,13 +729,13 @@ _Real_Lights.esp
 ? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
 
 oc_darker_nights.esp
-? Not compatible with weather overhauls.
+" weather overhauls.
 _darker_nights.esp
-? Not compatible with weather overhauls.
+" weather overhauls.
 _darker_nights_2_with_burning_kvatch.esp
-? Not compatible with weather overhauls.
+" weather overhauls.
 darker nights for shivering isles.esp
-? Not compatible with weather overhauls that affect SI.
+" weather overhauls that affect SI.
 
 Lem - Modified Weather.esp
 
@@ -1039,12 +1041,12 @@ SnakeLightningSpeed.esp
 
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
-? Not compatible with later versions of Storms & Sound.
+" later versions of Storms & Sound.
 weather inside [silent seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
-? Not compatible with later versions of Storms & Sound.
+" later versions of Storms & Sound.
 Weather Inside.esp
-? Not compatible with later versions of Storms & Sound.
+" later versions of Storms & Sound.
 
 Rainbows.esp
 \EndGroup\\
@@ -1974,6 +1976,7 @@ trfSolaris.esp
 
 \BeginGroup\: Base U
 
+Unconscious.esp
 Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
@@ -2238,7 +2241,7 @@ Marts Monster Mod - DLCHorseArmor+Slof.esp
 Mart's Monster Mod - DLCHorseArmor+Slofs .esp
 % {{BASH:Graphics}}
 SM Plugin Refurbish - HorseArmor.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Compatibility Patch - DLCHorseArmor.esp
 BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 Correctif HorseArmor.esp
@@ -2255,7 +2258,7 @@ DLCOrrery Swalk.esp
 DLCOrrery Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 SM Plugin Refurbish - Orrery.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 ? Obsolete. Upgrade to latest version.
 NLF Orrery.esp
@@ -2269,7 +2272,7 @@ Correctif VileLair RP.esp
 DBSQR - Vile Lair.esp
 ? If usng SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp or DBSQR - Vile Lair SMPR Full.esp as well.
 SM Plugin Refurbish - VileLair.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 DBSQR - Vile Lair SMPR.esp
 NLF VileLair.esp
 Lair_mobs.esp
@@ -2306,7 +2309,7 @@ DBSQR - MehrunesRazor.esp
 DLCSpellTomes.esp
 % {{BASH:Relev}}
 DLCSpellTomes - Unofficial Patch.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Correctif SpellTomes.esp
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}}
@@ -2535,23 +2538,23 @@ Armors of the Black Moon - EV.esp
 : Shivering Isles
 
 ArmamentariumTest.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumArmor.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumArmor4Npcs.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumWeapons4Npcs.esp
 ? Don't use with Armamentarium_MOBS.
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium_MOBS.esp
 ? Don't use with ArmamentariumWeapons4Npcs.
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumKatanas.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumVendors.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumStaffs.esp
-? Not compatible with newer 'Armamentarium Complete' version. Consider updating.
+" newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
 ARTICA RAZOR ICMS by_venom91.esp
 Arynns-Heavenly-Sword_hottest.esp
@@ -4128,7 +4131,7 @@ Chrome Amazon Armor.esp
 % {{BASH:Grpahics}}
 Morrowind Scimitars for Oblivion.esp
 FF7 Swords 02 core apocalypse.esp
-? Not compatible with Open Cities.
+" Open Cities.
 exhoffhandseries_1.0.esp
 Grim Reaper.esp
 shadow lord_normal.esp
@@ -4209,6 +4212,7 @@ GizmodianSorceress.esp
 Shivering Isles Horse.esp
 CDM-Horses.esp
 : Shivering Isles.
+Immortal Horses.esp
 Kylin.esp
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
@@ -4264,7 +4268,7 @@ DLCHorseArmor+ArmoredImperialSlofsHorses.esp
 DLCHorseArmor+Accessories.esp
 % {{BASH:Graphics}}
 Shadow Steed.esp
-? Not compatible with DLC Horse Armour.
+" DLC Horse Armour.
 TJ_HorseNames.esp
 % May need {{BASH:Names}} . Untested.
 Essential Unicorn-TESSource.esp
@@ -4381,7 +4385,7 @@ DLCThievesDen Swalk UOP.esp
 DLCThievesDen Vwalk UOP.esp
 % {{BASH:Actors.Anims,NoMerge}}
 SM Plugin Refurbish - ThievesDen.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
 % {{BASH:Stats}}
 \EndGroup\\
@@ -5000,13 +5004,13 @@ Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH:Graphics}}
-? Not compatible with Slof's Horses or Slof's Extra Horses.
+" Slof's Horses or Slof's Extra Horses.
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
-? Not compatible with MMM Gems & Gem Dust or MMMforOOO
+" MMM Gems & Gem Dust or MMMforOOO
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot.esp
-? Not compatible with MMM Gems & Gem Dust or MMMforOOO
+" MMM Gems & Gem Dust or MMMforOOO
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
 : MMM and MMM Gems & Gem Dust
@@ -5017,12 +5021,12 @@ Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 : OOO.esm
 : MMMforOOO or FCOM.
-? Not compatible with MMM Gems & Gem Dust.
+" MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
 : OOO.esm
 : MMMforOOO or FCOM.
-? Not compatible with MMM Gems & Gem Dust.
+" MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 
 OMOBS_MMM.esp
@@ -5364,7 +5368,7 @@ EVE_StockEquipmentReplacer4MMM.esp
 ? For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
-? Not compatible with MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
+" MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
 \EndGroup\\
 \EndGroup\\
 
@@ -5425,6 +5429,7 @@ Modified Bandits.esp
 % {{BASH:Delev}}
 ? not very compatible with any overhauls.
 Unscaled Loot and Encounters.esp
+VG0udyrfrykte.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -5447,11 +5452,11 @@ Enhanced Quest Roleplaying - FCOM.esp
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid and landscape edits.
 Quelldorf 1.5.esp
-? Not compatible with Suliin v1.2.
+" Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
 : 'Quelldorf-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 Quelldorf ohne Schiff1.5.esp
-? Not compatible with Suliin v1.2.
+" Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
 : 'QuelldorfWithoutShip-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfield.
 
@@ -5706,7 +5711,7 @@ Assassin's Hideout v1.1.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
 Auriel's Books.esp
-? Not compatible with better cities - already included in BC IC Market District plugin.
+" better cities - already included in BC IC Market District plugin.
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -5750,7 +5755,7 @@ Basement_Bravilhouse V1-0.esp
 Basement_brumahouse.esp
 Basement_chorrolhouse.esp
 Battle4Morrowind.esp
-? Not compatible with anything that changes Legion Armor.
+" anything that changes Legion Armor.
 bazOOkasWatchTowers_v1.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp
@@ -5821,7 +5826,7 @@ br_anvilchurch.esp
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
 Bravil Docks.esp
-? Not compatible with Better Cities. Already included in Better Cities Bravil.
+" Better Cities. Already included in Better Cities Bravil.
 Bravil House For Sale Upgrade.esp
 Bravil House For Sale Upgrade - COBL Compatibility Patch.esp
 Bravil Store Upgrade.esp
@@ -5837,6 +5842,7 @@ BrotherhoodRenewed.esp
 Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
+BurySvenjaSnowSong.esp
 BXX_Mines.esp
 BXX Tamriel Resource Exchange.esp
 : OBSE.
@@ -6250,93 +6256,93 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 Shezrie's Villages.esp
 Imperial City Townhouse.esp
 ImpeREAL City Unique Districts - Talos Plaza.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Elven Gardens.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Green Emperor Way.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Prison.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Arena.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Waterfront.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Temple.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - The Arcane University.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - The Arcane University Towers Visible From Outside.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Market.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Arboretum.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged - Lightless.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Green Emperor Way - Tombless Version.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arboretum.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arena.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Talos Plaza.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Arboretum.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Arena.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Elven Gardens.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Green Emperor Way.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arboretum.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arena.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Talos Plaza.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Market.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Prison.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Talos Plaza.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Temple.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - The Arcane University.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Waterfront.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
-? Not compatible with Better Cities Full or Better Cities IC components.
+" Better Cities Full or Better Cities IC components.
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
-? Not compatible with Better Cities.
+" Better Cities.
 ImpeREAL Empire - Unique Castles - Anvil.esp
-? Not compatible with Better Cities Full or Better Cities Anvil components.
+" Better Cities Full or Better Cities Anvil components.
 ImpeREAL Empire - Unique Castles - Bravil.esp
-? Not compatible with Better Cities Full or Better Cities Bravil components.
+" Better Cities Full or Better Cities Bravil components.
 ImpeREAL Empire - Unique Castles - Bruma.esp
-? Not compatible with Better Cities Full or Better Cities Bruma components.
+" Better Cities Full or Better Cities Bruma components.
 ImpeREAL Empire - Unique Castles - Cheydinhal.esp
-? Not compatible with Better Cities Full or Better Cities Cheydinhal components.
+" Better Cities Full or Better Cities Cheydinhal components.
 ImpeREAL Empire - Unique Castles - Chorrol.esp
-? Not compatible with Better Cities Full or Better Cities Chorrol components.
+" Better Cities Full or Better Cities Chorrol components.
 ImpeREAL Empire - Unique Castles - Leyawiin.esp
-? Not compatible with Better Cities Full or Better Cities Leyawiin components.
+" Better Cities Full or Better Cities Leyawiin components.
 ImpeREAL Empire - Unique Castles - Skingrad.esp
-? Not compatible with Better Cities Full or Better Cities Skingrad components.
+" Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -6345,13 +6351,13 @@ Imperial Library.esp
 Imperial City Ranch.esp
 
 ImprovedChorrol.esp
-? Not compatible with Better Cities Full or Better Cities Chorrol components.
-? Not compatible with Open Cities Complete or Open Cities Chorrol components.
-? Not compatible with Open Better Cities Complete or Open Better Cities Chorrol components.
+" Better Cities Full or Better Cities Chorrol components.
+" Open Cities Complete or Open Cities Chorrol components.
+" Open Better Cities Complete or Open Better Cities Chorrol components.
 Improved Skingrad.esp
-? Not compatible with Better Cities Full or Better Cities Skingrad components.
-? Not compatible with Open Cities Complete or Open Cities Skingrad components.
-? Not compatible with Open Better Cities Complete or Open Better Cities Skingrad components.
+" Better Cities Full or Better Cities Skingrad components.
+" Open Cities Complete or Open Cities Skingrad components.
+" Open Better Cities Complete or Open Better Cities Skingrad components.
 
 IC Atmospheric Shops Mod.esp
 IC DB Hideout.esp
@@ -6382,13 +6388,13 @@ Ivy Cottage.esp
 \BeginGroup\: Quests J
 
 JADICMothPriests.esp
-? Not compatible with Better Cities Green Emperor's Way. Already included as part of Better Cities.
+" Better Cities Green Emperor's Way. Already included as part of Better Cities.
 JADImperialApartments01Temple.esp
-? Not compatible with Better Cities Temple District. Already included as part of Better Cities.
+" Better Cities Temple District. Already included as part of Better Cities.
 JADImperialApartments02Temple.esp
-? Not compatible with Better Cities Temple District. Already included as part of Better Cities.
+" Better Cities Temple District. Already included as part of Better Cities.
 JADImperialApartments03Temple.esp
-? Not compatible with Better Cities Temple District. Already included as part of Better Cities.
+" Better Cities Temple District. Already included as part of Better Cities.
 Jagnot- Imperial City Library V1.3.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Talos District.
 Jagnot-SI-Bliss Aquaduct House.esp
@@ -6512,6 +6518,7 @@ Lem - The Spire of Apparitions.esp
 Lem - Sunken Fortress.esp
 Lem - Zemus's Lair.esp
 Lenawiln_Cottagev2.11.esp
+Letter to Dana.esp
 bladesfactionmod.esp
 % {{BASH:Factions,Invent,Relations}}
 
@@ -6634,7 +6641,7 @@ mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_LongshipExpansion.esp
 mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
-? Not compatible with Better Cities Bravil. Already included as part of Better Cities.
+" Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
 00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
@@ -7037,7 +7044,7 @@ The Lost Tomb.esp
 The Necromancers start V1.0.esp
 The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
-? Not compatible with Better Cities.
+" Better Cities.
 The Power of the North.esp
 The Retreat.esp
 The Siren's Deception.esp
@@ -7127,8 +7134,6 @@ Topal Island & Safe Water.esp
 Topal Island - Safe Water.esp
 
 TOTW.esp
-TOTF Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
 TOTWfurn.esp
 TOTWcamp.esp
 Tunnels of Tamriel.esp
@@ -7339,7 +7344,7 @@ DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
 % {{BASH:Stats}}
@@ -7391,7 +7396,7 @@ OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp
 SM Plugin Refurbish - FrostCrag.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 NLF FrostCrag.esp
 FrostcragAlchemySorter.esp
 DLCFrostcragMysticEmporiumPatch.esp
@@ -7475,10 +7480,10 @@ MOBS_Knights.esp
 MOBS Knights.esp
 % {{BASH:NoMerge,Stats}}
 SM Plugin Refurbish - Knights.esp
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 SM Plugin Refurbish(Merged).esp
 : all DLCs and Shivering Isles to be installed and active.
-? Not compatible with 'CDM-CGO Compatibility plugins'.
+" 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
@@ -7546,6 +7551,8 @@ Castle_Knightstone.esp
 ? Remember to use the correct version depending on Knights of the Nine being installed or not.
 
 TOTF.esp
+TOTF Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 OCC-TOTF-Patch.esp
 TotF Stronger Cleon.esp
 TotF MtyMgc Patch.esp
@@ -8114,18 +8121,18 @@ xleyawiinSwamp.esp
 
 Castle_Seaview.esp
 CastleSeaview+LostCoast Patch.esp
-? Not compatible with EaglesRest+LostCoast+CastleSeaview Patch.esp
+" EaglesRest+LostCoast+CastleSeaview Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
-? Not compatible with CastleSeaview+LostCoast Patch.esp
+" CastleSeaview+LostCoast Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
 
 Castle_Wolfspike.esp
 Patch-Wolfspike-UL.esp
 
 The Ruins of Miscarcand.esp
-? Not compatible with Miscarcand Expanded.esp
+" Miscarcand Expanded.esp
 Miscarcand Expanded.esp
-? Not compatible with The Ruins of Miscarcand.esp
+" The Ruins of Miscarcand.esp
 
 bartholm.esp
 Bartholm-Panther River Patch.esp
@@ -8152,15 +8159,15 @@ VeronaHouseBloodlines-UL patches Merged.esp
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
 ? Upgrade to v3.0 or later.
-? Not compatible with Better Cities. Already included in Better Cities IC plugins.
+" Better Cities. Already included in Better Cities IC plugins.
 Imperial City Waterfront Tunnel Entrance v3.0.esp
-? Not compatible with Better Cities. Already included in Better Cities IC plugins.
+" Better Cities. Already included in Better Cities IC plugins.
 IC Tunnel.esp
-? Not compatible with Better Cities.
+" Better Cities.
 ICWaterfrontPassage.esp
-? Not compatible with Better Cities.
+" Better Cities.
 Waterfront Passage - Control of Goods.esp
-? Not compatible with Better Cities.
+" Better Cities.
 JADDockTunnel.esp
 ? Probably not compatible with Better Cities.
 Moriarcis.esp
@@ -8759,7 +8766,7 @@ GoresNoTargetMagicGaining-Vanilla.esp
 GoresNoTargetMagicGaining-Fast.esp
 
 GP_Lockpicks.esp
-? Not compatible with MMM Hunting & Crafting.
+" MMM Hunting & Crafting.
 Great Gate Essential NPC's.esp
 GuildStorage.esp
 Guild Chests V.1.esp
@@ -9275,6 +9282,7 @@ Unarmored skill.esp
 GalerionTrueUnarmored-v20.esp
 university cosmetics.esp
 university cosmetics-no orrery dome.esp
+UNKNOWNYMOUS Social NPCs.esp
 VisiblyUnlimited.esp
 Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
@@ -9448,6 +9456,8 @@ Arks Tutorial Terminator.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations}}
 Skip Tutorial.esp
+? Old, update to version 2+.
+SkipTutorialv2.esp
 Alternative Start v1.2.esp
 ? Check you're using v1.26 or later.
 Alternative Start v1.26.esp
@@ -10231,6 +10241,7 @@ Compleat Enchanter easy.esp
 Empower Enchantment.3.x.esp
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
+EnchantmentRemoval.esp
 EnchantmentRestore.esp
 EnchantmentRestore_Wells.esp
 Enchant Arrows Spells.esp
@@ -10341,6 +10352,8 @@ wolfiePolishingCloth v1.00.esp
 ZumbsLockpickingMod.esp
 ZumbsLockpickingMod - OBSE.esp
 ZumbsLockpickingMod - Hide Difficulty Addon.esp
+Morrowind Lockpicking.esp
+" Zumbs Lockpicking Mod
 
 kuerteeNoLootingDuringCombat.esp
 kuerteeNPCsAreSuspicious.esp
@@ -10350,7 +10363,7 @@ kuerteeNPCsAreSuspicious.esp
 \'''''''''''''''''
 
 OOO-OLC_Realistic_Detection.esp
-? Not compatible with other thievery-detection mods
+" other thievery-detection mods
 : OOO.
 M.O.E. - Realistic Law Enforcement - Part One.esp
 M.O.E. - Realistic Law Enforcement - Part Two.esp
@@ -10371,9 +10384,9 @@ sycSHOUT.esp
 SM RGOConfig.esp
 kuerteeClothingMatters.esp
 kuerteeCrimeHasWitnesses.esp
-? Not compatible with Reneer's Guard Overhaul.
+" Reneer's Guard Overhaul.
 kuerteeLootingDeadGuardsIsStealing.esp
-? Not compatible with Reneer's Guard Overhaul.
+" Reneer's Guard Overhaul.
 300ft_crime_detection-7319.esp
 DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
@@ -10442,6 +10455,7 @@ Denock Arrows.esp
 Combat Behavior 2.11b.esp
 Duke Patricks Basic Denock Arrows.esp
 ? COBL Includes a denock arrow feature so don't use this with COBL
+Duke Patricks - Double Arrow Nock Shot.esp
 Enhanced_Hand_to_hand-2329.esp
 erics_double_damage_for_archers.esp
 ? Only use one Erics * for archers.esp
@@ -10611,20 +10625,20 @@ CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.
 CDM-CGO Horse Armor Compatability.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Orrery Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Thieves Den Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Vile Lair Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Mehrunes Razor Compatibility.esp
 CDM-CGO Battlehorn Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Shivering Isles Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Frostcrag Compatibility.esp
-? Not compatible with 'SM Plugin Refurbish' mods.
+" 'SM Plugin Refurbish' mods.
 CDM-CGO Frostcraft Compatibility.esp
 CDM-CGO Classes.esp
 CDM-CGO Master Trainers.esp
@@ -11248,7 +11262,7 @@ Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Slof's Playable Xivilai.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
-? Not compatible with OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
+" OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
 Slof's Clouded Leopard.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Slof's Snow Leopard Race.esp
@@ -12159,7 +12173,7 @@ Better Cities - Anvil City Defences.esp
 Better Cities ANVIL.esp
 Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
-? Not compatible with Ruined Tail 2.5.
+" Ruined Tail 2.5.
 
 Better Cities - Anvil Bay Expansion.esp
 

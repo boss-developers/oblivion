@@ -5685,7 +5685,7 @@ Artifacts.esp
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ArtifactsFemaleArmor.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}}
 ArtifactsforArmaComplete.esp
 ? obselete - Use Artifacts-ArmaCompleteAddon.esp instead
 Artifacts for ArmaComplete.esp

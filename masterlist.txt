@@ -881,13 +881,15 @@ NoWind.esp
 \BeginGroup\: Water tweaks
 \''''''''''''
 \
-\All of these simply alter water shader rendering settings - no Bashed Patch tags are needed or appropriate.
+\All of these simply alter water shader rendering settings - no Bashed Patch tags are needed
+\ or appropriate except for in same case C.Water.
 \Possible dirty edits mean they should go before landscape changing mods.
 
 Enhanced Water v1.5 ND.esp
 ? Old. Upgrade to latest version.
 Enhanced Water v2.0 ND.esp
 Enhanced Water v2.0 HD.esp
+% {{BASH:C.Water}}
 Enhanced Water v2.0 HDMI.esp
 Improved Water.esp
 NaturalWater.esp
@@ -7574,6 +7576,8 @@ MoreSuburbLife.esp
 ? If using RTT use MoreSuburbLife_RTT_patch.esp to prevent issues with the Wawnet Inn.
 MoreSuburbLife_RTT_patch.esp
 
+TOS - Prelude.esp
+
 The Lost Spires.esp
 LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
@@ -7805,13 +7809,6 @@ MTCThievesGrottoV4.1 Vwalk.esp
 Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-
-Dschinni.esp
-? There are incompatibilities with Servant of the Dawn.
-? Use the patch for UL Arrius Creek and The Heart of the Dead version 6.3 to resolve compatibility issues.
-Dschinni Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-
 HeartoftheDead.esp
 % {{BASH:Hair}}
 HeartOftheDead Vwalk.esp
@@ -7822,6 +7819,12 @@ HOD_delayer.esp
 ? only use without Open Cities
 OC_HOD_delayer.esp
 ? only use with Open Cities
+
+Dschinni.esp
+? There are incompatibilities with Servant of the Dawn.
+? Use the patch for UL Arrius Creek and The Heart of the Dead version 6.3 to resolve compatibility issues.
+Dschinni Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Landscape and City overhauls
@@ -8839,6 +8842,7 @@ LastUnicorn.esp
 Leviathan Soulgems.esp
 ? if using the abridged version (same name); make sure to be using the latest version (released in 2010) the earlier version had a malformed header tha could cause errors.
 Leviathan Soul Gems Abridged.esp
+% {{BASH:Graphics,NoMerge}}
 SoulgemSalvation.esp
 ? Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
@@ -9675,6 +9679,7 @@ LessFrequentVampirismComments.esp
 LithiansVampEyes.esp
 Vampire Hunters Tools.esp
 CDM - Vampirism.esp
+GW71_VampireRealism.esp
 Hunter's Sight Toggle.esp
 Hothead's Vampires.esp
 HotheadsVampires.esp
@@ -12176,6 +12181,7 @@ BCCheydinhal-CheydinhalFalls patch.esp
 BCCheydinhalFULL-CheydinhalFalls patch.esp
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
+% {{BASH:C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 Better Cities - Unique Landscape Cheydinhal Falls.esp
 

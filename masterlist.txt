@@ -509,6 +509,7 @@ Obl-IM.esp
 Obl-IM_SI.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
+Oblivion_Deutsch_v3_2_1.esp
 \EndGroup\\
 
 \BeginGroup\: Shivering Isles
@@ -1297,6 +1298,8 @@ CATSDeerPeltsAndAntlers.esp
 ? Moving after overhauls may restore this mod's functionality but may break some overhaul mod settings. Untested.
 
 Complete Names.esp
+% {{BASH:Names}}
+Complete Names - DV.esp
 % {{BASH:Names}}
 Rational Names, 2.esp
 % {{BASH:Names}}
@@ -2882,6 +2885,8 @@ FemaleImperialDragonCuirass.esp
 ImperialDragonHeavyShield.esp
 femaleorderrobe.esp
 FemaleArmorPack1.esp
+Female Helmet Replacer.esp
+% {{BASH:Graphics}}
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
@@ -5500,6 +5505,7 @@ Newsheoth.esp
 palace lights.esp
 
 Castle Ravenpride.esp
+Burg Rabenstolz.esp
 aaaWindSpear.esp
 
 cyrodiil transportation network.esp
@@ -5541,6 +5547,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
 2423-1.00-Town Armor To House-TESSource.esp
+2HFluch.esp
 300 Regal Imperial City 2.esp
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
@@ -5604,6 +5611,7 @@ Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 A Qrazy Quest.esp
+Alexis_Magiergilde.esp
 AlchemistForHire.esp
 AleswellHomeQuest.esp
 AL_Maverick.esp
@@ -5709,6 +5717,7 @@ A Son's Revenge 2.0.esp
 AsarusTomb1.esp
 Asharnakibibi.esp
 Asharnakibibi 1_2.esp
+Ash'kale.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
 Assassin's Hideout v1.1.esp
@@ -5854,6 +5863,7 @@ BXX Tamriel Resource Exchange.esp
 
 \BeginGroup\: Quests C
 
+Camp Simplicity.esp
 Capsized Ship.esp
 CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
@@ -5990,6 +6000,7 @@ Del_Skingrad_Garden.esp
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
+Der Orden.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
@@ -6078,6 +6089,7 @@ Abriael_Human.esp
 BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
 eyja.esp
+Eyja_DV 1.0..esp
 eyja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Eyja Abriael Human Vwalk.esp
@@ -6385,6 +6397,7 @@ Improved dungeons.esp
 ? Upgrade to latest version, called "The Lost Treasures Of Cyrodiil"
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
+In Sachen Ayleiden.esp
 Insanity's Pet Shop.esp
 Ivy Cottage.esp
 \EndGroup\\
@@ -6825,6 +6838,7 @@ Region Revive - Lake Rumare.esp
 " most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
 Region Revive - Lake Rumare - OOO LockBash.esp
+RealmofRuun.esp
 Return Of Shadows.esp
 ReneersContainerMod.esp
 RGA-ESHouse.esp
@@ -7196,6 +7210,7 @@ Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 Vibliribland-4843-Ancient_Goblin_City.esp
 Vibliribland-6178-The_Dragon_Citadel.esp
 Villages1.1.esp
+Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp
 Village of Lily 2.0.esp
 Viking Village.esp
@@ -7246,6 +7261,7 @@ WoodlandVillage1.2.esp
 WoodlandVillage, Cobl.esp
 Woodland Refuge.esp
 Woodland Rangers.esp
+Woodland-Rangers_DV.esp
 WOTFH_1.2.esp
 ? Old Version, update to version 1.3+
 WOTFH_1.3.esp
@@ -7887,6 +7903,7 @@ LostSpires-Everglade patch.esp
 LostSpires_TheOrderofNibenay_patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
+TrailsOfCyrodiil-FallenleafEverglade Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
@@ -7911,6 +7928,7 @@ TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
 ? Obsolete. Delete.
 WeynonRetreat-ChorrolHinterland-Patch.esp
+TrailsOfCyrodiil-ChorrolHinterland patch.esp
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -7951,6 +7969,7 @@ NNWARE1_Dungeon05ULPatch.esp
 Cybiades - UL Beaches of Cyrodiil Patch.esp
 ? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - aslo do not use the prepatched version of the Cybiades esp.
 ForgottenTomb-LostCoast patch.esp
+OrdenULPatchBeachesOfCyrodiil.esp
 
 xulbravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -7967,6 +7986,8 @@ BravilDocks-Barrowfields patch.esp
 MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
+OrdenULPatchBravilBarrowfields.esp
+TrailsOfCyrodiil-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
 Unique Landscapes - Lush Woodlands DV.esp
@@ -8035,11 +8056,17 @@ KragenirsDeathQuest-RollingHills patch.esp
 
 xulPantherRiver.esp
 Blood&Mud-PantherRiver patch.esp
+TrailsOfCyrodiil-PantherRiver patch.esp
+TrailsOfCyrodiil- PantherRiver patch DV.esp
 
 xulRiverEthe.esp
 Unique Landscapes - River Ethe DV.esp
 ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.
+TrailsOfCyrodiil-RiverEthe patch.esp
+TrailsOfCyrodiil-RiverEthe patch DV.esp
+WestRoads-RiverEthe patch.esp
+? Obselete - update to West Roads version 1.3+.
 
 xulBrenaRiverRavine.esp
 Unique Landscapes - Brena River Ravine DV.esp
@@ -8080,6 +8107,7 @@ DungeonsOfIvellon-CheydinhalFalls patch.esp
 Villages-CheydinhalFalls patch.esp
 Villges-CheydinhalFalls patch.esp
 EtInArkay-CheydinhalFalls patch.esp
+TrailsOfCyrodiil-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
@@ -8092,6 +8120,7 @@ xulSkingradOutskirts.esp
 Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+TrailsOfCyrodiil-SkingradOutskirts patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -8111,6 +8140,10 @@ xul Swalk Full.esp
 xul Vwalk Full.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+TrailsOfCyrodiilCentral-UL merged patch.esp
+TrailsOfCyrodiilWest-UL merged patch.esp
+TrailsOfCyrodiilWest-UL merged patch DV.esp
+TrailsOfCyrodiil-UL merged patch.esp
 \EndGroup\\
 
 \BeginGroup\: Post UL, Pre BC
@@ -9327,6 +9360,7 @@ Wondrous Items.obse.esp
 WolfPacks.esp
 WolfPacksOscuroAddOn.esp
 Werewolf-Legends.esp
+Werewolf-Legends_DV.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
 kuerteeAlternativesToDeathAndReload.esp
@@ -10489,6 +10523,8 @@ ArrowVelocity.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
+Pfeilgeschwindigkeit.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 CombatFPSOptimizer.esp
 Oss133FrameRateOptimizer.esp
 Realistic Arrow Flight.esp
@@ -11229,6 +11265,8 @@ Hidden_Elves.esp
 YX33A_batch_of_stuff.esp
 Nec-Mystic Dark ElF.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Nec_Mystic_Dark_Elf_DV.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec Mystic High Elf-Remake.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec - Extra Mystic Elf Face.esp
@@ -11258,6 +11296,10 @@ CuteElf11.esp
 CuteElfBody.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+_Ren_BeautyPack_full_-_1.1_DV.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+_Ren_BeautyPack_full_-_DV_Eshme_Compatible.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Ice Elves and Wolf Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

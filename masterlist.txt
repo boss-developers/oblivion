@@ -3376,6 +3376,7 @@ SentientWeapon.esp
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
 SexyTops.esp
+Shadow Legion Armor.esp
 shamblingbooks.esp
 ShinobiSet.esp
 ShinobiSet_NoEnchant.esp
@@ -5982,6 +5983,7 @@ Dark Brotherhood Outpost v3.esp
 Dark Brotherhood Sanctuaries.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
+DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
 DarksullTower1point1.esp
@@ -6272,6 +6274,7 @@ SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
+imperial armors shop.esp
 Shezrie's Villages.esp
 Imperial City Townhouse.esp
 ImpeREAL City Unique Districts - Talos Plaza.esp
@@ -7673,6 +7676,7 @@ MannimarcoRevisitedOOO.esp
 MannimarcoWardrobeChest.esp
 OOO_Mannimarco_Fix.esp
 _JC_Mannimarco.esp
+The Legendary Mannimarco.esp
 
 Prince of Order.esp
 
@@ -11851,6 +11855,7 @@ Sonia.esp
 % {{BASH:Hair,Eyes}}
 Sonia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+STEREOTYPES.esp
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 Tiamat the Firedrake.esp
@@ -12041,6 +12046,7 @@ PMSneakySummonCompatibility.esp
 : BASH for proper use
 % {{BASH:IIM,Filter,Invent,Deactivate}}
 Shads Spellbook.esp
+Stealthier Magic.esp
 qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp
@@ -12986,6 +12992,7 @@ Shining Creatures_DLCFrostcrag.esp
 \BeginGroup\: Pre Bash
 \--------
 
+Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DLCFrostcrag_MysticEmporiumKTDH.esp
 Faction Rank Fix.esp

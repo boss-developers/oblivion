@@ -4166,6 +4166,7 @@ Battle China Dress.esp
 R18PN - Amy Armor Set.esp
 R18PN - Ayumi Set.esp
 R18PN - Bikini Re-Textured.esp
+R18PN - Dancer's Dress.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
 R18PN - Mizugi set.esp
@@ -6456,6 +6457,8 @@ Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 
 Kragenir's Death Quest.esp
+Kragenir's Death Quest Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 KDQ - Rural Line Additions.esp
 
 300_White Stallion+SB23.esp
@@ -7275,6 +7278,8 @@ Weye_Manor.esp
 WeyeHouse.esp
 Healer.esp
 Windfall.esp
+Windfall Vwalk.esp:
+% {{BASH:Actors.Anims,NoMerge}}
 Window Entrances 1.0.esp
 
 WeynonRetreat.esp
@@ -7655,6 +7660,8 @@ $ Has some landscape issues with OOO.
 HoarfrostCastle.esp
 % {{BASH:Hair}}
 HoarfrostCastle_delayer.esp
+HoarfrostCastle Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 
 LanternMonastery.esp
 FiveLanterns-HoarfrostCastle patch.esp
@@ -8523,6 +8530,7 @@ AutoBookPlacer_v2.esp
 Automatic Difficulty Increaser.esp
 Auto Potion.esp
 Auto Repair.esp
+AutoRun.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 \EndGroup\\
@@ -11265,6 +11273,8 @@ Half Elves.esp
 Hidden_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
+RGMsNavatar.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Mystic Dark ElF.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec_Mystic_Dark_Elf_DV.esp
@@ -11317,6 +11327,8 @@ Slof's Clouded Leopard.esp
 Slof's Snow Leopard Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Slof's Devil.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
+Slof's Drow Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Stars_elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}

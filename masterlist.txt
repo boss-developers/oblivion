@@ -208,6 +208,7 @@ RaceFrameWork.esm
 Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
 x117race.esm
+Chanpon.esm
 SoVvM.esm
 % {{BASH:NpcFaces,Graphics}}
 Chocolate Elves.esm
@@ -230,6 +231,7 @@ SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
 wz_TripWire.esm
+Lovers with PK.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1891,6 +1893,7 @@ RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
 Rock Remover - Underwater.esp
+Ring_of_SS_Assist.esp
 \EndGroup\\
 
 \BeginGroup\: Base S
@@ -1957,6 +1960,8 @@ Summon Bed.esp
 
 svaToMoveObjects_1C.esp
 Shader Hotkey.esp
+Slow Motion_OBSE.esp
+SSCheatTools.esp
 \EndGroup\\
 
 \BeginGroup\: Base T
@@ -2134,6 +2139,9 @@ travellers d.esp
 ? Old, update to 'travellers-new balance.esp'.
 travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
+NPCsTravel.esp
+From2ch Lives.esp
 
 Populated Prisons.esp
 PCTM.esp
@@ -2729,6 +2737,7 @@ Colourwheels Sexy Nami.esp
 Colourwheels Sexy Hentais DarkRose.esp
 Colourwheels_Sexy_Sweetclothes.esp
 chainmailsdezi.esp
+CasquetteCamisoleX117.esp
 \EndGroup\\
 
 \BeginGroup\: Items D
@@ -9170,6 +9179,27 @@ Sexy Dark Seducer & Golden Saint Armour.esp
 AAQv1.esp
 Vtoy.esp
 Lovers.esp
+LoversAdultPlayPlus.esp
+? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
+LoversAdultPlay.esp
+? Use either 'LoversAdultPlayPlus.esp' or 'LoversSpringSale.esp' but not both together.
+LoversSpringSale.esp
+? Use either 'LoversAdultPlayPlus.esp' or 'LoversAdultPlay.esp' but not both together.
+LoversPayBandit.esp
+LoversJoburg.esp
+LoversTachiCat.esp
+LoversRaperS.esp
+Lovers_NA.esp
+LoversVoice.esp
+LoversVoice_AddRandomDialogues.esp
+LoversLoser.esp
+? Obsolete. Use LoversLandE.esp instead.
+LoversLandE.esp
+LoversLandE_AddRandomDialogues.esp
+LoversVoiceSound.esp
+? Obsolete. Use Lovers_pkr.esp instead.
+Lovers_pkr.esp
+LoversIdleAnimsPriority.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp
@@ -10916,6 +10946,7 @@ CTAddPose_2ch-2.esp
 CTAddPose_enfant.esp
 CTAddPose_SPB_01.esp
 CTAddPose SPB 02.esp
+CTAddPose_Mfeth.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -10928,6 +10959,7 @@ SW01Plus.esp
 SW01Minus.esp
 SexyPlOneHand.esp
 
+SeductiveIdle.esp
 SeductiveIdles.esp
 Idle Pose Replacer.esp
 actors_in_charge.esp
@@ -11417,6 +11449,10 @@ Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
 Beautiful People 2ch-Ed Cute Elves.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Nec Mystic High Elf Remake
+% {{BASH:Hair,Eyes,R.Relations}}
+Beautiful People 2ch-Ed MS Elves - Sc.esp
+% {{BASH:Hair,Eyes,R.Relations}}
+Beautiful People 2ch-Ed MS Elves - NoSc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 
 x117race.esp

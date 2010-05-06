@@ -5883,6 +5883,7 @@ BXX Tamriel Resource Exchange.esp
 \BeginGroup\: Quests C
 
 Camp Simplicity.esp
+Campus Village.esp
 Capsized Ship.esp
 CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
@@ -6707,6 +6708,7 @@ Mysteries Of Atrene Camp.esp
 \BeginGroup\: Quests N
 
 Nabu_Towers.esp
+Naheema_Home09.esp
 Naughty_Joana_01.esp
 Naughty_Joana_01 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -7134,6 +7136,7 @@ Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
+Topal Bay Camp.esp
 Trail  South East.esp
 Trail  WEST.esp
 Trail  EAST.esp
@@ -8001,6 +8004,8 @@ Cybiades - UL Beaches of Cyrodiil Patch.esp
 ? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - aslo do not use the prepatched version of the Cybiades esp.
 ForgottenTomb-LostCoast patch.esp
 OrdenULPatchBeachesOfCyrodiil.esp
+ArcaneRising-LostCoast patch.esp
+ShipwreckHome-LostCoast-SutchReborn patch.esp
 
 xulbravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -8019,6 +8024,7 @@ ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
 OrdenULPatchBravilBarrowfields.esp
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
+QuelldorfWithoutShip-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
 Unique Landscapes - Lush Woodlands DV.esp
@@ -12317,6 +12323,7 @@ Better Cities - Bruma City Defences.esp
 Better Cities BRUMA.esp
 
 BCSkingrad-SkingradOutskirts patch.esp
+% {{BASH:C.Water}}
 Better Cities - Unique Landscape Skingrad Outskirts.esp
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp

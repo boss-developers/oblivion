@@ -8547,11 +8547,17 @@ Armor-Long -TESSource.esp
 Armoured Imperial Patrols - Realism.esp
 
 As Intended - OOO Boars & Imps.esp
+% {{BASH:spellsOnly}}
 As Intended - OOO Boars.esp
+% {{BASH:spellsOnly}}
 As Intended - OOO Imps.esp
+% {{BASH:spellsOnly}}
 As Intended - Vanilla Boars & Imps.esp
+% {{BASH:spellsOnly}}
 As Intended - Vanilla Boars.esp
+% {{BASH:spellsOnly}}
 As Intended - Vanilla Imps.esp
+% {{BASH:spellsOnly}}
 Assassin Tripwires.esp
 Assassin Tripwires DBSR.esp
 AleswellNoRefractFix.esp
@@ -12020,7 +12026,7 @@ AMD.esp
 \''''''''''
 
 Cobl Races.esp
-% {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F}}
+% {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.
 Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}}
@@ -12038,12 +12044,12 @@ Cobl - NPCDiversity - TNR Merge.esp
 bgBalancingEVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? Do not use with COBL Races.
-% {{BASH:Eyes,Hair,R.Relations}}
+% {{BASH:Eyes,Hair,R.Relations,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 bgBalancingDVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
 ? Do not use with COBL Races
-% {{BASH:Eyes,Hair,R.Relations}}
+% {{BASH:Eyes,Hair,R.Relations,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
@@ -12223,7 +12229,7 @@ Birthsigns Revamped.esp
 sr_race_balance_tweaks.esp
 Trap.esp
 Cobl Races - Balanced.esp
-% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations}}
+% {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.
 Cobl Balanced Races - MMR Patch.esp
 Diverse Races.esp

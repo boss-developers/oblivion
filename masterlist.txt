@@ -3338,7 +3338,6 @@ Reznod_Mannequin_HD[Eng].esp
 RGMsCheerleader.esp
 Rindirs Staves.esp
 Ring of Sunwalker V1.35.esp
-RingwraithArmorMithril.esp
 RinzeiCrystalStaff_Unenchanted.esp
 Robe Replacer2.esp
 % {{BASH:Graphics}}
@@ -3359,6 +3358,13 @@ RTFemaleReplacerV12.esp
 % {{BASH:Graphics}} - De-activate
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
+? Only have one ringwraith armor esp active at once.
+RingwraithArmorMithril.esp
+? Only have one ringwraith armor esp active at once.
+RingwraithArmorSteel.esp
+? Only have one ringwraith armor esp active at once.
+RingwraithArmorGlass.esp
+? Only have one ringwraith armor esp active at once.
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp 
 RoseGear.esp
@@ -5906,6 +5912,7 @@ Castle Dragulia.esp
 Castle_Highrock.esp
 Castle_Veyond.esp
 Castle Volengrad.esp
+CastleHeiLi.esp
 CDEP.esp
 CDEP_FanaCeya.esp
 CDEP-UnderpallCave.esp
@@ -6224,6 +6231,7 @@ hallofthemountainking.esp
 hackdirtabyss.esp
 HackdirtCaverns.esp
 Halcyon House.esp
+Halls of Fortitude.esp
 Halls of Unrelent.esp
 Hammerfell.esp
 Hammerfell Vwalk.esp
@@ -6241,6 +6249,8 @@ HauntedHouse v1.4.esp
 ? Version 1.5 is available.
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
+HauntedLairMod.esp
+? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
 HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp

@@ -9235,8 +9235,10 @@ LoversLoser.esp
 LoversLandE.esp
 LoversLandE_AddRandomDialogues.esp
 LoversVoiceSound.esp
-? Obsolete. Use Lovers_pkr.esp instead.
+? Obsolete. Use Lovers with PK.esp instead.
 Lovers_pkr.esp
+? Old, update to version 1.3b3 Rev05a or later.
+Lovers with PK.esp
 LoversIdleAnimsPriority.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2

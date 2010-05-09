@@ -5226,7 +5226,7 @@ FCOM_VanillaItemReleveler.esp
 \''''''''''''''''''''''
 
 TIE.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.RecordFlags,Delev,Invent,NpcFaces,Relations,Relev,Scripts}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.DeathItem,Actors.Spells,Actors.Stats,C.RecordFlags,Delev,Invent,NpcFaces,Relations,Relev,Scripts}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 TIE Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge }} 

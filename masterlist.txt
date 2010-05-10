@@ -409,6 +409,8 @@ Colourwheels Sexy Female NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 beardy.esp
 % {{BASH:NpcFaces}}
+ChangeSomeCyrodiilLadies.esp
+% {{BASH:NpcFaces,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes
@@ -9218,6 +9220,7 @@ Sexy Dark Seducer & Golden Saint Armour.esp
 AAQv1.esp
 Vtoy.esp
 Lovers.esp
+LoversBrothel.esp
 LoversAdultPlayPlus.esp
 ? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
 LoversAdultPlay.esp
@@ -11497,6 +11500,11 @@ Beautiful People 2ch-Ed MS Elves - NoSc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 
 x117race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Lop-ears Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+RANs_WildTabaxi_101.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}

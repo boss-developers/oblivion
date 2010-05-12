@@ -2061,6 +2061,7 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esp
 $ Not OOO compatible. Included in OOO.
 Harvest[Containers] - Havok Crates Add-on.esp
 $ Not OOO compatible.
+DBOO - Harvest[Containers].esp	
 
 Piratelords Trade Fixes.esp
 
@@ -2984,6 +2985,8 @@ GekkoukanSet.esp
 
 Hades.esp
 Harlequin Armour 0.6.esp
+HaroK Arrow Forge Revisited.esp
+% {{BASH:Invent}}
 Hashshashin Armor.esp
 HB Ayelid Longsword.esp
 HB Crude Glass Knife.esp
@@ -3300,6 +3303,7 @@ ParaClothes.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+Piratelords Recharging Enchantments.esp
 pizz_NINJA_outfit.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
@@ -4660,6 +4664,8 @@ AMC-OOO.esp
 DBOO.esp
 DBOO - MOBS.esp
 DBOO - OOO.esp
+DBOO - ShiveringIsles.esp
+DBOO - TNR ALL RACES FINAL.esp
 Fine Weapons for OOO.esp
 Improved Imperial Dragon.esp
 
@@ -7334,6 +7340,7 @@ Cyrodill Travel Services.esp
 Cyrodiil Travel Services.esp
 Cyrodiil Travel Services Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+FrbitTravel.esp
 Fairies.esp
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
@@ -12339,6 +12346,7 @@ Better Cities - Anvil Bay Expansion.esp
 Better Cities - Chorrol City Defences.esp
 Better Cities CHORROL.esp
 BCChorrol-ChorrolHinterland fix.esp
+% {{BASH:C.Water}}
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 Better Cities CHORROL - Werewolf.esp

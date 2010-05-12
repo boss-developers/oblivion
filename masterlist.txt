@@ -2492,6 +2492,7 @@ Armory of the Silver Dragon.esp
 Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
+Assassin's Creed 2 Revisited.esp
 Auras.esp
 azsTHouse.esp
 azsTrHouse.esp
@@ -2776,6 +2777,8 @@ Dalls_Anduril.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_Oni.esp
+DamascusGlamdring.esp 
+% {{BASH:Invent}}
 DarkAdventuressBow.esp 
 Dark BrotherHood Hood Replacer V1.2.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
@@ -2893,6 +2896,8 @@ FalxMod.esp
 Fans for Helain.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
+FB_Dark_Crusader_01.esp
+% {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
 Female Steel Armor.esp
 FemaleImperialDragonCuirass.esp
@@ -5422,6 +5427,7 @@ Wearable GS and DS armor for OOO CG.esp
 Wearable GS and DS armor for OOO.esp
 SI Armours Wearable - Frans.esp
 Loot_All_Armor_SE.esp
+Playable_GS_DS_1_1.esp
 
 Daggerfall NPCs.esp
 % {{BASH:Delev}} - not yet tested.
@@ -7100,6 +7106,7 @@ The forgotten Castle.esp
 The Island Of Fire.esp
 The Lost Tomb.esp
 The Necromancers start V1.0.esp
+OOO-The Necromancer_Landtear_Fix.esp
 The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
 " Better Cities.
@@ -11222,6 +11229,7 @@ JoinedJaws.esp
 \BeginGroup\: Hair
 \''''
 
+All vanilla races and eyes unlocked (SI included).esp
 UnlockedHairs.esp
 Custom Hairs for Vanilla Race.esp
 % {{BASH:Hair}}

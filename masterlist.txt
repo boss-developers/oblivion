@@ -2092,6 +2092,7 @@ JOJOeffect.esp
 StandingJOJO.esp
 
 moDem's City Life - BP Compat.esp
+% {{BASH:Hair}}
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 ? For use with Better Cities use replacing fix for BBC.
 moDem's City Life - BP Compat Vwalk.esp
@@ -9258,6 +9259,7 @@ LoversJoburg.esp
 LoversTachiCat.esp
 LoversRaperS.esp
 Lovers_NA.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 LoversVoice.esp
 LoversVoice_AddRandomDialogues.esp
 LoversLoser.esp

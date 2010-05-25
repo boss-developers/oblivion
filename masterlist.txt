@@ -9264,13 +9264,16 @@ LoversAphrodisia.esp
 LoversBed.esp
 LoversBrothel.esp
 LoversFOV.esp
+LoversHelpRapeVPlayer.esp
 LoversJoburg.esp
 LoversPayBandit.esp
 LoversRapeman.esp
 LoversRaperS.esp
 LoversTachiCat.esp
+? Obsolete. Use LoversTachiCat2.esp instead.
+LoversTachiCat2.esp
 Lovers_NA.esp
-% {{BASH:NpcFaces,Hair,Eyes}}
+% {{BASH:Hair,Eyes}}
 LoversVoice.esp
 ? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
 LoversVoiceMinus.esp

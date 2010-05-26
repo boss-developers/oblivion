@@ -479,7 +479,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 
 Unofficial Oblivion Patch.esp
 ? Recommend installing UOP hotfix for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
-% {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag (only exist in older version).
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Music,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag (only exist in older version).
 ? Remember to use the 'MOBS' version when using Francesco's or FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
 Unofficial Oblivion Patch DV.esp
@@ -4628,7 +4628,7 @@ G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,Relations,Relev,Scripts,Stats}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -11337,6 +11337,8 @@ DesuChan's Anime Eyes (Vanilla).esp
 All_hair_and_eyes-1841.esp
 % {{BASH:Hair,Eyes,Deactivate}}
 BP-Cosmetic_Compilation-Alternative.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+BP-Cosmetic_Compilation-Alternative-VanillaRaceonly.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation.esp
 % {{BASH:NpcFaces,Hair,Eyes,Deactivate}}

@@ -2034,6 +2034,8 @@ wd purse of wonders.esp
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
 $ May not be OOO compatible as OOO includes inebriation.
+Willful Resistance.esp
+? Only use one willpower equals magicka resistance/weakness type mod at once.
 Wogs!.esp
 Wogs!_TI.esp
 Wyverex's - Runes.esp
@@ -2503,6 +2505,8 @@ Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
 Assassin's Creed 2 Revisited.esp
+AC2-Revisited_DV.esp
+AC2 Revisited HGEC.esp
 Auras.esp
 azsTHouse.esp
 azsTrHouse.esp
@@ -2612,6 +2616,8 @@ battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
 Battlespire Books.esp
+bbLager.esp
+bbLagerOptional.esp
 bcrich.esp
 BisPainBringer.esp
 BlackDragonNinjato.esp
@@ -2822,6 +2828,7 @@ Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
+DG Jewelry for All.esp 
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
@@ -3361,6 +3368,7 @@ Reznod Mannequin.esp
 Reznod_Mannequin_HD[Eng].esp
 RGMsCheerleader.esp
 Rindirs Staves.esp
+ring_of_feather.esp
 Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 Robe Replacer2.esp
@@ -6026,6 +6034,7 @@ Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
+Dalls_ICHouseTwo.esp
 Dalls_Inheritance.esp
 Dalls_Merchant.esp
 Dank Dark Cave-Final.esp
@@ -6685,6 +6694,7 @@ MakTravellersInn.esp
 Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
 marketway.esp
+marodan_osdakal.esp
 ME_MERCENARIES.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
@@ -7274,6 +7284,7 @@ VHBloodlines 1.2 Vwalk.esp
 OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
+Apachii_Goddess_Store_DV.esp
 Apachii_Heroes_Store.esp
 VG0HalloweenSpecial.esp
 Vibliribland-4489-Blackrock_Mountain.esp
@@ -7596,7 +7607,7 @@ Mart's Monster Mod - Knights of the Nine Patch.esp
 Mart's Monster Mod - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
-Mart's Monster Mod for OOO - Knights .esp
+Mart's Monster Mod for OOO - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 TIE In - Knights.esp
@@ -8116,6 +8127,7 @@ CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
+Dschinni - UL Arrius Creek Patch DV.esp
 
 xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills esp
@@ -9238,6 +9250,7 @@ RuneDoomWell.esp
 
 Safer Roads v1.0.esp
 ? Don't use with MMM or FCOM - unkown with other overhauls
+Sagantor's Bloodlust.esp
 Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
@@ -9666,6 +9679,13 @@ MQSDone.esp
 
 Axebane_RealHunger25.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
+HTS-WithMessages 1-1 DV.esp
+HTS-WithMessages 1-10 DV.esp
+HTS-WithMessages 1-12 DV.esp
+HTS-WithMessages 1-16 DV.esp
+HTS-WithMessages 1-20 DV.esp
+HTS-WithMessages 1-24 DV.esp
+HTS-WithMessages 1-30 DV.esp
 M.O.E. - Hunger Effects.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RealHunger.esp
@@ -9689,6 +9709,7 @@ BathingMod_Soap.esp
 BathingMod_Bathroom_Upgrades.esp
 BathingMod_Placeable_Bathtubs.esp
 BathingMod_ABMCP_Bathtubs_and_Bathrooms.esp
+BathingMod_ABMCP_Bathtubs.esp
 BathingMod_InnsHaveTubs.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
@@ -9928,6 +9949,7 @@ No Vampirism.esp
 
 MagLite.esp
 MagLite - Alchemy.esp
+NoDurationSpells.esp
 OOO Potions Autocalc.esp
 
 \BeginGroup\: General Spells
@@ -11288,6 +11310,8 @@ tkHairPack01.esp
 % {{BASH:Hair,Deactivate}}
 babehair_EV.esp
 % {{BASH:Hair,Deactivate}}
+GraceHair.esp
+% {{BASH:Hair,Deactivate}}
 soya_04hair.esp
 % {{BASH:Hair,Deactivate}}
 Soya 4 Hair Pack.esp
@@ -11468,6 +11492,8 @@ Slof's Snow Leopard Race.esp
 Slof's Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Slof's Drow Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
+SolaceRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
 Stars_elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Teeth,R.Relations}}
@@ -11849,6 +11875,7 @@ CM NOVA.esp
 CM SASHEIRA.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
+CM Vampire Golbert.esp 
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 CM ElizabethColourWheel.esp
@@ -12314,8 +12341,6 @@ Cobl Balanced Races - MMR Patch.esp
 Diverse Races.esp
 % {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp
-Willful Resistance.esp
-? Only use one willpower equals magicka resistance/weakness type mod at once.
 DBWBMR.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
 ArgonianFeets.esp

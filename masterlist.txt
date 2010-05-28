@@ -3344,6 +3344,7 @@ PythonHolyhg.esp
 
 RealitySpectresThiefGarb.esp
 Ranger's Shroud Armor.esp
+Ranger's Shroud Armour - RSArmor.es
 RavenWearClothing.esp
 RavenWearArmor.esp
 Raziel_Apperal.esp
@@ -5982,6 +5983,7 @@ ConLoBattleGenMod.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
+Clamshell.esp
 Clep Reborn.esp
 Cliff_PersonalGuildStorageChest.esp
 
@@ -6003,6 +6005,7 @@ CM Armor Expansion.esp
 CM_Minor_Quests_1.2.esp
 Crescent Island.esp
 Cropsford Cottage.esp
+CropsfordErmitage.esp
 CRT Guest Quarters.esp
 CS_PaperParched.esp
 CastawayIsles.esp
@@ -7126,7 +7129,7 @@ The forgotten Castle.esp
 The Island Of Fire.esp
 The Lost Tomb.esp
 The Necromancers start V1.0.esp
-OOO-The Necromancer_Landtear_Fix.esp
+OOO-TheNecromancer_Landtear_Fix.esp
 The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
 " Better Cities.
@@ -7433,7 +7436,7 @@ fpsboost-arenanolights.esp
 DLCBattlehornCastle.esp
 DLCBattlehornCastle - Unofficial Patch.esp
 DBOO - BattlehornCastle.esp
-DBOO - BattlehornCastle UOMP.esp
+DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
@@ -7502,6 +7505,7 @@ BrumaMGRestored Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
+Frostcrag For Busy People.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
 The Wizard's Tower Recall spell.esp
@@ -8263,6 +8267,7 @@ Fort Akatosh Redux.esp
 % {{BASH:Relations}}
 FortAkatoshRedux-NewRoads&Bridges patch.esp
 Cyrodiil Legion Addon.esp
+Legion Ranger Addon.esp
 
 Millstone_Farm.esp
 Millstone_Farm_COBL.esp

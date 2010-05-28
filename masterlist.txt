@@ -10556,6 +10556,7 @@ No psychic guards harder fix.esp
 RenGuardOverhaul.esp
 % {{BASH:Actors.AIData}}
 RenGuardOverhaulShiveringIsles.esp
+? Obsolete. Update to 2.08 or later and remove.
 sycHearNoEvil.esp
 sycSHOUT.esp
 SM RGOConfig.esp

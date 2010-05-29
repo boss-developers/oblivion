@@ -4171,7 +4171,7 @@ Ironless Skirt.esp
 SexyLeather.esp
 ares-Exnem.esp
 Armamentium female.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 Roberts Armamentium female.esp
 % {{BASH:Graphics}}
 Robert Blackluster.esp
@@ -4699,6 +4699,7 @@ OOONoLockBash.esp
 
 AMC-OOO.esp
 DBOO.esp
+DBOO - Enhanced Water.esp
 DBOO - MOBS.esp
 DBOO - OOO.esp
 DBOO - ShiveringIsles.esp
@@ -7984,6 +7985,7 @@ NibenRiverFix.esp
 xuldarkforest.esp
 Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
+DBOO - UL DarkForest.esp
 
 Silverfish.esp
 
@@ -8482,6 +8484,9 @@ OC+ULSO+WestRoads Patch.esp
 ? Obsolete. Upgrade West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
 Better Benirus Manor OC Patch.esp
 III-LeyawiinRebornPatch.esp
+DBOO - OpenCitiesFull.esp
+DBOO - Open Cities Outer Districts.esp
+DBOO - OpenCitiesFull + Outer Districts.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 5
@@ -11306,9 +11311,11 @@ Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Better Looking Redguards.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Redguards Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Better Looking Redguards-Mergeable.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Redguards Vwalk.esp
+Better Looking Redguards-Mergeable Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
@@ -12355,6 +12362,8 @@ bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH:NpcFaces,NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
+bgIntegrationEV Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Other race/birthsign mods
@@ -12749,6 +12758,7 @@ MRP - Quickloading.esp
 MRP - Quicksaving.esp
 MRP - You find nothing of use.esp
 MRP - You successfully harvest.esp
+Ark's Tutorial Terminator 1.0.esp
 Disable Tutorial Text.esp
 MM_NoMoreAnnoyingMessages.esp
 NoMoreAnnoyingMessages.esp

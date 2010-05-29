@@ -2768,6 +2768,7 @@ CasquetteCamisoleX117.esp
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
 Dauphni Clothing.esp
+DawnWraith.esp
 DBShadowSet.esp
 ? Only use one DBSHadow Set esp
 DBShadowSet_NE.esp
@@ -2998,6 +2999,7 @@ Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
 GekkoukanSet.esp
+Gypsy_Clothes.esp
 \EndGroup\\
 
 \BeginGroup\: Items H
@@ -3188,6 +3190,7 @@ Mage Leather Armor.esp
 MagicElvenCapes1a.esp
 Marine Bunny.esp
 Materia.esp
+Medieval leather armors.esp
 Midlander_HGEC.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
@@ -3351,7 +3354,7 @@ PythonHolyhg.esp
 
 RealitySpectresThiefGarb.esp
 Ranger's Shroud Armor.esp
-Ranger's Shroud Armour - RSArmor.es
+Ranger's Shroud Armour - RSArmor.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 Raziel_Apperal.esp
@@ -3414,6 +3417,7 @@ samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
+Scholomance armor.esp
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
@@ -3465,6 +3469,11 @@ SkoomaPipeMod.esp
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
 SedaArmorL.esp
+Slof and Tanya's Fleshbeast Armor.esp
+Slof and Tanya's Saint Armor.esp
+Slof's Amazon Armour.esp
+Slof's Beaded Armour.esp
+Slof's Bondage.esp
 Slof's & Orc's Armours.esp
 Slof's Boners!.esp
 Slof's Boners! v5.esp
@@ -3472,17 +3481,23 @@ Slof's Bracelet Collection.esp
 Slof's Bracelets & Rings.esp
 Slof's Claws.esp
 Slof's Dark Assassin Armour.esp
+Slof's Dark Saint.esp
 Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
+Slof's Heartbreaker.esp
+Slof's Ice Warrior.esp
 Slof's Jeans.esp
+Slof's Kitana Outfit for Males.esp
 Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Even More Male Things.esp
 Slof's Neckchains.esp
 Slof's Robe of the Dark Arts.esp
+Slof's Stuff for Wizards.esp
 Slof's Thunderbird Armour.esp
 Slof's Persian Outfit For Males.esp
 Slof's Victorian Clothes.esp 
+Slof's Wisteria.esp
 
 Kit Rae Weaponry v0_2.esp
 ? Use after Shdw_weapon pack
@@ -5356,7 +5371,7 @@ Atmospheric Oblivion - MMM Patch.esp
 Atmospheric Oblivion - OOO Patch.esp
 FineWeapons for OOO.esp
 Fransfemale.esp
-Jade Dishes for MMM - HnC.es
+Jade Dishes for MMM - HnC.esp
 : original Jade Dishes mod.
 LoadingScreens-OOO.esp
 % {{BASH:Graphics,NoMerge}}
@@ -5634,6 +5649,7 @@ A_ship_near_Anvil-7781.esp
 A Cut Above Hairdressers.esp
 A Sneaky Buy 2.1.esp
 A Sorceress Love 1_1.esp
+AABTSv1.esp
 Abandoned Farm Ground Effects On.esp
 ABloodyNight.esp
 AbuEmir01.esp
@@ -5655,6 +5671,8 @@ AdenseEpicDungeon1_5.esp
 / Yay for renaming esp at every version.
 Adenses Better Waterfront.esp
 Adrift.esp
+adTH-druidsdomain.esp
+: COBL and Shivering Isles
 Adventurers farm.esp
 AGC-TARDISoutside.esp
 ? use either outside for vanilla or inside for open cities
@@ -6647,6 +6665,8 @@ Lobo_the_Wolf.esp
 Lobo_the_Wolf_v101.esp
 LordKain_Adash_World.esp
 ? German mod.
+LordKain_Adash_World Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Lorekeep.esp
 Lost Chapel.esp
 LostGod.esp
@@ -7082,7 +7102,7 @@ swamp home cobl.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
-Sylar_INNMergedCyrodiilInnsRevised_COCPatch.esp
+Sylar_INNMergedCyrodillInnsRevised_COCPatch.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
@@ -7351,7 +7371,6 @@ WOTFH_1.3.esp
 Water's Edge Cottage.esp
 Waterfront_Shack-6733.esp
 Fort Weye.esp
-Weye.esp
 Weye_Manor.esp
 WeyeHouse.esp
 Healer.esp
@@ -7671,6 +7690,7 @@ RTT.esp
 Enhanced Weather - Ruined Tail's Tale Patch.esp
 RTT RR Lake Rumare Patch.esp
 ? Obsolete. Use RTT-Weye Relocation Patch.esp instead.
+JADWayeDogShop.esp
 RTT-Weye Relocation Patch.esp
 OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
@@ -7681,6 +7701,8 @@ OCC-RTT-Patch.esp
 ? Upgrade to latest version of Ruined Tail's Tale.
 RTT Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
+
 
 MTCExpandedVillages.esp
 ? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
@@ -7701,6 +7723,10 @@ The Lost Spires Vwalk.esp
 
 AFK_Weye.esp
 Rumare-AFK_Weye Patch.esp
+Rumare-AFK-Weye Relocation Patch.esp
+House of Healing at Weye.esp
+Weye.esp
+Healer WEYE_TICS Patch.esp
 
 GuardsofCyrodiil.esp
 % {{BASH:Relations}}
@@ -11279,6 +11305,9 @@ Better Redguard v2.esp
 Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Better Looking Redguards.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Redguards-Mergeable.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 BigDunmerEars.esp
@@ -11418,6 +11447,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 AinmhiRace-RensBeautyPackFull.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Anwolf Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Asian Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -13294,6 +13325,7 @@ Bashed Patch.esp
 Bashed Patch, Warrior.esp
 Bashed Patch, Thief.esp
 Bashed Patch, Mage.esp
+Bashed Patch, Test.esp
 \EndGroup\\
 
 \BeginGroup\: Post Bashed Patch

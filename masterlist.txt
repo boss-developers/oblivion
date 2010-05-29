@@ -33,7 +33,7 @@ Zedar.esm
 Morrowind_ob.esm
 Tribunal_ob.esm
 Bloodmoon_ob.esm
-Silgrad_Tower.esm
+Silgrad_Tower.esms
 Silgrad_Tower_T.esm
 Solstheim Recreated.esm
 Cybiades.esm
@@ -193,7 +193,9 @@ Cosmetic Compilation - No JPeepers or NPC Changes.esm
 DADemons.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
+Brothel of Cyrodiil.esm
 Kaleah.esm
+Kaleah Sucub.esm
 SC_Drow Race.esm
 DrowRacesofFaerun.esm
 DIM Elves Of Lineage II Retex.esm
@@ -462,7 +464,9 @@ Specular_Fix_1.1.esp
 Umbacana_quest_fix-9117.esp
 ? Possibly fixed in official patch 1.5.11+
 NoNextRankDUMMY_v1.0-RSS.esp
+Bow Crash Fix.esp
 DaedricHelmFIX.esp
+Vampire Eye Fix by Agesofb.esp
 
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
@@ -2507,6 +2511,7 @@ Armure du Seigneur Noir.esp
 Assassin's Creed 2 Revisited.esp
 AC2-Revisited_DV.esp
 AC2 Revisited HGEC.esp
+AC2Gear_HGEC.esp
 Auras.esp
 azsTHouse.esp
 azsTrHouse.esp
@@ -2822,6 +2827,7 @@ Dark Mithril Armour.esp
 DarkMonkRobe.esp
 Dark_Targe.esp
 DarthRevan.esp
+DawnWraith.esp
 DC-Armor-Pack.esp
 Deathlilith.esp
 Defensive_staves_Basic.esp
@@ -2829,6 +2835,7 @@ Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
+DFSL Leathery 4.esp
 DG Jewelry for All.esp 
 DHAyleidShield.esp
 DHuntress.esp
@@ -2933,6 +2940,7 @@ Fighters Guild Scalemail Full.esp
 FineWeapons.esp
 % {{BASH:Graphics}}
 FinGleamRing.esp
+ForgedSteelDaggers.esp
 FoxyGear-EV.esp
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
@@ -3029,6 +3037,7 @@ Hell'sExecutioner.esp
 Hemingweys NPC Capes.esp
 % {{BASH:Invent}}
 
+Hentai_Apple.esp
 Hentai_CerenityArmor.esp
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
@@ -3131,6 +3140,7 @@ KohdiAnduril.esp
 KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
 Kohdi Ankewan-Anesphar Delayer.esp
+KORE- Salient Daggers.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
@@ -3191,6 +3201,7 @@ MagicElvenCapes1a.esp
 Marine Bunny.esp
 Materia.esp
 Medieval leather armors.esp
+Midlander.esp
 Midlander_HGEC.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
@@ -3528,10 +3539,14 @@ SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
 SPB Belt Girl.esp
+SPB Glass Girls.esp
+SPB GW Armors.esp
+SPB Oppai Sensei.esp
 SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
+SPB Suicup Dress.esp
 Spirit Blade.esp
 MDP - BG1 Companion.esp
 MDP - BG2 Companion.esp
@@ -3681,6 +3696,8 @@ VA_FemmeDaedricHelmet.esp
 VA_HonamiDaito.esp
 VA_UniqueKatana1.esp
 VA_UniqueKatana1Replace.esp
+VampireCurePotions 1.0.esp
+Vampirepotions_MRCHAINSAW_.esp
 Vampiria.esp
 VCTestRing.esp
 vermillionandsilverthorn.esp
@@ -5809,6 +5826,10 @@ Auriel's Books.esp
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Automagicon.esp
+? Use *either* COBL version or non-cobl version.
+Automagicon_Cobl.esp
+: COBL
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
 AzurasServices_de.esp
@@ -6240,6 +6261,7 @@ GB_Oblivion Tournament.esp
 Ghost Ship.esp
 Garrett Mod-TESSource.esp
 GCMansion.esp
+GDS.esp
 Gelden_Halls.esp
 Gems and Gem Dust - Cell Placement.esp
 GDSkingradCathedral.esp
@@ -8725,6 +8747,7 @@ BOO_BulletTime.esp
 Bullettimemod.esp
 Bullettimemodsetkey.esp
 Bullet Time Custom.esp
+Bullet Time Spells.esp
 PowerBulletTime.esp
 WHOOSH.esp
 TimeWizard.esp
@@ -8830,6 +8853,7 @@ DarNified Books_BP_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
 kuerteeCustomisableHUDComponents.esp
 DB_NightMotherMoney5k.esp
+DB_NightMotherMoneyRangeA.esp
 DDJailShackles.esp
 ? Old, update to version 1.04+
 DD_JailShackles.esp
@@ -9302,6 +9326,10 @@ Sexier Sheogorath DV.esp
 Sexy Dark Seducer & Golden Saint Armour.esp
 
 AAQv1.esp
+Brothel of Cyrodiil.esp
+Brothel of Cyrodiil_ENG.esp 
+Kaleah Sucub.esp
+Basic Instinct for BoC.esp
 Vtoy.esp
 Lovers.esp
 LoversAdultPlayPlus.esp
@@ -9345,6 +9373,7 @@ LoversMpc.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp
+Sex Shop.esp
 Goranga's prostitution system.esp
 Goranga dating system.esp
 FriendsAndLovers.esp
@@ -10015,6 +10044,10 @@ CompanionResurrect.esp
 CompanionRepair.esp
 : RefStuff, OBSE.
 ConduitMagic.esp
+Darkness Unleashed - Master.esp
+Darkness Unleashed - Bone Magick.esp
+Darkness Unleashed.esp
+Darkness Unleashed - Blood Magick.esp
 DeathKightSpells v1_3.esp
 Disenchant.esp
 Divine Magicka.esp
@@ -10071,6 +10104,8 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
+P-Froggys Magic Spells.esp
+P-Froggys Spells.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
 DS Summon Luggage.esp
 Diplomacy and Mercy.esp
@@ -10086,6 +10121,7 @@ MrF - Spell Efficiency.esp
 Multiple Creature Summoning.esp
 Level Based Summon Cap.esp
 Necromancer's Power.esp
+Necromancy_Spells-1909.esp
 Necronlittlemagicmod1.1.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
@@ -10125,6 +10161,7 @@ Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Remove Extra Data.esp
 Resurrect.esp
+Resurrection-5159.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
@@ -10352,6 +10389,7 @@ Friendlier Summons.esp
 ND_LongerSummons_x2.esp
 cpp.esp
 cppSI.esp
+Scaled_Summons-6068.esp
 
 Secrets of the Stones.esp
 Soulcraft.esp
@@ -10406,6 +10444,7 @@ CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
 
 StealthyAbsorbsAndDrains.esp
+OBSE-Zauberentfernung.esp
 \EndGroup\\
 
 \BeginGroup\: Alchemy
@@ -10951,6 +10990,7 @@ nGCD Birthsigns.esp
 nGCD Character Generation.esp
 nGCD Oghma Infinium.esp
 nGCD Skeleton Key.esp
+ExperienceTraining (nGCD).esp
 ExperienceTraining1.1(nGCD).esp
 
 Progress.esp
@@ -11449,6 +11489,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 \BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
+300_Anthems_Enhanced_Races-7820.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 4 New Races for Rens-Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AinmhiRace-RensBeautyPackFull.esp
@@ -11456,6 +11498,8 @@ AinmhiRace-RensBeautyPackFull.esp
 Anwolf Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Asian Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+AsianElves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

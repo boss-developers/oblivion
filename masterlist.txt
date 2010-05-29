@@ -1494,8 +1494,6 @@ Oblivion_Deutsch_v3_1.esp
 % {{BASH:Names}}
 
 DBCEndOfMayTeaser.esp
-DBSQR.esp
-DBSQR - Shivering Isles.esp
 Decoration Pillows.esp
 Display Stats.esp
 dist_trees_x1_5.esp
@@ -2298,18 +2296,14 @@ SM Plugin Refurbish - Orrery.esp
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 ? Obsolete. Upgrade to latest version.
 NLF Orrery.esp
-DBSQR - Orrery.esp
 Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
 Correctif VileLair.esp
 Correctif VileLair RP.esp
-DBSQR - Vile Lair.esp
-? If usng SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp or DBSQR - Vile Lair SMPR Full.esp as well.
 SM Plugin Refurbish - VileLair.esp
 " 'CDM-CGO Compatibility plugins'.
-DBSQR - Vile Lair SMPR.esp
 NLF VileLair.esp
 Lair_mobs.esp
 % {{BASH:Stats}}
@@ -2340,7 +2334,6 @@ DLCMehrunesRazor Swalk UOP.esp
 DLCMehrunesRazor Vwalk UOP.esp
 % {{BASH:Actors.Anims,NoMerge}}
 SM Plugin Refurbish - MehrunesRazor.esp
-DBSQR - MehrunesRazor.esp
 
 DLCSpellTomes.esp
 % {{BASH:Relev}}
@@ -2485,6 +2478,7 @@ Arkay's Champion.esp
 ANB_Emerald_Sorceress_Armor.esp
 ANBHuntersCoat.esp
 ANB_Portable_Bedroll.esp
+ANBRobertsCupSizes.esp
 ANBValsharessArmors.esp
 ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
@@ -3388,6 +3382,7 @@ RinzeiCrystalStaff_Unenchanted.esp
 Robe Replacer2.esp
 % {{BASH:Graphics}}
 Rogue Sun's Blood Lust Dress.esp
+ROHJ2.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
@@ -4465,6 +4460,7 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 % {{BASH:C.Name,C.Light}}
 DLCThievesDen - Unofficial Patch.esp
+{{BASH:C.Light,Relev,Stats}}
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
@@ -4557,10 +4553,6 @@ Francesco's Boars Add-On.esp
 Fran-Ayleid Coin Add-on.esp
 ? Don't use with G&GD, COBL or OOO
 
-Fran's Ore Refiner - SI only.esp
-? Use only if you have SI, use only one Fran's Ore Refiner esp.
-Fran's Ore Refiner.esp
-? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
 No Seducers.esp
 ChestMenuFixes.esp
 \EndGroup\\
@@ -4704,7 +4696,6 @@ MrSiikaRabbitsforOOO.esp
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
-DBSQR - OOO.esp
 OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
@@ -5480,8 +5471,22 @@ Diverse Imperial Armor v1.1.esp
 dangerous wilderness.esp
 % {{BASH:Delev,Relev}}
 
+DBSQR.esp
+DBSQR - MehrunesRazor.esp
+DBSQR - OOO.esp
+DBSQR - Orrery.esp
+DBSQR - Shivering Isles.esp
+DBSQR - Vile Lair.esp
+? If usng SM Plugin Refurbish VL, use DBSQR - Vile Lair SMPR.esp or DBSQR - Vile Lair SMPR Full.esp as well.
+DBSQR - Vile Lair SMPR.esp
+
 CrystalCalendar.esp
 CrystalCalendarAlternateEdition.esp
+
+Fran's Ore Refiner - SI only.esp
+? Use only if you have SI, use only one Fran's Ore Refiner esp.
+Fran's Ore Refiner.esp
+? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
 
 Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp
@@ -5750,6 +5755,7 @@ AncientSource.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
 
+Anvill Abandoned House v1.esp 
 AnvilBayExpansion.esp
 ? Not Better Cities compatible. Already included in Better Cities Anvil.
 ? Not Open Cities compatible. Already incuded in Open Cities Anvil.
@@ -5854,6 +5860,7 @@ Red Diamond Jewelry.esp
 Banes Anvil Merchant Upgrade.esp
 Banes Chorrol Store Upgrade.esp
 Banes Fallen Angel Sanctuary.esp
+Banes Lair of the Witchking.esp
 Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
 
@@ -7039,6 +7046,7 @@ Shivering Farm.esp
 Shivering Isles Root System.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
+SISewers.esp
 Side's Cheydinhal House.esp
 Side's Cheydinhal House (BathMod).esp
 Side's Cheydinhal House (COBL).esp
@@ -7166,7 +7174,8 @@ All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
-TGInheritEarlOfImbelsICHouse.esp
+TGInheritEarlOfImbelsICHouse.espv
+The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
@@ -7203,6 +7212,7 @@ TheElderCouncil_TempleOfTheOne.esp
 Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
+TEC_4ERA_Dialog_Filter.esp
 
 (DC) The Pride of Wolfs Gate.esp
 (DC) The Way of the Necromancer - Light.esp
@@ -7246,6 +7256,7 @@ TR_Stirk.esp
 TR_Stirk Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge }}
 Stirk_Compatibility_Patch.esp
+Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
 : TR_Stirk.
 FCOM_Stirk.esp
 Transmutation.esp
@@ -7265,6 +7276,7 @@ Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
 Treasure Maps Revenge Of The Nords.esp
 " UL mod(s).
 Trial of Achilles.esp
+Tropical Island.esp
 Tyler's Property Tax.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
@@ -7650,6 +7662,9 @@ Mart's Monster Mod - Knights.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 Mart's Monster Mod for OOO - Knights.esp
+* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
+Mart's Monster Mod for OOO - Knights .esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 TIE In - Knights.esp
@@ -8828,6 +8843,7 @@ CUO_NewFactionDialog_SAFE.esp
 CUO_BadGuy_Specific_Loot_DIRTY.esp
 % {{BASH:Delev,Relev}}
 ? Needs to be Bashed Patched to integrate fully into Fran's. May have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
+CUO_Spells_DIRTY.esp 
 CUO_UnleveledGuards&Legioneers_DIRTY.esp
 CUO_UnleveledNpcs&Creatures.esp
 % {{BASH:Delev,Relev}}
@@ -8893,6 +8909,7 @@ DwemerSpecsEquip.esp
 
 \BeginGroup\: overrides E
 
+ecatSmartBookshelf.esp
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
@@ -10250,6 +10267,8 @@ Alter Weight Spells - MM.esp
 Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
 Improved_Ancestor_Guardian_Mighty_Magick_Version.esp
+Diverse Effect Icons for MM.esp 
+Diverse Effect Icons for MM-Reborn.esp 
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
@@ -10388,6 +10407,7 @@ Spells No Lighting.esp
 Friendlier Summons.esp
 ND_LongerSummons_x2.esp
 cpp.esp
+cppCM.esp
 cppSI.esp
 Scaled_Summons-6068.esp
 
@@ -11416,65 +11436,67 @@ ZelsHairfixRenshairV1_5.esp
 \''''
 
 ElaborateEyes.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 Ethereal - Eyes.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 DaMage's_Eye_Pack.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 PHVanillaEyesAddon.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 elveons realistic eyes.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 Cernasite - DragonEyes.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 JCPeepers.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 Koldorns Eye Mod.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 Cat_eyes.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 Cat_eyes_add.esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 DesuChan's Anime Eyes (Vanilla).esp
-% {{BASH:Eyes,Deactivate}}
+% {{BASH:Eyes}}
 \EndGroup\\
 
 \BeginGroup\: Mixed
 \'''''
 
 All_hair_and_eyes-1841.esp
-% {{BASH:Hair,Eyes,Deactivate}}
+% {{BASH:Hair,Eyes}}
 BP-Cosmetic_Compilation-Alternative.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 BP-Cosmetic_Compilation-Alternative-VanillaRaceonly.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
+% {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation XXL DV.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
+% {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
-% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
+% {{BASH:NpcFaces,Hair,Eyes}}
 EE-Cosmetic Compilation.esp
-% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
+% {{BASH:NpcFaces,Hair,Eyes}}
 CCR - EE.esp
-% {{BASH:NpcFaces,Hair,Eyes,Deactivate}}
+% {{BASH:NpcFaces,Hair,Eyes}}
 CCR - Capucine.esp
 Capucine'sEyeSelection+NewHair.esp
-% {{BASH:Hair,Eyes,Deactivate}}
+% {{BASH:Hair,Eyes}}
 Comprehensive Style Collection RM.esp
-% {{BASH:Hair,Eyes,Deactivate}}
+% {{BASH:Hair,Eyes}}
 ElaborateEyes-RensBeautyPackFull.esp
-% {{BASH:Hair,Eyes,Deactivate}}
+% {{BASH:Hair,Eyes}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
-% {{BASH:Hair,Eyes,Deactivate}}
+% {{BASH:Hair,Eyes}}
+ElaborateEyes for Robert's Bodies.esp 
+% {{BASH:Hair,Eyes}}
 CT-Argonian Headstyles-EE.esp
-% {{BASH:Graphics,Hair,Eyes,Deactivate}}
+% {{BASH:Graphics,Hair,Eyes}}
 CT-Argonian Headstyles-MM.esp
-% {{BASH:Graphics,Hair,Eyes,Deactivate}}
+% {{BASH:Graphics,Hair,Eyes}}
 CT-Argonian Headstyles-EE+MM.esp
-% {{BASH:Graphics,Hair,Eyes,Deactivate}}
+% {{BASH:Graphics,Hair,Eyes}}
 MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
 King_O_POPver2
@@ -11713,7 +11735,7 @@ Lilmothiit.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Icthylean_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
-MGothic Breton Race.esp
+Gothic Breton Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lattamer.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -13127,6 +13149,7 @@ KoldornsImprovedLava.esp
 Templars Lava Replacer v1.0.esp
 Better Lava by elveon.esp
 Better Lava (by elveon).esp
+Deadly_Lava.esp
 Magic Projectile Variants.esp
 MotionBlur.esp
 ? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
@@ -13252,6 +13275,8 @@ Shining Creatures_DLCFrostcrag.esp
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DLCFrostcrag_MysticEmporiumKTDH.esp
+Enhanced Economy - Soulgems.esp
+% {{BASH:Scripts,NoMerge}}
 Faction Rank Fix.esp
 Helmet Toggle.esp
 Hemingweys Capes.esp

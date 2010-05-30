@@ -193,9 +193,7 @@ Cosmetic Compilation - No JPeepers or NPC Changes.esm
 DADemons.esm
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
-Brothel of Cyrodiil.esm
 Kaleah.esm
-Kaleah Sucub.esm
 SC_Drow Race.esm
 DrowRacesofFaerun.esm
 DIM Elves Of Lineage II Retex.esm
@@ -206,6 +204,8 @@ Lattamerv3.esm
 Nec-Character_Clair.esm
 Nec-Character_Eva.esm
 Nec Mystic High Elf-Remake.esm
+Kaleah Sucub.esm
+Brothel of Cyrodiil.esm
 RaceFrameWork.esm
 Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
@@ -4460,7 +4460,7 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 % {{BASH:C.Name,C.Light}}
 DLCThievesDen - Unofficial Patch.esp
-{{BASH:C.Light,Relev,Stats}}
+% {{BASH:C.Light,Relev,Stats}}
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp

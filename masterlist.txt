@@ -4183,9 +4183,9 @@ Ironless Skirt.esp
 SexyLeather.esp
 ares-Exnem.esp
 Armamentium female.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}}
 Roberts Armamentium female.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}}
 Robert Blackluster.esp
 Robert Adelina.esp
 Robert SinfulMage.esp

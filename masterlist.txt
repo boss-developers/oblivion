@@ -2495,6 +2495,7 @@ Armblade.esp
 arme - excalibur.esp
 armored coats.esp
 % {{BASH:Invent}}
+Armored Robes.esp
 Armor_skirts.esp
 Armor of the Dark Lord.esp
 ArmorOfTheFallen.esp
@@ -10747,6 +10748,7 @@ AR's Hand to Hand - 27.esp
 AR's Hand to Hand - 30.esp
 AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
+arrow damage 1_5.esp
 cancelattack.esp
 Denock Arrows.esp
 Combat Behavior 2.11b.esp
@@ -10806,6 +10808,12 @@ BetterBlocking.esp
 Cant Wear Broken Armor.esp
 
 Better Hand to Hand.esp
+Better Hand to Hand LITE.esp
+HTHAdvanced - Normal.esp
+? Use only one HTHAdvanced - * esp
+? Use 'Sinkpoint' version if using using Sinkpoints Martial Arts Animation Replacer.
+HTHAdvanced - Sinkpoint.esp
+? Use only one HTHAdvanced - * esp
 JM's Bar Fights mortal.esp
 ? Pick and use only 1 of the 2 JM's Bar Fight mod files.
 JM's Bar Fights.esp
@@ -11607,6 +11615,8 @@ AinmhiRace.esp
 Dark_Seducer_and_Golden_Saint_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DemonRace.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+DesertArgonian.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dremora.esp
 % {{BASH:NpcFaces}}

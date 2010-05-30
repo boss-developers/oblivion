@@ -704,7 +704,7 @@ alternative loading tips - lore.esp
 Loading Screens.esp
 % {{BASH:Graphics,NoMerge}}
 LoadingScreens.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 LoadingScreensAddOn.esp
 LoadingScreensSI.esp
 % {{BASH:Graphics,NoMerge}}

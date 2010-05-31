@@ -7562,7 +7562,7 @@ Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
-% {{BASH:C.Name,C.Owner}} and remove the C.Climate tag
+% {{BASH:C.Name,C.Light,C.Owner}} and remove the C.Climate tag
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp

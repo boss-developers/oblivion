@@ -2158,6 +2158,10 @@ travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 NPCsTravel.esp
+? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
+TamrielNPCsTravel.esp
+? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
+NPCsTravel - NoRandomNpc.esp
 From2ch Lives.esp
 
 Populated Prisons.esp
@@ -9361,10 +9365,12 @@ LoversAdultPlay.esp
 LoversSpringSale.esp
 ? Use either 'LoversAdultPlayPlus.esp' or 'LoversAdultPlay.esp' but not both together.
 LoversBed.esp
+LoversBorn.esp
 LoversBrothel.esp
 LoversFOV.esp
 LoversHelpRapeVPlayer.esp
 LoversJoburg.esp
+LoversOblivionXP.esp
 LoversPayBandit.esp
 LoversRapeman.esp
 LoversRaperS.esp
@@ -12814,6 +12820,7 @@ HTSCl_cobl.esp
 HTSCl_mmm.esp
 HTSCl_ooo.esp
 HTSCl_tent.esp
+HTSCl_hud.esp
 
 TheOubliette.esp
 \EndGroup\\

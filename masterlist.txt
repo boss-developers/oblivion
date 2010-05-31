@@ -10393,6 +10393,8 @@ Midas BeastFortify Fix OBSE.esp
 
 \BeginGroup\: Spells Late
 
+AlternativeOblivionMagicSystem.esp
+
 NewEnchantingAndSpellmakingOptions.esp
 
 AudaciousMagery.esp
@@ -10925,7 +10927,9 @@ Duke Patrick`s Smash of the Titans.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Smash Of The Titans.esp
 SpookyNPCAIModsMerge.esp
+PTActorsCare.esp
 PTDamageFinal.esp
+PTDoorExploitsBegone.esp
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling

@@ -33,7 +33,7 @@ Zedar.esm
 Morrowind_ob.esm
 Tribunal_ob.esm
 Bloodmoon_ob.esm
-Silgrad_Tower.esms
+Silgrad_Tower.esm
 Silgrad_Tower_T.esm
 Solstheim Recreated.esm
 Cybiades.esm
@@ -7696,9 +7696,9 @@ Knights Companion Quarters.esp
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
 ? Use version 1.01 'http://tesnexus.com/downloads/download.php?id=29355' for Bashed Patch
-% {{BASH:Stats}}
+% {{BASH:Stats,NoMerge}}
 MOBS DLCs.esp
-% {{BASH:Stats}}
+% {{BASH:Stats,NoMerge}}
 
 RavDCPOD.esp
 \EndGroup\\

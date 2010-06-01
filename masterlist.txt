@@ -141,6 +141,7 @@ BetterMusicSystem.esm
 bookplacing.esm
 BathingMod_Base.esm
 BP EDIT.esm
+Lovers with PK.esm
 BreakUndies.esm
 CURP_Controller.esm
 No Lights Flicker.esm
@@ -233,7 +234,6 @@ SuperMarioblivion.esm
 MALO - MAIN.esm
 Housing_Master.esm
 wz_TripWire.esm
-Lovers with PK.esm
 Oblivifall Master File.esm
 \EndGroup\\
 
@@ -9365,44 +9365,44 @@ Vtoy.esp
 Lovers.esp
 LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
+LoversRapeman.esp
+LoversVoice.esp
+? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
+LoversVoiceMinus.esp
+? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
+LoversVoice_AddRandomDialogues.esp
 LoversAdultPlayPlus.esp
 ? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
 LoversAdultPlay.esp
 ? Use either 'LoversAdultPlayPlus.esp' or 'LoversSpringSale.esp' but not both together.
 LoversSpringSale.esp
 ? Use either 'LoversAdultPlayPlus.esp' or 'LoversAdultPlay.esp' but not both together.
+LoversTachiCat.esp
+? Obsolete. Use LoversTachiCat2.esp instead.
+LoversTachiCat2.esp
+LoversRaperS.esp
+LoversJoburg.esp
 LoversBed.esp
+LoversLandE.esp
+LoversLandE_AddRandomDialogues.esp
+LoversPayBandit.esp
+Lovers_NA.esp
+% {{BASH:Hair,Eyes}}
+Lovers_pkr.esp
+? Old, update to version 1.3b3 Rev05a or later.
+Lovers with PK.esp
+FUQ Land.esp
 LoversBorn.esp
 LoversBrothel.esp
 LoversFOV.esp
 LoversHelpRapeVPlayer.esp
-LoversJoburg.esp
-LoversPayBandit.esp
-LoversRapeman.esp
-LoversRaperS.esp
-LoversStopCombat.esp
-LoversTachiCat.esp
-? Obsolete. Use LoversTachiCat2.esp instead.
-LoversTachiCat2.esp
-Lovers_NA.esp
-% {{BASH:Hair,Eyes}}
-LoversVoice.esp
-? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
-LoversVoiceMinus.esp
-? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
-LoversVoice_AddRandomDialogues.esp
 LoversLoser.esp
 ? Obsolete. Use LoversLandE.esp instead.
-LoversLandE.esp
-LoversLandE_AddRandomDialogues.esp
-FUQ Land.esp
 LoversVoiceSound.esp
 ? Obsolete. Use Lovers with PK.esp instead.
 LoversAfterVoice.esp
-Lovers_pkr.esp
-? Old, update to version 1.3b3 Rev05a or later.
-Lovers with PK.esp
 LoversMpc.esp
+LoversStopCombat.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp

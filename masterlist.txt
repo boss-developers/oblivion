@@ -3602,6 +3602,7 @@ Staff_of_Magius.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 Silverlight Armor by Jojjo.esp
+superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
 \EndGroup\\
 
@@ -5829,6 +5830,7 @@ ArTheIceUnicorn.esp
 Artifacts.esp
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Artifacts - EE patch.esp
 ArtifactsFemaleArmor.esp
 % {{BASH:Graphics,NoMerge}}
 ArtifactsforArmaComplete.esp

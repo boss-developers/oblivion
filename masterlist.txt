@@ -894,7 +894,7 @@ NoWind.esp
 \''''''''''''
 \
 \All of these simply alter water shader rendering settings - no Bashed Patch tags are needed
-\ or appropriate except for in same case C.Water.
+\ or appropriate except for in some cases C.Water.
 \Possible dirty edits mean they should go before landscape changing mods.
 
 Enhanced Water v1.5 ND.esp
@@ -2094,6 +2094,7 @@ Enhanced Economy.esp
 
 JOJOeffect.esp
 StandingJOJO.esp
+JOJO Merged.esp
 
 moDem's City Life - BP Compat.esp
 % {{BASH:Hair}}
@@ -2597,6 +2598,7 @@ ArmamentariumStaffs.esp
 Armamentarium Fixes.esp
 ARTICA RAZOR ICMS by_venom91.esp
 Arynns-Heavenly-Sword_hottest.esp
+ArynnsDrowQueen2.0.esp
 Assassins_set.esp
 Angeleron.esp
 Ageha Tortured Soul HGEC.esp
@@ -2623,7 +2625,6 @@ Battlespire Books.esp
 bbLager.esp
 bbLagerOptional.esp
 bcrich.esp
-BisPainBringer.esp
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -2651,10 +2652,12 @@ battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
 Bisquits.esp
 Bisquits01.esp
+BisPainBringer.esp
 Black Luster.esp
 BlackLuster.esp
 BlackLuster 2SwordStyle.esp
 BlackMail.esp
+Black Plate Armor.esp
 Blackrangercuirass.esp
 Bloodeus'UniqueArmors.esp
 Bloodeus'UniqueStuff.esp
@@ -2763,6 +2766,7 @@ ColourWheels Sexy Servant Uniform.esp
 Colourwheels Sexy Nami.esp
 Colourwheels Sexy Hentais DarkRose.esp
 Colourwheels_Sexy_Sweetclothes.esp
+Colourwheels Sexy Clothing Collection.esp
 chainmailsdezi.esp
 CasquetteCamisoleX117.esp
 \EndGroup\\
@@ -2826,12 +2830,12 @@ Dark Mithril Armour.esp
 DarkMonkRobe.esp
 Dark_Targe.esp
 DarthRevan.esp
-DawnWraith.esp
 DC-Armor-Pack.esp
 Deathlilith.esp
 Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
+DefianceOfSubtlety.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
 DFSL Leathery 4.esp
@@ -2843,6 +2847,7 @@ Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
 Dollparts_CorsetsoftheRose.esp
+DFSL Leathery 4.esp
 DMACArmor.esp
 DMCWeapons.esp
 DMGloves.esp
@@ -2910,9 +2915,13 @@ Elwing.esp
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 EY_AoD.esp
+EY_Queens Armory.esp
+EY_Vampirehunter.esp
+EY_BM_Armory.esp
 Eyren_AyleidWarrior.esp
 Excalibur2.esp
 Excessor Sword.esp
+Extremly Wet Panties.esp
 \EndGroup\\
 
 \BeginGroup\: Items F
@@ -2923,6 +2932,7 @@ FalxMod.esp
 Fans for Helain.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
+FashionAnvil.esp
 FB_Dark_Crusader_01.esp
 % {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
@@ -2969,7 +2979,6 @@ Gazerith's Spell Books V1.0.esp
 GC Draped Gowns.esp
 GC Gowns.esp
 GCBloodgown.esp
-gemhammer.esp
 GemSword.esp
 Ghogiels Armor.esp
 GhostArmor.esp
@@ -3041,7 +3050,6 @@ Hentai_CerenityArmor.esp
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
 HENTAI_EVE.esp
-HentaiEveriaArmor.esp
 HENTAI's gift.esp
 Hentai_HentaiUniform.esp
 Cloth_Hentai_Compilation.esp
@@ -3054,6 +3062,7 @@ Hentai_SnowFlower.esp
 HGEC Evening Dress.esp
 HGECKoganeHuntressOutfit.esp
 HGEC Witch Queen Ritual Robe.esp
+HGEC Nagilo Outfits.esp
 HiddenSkulls.esp
 % {{BASH:Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -3062,9 +3071,11 @@ OCC-Hiyoko-Patch.esp
 Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
+Her Hand's Armor.esp
 Heron Mark Swords 1.0.esp
 HL2set.esp
 Hadhafang.esp
+HolyRelics.esp
 \EndGroup\\
 
 \BeginGroup\: Items I
@@ -3086,6 +3097,8 @@ IvyArmor_Arena_Hcup.esp
 Jade Dishes.esp
 javrmb.esp
 javbmb.esp
+JBlades!.esp
+JBladesVol2.esp
 JCapes!20.esp
 JCapesBonus.esp
 % {{BASH:Invent}}
@@ -3131,6 +3144,7 @@ kibuka-heavy.esp
 kibuka-light.esp
 KIVampires_HoodAddon.esp
 kikaibookbelts.esp
+kikaiAS-SheogorathRT-sep.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
 KohdiBladesofAnkewan.esp
@@ -3224,7 +3238,6 @@ MilkJugsComplete.esp
 Mirage_Rosewood.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
 Mithris_HGEC.esp
-Mizuki Ninja.esp
 mnp Nighteye Goggles.esp
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
@@ -3240,7 +3253,9 @@ MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
 MHSNfuru.esp
+MHSNKirin.esp
 MehrunesDagonOutfit.esp
+M16A2_With_m203.esp
 \EndGroup\\
 
 \BeginGroup\: Items N
@@ -3252,6 +3267,7 @@ Necessary Violence.esp
 Neckerchiefs v1.2.esp
 NecroArmour.esp
 New Frostmourne Sword by Jojjo v1_0.esp
+NewbsArmoredRobes.esp
 NexonsArmoryENG.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -3272,11 +3288,13 @@ Night Knight Armor.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
+Noble Plate Armory.esp
 Noctiluca_Sidereus.esp
 NordicWeapon.esp
 NorseWeapons.esp
 ? May have landscape conflicts with Guards of Cyrodiil.
 NosferatuBow.esp
+NPR Knight Armor.esp
 Negotiator Sword OBSE.esp
 NumenoreanArmor.esp
 Nepher and Bepher Blades.esp
@@ -3319,7 +3337,6 @@ OS Artifacts.esp
 
 PAF_armor_additions.esp
 paintings.esp
-pegasus_alpha.esp
 Pek_Painting_Exchanger.esp
 pale_rider's Armor of Dragon's Nightmare.esp
 ? Changes some cell names to German either load an overhaul after (or another mod that changes the testing hall & the best defence)
@@ -3332,6 +3349,7 @@ pale_rider's Nordic Warrior Armor.esp
 pale_rider's Paladin Equipment_enchanted_eng.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
+PEDress.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
@@ -3358,6 +3376,7 @@ PythonHolyhg.esp
 \EndGroup\\
 
 \BeginGroup\: Items Q
+Queensarmory.esp
 \EndGroup\\
 
 \BeginGroup\: Items R
@@ -3428,7 +3447,6 @@ samurai.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
-Scholomance armor.esp
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
@@ -3447,6 +3465,7 @@ Shadowlord Armours.esp
 ShadowMailArmor_v.1.0.esp
 ShadowWatcher_HGEC_v2_b.esp
 ShadowWatcher_HGEC_v2.esp
+Shadowsilk.esp
 Shdw_Armor pack01.esp
 Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
@@ -3473,10 +3492,13 @@ Sin's Expanded Light Armor Kit [NPC].esp
 $ Not compatible with OOO - armors already included - so deactivate when using OOO.
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
+Sinblood Collection.esp
 Sister_of_Eisen_HGEC.esp
+ShaiyaOutfit.esp
 SK_Berserk_v0.6.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
+Slaveknight armor.esp
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
 SedaArmorL.esp
@@ -3524,12 +3546,14 @@ SpeechcraftEnhanced.esp
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
+SnowySignatureOutfit.esp
 SOLS CLUTTER MERGE.esp
 SOLS CLUTTER_B MERGE.esp
 SOLS MASSIVE ATIRE PART 1.esp
 SOLS MASSIVE ATIRE PART 2.esp
 SOLS WEAPON MERGE.esp
 SomeRobes.esp
+Sorceress_Armors.esp
 SoT_Rise of Sheogorath.esp
 soulblade.esp
 SoulCalibur1h.esp
@@ -3546,8 +3570,6 @@ SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
-SPB Suicup Dress.esp
-Spirit Blade.esp
 MDP - BG1 Companion.esp
 MDP - BG2 Companion.esp
 spartanspears.esp
@@ -3558,12 +3580,15 @@ Staff of Portals.esp
 StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
+stfClothesR v1.esp
 SG001_BunnyGirl.esp
 SG002_Button.esp
 SG003_Slit.esp
 SG004_Stargazer.esp
 SG005_DHuntress.esp
+SG006_Nabiya.esp
 SG007_Nobody.esp
+SG010 Compilation.esp
 Staves&Polearms&Spears.esp
 StealStaff.esp
 SteelHalberd.esp
@@ -3597,13 +3622,12 @@ TGG- Treasure Placement.esp
 The Bow of Ash.esp
 The Bow of Bones.esp
 The Bow of Daedric Blood.esp
-The Bow of Robin of Locksley.esp
-The Bow of the Drow.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
 The Bow of Thorns.esp
 The Butcher.esp
 The Doomed King.esp
+The Dragon Bow.esp
 TheFatherSword.esp
 The legendary Archer - EV.esp
 The legendary Archer - DV.esp
@@ -3625,6 +3649,7 @@ tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
+tona_whitesquall-armor_ver2.esp
 TreasuresOfTyrV10.esp
 Tribute armor.esp
 trfdaedricarmors.esp
@@ -3912,35 +3937,6 @@ Francesco's Mage Equipment.esp
 
 \To be alphabetically sorted sometime.
 
-NewbsArmoredRobes.esp
-NPR Knight Armor.esp
-EY_Vampirehunter.esp
-EY_BM_Armory.esp
-Queensarmory.esp
-ShaiyaOutfit.esp
-MHSNKirin.esp
-HolyRelics.esp
-AT2 01-Shiki Armor Set.esp
-AT2 02-Shiki Armor Set.esp
-JBlades!.esp
-JBlades!1.1.esp
-JBladesVol2.esp
-Black Plate Armor.esp
-The Dragon Bow.esp
-Sorceress_Armors.esp
-DefianceOfSubtlety.esp
-tona_whitesquall-armor_ver2.esp
-Noble Plate Armory.esp
-ArynnsDrowQueen2.0.esp
-ExnemEyeCandy_RTFem.esp
-EY_Queens Armory.esp
-kikaiAS-SheogorathRT-sep.esp
-Shadowsilk.esp
-Slaveknight armor.esp
-stfClothesR v1.esp
-Her Hand's Armor.esp
-FashionAnvil.esp
-
 LevelerCheat.esp
 Frostleaf Leather Armor.esp
 Oblivion Testing World.esp
@@ -3949,6 +3945,9 @@ Keybox_+_Nice_items!-7026.esp
 Sergei Robes Compilation.esp
 SS-GenderIndependentClothing v1.0.esp
 300_Classes.esp
+Armor Collection.esp
+Clothing Collection.esp
+Weapon Collection.esp
 \EndGroup\\
 \EndGroup\\
 
@@ -3966,9 +3965,13 @@ LC-Compilation-Exnem.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Clothing Skimpy.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Armor Skimpy.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA  Skimpy Armor Expanded.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
@@ -4089,6 +4092,7 @@ kalikuts_UFF_BraPanties.esp
 ANBMiniMicroBikini.esp
 ExnemZorlackArmory.esp
 Exnem_Golden_Assassin_Armor.esp
+ExnemEyeCandy_RTFem.esp
 ExWearUndies.esp
 Sack of Pants.esp
 SkeuomorphT3.esp
@@ -4210,6 +4214,7 @@ Jade Armor v1.0.esp
 A_Dremora_Armor_for_you-7602.esp
 Platinum Armor and Weapons.esp
 RobertsFemaleShirt07.esp
+UFF Collection.esp
 
 Dragon Claw Sword And Shield.esp
 Pegasus Armor Set.esp
@@ -4223,6 +4228,8 @@ Rosana_White_Version.esp
 SchwarzeKatzeArmor.esp
 Red Dragon Armor.esp
 AT2 01-Shiki Armor Set v1_0.esp
+AT2 01-Shiki Armor Set.esp
+AT2 02-Shiki Armor Set.esp
 Chrome Amazon Armor.esp
 % {{BASH:Grpahics}}
 Morrowind Scimitars for Oblivion.esp
@@ -4258,6 +4265,7 @@ R18PN - Mizugi set.esp
 R18PN - Bs Bondage.esp
 kunoichi DM Enchanted.esp
 SexyKunoichi.esp
+R18PN - Collection.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
@@ -5784,6 +5792,7 @@ Anvil_MorningGloryBetterCities_Purple.esp
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
 
+AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 Aqvatika.esp
@@ -6097,6 +6106,7 @@ Dalls_ICHouse.esp
 Dalls_ICHouseTwo.esp
 Dalls_Inheritance.esp
 Dalls_Merchant.esp
+Dalls Collection.esp
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 Dark Sanctuary Display Room.esp
@@ -6817,6 +6827,7 @@ Marketplace_Eng.esp
 MetherlanceManor.esp
 Milewood.esp
 Mysteries Of Atrene Camp.esp
+mystery of mausoleum.esp
 \EndGroup\\
 
 \BeginGroup\: Quests N
@@ -7121,6 +7132,7 @@ Star Ship Orion.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
+Street Market.esp
 sunk ships.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -7164,6 +7176,7 @@ Talos Bridge.esp
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
+Tanduff.esp
 Tantrivaylia.esp
 Tantrivaylia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -7187,7 +7200,7 @@ All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
-TGInheritEarlOfImbelsICHouse.espv
+TGInheritEarlOfImbelsICHouse.esp
 The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Black Marsh_Snake Head Island.esp
@@ -7273,6 +7286,7 @@ Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
 : TR_Stirk.
 FCOM_Stirk.esp
 Transmutation.esp
+TreasuresOfTyrV10.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
 " UL mod(s).
@@ -7310,6 +7324,7 @@ Tunnels of Tamriel.esp
 \BeginGroup\: Quests U
 
 UFF Gypsy Market.esp
+Unbeatable Angel.esp
 UnfathomedTower.esp
 Unholy Cathedral.esp
 Unique Dungeons - Lichs Lair.esp
@@ -8916,7 +8931,7 @@ DS Portable Sorters.esp
 : COBL.
 DS Storage Sacks.esp
 : COBL.
-
+DMRA Replacer OOO Collection.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
 \EndGroup\\
@@ -11226,6 +11241,7 @@ MrMuhs Sheogorath-Anims EV.esp
 SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
+Oblivion Pose Pack.esp
 zzEstrus.esp
 walklikesheo.esp
 NewAnimation.esp
@@ -11998,6 +12014,11 @@ CM_Kailinda Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Jessica.esp
 cm_Jo-han.esp
+CM Partner Kim Kardashian.esp
+CM PARTNER KITTY SNOW.esp
+CM PARTNER LOLA.esp
+CM PARTNER NICOLE.esp
+CM Partner Kitty Snowflake Lola Nicole.esp
 CM Partner Sarija.esp
 CmRisingStars.esp
 cmSashaSonja.esp
@@ -12005,6 +12026,7 @@ CM Yana.esp
 CM_Dragonchixx.esp
 CM Partner Fiona.esp
 CM DESTINY M.esp
+CM Embla.esp
 CM NIKA SB.esp
 CM NOVA.esp
 CM SASHEIRA.esp
@@ -12080,6 +12102,10 @@ Baddy-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
 Cog-Rein.esp
 CompanionMaster.esp
+Companion_Ab_Human.esp
+Companion_Ab_Human_2.esp
+Companion_Ab_Human_3.esp
+Companion_Ab_Human_4.esp
 Companion Maria.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
@@ -12168,6 +12194,7 @@ Tamara.esp
 Tiamat the Firedrake.esp
 BetterShack.esp
 Candlelight.esp
+Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp
@@ -12753,7 +12780,7 @@ Better Imperial City Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
-
+Better Cities - Sexlivion_0.4a_Full_English_v1.esp
 Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
@@ -13416,6 +13443,7 @@ Wrye Morph Keys.esp
 Wrye Morph Wearable.esp
 Wrye Morph-See You Sleep.esp
 ShowRaceMenu StatsFix.esp
+The Big Merger.esp
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch

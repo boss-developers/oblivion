@@ -10617,6 +10617,9 @@ svaReEnch_1C.esp
 \
 \Overrides overhauls.
 
+BookLooting.esp
+: OBSE 15+
+CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
 MerchantFriendsBuysStolen.esp
 MerchantsAlwaysBuyStolen.esp

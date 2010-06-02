@@ -7802,6 +7802,8 @@ GuardsofCyrodiil.esp
 GoC&RRLR_comp.esp
 GuardsofCyrodiilRedux.esp
 ? If using with Region Revive Lake Rumare, use 'GuardsofaCyrodiilRedux - RRLRpatch.esp' as well.
+GuardsofCyrodiilRedux Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 GuardsofaCyrodiilRedux - RRLRpatch.esp
 GuardsofCyrodiilRedux - RRLRpatch.esp
 
@@ -7900,6 +7902,8 @@ Unofficial Patches & Refurbish - ALL.esp
 BrewHouse.esp
 ? Use v1.5 or later to avoid extensive compatibility issues.
 
+_LPDaedricWAR.esp
+: EDI is almost certainly incompatible.
 Enhanced Daedric Invasion.esp
 >: 'FCOM_EnhancedDaedricInvasion.esp'.
 
@@ -7942,6 +7946,7 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 Rimmen.esp
+Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 Walkabout.esp
@@ -8179,6 +8184,7 @@ MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
 OrdenULPatchBravilBarrowfields.esp
+Tales Elsweyr Anq Bravil Barrowfields Patch.esp 
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
 
@@ -8344,6 +8350,8 @@ TrailsOfCyrodiil-UL merged patch.esp
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
 
+exhICMO.esp
+: BC/OC IC Market District Components.
 West Roads.esp
 WR Villages Addon.esp
 ULSO+WestRoads Patch.esp
@@ -8374,6 +8382,8 @@ Bartholm Vwalk.esp
 
 Fort Akatosh Redux.esp
 % {{BASH:Relations}}
+Fort Akatosh Redux Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 FortAkatoshRedux-NewRoads&Bridges patch.esp
 Cyrodiil Legion Addon.esp
 Legion Ranger Addon.esp
@@ -10950,7 +10960,7 @@ Duke Patricks - Smash Of The Titans.esp
 SpookyNPCAIModsMerge.esp
 PTActorsCare.esp
 PTDamageFinal.esp
-PTDoorExploitsBegone.esp
+PTDoorExploitBegone.esp
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling

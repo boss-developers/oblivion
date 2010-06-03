@@ -1732,6 +1732,8 @@ My Voice Extender.esp
 
 \BeginGroup\: Base N
 
+NameThatHorse.esp
+: OBSE 17+, Pluggy 122+
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
@@ -2635,6 +2637,8 @@ Battlespire Books.esp
 bbLager.esp
 bbLagerOptional.esp
 bcrich.esp
+BetterBedroll.esp
+% {{BASH:Invent}}
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -2786,6 +2790,7 @@ CasquetteCamisoleX117.esp
 
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
+DarkBrotherhoodPoison.esp
 Dauphni Clothing.esp
 DawnWraith.esp
 DBShadowSet.esp
@@ -3096,6 +3101,7 @@ It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Icxth Sword.esp
+impguardpalkey.esp
 IP_Magerobes.esp
 % {{BASH:Graphics}}
 IvyArmor_Black.esp
@@ -5836,6 +5842,7 @@ ArchersLodge1.1.esp
 Archfall_house.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
+Arkestar - Name Rat 1 - Potions.esp
 Armageddon.esp
 Armoured Arms Altered.esp
 ArmoryLab.esp
@@ -7516,6 +7523,7 @@ Angel's Arena Loot en.esp
 24HrArenaAliveV2Towers.esp
 24HrArenaAliveV2Light.esp
 24HrArenaAliveLow.esp
+Add_Arena_Robes-5411.esp
 Arena Blacksmith.esp
 Arena Camp.esp
 Arena Immersion Upgrade-1174451252-TESSource.esp
@@ -7529,6 +7537,7 @@ Arena_BattlesV1.2EV.esp
 Arena Capacity Crowds.esp
 Arena_Capacity_Crowds-5845.esp
 Arena Rebuild.esp
+arenaloot v1.1.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
@@ -7538,6 +7547,7 @@ UOE-MoreArenaSpectators.esp
 LFox Expensive Arena Gambling.esp
 JV-ArenaModification-0.9.esp
 Lyn-RealArenaFighters.esp
+ND_Arena_Reward_Staff.esp
 Visually Enhanced Arena.esp
 ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
@@ -8481,6 +8491,9 @@ Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 Duke Patricks The Lady said NO.esp
 ? Old. Upgrade to latest version.
 DukePatricksTheLadysaidNO.esp
+
+SPD-SailableRivers.esp
+? Most likely incompatible with some ULs
 \EndGroup\\
 
 \BeginGroup\: Open Better Cities
@@ -8786,6 +8799,8 @@ Better_Amelion_Gear.esp
 Better_Blade_Equipment.esp
 BetterCoins.esp
 Better Post Faction Rewards.esp
+Better Potions and Poisons.esp
+% {{BASH:Graphics}}
 Better Sheogorath.esp
 Better Skooma.esp
 Better_Gem_Pricing-7112.esp
@@ -9047,6 +9062,8 @@ Gattsurus_Easier_Black_Soul_Gems.esp
 Get_Your_Arrows_Back-9403.esp
 ? Consider using Bash Patch tweaks instead, if possible.
 Gemfix-6955.esp
+GuilesScrollRenamer.esp
+% {{BASH:Names}}
 Give Me My Shader Effects.esp
 GladiatorsVarlorRing.esp
 goblin_war_party.esp
@@ -10284,6 +10301,7 @@ Duke Patricks Elemental Shield Wall Scroll.esp
 StartingSpells.esp
 Judgement of the Nine.esp
 bgEnchantingOrbEV.esp
+DimensionalPocket.esp
 DimensionalPocketOfEther.esp
 RoomOfEnchantment.esp
 Scavenger Scamp.esp
@@ -10447,6 +10465,8 @@ Midas BeastFortify Fix OBSE.esp
 
 \BeginGroup\: Spells Late
 
+Levelled Spell Names.esp
+% {{BASH:Names}}
 AlternativeOblivionMagicSystem.esp
 
 NewEnchantingAndSpellmakingOptions.esp
@@ -10612,6 +10632,7 @@ Enchant Arrows Spells.esp
 Enchant Ripper.esp
 EnchantRegen ArcaneBank.esp
 Enchantment and Spellmaking improvment.esp
+Enchantment and Spellmaking improvment - FCOM & SM.esp
 Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Better Weapon Enchantments.esp

@@ -5661,6 +5661,8 @@ Cyrodiil Transportation Network WZ OC.esp
 cyrodiil transportation network 1.2 DV.esp
 OC+CTN Patch.esp
 TamrielTransportationNetwork.esp
+TamrielTransportationNetwork Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 ShiveringIslesTransportationNetwork.esp 
 
 Ivellon.esp

@@ -386,6 +386,10 @@ Beautiful Women Vwalk Full.esp
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Beautiful_Women_Revised.esp
+% {{BASH:NpcFaces,NoMerge}}
+Beautiful_Women_Revised_NotSoNice.esp
+% {{BASH:NpcFaces,NoMerge}}
 Handsome_Gents_Addon.esp
 % {{BASH:NpcFaces,NoMerge}}
 Handsome_Gents_DB_Addon.esp
@@ -397,6 +401,8 @@ Handsome_Gents_Vampires.esp
 Handsome_Gents_Vampires_50.esp
 % {{BASH:NpcFaces,NoMerge}}
 Handsome_Gents_Bonus.esp
+% {{BASH:NpcFaces,NoMerge}}
+Handsome_Gents_Revised.esp
 % {{BASH:NpcFaces,NoMerge}}
 emperorface.esp
 % {{BASH:NpcFaces,NoMerge}}
@@ -1275,6 +1281,7 @@ Cats & Rats.esp
 OC+Cats&Rats Patch.esp
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 Carcernus Prison.esp
+ChapelsOfCyrodiilLOD.esp
 CharGenAmulet.esp
 Character_Changer-2826.esp
 crafting.esp
@@ -1500,6 +1507,8 @@ dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
+? Old, update to version 1.05+
+Diverse Dungeons - Subtle Color v.1.05.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 Doomstones.esp
@@ -4666,8 +4675,10 @@ Oblivion WarCry EV.esp
 % {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
+% {{BASH:Delev,Relev,Stats}}
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 FCOM_WarCryNoSpawn.esp
+% {{BASH:Stats}}
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
 
 LG's Unscaled Enemies.esp
@@ -5562,6 +5573,7 @@ Modified Bandits.esp
 ? not very compatible with any overhauls.
 Unscaled Loot and Encounters.esp
 VG0udyrfrykte.esp
+slaughterfish addon.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -6046,6 +6058,7 @@ Cellars of Oblivion.esp
 Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
+Chapels.esp
 Clamshell_Cottage_v1.5.esp
 Clamshell_Cottage_v1.5_COBL.esp
 ArCloudRulerArmoryExtended.esp
@@ -7952,6 +7965,7 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
+ElsweyrAnequinaFemaleBody.esp
 Rimmen.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp

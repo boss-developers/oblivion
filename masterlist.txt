@@ -47,6 +47,7 @@ MathFunctions.esm
 BP-CosmeticLibraryBase-Public.esm
 BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
+% {{BASH:Eyes,Graphics,Hair,R.Relations}}
 Jog_X_Mod.esm
 piCore.esm
 ScreenEffects.esm
@@ -211,6 +212,7 @@ RaceFrameWork.esm
 Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
 x117race.esm
+% {{BASH:Hair}}
 Chanpon.esm
 SoVvM.esm
 % {{BASH:NpcFaces,Graphics}}
@@ -1022,6 +1024,7 @@ Silent Player Voice.esp
 Drum_Fix.esp
 
 Storms & Sound.esp
+% {{BASH:C.Owner}}
 ? Use only one Storms and Sound mod file.
 Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -4746,22 +4749,37 @@ Oscuro's_Oblivion_Overhaul.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,Relations,Relev,Scripts,Stats}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
+? Not use with FULL version of OOO, included.
 OOO-No_Guild_Ownership.esp
 OOO-DLT_Remover.esp
 OOO-Armor_Perks_WearRate_Repair.esp
+? Not use with FULL version of OOO, included.
 OOO-Birthsigns.esp
+? Not use with FULL version of OOO, included.
 OOO-Combat_Skills_Perks_Marksmanship.esp
+? Not use with FULL version of OOO, included.
 OOO-DaedricLord_Quests.esp
+? Not use with FULL version of OOO, included.
 OOO-DaedraLord_Quests.esp
+? Not use with FULL version of OOO, included.
 OOO-Dangerous_traps.esp
+? Not use with FULL version of OOO, included.
 OOO-Deadly_Combat.esp
+? Not use with FULL version of OOO, included.
 OOO-DLT_Immersion.esp
+? Not use with FULL version of OOO, included.
 OOO-Magic_Effects+Enchantments.esp
+? Not use with FULL version of OOO, included.
 OOO-Magic_Effects+Spells.esp
+? Not use with FULL version of OOO, included.
 OOO-Magic_Game_Settings.esp
+? Not use with FULL version of OOO, included.
 OOO-Potions.esp
+? Not use with FULL version of OOO, included.
 OOO-Thief_Guild_Difficult.esp
+? Not use with FULL version of OOO, included.
 OOO-ThiefGuild_Difficult.esp
+? Not use with FULL version of OOO, included.
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
 * Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
@@ -6442,7 +6460,7 @@ hchouse408.esp
 Hedge Home.esp
 HelsethArmor.esp
 Hentai Mania.esp
-% {{BASH:Hair,Invent,Scripts}}
+% {{BASH:Hair,Invent,Scripts,C.Owner,Delev,Relev}}
 >: FCOM_Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -8010,6 +8028,7 @@ ElsweyrAnequina.esp
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina - Races HGEC-Robert.esp
+% {{BASH:Graphics,NoMerge}}
 ElsweyrAnequina Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ElsweyrAnequina v2 Vwalk.esp
@@ -13028,58 +13047,167 @@ ReallyImmersiveMessagesNoBirthsigns.esp
 \Use only one of each kind. Unlikely to interact with other mods.
 
 Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
+? Respawn and Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's day lenght rescale 1-12.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's day lenght rescale 1-16.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
+
 Francesco's day lenght rescale 1-20.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's day lenght rescale 1-24.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's day lenght rescale 1-30.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Francesco's 21 days respawn time.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 Francesco's 14 days respawn time.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 Francesco's 10 days respawn time.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 Francesco's 7 days respawn time.esp
-OOO-Respawn_Month.esp
-OOO-Respawn_Two_Week.esp
-OOO-Respawn_Week.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 OOO-Respawn_Year.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
+OOO-Respawn_Month.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
+OOO-Respawn_Two_Week.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
+OOO-Respawn_Week.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 Z 1 Hour respawn.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 ThingasTime 1-15 Scale.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Automatic Timescale.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Timescale 5x Real-Life.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Timescale 10x Real-Life.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Time-2hr-realtime.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 TF_timemod1-10.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 VG0SmarterTimescale.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 OblivionRealTimeV11.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Combat Timescale x0.5.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Combat Timescale x0.5 v1.0.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 DynamicTimescale.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
 Syc_LongerDaysShorterNights.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
+? Possible to use with 'Syc_LongerNightsforVampires.esp'
 Syc_LongerNightsforVampires.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
+? Possible to use with 'Syc_LongerDaysShorterNights.esp'
 SPAWN.esp
+? Respawn mod
+? Use only one Respawn or Timescale mod
 \EndGroup\\
 
 \BeginGroup\: Shader mods

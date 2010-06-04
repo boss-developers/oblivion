@@ -2433,6 +2433,7 @@ avarm.esp
 1.4TheAtlanteanSword2h_leather.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
+1BDSword [ENG].esp
 1Elven.esp
 1SBVampireOutfits.esp
 1SB_WarhammerWingedStaff.esp
@@ -2505,6 +2506,7 @@ Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Arcana Infinium.esp
 Andragorn_Weapons_Armors.esp
+Angel Slayerr.esp
 AngelslayerEN.esp
 ares-HGEC.esp
 Armblade.esp
@@ -2673,6 +2675,7 @@ BlackLuster 2SwordStyle.esp
 BlackMail.esp
 Black Plate Armor.esp
 Blackrangercuirass.esp
+Black Weapons.esp
 Bloodeus'UniqueArmors.esp
 Bloodeus'UniqueStuff.esp
 Band TShirts.esp
@@ -2708,6 +2711,7 @@ BowOfShadow.esp
 BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
+Burningweapons.esp
 Buster Sword R.esp
 BrivasArmor.esp
 BWisteria.esp
@@ -2764,6 +2768,7 @@ Chess Set Complete.esp
 ChitinArmor.esp
 Chrysamere.esp
 Collectable Miniature Daedric Shrines.esp
+Cresent.esp
 crimson dagger.esp
 ? Due to a poorly written script unless this mod is the second mod loaded (i.e no esms except for OB) the player will never get the weapon
 ? To get the weapon open the console and enter  player.additem xx000ED3 where xx is the hexadecimal mod index (LO number).
@@ -2788,6 +2793,7 @@ CasquetteCamisoleX117.esp
 
 \BeginGroup\: Items D
 
+dagger_o_a.esp
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
 DarkBrotherhoodPoison.esp
@@ -2852,6 +2858,7 @@ Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DefianceOfSubtlety.esp
+DeliveranceFireEnch.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
 DFSL Leathery 4.esp
@@ -2870,6 +2877,7 @@ DMGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
+Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
@@ -2913,7 +2921,9 @@ DH13 Battle China Dress.esp
 
 \BeginGroup\: Items E
 
+EagleSword.esp
 Echo_MysticShield.esp
+EckoSword.esp
 ElegantVests.esp
 ElementalWeapons.esp
 Emperor's Heavy War Armor.esp
@@ -2930,6 +2940,7 @@ Elfenwacht.esp
 Elwing.esp
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
+ercGigerBattleclaws_EV.esp
 EY_AoD.esp
 EY_Queens Armory.esp
 EY_Vampirehunter.esp
@@ -2945,6 +2956,7 @@ Extremly Wet Panties.esp
 Fall Hair Wig - EV.esp
 FalxMod.esp
 % {{BASH:Invent}}
+fang-flakpak.esp
 Fans for Helain.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
@@ -2962,6 +2974,7 @@ Female Helmet Replacer.esp
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
+FinalFantasy10BrotherhoodswordNEW.esp
 FineWeapons.esp
 % {{BASH:Graphics}}
 FinGleamRing.esp
@@ -3001,6 +3014,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GhostArmor.esp
 GHSamuraiArmor.esp
+Gizmodian - Vicious Heart.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
 GizmodianSothaDagger.esp
@@ -3011,6 +3025,7 @@ Glyphmod.esp
 Godslayer and Divine Protection.esp
 God Ring 1.esp
 the god ring.esp
+Dual God Rings.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
@@ -3058,6 +3073,7 @@ Hel Borne Spear Set.esp
 Hel Borne's Vampire Slayer Sword.esp
 HD Aragorn Armor.esp
 HelmetCollection.esp
+HellspawnBlades.esp
 HellSpawnDaedric for Exnem.esp
 Hell'sExecutioner.esp
 Hemingweys NPC Capes.esp
@@ -3090,6 +3106,7 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Her Hand's Armor.esp
+Heretic Reavers.esp
 Heron Mark Swords 1.0.esp
 HL2set.esp
 Hadhafang.esp
@@ -3113,11 +3130,14 @@ IvyArmor_Arena_Hcup.esp
 
 \BeginGroup\: Items J
 
+J3Xs Flails.esp
+jackal1.esp
 Jade Dishes.esp
 javrmb.esp
 javbmb.esp
 JBlades!.esp
 JBladesVol2.esp
+JBScimitar.esp
 JCapes!20.esp
 JCapesBonus.esp
 % {{BASH:Invent}}
@@ -3195,6 +3215,7 @@ Leviathan Daikatana.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
+lineagesls.esp
 Lockbreaker.esp
 LockpickMold.esp
 LockpickToolkit.esp
@@ -3267,6 +3288,7 @@ mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
 MythicDawnTiein - Lite.esp
+Mythsword.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
 Mandalorian Armor.esp
@@ -3286,6 +3308,7 @@ Necessary Violence.esp
 Neckerchiefs v1.2.esp
 NecroArmour.esp
 New Frostmourne Sword by Jojjo v1_0.esp
+NewEnergyBow.esp
 NewbsArmoredRobes.esp
 NexonsArmoryENG.esp
 Nicoroshi Creations DW Light.esp
@@ -3312,6 +3335,7 @@ Noctiluca_Sidereus.esp
 NordicWeapon.esp
 NorseWeapons.esp
 ? May have landscape conflicts with Guards of Cyrodiil.
+Nosferatu.esp
 NosferatuBow.esp
 NPR Knight Armor.esp
 Negotiator Sword OBSE.esp
@@ -3333,6 +3357,7 @@ Nicos Dreadweave Compilation.esp
 
 \BeginGroup\: Items O
 
+Oblivions_Edge.esp
 Obsidian Axe.esp
 Obsidian armor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
@@ -3422,6 +3447,7 @@ Rindirs Staves.esp
 ring_of_feather.esp
 Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
+RLGFrostweave.esp
 Robe Replacer2.esp
 % {{BASH:Graphics}}
 Rogue Sun's Blood Lust Dress.esp
@@ -3431,6 +3457,7 @@ Rotating Mace.esp
 Royal Daedric Armor.esp
 RRSeifuku.esp
 RRWeapos&Armors.esp
+RuLZ Weapons.esp
 Rum1.esp
 Running4Cover's Welkynd Armors - Free.esp
 Running4Cover's Welkynd Armors - For Sale.esp
@@ -3463,6 +3490,7 @@ Saint Hiryu's Artifacts.esp
 % {{BASH:Invent}}
 SaiyanRanger.esp
 samurai.esp
+Sang_Noir.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
@@ -3475,6 +3503,7 @@ semi_precious_stones.esp
 SentientWeapon.esp
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
+severianskatanas1_2.esp
 SexyTops.esp
 Shadow Legion Armor.esp
 shamblingbooks.esp
@@ -3577,6 +3606,9 @@ SoT_Rise of Sheogorath.esp
 soulblade.esp
 SoulCalibur1h.esp
 SoulCalibur2h.esp
+SoulDrinker.esp
+SoulReaverWraith.esp
+Soulshade Dragonslayer Sword.esp
 Spell Breaker Replacer.esp
 SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
@@ -3595,6 +3627,7 @@ spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
 spirit_bast.esp
+SpiritswordF_alfa.esp
 Staff of Portals.esp
 StahlArmor.esp
 Star Boi's Keyblades In-Game.esp
@@ -3623,6 +3656,9 @@ Staff of the Scamp-Milt.esp
 Silverlight Armor by Jojjo.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
+Sword of the Rivan King.esp
+Sword-of-power.esp
+SwordOfTheGods.esp
 \EndGroup\\
 
 \BeginGroup\: Items T
@@ -3638,6 +3674,7 @@ tda_PHModv1.2.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
+TestShuriken.esp
 TGG- Treasure Placement.esp
 The Bow of Ash.esp
 The Bow of Bones.esp
@@ -3649,6 +3686,7 @@ The Butcher.esp
 The Doomed King.esp
 The Dragon Bow.esp
 TheFatherSword.esp
+TheHolyBlade.esp
 The legendary Archer - EV.esp
 The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
@@ -3658,6 +3696,7 @@ The SilverDragonArmorQuest.esp
 % {{BASH:Invent}}
 The Sword of Cyrodiil.esp
 The Sword of Truth.esp
+Throwable kunai.esp
 Thunderbird Armor.esp
 thunderfury.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
@@ -3670,6 +3709,7 @@ tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
 tona_whitesquall-armor_ver2.esp
+TripleArrows_1C.esp
 TreasuresOfTyrV10.esp
 Tribute armor.esp
 trfdaedricarmors.esp
@@ -3683,6 +3723,7 @@ TTB.esp
 Tyrael Armor.esp
 Templer-Armor.esp
 The Soul Reaver.esp
+Twin Blades of Ichtyon.esp
 
 UmarilsArmor.esp
 Umarils Armor Separate.esp
@@ -3756,6 +3797,7 @@ Vvardenfell_Imports.esp
 
 \BeginGroup\: Items W
 
+Wands!.esp
 WarriorBandages_V2.0.esp
 WarriorBandages_OOO_V2.0.esp
 WarriorsRobe.esp
@@ -3770,6 +3812,7 @@ Woodsman Armor.esp
 Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
+wrathofmagic.esp
 Wyverex's - Runes by DJ.esp
 \EndGroup\\
 
@@ -6187,6 +6230,7 @@ DJZ Archmage's Study.esp
 DJ Markov Manor.esp
 Don't Forget Nirn!.esp
 DopplersArmory.esp
+DMwardropemerged.esp
 Draelins Hidden Abode.esp
 DragonInvasion.esp
 DragonHouse.esp
@@ -7173,6 +7217,7 @@ SSS_1.0.esp
 : Shivering Isles.
 : 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
+SST - ICWF Dock Expansion.esp
 Star's Rest.esp
 Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
@@ -9628,6 +9673,7 @@ Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 ATakesAll.esp
 dyseso_PromptAt2Items.esp
+TML_WieldableTorches_v10.esp
 tona_underwear.esp
 Tona Compilation.esp
 TorchesBlowOut.esp
@@ -12124,6 +12170,7 @@ RoseCM.esp
 Terimer.esp
 % {{BASH:Hair,Eyes}}
 Three CM Partners.esp
+The Ice Queen.esp
 
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
@@ -12845,6 +12892,7 @@ Better Imperial City Vwalk.esp
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
 Better Cities - Sexlivion_0.4a_Full_English_v1.esp
+Better Cities - Sexlivion.esp
 Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp

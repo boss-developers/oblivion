@@ -1070,6 +1070,7 @@ weather inside [silent seasons] v1.2.esp
 " later versions of Storms & Sound.
 Weather Inside.esp
 " later versions of Storms & Sound.
+MIS Weather.esp
 
 Rainbows.esp
 \EndGroup\\
@@ -6028,6 +6029,7 @@ BeyondCyrodiil-Camps.esp
 BF_FortRapture.esp
 Big Business.esp
 Billsburg.esp
+English Billsburg v1.5.esp
 English Billsburg_Rens_Hair_1.51.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
@@ -6680,6 +6682,7 @@ KarewManor.esp
 Kariba.esp
 Katana Store v2.0.esp
 Kats Better Rosethorn Hall.esp
+KendelfordAvon.esp
 Keric.esp
 Keys & Furniture Papers Box.esp
 kikaiNocturnalTorch.esp
@@ -7021,6 +7024,7 @@ Pats Business Mod---Shop Version 2.0.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 photoroom.esp
+Pickman's Model.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
 ? Old, update to version 2.
@@ -7492,6 +7496,7 @@ VypersAstralStorage.esp
 
 \BeginGroup\: Quests W
 
+Woodelvendon.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
@@ -8204,6 +8209,7 @@ xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
 Unique Landscapes - ColovianHighlands DV.esp
 Billsburg-ColovianHighlands patch.esp
+Billsburg-Battlehorn-ColovianHighlands Patch.esp
 Billsburg-UniqueLandscapes patch.esp
 EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
@@ -8284,7 +8290,7 @@ MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
 OrdenULPatchBravilBarrowfields.esp
-Tales Elsweyr Anq Bravil Barrowfields Patch.esp 
+Tales Elsweyr Anq Bravil Barrowfields Patch.esp
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
 
@@ -9986,6 +9992,7 @@ Addendum - Sleepy.esp
 Addendum - Thirsty.esp
 ? Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
 
+Q - Carrying Capacity x2 v1.0.esp
 Q - Carrying Capacity x20 v1.0.esp
 WeightLifter.esp
 

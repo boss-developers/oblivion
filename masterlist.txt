@@ -4807,6 +4807,8 @@ OOONoLockBash.esp
 
 AMC-OOO.esp
 DBOO.esp
+DBOO - Frans.esp
+DBOO - Frans Guards.esp
 DBOO - Enhanced Water.esp
 DBOO - MOBS.esp
 DBOO - OOO.esp
@@ -8666,8 +8668,11 @@ OC+ULSO+WestRoads Patch.esp
 Better Benirus Manor OC Patch.esp
 III-LeyawiinRebornPatch.esp
 DBOO - OpenCitiesFull.esp
+? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 DBOO - Open Cities Outer Districts.esp
+? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 DBOO - OpenCitiesFull + Outer Districts.esp
+? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 5

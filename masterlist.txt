@@ -3196,6 +3196,7 @@ KohdiAnduril.esp
 KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
 Kohdi Ankewan-Anesphar Delayer.esp
+KohdiLessFrustratingArrows.esp
 KORE- Salient Daggers.esp
 Krakens.esp
 Kynareth Armory.esp
@@ -6034,6 +6035,8 @@ English Billsburg_Rens_Hair_1.51.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
+Black Horse Mail Box.esp
+AW_BHC_HomeDelivery.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
@@ -6870,6 +6873,7 @@ Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
 Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
+MELF_Cane.esp
 Mercenaries.esp
 Mero Trading.esp
 TradeShip.esp
@@ -6995,6 +6999,7 @@ Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
 Oblivion Achievements CORE Version.esp
 Oblivion Wine Overhaul.esp
+Wine Overhaul.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
 OMPexample.esp
@@ -7295,6 +7300,7 @@ The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+The Brandy Maker.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
@@ -7508,6 +7514,7 @@ WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
 WellDiver.esp 
+Well of Arcane Marking.esp
 WellOfSouls.esp
 WellspringGrove.esp
 Well Thief v 1.1.esp
@@ -7539,7 +7546,7 @@ Weye_Manor.esp
 WeyeHouse.esp
 Healer.esp
 Windfall.esp
-Windfall Vwalk.esp:
+Windfall Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Window Entrances 1.0.esp
 
@@ -8404,6 +8411,7 @@ ImperialManor-ImperialIsle patch DV.esp
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
 CastleDunkerlore-BlackwoodForest patch.esp
+UnholyChatedral-BlackwoodForest patch.esp
 
 xulCheydinhalFalls.esp
 Unique Landscapes - Cheydinhal Falls DV.esp
@@ -10226,6 +10234,7 @@ ClaimThatInterior.esp
 CompanionResurrect.esp
 CompanionRepair.esp
 : RefStuff, OBSE.
+CompanionsTreaty.esp
 ConduitMagic.esp
 Darkness Unleashed - Master.esp
 Darkness Unleashed - Bone Magick.esp
@@ -10310,6 +10319,10 @@ Nightmare.esp
 NollesMadnessPortalT2.esp
 OblivionGateTraveller.esp
 Open_Very_Hard_Lock.esp
+Pants Be Gone 1.3 With Demoralize.esp
+? Use only one Pants Be Gone 1.3 mod
+Pants Be Gone 1.3 Without Demoralize.esp
+? Use only one Pants Be Gone 1.3 mod
 Pat's SpellpackMod Classic.esp
 Pat's SpellpackMod NoIngredients.esp
 P1DsafeContainers.esp
@@ -12146,6 +12159,7 @@ Xenia_CMPartner Vwalk.esp
 cmAbbeyAeryn.esp
 cmBellenia.esp
 cmChocolates.esp
+CM Companion Jessica Alba.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp

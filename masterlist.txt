@@ -1053,6 +1053,8 @@ OBSE-Storms & Sound.esp
 Stormier storms.esp
 Storms.esp
 
+Troy_HeartbeatBreath.esp
+
 PJs Lightning Strikes.esp
 PJs Lightning Strikes - Natural Weather.esp
 PJs Lightning Strikes - No Shock Changes.esp
@@ -3411,6 +3413,7 @@ Playable GS DS Armor.esp
 lootableSIArmor.esp
 PMCurioCeremonialRapier.esp
 PocketGuideEmpire.esp
+Poison Arrows RUS.esp
 polearms_1.0.7_EV.esp
 Polearms.esp
 Poleweaponsv1.1.esp
@@ -6072,6 +6075,7 @@ Bravil House For Sale Upgrade - COBL Compatibility Patch.esp
 Bravil Store Upgrade.esp
 BravurasBarrel.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
+Bruma_House__Fireplace_with_Fire-2800.esp
 Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
@@ -7196,6 +7200,7 @@ Skingrad Market 1.0.esp
 Skingrad Market - MoC 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SkyCastle.esp
+Skyrim Alive.esp
 Skye Village Final.esp
 Sky Haven.esp
 SkullofMondain.esp
@@ -7520,6 +7525,7 @@ WellspringGrove.esp
 Well Thief v 1.1.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
+Whispered Warning Rus.esp
 Whispers of Death Extended.esp
 White Gold Top.esp
 WhiteGoldTowerV19.esp
@@ -9980,6 +9986,7 @@ EncumbranceMod.esp
 encumberancemodx10.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
+More Realistic Fatigue.esp
 More Realistic Encumbrance with Fatigue.esp
 More Capacity Encumbrance with Fatigue.esp
 NoEncumberance.esp
@@ -10608,6 +10615,8 @@ Faster Spells.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 FasterArrows200.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
+FasterArrows250.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Spell Ranks.esp
 ? Use Wrye Bash Bashed Patch tweak 'Rational Names' where posible.
 
@@ -10655,6 +10664,7 @@ OBSE-Zauberentfernung.esp
 \'''''''
 
 alchemybugfix.esp
+AT_Alchemy_Rules.esp
 Poison_Apples_as_Poison_Ingredient-3514.esp
 Poisoned Apple Fix.esp
 ? Will probably break Dark Botherhood guild quest.

@@ -11601,35 +11601,37 @@ Custom Hairs for Vanilla Race.esp
 % {{BASH:Hair}}
 M.O.E. - Unlocked Hairstyles.esp
 Bald_Hairstyle.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 tkHairPack01.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 babehair_EV.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 GraceHair.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 soya_04hair.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 Soya 4 Hair Pack.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 Soya 4 Hair Pack - English.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 BWs Argonian Hair.esp
 % {{BASH:Graphics,Hair,Deactivate}}
 CT-Argonian Headstyles.esp
 % {{BASH:Graphics,Hair,Deactivate}}
 Corean_hair_for_Original_race.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 _Ren_BeautyPack_onlyhairs.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 KDshorthair.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
+Nords With Beards.esp
+% {{BASH:Hair}}
 Saram_Corean_NPC_Hair_1_0.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 ZBRE.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 ZelsHairfixRenshairV1_5.esp
-% {{BASH:Hair,Deactivate}}
+% {{BASH:Hair}}
 \EndGroup\\
 
 \BeginGroup\: Eyes
@@ -13695,7 +13697,7 @@ Bashed Delayers E - MERGE ONLY.esp
 Bashed Delayers NE - MERGE ONLY.esp
 % {{BASH: Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
-CoreRandmonClothing4Npcs.esp
+CoreRandmonClothing4Npcs.esp.
 % {{BASH:Filter,Invent,IIM,Deactivate}}
 Cobl Filter Late MERGE ONLY.esp
 % {{BASH: Filter,Deactivate}}

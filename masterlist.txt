@@ -13708,7 +13708,7 @@ Bashed Delayers E - MERGE ONLY.esp
 Bashed Delayers NE - MERGE ONLY.esp
 % {{BASH: Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
-CoreRandmonClothing4Npcs.esp.
+CoreRandmonClothing4Npcs.esp
 % {{BASH:Filter,Invent,IIM,Deactivate}}
 Cobl Filter Late MERGE ONLY.esp
 % {{BASH: Filter,Deactivate}}

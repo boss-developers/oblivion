@@ -9567,7 +9567,12 @@ Lovers_pkr.esp
 ? Old, update to version 1.3b3 Rev05a or later.
 Lovers with PK.esp
 FUQ Land.esp
+? Old, update to LoversCharactors.esp
+LoversCharactors.esp
+: Beautiful People 2ch-Ed.esm, mpc.esm.
 LoversBorn.esp
+: Beautiful People 2ch-Ed.esm
+: the meshes from 'DskRing' mods, but not the ESPs.
 LoversBrothel.esp
 LoversFOV.esp
 LoversHelpRapeVPlayer.esp
@@ -9578,6 +9583,7 @@ LoversVoiceSound.esp
 LoversAfterVoice.esp
 LoversMpc.esp
 LoversStopCombat.esp
+LoversSpermSplashEx.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp

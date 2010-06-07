@@ -1241,6 +1241,7 @@ OBG - Buechermod - Bilder - BP.esp
 % {{BASH:Graphics}}
 
 aaaBorsBedrolls.esp
+% {{BASH:Invent,Relev}}
 7lbsBedrolls-OBSE.esp
 BorsBedrolls.esp
 Bedrollsanyone.esp
@@ -6524,6 +6525,8 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 imperial armors shop.esp
 Shezrie's Villages.esp
 Imperial City Townhouse.esp
+IC Market District  malachi delacot.esp
+" Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Talos Plaza.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Elven Gardens.esp
@@ -11132,6 +11135,7 @@ SpookyNPCAIModsMerge.esp
 PTActorsCare.esp
 PTDamageFinal.esp
 PTDoorExploitBegone.esp
+PTLessKnockback.esp
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling
@@ -11584,13 +11588,13 @@ Bigger_Dremora-2369.esp
 Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces,R.Teeth,Body-M,Body-F}}
 JJR'sWhiskers and Eyebrow.esp
-% {{BASH:NpcFaces,R.Teeth,}}
+% {{BASH:NpcFaces,R.Teeth}}
 EyelashesVanillaRaces.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
 EyelashesVannilaRaces.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
 EyelashesForVanillaRaces1.0.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
 Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces,NoMerge}}
 Better Redguard v2.esp

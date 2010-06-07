@@ -421,6 +421,12 @@ Colourwheels Sexy Female NPCs Vwalk.esp
 beardy.esp
 % {{BASH:NpcFaces}}
 ChangeSomeCyrodiilLadies.esp
+? Old, update to CSCP.esp.
+% {{BASH:NpcFaces,NoMerge}}
+CSCP.esp
+% {{BASH:NpcFaces,NoMerge}}
+Beautiful Amazon.esp
+: Oscuro's_Oblivion_Overhaul.esm, Beautiful People 2ch-Ed.esm
 % {{BASH:NpcFaces,NoMerge}}
 \EndGroup\\
 
@@ -2182,6 +2188,7 @@ TamrielNPCsTravel.esp
 ? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
 NPCsTravel - NoRandomNpc.esp
 From2ch Lives.esp
+: Beautiful People 2ch-Ed.esm
 
 Populated Prisons.esp
 PCTM.esp
@@ -9071,6 +9078,8 @@ Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
+DropLitTorchesClean.esp
+DropLitTorchesCleanJP.esp
 Druid_Cowl_proper.esp
 DS Less Predictable Respawn.esp
 Alchemy Pocket.esp

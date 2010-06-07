@@ -1853,6 +1853,7 @@ Quick Wardrobe.esp
 \BeginGroup\: Base R
 
 R4C - Dark Regalia.esp
+Raestloz Auto Reset Emotion.esp
 RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
@@ -6282,7 +6283,6 @@ Duke Patricks Dragon and the Sword of Might.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 Duke Patricks Dragon and the Sword of Might Light Version.esp
 ? Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
-Duke Patricks - HammerBlade.esp
 
 DukeCity.esp
 Dungeo Forgotten Tower.esp
@@ -7155,6 +7155,7 @@ Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 Secret Hideout.esp
+Secrets.esp
 Septim Mansion.esp
 Servant of the Dawn.esp
 Servant of the Dawn - FR.esp
@@ -8502,6 +8503,9 @@ bartholm - EE patch.esp
 Bartholm Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
+Duke Patricks - HammerBlade.esp
+? Small land tears if used with UL Lush Woodlands.
+
 Fort Akatosh Redux.esp
 % {{BASH:Relations}}
 Fort Akatosh Redux Vwalk.esp
@@ -9577,7 +9581,7 @@ Eroblivion.esp
 Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
-/don't really know where these should go and I'm not downloading to find out...yuck...if they cause problems users can report better location. (PM)
+SMYB Full.esp
 
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
@@ -12669,6 +12673,7 @@ Rebalanced Races and Birthsigns.esp
 Birthsigns Revamped.esp
 sr_race_balance_tweaks.esp
 Trap.esp
+% {{BASH:R.Attributes-F,R.Attributes-M,R.ChangeSpells,R.Description,R.Relations,R.Skills}}
 Cobl Races - Balanced.esp
 % {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.

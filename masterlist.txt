@@ -969,6 +969,7 @@ Atmospheric Oblivion.esp
 % {{BASH:Scripts}}
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
+Side's EAX Control.esp
 Soundscaper.esp
 al-smm7.esp
 al-smm7-ru.esp
@@ -5069,7 +5070,7 @@ Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
 <Mart's Monster Mod TNR Faces.esp
 <Mart's Monster Mod COBL Races TNR.esp
-<Mart's Monster Mod for OOO.esp
+Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 <Mart's Monster Mod for OOO TNR Faces.esp
@@ -7036,6 +7037,7 @@ OSE - Outlook.esp
 \BeginGroup\: Quests P
 
 ThePaleAdventurer.esp
+ThePaleAdventurer_delayer.esp
 PagesofHistoryDemo.esp
 Pats Business Mod---Shop Version 1.6.esp
 ? Old, update to version 2.0+.
@@ -8238,6 +8240,7 @@ Billsburg-UniqueLandscapes patch.esp
 EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
 ThievesGrotto-ColovianHighlands patch.esp
+DwarvenMines-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
 Unique Landscapes - ChorrolHinterland DV.esp
@@ -8297,6 +8300,7 @@ ForgottenTomb-LostCoast patch.esp
 OrdenULPatchBeachesOfCyrodiil.esp
 ArcaneRising-LostCoast patch.esp
 ShipwreckHome-LostCoast-SutchReborn patch.esp
+DwarvenMines-LostCoast patch.esp
 
 xulbravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -8332,6 +8336,7 @@ Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
+DwarvenMines-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
@@ -12341,6 +12346,8 @@ GG_Valeria_Revived.esp
 GGValeria2_0.esp
 % {{BASH:Hair,Eyes}}
 GG_Vincente.esp
+% {{BASH:Hair,Eyes}}
+GG_Vincente_Revived.esp
 % {{BASH:Hair,Eyes}}
 Haowen.esp
 % {{BASH:Hair,Eyes}}

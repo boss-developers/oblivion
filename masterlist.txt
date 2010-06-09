@@ -574,10 +574,10 @@ DLCShiveringIsles Vwalk DG_DS.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 MOBS.esp
-% {{BASH:Graphics,Stats}}
+% {{BASH:NoMerge,Stats}}
 ? Not need if you use MOBS SI.esp
 MOBS SI.esp
-% {{BASH:Graphics,Stats}}
+% {{BASH:NoMerge,Stats}}
 MOBS Optional Combat Settings.esp
 MOBS SI Optional Combat Settings.esp
 
@@ -696,7 +696,7 @@ FCOM_FrancescosNamedBosses.esp
 
 FranOBSEConfig.esp
 OMOBS_FRAN.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 MrSiikaRabbitsforFrans.esp
 ? Do not use with MMMforFrans. Already integrated.
 \EndGroup\\
@@ -4836,9 +4836,9 @@ Oscuro's_Oblivion_Overhaul Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 OMOBS.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 OMOBS_SI.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 OMOBS_Optionial Combat Settings.esp
 OMOBS Optional Combat Settings.esp
 

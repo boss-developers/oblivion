@@ -1627,6 +1627,7 @@ JQ-TeaSet-DV.esp
 
 \BeginGroup\: Base K
 
+kalikuts_beds_ingame.esp
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
  Katana Store.esp
@@ -2761,6 +2762,7 @@ Chapel Shop.esp
 Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
+Collectible Figurines.esp
 Collectible T-Shirts V1.0.esp
 Collectible T-Shirts V1.1.esp
 Collectible_TShirts_V11.esp
@@ -2953,6 +2955,7 @@ Extra Robe Pack.esp
 extavegant masks.esp
 Elegant Vests.esp
 Elfenwacht.esp
+ElyndasLostDressesHGEC.esp
 Elwing.esp
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
@@ -6015,6 +6018,7 @@ Beautiful Watch.esp
 $ May conflict with OOO/FCOM.
 BeldaElysium.esp
 1209-Beneath The Wall-TESSource.esp
+Benirus Lair.esp
 BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
@@ -6359,6 +6363,7 @@ fishing boat.esp
 TheForbiddenSecret.esp
 Forgotten Chapel.esp
 Forgotten Tower.esp
+Fort Colovia.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
 Fort_Walastar.esp
@@ -7179,6 +7184,7 @@ Sewer_Mansion.esp
 SFSpecialtyContainers.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
+ShadowfangKeep.esp
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
@@ -8079,6 +8085,8 @@ ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
 Rimmen.esp
+RimmenAN.esp
+RimmenMMM.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
@@ -8751,6 +8759,7 @@ JQ-Fighters_Guild_United.esp
 FCOM_FighterGUnited.esp
 : Fighters Guild United.
 
+Chorrol Jewelry Company.esp
 CUO_Chorrol.esp
 CUO_Leyawiin.esp
 
@@ -9237,6 +9246,7 @@ Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance.esp
+Improved Skooma Lab.esp
 Ingredient Storage Shelves.esp
 In_Game_Map.esp
 IS_CaskOfSouls_1.1.esp
@@ -9250,6 +9260,7 @@ Jerall-Pass.esp
 Jerall View Inn upgrade.esp
 JQ-Backpacks.esp
 JQ-Bandages.esp
+JQ-DisplayPedestals.esp
 \EndGroup\\
 
 \BeginGroup\: overrides K

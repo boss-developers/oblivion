@@ -6487,11 +6487,12 @@ hchouse408.esp
 Hedge Home.esp
 HelsethArmor.esp
 Hentai Mania.esp
-% {{BASH:Hair,Invent,Scripts,C.Owner,Delev,Relev}}
+% {{BASH:Hair,Invent,Scripts,C.Owner}}
 >: FCOM_Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 FCOM_Hentai Mania.esp
+% ((BASH:Delev,Factions,Relations,Relev,Stats})
 : Hentai Mania.esp and FCOM
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp

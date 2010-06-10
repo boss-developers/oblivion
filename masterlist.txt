@@ -140,6 +140,7 @@ Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
+? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing.
 BathingMod_Base.esm
 BP EDIT.esm
 Lovers with PK.esm
@@ -6493,7 +6494,7 @@ Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 FCOM_Hentai Mania.esp
-% ((BASH:Delev,Factions,Relations,Relev,Stats})
+% {{BASH:Delev,Factions,Relations,Relev,Stats}}
 : Hentai Mania.esp and FCOM
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
@@ -9621,6 +9622,9 @@ Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
 SMYB Full.esp
+SMYB Female Only.esp
+SMYB Love Female Only.esp
+SMYB Love Full.esp
 
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}

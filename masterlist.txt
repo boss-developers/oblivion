@@ -2087,20 +2087,20 @@ Zedar.esp
 \BeginGroup\: Base Late
 
 Harvest[Containers].esp
-$ Not OOO compatible. Included in OOO. -- However if using the latest ersion and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
+$ Not OOO compatible. Included in OOO. -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 Harvest[Containers] - Vanilla.esp
-$ Not OOO Compatible -- However if using the latest ersion and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
+$ Not OOO Compatible -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 Harvest[Containers] - SI.esp
 Harvest[Containers] - SI - Ore Respawn.esp
 Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - Player Home Add-on.esp
-$ Not OOO compatible. Included in OOO -- However if using the latest ersion and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
+$ Not OOO compatible. Included in OOO -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 DEJ Harvest - Containers [Combo] v0.99.08.esp
 $ Not OOO compatible. Included in OOO.
 Harvest[Containers] - Flat-Top Barrels Add-on.esp
-$ Not OOO compatible. Included in OOO -- However if using the latest ersion and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
+$ Not OOO compatible. Included in OOO -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 Harvest[Containers] - Havok Crates Add-on.esp
-$ Not OOO compatible -- However if using the latest ersion and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
+$ Not OOO compatible -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 DBOO - Harvest[Containers].esp	
 
 Piratelords Trade Fixes.esp
@@ -6955,6 +6955,7 @@ Milewood.esp
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Quests N

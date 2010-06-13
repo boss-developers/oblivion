@@ -1665,6 +1665,7 @@ $ Not OOO compatible - already included in OOO.
 Security Rebalance-Traps and Bash Locks.esp
 Lyn-CitySigns.esp
 Lyn-DarkBrotherhoodAssassins.esp
+Morag Tong Assassins(V1.3).esp
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
 LostTelvanniCodex.esp
@@ -3059,6 +3060,7 @@ Griffon Fortress 0.3.esp
 Griffon Fortress 0.4.esp
 ? Old, upgrade to version 0.5.
 Griffon Fortress 0.5.esp
+Griffon Fortress 6.9.esp
 Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
@@ -3742,6 +3744,7 @@ trfjEmpireGreatsword.esp
 trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
+TS3_Arcanery.esp
 TTB.esp
 Tyrael Armor.esp
 Templer-Armor.esp
@@ -4699,10 +4702,6 @@ Cobl Si.esp
 : Shivering Isles expansion.
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
-OOO 1.32-Cobl.esp
-FCOM_Cobl.esp
-: 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
-? Do not use COBL and Tamerielic Ingredients at the same time.
 Cobl Tweaks.esp
 * Delete. Already included in 'FCOM_COBL.esp'.
 COBL-FransCre.esp
@@ -4819,7 +4818,6 @@ OOOHangoverRemedy.esp
 OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
-OOONoLockBash.esp
 \EndGroup\\
 
 \BeginGroup\: Post OOO
@@ -4854,6 +4852,7 @@ OOO_Arena_Loot.esp
 OOO-Better_Priced_Clutter.esp
 % {{BASH:Stats}}
 OOO CheapWine Vanilla Effects.esp
+OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
@@ -4873,6 +4872,11 @@ ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 Armamentarium SoB Patch.esp
+
+OOO 1.32-Cobl.esp
+FCOM_Cobl.esp
+: 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
+? Do not use COBL and Tamerielic Ingredients at the same time.
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 ? If using MMM or FCOM obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
@@ -6133,6 +6137,7 @@ Chateau_Domrose_V.1.2.1-Fr.esp
 Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
 Castle_Highrock.esp
+Castle Tirith and Tirith Town.esp
 Castle_Veyond.esp
 Castle Volengrad.esp
 CastleHeiLi.esp
@@ -6392,6 +6397,7 @@ FortMalice.esp
 Fort_Krakatus-8431.esp
 Fort Charrish v.1.1.esp
 Fort Baltsine - Combat Version.esp
+Foxlair Estate v2.0.esp
 Fallen_forts-5113.esp
 FortDragonShirev1.esp
 Frostmourne.esp
@@ -6705,6 +6711,7 @@ Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
 JM_safehouse.esp
 JSRandomTasks.esp
+JupiterManor.esp
 \EndGroup\\
 
 \BeginGroup\: Quests K
@@ -6789,6 +6796,7 @@ Lair_of_the_Hydra-4490.esp
 
 \BeginGroup\: Quests L
 
+_lpHameHighRoad.esp
 Land of Hyrule.esp
 Lake Canulus Village.esp
 Lake Rumare Cottage.esp
@@ -7123,6 +7131,7 @@ Ravenrock.esp
 RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
 rebornaylieds.esp
+RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
@@ -7338,6 +7347,7 @@ The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 The Brandy Maker.esp
+TheMountainLodge.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
@@ -7984,6 +7994,7 @@ $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
+HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -9000,6 +9011,7 @@ CDM-Shares and Salaries.esp
 CDM-Rats of Bravil.esp
 Chameleon_Ring.esp
 Cheaper training x5.esp
+City Gates v1.1.esp
 clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
@@ -9183,6 +9195,9 @@ First Person Messages.esp
 $ Not needed if using OOO.
 2nd to 1st person.esp
 $ Not needed if using OOO.
+
+Fiery Arrows v3.3.esp
+Two Fiery Arrows - optional.esp
 
 Flee Further.esp
 Friendly Hits up 20 points.esp
@@ -9477,6 +9492,7 @@ PersuasionOverhaul.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 persuasioncompatable1.8.esp
+PTRetroactiveTraining.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
@@ -9568,6 +9584,7 @@ Sexier Sheogorath DV.esp
 Sexy Dark Seducer & Golden Saint Armour.esp
 
 AAQv1.esp
+AACV1.esp
 Brothel of Cyrodiil.esp
 Brothel of Cyrodiil_ENG.esp 
 Kaleah Sucub.esp
@@ -10271,6 +10288,7 @@ OOO Potions Autocalc.esp
 
 \BeginGroup\: General Spells
 
+Academy 1.02.esp
 Acidon_EnchantmentFixes.esp
 Active_Inventory_Spell_1.2.esp
 AddSpells.esp

@@ -11937,7 +11937,7 @@ Beautiful People 2ch-Ed Disable One Eyed.esp
 Beautiful People 2ch-Ed Disable Saram Hair.esp
 % {{BASH:Hair,Eyes}}
 Beautiful People 2ch-Ed Sheogorath Eye.esp
-% {{BASH:NpcFaces}}
+% {{BASH:NoMerge,NpcFaces}}
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Merged Hair Modules.esp

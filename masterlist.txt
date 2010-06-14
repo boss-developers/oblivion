@@ -903,6 +903,7 @@ NI-Fullcity-Anvilhome.esp
 
 no_wind-2578.esp
 NoWind.esp
+No wind.esp
 \EndGroup\\
 
 \BeginGroup\: Water tweaks
@@ -1964,6 +1965,9 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Sigil_Stone_Spawner-3025.esp
+SimpleHUDClock.esp
+: OBSE
+: Hud version pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll
 SimpleSprinting.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
@@ -2970,6 +2974,7 @@ EY_BM_Armory.esp
 Eyren_AyleidWarrior.esp
 Excalibur2.esp
 Excessor Sword.esp
+Explosives.esp
 Extremly Wet Panties.esp
 \EndGroup\\
 
@@ -6407,6 +6412,7 @@ DUNGEON FortFerrion.esp
 
 Functional Imperial City Lighthouse.esp
 JK_lighthouse.esp
+Waterfront Lighthouse Enhanced.esp
 
 FuseFruitMachine.esp
 FuseSnailRacing.esp

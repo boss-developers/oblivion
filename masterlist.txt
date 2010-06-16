@@ -2432,10 +2432,10 @@ NordFemaleMuscles.esp
 Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}}
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Items (armor and weapons)
@@ -5603,9 +5603,12 @@ EVE_StockEquipmentReplacer4FCOM.esp
 % {{BASH:Graphics,NoMerge}}
 ? For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
+% {{BASH:Graphics,NoMerge}}
 ? For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
 HGEC_special_armor_repl_for_OOO.esp
+% {{BASH:Graphics,NoMerge}}
 EVE_StockEquipmentReplacer4MMM.esp
+% {{BASH:Graphics,NoMerge}}
 ? For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
@@ -6152,8 +6155,11 @@ CalairCastle.esp
 Cannibalism.esp
 Cathedral Improver.esp
 castledarkshard.esp
+CastleEltz.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
+Castle Goldmore.esp
+CastleWestWeald.esp
 CaveOfLostSouls V1.esp
 CaveOfTheLostBattlemages.esp
 CaveMagrand.esp

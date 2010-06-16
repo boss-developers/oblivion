@@ -183,6 +183,8 @@ EarnYourEquipment.esm
 Lamps of Oblivion Master.esm
 morerunes' food collection.esm
 Nec - Extra Mystic Elf Face.esm
+Race Repository.esm
+Flame Atronach Race.esm
 AinmhiRace.esm
 Eluna.esm
 CM Partners.esm
@@ -480,6 +482,7 @@ Umbacana_quest_fix-9117.esp
 ? Possibly fixed in official patch 1.5.11+
 NoNextRankDUMMY_v1.0-RSS.esp
 Bow Crash Fix.esp
+Boethia.esp
 DaedricHelmFIX.esp
 Vampire Eye Fix by Agesofb.esp
 
@@ -978,6 +981,12 @@ al-smm7-ru.esp
 PowerAttack Voicemod.esp
 ? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
 PowerAttack Voicemod - The Shivering Isles.esp
+PTCombatSpeechcraftEasy.esp
+? Use only one PTCombatSpeechcraft esp
+PTCombatSpeechcraftMedium.esp
+? Use only one PTCombatSpeechcraft esp
+PTCombatSpeechcraftHard.esp
+? Use only one PTCombatSpeechcraft esp
 
 Elves Of Lineage II Female Anime Voice.esp
 Diverse Voices (Vanilla).esp
@@ -2823,6 +2832,7 @@ dagger_o_a.esp
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
 DarkBrotherhoodPoison.esp
+Dark Rider Armor.esp
 Dauphni Clothing.esp
 DawnWraith.esp
 DBShadowSet.esp
@@ -4535,6 +4545,7 @@ Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
 FastHorse v03.esp
+Zira's Medieval Horse Clothes.esp
 \EndGroup\\
 
 \BeginGroup\: Pre Overhaul
@@ -4828,6 +4839,8 @@ OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 
 \BeginGroup\: Post OOO
 \''''''''
+
+Boethia_OOO.esp
 
 AMC-OOO.esp
 DBOO.esp
@@ -5785,6 +5798,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
+2.0 Final-Lair of the Hydra.esp
 2423-1.00-Town Armor To House-TESSource.esp
 2HFluch.esp
 300 Regal Imperial City 2.esp
@@ -6069,6 +6083,7 @@ ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
 Black Horse Mail Box.esp
 AW_BHC_HomeDelivery.esp
+Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
@@ -6077,6 +6092,7 @@ Blissful_Dreams.esp
 Blissful_DreamsCOBL.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
+Blood Raven.esp
 BD&R - Laughing Maw.esp
 BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
@@ -6139,6 +6155,8 @@ castledarkshard.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
 CaveOfLostSouls V1.esp
+CaveOfTheLostBattlemages.esp
+CaveMagrand.esp
 Chateau_Domrose_V.1.2.1-Fr.esp
 ? French Version.
 Castle_Dunkerlore_V1.esp
@@ -6990,6 +7008,7 @@ Nanaelas Heartbreak.esp
 NecroHideOut.esp
 NecromancerHunting.esp
 Necromancer Shop.esp
+Necromancer's Tower.esp
 Nerussa The Wine Collector v1.0.esp
 New Imperial City.esp
 ^ Probably incompatible with Better Cities IC components.
@@ -7042,6 +7061,7 @@ NNWARE05-Bawn.esp
 
 \BeginGroup\: Quests O
 OakmoorFarmhouse.esp
+Oblivion 4ever.esp
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
@@ -7106,6 +7126,7 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
+pythanis.esp
 \EndGroup\\
 
 \BeginGroup\: Quests Q
@@ -7150,6 +7171,7 @@ Return Of Shadows.esp
 ReneersContainerMod.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
+Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
@@ -7190,6 +7212,7 @@ Salan's Cellar.esp
 Saldaea.esp
 SamuraiHouse.esp
 SanctumSanctorum.esp
+SandranethTower.esp
 Sanguine.esp
 Sanguinenorob.esp
 Satu Ra - Lord of Beasts.esp
@@ -7346,6 +7369,7 @@ TelValus1pt1c.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+The Horror in the Village of Kuhn Dah.esp
 The Temple of Serpent Race.esp
 Templar Fighters Guild.esp
 CHEAT - TempleofNirn.esp
@@ -7520,6 +7544,7 @@ Varlasel.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiilBC.esp
+Veldin.esp
 Verbesserte Magiergilde.esp
 Versus Dark Brotherhood.esp
 Verwen Brewery.esp
@@ -9581,6 +9606,7 @@ Sagantor's Bloodlust.esp
 Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
+% {{BASH:Names}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
@@ -9792,6 +9818,7 @@ SynchronizedStatueWithPose.esp
 \BeginGroup\: overrides T
 
 tag_NaturalWildlife.esp
+Natural Wildlife - resized.esp
 GP_Natural Wildlife - MMM.esp
 Talk With Your Hands.esp
 Talk with Your Hands2.esp
@@ -11888,6 +11915,7 @@ Ice Elves and Wolf Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Playable Flame Atronach.esp
 Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Slof's Playable Xivilai.esp
@@ -13358,9 +13386,13 @@ _No__persistant_enchantment_glow_fix-1843.esp
 MagicEffectDim.esp
 P1DshieldNoGlow.esp
 [GFX]_Initial_Glow-all.esp
+% {{BASH:Graphics,NoMerge}}
 GFX_Initial_Glow-all.esp
+% {{BASH:Graphics,NoMerge}}
 [GFX]_Initial_Glow-self.esp
+% {{BASH:Graphics,NoMerge}}
 [GFX]_Initial_Glow-creatures.esp
+% {{BASH:Graphics,NoMerge}}
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
 AlterFX.esp
@@ -13780,6 +13812,7 @@ ViconiaChapterTwo Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+UnderdarkSaga.esp 
 UnderdarkMap.esp
 
 Open Cities Road Record.esp

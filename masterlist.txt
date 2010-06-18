@@ -1867,7 +1867,7 @@ Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
-Quest Log Manager.esp  
+Quest Log Manager.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Old, upgrade to V3+
 QQuix - Rock, rock, rock your ship - V3.esp
@@ -2081,6 +2081,7 @@ wd purse of wonders.esp
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
 $ May not be OOO compatible as OOO includes inebriation.
+WhiteGoldTower_Telepad.esp
 Willful Resistance.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
 Wogs!.esp
@@ -4531,6 +4532,7 @@ HorseTurnSpeed-Fastest.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 LadyDeadlock_LoveYourHorse.esp
 horse stay put 1.0.esp
+Legion Horses Armored.esp
 Legion's Horses Armored With Slof's Horse Bases.esp
 % {{BASH:Graphics}} untested.
 MD Saddlebags v3.0 Alternative Trader Script.esp

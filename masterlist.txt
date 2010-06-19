@@ -8134,6 +8134,7 @@ FCC-IC-Talosplaza.esp
 FCC-Bruma.esp
 FCC-Cheydinhal.esp
 
+Hammerfell_HighRock.esp
 Blackmarsh.esp
 Valenwood.esp
 Summerset.esp
@@ -8160,6 +8161,7 @@ ElsweyrAnequinaNoSpiders.esp
 ElsweyrAnequinaFemaleBody.esp
 Rimmen.esp
 RimmenAN.esp
+% {{BASH:Filter,C.Climate,Deactivate}}
 RimmenMMM.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
@@ -13829,6 +13831,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkSaga.esp 
+UnderdarkSaga Vwalk.esp
 UnderdarkMap.esp
 
 Open Cities Road Record.esp

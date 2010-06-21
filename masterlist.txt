@@ -1845,6 +1845,7 @@ Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
 Portable Bedroll.esp
 Portable Campsite.esp
+PotionMixer.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
 P1dSeeYouSleep - Portable Campsite - Quickstart.esp
@@ -5832,6 +5833,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 .LuEmaNarfil Cave of Vampires.esp
 
 [NPC] Sharmina.esp
+__thermae.esp
 \EndGroup\\
 
 \BeginGroup\: Quests A
@@ -9671,25 +9673,31 @@ LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
 LoversRapeman.esp
 LoversVoice.esp
-? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
+? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
 LoversVoiceMinus.esp
-? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' but not both together.
+? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
+LoversVoiceAR.esp
+? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
 LoversVoice_AddRandomDialogues.esp
+: LoversVoice.esp
 LoversAdultPlayPlus.esp
 ? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
 LoversAdultPlay.esp
-? Use either 'LoversAdultPlayPlus.esp' or 'LoversSpringSale.esp' but not both together.
+? Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversSpringSale.esp
-? Use either 'LoversAdultPlayPlus.esp' or 'LoversAdultPlay.esp' but not both together.
+? Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversTachiCat.esp
 ? Obsolete. Use LoversTachiCat2.esp instead.
 LoversTachiCat2.esp
 LoversRaperS.esp
 LoversJoburg.esp
+LoversJoburgCustomizer.esp
 LoversBed.esp
 LoversLandE.esp
 LoversLandE_AddRandomDialogues.esp
+: LoversLandE.esp
 LoversPayBandit.esp
+LoversNTRburglar.esp
 Lovers_NA.esp
 % {{BASH:Hair,Eyes}}
 Lovers_pkr.esp
@@ -9711,8 +9719,10 @@ LoversVoiceSound.esp
 ? Obsolete. Use Lovers with PK.esp instead.
 LoversAfterVoice.esp
 LoversMpc.esp
+? Obsolete. Use mpc.esm version 1.2.3 or later.
 LoversStopCombat.esp
 LoversSpermSplashEx.esp
+LoversMB.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
 sexlivion.esp
@@ -13198,6 +13208,8 @@ HTSCl_tent.esp
 HTSCl_hud.esp
 
 TheOubliette.esp
+Advance Avalon Project.esp
+NRB4+Avalon Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Message suppression overrides
@@ -13942,6 +13954,7 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 Slof's Manly Stride.esp
 SWalk.esp
 no_mouse_wheel.esp
+LoversIdleForceReset.esp
 LoversIdleAnimsPriority.esp
 
 \EndGroup\\

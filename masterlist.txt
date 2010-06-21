@@ -2659,6 +2659,7 @@ Ageha Tortured Soul HGEC.esp
 
 \BeginGroup\: Items B
 
+BAB Cold Steel.esp
 BABnecklacesbykalikut.esp
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
@@ -3732,6 +3733,8 @@ The Butcher.esp
 The Doomed King.esp
 The Dragon Bow.esp
 TheFatherSword.esp
+Conan Swords - Atlantean 2Hand Fur Scabbard.esp
+? TheFatherSword.esp and 1.4TheAtlanteanSword mods included
 TheHolyBlade.esp
 The legendary Archer - EV.esp
 The legendary Archer - DV.esp
@@ -4376,6 +4379,7 @@ R18PN - Bs Bondage.esp
 kunoichi DM Enchanted.esp
 SexyKunoichi.esp
 R18PN - Collection.esp
+R18PN - Schatten lauf Amr.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
@@ -5920,6 +5924,7 @@ AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
 Ancient_Goblin_City-4843.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
+Ancient Ruins - Ayleid Edition.esp
 AncientSource.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
@@ -6295,6 +6300,8 @@ Dancer_Undress0_6.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? The bash tag seems to be ignored by WB 282 - turn off Automatic and set manually
 Sutch Reborn Spawn Patch.esp
+(DC) County Sutch - New Haven.esp
+? it's replace (DC) Sutch Reborn.esp
 
 The Dead Knights.esp
 Deathtrap Dungeon.esp
@@ -7580,6 +7587,8 @@ OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
 Apachii_Goddess_Store_DV.esp
+Apachii_Goddess_Store Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Apachii_Heroes_Store.esp
 VG0HalloweenSpecial.esp
 Vibliribland-4489-Blackrock_Mountain.esp
@@ -8658,6 +8667,9 @@ TheNecromancer-Moriarcis patch.esp
 
 300 Arcane University.esp
 Reaper's Arcane University.esp
+Universitum Arcanorum.esp
+Universitum Arcanorum Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 PersonalPackGuars.esp
 PersonalPackGuars White.esp
 ? Use only one PPG colour esp
@@ -10279,6 +10291,7 @@ Vampirismless Vampires.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
 ? Older version. Consider using version 3 or later.
+Vampirism2.0.esp
 Drokk's Vampire Mod.esp
 % {{BASH:Scripts,Graphics}}
 Circ Vamp Aesthetics.esp
@@ -11127,6 +11140,7 @@ CombatFPSOptimizer.esp
 Oss133FrameRateOptimizer.esp
 Realistic Arrow Flight.esp
 Add-on for Ambidextrie.esp
+seph dual wield.esp
 exhDual_Wield_Complete.esp
 arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
@@ -11698,6 +11712,8 @@ BulkyNord.esp
 BulkyOrcs.esp
 % {{BASH:Body-M,Body-F}}
 EVE_KhajiitFix.esp
+% {{BASH:Body-F}}
+Khajiit Fix.esp
 % {{BASH:Body-F}}
 Mart's Monster Mod - Resized Races.esp
 % {{BASH:Body-M,Body-F,R.Relations}}

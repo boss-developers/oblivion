@@ -4904,6 +4904,15 @@ ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 Armamentarium SoB Patch.esp
 
+John's Leveled List Overhaul.esp
+John's Leveled List Overhaul - Vanilla Armours.esp
+? Don't use with John's Leveled List Overhaul - Vanilla Complete.esp)
+John's Leveled List Overhaul - Vanilla Weapons.esp
+? Don't use with John's Leveled List Overhaul - Vanilla Complete.esp)
+John's Leveled List Overhaul - Vanilla Complete.esp
+? Dont use with either John's Leveled List Overhaul - Vanilla Weapons.esp or John's Leveled List Overhaul - Vanilla Armours.esp)
+
+
 OOO 1.32-Cobl.esp
 FCOM_Cobl.esp
 : 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
@@ -6106,6 +6115,8 @@ Black ocean.esp
 : Knights.esp or download patch from home page of 'Black Ocean' mod
 Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
+BladeSong.esp
+: OBSE 18+, Screen Effects,
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
@@ -11284,6 +11295,7 @@ PTActorsCare.esp
 PTDamageFinal.esp
 PTDoorExploitBegone.esp
 PTLessKnockback.esp
+Unequip Broken Armor.esp
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling
@@ -11710,7 +11722,9 @@ ScriptEffectSubduer.esp
 
 Stat Restore.esp
 
-Arena betting.esp
+Arena betting.es/p
+Useful Houses.esp
+: OBSE & MenuQue
 \EndGroup\\
 
 \BeginGroup\: Beauty Packs & Race Changes\Addons
@@ -11799,9 +11813,9 @@ Soya 4 Hair Pack.esp
 Soya 4 Hair Pack - English.esp
 % {{BASH:Hair}}
 BWs Argonian Hair.esp
-% {{BASH:Graphics,Hair,Deactivate}}
+% {{BASH:Graphics,Hair}}
 CT-Argonian Headstyles.esp
-% {{BASH:Graphics,Hair,Deactivate}}
+% {{BASH:Graphics,Hair}}
 Corean_hair_for_Original_race.esp
 % {{BASH:Hair}}
 _Ren_BeautyPack_onlyhairs.esp

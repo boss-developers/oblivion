@@ -2519,6 +2519,7 @@ alllll61s-Templar armors beta 0.9.esp
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
+AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
@@ -2917,6 +2918,7 @@ DFSL Leathery 4.esp
 DMACArmor.esp
 DMCWeapons.esp
 DMGloves.esp
+DMMagesGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
@@ -3330,6 +3332,7 @@ Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
 Morniel_SpecialItem.esp
 MuffinGoldenDishes.esp
+MWorcisharmor.esp
 mycastle.esp
 mycastle2.esp
 mycastlebugfix.esp
@@ -10223,6 +10226,8 @@ Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
 sr_retroactive_health.esp
 True Retroactive Health v2.2.esp
+? Old update to v3.1+
+True Retroactive Health v3.1.esp
 Level Based Health.esp
 Real Injury.esp
 Bleed Damn You V2.0.esp
@@ -10549,6 +10554,7 @@ ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 sjdDetectArrow.esp
+sleepyunderlings.esp
 Smite of Order.esp
 Special Abilities.esp
 SpellDeflection.esp
@@ -10922,6 +10928,7 @@ Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
+MarcusTheEnchanter.esp 
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp
 : OBSE.
@@ -11774,6 +11781,8 @@ Better Looking Redguards-Mergeable.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards-Mergeable Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Better Looking Wood Elves Vanilla Black Eyes.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
 Smaller Elf ears.esp
@@ -11936,6 +11945,8 @@ Ayleid.esp
 Half-Devil.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Half Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Half Orcs.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Hidden_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -13277,7 +13288,7 @@ Advance Avalon Project.esp
 NRB4+Avalon Patch.esp
 \EndGroup\\
 
-\BeginGroup\: Message suppression overrides
+\BeginGroup\: Message suppression/changing overrides
 \-----------------------------
 \
 \Best loaded late to override possible message additions from other mods.
@@ -13320,6 +13331,7 @@ Zero Annoying Comments and Messages.esp
 ReallyImmersiveMessages.esp
 $ Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
 ReallyImmersiveMessagesNoBirthsigns.esp
+Think to Yourself.esp
 \EndGroup\\
 
 \BeginGroup\: Respawn & day length overrides

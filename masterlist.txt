@@ -564,6 +564,7 @@ Unofficial Shivering Isles Patch-MOBS.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+LightningReduced - Sh_Isles.esp 
 SM Plugin Refurbish - SI.esp
 " 'CDM-CGO Compatibility plugins'.
 Shivering Isles - No Starting Quest Popup.esp
@@ -1081,9 +1082,6 @@ PJs Lightning Strikes - Natural Weather - No Shock Changes.esp
 LightningStrikes.esp
 SnakeLightningSpeed.esp
 % {{BASH:Graphics}}
-
-LightningReduced - Sh_Isles.esp 
-LightningReduced - Razor.esp
 
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
@@ -2371,6 +2369,7 @@ P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
+LightningReduced - Razor.esp
 YX33A Razor Edit.esp
 Correctif MehrunesRazor.esp
 Correctif MehrunesRazor RP.esp

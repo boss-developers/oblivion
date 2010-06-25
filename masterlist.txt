@@ -1082,6 +1082,9 @@ LightningStrikes.esp
 SnakeLightningSpeed.esp
 % {{BASH:Graphics}}
 
+LightningReduced - Sh_Isles.esp 
+LightningReduced - Razor.esp
+
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
 " later versions of Storms & Sound.
@@ -2255,6 +2258,7 @@ Map Marker Overhaul.esp
 Map Marker Overhaul - SI additions.esp
 MapMarkerMax.esp 
 Maps!.esp
+Maps of Cyrodiil.esp
 Landmarks.esp
 $ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells.esp
@@ -2839,6 +2843,7 @@ CasquetteCamisoleX117.esp
 dagger_o_a.esp
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
+Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
 Dauphni Clothing.esp
@@ -3009,6 +3014,8 @@ Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
 FashionAnvil.esp
 FB_Dark_Crusader_01.esp
+% {{BASH:Invent}}
+FB_DC_Mega_Pack_OMOD.esp
 % {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
 Female Steel Armor.esp
@@ -3854,6 +3861,7 @@ Vvardenfell_Imports.esp
 Wands!.esp
 WarriorBandages_V2.0.esp
 WarriorBandages_OOO_V2.0.esp
+Warriors Items.esp
 WarriorsRobe.esp
 Western Armor.esp
 witchkingsword.esp
@@ -7170,6 +7178,7 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
+PT-AyleidSanctum-WithAltars.esp
 pythanis.esp
 \EndGroup\\
 
@@ -9930,6 +9939,7 @@ Unlimited Rings - Shivering Isles.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited Rings 2.0 -auto.esp
 undercover.esp
 UV Vanilla Quest Fixes.esp
 \EndGroup\\
@@ -10103,6 +10113,7 @@ Kobu's Skip Intro Mod.esp
 boh_dungeonbgone.esp
 dungeonbgone.esp
 CDM-New Start.esp
+CMF-New.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
@@ -12214,6 +12225,8 @@ ahtata Ork.esp
 Arabian Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ash Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Ancient Elven Sorcerer - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ancient Elven Sorceress - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

@@ -564,7 +564,6 @@ Unofficial Shivering Isles Patch-MOBS.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
-LightningReduced - Sh_Isles.esp 
 SM Plugin Refurbish - SI.esp
 " 'CDM-CGO Compatibility plugins'.
 Shivering Isles - No Starting Quest Popup.esp
@@ -1082,6 +1081,9 @@ PJs Lightning Strikes - Natural Weather - No Shock Changes.esp
 LightningStrikes.esp
 SnakeLightningSpeed.esp
 % {{BASH:Graphics}}
+
+lightningReduced.esp
+LightningReduced - Sh_Isles.esp 
 
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.
@@ -11784,6 +11786,8 @@ Better Redguard v2.esp
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Better Looking Dremora.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards Vwalk.esp

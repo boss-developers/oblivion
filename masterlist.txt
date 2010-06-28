@@ -572,6 +572,7 @@ Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
 SI Public Music.esp
 % {{BASH:C.Music}}
+LightningReduced - Sh_Isles.esp
 
 DLCShiveringIsles Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -1082,9 +1083,6 @@ PJs Lightning Strikes - Natural Weather - No Shock Changes.esp
 LightningStrikes.esp
 SnakeLightningSpeed.esp
 % {{BASH:Graphics}}
-
-lightningReduced.esp
-LightningReduced - Sh_Isles.esp 
 
 weather inside [seasons] v1.2.esp
 ? Don't use the [silent seasons] version at the same time as the [seasons] version.

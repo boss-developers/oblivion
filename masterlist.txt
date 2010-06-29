@@ -3894,6 +3894,7 @@ ZMP NoError.esp
 \BeginGroup\: Items Late
 
 BleachOverhaul.esp
+GuardTrinkets.esp
 Thieves Arsenal.esp
 : OBSE.
 Thieves_Arsenal_Patch_033010.esp
@@ -5892,6 +5893,7 @@ Adrift.esp
 adTH-druidsdomain.esp
 : COBL and Shivering Isles
 Adventurers farm.esp
+Adventurers Guild.esp
 AGC-TARDISoutside.esp
 ? use either outside for vanilla or inside for open cities
 AGC-TARDISinside.esp
@@ -5946,6 +5948,7 @@ AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
 Ancient_Goblin_City-4843.esp
+Ancient_Goblin_City.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
 Ancient Ruins - Ayleid Edition.esp
 AncientSource.esp
@@ -6146,6 +6149,7 @@ BlackMarshHall.esp
 BlackRockManorV11.esp
 
 Blackrock_Mountain-4489.esp
+Blackrock_Mountain.esp
 5726-2.0 Final-Blackrock Mountain-TESSource.esp
 Bottomless Cavern.esp
 Blacktache's Secrets 3.esp
@@ -6188,6 +6192,7 @@ Campus Village.esp
 Capsized Ship.esp
 CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
+Chatham.esp
 CityofSunevV058.esp
 Colossus_01.esp
 CottageInColoviaV1.6.esp
@@ -6301,6 +6306,7 @@ Dalls_Skingrad.esp
 Dalls_ICHouse.esp
 Dalls_ICHouseTwo.esp
 Dalls_Inheritance.esp
+Dalls_MolagBaal.esp
 Dalls_Merchant.esp
 Dalls Collection.esp
 Dank Dark Cave-Final.esp
@@ -6869,6 +6875,7 @@ EiAmod Vwalk.esp
 KumikoManor.esp
 KEMT.esp
 Lair_of_the_Hydra-4490.esp
+Lair_of_the_Hydra.esp
 5861-2[1].0 Final-Lair of the Hydra-TESSource.esp
 5547-2.0 Final-Lair of the Hydra-TESSource.esp
 \EndGroup\\
@@ -6886,6 +6893,7 @@ Lakeview2.esp
 Lakeview2 DV.esp
 Lakewood Village Ver 2.0.esp
 latexshopstore.esp
+Legends Baleful Eye.esp
 Legion Faction Mod.esp
 % {{BASH:Relations}}
 Love Suite Room.esp
@@ -7450,6 +7458,7 @@ The Black Sacrament.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
+The Gate of Haraldur 12.es
 The Haven Of Weye.esp
 The_Honor_of_Assassins.esp
 The Hunt.esp
@@ -7467,11 +7476,13 @@ The Retreat.esp
 The Siren's Deception.esp
 The Spirit Of The Wolf.esp
 The_Dragon_Citadel-6178.esp
+The_Dragon_Citadel.esp
 TLC2.esp
 TOSP - Loading Screens.esp
 Dragon Citadel & Tower of the Lich King.esp
 
 The_Tower_of_the_Lich_King-4492.esp
+The_Tower_of_the_Lich_King.esp
 5861-2.0 Final-The Tower of the Lich King-TESSource.esp
 5547-2.0 Final-The Tower of the Lich King-TESSource.esp
 
@@ -7505,6 +7516,7 @@ thievery - EE patch.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp
+TolawaylAyleidCity_Quest.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
@@ -11881,6 +11893,10 @@ Cat_eyes.esp
 Cat_eyes_add.esp
 % {{BASH:Eyes}}
 DesuChan's Anime Eyes (Vanilla).esp
+% {{BASH:Eyes}}
+Unique Eyes Selection - DV.esp
+% {{BASH:Eyes}}
+Unique Eyes Selection - EV.esp
 % {{BASH:Eyes}}
 \EndGroup\\
 

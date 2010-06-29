@@ -6776,6 +6776,7 @@ JADImperialApartments03Temple.esp
 Jagnot- Imperial City Library V1.3.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Talos District.
 Jagnot-SI-Bliss Aquaduct House.esp
+Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
@@ -9378,6 +9379,7 @@ Hurt Me Traps.esp
 
 \BeginGroup\: overrides I
 
+IC_BattleMage_Remark_Removed-6373.esp
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
 Visual Health Indication.esp
@@ -9447,6 +9449,7 @@ Light Glass Weapons and Armor.esp
 Lights.esp
 Live at Gweden Farm.esp
 Loot All Armor.esp
+Lootable Merchant Chests.esp
 Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
@@ -11018,6 +11021,7 @@ StealthOverhaul.esp
 Stealth Overhaul.esp
 StealthOverhaul, Cobl.esp
 Deadlier Sneaking 1.1.esp
+Increased_Sneak_Damage-8187.esp
 SneakingRealism_v1_3_2.esp
 Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp

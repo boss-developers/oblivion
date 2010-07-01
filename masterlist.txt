@@ -143,6 +143,7 @@ bookplacing.esm
 ? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing.
 BathingMod_Base.esm
 BP EDIT.esm
+BurningItemsMasterF.esm
 Lovers with PK.esm
 BreakUndies.esm
 CURP_Controller.esm
@@ -7988,6 +7989,8 @@ DLC_MOBS.esp
 MOBS DLCs.esp
 % {{BASH:Stats,NoMerge}}
 
+Dragon Templar.esp
+: Knights of the Nine
 RavDCPOD.esp
 \EndGroup\\
 
@@ -9118,6 +9121,11 @@ TimeWizard.esp
 : OBSE (only if using version 2.1+)
 
 Buried_Treasure.esp
+!BurningItems 0.4.esp
+? Renames a lot of names to Russian so either use older (v0.2) English version or live with those changes
+% {{BASH:Scripts}}
+BurningItems 0.2.esp
+% {{BASH:Scripts}}
 BuyLockpicks.esp
 \EndGroup\\
 
@@ -13580,6 +13588,7 @@ Chameleon-NoRefraction-2411.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 1310-chamelion-norefraction-tessource.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
+Disable_Weapon_Membrane_Shaders-3127.esp
 \EndGroup\\
 
 \BeginGroup\: Shader replacers

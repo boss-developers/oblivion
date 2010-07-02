@@ -5860,6 +5860,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 
 [NPC] Sharmina.esp
 __thermae.esp
+__thermae_CustomVisitor.esp
 \EndGroup\\
 
 \BeginGroup\: Quests A
@@ -9784,6 +9785,8 @@ LoversMpc.esp
 ? Obsolete. Use mpc.esm version 1.2.3 or later.
 LoversStopCombat.esp
 LoversSpermSplashEx.esp
+LoversEscapeRapeVPlayer.esp
+LoversRapeSlave.esp
 LoversMB.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2

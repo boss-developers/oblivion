@@ -2366,7 +2366,7 @@ SM Plugin Refurbish - VileLair.esp
 " 'CDM-CGO Compatibility plugins'.
 NLF VileLair.esp
 Lair_mobs.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
@@ -2380,7 +2380,7 @@ NLF MehrunesRazor.esp
 MOBS MehrunesRazor.esp
 % {{BASH:Stats}}
 Mehrunes_mobs.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -4632,7 +4632,7 @@ DLCThievesDen Vwalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 \EndGroup\\
 
 \BeginGroup\: Overhauls
@@ -7809,7 +7809,7 @@ SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
-% {{BASH:Stats}}
+% {{BASH:NoMerge,Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
 \EndGroup\\

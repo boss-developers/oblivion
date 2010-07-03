@@ -4816,7 +4816,7 @@ G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,Relations,Relev,Scripts,Stats}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 $ Not use with FULL version of OOO, included.
@@ -4968,7 +4968,7 @@ MTCDirtierBandits.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp

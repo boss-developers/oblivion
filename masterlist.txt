@@ -2226,6 +2226,10 @@ PCTM.esp
 
 Immersive Travelers.esp
 
+PTRoamingNPCs.esp
+PTRoamingNPCs Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
 FF_Real_Thirst.esp
 ? Don't use with vampire mods.
 

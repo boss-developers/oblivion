@@ -521,6 +521,7 @@ Oblivion Citadel Door Fix.esp
 ArUderfrykteFix.esp
 MG01-fix.esp
 Primate Rank Fix.esp
+% {{BASH:Factions}}
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
 Permanent Effects from Quest Items fix Merge.esp
@@ -770,6 +771,7 @@ darker nights for shivering isles.esp
 
 Lem - Modified Weather.esp
 
+AWS-Main.esp
 AWS-ShiveringIsles.esp
 AWS Tamed HDR Diverse Thunder.esp
 AWS-Nicer Weather.esp
@@ -778,6 +780,7 @@ AWS-Tweaks PB.esp
 AWS-Longer Nights.esp
 AWS-Shorter Nights.esp
 AWS Merged Tweaks.esp
+AWS-Water.esp
 
 Arthur_Natural_Weather_HDR_by_Max_Tael.esp
 Arthur_ Natural weather with HDR.esp
@@ -1501,6 +1504,7 @@ Buyable Ayldeid Dishes.esp
 ? Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
 
 CT-Com's Torch Compendium.esp
+% {{BASH:Actors.AIData}}
 CT-Backpacks.esp
 Cyrodilic Brandy.esp
 % {{BASH:Graphics,Deactivate}}
@@ -4545,6 +4549,8 @@ qazHorseCommand -horsearmor.esp
 MD_FasterHorseTurning.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Faster_Turning_Horses.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+HorsesTurnFaster.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 HorseTurnSpeed-Faster.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -9343,6 +9349,7 @@ FotM WF Alternative.esp
 FrbitPotionReplacer.esp
 % {{BASH:Graphics,Names,NoMerge}}
 Furniture Prices.esp
+Furniture Repriced.esp
 \EndGroup\\
 
 \BeginGroup\: overrides G
@@ -11229,6 +11236,8 @@ More_Arrows_Recovered.esp
 ? Use Wyre Bash's Bashed Patch Tweaks instead where possible.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
+mighty_bows_arrows_recovery.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 mighty_bows_full.esp
 % {{BASH:Stats}}
 mighty_bows_damage_bonus.esp

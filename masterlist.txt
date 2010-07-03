@@ -6051,6 +6051,8 @@ Automagicon_Cobl.esp
 : COBL
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
+AyranUndercity.esp
+Castle.bedwyr 0.9.1.esp
 AzurasServices_de.esp
 ? German Version
 AzurasServices_en.esp
@@ -6201,6 +6203,7 @@ BXX Tamriel Resource Exchange.esp
 Camp Simplicity.esp
 Campus Village.esp
 Capsized Ship.esp
+
 CaveOfWishcraft 1_1.esp
 Champion's Mansion.esp
 Chatham.esp
@@ -6211,11 +6214,15 @@ CountryHome.esp
 CalairCastle.esp
 Cannibalism.esp
 Cathedral Improver.esp
+Castle Arpenia - Niben Bay.esp
+Castle Arpenia - Gold Coast.esp
 castledarkshard.esp
 CastleEltz.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
 Castle Goldmore.esp
+CastleInTheMountain.esp
+% {{BASH:Invent}}
 CastleWestWeald.esp
 CaveOfLostSouls V1.esp
 CaveOfTheLostBattlemages.esp
@@ -8095,6 +8102,7 @@ The Soul of Ilithiel.esp
 Ilithiel-DE.esp
 
 Ungarion1TheWelkyndSword.esp
+% {{BASH:Actors.Stats,Actors.Class,Actors.Spells,Invent,Scripts}}
 
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}

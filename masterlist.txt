@@ -335,6 +335,9 @@ TNR ALL RACES FINAL.esp
 TNR - ALL RACES FINAL.esp
 ? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces,NoMerge}}
+TNR - ALL RACES FINAL DV.esp
+? Not need if use Cobl Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
 TNR ALL RACES FINAL Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 TNR - All Races for OOO.esp
@@ -553,6 +556,8 @@ Unofficial Shivering Isles Patch.esp
 ? Newest MOBS and non-MOBS versions have the same name.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Delev,Factions,Invent,Names,Relev,Scripts,Stats,Relations}}
 CorrectifSI.esp
+Unofficial Shivering Isles Patch DV.esp
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Delev,Factions,Invent,Names,Relev,Scripts,Stats,Relations}}
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp

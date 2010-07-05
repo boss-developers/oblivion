@@ -3398,7 +3398,6 @@ Nicos Tabaxi Bows.esp
 Nicos Kynareth Archery.esp
 Nicos Gift NPC.esp
 Nicos Gift.esp
-Nighteye Glasses.obse.esp
 Night Knight Armor.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
@@ -10519,6 +10518,7 @@ EnchantmentMastery.esp
 Exit.esp
 Exit_Spell.esp
 Finders Keepers.esp
+Nighteye Glasses.obse.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
@@ -11685,6 +11685,7 @@ zzEstrus.esp
 walklikesheo.esp
 NewAnimation.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Animation - Growlfs Body Resizing Mod.esp
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides

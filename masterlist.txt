@@ -122,6 +122,7 @@ TamrielTravellers.esm
 TamrielTravellers SI.esm
 FCOM_Convergence.esm
 % {{BASH:Delev,Factions,Relations,Relev}}
+Argomirr Mod Variables.esm
 Armamentarium.esm
 % {{BASH:Relev}}
 ArmamentariumFran.esm
@@ -1259,7 +1260,7 @@ SI Clothes.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
-% {{BASH:Graphics,Deactivate}}
+% {{BASH:Graphics}}
 !Book Jackets Oblivion - PL.esp
 OBG - Buechermod - Bilder.esp
 OBG - Buechermod - Bilder - BP.esp
@@ -1303,6 +1304,7 @@ nmDLTIC-1-6.esp
 $ Probably not OOO compatible - drop lit torches already integrated.
 bDLTIC-1-6.esp
 DLTIC-1-6.esp
+Torch Hotkey.esp
 BTMM.esp
 Brighter_Torches.esp
 BrighterTorches_v1.2.esp
@@ -3600,6 +3602,8 @@ Shdw_weapon pack02.esp
 Shields Of Antiquity.esp
 % {BASH:Invent}}
 Shivering Armor Variety.esp
+Shivering Armor Variety - Test.esp
+? Old, upgrade to the release version.
 SCHIFFWHITEMAGEROBE.esp
 Shrouded Armor X.esp
 % {{BASH:Graphics}}
@@ -3729,6 +3733,7 @@ SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
+STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
@@ -5960,6 +5965,8 @@ allinonebasement_COBLnoCM.esp
 Alexandria.esp
 AleswellMerchant Cobl.esp
 AleswellMerchant Cobl SI.esp
+AleswellHomeFree.esp
+AleswellHomeQuest.esp
 Aleswell House.esp
 AyleidMarket.esp
 AyleidQuest.esp
@@ -5967,6 +5974,7 @@ Ayleid Treasury
 Amajor7 Imperial Furniture.esp
 Amaterasu no Yume.esp
 Amen'thalas Well House.esp
+Amen'thalas for Cobl, for SI.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
@@ -6187,6 +6195,7 @@ BogwaterDowns.esp
 Boqwater_Settlement_V103.esp
 Boxworld.esp
 br_anvilchurch.esp
+BravilBridgeCottage.esp
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
 Bravil Docks.esp
@@ -7283,6 +7292,7 @@ Romuska Fantasy Store.esp
 Rosethorn Hall Necrmancy Study.esp
 Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
+RoxeyCottage.esp
 RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
@@ -9401,6 +9411,7 @@ GoresNoTargetMagicGaining-Fast.esp
 GP_Lockpicks.esp
 " MMM Hunting & Crafting.
 Great Gate Essential NPC's.esp
+Grummite Bows.esp
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp
@@ -12258,6 +12269,8 @@ Lattamer.esp
 Chocolate Elves.esp
 : Hairs from Corean mod FULL 1.8
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Chocolate Elves RBP.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IceElfRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 LittleElf.esp
@@ -13412,6 +13425,7 @@ MRP - You find nothing of use.esp
 MRP - You successfully harvest.esp
 Ark's Tutorial Terminator 1.0.esp
 Disable Tutorial Text.esp
+k_Eliminate_Tutorial.esp
 MM_NoMoreAnnoyingMessages.esp
 NoMoreAnnoyingMessages.esp
 MM_NoAnnoyingMessages.esp

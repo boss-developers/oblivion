@@ -2418,7 +2418,7 @@ Correctif SpellTomes.esp
 Book Jackets DLC.esp
 % {{BASH:Graphics,NoMerge}}
 GrimbotsSpellTomes.esp
-% {{BASH:Graphics,Deactivate}}
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Body replacers

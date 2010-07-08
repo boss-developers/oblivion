@@ -1282,6 +1282,7 @@ bgShaderStandAloneEV.esp
 : Wrye Bash if using spell mods.
 Black Screen Sneak Fix.esp
 Black Sheep.esp
+BlackMarket.esp
 Blackpowder_bombs v04.esp
 Books-Battlespire.esp
 Books-Daggerfall.esp
@@ -2537,6 +2538,7 @@ Akavirdownloadpack1.1.esp
 AkatoshHead.esp
 alllll61-Saint Silver armor.esp
 alllll61s-Templar armors beta 0.9.esp
+Alhemy.esp
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
@@ -2860,6 +2862,7 @@ CasquetteCamisoleX117.esp
 \BeginGroup\: Items D
 
 dagger_o_a.esp
+DaggerTB.esp
 Dalls_Blood_Fang.esp
 Dancers clothes.esp
 Dark_Beast_Clothes.esp
@@ -3228,6 +3231,7 @@ morrowindJPbooks.esp
 JQ-Amulets.esp
 JQ-EldarArmour.esp
 JQ-TrekLirpa.esp
+JPainweaver.esp
 JSSoulCrystals_01.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
 jy-Akaviri Helmets.esp
@@ -3760,6 +3764,7 @@ TestShuriken.esp
 TGG- Treasure Placement.esp
 The Bow of Ash.esp
 The Bow of Bones.esp
+TheBowOfBonesRevisited.esp
 The Bow of Daedric Blood.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
@@ -7179,6 +7184,7 @@ Oblivion Wine Overhaul.esp
 Wine Overhaul.esp
 OlauronCastleEn.esp
 OldSchoolDungeons.esp
+Old Ship.es
 OMPexample.esp
 One Stop Magic Shop.esp
 One Stop Armors.esp
@@ -9657,6 +9663,7 @@ OS-foot-HORSE.esp
 
 \BeginGroup\: overrides P
 
+KeyChain.esp
 P1DcandlesForKleptos.esp
 P1DkeyChain.esp
 P1DKeychain for COBL.esp

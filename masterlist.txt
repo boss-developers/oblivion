@@ -1477,6 +1477,7 @@ Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 
 CrimsonScarArmor.esp
+% {{BASH:Invent}}
 crfo.esp
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH:Names,Graphics}}
@@ -3364,6 +3365,7 @@ Mirage_Rosewood.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
 Mithris_HGEC.esp
 mnp Nighteye Goggles.esp
+% {{BASH:Invent}}
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
 Morniel_SpecialItem.esp
@@ -6572,6 +6574,7 @@ GCMansion.esp
 GDS.esp
 Gelden_Halls.esp
 Gems and Gem Dust - Cell Placement.esp
+genetica.esp
 GDSkingradCathedral.esp
 GGShivOBSEv1_1.esp
 Gianna.esp
@@ -6806,6 +6809,7 @@ Improved Skingrad.esp
 " Open Better Cities Complete or Open Better Cities Skingrad components.
 
 IC Atmospheric Shops Mod.esp
+? If not using WB you may have to move this above some item mods (thereby loosing some changes from this) or lose some items from those mods.
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
 ICEXPAND.esp

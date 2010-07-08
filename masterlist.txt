@@ -186,6 +186,7 @@ Lamps of Oblivion Master.esm
 morerunes' food collection.esm
 Nec - Extra Mystic Elf Face.esm
 Race Repository.esm
+Anwolf Race.esm
 Flame Atronach Race.esm
 AinmhiRace.esm
 Eluna.esm
@@ -2294,6 +2295,8 @@ HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
 JQ-PortableSigns.esp
 MapMarkers.esp
+MapMarkers_1C.esp
+MapMarkers_SI_1C.esp
 Map Markers for Explorers & Adventurers.esp
 moremapmarkers.esp
 Nirnroot Completion.esp
@@ -2940,6 +2943,7 @@ Diano.esp
 Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
+DMCDanteClothes.esp
 Dollparts_CorsetsoftheRose.esp
 DFSL Leathery 4.esp
 DMACArmor.esp
@@ -5874,6 +5878,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 300 Regal Imperial City 2.esp
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
+AkaviriStronghold_1C.esp
 300_Artifacts.esp
 300_Caldera Update.esp
 300_Weapons.esp
@@ -5902,6 +5907,7 @@ A Sorceress Love 1_1.esp
 AABTSv1.esp
 Abandoned_Estate.esp
 Abandoned Farm Ground Effects On.esp
+Aberwiin Manor.esp
 ABloodyNight.esp
 AbuEmir01.esp
 : Shivering Isles
@@ -5944,6 +5950,7 @@ AkaviriKojimaTravel.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
+AkerasHouseRu.esp
 A Qrazy Quest.esp
 Alexis_Magiergilde.esp
 Albae+Gefährten.esp
@@ -6250,6 +6257,8 @@ castledarkshard.esp
 CastleEltz.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
+CastleDomroseRu.esp
+CastleEarendil_ru.esp
 Castle Goldmore.esp
 CastleInTheMountain.esp
 % {{BASH:Invent}}
@@ -6315,9 +6324,16 @@ Cliff_PersonalGuildStorageChest.esp
 
 Clintmichs Beautiful Imperial City Arboretum.esp
 ^ Probably incompatible with BC IC Arboretum and similar.
+Clintmichs Beautiful Imperial City Arboretum v1.1.esp
+^ Probably incompatible with BC IC Arboretum and similar.
 Clintmichs Beautiful Arcane University.esp
 ^ Probably incompatible with BC
+The Beautiful Market District.esp
+^ Probably incompatible with BC
 Clintmichs Beautiful Market District v1.3.esp
+^ Probably incompatible with BC
+Clintmichs Beautiful Elven Gardens District v1.0.esp
+? old update to v1.1+
 ^ Probably incompatible with BC
 Clintmichs Beautiful Elven Gardens District v1.1.esp
 ^ Probably incompatible with BC
@@ -6496,6 +6512,7 @@ Eyja Abriael Human Vwalk.esp
 
 FalamirTheMerchant.esp
 FallenTower.esp
+Fallen_Tower_ru.esp
 Fanacasecul.esp
 Farleum V 1.2.esp
 FishermansCottage.esp
@@ -6572,6 +6589,7 @@ Gold Road Cottage - Rugged.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
 Gottshaw.esp
 GP_Moretta.esp
+GP_Moretta_1C.esp
 GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 green market district.esp
@@ -6647,6 +6665,7 @@ Home in Bleakers Way.esp
 Horse Dreamland.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
+HomeInWeyeRu.esp
 Housewives v101.esp
 Hale Housing.esp
 HanstHolm village.esp
@@ -6677,6 +6696,8 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 imperial armors shop.esp
 Shezrie's Villages.esp
 Imperial City Townhouse.esp
+ImpeREAL Empire - Unique Castles.esp
+" Better Cities Full or Better Cities IC components.
 IC Market District  malachi delacot.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Talos Plaza.esp
@@ -6855,6 +6876,7 @@ KarewManor.esp
 Kariba.esp
 Katana Store v2.0.esp
 Kats Better Rosethorn Hall.esp
+Keeper_of_The_Castle_Road.esp
 KendelfordAvon.esp
 Keric.esp
 Keys & Furniture Papers Box.esp
@@ -6980,6 +7002,8 @@ Leyawiin Store Upgrade.esp
 LeyawiinPort-AlphaRelease.esp
 ? Not Better Cities compatible. Already included in Better Cities Leyawiin.
 
+LirialsRetreatRu.esp
+
 Lions Claw harbuor House.esp
 Lions Claw harbuor area.esp
 Listener's Room.esp
@@ -7040,6 +7064,8 @@ Madness' Hideout.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 MakTravellersInn.esp
+MarasTowerRu.esp
+Marion Estate.esp
 Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
 marketway.esp
@@ -7183,6 +7209,7 @@ Oblivion Achievements CORE Version.esp
 Oblivion Wine Overhaul.esp
 Wine Overhaul.esp
 OlauronCastleEn.esp
+OldHideoutRu.esp
 OldSchoolDungeons.esp
 Old Ship.es
 OMPexample.esp
@@ -7192,6 +7219,7 @@ One Stop Armors.esp
 OCC-OSMS-Patch.esp
 OrangeroadCottage.esp
 Orange Road Cabin.esp
+Orange_Road_Manor_ru.esp
 OrderCloudKnights.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
@@ -7435,6 +7463,7 @@ Street Market.esp
 sunk ships.esp
 Ship Wrack.esp
 sinked ship.esp
+Sunburn.esp
 Sunken Fortress.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
@@ -7571,6 +7600,7 @@ thievery - EE patch.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp
+TobesHouseRu.esp
 TolawaylAyleidCity_Quest.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
@@ -7737,6 +7767,7 @@ WinterCabin.esp
 Winterhouse.esp
 Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
+wk_Tree House.esp
 Woodcutters_Cabin.esp
 Woodcutters_Cabin_COBL.esp
 Woodland Village.esp
@@ -9665,6 +9696,7 @@ OS-foot-HORSE.esp
 
 KeyChain.esp
 P1DcandlesForKleptos.esp
+P1DCandlesForKleptos_1C.esp
 P1DkeyChain.esp
 P1DKeychain for COBL.esp
 P1DKeyChainSI.esp
@@ -10259,6 +10291,7 @@ RealisticFatigue-hard.esp
 RealisticRunning.esp
 _EnhancedFatigue_TLB_v0.1.esp
 901--Fixed- max carrying capacity.-TESSource.esp
+Fixed_max_carrying_capacity.esp
 carry_10%_more-3032.esp
 Carry all you want.esp
 Carry_all_you_want-5118.esp
@@ -12502,6 +12535,7 @@ CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp
 CM Garrus.esp
+CM Illona.esp
 CM Tifa A.esp
 CM_Kailinda.esp
 CM_Kailinda Vwalk.esp
@@ -12526,6 +12560,7 @@ CM NOVA.esp
 CM SASHEIRA.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
+CMTorys.esp
 CM Vampire Golbert.esp 
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
@@ -12628,6 +12663,7 @@ ICtemplehealer.esp
 leyawiinthief.esp
 SRJsleepCommandForCSR.esp
 
+DM_LucienCompanion.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}

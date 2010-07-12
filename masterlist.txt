@@ -8915,6 +8915,7 @@ Open Cities Cheydinhal.esp
 Open Cities Chorrol.esp
 Open Cities Leyawiin.esp
 Open Cities Leyawiin Reborn.esp
+? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Skingrad.esp
 Open Cities Outer Districts.esp
 Open Cities Full.esp
@@ -8925,12 +8926,25 @@ Open Cities Full + Bravil Blood & Mud.esp
 Open_Cities_Complete-Leyawiin_Reborn.esp
 % {{BASH:Actors.AIPackages}}
 Open Cities Full + Leyawiin Reborn.esp
+? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
+? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 : Bravil Blood&Mud.
 \EndGroup\\
 
 \BeginGroup\: Open Cities Reborn
 \'''''''''''''''''''''''''''''''
+
+Open Cities Reborn - Anvil.esp
+Open Cities Reborn - Bravil.esp
+Open Cities Reborn - Bruma.esp
+Open Cities Reborn - Cheydinhal.esp
+Open Cities Reborn - Chorrol.esp
+Open Cities Reborn - Leyawiin.esp
+Open Cities Reborn - Skingrad.esp
+
+Open Cities Reborn - Full Merge.esp
+
 \EndGroup\\
 
 \BeginGroup\: Open Cities Patches
@@ -8940,9 +8954,9 @@ Open Cities new script for city doors.esp
 OC+Bravil Docks Patch.esp
 ? Note - Be sure this is being used on Bravil Docks by Greg Simmonds. Will cause a CTD with the wrong file.
 OCC-ABE-LC-Land Patch.esp
-? Obsolete. Now part of OCC v3.0+. Update and delete.
+? Obsolete. Delete this patch.
 OCC-ABE-Patch.esp
-? Obsolete. Now part of OCC v3.0+. Update and delete.
+? Obsolete. Delete this patch.
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
@@ -8957,6 +8971,7 @@ OC+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
 ? Obsolete. Upgrade West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
 Better Benirus Manor OC Patch.esp
+? Not compatible with Open Cities Reborn.
 III-LeyawiinRebornPatch.esp
 DBOO - OpenCitiesFull.esp
 ? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
@@ -14117,14 +14132,20 @@ UnderdarkSaga Vwalk.esp
 UnderdarkMap.esp
 
 Open Cities Road Record.esp
+? Obsolete. Upgrade to Open Cities Classic 3.5+ and then delete this.
+Open Cities Classic Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
 Open Cities LR Road Record.esp
+? Obsolete. Upgrade to Open Cities Reborn and then delete this.
+Open Cities Reborn Road Record.esp
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 Standard Road Record.esp
 : New Roads+Bridges.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 OCLR Road Record.esp
-: New Roads+Bridges and Open Cities Leyawiin Reborn. Use this ESP instead of NRB4 Standard Road Record.esp AND instead of Open Cities LR Road Record.esp AND instead of Open Cities Road Record.esp.
+? Obsolete. Upgrade to New Roads & Bridges 4.5.6+ and delete this.
+NRB4 OCReborn Road Record.esp
+: Open Cities Reborn.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 
 CUMoreDurableArmor.esp

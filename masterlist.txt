@@ -1560,6 +1560,7 @@ DragonStatuesv1.esp
 DropLPUI.esp
 DS Time Manager.esp
 Duke Patricks - Basic Alchemic Immersion.esp
+Duke Patricks - Follow That Actor.esp
 DZ_Hide_Grass.esp
 DoF AutoToggle.esp
 \EndGroup\\
@@ -5991,7 +5992,16 @@ Ayleid Treasury
 Amajor7 Imperial Furniture.esp
 Amaterasu no Yume.esp
 Amen'thalas Well House.esp
+Amen'thalas.esp
 Amen'thalas for Cobl, for SI.esp
+? Rename to Amen'thalas.esp
+Amen'thalas for Cobl, non-SI.esp
+? Rename to Amen'thalas.esp
+Amen'thalas non-Cobl, for SI.esp
+? Rename to Amen'thalas.esp
+Amen'thalas non-Cobl, non-SI.esp
+? Rename to Amen'thalas.esp
+Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
@@ -8087,18 +8097,6 @@ RavDCPOD.esp
 \BeginGroup\: Quests and Locations 3
 \----------------------
 
-Cybiades.esp
-CybiadesDungeon.esp
-cybCrashFix.esp
-CybEasier.esp
-? only use one Cybiades difficulty plugin
-CybHarder.esp
-? only use one Cybiades difficulty plugin
-CybHardest.esp
-? only use one Cybiades difficulty plugin
-Cybiades Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-
 Damarask.esp
 Castle_Knightstone.esp
 ? Remember to use the correct version depending on Knights of the Nine being installed or not.
@@ -8755,6 +8753,18 @@ CastleSeaview-SutchReborn-LostCoast patch.esp
 
 Castle_Wolfspike.esp
 Patch-Wolfspike-UL.esp
+
+Cybiades.esp
+CybiadesDungeon.esp
+cybCrashFix.esp
+CybEasier.esp
+? only use one Cybiades difficulty plugin
+CybHarder.esp
+? only use one Cybiades difficulty plugin
+CybHardest.esp
+? only use one Cybiades difficulty plugin
+Cybiades Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -14168,6 +14178,9 @@ Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter,C.Climate,Deactivate}}
+
+LandMagicPatch.esp
+
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
 
@@ -14333,8 +14346,6 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 
 \BeginGroup\: Last Files
 \''''''''''
-LandMagicPatch.esp
-\Has to go last but before map changing mods.
 MWakeMap.esp
 MergedMaps.esp
 Elsweyr Color Map.esp

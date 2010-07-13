@@ -1,5 +1,7 @@
 [CENTER][U][B]BETTER OBLIVION SORTING SOFTWARE[/B][/U]
 Past Threads:
+[spoiler]
+[url=http://forums.bethsoft.com/index.php?/topic/1096264-boss-better-oblivion-sorting-software/]Thread 21[/url]
 [url=http://forums.bethsoft.com/index.php?/topic/1092188-boss-better-oblivion-sorting-software/]Thread 20[/url]
 [url=http://forums.bethsoft.com/index.php?/topic/1088796-boss-better-oblivion-sorting-software/]Thread 19[/url]
 [url=http://forums.bethsoft.com/index.php?/topic/1085156-boss-better-oblivion-sorting-software/]Thread 18[/url]
@@ -8,6 +10,7 @@ Past Threads:
 [url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1070108]Thread 15[/url]
 [url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1063917]Thread 14[/url]
 [url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1058463]Thread 13[/url]
+[/spoiler]
 
 A simple "one-click" program for users to quickly optimise and avoid detrimental conflicts in their oblivion mod load-order.
 [/CENTER]
@@ -61,7 +64,7 @@ Also delete BOSSlog.txt, modlist.txt and modlist.old if BOSS has been run.
 
 
 [U]TROUBLESHOOTING:[/U]
-
+[spoiler]
 [B]Won't run: Using BOSS version under 1.51:[/B]
 Update to version 1.51
 
@@ -91,7 +94,7 @@ Disable before changing load order.
 [B]A text box flashes up but disappears.[/B]
 
 Run BOSS.bat not BOSS.exe
-
+[/spoiler]
 
 [U]FURTHER DETAILS:[/U]
 
@@ -120,7 +123,7 @@ One of the best ways more experienced users can use BOSS is to edit your own cop
 
 [U]CONTRIBUTIONS AND HELP:[/U]
 
-Questions, suggestions, unrecognised mods and general discussion takes place [URL=http://forums.bethsoft.com/index.php?/topic/1096264-boss-better-oblivion-sorting-software/]HERE[/URL].
+Questions, suggestions, unrecognised mods and general discussion takes place [URL=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]HERE[/URL].
 
 User corrections to the masterlist are vital. Let us know what you know.
 
@@ -176,12 +179,21 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [list]
 [*] Alithelord
 [*] Arthmoor
+[*] jacksonleist
+[*] Mosanger
 [*] PacificMorrowind
 [*] Valda
 [/list]
 
+[B]Source code developers[/B]
+[list]
+[*] Random007
+[*] Alithelord
+[*] Leus
+[*] PacificMorrowind
 
-Project members can be contacted on the Bethesda Game Studios Oblivion (and FO3) modding forum. Most can also be contacted on TesNexus.
+
+Most project members can be contacted on the Bethesda Game Studios Oblivion (and FO3) modding forum. Most can also be contacted on TesNexus.
 
 [U]LICENSE:[/U]
 
@@ -189,14 +201,14 @@ Better Oblivion Sorting Software and periodic updates are distributed under the 
 [LIST]
 [*]BOSS may be copied and distributed freely as long as it is not changed and includes all the original files including this documentation.
 [*]Commercial use of this software or masterlist.txt file is not permitted without permission.
-[*] Publishing derivations and customisations of the program or masterlist.txt file is not permitted without permission. Ask first.
+[*]Publishing derivations and customisations of the program or masterlist.txt file is not permitted without permission. Ask first.
 [/LIST]
 
 [U]QUICK LINKS:[/U]
 
 [URL=http://www.tesnexus.com/downloads/file.php?id=20516]BOSS on TES Nexus[/URL]
 
-[URL=http://forums.bethsoft.com/index.php?/topic/1096264-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum[/URL]
+[URL=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/URL]
 
 [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Masterlist Manager[/url]: A handy MSWord 2007 (and now also 2003) Macro that Surazal wrote up to automatically update and merge the latest version of the masterlist with personal changes you want to make to your copy of the masterlist - very easy and simple to use.
 
@@ -206,4 +218,4 @@ Due to a 200 maximum post limit, a new "official" thread is created periodically
 You must register for free to post messages.
 
 
-[I]Documentation updated 2 April 2010[/I]
+[I]Documentation updated 12 July 2010[/I]

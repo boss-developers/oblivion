@@ -230,6 +230,7 @@ All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
 CustomSpellIcons.esm
+Extended Game Mechanics.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
 PMSneakySummons.esm
@@ -7412,6 +7413,7 @@ Sheo's Quarters (Mania & Dementia Gardens).esp
 ShezriesVillagesCOBL.esp
 ShipInATree.esp
 Shivering Farm.esp
+Shivering isles Extender 0.6.esp
 Shivering Isles Root System.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
@@ -10349,6 +10351,7 @@ carry_more_mod.esp
 LooterWeightMod.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 Extended Game Mechanics.esp
+Extended Game Mechanics Init.esp
 Extended Game Mechanics - Cobl.esp
 kuerteeEatAndSleep.esp
 son-eda.esp
@@ -13935,6 +13938,9 @@ Life Detected - Venting - Tiny - 2.esp
 Life Detected - Enhanced Shader.esp
 Life Detected - OMOD.esp
 lumi_enchantments.esp
+? Use only one lumi_enchantments  esp
+lumi_enchantments_subtle.esp
+? Use only one lumi_enchantments  esp
 Forward Motion Blur.esp
 Get Wet - just droplets.esp
 Get Wet - no droplets.esp

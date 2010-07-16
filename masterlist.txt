@@ -4971,7 +4971,9 @@ John's Leveled List Overhaul - Realm of Amenophis.esp
 John's Leveled List Overhaul - Town Honour Guards.esp
 
 OOO 1.32-Cobl.esp
+% {{BASH:Delev,Invent}}
 FCOM_Cobl.esp
+% {{BASH:Delev,Relev}}
 : 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
 ? Do not use COBL and Tamerielic Ingredients at the same time.
 
@@ -5030,16 +5032,20 @@ MTCDirtierBandits.esp
 >FCOM_EntropicOrderRebalance.esp
 >FCOM_EntropicOrderHardcore.esp
 >FCOM_RealSwords.esp
+% {{BASH:Delev,Relev}}
 >
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
 >FCOM_DurabilityAndDamage.esp
 >
 >FCOM_SpawnRatesReduced.esp
+% {{BASH:Delev,Relev}}
 >? Use only one: Reduced, SlightlyReduced or Stronger.
 >FCOM_SpawnRatesSlightlyReduced.esp
+% {{BASH:Delev,Relev}}
 >? Use only one: Reduced, SlightlyReduced or Stronger.
 >FCOM_SpawnRatesStronger.esp
+% {{BASH:Delev,Relev}}
 >? Use only one: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
 >
@@ -5052,6 +5058,7 @@ MTCDirtierBandits.esp
 >Mart's Monster Mod - Safer Roads.esp
 >* Delete and use the 'FCOM_SaferRoads.esp'.
 >FCOM_SaferRoads.esp
+% {{BASH:Delev,Relev}}
 >Mart's Monster Mod - Less Rats.esp
 >* Delete and use 'FCOM_LessRats.esp'.
 >FCOM_LessRats.esp
@@ -6006,7 +6013,6 @@ Amen'thalas non-Cobl, for SI.esp
 ? Rename to Amen'thalas.esp
 Amen'thalas non-Cobl, non-SI.esp
 ? Rename to Amen'thalas.esp
-Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
@@ -6889,6 +6895,8 @@ OC+Coffeshop Patch.esp
 JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
 ? May have land tearing issues with another mod. Needs research.
+? Old, and has a bug with all shops staying closed, update to v1.3+.
+Jade_Manor V1.30.esp
 JM_safehouse.esp
 JSRandomTasks.esp
 JupiterManor.esp
@@ -7907,6 +7915,7 @@ fpsboost-arenanolights.esp
 
 DLCBattlehornCastle.esp
 DLCBattlehornCastle - Unofficial Patch.esp
+% {{BASH:C.Light,C.Owner}}
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
@@ -8249,6 +8258,7 @@ FCOM_WelkyndSwordBlood&Mud.esp
 : 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
 FCOM_ruin.esp
 FCOM_slofsrobetrader.esp
+% {{BASH:Delev,Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
 % {{BASH:Relations}}
@@ -8611,6 +8621,7 @@ xulArriusCreek.esp
 Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
 UL_Patch_AncientYews_ArriusCreek DV.esp
+Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
 HeartoftheDead-ArriusCreek patch.esp
@@ -9840,7 +9851,7 @@ Sagantor's Bloodlust.esp
 Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
-% {{BASH:Names}}
+% {{BASH:C.Owner,Names,Invent,Factions,Actors.Stats,NPC.class,Actors.AIData,Actors.AIPackages,Graphics}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
@@ -12100,6 +12111,15 @@ Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}}
 Comprehensive Style Collection RM.esp
 % {{BASH:Hair,Eyes}}
+? Old, update to latest version.
+CSC.esp
+% {{BASH:Hair,Eyes}}
+CSC RM.esp
+% {{BASH:Body-M,Hair,Eyes}}
+CSC RM CW.esp
+% {{BASH:Body-M,Hair,Eyes}}
+CSC RM CW EL.esp
+% {{BASH:Body-M,Hair,Eyes}}
 ElaborateEyes-RensBeautyPackFull.esp
 % {{BASH:Hair,Eyes}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
@@ -12983,7 +13003,9 @@ bgMagicDVStartspells.esp
 bgMagicBonus.esp
 bgMagicDVBonus.esp
 bgMagicEVAddEnVar.esp
+% {{BASH:Relev}}
 bgMagicDVAddEnVar.esp
+% {{BASH:Relev}}
 bgMagicEVPaperChase.esp
 bgMagicDVSchnitzeljagd.esp
 bgMagicAlchemy.esp
@@ -13775,7 +13797,9 @@ BadderFrostFX.esp
 BadderShockFX.esp
 BetterExplosions.esp
 bgMagicEVShader.esp
+{{BASH:NoMerge,Graphics}}
 bgMagicDVShader.esp
+{{BASH:NoMerge,Graphics}}
 bgMagicShaderLifeDetect.esp
 kuertee bgMagicEVShader default drain effects.esp
 bgMagicLightningbolt.esp
@@ -14173,18 +14197,25 @@ UnderdarkMap.esp
 
 Open Cities Road Record.esp
 ? Obsolete. Upgrade to Open Cities Classic 3.5+ and then delete this.
+% {{BASH: Roads}} 
 Open Cities Classic Road Record.esp
+% {{BASH: Roads}}
 ? Use only one road record file. Recommend importing into Bashed Patch.
 Open Cities LR Road Record.esp
+% {{BASH: Roads}} 
 ? Obsolete. Upgrade to Open Cities Reborn and then delete this.
 Open Cities Reborn Road Record.esp
+% {{BASH: Roads}} 
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 Standard Road Record.esp
+% {{BASH: Roads}} 
 : New Roads+Bridges.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 NRB4 OCLR Road Record.esp
+% {{BASH: Roads}} 
 ? Obsolete. Upgrade to New Roads & Bridges 4.5.6+ and delete this.
 NRB4 OCReborn Road Record.esp
+% {{BASH: Roads}} 
 : Open Cities Reborn.
 ? Use only one road record file. Recommend importing into Bashed Patch.
 

@@ -4485,6 +4485,8 @@ CDM-Horses.esp
 : Shivering Isles.
 Immortal Horses.esp
 Kylin.esp
+Benjamin the Donkey.esp
+Benjamin the Donkey - small.esp
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
 MD_Saddle_Bags.esp
@@ -8116,6 +8118,19 @@ RavDCPOD.esp
 \BeginGroup\: Quests and Locations 3
 \----------------------
 
+Cybiades.esp
+? Do not use the (same name) compatible esp for UL:Lost; Update to the latest UL:Lost Coast.
+CybiadesDungeon.esp
+cybCrashFix.esp
+CybEasier.esp
+? only use one Cybiades difficulty plugin
+CybHarder.esp
+? only use one Cybiades difficulty plugin
+CybHardest.esp
+? only use one Cybiades difficulty plugin
+Cybiades Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
 Damarask.esp
 Castle_Knightstone.esp
 ? Remember to use the correct version depending on Knights of the Nine being installed or not.
@@ -8529,7 +8544,7 @@ xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6.3 or later.
 Unique Landscapes - Beaches of Cyrodiil DV.esp
 Cybiades-Lost Coast patch.esp
-? Obsolete. Use the correct Cybiades ESP for Lost Coast compatibility.
+? Obsolete. Update to the latest UL:Lost Coast.
 UL_BOC_LostCoast_1.0.esp
 ? Old version. Update to UL:Lost Coast 1.6.3 or higher.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
@@ -8557,7 +8572,7 @@ KragenirsDeathQuest-LostCoast patch.esp
 NNWARE1_Dungeon05ULPatch.esp
 ? Obselete. Upgrade to NNWAREAyleidDungeons series 1+
 Cybiades - UL Beaches of Cyrodiil Patch.esp
-? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - aslo do not use the prepatched version of the Cybiades esp.
+? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - also do not use the prepatched version of the Cybiades esp.
 ForgottenTomb-LostCoast patch.esp
 OrdenULPatchBeachesOfCyrodiil.esp
 ArcaneRising-LostCoast patch.esp
@@ -8777,18 +8792,6 @@ CastleSeaview-SutchReborn-LostCoast patch.esp
 
 Castle_Wolfspike.esp
 Patch-Wolfspike-UL.esp
-
-Cybiades.esp
-CybiadesDungeon.esp
-cybCrashFix.esp
-CybEasier.esp
-? only use one Cybiades difficulty plugin
-CybHarder.esp
-? only use one Cybiades difficulty plugin
-CybHardest.esp
-? only use one Cybiades difficulty plugin
-Cybiades Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -12242,6 +12245,8 @@ Stars_elves.esp
 AinmhiRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dark_Seducer_and_Golden_Saint_Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+DAPlayableTrollRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DemonRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

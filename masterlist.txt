@@ -8183,14 +8183,6 @@ The Lost Spires_delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
-AFK_Weye.esp
-Rumare-AFK_Weye Patch.esp
-Rumare-AFK-Weye Relocation Patch.esp
-Adense AFK_Weye RR Rumare Patch Patcher.esp
-House of Healing at Weye.esp
-Weye.esp
-Healer WEYE_TICS Patch.esp
-
 GuardsofCyrodiil.esp
 % {{BASH:Relations}}
 GoC&RRLR_comp.esp
@@ -8236,6 +8228,14 @@ HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
+AFK_Weye.esp
+Rumare-AFK_Weye Patch.esp
+Rumare-AFK-Weye Relocation Patch.esp
+Adense AFK_Weye RR Rumare Patch Patcher.esp
+House of Healing at Weye.esp
+Weye.esp
+Healer WEYE_TICS Patch.esp
 
 LanternMonastery.esp
 FiveLanterns-HoarfrostCastle patch.esp

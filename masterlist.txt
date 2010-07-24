@@ -2867,7 +2867,6 @@ CasquetteCamisoleX117.esp
 
 dagger_o_a.esp
 DaggerTB.esp
-Dalls_Blood_Fang.esp
 Dancers clothes.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
@@ -2899,8 +2898,10 @@ daedric sky armor.esp
 Daedric Trap Weapons.esp
 Daemon Queen Garb.esp
 Dalls_Anduril.esp
+Dalls_Blood_Fang.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
+Dalls_SkyrimNords.esp
 Dalls_Oni.esp
 DamascusGlamdring.esp 
 % {{BASH:Invent}}
@@ -3078,6 +3079,7 @@ FancyFinery.esp
 
 Galadhrim_DV.esp
 Galadhrim_EV.esp
+Galadhrim_RU.esp
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
 Garaks Seelensteinbeutel + beute.esp

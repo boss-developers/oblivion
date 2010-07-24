@@ -958,6 +958,7 @@ Clear_Water-3763.esp
 Underwater.esp
 Enviroment.esp
 Real Water.esp
+realWaters.esp
 \EndGroup\\
 
 \BeginGroup\: Sound mods
@@ -2349,6 +2350,7 @@ YetAnotherHotkeyMod.esp
 \-----
 
 DLCHorseArmor.esp
+% {{BASH:Actors.ACBS,Scripts}}
 DLCHorseArmor - Unofficial Patch.esp
 
 Marts Monster Mod - DLCHorseArmor+Slof.esp
@@ -2512,6 +2514,7 @@ avarm.esp
 1scorpionshield.esp
 1dragonbonekatana.esp
 1carbonblade.esp
+2masamune.esp
 4431-1.0-wz_Tripwire Test Plugin-TESSource.esp
 \EndGroup\\
 
@@ -2576,6 +2579,7 @@ Arcana Infinium.esp
 Andragorn_Weapons_Armors.esp
 Angel Slayerr.esp
 AngelslayerEN.esp
+Aperture Cube.esp 
 ares-HGEC.esp
 Armblade.esp
 % {{BASH:Invent}}
@@ -2685,6 +2689,9 @@ ArynnsDrowQueen2.0.esp
 Assassins_set.esp
 Angeleron.esp
 Ageha Tortured Soul HGEC.esp
+AxiomSpellTomes1.esp
+AxiomSpellTomes2.esp
+AxiomSpellTomesBeta1.esp
 \EndGroup\\
 
 \BeginGroup\: Items B
@@ -2777,6 +2784,8 @@ Broadswords.esp
 Broadswords_MOBS.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
+Book of Werewolves.esp
+BookCollisionTest.esp 
 Boots of Blinding Speed.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -2785,6 +2794,7 @@ Brigand's Gear.esp
 Burningweapons.esp
 Buster Sword R.esp
 BrivasArmor.esp
+BW Armory.esp
 BWisteria.esp
 \EndGroup\\
 
@@ -3097,6 +3107,7 @@ GemSword.esp
 Ghogiels Armor.esp
 GhostArmor.esp
 GHSamuraiArmor.esp
+Gizmodian - Shell of the Artifice.esp
 Gizmodian - Vicious Heart.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
@@ -5889,7 +5900,6 @@ Anvil Merchant Galley Houseboat v1.0.esp
 101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
-2.0 Final-Lair of the Hydra.esp
 2423-1.00-Town Armor To House-TESSource.esp
 2HFluch.esp
 300 Regal Imperial City 2.esp
@@ -5910,10 +5920,6 @@ AkaviriStronghold_1C.esp
 .LuEmaNarfil Cave of Vampires.esp
 
 [NPC] Sharmina.esp
-__thermae.esp
-__thermae_CustomVisitor.esp
-? Old, update to latest version.
-__thermae_LLCustomizer.esp
 \EndGroup\\
 
 \BeginGroup\: Quests A
@@ -6022,6 +6028,7 @@ Ancient_Islands-4896.esp
 Ancient_Goblin_City-4843.esp
 Ancient_Goblin_City.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
+Vibliribland-4843-Ancient_Goblin_City.esp
 Ancient Ruins - Ayleid Edition.esp
 AncientSource.esp
 ANKRcottage.esp
@@ -6223,7 +6230,7 @@ BHC_Expanded.esp
 Bjornheim.esp
 BlackMarshHall.esp
 BlackRockManorV11.esp
-
+Vibliribland-4489-Blackrock_Mountain.esp
 Blackrock_Mountain-4489.esp
 Blackrock_Mountain.esp
 5726-2.0 Final-Blackrock Mountain-TESSource.esp
@@ -6990,6 +6997,8 @@ Lair_of_the_Hydra-4490.esp
 Lair_of_the_Hydra.esp
 5861-2[1].0 Final-Lair of the Hydra-TESSource.esp
 5547-2.0 Final-Lair of the Hydra-TESSource.esp
+2.0 Final-Lair of the Hydra.esp
+Vibliribland-4490-Lair_of_the_Hydra.esp
 \EndGroup\\
 
 \BeginGroup\: Quests L
@@ -7251,7 +7260,7 @@ OlauronCastleEn.esp
 OlauronCastleRuGE.esp
 OldHideoutRu.esp
 OldSchoolDungeons.esp
-Old Ship.es
+Old Ship.esp
 OMPexample.esp
 One Stop Magic Shop.esp
 One Stop Armors.esp
@@ -7584,7 +7593,7 @@ The Black Sacrament.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists Revolver.esp
-The Gate of Haraldur 12.es
+The Gate of Haraldur 12.esp
 The Haven Of Weye.esp
 The_Honor_of_Assassins.esp
 The Hunt.esp
@@ -7603,6 +7612,7 @@ The Siren's Deception.esp
 The Spirit Of The Wolf.esp
 The_Dragon_Citadel-6178.esp
 The_Dragon_Citadel.esp
+Vibliribland-6178-The_Dragon_Citadel.esp
 TLC2.esp
 TOSP - Loading Screens.esp
 Dragon Citadel & Tower of the Lich King.esp
@@ -7611,6 +7621,7 @@ The_Tower_of_the_Lich_King-4492.esp
 The_Tower_of_the_Lich_King.esp
 5861-2.0 Final-The Tower of the Lich King-TESSource.esp
 5547-2.0 Final-The Tower of the Lich King-TESSource.esp
+Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 
 TheElderCouncil.esp
 TheElderCouncil_TempleOfTheOne.esp
@@ -7627,6 +7638,10 @@ NRB4+ForgottonShields Patch.esp
 TheForgottenShields_delayer.esp
 TheMistRetreat1.3_Optimized.esp
 Thermae.esp
+__thermae.esp
+__thermae_CustomVisitor.esp
+? Old, update to latest version.
+__thermae_LLCustomizer.esp
 TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
 TheUndercity.esp
@@ -7756,11 +7771,6 @@ Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Apachii_Heroes_Store.esp
 VG0HalloweenSpecial.esp
-Vibliribland-4489-Blackrock_Mountain.esp
-Vibliribland-4490-Lair_of_the_Hydra.esp
-Vibliribland-4492-The_Tower_of_the_Lich_King.esp
-Vibliribland-4843-Ancient_Goblin_City.esp
-Vibliribland-6178-The_Dragon_Citadel.esp
 Villages1.1.esp
 Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp
@@ -8621,6 +8631,8 @@ Verwen Brewery UL Ancient Yews Compatable.esp
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
+xulAncientYews 20x8 fix.esp
+? Obsolete, update to latest AY and delete.
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp

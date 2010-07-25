@@ -6460,8 +6460,10 @@ MeteorShowerDiveRock.esp
 
 SkingradHoleInTheWall_COBL_v6.esp
 delivery_job.esp
+" Better Cities 4.6+. Has been integrated into Better Cities as of version 4.6.0.
 Delivery Job - BC.esp
 ? Must deactivate delivery_job.esp if using it. This ESP replaces that file.
+? Obsolete: Now integrated with Better Cities 4.6+. Upgrade and delete this plugin.
 DJZ Archmage's Study.esp
 DJ Markov Manor.esp
 Don't Forget Nirn!.esp
@@ -8198,6 +8200,9 @@ MoreSuburbLife_RTT_patch.esp
 
 TOS - Prelude.esp
 
+CUO_Bravil.esp
+? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
+
 The Lost Spires.esp
 LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
@@ -8485,6 +8490,13 @@ Dschinni Vwalk.esp
 
 Oblivifall - Losing My Religion.esp
 % {{BASH:Hair,Invent,C.Owner,Actors.AIPackages}}
+
+\BeginGroup\: CUO Cities
+\-----------------------
+
+Chorrol Jewelry Company.esp
+CUO_Chorrol.esp
+CUO_Leyawiin.esp
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
@@ -9081,10 +9093,6 @@ JQ-Fighters_Guild_United.esp
 % {{BASH:Invent}}
 FCOM_FighterGUnited.esp
 : Fighters Guild United.
-
-Chorrol Jewelry Company.esp
-CUO_Chorrol.esp
-CUO_Leyawiin.esp
 
 FCOM_UnofficialFranArmorAddon.esp
 : 'Fran Armor Add-on.esp' from 'Unofficial Francesco's Armor'.
@@ -13270,6 +13278,14 @@ BC Skingrad Reduced - EV.esp
 Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp
 Better Cities BRAVIL - Blood & Mud.esp
+Better Cities - CUO Bravil Patch.esp
+? Use only one Better Cities *version* - CUO Bravil Patch.esp
+Better Cities Full - CUO Bravil.esp
+? Use only one Better Cities *version* - CUO Bravil Patch.esp
+Better Cities B&M - CUO Bravil Patch.esp
+? Use only one Better Cities *version* - CUO Bravil Patch.esp
+Better Cities Full B&M - CUO Bravil Patch.esp
+? Use only one Better Cities *version* - CUO Bravil Patch.esp
 BCBravilB&M-Barrowfields patch.esp
 BCBravilB&MFULL-Barrowfields patch.esp
 BCBravilFULL-Barrowfields patch.esp
@@ -13288,11 +13304,21 @@ Better Cities - Anvil Bay Expansion.esp
 
 Better Cities - Chorrol City Defences.esp
 Better Cities CHORROL.esp
+Better Cities - CUO Chorrol Patch.esp
+? Use only one Better Cities *version* - CUO Chorrol Patch.esp
+Better Cities Full - CUO Chorrol Patch.esp
+? Use only one Better Cities *version* - CUO Chorrol Patch.esp
+Better Cities Full B&M - CUO Chorrol Patch.esp
+? Use only one Better Cities *version* - CUO Chorrol Patch.esp
 BCChorrol-ChorrolHinterland fix.esp
+? Obsolete. Use BCChorrol-ChorrolHinterland patch.esp instead.
+% {{BASH:C.Water}}
+BCChorrol-ChorrolHinterland patch.esp
 % {{BASH:C.Water}}
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 Better Cities CHORROL - Werewolf.esp
+
 Better Cities BRUMA - Werewolf.esp
 
 Better Cities - Knightly Armory.esp
@@ -13490,6 +13516,10 @@ Better Imperial City Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Better Imperial City FPS Patch.esp
 ? Only use if using Better Imperial City.esp
+Better Cities - OMG Patch.esp
+? Use only one Better *version* - OMG Patch.esp
+Better Imperial City - OMG Patch.esp
+? Use only one Better *version* - OMG Patch.esp
 Better Cities - Sexlivion_0.4a_Full_English_v1.esp
 Better Cities - Sexlivion.esp
 Better Cities - Stranded Light.esp
@@ -13545,6 +13575,7 @@ Better Cities IC Arcane University FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities IC Arboretum FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
+Better Cities IC Waterfront FPS Patch.esp
 \EndGroup\\
 
 Better Cities - No LEYAWIIN Flooding.esp

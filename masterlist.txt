@@ -2598,6 +2598,7 @@ Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
 Assassin's Creed 2 Revisited.esp
+MODAssassinsCreed2_Revisited.esp
 AC2-Revisited_DV.esp
 AC2 Revisited HGEC.esp
 AC2Gear_HGEC.esp
@@ -4181,6 +4182,7 @@ TGND_Corsets_of_the_Rose.esp
 TGND Fantabulous Formal Dresses.esp
 TGND - Kogane's Ranger Armor.esp
 TGND_LeatherHunterArmour.esp
+TGND_Lingerie_Underwear.esp
 TGND_EY_Vampirehunter.esp
 " EY_Vampirehunter.esp
 TGND Exnem Rogue Outfits.esp
@@ -5754,15 +5756,6 @@ Daggerfall NPCs.esp
 % {{BASH:Delev}} - not yet tested.
 Daggerfall NPCs - MMM Patch.esp
 
-EnchantedGems_Geomancy.esp
-% {{BASH:Scripts}}
-? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
-geomancy.esp
-? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
-TUR_GemDust.esp
-% {{BASH:Scripts}}
-? Similar to OOO and MMM Gems and Gem Dust - is almost certainly incompatible with those. Untested.
-
 AdrenalineOblivion-SupportElements.esp
 AdrenalineOblivion-SpawnElement.esp
 
@@ -5988,6 +5981,7 @@ Albae+Gefährten.esp
 AlchemistForHire.esp
 AleswellHomeQuest.esp
 AL_Maverick.esp
+All New House.esp
 Along Came A Spider.esp
 alto angelos proveing ground.esp
 ALTshack02.esp
@@ -7222,6 +7216,7 @@ NewMGQuests.esp
 NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
+Nightmist Manor.esp
 Nine Divines Robes.esp
 : OBSE
 Nocturne.esp
@@ -10217,6 +10212,15 @@ za_less_NPC_conversations.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late
+EnchantedGems_Geomancy.esp
+% {{BASH:Scripts}}
+? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
+geomancy.esp
+? Similar to OOO and MMM Gems and Gem Dust- is almost certainly incompatible with those. Untested.
+TUR_GemDust.esp
+% {{BASH:Scripts}}
+? Similar to OOO and MMM Gems and Gem Dust - is almost certainly incompatible with those. Untested.
+
 Ayleid Wells.esp
 % {{BASH:Scripts,Scriptcontents}}
 Ayelid Wells.esp
@@ -11007,7 +11011,6 @@ Midas BeastFortify Fix OBSE.esp
 
 Levelled Spell Names.esp
 % {{BASH:Names}}
-AlternativeOblivionMagicSystem.esp
 
 NewEnchantingAndSpellmakingOptions.esp
 
@@ -12157,6 +12160,7 @@ EE-Cosmetic Compilation.esp
 CCR - EE.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 CCR - Capucine.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair,Eyes}}
 Comprehensive Style Collection RM.esp
@@ -13105,6 +13109,7 @@ qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp
 TML_SummonsUnlocked.esp
+AlternativeOblivionMagicSystem.esp
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 2

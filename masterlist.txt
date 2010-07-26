@@ -244,6 +244,8 @@ MALO - MAIN.esm
 Housing_Master.esm
 wz_TripWire.esm
 Oblivifall Master File.esm
+Cure Disease Overhaul - Deadly Diseases (OBSE).esm
+Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1291,6 +1293,7 @@ Books-Battlespire.esp
 Books-Daggerfall.esp
 Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
+FirstEditionGuidetotheEmpire.esp
 BookTrackerOBSE.esp
 Book Collection.esp
 Bookofthedead.esp
@@ -2099,6 +2102,7 @@ Walk to Oblivion.esp
 ? Use Walk to Oblivion - OBSE.esp if you need compatibility with those mods.
 Walk to Oblivion - OBSE.esp
 Walk to Oblivion - OGMMR.esp
+Water Nymphs.esp
 wd purse of wonders.esp
 % {{BASH:Scripts}}
 Weapon Displays V1.9.esp
@@ -7452,6 +7456,7 @@ Shivering isles Extender 0.6.esp
 Shivering Isles Root System.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
+SIPalaceExpansion.esp
 SISewers.esp
 Side's Cheydinhal House.esp
 Side's Cheydinhal House (BathMod).esp
@@ -7866,6 +7871,7 @@ MageGuildTravel.esp
 
 \BeginGroup\: Quests XYZ
 
+XaerthJA.esp
 XendersAngels.esp
 Xereau's Better Travel - Mage's Hub.esp
 
@@ -9499,6 +9505,7 @@ FG_Merchant Inventory Realism V 1_5.esp
 % {{BASH:Invent}}
 FrbitchapelAltars.esp
 
+Female Guards.esp
 FewerOBGates.esp
 Fewer Random Oblivion gates.esp
 FewerGatesUninstall.esp
@@ -9856,6 +9863,7 @@ Realistic Creature Rarity.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RareItemsv1.18 for RCR.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
+ReneerRainMod.esp
 RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
 ReneerAutoTorchMod.esp
@@ -11094,7 +11102,7 @@ PMSneakySummons-ForVanilla.esp
 ? Do not use with PMSneakySummonCompatibility.esp,
 ? to have magic overhaul features move before magic overhauls (but then
 ? you won't get the features of this)
-
+Cure Disease Overhaul – Extreme Diseases.esp
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
 
@@ -11566,6 +11574,7 @@ Phitt's Phighting Phixes.esp
 ? Don't need to use 'PTActorsCare.esp', 'PTDamageFinal.esp', 'PTDoorExploitBegone.esp', 'PTLessKnockback.esp' or NoRunningBackwards mod with this.
 : OBSE 17+
 Unequip Broken Armor.esp
+BFG's Enhanced Armory.esp
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling
@@ -13900,6 +13909,11 @@ BNewShockFunnelEffects20.esp
 BNewShockEffects.esp
 Detect Life Shader.esp
 Detect Life Shader [New].esp
+Detect Life Blue Shader.esp
+Detect Life Cyan Shader.esp
+Detect Life Green Shader.esp
+Detect Life Red Shader.esp
+Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
 Li-Glassphials.esp
 fog.esp

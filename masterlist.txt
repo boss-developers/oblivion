@@ -23,6 +23,8 @@ Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
 Oblivion_SI.esm
 ? A modding esm - do not use in game, deactivate.
+SoVvM.esm
+% {{BASH:NpcFaces,Graphics}}
 MERP Data.esm
 MiddleEarth.esm
 Underdark.esm
@@ -221,8 +223,6 @@ Tabaxi_Race_Default.esm
 x117race.esm
 % {{BASH:Hair}}
 Chanpon.esm
-SoVvM.esm
-% {{BASH:NpcFaces,Graphics}}
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 p2p'sAshDraconian.esm
@@ -1132,6 +1132,10 @@ CampfireBehavior.esp
 better lights.esp
 
 IlluminationWithin.esp
+Illumination Within Rus.esp
+? use only one Illumination Within Rus.esp or Illumination Without Rus.esp
+Illumination Without Rus.esp
+? use only one Illumination Within Rus.esp or Illumination Without Rus.esp
 IWR - Windows.esp
 ? Remember there are also the Retrofitted and Optimised IWR mods.
 IWR - Lights.esp
@@ -1217,6 +1221,7 @@ Adonnays Ranger Coats.esp
 Adult Books.esp
 AdventurersAlchemy.esp
 AEVWD.esp
+Almost Everything VWD.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
 Akatosh Mount Earn The Wyrm.esp
@@ -2822,6 +2827,7 @@ Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
 Chin CatSuit.esp
+CET_Crossbow.esp
 CET_DwemerPrecisionBow_v2.esp
 
 ClassyClothingCompendium.esp
@@ -3232,6 +3238,7 @@ IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 ICVisuals.esp
 Icxth Sword.esp
+Imperial Legion Light Armor.esp
 impguardpalkey.esp
 IP_Magerobes.esp
 % {{BASH:Graphics}}
@@ -3307,6 +3314,7 @@ KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
 Kohdi Ankewan-Anesphar Delayer.esp
 KohdiLessFrustratingArrows.esp
+kolovian_robes.esp
 KORE- Salient Daggers.esp
 Krakens.esp
 Kynareth Armory.esp
@@ -3780,9 +3788,11 @@ STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
+Svetovoimech.esp
 Sword of the Rivan King.esp
 Sword-of-power.esp
 SwordOfTheGods.esp
+Swords of Thought.esp
 \EndGroup\\
 
 \BeginGroup\: Items T
@@ -6218,6 +6228,7 @@ AW_BHC_HomeDelivery.esp
 Black ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
+Black Rock Home.esp
 Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 BladeSong.esp
@@ -6565,6 +6576,7 @@ fishing boat.esp
 TheForbiddenSecret.esp
 Forgotten Chapel.esp
 Forgotten Tower.esp
+Fort BlackBlade.esp
 Fort Colovia.esp
 Fort Ferrion.esp
 Fort_Larsus.esp
@@ -6709,6 +6721,7 @@ FCOM_Hentai Mania.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
+HighwaymanHideway.esp
 HobbitHole.esp
 Holy Cathedral.esp
 Home_1.1a.esp
@@ -7208,6 +7221,8 @@ NecromancerHunting.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
 Nerussa The Wine Collector v1.0.esp
+New Anvil Flora.esp
+^ Probably incompatible with Better Cities Anvil components.
 New Imperial City.esp
 ^ Probably incompatible with Better Cities IC components.
 NewSheothManor.esp
@@ -7593,6 +7608,7 @@ The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 The Brandy Maker.esp
+The Dragon Citadel.esp
 TheMountainLodge.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
@@ -7883,8 +7899,10 @@ Yellow Rose Cottage.esp
 YGShop.esp
 
 ZOMBIES! - 28 days and a bit V2.esp
+BankMod.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
+ZamokVOblakah2.esp
 zDangerSense.esp
 Zergonipilamat.esp
 Zergonipilamat 1_2.esp
@@ -11085,6 +11103,8 @@ Spell Failure Chance.esp
 Fizzle.esp
 
 Jpm's Miniature Necromancy.esp
+? Consider updating to doubledeviant's updated version.
+Jpm's Miniature Necromancy RUS.esp
 ? Consider updating to doubledeviant's updated version.
 Miniature Necromancy Revised.esp
 ? Do not have Jpm's original active at the same time as this.

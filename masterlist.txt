@@ -192,6 +192,7 @@ AinmhiRace.esm
 Eluna.esm
 CM Partners.esm
 CM Partners Mod.esm
+amqGlobals.esm
 Easy_Companion_Share.esm
 mpc.esm
 Toaster Says Share v3.esm
@@ -5823,7 +5824,9 @@ Quelldorf ohne Schiff1.5.esp
 
 AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
+>: FCOM_KvatchAftermath.esp
 FCOM_KvatchAftermath.esp
+: KvatchAftermath.esp
 County Kvatch version 5.2.esp
 (DC) Kvatch Watch Towers.esp
 
@@ -12644,6 +12647,9 @@ CM Partners Extra NPCs.esp
 CM Partners Extra NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners Auto Loot add-on.esp
+amQuests1.esp
+amQuests2.esp
+amQuests.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners Belle.esp

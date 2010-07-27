@@ -5494,6 +5494,7 @@ kuerteeWanderingEncounters.esp
 >Mart's Monster Mod - Diverse Imperial Armor.esp
 >* Delete already integrated into FCOM components, use 'FCOM_DiverseGuardUnity.esp' instead.
 FCOM_DiverseGuardUnity.esp
+% {{BASH:Actors.CombatStyle,Actors.Spells,Invent,Scripts}}
 Choices and Consequences - FCOM - Diverse Guards.esp
 ? Obsolete. Upgrade to latest version and remove.
 FCOM_BobsGuardUnity.esp

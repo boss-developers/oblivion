@@ -1721,6 +1721,7 @@ Ls Rentable Player Homes.esp
 
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
+CParchmagetele.esp
 marksman_challenge.esp
 Medic!.esp
 MeosPotionReplacer.esp
@@ -11207,6 +11208,7 @@ Enchanting Enhanced.esp
 EnchantmentRemoval.esp
 EnchantmentRestore.esp
 EnchantmentRestore_Wells.esp
+Enchantment Splitter.esp
 Enchant Arrows Spells.esp
 Enchant Ripper.esp
 EnchantRegen ArcaneBank.esp
@@ -12070,6 +12072,8 @@ Better Redguard v2.esp
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Better Looking Dark Elves.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Dremora.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards.esp
@@ -12080,6 +12084,8 @@ Better Looking Redguards-Mergeable.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards-Mergeable Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Better Looking Wood Elves Vanilla.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Wood Elves Vanilla Black Eyes.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 BigDunmerEars.esp
@@ -12262,6 +12268,8 @@ Half Elves.esp
 Half Orcs.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Hidden_Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Lima.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp

@@ -3033,6 +3033,7 @@ Echo_MysticShield.esp
 EckoSword.esp
 ElegantVests.esp
 ElementalWeapons.esp
+elgrande_newclothing.esp
 Emperor's Heavy War Armor.esp
 % {{BASH:Invent}}
 Eternal Dragon Armor light.esp
@@ -5943,7 +5944,9 @@ AkaviriStronghold_1C.esp
 
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
+A Blades House.esp
 A Cut Above Hairdressers.esp
+A House on the Isles!!.esp
 A Sneaky Buy 2.1.esp
 A Sorceress Love 1_1.esp
 AABTSv1.esp
@@ -6139,6 +6142,7 @@ Automagicon_Cobl.esp
 : COBL
 AvaiRii_UnderwaterHome.esp
 AyleidArrows.esp
+AyleidHouse.esp
 AyranUndercity.esp
 Castle.bedwyr 0.9.1.esp
 AzurasServices_de.esp
@@ -6278,6 +6282,7 @@ Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
+BravilBridgeCottage.esp
 Break Into the Arcane University.esp
 BrotherhoodRenewed.esp
 % {{BASH:Actors.AIPackages}}
@@ -6285,6 +6290,7 @@ Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 BurySvenjaSnowSong.esp
+Buyabletavern.esp
 BXX_Mines.esp
 BXX Tamriel Resource Exchange.esp
 : OBSE.
@@ -6443,6 +6449,7 @@ DBSRebuiltComplete.esp
 DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
+DarkstarTower.esp
 DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
@@ -6464,10 +6471,12 @@ Del_Skingrad_Garden.esp
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
+DengardKeep.esp
 Der Orden.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
+DFDiveRockHome.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
 Dibella Temple Final.esp
@@ -6519,6 +6528,7 @@ DarkDale.esp
 
 \BeginGroup\: Quests E
 
+Eagle'sNest.esp
 EaglesRest.esp
 eden castle.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
@@ -6530,6 +6540,7 @@ ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 ? Do not use if using ElsweyrAnequina.esp
 Elven_Gardens_Apartment.esp
+ElysianEstate-v1.1.esp
 Emeraldsvale_01c.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
@@ -6556,7 +6567,7 @@ Fireflys Extended Cities Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 EvilLair.esp
 Abriael_Human.esp
-\shouldn't go here but one version of eyja.esp it so :shrug:
+\shouldn't go here but one version of eyja.esp requires it so :shrug:
 BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
 eyja.esp
@@ -6565,6 +6576,7 @@ eyja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Eyja Abriael Human Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+EyjaFaceFixed.esp
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -6607,6 +6619,7 @@ Fort Baltsine - Combat Version.esp
 Foxlair Estate v2.0.esp
 Fallen_forts-5113.esp
 FortDragonShirev1.esp
+Frostheart Manor.esp
 Frostmourne.esp
 Frostmourne-DV.esp
 The Fall of Dagoth Hur 11.esp
@@ -7213,6 +7226,7 @@ mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 MysticAcrhives.esp
+MyTentHome.esp
 \EndGroup\\
 
 \BeginGroup\: Quests N
@@ -7337,6 +7351,7 @@ Pit Trap.esp
 PirateIsland.esp
 Pirates Grave V1.1.esp
 Pirate Ship Home.esp
+PlayerCampsite.esp
 Player House.esp
 PlayerHomeNaheema.esp
 Players with Jobs.esp
@@ -12032,12 +12047,20 @@ Atmospheric Loading Screens - No Text.esp
 No Loading Screen Text v1.0.esp
 Loading Quotes of AWESOME.esp
 
+Alternate Script Effect Icon.esp
+% {{BASH:Graphics}}
 ScriptEffectIconReplace.esp
+% {{BASH:Graphics}}
 M.O.E. - Better Icon for Script Effects.esp
+% {{BASH:Graphics}}
 SciptIcon Replacer.esp
+% {{BASH:Graphics}}
 JOTN script effect replacer.esp
+% {{BASH:Graphics}}
 Script effect - Bash icon.esp
+% {{BASH:Graphics}}
 ScriptEffectSubduer.esp
+% {{BASH:Graphics}}
 
 Stat Restore.esp
 

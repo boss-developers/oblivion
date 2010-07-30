@@ -2217,6 +2217,8 @@ Crowded Roads 23 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Crowded Roads Advanced.esp
 Crowded Roads Advanced less crowded.esp
+CrowdedRoadsAdvanced_LC_1C.esp
+CrowdedRoadsAdvanced_1C.esp
 Crowded Roads Revamped.esp
 Crowded Roads Revisited.esp
 Crowded Roads Revisited_ChorrolCheydinhal_5.esp
@@ -5993,6 +5995,7 @@ Akiviri Imports MOBS.esp
 Akaviri Imports MOBS.esp
 ? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
 AkaviriKojimaTravel.esp
+AkavirLegendsREs.esp
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
@@ -14306,6 +14309,8 @@ Helmet Toggle.esp
 Hemingweys Capes.esp
 ? Don't use Bash's unlimited amulet's tweak with this.
 ? If you're using this with the mod "[b]Beast Characters lose tails no more[/b]", temporarily move it below the Bashed Patch whenever you rebuild it
+HydroClarity.esp
+SIHydroClarity.esp
 Argonians and Khajiit Lose Tails no More Script.esp
 Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 Argonians and Khajiit Lose Tails no More Script - Anwolf.esp

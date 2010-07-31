@@ -513,8 +513,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 Unofficial Oblivion Patch.esp
 ? Recommend installing UOP hotfix for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Music,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag (only exist in older version).
-? Remember to use the 'MOBS' version when using Francesco's or FCOM.
-? Newest MOBS and non-MOBS versions have the same name.
+? For MOBS users, recommend downloading the following standalone MOBS configuration: http://www.tesnexus.com/downloads/file.php?id=28537
 Unofficial Oblivion Patch DV.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag.
 Correctif.esp

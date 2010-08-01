@@ -1,4 +1,5 @@
 [CENTER][U][B]BETTER OBLIVION SORTING SOFTWARE[/B][/U]
+
 Past Threads:
 [spoiler]
 [topic=1107788]Thread 22[/topic]
@@ -13,10 +14,11 @@ Past Threads:
 [topic=1058463]Thread 13[/topic]
 [/spoiler]
 
-A simple "one-click" program for users to quickly optimise and avoid detrimental conflicts in their oblivion mod load-order.
-[/CENTER]
+A simple "one-click" program for users to quickly optimize and avoid detrimental conflicts in their oblivion mod load-order.[/CENTER]
+
 [B]Features:[/B]
-[B][LIST]
+[B]
+[LIST]
 [*]Checks and correctly positions all the mod files involved with an 'FCOM Convergence' installation including partial or complete installations of OOO, MMM, Fran's, Oblivion WarCry, Bob's Armory, Loth's Blunt Weapons (for NPCs), COBL, Tamriel Travellers, Exnem's Runeskulls and so on.
 [*]Correctly positions all the mod files involved with OOO, MMM, Better Cities, Open Cities and other very large mods.
 [*]Supports over 9000 mods and counting.
@@ -26,6 +28,7 @@ A simple "one-click" program for users to quickly optimise and avoid detrimental
 [*] Is mostly right (most of the time)!
 [*] Is under constant development and improvement by a team of modders and Oblivion experts.
 [*] Differentiates between FCOM and non-FCOM set-ups.[/LIST][/B]Better Oblivion Sorting Software (BOSS) will reorder all the mods it knows about (listed in the masterlist.txt database file) and puts ones it doesn't know after. The unknown mods will be in the same order as you had them before running BOSS.
+[/LIST]
 
 BOSS is designed to assist installing FCOM, MMM and a wide variety of other mods and help mod users avoid serious conflicts. It isn’t a complete solution to load ordering issues as there are far too many mods out there (estimated at about 30 thousand). To properly place mods the program doesn’t know about, a good working knowledge of Oblivion mod load ordering is going to be necessary. Some research and documentation reading will go a long way.
 
@@ -44,7 +47,7 @@ There are no official mirrors at this time.
 
 [U]INSTALLATION AND USE:[/U]
 
-1. Backup your load order with ObMM or Wrye Bash.
+1. Backup your load order with OBMM or Wrye Bash.
 
 2. If you have Wrye Bash, make sure it has its "Lock Times" function deactivated.
 
@@ -52,7 +55,7 @@ There are no official mirrors at this time.
 
 The output of the utility will be displayed immediately. Read any notes, FCOM install errors if applicable and/or Wrye Bash Bashed Patch suggestions. Wrye Bash can import suggestions from BOSS and apply them automatically.
 
-You will need to re-order "unknown" mods by hand with ObMM or Wrye Bash.
+You will need to re-order "unknown" mods by hand with OBMM or Wrye Bash.
 
 Wrye Bash automatically integrates BOSS's Bashed Patch suggestions from the masterlist.txt file. Some Bashed Patch suggestion can come with conditions and notes that require human intervention so read the suggestions BOSS makes thoroughly and adjust tags by hand if necessary.
 
@@ -69,7 +72,7 @@ Also delete BOSSlog.txt, modlist.txt and modlist.old if BOSS has been run.
 [B]Won't run: Using BOSS version under 1.51:[/B]
 Update to version 1.51
 
-[B]Won't run: BOSS not extracted (unzipped) to ...\oblivion\data but a sub-folder or the Oblivion folder. [/B]
+[B]Won't run: BOSS not extracted (unzipped) to ...\oblivion\data but a sub-folder or the Oblivion folder.[/B]
 
 All BOSS files must share the same folder as your mods.
 
@@ -78,6 +81,7 @@ Check you have:
 [*]BOSS.exe
 [*]BOSS.bat
 [*]masterlist.txt[/LIST]in your ...\oblivion\data folder.
+[/LIST]
 
 [B]Won't change load order: OS is Vista and Oblivion is installed in Program Files.[/B]
 
@@ -105,7 +109,7 @@ The only thing this tool does is re-date files and create a couple of text files
 
 Oblivion.esm is never touched and all file dates are derived from it.
 
-The program archive contains masterlist.txt which is, obviously, the master list of mods the program recognises and is the most frequently updated component of BOSS.
+The program archive contains masterlist.txt which is, obviously, the master list of mods the program recognizes and is the most frequently updated component of BOSS.
 
 The output for the user to read is called BOSSlog.txt and is saved as a text file and displayed by Window's default text file handling program once BOSS has finished re-dating files.
 
@@ -117,22 +121,26 @@ The changes BOSS makes can be undone in the following way:
 [*]Rename midlist.txt to masterlist.txt .
 [*] Run BOSS.bat .
 [*] Delete masterlist.txt .
-[*] Rename masterlist.old to masterlist.txt .[/LIST]If modlist.txt already exists (when you run the program for the second time or more), it will be renamed to modlist.old before a new modlist.txt file is created. This gives you two levels of undo.
+[*] Rename masterlist.old to masterlist.txt .
+[/LIST]
+
+If modlist.txt already exists (when you run the program for the second time or more), it will be renamed to modlist.old before a new modlist.txt file is created. This gives you two levels of undo.
 
 One of the best ways more experienced users can use BOSS is to edit your own copy of masterlist.txt and include there any mods not listed. You can "merge" in new updates with the excellent free open-source WinMerge software. http://www.winmerge.org
 
 
 [U]CONTRIBUTIONS AND HELP:[/U]
 
-Questions, suggestions, unrecognised mods and general discussion takes place [URL=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]HERE[/URL].
+Questions, suggestions, unrecognized mods and general discussion takes place [URL=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]HERE[/URL].
 
 User corrections to the masterlist are vital. Let us know what you know.
 
-Lists of unrecognised mods are welcome but the only way we can include them in the database in a timely way is if we get: 
+Lists of unrecognized mods are welcome but the only way we can include them in the database in a timely way is if we get: 
 [LIST=1]
 [*]The ESP/ESM file name(s) and 
 [*] A link to where the description, download or readme can be found to read or download. 
-[*] A brief description of each mod will also help. Feel free to make load order suggestions.[/LIST]
+[*] A brief description of each mod will also help. Feel free to make load order suggestions.
+[/LIST]
 
 
 [U]UPDATES:[/U]
@@ -143,7 +151,7 @@ Files on Nexus are updated once a week or so. Always use latest dated files.
 
 [U]ADDITIONAL FILES:[/U]
 
-FCOM-only masterlist.txt database file. Using it instead of the normal one will move all FCOM files to the start in the correct order (and check for problems, show comments as usual) but leave all other mods' load order the same as before running BOSS. Useful for troubleshooting purposes and useful to anyone who wants to keep their existing mod load order then add FCOM and finalise everything by hand. This file is getting a very old but it does the job (sortof).
+FCOM-only masterlist.txt database file. Using it instead of the normal one will move all FCOM files to the start in the correct order (and check for problems, show comments as usual) but leave all other mods' load order the same as before running BOSS. Useful for troubleshooting purposes and useful to anyone who wants to keep their existing mod load order then add FCOM and finalize everything by hand. This file is getting a very old but it does the job (sortof).
 
 
 [U]CREDITS:[/U]
@@ -157,7 +165,7 @@ Thanks go to Wrye for implementing the importing of BOSS's Bashed Patch tag sugg
 
 BOSS since the middle of 2009 been a collaborative project on Google Code using the SVN version tracking and editing engine.
 
-[B]Google Code Administrators: [/B]
+[B]Google Code Administrators:[/B]
 [list]
 [*] Arthmoor
 [*] PacificMorrowind
@@ -165,7 +173,7 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [*] WrinklyNinja
 [/list]
 
-[B] Oblivion Masterlist Developers:[/B]
+[B]Oblivion Masterlist Developers:[/B]
 [list]
 [*] Alithelord
 [*] Arthmoor
@@ -178,7 +186,7 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [*] ZiggyX
 [/list]
 
-[B] FO3 Masterlist Developers[/B]
+[B]FO3 Masterlist Developers:[/B]
 [list]
 [*] Alithelord
 [*] Arthmoor
@@ -188,7 +196,7 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [*] Valda
 [/list]
 
-[B]Source code developers[/B]
+[B]Source Code Developers:[/B]
 [list]
 [*] Random007
 [*] Alithelord
@@ -203,10 +211,11 @@ Most project members can be contacted on the Bethesda Game Studios Oblivion (and
 [U]LICENSE:[/U]
 
 Better Oblivion Sorting Software and periodic updates are distributed under the [URL=http://creativecommons.org/licenses/by-nc-nd/3.0]Creative Commons Attribution Noncommercial No Derivative Works 3.0 Unported[/URL] copyright license, some rights reserved, 2009-2010. Copyright is owned wholly by the Better Oblivion Sorting Software development team (see list of project members).
+
 [list]
 [*]BOSS may be copied and distributed freely as long as it is not changed and includes all the original files including this documentation.
 [*]Commercial use of this software or masterlist.txt file is not permitted without permission.
-[*]Publishing derivations and customisations of the program or masterlist.txt file is not permitted without permission. Ask first.
+[*]Publishing derivations and customizations of the program or masterlist.txt file is not permitted without permission. Ask first.
 [/list]
 
 [U]QUICK LINKS:[/U]
@@ -217,10 +226,8 @@ Better Oblivion Sorting Software and periodic updates are distributed under the 
 
 [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Masterlist Manager[/url]: A handy MSWord 2007 (and now also 2003) Macro that Surazal wrote up to automatically update and merge the latest version of the masterlist with personal changes you want to make to your copy of the masterlist - very easy and simple to use.
 
-
 Due to a 200 maximum post limit, a new "official" thread is created periodically (with the end of one thread providing a link to the next) so the link provided may refer to an old thread by the time you read this. Just navigate your way through to the latest thread to post a message.
 
 You must register for free to post messages.
-
 
 [I]Documentation updated 01 August 2010[/I]

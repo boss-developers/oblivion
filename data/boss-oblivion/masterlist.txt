@@ -14379,27 +14379,27 @@ UnderdarkMap.esp
 
 Open Cities Road Record.esp
 ? Obsolete. Upgrade to Open Cities Classic 3.5+ and then delete this.
-% {{BASH: Roads}} 
+% {{BASH: Deactivate,Roads}}
 Open Cities Classic Road Record.esp
-% {{BASH: Roads}}
-? Use only one road record file. Recommend importing into Bashed Patch.
+% {{BASH: Deactivate,Roads}}
+? Use only one road record file.
 Open Cities LR Road Record.esp
-% {{BASH: Roads}} 
+% {{BASH: Deactivate,Roads}}
 ? Obsolete. Upgrade to Open Cities Reborn and then delete this.
 Open Cities Reborn Road Record.esp
-% {{BASH: Roads}} 
-? Use only one road record file. Recommend importing into Bashed Patch.
+% {{BASH: Deactivate,Roads}}
+? Use only one road record file.
 NRB4 Standard Road Record.esp
-% {{BASH: Roads}} 
+% {{BASH:Deactivate,Roads}}
 : New Roads+Bridges.
-? Use only one road record file. Recommend importing into Bashed Patch.
+? Use only one road record file.
 NRB4 OCLR Road Record.esp
-% {{BASH: Roads}} 
+% {{BASH: Deactivate,Roads}}
 ? Obsolete. Upgrade to New Roads & Bridges 4.5.6+ and delete this.
 NRB4 OCReborn Road Record.esp
-% {{BASH: Roads}} 
+% {{BASH: Deactivate,Roads}}
 : Open Cities Reborn.
-? Use only one road record file. Recommend importing into Bashed Patch.
+? Use only one road record file.
 
 CUMoreDurableArmor.esp
 Bashed Delayers - MERGE ONLY.esp

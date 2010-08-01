@@ -1,16 +1,16 @@
 [CENTER][U][B]BETTER OBLIVION SORTING SOFTWARE[/B][/U]
 Past Threads:
 [spoiler]
-[url=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]Thread 22[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1096264-boss-better-oblivion-sorting-software/]Thread 21[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1092188-boss-better-oblivion-sorting-software/]Thread 20[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1088796-boss-better-oblivion-sorting-software/]Thread 19[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1085156-boss-better-oblivion-sorting-software/]Thread 18[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1081475-boss-better-oblivion-sorting-software/]Thread 17[/url]
-[url=http://forums.bethsoft.com/index.php?/topic/1074965-boss-better-oblivion-sorting-software/]Thread 16[/url]
-[url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1070108]Thread 15[/url]
-[url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1063917]Thread 14[/url]
-[url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1058463]Thread 13[/url]
+[topic=1107788]Thread 22[/topic]
+[topic=1096264]Thread 21[/topic]
+[topic=1092188]Thread 20[/topic]
+[topic=1088796]Thread 19[/topic]
+[topic=1085156]Thread 18[/topic]
+[topic=1081475]Thread 17[/topic]
+[topic=1074965]Thread 16[/topic]
+[topic=1070108]Thread 15[/topic]
+[topic=1063917]Thread 14[/topic]
+[topic=1058463]Thread 13[/topic]
 [/spoiler]
 
 A simple "one-click" program for users to quickly optimise and avoid detrimental conflicts in their oblivion mod load-order.
@@ -158,14 +158,15 @@ Thanks go to Wrye for implementing the importing of BOSS's Bashed Patch tag sugg
 BOSS since the middle of 2009 been a collaborative project on Google Code using the SVN version tracking and editing engine.
 
 [B]Google Code Administrators: [/B]
-[LIST]
+[list]
 [*] Arthmoor
 [*] PacificMorrowind
 [*] Random007
-[*] WrinklyNinja[/LIST]
+[*] WrinklyNinja
+[/list]
 
 [B] Oblivion Masterlist Developers:[/B]
-[LIST]
+[list]
 [*] Alithelord
 [*] Arthmoor
 [*] PacificMorrowind 
@@ -174,7 +175,8 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [*] Tokc/Tokc.D.K.
 [*] Vacuity 
 [*] WrinklyNinja
-[*] ZiggyX[/LIST]
+[*] ZiggyX
+[/list]
 
 [B] FO3 Masterlist Developers[/B]
 [list]
@@ -192,6 +194,8 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [*] Alithelord
 [*] Leus
 [*] PacificMorrowind
+[*] WrinklyNinja
+[/list]
 
 
 Most project members can be contacted on the Bethesda Game Studios Oblivion (and FO3) modding forum. Most can also be contacted on TesNexus.
@@ -199,11 +203,11 @@ Most project members can be contacted on the Bethesda Game Studios Oblivion (and
 [U]LICENSE:[/U]
 
 Better Oblivion Sorting Software and periodic updates are distributed under the [URL=http://creativecommons.org/licenses/by-nc-nd/3.0]Creative Commons Attribution Noncommercial No Derivative Works 3.0 Unported[/URL] copyright license, some rights reserved, 2009-2010. Copyright is owned wholly by the Better Oblivion Sorting Software development team (see list of project members).
-[LIST]
+[list]
 [*]BOSS may be copied and distributed freely as long as it is not changed and includes all the original files including this documentation.
 [*]Commercial use of this software or masterlist.txt file is not permitted without permission.
 [*]Publishing derivations and customisations of the program or masterlist.txt file is not permitted without permission. Ask first.
-[/LIST]
+[/list]
 
 [U]QUICK LINKS:[/U]
 
@@ -219,4 +223,4 @@ Due to a 200 maximum post limit, a new "official" thread is created periodically
 You must register for free to post messages.
 
 
-[I]Documentation updated 12 July 2010[/I]
+[I]Documentation updated 01 August 2010[/I]

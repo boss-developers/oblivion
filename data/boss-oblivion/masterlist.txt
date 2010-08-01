@@ -2536,6 +2536,7 @@ avarm.esp
 \BeginGroup\: Items A
 
 A_Simple_Ring-8333.esp
+A Study of the Shemayle Book Series.esp
 AAbuiesdaqun.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -2571,6 +2572,7 @@ AyleidMeteorIronWeaponsBASE.esp
 Ayleid Artifacts.esp
 Ayleid Kings Armor.esp
 Ancient Aylied elven armors.esp
+ancient_blades_armor.esp
 Ancient Silver Armor.esp
 Ancient Silver Elven Armor.esp
 AngelicArmor.esp
@@ -3003,6 +3005,7 @@ DarkMithril.esp
 Deceiver's Armour.esp
 Divine Armor.esp
 DM-Elite Witch.esp
+d0dge182s_Golden_Saint__Dark_Seducer_Armor_and_Weapons.esp
 DraconicSet.esp
 HGEC_Draconic_Armor.esp
 Dragon Buster.esp
@@ -6538,6 +6541,7 @@ eden castle.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
 Egainjo Manor.esp
 EirikWythringSpellmaker.esp
+EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
 ElsweyrRiverhold.esp
@@ -6709,6 +6713,7 @@ Hand of Dawn.esp
 Hand of Dawn - ONE.esp
 Harpsichords in Cyrodiil.esp
 Hau'oli Paena.esp
+Haunted Abandoned Manor.esp
 HauntedHouse v1.3.esp
 % {{BASH:Invent}}
 ? Version 1.5 is available.
@@ -7230,6 +7235,7 @@ mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 MysticAcrhives.esp
+My Farm House.esp
 MyTentHome.esp
 \EndGroup\\
 
@@ -12293,6 +12299,10 @@ AsianElves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Dark Seducer Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Golden Saint Race.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 PlayableSheogorathMod.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 PlayableSheogorathModOptionalIcon.esp
@@ -13998,6 +14008,7 @@ Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
 Li-Glassphials.esp
 fog.esp
+RedBag - Fog.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
 ? Only activate one Life Detected esp at a time.
@@ -14588,6 +14599,8 @@ Duke Patricks Script Effect Silencer Gold Edition.esp
 ? Old. Upgrade to latest version.
 % {{BASH:Sound,Graphics}}
 Duke Patricks - BASIC Script Effect Silencer.esp
+% {{BASH:Sound,Graphics}}
+Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 % {{BASH:Sound,Graphics}}
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
 ? Old. Upgrade to latest version.

@@ -5892,6 +5892,8 @@ TamrielTransportationNetwork Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ShiveringIslesTransportationNetwork.esp 
 
+EM_CompInnsleeping.esp
+
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
 Cyrodiil Border Regions 1.2.esp
@@ -8693,6 +8695,7 @@ OrdenULPatchBravilBarrowfields.esp
 Tales Elsweyr Anq Bravil Barrowfields Patch.esp
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
+BravilBridgeCottage + Barrowfields Patch.esp
 
 xulLushWoodlands.esp
 Unique Landscapes - Lush Woodlands DV.esp
@@ -12851,8 +12854,9 @@ Arwen companion.esp
 Audrey companion.esp
 Baddy.esp
 ? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
-Arren.esp
 Baddy-EntiusGorge patch.esp
+Arren.esp
+Arren-EntiusGorge patch.esp
 Badmagic - Amazon Nord 02.esp
 Cog-Rein.esp
 CompanionMaster.esp

@@ -118,7 +118,7 @@ The program generates a text file called modlist.txt which is your list of mods 
 The changes BOSS makes can be undone in the following way:
 [LIST=1]
 [*]Rename masterlist.txt to masterlist.old (or any temporary name).
-[*]Rename midlist.txt to masterlist.txt .
+[*]Rename modlist.txt to masterlist.txt .
 [*] Run BOSS.bat .
 [*] Delete masterlist.txt .
 [*] Rename masterlist.old to masterlist.txt .
@@ -222,7 +222,7 @@ Better Oblivion Sorting Software and periodic updates are distributed under the 
 
 [URL=http://www.tesnexus.com/downloads/file.php?id=20516]BOSS on TES Nexus[/URL]
 
-[URL=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/URL]
+[URL=http://forums.bethsoft.com/index.php?/topic/1107788-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/URL]
 
 [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Masterlist Manager[/url]: A handy MSWord 2007 (and now also 2003) Macro that Surazal wrote up to automatically update and merge the latest version of the masterlist with personal changes you want to make to your copy of the masterlist - very easy and simple to use.
 

@@ -3852,6 +3852,8 @@ tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
 tona_traveling_items.esp
 tona_whitesquall-armor_ver2.esp
+Town Guard Armor Replacers.esp
+% {{BASH:Graphics}}
 TripleArrows_1C.esp
 TreasuresOfTyrV10.esp
 Tribute armor.esp
@@ -4596,6 +4598,8 @@ Mounted_Trampling.esp
 HorseCommands.esp
 HorseCommandsv2.esp
 kuerteeHorseCommands.esp
+CallMount.esp
+CallMountStableMaster.esp
 Command Mount.esp
 NV Imperial Guard Horse Armour.esp
 % {{BASH:Graphics}}
@@ -10079,9 +10083,6 @@ M.O.E. - Alternative Script Effect Icon II.esp
 sgLighterQuivers.esp
 Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
-Short Grass V2.esp
-Short Grass V3.esp
-Short_Grass-2044.esp
 SetsunaDummyTraining.esp
 Sexual_Spriggan.esp
 ? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
@@ -10097,6 +10098,9 @@ Enhanced Vegetation [125%].esp
 ? Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [150%].esp
 ? Use only one Enhanced Vegetation plugin.
+Short Grass V2.esp
+Short Grass V3.esp
+Short_Grass-2044.esp
 
 Side's Backpacks.esp
 % {{BASH:Invent}}
@@ -10267,6 +10271,7 @@ Werewolf-Legends.esp
 Werewolf-Legends_DV.esp
 Wrye Shivering.esp
 Wrye Shivering Death.esp
+DeathOverhaul.esp
 kuerteeAlternativesToDeathAndReload.esp
 Lynges Unlimited Death Reload Time.esp
 kuerteeDeathHasPenalties.esp
@@ -14301,6 +14306,7 @@ Shining Flame Atronachs_Friendly Fire.esp
 Shining Flame Atronachs_DLCFrostcrag.esp
 Shining Creatures.esp
 % {{BASH:Invent}}
+? Do not use at the same time as any of the 'Shining ****.esp' variants (except for the DLCFrostcrag Patch)
 Shining Creatures_AtronachFlame.esp
 % {{BASH:Invent}}
 Shining Creatures_AtronachFrost.esp

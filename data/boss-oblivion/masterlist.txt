@@ -2996,6 +2996,7 @@ Nicos Dreadweave Armor_Light.esp
 Nico's Dreadweave Bow and Arrows.esp
 dwr.esp
 % {{BASH:Invent}}
+DWTPlugin.esp
 DunmerScaleMail.esp
 DwemerFlamesword.esp
 Dwemer_Specs_Equip-6137.esp
@@ -13766,6 +13767,7 @@ No Load Screen on Death v1.0.esp
 No Vampire Feeding Message Box.esp
 MessageBox Remover.esp
 Zero Annoying Comments and Messages.esp
+Really Immersive Messages.esp
 ReallyImmersiveMessages.esp
 $ Don't use with OOO/FCOM or birthsign changing mods, instead use 'ReallyImmersiveMessagesNoBirthsigns.esp'.
 ReallyImmersiveMessagesNoBirthsigns.esp

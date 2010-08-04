@@ -2861,6 +2861,14 @@ Collectible T-Shirts V2.1.esp
 Colonial Clothing.esp
 ComfortableClothing.esp
 ComfortableClothing_NoHiddenAmulets.esp 
+ConjurationTome.esp
+? Only use one ConjurationTome*.esp
+ConjurationTomeOBSE.esp
+? Only use one ConjurationTome*.esp
+ConjurationTomeOOO.esp
+? Only use one ConjurationTome*.esp
+ConjurationTomeOOO-OBSE.esp
+? Only use one ConjurationTome*.esp
 LydarflsCheatCodeBook.esp
 console codes.esp
 Corthian Akavir Clothing.esp
@@ -3554,6 +3562,7 @@ Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
 SLPD_Ponytail.esp
+Priestess_of_Dibella_HGEC.esp
 PTArtifacts.esp
 PureSteelBlade.esp
 PythonHolyhg.esp
@@ -6608,6 +6617,7 @@ Farleum V 1.2.esp
 FishermansCottage.esp
 fishing boat.esp
 TheForbiddenSecret.esp
+Forgiven Sins.esp
 Forgotten Chapel.esp
 Forgotten Tower.esp
 Fort BlackBlade.esp
@@ -7527,12 +7537,29 @@ SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
 SIPalaceExpansion.esp
 SISewers.esp
+Secret of the Hidden Sun.esp
+Secret of the Hidden Sun (COBL).esp
+Secret of the Hidden Sun (BathingMod).esp
+Secret of the Hidden Sun (BloodyMess).esp
+Side's Bravil House.esp
+Side's Bravil House (COBL).esp
+Side's Bravil House (BathingMod).esp
+Side's Bravil House (BloodyMess).esp
+Side's Bruma House.esp
+Side's Bruma House (COBL).esp
+Side's Bruma House (BathingMod).esp
+Side's Bruma House (BloodyMess).esp
 Side's Cheydinhal House.esp
 Side's Cheydinhal House (BathMod).esp
 Side's Cheydinhal House (COBL).esp
 Side's Sailing Ships.esp
 Side's Sailing Ships (Bathing).esp
+Side's Sailing Ships (BloodyMess).esp
 Side's Sailing Ships (COBL).esp
+Side's Skingrad  House.esp
+Side's Skingrad  House (COBL).esp
+Side's Skingrad  House (Bathing).esp
+Side's Skingrad  House (BloodyMess).esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 Silvercliff.esp
@@ -12877,6 +12904,7 @@ cssJaKhaiitMyr.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+1em_Vilja OOO FCOM Fix.esp
 Aliyah.esp
 ArianaTrudeaux.esp
 Arwen companion.esp

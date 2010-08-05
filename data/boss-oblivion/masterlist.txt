@@ -8326,8 +8326,6 @@ OCC-RTT-Patch.esp
 RTT Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
-
-
 MTCExpandedVillages.esp
 ? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=22828'
 ? Conflicts with Lost Spires and Faregyl
@@ -8347,6 +8345,11 @@ OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
+SoT_TheOrderofNibenay.esp
+? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
+LostSpires_TheOrderofNibenay_patch.esp
+? Needs Wrye Bash "Remove World Orphans" function run on it, as well as TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
 
 GuardsofCyrodiil.esp
 % {{BASH:Relations}}
@@ -8957,9 +8960,6 @@ TrailsOfCyrodiil-UL merged patch.esp
 
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
-
-SoT_TheOrderofNibenay.esp
-LostSpires_TheOrderofNibenay_patch.esp
 
 exhICMO.esp
 : BC/OC IC Market District Components.

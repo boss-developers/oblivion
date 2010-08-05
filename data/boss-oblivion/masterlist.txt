@@ -101,7 +101,7 @@ Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 $ Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
-% {{BASH:Invent,Scripts,Stats,Relations}}
+% {{BASH:Graphics,Invent,Scripts,Stats,Relations}}
 DarkDale.esm
 Mart's Monster Mod.esm
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
@@ -2571,6 +2571,8 @@ Alhemy.esp
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
+Alluring Potion Bottles.esp
+% {{BASH:Graphics,NoMerge}}
 AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
@@ -3428,6 +3430,7 @@ mnp Nighteye Goggles.esp
 % {{BASH:Invent}}
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
+mordSithArmorAndAgiel.esp
 Morniel_SpecialItem.esp
 MuffinGoldenDishes.esp
 MWorcisharmor.esp
@@ -4841,14 +4844,14 @@ FCOM_TamrielicIngredients.esp
 Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
->? Make sure to install the FCOM patch 'FCOM_Cobl.esp'.
+>? Make sure to install the FCOM patch 'FCOM_Cobl.esp'/'MMM_Cobl.esp' if using latest version.
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
 : Shivering Isles expansion.
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 Cobl Tweaks.esp
-* Delete. Already included in 'FCOM_COBL.esp'.
+* Delete. Already included in 'FCOM_COBL.esp' or latest "MMM_Cobl.esp".
 COBL-FransCre.esp
 * Delete. Not compatible with FCOM.
 : COBL and Fran's.
@@ -5038,6 +5041,7 @@ FCOM_Cobl.esp
 % {{BASH:Delev,Relev}}
 : 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
 ? Do not use COBL and Tamerielic Ingredients at the same time.
+? Do not use with latest MMM/FCOM/COBL - superseded by MMM_Cobl.esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 ? If using MMM or FCOM obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
@@ -5066,7 +5070,7 @@ MTCDirtierBandits.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackagesForceAdd,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp

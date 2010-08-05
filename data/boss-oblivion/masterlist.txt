@@ -7605,7 +7605,6 @@ CM SOLACE.esp
 SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
 Southhelm Manor.esp
-SoT_TheOrderofNibenay.esp
 sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
@@ -8656,7 +8655,6 @@ ULFallenLeafEverglade.esp
 xulFallenLeafEverglade.esp
 Unique Landscapes - Fallenleaf Everglade DV.esp
 LostSpires-Everglade patch.esp
-LostSpires_TheOrderofNibenay_patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
@@ -8932,6 +8930,9 @@ TrailsOfCyrodiil-UL merged patch.esp
 
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
+
+SoT_TheOrderofNibenay.esp
+LostSpires_TheOrderofNibenay_patch.esp
 
 exhICMO.esp
 : BC/OC IC Market District Components.

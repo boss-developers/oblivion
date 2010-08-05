@@ -1813,6 +1813,7 @@ NoGuildmasterKick.esp
 NoSunRobe.esp
 Nosvertu's Wearable Daemer Wings.esp
 Not a Bedroll.esp
+Not a Bedroll_ru.esp
 NPCs Eat More.esp
 
 NWJtamriel.esp
@@ -2770,6 +2771,7 @@ Blackwire.esp
 Blade Of Woe Replacer.esp
 % {{BASH:Graphics}}
 Blakeley's Lachrymal Bow.esp
+Blood Mage.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Blue and White.esp
@@ -3357,6 +3359,8 @@ Kikai & Slof Clothing.esp
 LadiesOrcish.esp
 LadyDeath.esp
 Lady Jasmine Moon.esp
+Lady Thief.esp
+Lady Vamp.esp
 lam.esp
 Lamayo's Crescent Axe.esp
 Lamayo's Dragon Bow.esp
@@ -3485,6 +3489,7 @@ Nicos Kynareth Archery.esp
 Nicos Gift NPC.esp
 Nicos Gift.esp
 Night Knight Armor.esp
+Nighteye Goggles.esp
 ninjacowl.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
@@ -4641,6 +4646,7 @@ NV Imperial Guard Horse Armour.esp
 WhistleTrainer.esp
 Zira My Horses Compilation.esp
 Zira's Monster Horse.esp
+Zira's Horse Stable.esp
 Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
@@ -5040,6 +5046,8 @@ ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 Armamentarium SoB Patch.esp
+
+Asylum_patch_OOO.esp
 
 John's Leveled List Overhaul.esp
 John's Leveled List Overhaul - Vanilla Armours.esp
@@ -6177,6 +6185,7 @@ Ash'kale.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
 Assassin's Hideout v1.1.esp
+Asylum.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
 Auriel's Books.esp
@@ -9935,6 +9944,7 @@ OS-foot-HORSE.esp
 \BeginGroup\: overrides P
 
 KeyChain.esp
+KeyChainSI.esp
 P1DcandlesForKleptos.esp
 P1DCandlesForKleptos_1C.esp
 P1DkeyChain.esp
@@ -12669,6 +12679,9 @@ RANs_WildTabaxi_101.esp
 IDKRRR_C_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 IDKRRR_C_race_closed_mouth_version.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+IDKRRR_C_raceRU.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 idkrrr_sarams_race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 IDKRRR_KFME4rev.esp

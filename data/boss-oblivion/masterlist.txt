@@ -247,6 +247,8 @@ wz_TripWire.esm
 Oblivifall Master File.esm
 Cure Disease Overhaul - Deadly Diseases (OBSE).esm
 Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esm
+SPTDiverseGuards-Resources.esm
+$ Probably not compatible with OOO.
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1837,7 +1839,7 @@ OSRCustom.esp
 \BeginGroup\: Base P
 
 Packhorses v1.esp
-paladin.esp 
+paladin.esp
 passive_horses.esp
 910-passive wildlife-TESSource.esp
 personality_idles2.esp
@@ -2297,7 +2299,7 @@ Map Marker Renamer.esp
 ? Obsolete. Update to Map Marker Overhaul and then remove.
 Map Marker Overhaul.esp
 Map Marker Overhaul - SI additions.esp
-MapMarkerMax.esp 
+MapMarkerMax.esp
 Maps!.esp
 Maps of Cyrodiil.esp
 Landmarks.esp
@@ -2525,6 +2527,8 @@ avarm.esp
 1BDSword [ENG].esp
 1Elven.esp
 1SBVampireOutfits.esp
+1SB_LucreziaNavarre outfit.esp
+1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
 1SB Soulshade Sword.esp
 1SB_OrthaeSword.esp
@@ -2605,7 +2609,7 @@ Arcana Infinium.esp
 Andragorn_Weapons_Armors.esp
 Angel Slayerr.esp
 AngelslayerEN.esp
-Aperture Cube.esp 
+Aperture Cube.esp
 ares-HGEC.esp
 Armblade.esp
 % {{BASH:Invent}}
@@ -2816,7 +2820,7 @@ BodMod.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
 Book of Werewolves.esp
-BookCollisionTest.esp 
+BookCollisionTest.esp
 Boots of Blinding Speed.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -2865,7 +2869,7 @@ Collectible_TShirts_V11.esp
 Collectible T-Shirts V2.1.esp
 Colonial Clothing.esp
 ComfortableClothing.esp
-ComfortableClothing_NoHiddenAmulets.esp 
+ComfortableClothing_NoHiddenAmulets.esp
 ConjurationTome.esp
 ? Only use one ConjurationTome*.esp
 ConjurationTomeOBSE.esp
@@ -2953,9 +2957,9 @@ Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
 Dalls_SkyrimNords.esp
 Dalls_Oni.esp
-DamascusGlamdring.esp 
+DamascusGlamdring.esp
 % {{BASH:Invent}}
-DarkAdventuressBow.esp 
+DarkAdventuressBow.esp
 Dark BrotherHood Hood Replacer V1.2.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 DarkBrotherhoodRed.esp
@@ -2989,7 +2993,7 @@ DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
 DFSL Leathery 4.esp
 DFSLChina.esp
-DG Jewelry for All.esp 
+DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
@@ -3635,7 +3639,7 @@ RingwraithArmorSteel.esp
 RingwraithArmorGlass.esp
 ? Only have one ringwraith armor esp active at once.
 Ryk_SimpleDress_DV.esp
-Ryk_SorceressArmor.esp 
+Ryk_SorceressArmor.esp
 RoseGear.esp
 RZWPortableCandles.esp
 \EndGroup\\
@@ -3738,7 +3742,7 @@ Slof's Robe of the Dark Arts.esp
 Slof's Stuff for Wizards.esp
 Slof's Thunderbird Armour.esp
 Slof's Persian Outfit For Males.esp
-Slof's Victorian Clothes.esp 
+Slof's Victorian Clothes.esp
 Slof's Wisteria.esp
 
 Kit Rae Weaponry v0_2.esp
@@ -3829,6 +3833,7 @@ Swords of Thought.esp
 
 talon.esp
 % {{BASH:Invent}}
+Talon of Akatosh Claymore.esp
 Talon of Akatosh Longsword.esp
 Taokaka am.esp
 tda_Armoury_BETA.esp
@@ -4705,7 +4710,7 @@ Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
 % {{BASH:Invent}}
-SIRMS.esp  
+SIRMS.esp
 % {{BASH:Names}}
 The Last Queen Of The Ayleids.esp
 \EndGroup\\
@@ -5598,7 +5603,7 @@ TIE.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.DeathItem,Actors.Spells,Actors.Stats,C.RecordFlags,Delev,Invent,NpcFaces,Relations,Relev,Scripts,Stats,Names}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 TIE Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge }} 
+% {{BASH:Actors.Anims,NoMerge }}
 TIE+Frans NPC Inventory.esp
 % {{BASH:NoMerge}}
 FCOM_T.I.E.esp
@@ -5839,7 +5844,7 @@ $ Has minor incompatibility with OOO - changes Meridia quest & script back to le
 ? Only use one IABane Oils X.esp
 
 Lock Bash Omega.esp
-Modified Bandits.esp 
+Modified Bandits.esp
 % {{BASH:Delev}}
 ? not very compatible with any overhauls.
 Unscaled Loot and Encounters.esp
@@ -5929,7 +5934,7 @@ OC+CTN Patch.esp
 TamrielTransportationNetwork.esp
 TamrielTransportationNetwork Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-ShiveringIslesTransportationNetwork.esp 
+ShiveringIslesTransportationNetwork.esp
 
 EM_CompInnsleeping.esp
 
@@ -6098,7 +6103,7 @@ AncientSource.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
 
-Anvill Abandoned House v1.esp 
+Anvill Abandoned House v1.esp
 AnvilBayExpansion.esp
 ? Not Better Cities compatible. Already included in Better Cities Anvil.
 ? Not Open Cities compatible. Already incuded in Open Cities Anvil.
@@ -7932,7 +7937,7 @@ Wayshrines.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
-WellDiver.esp 
+WellDiver.esp
 Well of Arcane Marking.esp
 WellOfSouls.esp
 WellspringGrove.esp
@@ -7949,6 +7954,7 @@ Winterhouse.esp
 Winter Palace.esp
 Wizards_Eye_Tower-9776.esp
 wk_Tree House.esp
+Wolf Manor.esp
 Woodcutters_Cabin.esp
 Woodcutters_Cabin_COBL.esp
 Woodland Village.esp
@@ -9517,7 +9523,7 @@ CUO_NewFactionDialog_SAFE.esp
 CUO_BadGuy_Specific_Loot_DIRTY.esp
 % {{BASH:Delev,Relev}}
 ? Needs to be Bashed Patched to integrate fully into Fran's. May have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
-CUO_Spells_DIRTY.esp 
+CUO_Spells_DIRTY.esp
 CUO_UnleveledGuards&Legioneers_DIRTY.esp
 CUO_UnleveledNpcs&Creatures.esp
 % {{BASH:Delev,Relev}}
@@ -9689,7 +9695,7 @@ GuilesNameReplace-Scrolls.esp
 \EndGroup\\
 
 \BeginGroup\: overrides H
-[Hexaae] Vilverin fires.esp 
+[Hexaae] Vilverin fires.esp
 [Hexaae] Vilverin fires UOP.esp
 HarderRepairs_5.esp
 HaroK_Arrow_Forge.esp
@@ -10048,7 +10054,7 @@ Sexy Dark Seducer & Golden Saint Armour.esp
 AAQv1.esp
 AACV1.esp
 Brothel of Cyrodiil.esp
-Brothel of Cyrodiil_ENG.esp 
+Brothel of Cyrodiil_ENG.esp
 Kaleah Sucub.esp
 Basic Instinct for BoC.esp
 Vtoy.esp
@@ -10199,12 +10205,120 @@ SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
+\BeginGroup\: SPT Diverse Guards
 SPTDiverseGuards.esp
-$ Probably not compatible with OOO.
+$ Probably not compatible with OOO. Consider upgrading to version 2.0.
 SPTDiverseGuardsMRAll.esp
 ? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
 SPTDiverseGuardsMRHuman.esp
 ? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
+SPTDiverseGuards-Combined-Imperial.esp
+SPTDiverseGuards-CombinedOCC-Imperial.esp
+SPTDiverseGuards-CombinedOCC-Imperial-Patch.esp
+SPTDiverseGuards-CombinedOCR-Imperial.esp
+SPTDiverseGuards-CombinedOCR-Imperial-Patch.esp
+SPTDiverseGuards-Combined-Human.esp
+SPTDiverseGuards-CombinedOCC-Human.esp
+SPTDiverseGuards-CombinedOCC-Human-Patch.esp
+SPTDiverseGuards-CombinedOCR-Human.esp
+SPTDiverseGuards-CombinedOCR-Human-Patch.esp
+SPTDiverseGuards-Combined-AllRaces.esp
+SPTDiverseGuards-CombinedOCC-AllRaces.esp
+SPTDiverseGuards-CombinedOCC-AllRaces-Patch.esp
+SPTDiverseGuards-CombinedOCR-AllRaces.esp
+SPTDiverseGuards-CombinedOCR-AllRaces-Patch.esp
+SPTDiverseGuards-Anvil-Imperial.esp
+SPTDiverseGuards-AnvilOCC-Imperial.esp
+SPTDiverseGuards-AnvilOCC-Imperial-Patch.esp
+SPTDiverseGuards-AnvilOCR-Imperial.esp
+SPTDiverseGuards-AnvilOCR-Imperial-Patch.esp
+SPTDiverseGuards-Bravil-Imperial.esp
+SPTDiverseGuards-BravilOCC-Imperial.esp
+SPTDiverseGuards-BravilOCC-Imperial-Patch.esp
+SPTDiverseGuards-BravilOCR-Imperial.esp
+SPTDiverseGuards-BravilOCR-Imperial-Patch.esp
+SPTDiverseGuards-Bruma-Imperial.esp
+SPTDiverseGuards-BrumaOCC-Imperial.esp
+SPTDiverseGuards-BrumaOCC-Imperial-Patch.esp
+SPTDiverseGuards-BrumaOCR-Imperial.esp
+SPTDiverseGuards-BrumaOCR-Imperial-Patch.esp
+SPTDiverseGuards-Cheydinhal-Imperial.esp
+SPTDiverseGuards-CheydinhalOCC-Imperial.esp
+SPTDiverseGuards-CheydinhalOCC-Imperial-Patch.esp
+SPTDiverseGuards-CheydinhalOCR-Imperial.esp
+SPTDiverseGuards-CheydinhalOCR-Imperial-Patch.esp
+SPTDiverseGuards-Chorrol-Imperial.esp
+SPTDiverseGuards-ChorrolOCC-Imperial.esp
+SPTDiverseGuards-ChorrolOCC-Imperial-Patch.esp
+SPTDiverseGuards-ChorrolOCR-Imperial.esp
+SPTDiverseGuards-ChorrolOCR-Imperial-Patch.esp
+SPTDiverseGuards-ImpCity-Imperial.esp
+SPTDiverseGuards-InnsRoads-Imperial.esp
+SPTDiverseGuards-Leyawiin-Imperial.esp
+SPTDiverseGuards-LeyawiinOCC-Imperial.esp
+SPTDiverseGuards-LeyawiinOCC-Imperial-Patch.esp
+SPTDiverseGuards-LeyawiinOCR-Imperial.esp
+SPTDiverseGuards-LeyawiinOCR-Imperial-Patch.esp
+SPTDiverseGuards-Skingrad-Imperial.esp
+SPTDiverseGuards-SkingradOCC-Imperial.esp
+SPTDiverseGuards-SkingradOCC-Imperial-Patch.esp
+SPTDiverseGuards-SkingradOCR-Imperial.esp
+SPTDiverseGuards-SkingradOCR-Imperial-Patch.esp
+SPTDiverseGuards-Anvil-Human.esp
+SPTDiverseGuards-AnvilOCC-Human.esp
+SPTDiverseGuards-AnvilOCC-Human-Patch.esp
+SPTDiverseGuards-AnvilOCR-Human.esp
+SPTDiverseGuards-AnvilOCR-Human-Patch.esp
+SPTDiverseGuards-Bravil-Human.esp
+SPTDiverseGuards-BravilOCC-Human.esp
+SPTDiverseGuards-BravilOCC-Human-Patch.esp
+SPTDiverseGuards-BravilOCR-Human.esp
+SPTDiverseGuards-BravilOCR-Human-Patch.esp
+SPTDiverseGuards-Bruma-Human.esp
+SPTDiverseGuards-BrumaOCC-Human.esp
+SPTDiverseGuards-BrumaOCC-Human-Patch.esp
+SPTDiverseGuards-BrumaOCR-Human.esp
+SPTDiverseGuards-BrumaOCR-Human-Patch.esp
+SPTDiverseGuards-Cheydinhal-Human.esp
+SPTDiverseGuards-CheydinhalOCC-Human.esp
+SPTDiverseGuards-CheydinhalOCC-Human-Patch.esp
+SPTDiverseGuards-CheydinhalOCR-Human.esp
+SPTDiverseGuards-CheydinhalOCR-Human-Patch.esp
+SPTDiverseGuards-Chorrol-Human.esp
+SPTDiverseGuards-ChorrolOCC-Human.esp
+SPTDiverseGuards-ChorrolOCC-Human-Patch.esp
+SPTDiverseGuards-ChorrolOCR-Human.esp
+SPTDiverseGuards-ChorrolOCR-Human-Patch.esp
+SPTDiverseGuards-ImpCity-Human.esp
+SPTDiverseGuards-InnsRoads-Human.esp
+SPTDiverseGuards-Leyawiin-Human.esp
+SPTDiverseGuards-LeyawiinOCC-Human.esp
+SPTDiverseGuards-LeyawiinOCC-Human-Patch.esp
+SPTDiverseGuards-LeyawiinOCR-Human.esp
+SPTDiverseGuards-LeyawiinOCR-Human-Patch.esp
+SPTDiverseGuards-Skingrad-Human.esp
+SPTDiverseGuards-SkingradOCC-Human.esp
+SPTDiverseGuards-SkingradOCC-Human-Patch.esp
+SPTDiverseGuards-SkingradOCR-Human.esp
+SPTDiverseGuards-SkingradOCR-Human-Patch.esp
+SPTDiverseGuards-Bravil-AllRaces.esp
+SPTDiverseGuards-BravilOCC-AllRaces.esp
+SPTDiverseGuards-BravilOCC-AllRaces-Patch.esp
+SPTDiverseGuards-BravilOCR-AllRaces.esp
+SPTDiverseGuards-BravilOCR-AllRaces-Patch.esp
+SPTDiverseGuards-Cheydinhal-AllRaces.esp
+SPTDiverseGuards-CheydinhalOCC-AllRaces.esp
+SPTDiverseGuards-CheydinhalOCC-AllRaces-Patch.esp
+SPTDiverseGuards-CheydinhalOCR-AllRaces.esp
+SPTDiverseGuards-CheydinhalOCR-AllRaces-Patch.esp
+SPTDiverseGuards-ImpCity-AllRaces.esp
+SPTDiverseGuards-InnsRoads-AllRaces.esp
+SPTDiverseGuards-Leyawiin-AllRaces.esp
+SPTDiverseGuards-LeyawiinOCC-AllRaces.esp
+SPTDiverseGuards-LeyawiinOCC-AllRaces-Patch.esp
+SPTDiverseGuards-LeyawiinOCR-AllRaces.esp
+SPTDiverseGuards-LeyawiinOCR-AllRaces-Patch.esp
+\EndGroup\\
 ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp
@@ -10403,6 +10517,7 @@ The Complete Ranger.esp
 Shadow Ranger.esp
 
 Roleplaying Dialogues.esp
+SupremeDialougeImmersion[The A-MQ].esp
 
 DurableEquipment_10.esp
 
@@ -10930,7 +11045,7 @@ PortableOblivionPortal.esp
 Portal - SI.esp
 : Shivering Isles
 QuickStore.esp
-Ragna Left-Hand Path.esp 
+Ragna Left-Hand Path.esp
 RD-HeavensWrath-v1-1-Easy.esp
 RDetectLife.esp
 Rain of Gold OBSE.esp
@@ -11031,8 +11146,8 @@ Alter Weight Spells - MM.esp
 Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
 Improved_Ancestor_Guardian_Mighty_Magick_Version.esp
-Diverse Effect Icons for MM.esp 
-Diverse Effect Icons for MM-Reborn.esp 
+Diverse Effect Icons for MM.esp
+Diverse Effect Icons for MM-Reborn.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
 SSEE-MM.esp
@@ -11322,7 +11437,7 @@ Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
-MarcusTheEnchanter.esp 
+MarcusTheEnchanter.esp
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp
 : OBSE.
@@ -12330,7 +12445,7 @@ ElaborateEyes-RensBeautyPackFull.esp
 % {{BASH:Hair,Eyes}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
 % {{BASH:Hair,Eyes}}
-ElaborateEyes for Robert's Bodies.esp 
+ElaborateEyes for Robert's Bodies.esp
 % {{BASH:Hair,Eyes}}
 CT-Argonian Headstyles-EE.esp
 % {{BASH:Graphics,Hair,Eyes}}
@@ -12861,7 +12976,7 @@ CM SASHEIRA.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
 CMTorys.esp
-CM Vampire Golbert.esp 
+CM Vampire Golbert.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 CM ElizabethColourWheel.esp
@@ -14464,7 +14579,7 @@ ViconiaChapterTwo Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-UnderdarkSaga.esp 
+UnderdarkSaga.esp
 UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkMap.esp

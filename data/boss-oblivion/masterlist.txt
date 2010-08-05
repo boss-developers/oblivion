@@ -1970,6 +1970,7 @@ ReneerVariedNPCsMod.esp
 Reset the Blood Decal Variable.esp
 
 Reznod_Mannequin.esp
+rwr mannequins.esp
 Practice_Dummy0.9.5.esp
 
 RingofNightEye.esp
@@ -2670,6 +2671,7 @@ AW_Wings.esp
 AW_LeatherArmor.esp
 Arkann's Precious Shields.esp
 Armour of Hades.esp
+Aspiria.esp
 Assassin_Blade.esp
 AssassinBow.esp
 AyleidGlass.esp
@@ -2986,6 +2988,7 @@ DeliveranceFireEnch.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
 DFSL Leathery 4.esp
+DFSLChina.esp
 DG Jewelry for All.esp 
 DHAyleidShield.esp
 DHuntress.esp
@@ -3461,6 +3464,7 @@ NecroArmour.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp
+NewMageRobes.esp
 NexonsArmoryENG.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -3568,6 +3572,7 @@ PerditionsEdge.esp
 SLPD_Ponytail.esp
 Priestess_of_Dibella_HGEC.esp
 PTArtifacts.esp
+Phitts-Artifacts_DV.esp
 PureSteelBlade.esp
 PythonHolyhg.esp
 \EndGroup\\
@@ -4307,6 +4312,7 @@ Babarized ArchmageBattleArmour.esp
 Babarized DeceiverArmour.esp
 Babarized BrashLeatherArmors.esp
 Blood Elves and Egyptian Armors for Exnems body.esp
+Blackmarsh_Witch_HGEC_Clothing.esp
 Exnem_Assassin_Armor.esp
 ExnemEC_Rogue01.esp
 ExnemEC_Warrior01.esp
@@ -4412,12 +4418,16 @@ EC_BlackDeathWarrRetex.esp
 BlackRogue.esp
 darkrosearmor.esp
 Dark Rose Armor.esp
+DM Outlaw armor_EN.esp
+Gizmodian - Eclipse.esp
 GreenNGold Amazon armor for Exnem body.esp
 JB Catsuit Variants.esp
 JB Catsuit Weapons.esp
 Mithril_Sorceress_armor.esp
+Priestess_of_Dibella_HGEC.esp
 Rosesilk.esp
 Sorceressofthestorm.esp
+The Dragon Princess.esp
 Vampiress Armors For Exnem Body.esp
 Volcano in the Twilight.esp
 HGEC Queen Of Nightfall Dress ENG.esp
@@ -4907,6 +4917,7 @@ G_'s-Loot-Mod_v2.5[Scaled Version].esp
 G_'s-Loot-Mod_v2.5[Unscaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
+G_'s-Loot-Mod_v2.5[Scaled Equipment Addon].esp
 \EndGroup\\
 
 \BeginGroup\: OOO full and lite.
@@ -6670,6 +6681,7 @@ If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Im
 
 \BeginGroup\: Quests G
 
+G&J - Cruentus Veneficum.esp
 Gaelendryl.esp
 Gamblers_of_Cyrodiil.esp
 GB_Oblivion Tournament.esp
@@ -6696,7 +6708,7 @@ Gold Road Cottage - Classy.esp
 Gold Road Cottage - Rugged.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
 Gottshaw.esp
-SRGottshaw0.9 Beta.es
+SRGottshaw0.9 Beta.esp
 GP_Moretta.esp
 GP_Moretta_1C.esp
 GPPaleGoblins.esp
@@ -9378,6 +9390,7 @@ Better Sheogorath.esp
 Better Skooma.esp
 Better_Gem_Pricing-7112.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
+BFG's Open All the Gates.esp
 bgProtectMortalNPCs.esp
 BHC Home Delivery.esp
 BIDA- Blade + Magic Damage.esp
@@ -11739,6 +11752,7 @@ CDM-CGO Vanilla Skill Levelling Faster.esp
 CDM-CGO Vanilla Skill Levelling Slower.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
 CDM-CGO Level Up.esp
+G_'s-Level-Slow.esp
 
 AttributeInfluenceSkill.esp
 Enchanting Skill.esp
@@ -14405,6 +14419,7 @@ MassA.I-50.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.
 MiniMap.esp
 Scathe.esp
+soundfix_DV.esp
 Vacuity.esp
 MrPwner's Falling.esp
 MUTE.esp

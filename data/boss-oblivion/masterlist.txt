@@ -2532,6 +2532,7 @@ avarm.esp
 1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
 1SB Soulshade Sword.esp
+1SB_TerryMalick_BallGownVariants.esp
 1SB_OrthaeSword.esp
 1SB_ValsharessArmors.esp
 1SnowCamo.esp
@@ -2854,6 +2855,7 @@ ClassyClothingCompendium.esp
 Classic Books.esp
 Classic-Wizard-Robes-UL.esp
 Classic-Wizard-Robes-U.esp
+Claws+MonkGear.esp
 ClearGlassArmorSet.esp
 ClothGloves.esp
 % {{BASH:Invent}}
@@ -3441,6 +3443,7 @@ mnp Nighteye Goggles.esp
 % {{BASH:Invent}}
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
+MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morniel_SpecialItem.esp
 MuffinGoldenDishes.esp
@@ -6157,6 +6160,7 @@ Arkay's Valour.esp
 ArkenfellManor.esp
 Armageddon.esp
 Armoured Arms Altered.esp
+Armoured Arms Redone.esp
 ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
@@ -6741,6 +6745,7 @@ GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
 GreatForestMarket.esp
 Gaenor in Dementia.esp
+Gaenor2.esp
 GlimmeringCastle.esp
 Guards.esp
 GwedenBrothel.esp
@@ -10662,6 +10667,7 @@ BathingMod_InnsHaveTubs.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
 OWE&P.esp
+OWE&P 4FP.esp
 RealisticFatigue.esp
 RealisticFatigue-hard.esp
 RealisticRunning.esp
@@ -13401,6 +13407,7 @@ qazSpellbook.esp
 Recastable Summons.esp
 sr_casting_time.esp
 TML_SummonsUnlocked.esp
+Tougher Magic Settings v1.1.esp
 AlternativeOblivionMagicSystem.esp
 \EndGroup\\
 

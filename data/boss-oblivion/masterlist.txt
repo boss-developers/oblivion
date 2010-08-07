@@ -1623,6 +1623,7 @@ fwDropGold.esp
 \BeginGroup\: Base G
 
 GoldnSilverBars.esp
+Gorangas traveling merchant.esp
 GrayFoxLeatherReward.esp
 GrayFoxOutfit.esp
 Grand Potions.esp
@@ -3123,6 +3124,7 @@ FinalFantasy10BrotherhoodswordNEW.esp
 FineWeapons.esp
 % {{BASH:Graphics}}
 FinGleamRing.esp
+FireCircle_1C.esp
 Flamboyant Hat_SI.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
@@ -9987,6 +9989,7 @@ Potions Recolored.esp
 JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
+PlayersDiary_1C.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Q

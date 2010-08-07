@@ -2235,6 +2235,22 @@ Crowded Roads Revisited_ChorrolCheydinhal_5.esp
 Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
 Crowded Roads Revisited_YellowRoad_5.esp
+Crowded Roads Revisited_ChorrolCheydinhal_10.esp
+Crowded Roads Revisited_GoldRoad_10.esp
+Crowded Roads Revisited_GreenRoad_10.esp
+Crowded Roads Revisited_YellowRoad_10.esp
+Crowded Roads Revisited_ChorrolCheydinhal_20.esp
+Crowded Roads Revisited_GoldRoad_20.esp
+Crowded Roads Revisited_GreenRoad_20.esp
+Crowded Roads Revisited_YellowRoad_20.esp
+Crowded Roads Revisited_ChorrolCheydinhal_25.esp
+Crowded Roads Revisited_GoldRoad_25.esp
+Crowded Roads Revisited_GreenRoad_25.esp
+Crowded Roads Revisited_YellowRoad_25.esp
+Crowded Roads Revisited_ChorrolCheydinhal_40.esp
+Crowded Roads Revisited_GoldRoad_40.esp
+Crowded Roads Revisited_GreenRoad_40.esp
+Crowded Roads Revisited_YellowRoad_40.esp
 WAC - Crowded Roads Revisited.esp
 
 
@@ -12248,6 +12264,10 @@ Let There Be Darkness - UL Brena.esp
 % {{BASH:C.Light}}
 Let There Be Darkness - UL Blackwood Forest.esp
 : UL Blackwood Forest.esp
+% {{BASH:C.Light}}
+Let There Be Darkness - Nacosto.esp
+% {{BASH:C.Light}}
+Let There Be Darkness - Heart Of the Dead.esp
 % {{BASH:C.Light}}
 Let There Be Darkness All.esp
 % {{BASH:C.Light,Filter}}

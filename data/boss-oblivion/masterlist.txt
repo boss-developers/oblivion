@@ -3017,6 +3017,7 @@ DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
+DragonTorch_1C.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
@@ -7827,6 +7828,7 @@ Trail  WEST.esp
 Trail  EAST.esp
 Trail  Central.esp
 TrainerFind.esp
+Tramps.esp
 Travelers Inns.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
@@ -9341,6 +9343,7 @@ Diseased Corpses.esp
 lTrainingseinheiten erhalten.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
+3_small_changes_1C.esp
 \EndGroup\\
 
 \BeginGroup\: overrides A
@@ -9415,6 +9418,7 @@ BetterCoins.esp
 Better Post Faction Rewards.esp
 Better Potions and Poisons.esp
 % {{BASH:Graphics}}
+Better Prices.esp
 Better Sheogorath.esp
 Better Skooma.esp
 Better_Gem_Pricing-7112.esp
@@ -9755,6 +9759,7 @@ ImprovedSoulgems.esp
 Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 Increased_Training_Allowance-1853.esp
+Increased_Training_Allowance-TESSource.esp
 Increased_Training_Allowance.esp
 Improved Skooma Lab.esp
 Ingredient Storage Shelves.esp
@@ -10396,6 +10401,7 @@ SynchronizedStatueWithPose.esp
 \BeginGroup\: overrides T
 
 tag_NaturalWildlife.esp
+NaturalWildlife.esp
 Natural Wildlife - resized.esp
 GP_Natural Wildlife - MMM.esp
 Talk With Your Hands.esp
@@ -10612,6 +10618,7 @@ TIE In - BC-Anvil.esp
 Arks Tutorial Terminator.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations,Invent}}
+SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.
 SkipTutorialv2.esp

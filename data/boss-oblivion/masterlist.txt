@@ -9561,8 +9561,8 @@ Cultural Secrets.esp
 
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
+CUO_MerchantsGuild_SAFE.esp
 CUO_MerchantUpdate_SAFE.esp
-? MAY have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
 CUO_UnLeveledPotions.esp
 % {{BASH:Delev,Relev}}
 ? Needs to be Bashed Patched to integrate fully into Fran's. May have problems with disabling content from some overhaul mods. Should work with MMM and Fran's.
@@ -13545,6 +13545,8 @@ bgBalancingEVOptionalSeamReducerHighElfFix.esp
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
 % {{BASH:Body-M}}
+k_HOD_RBP_patch.esp
+% {{BASH:
 \EndGroup\\
 
 \BeginGroup\: BG Integration quest

@@ -2304,6 +2304,7 @@ Map Marker Overhaul - SI additions.esp
 MapMarkerMax.esp
 Maps!.esp
 Maps of Cyrodiil.esp
+AxiomMagesMapMarkers.esp
 Landmarks.esp
 $ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells.esp
@@ -4574,6 +4575,7 @@ Immortal Horses.esp
 Kylin.esp
 Benjamin the Donkey.esp
 Benjamin the Donkey - small.esp
+Benjamin the Donkey - pimped up version - small.esp
 blackunicorn.esp
 PWM_Armoured-UnicornMount.esp
 MD_Saddle_Bags.esp
@@ -5797,6 +5799,9 @@ EVE_StockEquipmentReplacer4MMM.esp
 Diverse Imperial Armor v1.1.esp
 " MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
 \EndGroup\\
+
+Adventurers_1.0.esp
+? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be abe to be made work with MMM.
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -10163,6 +10168,7 @@ Eroblivion.esp
 Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
+Nude Spell.esp
 SMYB Full.esp
 SMYB Female Only.esp
 SMYB Love Female Only.esp
@@ -12569,6 +12575,7 @@ Capucines Character Expansion - No NPC Change.esp
 % {{BASH:Hair,Eyes,Graphics}}
 CuteElf11.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+CuteElf11 Blue Portal Bug-Fix Patch.esp
 CuteElfBody.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full.esp

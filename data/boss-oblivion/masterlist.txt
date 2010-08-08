@@ -3099,6 +3099,7 @@ EagleSword.esp
 Echo_MysticShield.esp
 EckoSword.esp
 ElegantVests.esp
+Elegant Vests.esp
 ElementalWeapons.esp
 elgrande_newclothing.esp
 Emperor's Heavy War Armor.esp
@@ -3110,7 +3111,6 @@ Ethereal - Armor Imperial Legion Edition AR.esp
 Exnem Pekka Pumps.esp
 Extra Robe Pack.esp
 extavegant masks.esp
-Elegant Vests.esp
 Elfenwacht.esp
 ElyndasLostDressesHGEC.esp
 Elwing.esp
@@ -3700,6 +3700,7 @@ Sang_Noir.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
+Scholomance armor.esp 
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
@@ -3830,12 +3831,14 @@ SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
+SPB Suicup Dress.esp 
 MDP - BG1 Companion.esp
 MDP - BG2 Companion.esp
 spartanspears.esp
 % {{BASH:Invent}}
 SPARTAN VIs Ordinator Lite.esp
 spirit_bast.esp
+Spirit Blade.esp
 SpiritswordF_alfa.esp
 Staff of Portals.esp
 StahlArmor.esp
@@ -3894,6 +3897,8 @@ The Bow of Ash.esp
 The Bow of Bones.esp
 TheBowOfBonesRevisited.esp
 The Bow of Daedric Blood.esp
+The Bow of Robin of Locksley.esp
+The Bow of the Drow.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
 The Bow of Thorns.esp
@@ -6723,6 +6728,7 @@ Fort_Cooper.esp
 Fort Falkenshire.esp
 Fort Krakatus.esp
 Fort_FerrionV11.esp
+DUNGEON FortFerrion.esp
 Fort Tempest.esp
 FortMalice.esp
 Fort_Krakatus-8431.esp
@@ -6735,7 +6741,6 @@ Frostheart Manor.esp
 Frostmourne.esp
 Frostmourne-DV.esp
 The Fall of Dagoth Hur 11.esp
-DUNGEON FortFerrion.esp
 
 Functional Imperial City Lighthouse.esp
 JK_lighthouse.esp
@@ -13694,7 +13699,8 @@ Better Cities - Anvil City Defences.esp
 Better Cities ANVIL.esp
 Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
-" Ruined Tail 2.5.
+" Ruined Tail's Tale v2.5.
+: Ruined Tail's Tale v3+.
 
 Better Cities - Anvil Bay Expansion.esp
 

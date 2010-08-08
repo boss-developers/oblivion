@@ -313,6 +313,13 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
+Cobl Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+: the Cobl Cosmetics Res 01 files installed.
+Cobl Races TNR SI.esp
+% {{BASH:NpcFaces,NoMerge}}
+: the Cobl Cosmetics Res 01 files installed.
+
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces,NoMerge}}
 TNR - THE DUNMER.esp
@@ -13398,12 +13405,6 @@ AMD.esp
 Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.
-Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}}
-: the Cobl Cosmetics Res 01 files installed.
-Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,NoMerge}}
-: the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 % {{BASH: NpcFaces,Invent,NoMerge}}
 \EndGroup\\

@@ -6322,6 +6322,8 @@ Black ocean.esp
 Black Rock Home.esp
 Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
+BladeOfTheHaunted.esp
+% {{BASH:Factions}}
 BladeSong.esp
 : OBSE 18+, Screen Effects,
 Blankenmarch Home.esp
@@ -11641,6 +11643,7 @@ TRN One of the Gang.esp
 ? If using The Elder council use the patch (http://www.tesnexus.com/downloads/file.php?id=23526)
 ? If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
 TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
+WR OotG Addon.esp
 GuildBetrayal.esp
 
 FameAndInfamyAnnouncer.esp
@@ -11734,6 +11737,7 @@ Marksman Velocity SI.esp
 Pfeilgeschwindigkeit.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 CombatFPSOptimizer.esp
+All Natural Combat FPS Optimizer Updated Patch.esp
 Oss133FrameRateOptimizer.esp
 Realistic Arrow Flight.esp
 Add-on for Ambidextrie.esp
@@ -12123,6 +12127,8 @@ CTAddPose_OTPair.esp
 CTAddPose_ bondage_sex.esp
 CTAddPose_bondage_sex-2.esp
 CTAddPose_2ch_(Hentai).esp
+CTAddPose_Gaff_01.esp
+CTAddPose_Gaff_02.esp
 CTAddPose_glock3.esp
 CTAddPose_gobu.esp
 CTAddPose_Dsk(erori)Pose.esp
@@ -14699,6 +14705,7 @@ amGE_Races.esp
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
 
+Slof's Manly Stride.esp
 Wrye Morph, X6.esp
 Wrye Morph Keys.esp
 Wrye Morph Wearable.esp
@@ -14748,7 +14755,6 @@ Mounted_Spellcasting Deadly Reflex Compatible.esp
 ? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
 ? Try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
-Slof's Manly Stride.esp
 SWalk.esp
 no_mouse_wheel.esp
 LoversIdleForceReset.esp

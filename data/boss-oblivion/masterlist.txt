@@ -148,6 +148,7 @@ BathingMod_Base.esm
 BP EDIT.esm
 BurningItemsMasterF.esm
 Lovers with PK.esm
+% {{BASH:Actors.Anims}}
 BreakUndies.esm
 CURP_Controller.esm
 No Lights Flicker.esm
@@ -308,7 +309,7 @@ notamod.esp
 \Bash and deactivate to keep new faces with NPC altering mods later.
 
 xeoex.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Ears,R.Head,R.Mouth}}
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -3639,7 +3640,7 @@ Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
 Robe Replacer2.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,Invent}}
 Rogue Sun's Blood Lust Dress.esp
 ROHJ2.esp
 Rosana Black Edition.esp
@@ -7358,6 +7359,7 @@ NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
 NewMGQuests.esp
+% {{BASH:Actors.AIPackages}}
 NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
@@ -8232,6 +8234,7 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
+% {{BASH:Actors.AIPackages}}
 Knights - Book Jackets.esp
 % {{BASH:Graphics,NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -9550,6 +9553,8 @@ Compass_Marker_Reducer.esp
 ? If using Wrye Bash use Bashed Patch tweaker instead.
 Create NPCs Duplicates.esp
 Creature Language Skills -Ver 3.3-.esp
+Creatures20.esp
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Actors.Spells,Factions,Graphics,Names,Relev}}
 Curseman's Anti Extinction Mod.esp
 % {{BASH:Delev,Relev}}
 " overhauls
@@ -10052,6 +10057,7 @@ RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
 ReneerAutoTorchMod.esp
 RenCorpseMod.esp
+% {{BASH:Graphics,Names}}
 MCaleb's_Decompose_Corpse_v1.2.esp
 ReneersGoldMod.esp
 ? Use only one gold in your inventory type mod.
@@ -10146,6 +10152,7 @@ Lovers_NA.esp
 Lovers_pkr.esp
 ? Old, update to version 1.3b3 Rev05a or later.
 Lovers with PK.esp
+% {{BASH:Actors.Anims}}
 FUQ Land.esp
 ? Old, update to LoversCharactors.esp
 LoversCharactors.esp
@@ -11255,6 +11262,7 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 \BeginGroup\: Midas Magic
 
 MidasSpells.esp
+% {{BASH:Invent}}
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
@@ -12706,6 +12714,7 @@ Beautiful People 2ch-Ed Sheogorath Eye.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp
+% {{BASH:Body-M}}
 Beautiful People 2ch-Ed Vanilla Race for TFF.esp
 Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
 Beautiful People 2ch-Ed Merged Hair Modules.esp

@@ -753,6 +753,7 @@ Zira's Horse Theme Loadscreens.esp
 % {{BASH:Graphics}}
 LoadingScreensRemade.esp
 Floydian1 Loading Screens Compilation.esp
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Base Mods

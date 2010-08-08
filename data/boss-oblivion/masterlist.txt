@@ -319,6 +319,9 @@ Cobl Races TNR.esp
 Cobl Races TNR SI.esp
 % {{BASH:NpcFaces,NoMerge}}
 : the Cobl Cosmetics Res 01 files installed.
+Cobl - NPCDiversity - TNR Merge.esp
+? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
+% {{BASH: NpcFaces,Invent,NoMerge}}
 
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces,NoMerge}}
@@ -531,6 +534,7 @@ Unofficial Oblivion Patch-mobs.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag.
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
+? Recommend removing if using Wrye Bash. A tweak for this exists in "Tweak Settings".
 Oblivion Citadel Door Fix.esp
 \EndGroup\\
 
@@ -13405,8 +13409,6 @@ AMD.esp
 Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.
-Cobl - NPCDiversity - TNR Merge.esp
-% {{BASH: NpcFaces,Invent,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Race Balancing Project 1

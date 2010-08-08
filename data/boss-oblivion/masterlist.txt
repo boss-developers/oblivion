@@ -10122,6 +10122,7 @@ Kaleah Sucub.esp
 Basic Instinct for BoC.esp
 Vtoy.esp
 Lovers.esp
+LoversDiag.esp
 LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
 LoversRapeman.esp
@@ -10133,12 +10134,12 @@ LoversVoiceAR.esp
 ? Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
 LoversVoice_AddRandomDialogues.esp
 : LoversVoice.esp
-LoversAdultPlayPlus.esp
-? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
 LoversAdultPlay.esp
 ? Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversSpringSale.esp
 ? Obsolete. Use LoversAdultPlayPlus.esp instead.
+LoversAdultPlayPlus.esp
+? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
 LoversTachiCat.esp
 ? Obsolete. Use LoversTachiCat2.esp instead.
 LoversTachiCat2.esp
@@ -10183,7 +10184,6 @@ LoversSpermSplashEx.esp
 LoversEscapeRapeVPlayer.esp
 LoversRapeSlave.esp
 LoversMB.esp
-LoversDiag.esp
 LoversHideMenus.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2

@@ -313,16 +313,6 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
-Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}}
-: the Cobl Cosmetics Res 01 files installed.
-Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,NoMerge}}
-: the Cobl Cosmetics Res 01 files installed.
-Cobl - NPCDiversity - TNR Merge.esp
-? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
-% {{BASH: NpcFaces,Invent,NoMerge}}
-
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces,NoMerge}}
 TNR - THE DUNMER.esp
@@ -375,6 +365,17 @@ Tamriel NPCs Revamped.esp
 Oblivion_SI Vwalk Full TNR.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+
+Cobl Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+: the Cobl Cosmetics Res 01 files installed.
+Cobl Races TNR SI.esp
+% {{BASH:NpcFaces,NoMerge}}
+: the Cobl Cosmetics Res 01 files installed.
+Cobl - NPCDiversity - TNR Merge.esp
+? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
+% {{BASH: NpcFaces,Invent,NoMerge}}
+
 TweakedGenericFaces.esp
 % {{BASH:NpcFaces,NoMerge}}
 TweakedGenericFaces-LITE.esp

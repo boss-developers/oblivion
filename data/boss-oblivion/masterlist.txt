@@ -1639,6 +1639,7 @@ fwDropGold.esp
 \BeginGroup\: Base G
 
 GoldnSilverBars.esp
+Goranga restaurant job.esp
 Gorangas traveling merchant.esp
 GrayFoxLeatherReward.esp
 GrayFoxOutfit.esp
@@ -3280,6 +3281,7 @@ Hentai_LilyClothes.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
+HGEC Boots.esp
 HGEC Evening Dress.esp
 HGECKoganeHuntressOutfit.esp
 HGEC Witch Queen Ritual Robe.esp
@@ -6038,6 +6040,14 @@ AkaviriStronghold_1C.esp
 
 5573-1.0-Villa Nova, my private retreat-TESSource.esp
 6279-0.1-Winter Wonderland-TESSource.esp
+7roads.esp
+? For play with 'knights.esp' use patch http://tamriel.ru/7roadsmod/Knights_Patch_02.zip
+" Kvatch Rebuilt.(conflict of locations) uncheck mod on the time of play of the addon
+" HoarfrostCastle.esp.(conflict of locations) uncheck mod on the time of play of the addon
+" MidasSpells.esp.(conflict of locations) uncheck mod on the time of play of the addon
+" MannimarcoComplete.esp.(conflict of story) uncheck mod on the time of play of the addon
+" RenCorpseMod.esp (conflict with scripts) uncheck mod on the time of play of the addon
+" Unique landscapes.(conflict of locations) uncheck mods on the time of play of the addon
 
 .LuEmaNarfil Cave of Vampires.esp
 
@@ -6190,6 +6200,7 @@ Arborwatch Basement no Mannequin.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcaca_Infinium.esp
+ArcaneSkyHouse.esp
 Arcane University Telescope.esp
 Archery Shops 2.0 no LL.esp
 Archery Shops 2.0.esp
@@ -7737,6 +7748,7 @@ Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
 swamp home cobl.esp
+SWInn.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
 Sylar_INNMergedCyrodillInnsRevised.esp
@@ -9931,6 +9943,7 @@ More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
 movablebodies.esp
+MTC Stable Interiors.esp
 Music Controller.esp
 MYR_AyleidKing.esp
 MQSDone.esp
@@ -10600,6 +10613,7 @@ Border Removal.esp
 The Complete Ranger.esp
 Shadow Ranger.esp
 
+Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
 SupremeDialougeImmersion[The A-MQ].esp
 

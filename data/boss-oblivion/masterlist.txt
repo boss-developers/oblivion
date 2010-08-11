@@ -3057,6 +3057,7 @@ Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
 Nicos Dreadweave Armor_Light.esp
+Nico's Dreadweave Armor_heavy.esp
 Nico's Dreadweave Bow and Arrows.esp
 dwr.esp
 % {{BASH:Invent}}
@@ -3077,6 +3078,7 @@ Dragon Buster.esp
 Dragon Scale Armor.esp
 dragon weapons.esp
 % {{BASH:Invent}}
+DragonKnightArmor0.9.esp
 Dread Knight Armor.esp
 Dread Knight Weapons.esp
 druid_tomb.esp
@@ -3380,6 +3382,7 @@ kikaibookbelts.esp
 kikaiAS-SheogorathRT-sep.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
+Knight of Skeleton.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
 KohdiAnduril.esp
@@ -3537,6 +3540,7 @@ Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
 Noble Plate Armory.esp
 Noctiluca_Sidereus.esp
+NollemastersCrusaderArmor.esp
 NordicWeapon.esp
 NorseWeapons.esp
 ? May have landscape conflicts with Guards of Cyrodiil.
@@ -3596,6 +3600,7 @@ pale_rider's DragonhunterReloaded.esp
 pale_rider's Hats.esp
 pale_rider's Nordic Warrior Armor.esp
 pale_rider's Paladin Equipment_enchanted_eng.esp
+pale_rider's Paladin Equipment_enchanted_RU.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
 Pauldron.esp
@@ -6617,6 +6622,7 @@ Don't Forget Nirn!.esp
 DopplersArmory.esp
 DMwardropemerged.esp
 Draelins Hidden Abode.esp
+DragonClawCastle.esp
 DragonInvasion.esp
 DragonHouse.esp
 DrelcoManor.esp
@@ -6889,6 +6895,7 @@ Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
 Heroes of Cyrodiil Part 5.esp
+Hero's Retreat.esp
 01_Helms_Deep.esp
 : 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -7782,6 +7789,7 @@ TempleOfHeretics.esp
 TempleofNirn.esp
 The Horror in the Village of Kuhn Dah.esp
 The Temple of Serpent Race.esp
+Theryon.esp
 Templar Fighters Guild.esp
 CHEAT - TempleofNirn.esp
 TempleOfZealots.esp
@@ -7989,6 +7997,7 @@ Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Apachii_Heroes_Store.esp
 VG0HalloweenSpecial.esp
+Villa Flugfels v1.0.esp
 Villages1.1.esp
 Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp

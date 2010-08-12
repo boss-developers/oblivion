@@ -2616,6 +2616,7 @@ Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 AkatoshHead.esp
 alllll61-Saint Silver armor.esp
+Saint_Silver_Armor.esp
 alllll61s-Templar armors beta 0.9.esp
 Alhemy.esp
 Alchemy Book.esp
@@ -2677,6 +2678,7 @@ AC2Gear_HGEC.esp
 Auras.esp
 azsTHouse.esp
 azsTrHouse.esp
+azsLeatherArmor.esp
 azsNarutoArmor.esp
 azsImperialScoutArmor.esp
 alllll61s-blueness lion armor.esp
@@ -2795,6 +2797,7 @@ Battlespire Books.esp
 bbLager.esp
 bbLagerOptional.esp
 bcrich.esp
+BisDancerPumps.esp
 BetterBedroll.esp
 % {{BASH:Invent}}
 BlackDragonNinjato.esp
@@ -2959,8 +2962,10 @@ Colourwheels Sexy Regal Uniforms.esp
 ColourWheels Sexy Servant Uniform.esp
 Colourwheels Sexy Nami.esp
 Colourwheels Sexy Hentais DarkRose.esp
+Colourwheels Sexy minisuka Uniforms.esp
 Colourwheels_Sexy_Sweetclothes.esp
 Colourwheels Sexy Clothing Collection.esp
+ColourWheel_Uniforms_v1.5.esp
 chainmailsdezi.esp
 CasquetteCamisoleX117.esp
 \EndGroup\\
@@ -2973,6 +2978,7 @@ Dancers clothes.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
+Dark Sorceress.esp
 Dauphni Clothing.esp
 DawnWraith.esp
 DBShadowSet.esp
@@ -3126,12 +3132,14 @@ Exnem Pekka Pumps.esp
 Extra Robe Pack.esp
 extavegant masks.esp
 Elfenwacht.esp
+ElvenPrincess.esp
 ElyndasLostDressesHGEC.esp
 Elwing.esp
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 ercGigerBattleclaws_EV.esp
 EY_AoD.esp
+EY_KazaiPhantasm.esp
 EY_Queens Armory.esp
 EY_Vampirehunter.esp
 EY_BM_Armory.esp
@@ -3275,6 +3283,7 @@ Hel Borne's MW Style Wooden Staff.esp
 Hel Borne Spear Set.esp
 Hel Borne's Vampire Slayer Sword.esp
 HD Aragorn Armor.esp
+HDespair.esp
 HelmetCollection.esp
 HellspawnBlades.esp
 HellSpawnDaedric for Exnem.esp
@@ -3288,6 +3297,7 @@ HentaiChinaDress.esp
 HentaiDarkLilith.esp
 Hentai DarkSisterhoodArmor.esp
 HENTAI_EVE.esp
+HentaiEveriaArmor.esp
 HENTAI's gift.esp
 Hentai_HentaiUniform.esp
 Cloth_Hentai_Compilation.esp
@@ -3299,6 +3309,7 @@ Hentai_SnowFlower.esp
 
 HGEC Boots.esp
 HGEC Evening Dress.esp
+HGEC Holy Protector Armor.esp
 HGECKoganeHuntressOutfit.esp
 HGEC Witch Queen Ritual Robe.esp
 HGEC Nagilo Outfits.esp
@@ -3317,6 +3328,7 @@ HL2set.esp
 Hadhafang.esp
 HolyRelics.esp
 homura.esp
+homura outfit HGEC.esp
 HotApparatus.esp
 \EndGroup\\
 
@@ -3414,11 +3426,21 @@ Kikai & Slof Clothing.esp
 
 \BeginGroup\: Items L
 
+L2W Cosplay 01.esp
 LadiesOrcish.esp
+Lady Anna.esp
+Lady Apella.esp
 LadyDeath.esp
+Lady Elegance.esp
+Lady Fantasy.esp
+Lady Flirt.esp
 Lady Jasmine Moon.esp
+Lady Santry.esp
+Lady Secrets.esp
+Lady Skanda.esp
 Lady Thief.esp
 Lady Vamp.esp
+Lady Wild.esp
 lam.esp
 Lamayo's Crescent Axe.esp
 Lamayo's Dragon Bow.esp
@@ -3432,6 +3454,7 @@ LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
 lineagesls.esp
+LittleCarmine.esp
 Lockbreaker.esp
 LockpickMold.esp
 LockpickToolkit.esp
@@ -3467,12 +3490,14 @@ MandBSwords.esp
 mageitems.esp
 Mage Leather Armor.esp
 MagicElvenCapes1a.esp
+maidarmorRetexKABOPAN.esp
 Marine Bunny.esp
 Masks.esp
 Materia.esp
 Medieval leather armors.esp
 Midlander.esp
 Midlander_HGEC.esp
+moon.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
 MotherSword.esp
@@ -3533,6 +3558,7 @@ New Frostmourne Sword by Jojjo v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp
 NewMageRobes.esp
+NexonsArmory.esp
 NexonsArmoryENG.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
@@ -3708,6 +3734,7 @@ RingwraithArmorGlass.esp
 ? Only have one ringwraith armor esp active at once.
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
+Ryk_Swimwear.esp
 RoseGear.esp
 RZWPortableCandles.esp
 \EndGroup\\
@@ -3766,6 +3793,7 @@ SickleIrons_RT.esp
 SilverwareWeapons.esp
 ? if using FCOM use Silverware Weapons - FCOM.esp instead
 Silverware Weapons - FCOM.esp
+SilverPhoenixArmor.esp
 Sin's Expanded Light Armor Kit [Chest].esp
 $ Not compatible with OOO - armors already included - so deactivate when using OOO.
 % {{BASH:Invent}}
@@ -3828,6 +3856,7 @@ SpeechcraftEnhanced.esp
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
+SnakeArmor.esp
 SnowySignatureOutfit.esp
 SOLS CLUTTER MERGE.esp
 SOLS CLUTTER_B MERGE.esp
@@ -3848,6 +3877,7 @@ SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
 SPB Belt Girl.esp
+SPB Boots Set.esp
 SPB Glass Girls.esp
 SPB GW Armors.esp
 SPB Oppai Sensei.esp
@@ -3855,7 +3885,8 @@ SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
-SPB Suicup Dress.esp 
+SPB Suicup Dress.esp
+SPB Tatakau Maid San.esp
 MDP - BG1 Companion.esp
 MDP - BG2 Companion.esp
 spartanspears.esp
@@ -3891,9 +3922,17 @@ Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
+Succuba Armor.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
 Svetovoimech.esp
+SM Cosplay 01.esp
+SM Cosplay 02.esp
+SM Cosplay 04.esp
+SW Cosplay 01.esp
+SW Cosplay 02.esp
+sweetclothes.esp
+SwordDancer.esp
 Sword of the Rivan King.esp
 Sword-of-power.esp
 SwordOfTheGods.esp
@@ -3952,6 +3991,8 @@ tkRapiers.esp
 tkSwords.esp
 TLS Modded Mannequins.esp
 ? Do not use with Reznod's Mannequins.
+TM's HGEC Ball Gown.esp
+Tona Anchorite Outfit.esp
 tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp

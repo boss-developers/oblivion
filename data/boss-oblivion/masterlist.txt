@@ -389,6 +389,8 @@ Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}}
 Younger Hotter NPC's v1.0 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Younger  Women's_1C Gold.esp
+% {{BASH:NpcFaces,NoMerge}}
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces,NoMerge}}
 Beautiful_Women_DB_Addon.esp
@@ -1641,6 +1643,7 @@ fwDropGold.esp
 GoldnSilverBars.esp
 Goranga restaurant job.esp
 Gorangas traveling merchant.esp
+GP Tent.esp
 GrayFoxLeatherReward.esp
 GrayFoxOutfit.esp
 Grand Potions.esp
@@ -2028,6 +2031,8 @@ Shield on Back RC5-Public.esp
 Shield on Back 3.1.esp
 ? Obsolete. Upgrade to latest version.
 ShieldOnBack_1C.esp
+? Obsolete. Upgrade to latest version.
+ShieldOnBack_GOTY_1C.esp
 ? Obsolete. Upgrade to latest version.
 1HweaponOnBack.esp
 ? Obsolete. Upgrade to latest version.
@@ -2567,6 +2572,7 @@ avarm.esp
 1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
 1SB Soulshade Sword.esp
+1SBSoulshadeSword_1C.esp
 1SB_TerryMalick_BallGownVariants.esp
 1SB_OrthaeSword.esp
 1SB_ValsharessArmors.esp
@@ -2597,6 +2603,7 @@ Action_Figures_Series2.esp
 ACUP.esp
 adelina.esp
 Adonnays Classical Weaponry.esp
+Adonnays Classical WeaponryRU.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
 Adonnays Elven Weaponry for NPCs.esp
@@ -2803,6 +2810,7 @@ BlackGlovesRus.esp
 ? Only Use this for Russion version.
 Blackhand Courtesan.esp
 Blackheart and Gizmodian ECRobes.esp
+Black Mirror.esp
 BlackSoulGemArmory.esp
 Blackwire.esp
 Blade Of Woe Replacer.esp
@@ -3009,6 +3017,7 @@ Dark Dragon Armor.esp
 DarkSaintHGEC.esp
 darkdwemerXZAR.esp
 Dragonbone Cuirass.esp
+DragonCword.esp
 DaedricCrescentBlade.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
@@ -3102,6 +3111,7 @@ DH13 Battle China Dress.esp
 EagleSword.esp
 Echo_MysticShield.esp
 EckoSword.esp
+Edhildils Savior Bikini Armor.esp
 ElegantVests.esp
 Elegant Vests.esp
 ElementalWeapons.esp
@@ -3143,6 +3153,7 @@ Fans for Helain.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
 FashionAnvil.esp
+Fatalis.esp
 FB_Dark_Crusader_01.esp
 % {{BASH:Invent}}
 FB_DC_Mega_Pack_OMOD.esp
@@ -3163,6 +3174,7 @@ FineWeapons.esp
 % {{BASH:Graphics}}
 FinGleamRing.esp
 FireCircle_1C.esp
+flamberg.esp
 Flamboyant Hat_SI.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
@@ -3202,6 +3214,7 @@ GhostArmor.esp
 GHSamuraiArmor.esp
 Gizmodian - Shell of the Artifice.esp
 Gizmodian - Vicious Heart.esp
+Gizmodian - Vicious Heart.SoB.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
 GizmodianSothaDagger.esp
@@ -3213,6 +3226,7 @@ Godslayer and Divine Protection.esp
 God Ring 1.esp
 the god ring.esp
 Dual God Rings.esp
+Goldbrand Rapier.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
 GoldenShadowArmor.esp
@@ -3514,6 +3528,7 @@ Natures_Arsenal.esp
 Necessary Violence.esp
 Neckerchiefs v1.2.esp
 NecroArmour.esp
+NemakkiArrows_1C.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp
@@ -3655,6 +3670,7 @@ RedGlassGear.esp
 RenKnockOutArrow.esp
 Retma Dresses.esp
 Reznod Mannequin.esp
+Reznod_Mannequin_1C.esp
 Reznod_Mannequin_HD[Eng].esp
 RGMsCheerleader.esp
 Rindirs Staves.esp
@@ -3906,6 +3922,7 @@ The Bow of Bones.esp
 TheBowOfBonesRevisited.esp
 The Bow of Daedric Blood.esp
 The Bow of Robin of Locksley.esp
+TheBowOfRobinOfLocksley_1C.esp
 The Bow of the Drow.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
@@ -3922,6 +3939,7 @@ The legendary Archer - DV.esp
 The Little Weapon Pack OB.esp
 % {{BASH:Invent}}
 The One Ring.esp
+The Relics of Fire and Ice.esp
 The SilverDragonArmorQuest.esp
 % {{BASH:Invent}}
 The Sword of Cyrodiil.esp
@@ -4571,12 +4589,13 @@ R18PN - Bikini Re-Textured.esp
 R18PN - Dancer's Dress.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
+R18PN - Mina Armor.esp
 R18PN - Mizugi set.esp
 R18PN - Bs Bondage.esp
-kunoichi DM Enchanted.esp
-SexyKunoichi.esp
 R18PN - Collection.esp
 R18PN - Schatten lauf Amr.esp
+kunoichi DM Enchanted.esp
+SexyKunoichi.esp
 TrawlolsCorinthianGladiator.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
@@ -6858,6 +6877,7 @@ HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
 hchouse408.esp
+HeavenlyIslands.esp
 Hedge Home.esp
 HelsethArmor.esp
 Hentai Mania.esp
@@ -10523,6 +10543,8 @@ Unlimited Rings - Shivering Isles.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited_AmulRings_1C.esp
+? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
 UV Vanilla Quest Fixes.esp
@@ -11108,6 +11130,7 @@ P-Froggys Spells.esp
 DS Summon Luggage.esp
 Diplomacy and Mercy.esp
 Egress.esp
+Egress_ru.esp
 DS Realistic Enchanted Item Limits.esp
 Natural Rings Limit.esp
 Is It Safe.esp
@@ -13674,6 +13697,7 @@ boethia custom race.esp
 ? Included in UOP v2.x or newer. Both should not be used at once. Use UOP.
 ? It is obligatory to use together with Cosmetic Compilation.esp
 ? Eliminates impossibility of passage of a quest of Boethia's "Tournament of Ten Blood".
+RaceFix_1C.esp
 Patch Naked NPCs.esp
 \EndGroup\\
 

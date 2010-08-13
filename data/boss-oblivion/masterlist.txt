@@ -5273,12 +5273,12 @@ MTCDirtierBandits.esp
 >? Use only one: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
 >
+FCOM_MoreWildernessLife.esp
+? Delete. Use Mart's Monster Mod - More Wilderness Life.esp or Mart's Monster Mod - More Wilderness Life No Gates.esp instead
 >Mart's Monster Mod - More Wilderness Life.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
-FCOM_MoreWildernessLife.esp
-? Optional -- Use instead of MMM
 >Mart's Monster Mod - More Passive Wildlife.esp
 
 >Mart's Monster Mod - Safer Roads.esp
@@ -10181,6 +10181,7 @@ Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
+ReneerKeyLockMod.esp
 ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp

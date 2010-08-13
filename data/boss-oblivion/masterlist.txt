@@ -1617,6 +1617,7 @@ Enhanced Key Functionality [Shivering Isles].esp
 ES4_Alchemists Reference.esp
 Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
+Exploding_Arrows_free_ru.esp
 Extended Death Camera.esp
 ? Consider using the Wrye Bash Bashed Patch tweak option instead.
 \EndGroup\\
@@ -2670,6 +2671,7 @@ Armory of the Silver Dragon.esp
 Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
+ArynnsDemonatrixHGEC.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
 AC2-Revisited_DV.esp
@@ -2974,6 +2976,7 @@ CasquetteCamisoleX117.esp
 
 dagger_o_a.esp
 DaggerTB.esp
+dan_HGEC-EcupTattooArmor.esp
 Dancers clothes.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
@@ -3029,6 +3032,7 @@ Dark Glass Set.esp
 Darkgreen Glass Armour.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
 DarkIllusionArmor.esp
+DarkIllusionSchoolUniform.esp
 Dark_Katana.esp
 DarkLeatherArmor.esp
 % {{BASH:Invent}}
@@ -3311,6 +3315,7 @@ HGEC Boots.esp
 HGEC Evening Dress.esp
 HGEC Holy Protector Armor.esp
 HGECKoganeHuntressOutfit.esp
+HGEC Lady Camellia.esp
 HGEC Witch Queen Ritual Robe.esp
 HGEC Nagilo Outfits.esp
 HiddenSkulls.esp
@@ -3367,6 +3372,8 @@ JediLightsabersWithSheathFIX.esp
 : OBSE
 JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Joe's Energy Bow.esp
+Journeyman_armor.esp
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
 JPBooks_Vanilla+SI.esp
@@ -3756,6 +3763,7 @@ ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
+SedaArmor.esp
 Seductress Armour.esp
 semi_precious_stones.esp
 SentientWeapon.esp
@@ -3943,6 +3951,7 @@ Swords of Thought.esp
 
 talon.esp
 % {{BASH:Invent}}
+TadEC_Underwear01.esp
 Talon of Akatosh Claymore.esp
 Talon of Akatosh Longsword.esp
 Taokaka am.esp
@@ -4323,6 +4332,10 @@ StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 LC-Compilation-Exnem.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+LC-Legion-Exnem.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+LC-Dragon-Exnem.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -4458,6 +4471,7 @@ ExnemEyeCandy_RTFem.esp
 ExWearUndies.esp
 Sack of Pants.esp
 SkeuomorphT3.esp
+Skeuomorph_LBD.esp
 TFF_Armor_OOO.esp
 % {{BASH:Graphics}}
 TFF_FantasyFigures_Armour_RealGlass.esp
@@ -4530,6 +4544,7 @@ Swim Suit Retextured By DH13 Part 3.esp
 Robed Panty.esp
 Opale armor for Exnem body.esp
 GoddessArmor_Exnem.esp
+Exnem_Goddess_Armor.esp
 Emerald armor for Exnem body.esp
 300_Brocade_Outfits.esp
 CrimsonEyeCandy.esp
@@ -4539,6 +4554,7 @@ EC_BlackDeathWarrRetex.esp
 BlackRogue.esp
 darkrosearmor.esp
 Dark Rose Armor.esp
+Dark Rose Armor Rus.esp
 DM Outlaw armor_EN.esp
 Gizmodian - Eclipse.esp
 GreenNGold Amazon armor for Exnem body.esp
@@ -4660,6 +4676,7 @@ DianoArmor2.esp
 CrimsonHGEC.esp
 Double Crimson HGEC_nff.esp
 The Sexy BeastV1.2.esp
+TheSexyBeastV1.2_ru.esp
 Hentai_LovelySuits.esp
 Dark_Mistress.esp
 HGEC Rogue Mage & Scoundrel.esp
@@ -6437,6 +6454,7 @@ BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
 Bjornheim.esp
+Bjornheim_1C.esp
 BlackMarshHall.esp
 BlackRockManorV11.esp
 Vibliribland-4489-Blackrock_Mountain.esp
@@ -6556,6 +6574,7 @@ Cheydinhal Petshop.esp
 ChorrolFirstHouse.esp
 Cinderella Craft V2.0.esp
 Clover the lucky pig.esp
+cloudcity mod V1.1.esp
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
@@ -7116,6 +7135,7 @@ The Imperial Vaults.esp
 In Sachen Ayleiden.esp
 Insanity's Pet Shop.esp
 Isiak's fate.esp
+Island.esp
 Island Lighthouse.esp
 Ivy Cottage.esp
 \EndGroup\\
@@ -7234,6 +7254,7 @@ EiAmod Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 KumikoManor.esp
+Kumiko Manor 2.1 Rus.esp
 KEMT.esp
 Lair_of_the_Hydra-4490.esp
 Lair_of_the_Hydra.esp
@@ -7256,6 +7277,8 @@ Lakeview.esp
 Lakeview2.esp
 Lakeview2 DV.esp
 Lakewood Village Ver 2.0.esp
+Latexshop.esp
+Latexshop2.esp
 latexshopstore.esp
 LE_search.esp
 Legends Baleful Eye.esp
@@ -8190,6 +8213,7 @@ Angel's Arena Loot en.esp
 Add_Arena_Robes-5411.esp
 Arena Blacksmith.esp
 Arena Camp.esp
+Arena Immersion Upgrade.esp
 Arena Immersion Upgrade-1174451252-TESSource.esp
 CDM-Arena Gauntlet.esp
 CDM-Arena Survival.esp
@@ -12654,6 +12678,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AinmhiRace-RensBeautyPackFull.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+AinmhiRace-RensBeautyPackHairsOnly.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Anwolf Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Asian Race.esp
@@ -12701,6 +12727,10 @@ Nec-Character_Clair.esp
 Nec-Character_Karla.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Sonnet_Mature.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Nec-Character_Sonnet_Sweet.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Nec-Character_Sonnet_Spoiled.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moonshadow Elves - Sc.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -12763,6 +12793,8 @@ Dremora.esp
 % {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
 Dremora Race Playable.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Dremora Race with Tail.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DremoraFemales.esp
 % {{BASH:Voices-F}}
@@ -13367,6 +13399,8 @@ DAJynx.esp
 : OBSE.
 % {{BASH:Hair,Eyes}}
 DAClair.esp
+% {{BASH:Hair,Eyes}}
+DAConan.esp
 % {{BASH:Hair,Eyes}}
 DABrinn.esp
 % {{BASH:Hair,Eyes}}

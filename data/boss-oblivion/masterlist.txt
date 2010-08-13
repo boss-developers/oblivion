@@ -3742,6 +3742,7 @@ RingwraithArmorSteel.esp
 ? Only have one ringwraith armor esp active at once.
 RingwraithArmorGlass.esp
 ? Only have one ringwraith armor esp active at once.
+RippleBlade.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
 Ryk_Swimwear.esp
@@ -8401,6 +8402,7 @@ MOBS_Knights.esp
 % {{BASH:Stats}}
 MOBS Knights.esp
 % {{BASH:NoMerge,Stats}}
+Kot9 Rings.esp
 SM Plugin Refurbish - Knights.esp
 " 'CDM-CGO Compatibility plugins'.
 SM Plugin Refurbish(Merged).esp
@@ -8694,6 +8696,7 @@ Enhanced Weather - Elsweyr Anequina Patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
+% {{BASH:Body-F}}
 Rimmen.esp
 RimmenAN.esp
 % {{BASH:Filter,C.Climate,Deactivate}}

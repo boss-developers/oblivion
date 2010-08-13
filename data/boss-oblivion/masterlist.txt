@@ -254,6 +254,8 @@ $ Probably not compatible with OOO.
 
 \BeginGroup\: Earliest mods
 \-------------
+rus_DotStudio_1.2_final.esp
+? it's rusification of oblivion.esm
 
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
@@ -572,6 +574,7 @@ Oblivion_Deutsch_v3_2_1.esp
 \---------------
 
 DLCShiveringIsles.esp
+SI_rus_DotStudio_1.1.esp 
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
 Unofficial Shivering Isles Patch.esp
@@ -5273,6 +5276,8 @@ MTCDirtierBandits.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+FCOM_MoreWildernessLife.esp
+? Optional -- Use instead of MMM
 >Mart's Monster Mod - More Passive Wildlife.esp
 
 >Mart's Monster Mod - Safer Roads.esp
@@ -10724,6 +10729,7 @@ Cliff_RPO_NewBeginnings_RPC.esp
 DD_RestrictedCityEntrance.esp
 
 Quest Award Leveling.esp
+Quest Award Leveling_1C.esp 
 Quest Award Leveling SI.esp
 Quest Award Leveling SI - no forged items.esp
 Quest Award Leveling - Finger of the Mountain.esp

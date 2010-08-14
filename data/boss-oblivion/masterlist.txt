@@ -1484,11 +1484,13 @@ CFVBloodgrass.esp
 CDM - Uderfrykte Matron Fix.esp
 
 ClocksOfCyrodiil.esp
-? For use with Better Cities use 'ClocksOfCyrodiilBC.esp' or 'ClocksOfCyrodiilOBC.esp' or 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp'
+? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ClocksOfCyrodiilBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
+? Obsolete. Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ClocksOfCyrodiilOBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
+? 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ClocksOfCyrodiilNoArcane.esp
 ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
 ? Deactivate CLocksOfCyrodiil.esp

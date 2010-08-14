@@ -2512,24 +2512,26 @@ JuvenileMod.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
-% {{BASH:Graphics,NpcFaces,Hair,Eyes}}
+% {{BASH:Body-M,Body-F,NpcFaces,Hair,Eyes}}
 Bab.esp
-% {{BASH:Graphics}}
+% {{BASH:Body-M,Body-F}}
+Bodybuilder Body.esp
+% {{BASH:Body-M,Body-F}}
 MaleBodyReplacerV3.esp
-% {{BASH:Body-M,Graphics}}
+% {{BASH:Body-M}}
 Male Body Replacer v 3.esp
-% {{BASH:Body-M,Graphics}}
+% {{BASH:Body-M}}
 MaleBodyReplacerV4.esp
-% {{BASH:Body-M,Graphics}}
+% {{BASH:Body-M}}
 Male Body Replacer.esp
-% {{BASH:Body-M,Graphics}}
+% {{BASH:Body-M}}
 MaleBodyReplacer.esp
-% {{BASH:Body-M,Graphics}}
+% {{BASH:Body-M}}
 MaleBodyReplacerV5Beta.esp
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
-% {{BASH:Body-F,Graphics}}
+% {{BASH:Body-F}}
 Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
@@ -4559,6 +4561,7 @@ BlackRogue.esp
 darkrosearmor.esp
 Dark Rose Armor.esp
 Dark Rose Armor Rus.esp
+DarkRoseSet.esp
 DM Outlaw armor_EN.esp
 Gizmodian - Eclipse.esp
 GreenNGold Amazon armor for Exnem body.esp
@@ -13024,6 +13027,8 @@ X.Nature.Elf.esp
 X.Moon.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Night.Elf.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+X.Night.Walker.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Vampire.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

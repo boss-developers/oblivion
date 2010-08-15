@@ -3175,6 +3175,8 @@ FashionAnvil.esp
 Fatalis.esp
 FB_Dark_Crusader_01.esp
 % {{BASH:Invent}}
+FB_Dark_Crusader_Dynamis.esp
+FB_Dark_Crusader_Longbow_01.esp
 FB_DC_Mega_Pack_OMOD.esp
 % {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
@@ -4538,6 +4540,8 @@ Slof's Beefcake Armors.esp
 Black Courtesan Dress.esp
 NamirasEmbraceArmour.esp
 Rogue Mage & Scoundrel.esp
+StockClothingArmorHGECnormalD.esp
+% {{BASH:Graphics}}
 StockClothingArmorHGECFighterD.esp
 % {{BASH:Graphics}}
 HGEC_BodyGlove.esp
@@ -4647,7 +4651,6 @@ DarkFlameSwordAndShield_v10_FIXED_ESP.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH:Graphics}}
 CDM-Assassin Robes Renamed.esp
-StockClothingArmorHGECnormalD.esp
 Battle China Dress.esp
 R18PN - Amy Armor Set.esp
 R18PN - Ayumi Set.esp
@@ -4983,6 +4986,9 @@ FCOM_KDCircletsOOOOptimizedNPCEquip.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 ExnemRuneskulls.esp
+>: 'FCOM_ExnemRuneskulls.esp'.
+? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
+ExnemRuneskulls_ru.esp
 >: 'FCOM_ExnemRuneskulls.esp'.
 ? Not need if use Mart's Monster Mod - Diverse Runeskulls*.esp
 FCOM_ExnemRuneskulls.esp
@@ -7171,6 +7177,7 @@ Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
 Jeral View Chalet.esp
+JHraesvelgrsTalon_1C.esp
 JolardHome.esp
 JQ-AssassinQuest.esp
 JQ-AssassinQuest-NoMarkers.esp
@@ -7695,6 +7702,7 @@ runestone.esp
 RuneTower.esp
 The Ranger's House.esp
 rayearth.esp
+Rayearth_1C.esp
 \EndGroup\\
 
 \BeginGroup\: Quests S
@@ -9620,6 +9628,7 @@ BloodSpray.esp
 BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Enchanted Portable Tent.esp
+Enchanted Portable Tent non-Cobl.esp
 Enchanted Portable Tent - See You Sleep Patch.esp
 Bonds Big Portable Tent.esp
 phinix_portable_tent.esp
@@ -12828,6 +12837,8 @@ Luchaire's Dryad Race.esp
 The Southlanders.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Tabaxi_Race_Default.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+tabaxi_race_CE.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Tabaxi Race 2.0.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

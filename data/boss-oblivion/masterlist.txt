@@ -9328,67 +9328,44 @@ Open Cities Bartholm.esp
 : Bartholm.
 
 Open Cities Anvil.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Bravil.esp
-% {{BASH:Actors.AIPackages}}
 
 Open Cities Bravil Blood&Mud.esp
 : Bravil Blood&Mud.
-% {{BASH:Actors.AIPackages}}
 
 Open Cities Bruma.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Cheydinhal.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Chorrol.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Leyawiin.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
-% {{BASH:Actors.AIPackages}}
 Open Cities Skingrad.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Outer Districts.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Full.esp
-% {{BASH:Actors.AIPackages}}
 
 Open Cities Full + Bravil Blood & Mud.esp
 : Bravil Blood&Mud.
-% {{BASH:Actors.AIPackages}}
 
 Open_Cities_Complete-Leyawiin_Reborn.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Full + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
-% {{BASH:Actors.AIPackages}}
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 : Bravil Blood&Mud.
-% {{BASH:Actors.AIPackages}}
 \EndGroup\\
 
 \BeginGroup\: Open Cities Reborn
 \'''''''''''''''''''''''''''''''
 
 Open Cities Reborn - Anvil.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Bravil.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Bruma.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Cheydinhal.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Chorrol.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Leyawiin.esp
-% {{BASH:Actors.AIPackages}}
 Open Cities Reborn - Skingrad.esp
-% {{BASH:Actors.AIPackages}}
 
 Open Cities Reborn - Full Merge.esp
-% {{BASH:Actors.AIPackages}}
 
 \EndGroup\\
 

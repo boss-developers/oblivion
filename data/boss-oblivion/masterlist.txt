@@ -311,7 +311,7 @@ notamod.esp
 \Bash and deactivate to keep new faces with NPC altering mods later.
 
 xeoex.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Ears,R.Head,R.Mouth}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Ears,R.Head,R.Mouth,R.Teeth}}
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 

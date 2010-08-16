@@ -6143,6 +6143,7 @@ AkaviriStronghold_1C.esp
 5573-1.0-Villa Nova, my private retreat-TESSource.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 7roads.esp
+% {{BASH:Actors.ACBS,Factions,Invent,Relations,Scripts}}
 ? For play with 'knights.esp' use patch http://tamriel.ru/7roadsmod/Knights_Patch_02.zip
 " Kvatch Rebuilt.(conflict of locations) uncheck mod on the time of play of the addon
 " HoarfrostCastle.esp.(conflict of locations) uncheck mod on the time of play of the addon

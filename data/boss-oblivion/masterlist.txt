@@ -1266,6 +1266,8 @@ archrobe.esp
 Automagic Bags 1.1.esp
 ? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
 Auto_Recharge.esp
+No Recharge.esp
+: OBSE
 autosavertest.esp
 Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
@@ -3917,6 +3919,7 @@ Spirit Blade.esp
 SpiritswordF_alfa.esp
 Staff of Portals.esp
 StahlArmor.esp
+Stained Glass Equipment.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
 stfClothesR v1.esp
@@ -5077,6 +5080,8 @@ G_'s-Loot-Mod_v2.5[Unscaled Version].esp
 G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
 G_'s-Loot-Mod_v2.5[Scaled Equipment Addon].esp
+
+Free Levelling.esp
 \EndGroup\\
 
 \BeginGroup\: OOO full and lite.
@@ -7878,6 +7883,10 @@ Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil and Sensual Walks.
+BetterInns + NewHomeOwners.esp
+BetterInns - ClocksOfCyrodiil PATCH.esp
+BetterInns - COBL PATCH.esp
+BetterInns - BHCExpanded PATCH.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\
 
@@ -9807,6 +9816,8 @@ DMRA Replacer OOO Collection.esp
 dragonarmormod_1.0.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
+Dwemer_Rename.esp
+? If using Wrye Bash use the Bashed Patch Tweak instead and delete.
 \EndGroup\\
 
 \BeginGroup\: overrides E
@@ -10984,6 +10995,8 @@ Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
 Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
+ReneerKeyLockMod.espJumpModifier.esp
+: OBSE
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
 Duke patricks jump modifier.esp
@@ -11014,6 +11027,7 @@ Roughing It.esp
 \Can be problematic to use hunger and thirst realism mods with many of these (as one has a different diet!).
 
 _lpBloodPotionFixOnly.esp
+_lpVampirismEmpoweredLite.esp
 Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
 

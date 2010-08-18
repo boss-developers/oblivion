@@ -3443,6 +3443,7 @@ Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
 Kikai & Slof Clothing.esp
+Kurese Recolours.esp
 \EndGroup\\
 
 \BeginGroup\: Items L
@@ -3756,6 +3757,7 @@ RingwraithArmorSteel.esp
 RingwraithArmorGlass.esp
 ? Only have one ringwraith armor esp active at once.
 RippleBlade.esp
+Ryk_Sandals.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
 Ryk_Swimwear.esp
@@ -4837,6 +4839,7 @@ Legion Horses Armored.esp
 Legion's Horses Armored With Slof's Horse Bases.esp
 % {{BASH:Graphics}} untested.
 MD Saddlebags v3.0 Alternative Trader Script.esp
+SBsaddlebags.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
@@ -7437,6 +7440,8 @@ MistyHideout.esp
 MountainShack.esp
 MountainShack DV.esp
 MountainShackR12.esp
+? Old, Update to R121
+MountainShackR121.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp
 mrSiikas_TheEmperorsTomb.esp

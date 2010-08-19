@@ -745,6 +745,8 @@ MrSiikaRabbitsforFrans.esp
 \
 \Unlikely to interact with other mods but OOO will overwrite vanilla replacers if not correctly Bash Patched.
 
+7roads_screens.esp
+% {{BASH:Graphics}}
 Atmospheric Loading Screens.esp
 % {{BASH:Graphics}}
 ? Move after Race Balancing Project if using that.
@@ -1363,6 +1365,7 @@ Carcernus Prison.esp
 ChapelsOfCyrodiilLOD.esp
 CharGenAmulet.esp
 Character_Changer-2826.esp
+Clintmichs Market District Merchants.esp
 crafting.esp
 CWar's Chest of Fun v1.4.esp
 007camera.esp
@@ -2361,6 +2364,7 @@ Landmarks With Wells.esp
 $ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
 
 AddMapMarkers.esp
+All Travel Markers.esp
 Aurix's_Names.esp
 AyleidStatueMap.esp
 BeyondCyrodiilMarkers.esp
@@ -3236,6 +3240,7 @@ GCBloodgown.esp
 GemSword.esp
 Ghogiels Armor.esp
 GhostArmor.esp
+Ghost Ring.esp
 GHSamuraiArmor.esp
 Gizmodian - Shell of the Artifice.esp
 Gizmodian - Vicious Heart.esp
@@ -3483,6 +3488,7 @@ LockpickToolkit.esp
 LoH Equipment v0_02_2.esp
 LongTop.esp
 Loth's Armory of the 1st Empire.esp
+lotusarmorv1.esp
 LootableLichHelm_Lt.esp
 % {{BASH:Invent}}
 LootableLichHelm_Hvy.esp
@@ -4648,6 +4654,7 @@ FF7 Swords 02 core apocalypse.esp
 " Open Cities.
 exhoffhandseries_1.0.esp
 Grim Reaper.esp
+Grim Reaper_1C.esp
 shadow lord_normal.esp
 A Very Silly Slaughterfish Mod.esp
 fishclub.esp
@@ -7164,6 +7171,7 @@ IC Tower.esp
 ImpeREAL Empire - Unique Forts - Bouayard.esp
 Imperial House.esp
 ImperialCemetery.esp
+ImriellesHousesSkingrad.esp
 Improved dungeons.esp
 ? Upgrade to latest version, called "The Lost Treasures Of Cyrodiil"
 ICTalosPlazaHome.esp
@@ -7384,6 +7392,8 @@ Lycanmoon.esp
 Lycanmoon1.6b.esp
 Lycanthrope.esp
 ? Consider upgrading to Werewolf - Legends of the North.
+Lycanthrope v1.0.esp
+? Consider upgrading to Werewolf - Legends of the Nort
 Lycanthrope 2.esp
 ? Consider upgrading to Werewolf - Legends of the North.
 Lyn-AbsoluteFreedom.esp
@@ -7471,6 +7481,7 @@ MTCRiverShackv1.2.esp
 00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
 MTCGlarthirsHouse.esp
+MTC Glarthirs House.esp
 MTCStableInteriors.esp
 
 NPCs Alive - Faregyll Inn.esp
@@ -7794,6 +7805,7 @@ Side's Sailing Ships (Bathing).esp
 Side's Sailing Ships (BloodyMess).esp
 Side's Sailing Ships (COBL).esp
 Side's Skingrad  House.esp
+Side's Skingrad House.esp
 Side's Skingrad  House (COBL).esp
 Side's Skingrad  House (Bathing).esp
 Side's Skingrad  House (BloodyMess).esp
@@ -8008,7 +8020,7 @@ TheVaultofOrder.esp
 ThemeParkFinal.esp
 thievery.esp
 thievery - EE patch.esp
-
+TiredVampireShipRu.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp

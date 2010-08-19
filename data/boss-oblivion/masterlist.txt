@@ -4499,6 +4499,9 @@ Exnem_Golden_Assassin_Armor.esp
 ExnemEyeCandy_RTFem.esp
 ExWearUndies.esp
 Sack of Pants.esp
+% {{BASH:Graphics}}
+Sack of PantsRU.esp
+% {{BASH:Graphics}}
 SkeuomorphT3.esp
 Skeuomorph_LBD.esp
 TFF_Armor_OOO.esp
@@ -12892,6 +12895,8 @@ Tabaxi Race 2.0.esp
 Lineage II Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Elves Of Lineage II.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Elves Of Lineage II_1.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}

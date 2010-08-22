@@ -2640,6 +2640,8 @@ Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
 Alluring Potion Bottles.esp
 % {{BASH:Graphics,NoMerge}}
+Alluring Potion Bottles v2.esp
+% {{BASH:Graphics,NoMerge}}
 AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
@@ -9452,6 +9454,7 @@ Better Abandoned House OC Full.esp
 Better Abandoned House OC Cheydinhal.esp
 ? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
 Better Abandoned House - Interior Only.esp
+Better Abandoned House - Complete.esp 
 
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp

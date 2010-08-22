@@ -3715,6 +3715,7 @@ Queensarmory.esp
 RealitySpectresThiefGarb.esp
 Ranger's Shroud Armor.esp
 Ranger's Shroud Armour - RSArmor.esp
+RSArmor.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 Raziel_Apperal.esp
@@ -7334,6 +7335,7 @@ LE_search.esp
 Legends Baleful Eye.esp
 Legion Faction Mod.esp
 % {{BASH:Relations}}
+Lost Grove.esp
 Love Suite Room.esp
 Lem - Celestial Lagoon.esp
 Lem - The Nether.esp
@@ -10235,6 +10237,8 @@ PlayersDiary_1C.esp
 Quest Item Tag Remover.esp
 QuestItemFlagRemover.esp
 QuestItemMessage.esp
+Q - Gem Value Modifier - Realistic v1.1.esp
+% {{BASH:Stats}}
 \EndGroup\\
 
 \BeginGroup\: overrides R

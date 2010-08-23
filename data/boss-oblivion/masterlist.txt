@@ -3436,6 +3436,7 @@ kikaibookbelts.esp
 kikaiAS-SheogorathRT-sep.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
+Knight of Order Armor.esp
 Knight of Skeleton.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
@@ -4023,6 +4024,7 @@ The SilverDragonArmorQuest.esp
 % {{BASH:Invent}}
 The Sword of Cyrodiil.esp
 The Sword of Truth.esp
+ThiefArmor.esp
 Throwable kunai.esp
 Thunderbird Armor.esp
 thunderfury.esp
@@ -6330,6 +6332,8 @@ Arborwatch.esp
 Arborwatch Basement no Mannequin.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
+Arcane Services.esp
+: OBSE & SI
 Arcaca_Infinium.esp
 ArcaneSkyHouse.esp
 Arcane University Telescope.esp
@@ -8392,6 +8396,7 @@ Frostcrag Addon.esp
 Frostcrag For Busy People.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
+DLCFrostcragCoblAddons.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
@@ -13231,6 +13236,7 @@ CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners Belle.esp
 CM Partners 20 Pack.esp
+CM Partners Khajits by Howabominable.esp 
 CM Partner Jordie1.esp
 CM Partner - Ace the Rottweiler.esp
 CM Partner - Aries the Dalmation.esp

@@ -250,6 +250,7 @@ Cure Disease Overhaul - Deadly Diseases (OBSE).esm
 Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esm
 SPTDiverseGuards-Resources.esm
 $ Probably not compatible with OOO.
+Oblivion Achievements CORE Version.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -2847,6 +2848,7 @@ Bluefire Claymore by Mr. V.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
+Birthsign Jewelry.esp
 Bisquits.esp
 Bisquits01.esp
 BisPainBringer.esp
@@ -3261,6 +3263,7 @@ Dual God Rings.esp
 Goldbrand Rapier.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
+Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
 GothFreak's Celtic Rings and Swords.esp
 GriffinArmor.esp
@@ -3434,6 +3437,7 @@ kibuka-light.esp
 KIVampires_HoodAddon.esp
 kikaibookbelts.esp
 kikaiAS-SheogorathRT-sep.esp
+kikaiDSSeductiveArmor.esp
 Kill_Bill_Katanas.esp
 kitsune.esp
 Knight of Order Armor.esp
@@ -5395,8 +5399,11 @@ FCOM_MoreWildernessLife.esp
 >Mart's Monster Mod - No Adventurers.esp
 >Mart's Monster Mod - No Beholdens.esp
 >Mart's Monster Mod - No Uberhulks.esp
+>* Delete. Not FCOM compatible.
 >Mart's Monster Mod - No Skeep.esp
+>* Delete. Not FCOM compatible.
 >Mart's Monster Mod - No Balrogs.esp
+>* Delete. Not FCOM compatible.
 >Mart's Monster Mod - More Reavers.esp
 >? Old version. As from v3.6, integrated into of Additional Enemy NPC Vars.
 >Mart's Monster Mod - Extra Reavers.esp
@@ -6986,6 +6993,7 @@ Haunted_House_v1.5.esp
 % {{BASH:Invent}}
 HauntedLairMod.esp
 ? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
+Haven of the Mad.esp
 HazadirsArms.esp
 HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
@@ -9979,6 +9987,7 @@ Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
 HUDcompanions.esp
 Hurt Me Traps.esp
+Hurt me Bad Traps.esp
 \EndGroup\\
 
 \BeginGroup\: overrides I
@@ -10768,6 +10777,10 @@ CLS-Craftybits_A_Bloody_Mess-Glue-Ragplacer.esp
 CLS-Craftybits Raw Material Supplier addon.esp
 CB-X-Skills Removal.esp
 CB-X Skills Removal.esp
+Marooned.esp
+Marooned - Cobl Patch.esp
+Dominick's SurReal Necromancy.esp
+CLS-CB-COBL-Tweaks.esp
 
 Erics Crafting Mod.esp
 % {{BASH:Scripts,Invent}}
@@ -13237,6 +13250,7 @@ CM Partners Beasts.esp
 CM Partners Belle.esp
 CM Partners 20 Pack.esp
 CM Partners Khajits by Howabominable.esp 
+CM Partner Cherise Darkdae.esp
 CM Partner Jordie1.esp
 CM Partner - Ace the Rottweiler.esp
 CM Partner - Aries the Dalmation.esp

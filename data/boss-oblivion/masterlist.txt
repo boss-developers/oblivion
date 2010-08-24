@@ -6456,6 +6456,10 @@ BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
 Benirus_Servents.esp
+
+BrotherhoodRenewed.esp
+% {{BASH:Actors.AIPackages,Factions}}
+
 Better Dark Brotherhood Sanctuary.esp
 Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
@@ -6545,8 +6549,6 @@ BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
 BravilBridgeCottage.esp
 Break Into the Arcane University.esp
-BrotherhoodRenewed.esp
-% {{BASH:Actors.AIPackages}}
 Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp

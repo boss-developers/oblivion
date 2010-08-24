@@ -3659,6 +3659,8 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
+OriginalLeather.esp
+OriginalLeatherSI.esp
 ORM -Travelers' Cloaks.esp
 OS Artifacts.esp
 \EndGroup\\
@@ -6456,10 +6458,6 @@ BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
 Benirus' Past.esp
 Benirus_Servents.esp
-
-BrotherhoodRenewed.esp
-% {{BASH:Factions}}
-
 Better Dark Brotherhood Sanctuary.esp
 Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
@@ -6549,6 +6547,8 @@ BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
 BravilBridgeCottage.esp
 Break Into the Arcane University.esp
+BrotherhoodRenewed.esp
+% {{BASH:Actors.AIPackages}}
 Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
@@ -9953,6 +9953,8 @@ GladiatorsVarlorRing.esp
 goblin_war_party.esp
 Goblin Tribal Shields.esp
 goblin_wars.esp
+Gold Change II.esp
+% {{BASH:Names}}
 GoresNoTargetMagicGaining-Vanilla.esp
 GoresNoTargetMagicGaining-Fast.esp
 
@@ -10243,6 +10245,8 @@ JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
 PlayersDiary_1C.esp
+PWRunSpeed.esp
+% {{BASH:Actors.Stats,NoMerge}} // to be confirmed!
 \EndGroup\\
 
 \BeginGroup\: overrides Q
@@ -11049,6 +11053,7 @@ Jump Adjustment-TESSource-1140.esp
 Jump_Adjustment-2211.esp
 Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
+JumpModifier.esp
 ReneerKeyLockMod.espJumpModifier.esp
 : OBSE
 _EnhancedJumping_TLB_v0.1.esp
@@ -12795,6 +12800,8 @@ Avariel.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dark Seducer Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+DreamWalker.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Golden Saint Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 PlayableSheogorathMod.esp
@@ -12829,6 +12836,7 @@ Nec - Extra Mystic Elf Face.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Clair.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 Nec-Character_Karla.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nec-Character_Sonnet_Mature.esp
@@ -13391,6 +13399,7 @@ cssJaKhaiitMyr.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
 Aliyah.esp
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 ArianaTrudeaux.esp
 Arwen companion.esp
 % {{BASH:Hair,Eyes}}
@@ -13442,6 +13451,7 @@ Eluna.esp
 % {{BASH:Hair,Eyes}}
 DAEluna.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAJadeTabaxi.esp
 % {{BASH:Hair,Eyes}}
 GG_Valeria_Revived.esp
@@ -13495,6 +13505,7 @@ Sonia Vwalk.esp
 STEREOTYPES.esp
 Tamara.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 Tiamat the Firedrake.esp
 BetterShack.esp
 Candlelight.esp
@@ -13517,28 +13528,36 @@ DAConan.esp
 % {{BASH:Hair,Eyes}}
 DABrinn.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAEva.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAGimli.esp
 % {{BASH:Hair,Eyes}}
 DAValeriaCuteElf.esp
 % {{BASH:Hair,Eyes}}
 DARaewyn.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DASakura.esp
 % {{BASH:Hair,Eyes}}
 DATalitha.esp
 % {{BASH:Hair,Eyes}}
 DAFeria.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DADemons.esp
 % {{BASH:Hair,Eyes}}
+DAIsrithr.esp
+% {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAJackSparrow.esp
 % {{BASH:Hair,Eyes}}
 DAJadeAmberSheevaTabaxi.esp
 % {{BASH:Hair,Eyes}}
 DAKaleahSuccubus.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAKaleah.esp
 % {{BASH:Hair,Eyes}}
 Nec-Elf_Kaleah.esp
@@ -13553,14 +13572,18 @@ DALeonidas.esp
 % {{BASH:Hair,Eyes}}
 DAMeridiaKatrina.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DANECSSONNET.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DANecsKarla.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DASephirothCompanion.esp
 % {{BASH:Hair,Eyes}}
 DATiamsGirls.esp
 % {{BASH:Hair,Eyes}}
+? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 Merina.esp
 % {{BASH:Hair,Eyes}}
 Isrithr.esp
@@ -13634,6 +13657,10 @@ Shantari.esp
 : SI and 'Ktuulu.esp' and 'Torkemada.esp'
 
 KW-AlliesPlayNicer.esp
+
+DACompilation_GO.esp
+DACompilation_GO_APN.esp
+? Includes 'KW-AlliesPlayNicer.esp' so don't use that with this.
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

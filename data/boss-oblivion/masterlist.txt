@@ -1516,9 +1516,6 @@ CityLights - ImperialCity.esp
 Cliff's Smokey Chimneys.esp
 Clothes Get Wet.esp
 Chapel Tithe.esp
-CM_Better Wine.esp
-% {{BASH:Graphics,Deactivate}}
-CM_Better Wine_SI.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 
@@ -2935,6 +2932,9 @@ Chapel Shop.esp
 Charon's Call by Nicoroshi.esp
 Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
+CM_Better Wine.esp
+% {{BASH:Graphics,Deactivate}}
+CM_Better Wine_SI.esp
 Collectible Figurines.esp
 Collectible T-Shirts V1.0.esp
 Collectible T-Shirts V1.1.esp
@@ -6853,6 +6853,7 @@ FallenTower.esp
 Fallen_Tower_ru.esp
 Fanacasecul.esp
 Farleum V 1.2.esp
+FFM.esp
 FishermansCottage.esp
 fishing boat.esp
 TheForbiddenSecret.esp
@@ -8926,6 +8927,8 @@ Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
 FranMWL-TheHeath patch.esp
 MMMMWL-TheHeath patch.esp
+NewHaven-TheHeath patch.esp
+SutchReborn-TheHeath patch.esp
 xulHeathCreatureAddon.esp
 
 XulEntiusGorge.esp
@@ -9027,6 +9030,7 @@ LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
+ColdstoneTown-BravilBarrowfields patch.esp
 MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
@@ -9046,6 +9050,7 @@ EtInArkay-LushWoodlands patch.esp
 
 xulAncientYews.esp
 Unique Landscapes - AncientYews DV.esp
+RedcourtCastle-AncientYews patch.esp
 Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
@@ -9053,6 +9058,7 @@ ZSkeletonHorse-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
+Zedar-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
@@ -9078,7 +9084,10 @@ UL_Patch_AncientYews_ArriusCreek DV.esp
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
+VillageOfLily-xulPatch_AYAC patch.esp
 HeartoftheDead-ArriusCreek patch.esp
+ColdstoneTown-ArriusCreek patch.esp
+? Do not use with 'ColdstoneTown-BravilBarrowfields patch.esp'; ColdstoneTown-BravilBarrowfields patch.esp includes the changes from this patch.
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
@@ -9107,6 +9116,9 @@ goldenarchery-rollinghills fix.esp
 FCOM MWL-RollingHills patch.esp
 MMMMWL-RollingHills patch.esp
 KragenirsDeathQuest-RollingHills patch.esp
+RedcourtCastle-RollingHills patch.esp
+RedcourtCastle-UniqueLandscapes Merged patch.esp
+? Do not use with RedcourtCastle-RollingHills patch.esp or RedcourtCastle-AncientYews patch.esp
 
 xulPantherRiver.esp
 Unique Landscapes - Panther River DV.esp
@@ -9116,6 +9128,7 @@ TrailsOfCyrodiil- PantherRiver patch DV.esp
 
 xulRiverEthe.esp
 Unique Landscapes - River Ethe DV.esp
+BlackMarshHall-RiverEthe patch.esp
 ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.
 TrailsOfCyrodiil-RiverEthe patch.esp
@@ -9187,9 +9200,11 @@ xulSkingradOutskirts Vwalk.esp
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
 
 xulSnowdale.esp
+CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
 FrostcragReborn-Snowdale patch.esp
 OOO-Snowdale Patch.esp
+SnowLineLodge-Snowdale patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -11057,7 +11072,7 @@ Jump_Adjustment-2211.esp
 Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
 JumpModifier.esp
-ReneerKeyLockMod.espJumpModifier.esp
+ReneerKeyLockMod.esp
 : OBSE
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
@@ -13259,7 +13274,11 @@ CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners Belle.esp
 CM Partners 20 Pack.esp
-CM Partners Khajits by Howabominable.esp 
+CM Partners Argonians by Howabominable.esp
+CM Partners Humans by Howabominable.esp
+CM Partners Khajits by Howabominable.esp
+CM Partners Orcs by Howabominable.esp
+CM Partners Shivering Isles by Howabominable.esp
 CM Partner Cherise Darkdae.esp
 CM Partner Jordie1.esp
 CM Partner - Ace the Rottweiler.esp
@@ -13958,6 +13977,7 @@ Better Cities Full B&M - CUO Bravil Patch.esp
 BCBravilB&M-Barrowfields patch.esp
 BCBravilB&MFULL-Barrowfields patch.esp
 BCBravilFULL-Barrowfields patch.esp
+? Use 'Better Cities - Unique Landscape Barrowfields.esp' instead.
 BCBravil-Barrowfields.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
@@ -13981,10 +14001,11 @@ Better Cities Full - CUO Chorrol Patch.esp
 Better Cities Full B&M - CUO Chorrol Patch.esp
 ? Use only one Better Cities *version* - CUO Chorrol Patch.esp
 BCChorrol-ChorrolHinterland fix.esp
-? Obsolete. Use BCChorrol-ChorrolHinterland patch.esp instead.
+? Obsolete. Use Better Cities - Unique Landscape Chorrol Hinterland.esp instead.
 % {{BASH:C.Water}}
 BCChorrol-ChorrolHinterland patch.esp
 % {{BASH:C.Water}}
+? Use 'Better Cities - Unique Landscape Chorrol Hinterland.esp' instead.
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 Better Cities CHORROL - Werewolf.esp
@@ -13999,7 +14020,7 @@ Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 BCCheydinhalFULL-CheydinhalFalls patch.esp
-? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
+? Use 'Better Cities - Unique Landscape Cheydinhal Falls.esp' instead.
 BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 % {{BASH:C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
@@ -14016,7 +14037,9 @@ Better Cities BRUMA.esp
 
 BCSkingrad-SkingradOutskirts patch.esp
 % {{BASH:C.Water}}
+? Use 'Better Cities - Unique Landscape Skingrad Outskirts.esp' instead.
 Better Cities - Unique Landscape Skingrad Outskirts.esp
+% {{BASH:C.Water}}
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp

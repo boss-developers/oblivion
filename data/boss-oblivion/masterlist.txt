@@ -6931,6 +6931,16 @@ If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Im
 G&J - Cruentus Veneficum.esp
 Gaelendryl.esp
 Gamblers_of_Cyrodiil.esp
+
+GatewayRealm.esp
+? Needs TES4Edit cleaning.
+GatewayRealm Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+GatewayRealmUL.esp
+? Needs TES4Edit cleaning.
+GatewayRealmUL Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
 GB_Oblivion Tournament.esp
 Ghost Ship.esp
 Garrett Mod-TESSource.esp

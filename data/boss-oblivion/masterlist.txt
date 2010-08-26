@@ -101,10 +101,10 @@ Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 $ Not OOO compatible. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
-% {{BASH:Graphics,Invent,Scripts,Stats,Relations}}
+% {{BASH:Actors.Spells,Graphics,Invent,Scripts,Stats,Relations}}
 DarkDale.esm
 Mart's Monster Mod.esm
-% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.AIData,Actors.AIPackages,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
 % {{BASH:Delev,Factions,Relations,Relev}}
@@ -950,6 +950,9 @@ Natural Interiors - NE Compatibility.esp
 Natural Interiors - Windows to the World.esp
 NI-Fullcity-Anvilhome.esp
 
+NoOblivionWeatherOutside.esp
+" All Natural
+
 no_wind-2578.esp
 NoWind.esp
 No wind.esp
@@ -1696,6 +1699,7 @@ Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
+IshNightEyeToggle.esp
 \EndGroup\\
 
 \BeginGroup\: Base J
@@ -3664,8 +3668,6 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
-OriginalLeather.esp
-OriginalLeatherSI.esp
 ORM -Travelers' Cloaks.esp
 OS Artifacts.esp
 \EndGroup\\
@@ -4714,6 +4716,12 @@ Colourwheels Sexy SI Armor & Clothing Replacer.esp
 ArynnsDrowWitchHGEC.esp
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
+
+Blood Mage.esp
+Lady Elegance.esp
+Lady Fantasy.esp
+Lady Style.esp
+SG015_Leia.esp
 \EndGroup\\
 
 \BeginGroup\: Not For Free Armor
@@ -5271,6 +5279,10 @@ MALO - Loot Tweaks FRAN.esp
 
 MTCDirtierBandits.esp
 % {{BASH:Invent}}
+
+OriginalLeather.esp
+OriginalLeatherSI.esp
+
 \EndGroup\\
 
 \BeginGroup\: MMM & FCOM
@@ -5282,7 +5294,7 @@ MTCDirtierBandits.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 >
 >FCOM_Convergence.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackagesForceAdd,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackagesForceAdd,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.SpellsForceAdd,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp
@@ -6935,9 +6947,11 @@ Gift of Kynareth_delayer.esp
 GoblinwatchKeep.esp
 Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
+" Unique Lanscapes Lost Coast, The Heath, and Brena River.
 GoldDaedricArmor.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
+GoldenCrest.esp
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
 Gold Road Cottage - Rugged.esp
@@ -7792,6 +7806,7 @@ SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
 Sewer_Mansion.esp
 SFSpecialtyContainers.esp
+(SFL) Makeover - White Stallion Lodge.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
 ShadowfangKeep.esp
@@ -9900,6 +9915,8 @@ Essential_Trainers-8374.esp
 
 EVE_ShiveringIslesEasterEggs.esp
 
+ExpandedGreetings.esp
+
 Dungeon Actors Have Torches 1.6 CT.esp
 Dungeon Actors Have Torches 1.6 DT.esp
 Exterior Actors Have Torches 1.0 DT.esp
@@ -11506,6 +11523,7 @@ SM_UnlockSpells.esp
 SM_NoSpellLights.esp
 SM_Scrolls.esp
 SM_SigilStone.esp
+SM Spell Leveling.esp
 SM Spell Leveller.esp
 SM Spell Leveller - Knights of the Nine.esp
 SM Spell Leveller - Mehrunes Razor.esp
@@ -12547,6 +12565,8 @@ Let There Be Darkness - UL Blackwood Forest.esp
 Let There Be Darkness - Nacosto.esp
 % {{BASH:C.Light}}
 Let There Be Darkness - Heart Of the Dead.esp
+% {{BASH:C.Light}}
+Let There Be Darkness - Hoarfrost Castle.esp
 % {{BASH:C.Light}}
 Let There Be Darkness All.esp
 % {{BASH:C.Light,Filter}}
@@ -13687,6 +13707,8 @@ KW-AlliesPlayNicer.esp
 DACompilation_GO.esp
 DACompilation_GO_APN.esp
 ? Includes 'KW-AlliesPlayNicer.esp' so don't use that with this.
+DACompilation_GO_SI.esp
+DACompilation_GO_SI_APN.esp
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

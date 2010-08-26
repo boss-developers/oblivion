@@ -2431,7 +2431,7 @@ YetAnotherHotkeyMod.esp
 \-----
 
 DLCHorseArmor.esp
-% {{BASH:Actors.ACBS,Scripts}}
+% {{BASH:Scripts}}
 DLCHorseArmor - Unofficial Patch.esp
 
 Marts Monster Mod - DLCHorseArmor+Slof.esp
@@ -2464,6 +2464,7 @@ Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
 DLCVileLair - Unofficial Patch.esp
+% {{BASH:Graphics}}
 Correctif VileLair.esp
 Correctif VileLair RP.esp
 SM Plugin Refurbish - VileLair.esp
@@ -4921,9 +4922,9 @@ Ranokoas Organized Potions.esp
 \-----
 
 DLCThievesDen.esp
-% {{BASH:C.Name,C.Light,Actors.AIPackages}}
+% {{BASH:C.Name,C.Light,Actors.ACBS,Actors.AIPackages,Actors.Stats}}
 DLCThievesDen - Unofficial Patch.esp
-% {{BASH:C.Light,Relev,Stats}}
+% {{BASH:C.Light,C.Name,C.Music}}
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
@@ -8481,7 +8482,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Relations,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Factions,Relations,Stats}}
 Correctif Knights.esp
 DBOO - Knights.esp
 Knights Rwalk.esp

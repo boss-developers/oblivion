@@ -1743,6 +1743,7 @@ FGPorter_nofollow.esp
 Lamps of Oblivion.esp
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
+Life1.2Rusb.esp
 Lock Bash v99.9.esp
 $ Not OOO compatible - already included in OOO.
 ? Newer version is available. Update to v99.91 or later.
@@ -7826,6 +7827,7 @@ Shady Sam Enhanced.esp
 Shady Sam Plus.esp
 ShadySamFence.esp
 Sheogoraths_Accords_of_Madness.esp
+SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
 ShezriesVillagesCOBL.esp
@@ -8309,6 +8311,7 @@ Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
 zzzChangeAbleWeapon.esp
+zzzDeerHunter.esp
 \EndGroup\\
 
 \BeginGroup\: Quests Arena
@@ -10294,6 +10297,7 @@ JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
 PlayersDiary_1C.esp
+Prox - Arena Loot v1.1.esp
 PWRunSpeed.esp
 % {{BASH:Actors.Stats,NoMerge}} // to be confirmed!
 \EndGroup\\
@@ -11086,6 +11090,7 @@ True Retroactive Health v3.1.esp
 Level Based Health.esp
 Real Injury.esp
 Bleed Damn You V2.0.esp
+PrimaryNeeds10.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp
@@ -11307,8 +11312,11 @@ Nighteye Glasses.obse.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
+haz_ct3_horse_cart_1C.esp
+haz_ct4_no_maborel_horse_1C.esp
 haz_ct5_mark_recall.esp
 haz_ct7_horse_relocate.esp
+haz_ct7_horse_relocate_1C.esp
 Healers.esp
 hilarity_121.esp
 hunters_performance.esp
@@ -11412,6 +11420,7 @@ Remote Life Detect.esp
 Remove Extra Data.esp
 Resurrect.esp
 Resurrection-5159.esp
+Resurrection_v_1_0.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
@@ -12313,6 +12322,7 @@ NaturalMagicSkillsInceases_v2.0.esp
 KseAliLeveling.esp
 
 Oblivion XP.esp
+Oblivion XP v4.1.5 ru.esp
 Oblivion XP - Knights.esp
 Oblivion XP - DLCFrostcrag.esp
 Oblivion XP - DLCOrrery.esp

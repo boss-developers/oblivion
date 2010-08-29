@@ -9539,6 +9539,8 @@ AncientSource-ChorrolHinterland patch.esp
 ICTowerObservatory.esp
 
 FightersGuildContracts.esp
+(JQ) Fighters Guild United.esp
+% {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp
 % {{BASH:Invent}}
 FCOM_FighterGUnited.esp
@@ -12183,6 +12185,10 @@ Duke Patrick`s Smash of the Titans.esp
 Duke Patricks - Smash Of The Titans.esp
 SMCombatRegen.esp
 SpookyNPCAIModsMerge.esp
+MM_AllowAlchemy.esp
+? If using Bash, might as well use the bashed patch tweak instead and save an esp slot.
+MM_AlchemyPotions.esp
+MM_SneakMelee.esp
 PTActorsCare.esp
 PTDamageFinal.esp
 PTDoorExploitBegone.esp
@@ -14026,7 +14032,7 @@ Better Cities Full B&M - CUO Bravil Patch.esp
 BCBravilB&M-Barrowfields patch.esp
 BCBravilB&MFULL-Barrowfields patch.esp
 BCBravilFULL-Barrowfields patch.esp
-? Use 'Better Cities - Unique Landscape Barrowfields.esp' instead.
+? Same as 'Better Cities - Unique Landscape Barrowfields.esp' - only use ONE of these.
 BCBravil-Barrowfields.esp
 
 Better Cities - Unique Landscape Barrowfields.esp
@@ -14050,11 +14056,11 @@ Better Cities Full - CUO Chorrol Patch.esp
 Better Cities Full B&M - CUO Chorrol Patch.esp
 ? Use only one Better Cities *version* - CUO Chorrol Patch.esp
 BCChorrol-ChorrolHinterland fix.esp
-? Obsolete. Use Better Cities - Unique Landscape Chorrol Hinterland.esp instead.
+? Obsolete. Use 'Better Cities - Unique Landscape Chorrol Hinterland.esp' or 'BCChorrol-ChorrolHinterland patch.esp' instead.
 % {{BASH:C.Water}}
 BCChorrol-ChorrolHinterland patch.esp
 % {{BASH:C.Water}}
-? Use 'Better Cities - Unique Landscape Chorrol Hinterland.esp' instead.
+? Same as 'Better Cities - Unique Landscape Chorrol Hinterland.esp' - only use ONE of these.
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
 Better Cities CHORROL - Werewolf.esp
@@ -14069,7 +14075,7 @@ Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 BCCheydinhalFULL-CheydinhalFalls patch.esp
-? Use 'Better Cities - Unique Landscape Cheydinhal Falls.esp' instead.
+? Same as 'Better Cities - Unique Landscape Cheydinhal Falls.esp' - only use ONE of these.
 BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 % {{BASH:C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
@@ -14086,7 +14092,7 @@ Better Cities BRUMA.esp
 
 BCSkingrad-SkingradOutskirts patch.esp
 % {{BASH:C.Water}}
-? Use 'Better Cities - Unique Landscape Skingrad Outskirts.esp' instead.
+? Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.
 Better Cities - Unique Landscape Skingrad Outskirts.esp
 % {{BASH:C.Water}}
 Better Cities - Thievery.esp
@@ -14380,12 +14386,15 @@ MRP - You successfully harvest.esp
 Ark's Tutorial Terminator 1.0.esp
 Disable Tutorial Text.esp
 k_Eliminate_Tutorial.esp
+NoMoreIFoundMessages.esp
 MM_NoMoreAnnoyingMessages.esp
 NoMoreAnnoyingMessages.esp
 MM_NoAnnoyingMessages.esp
 MM_NoMoreAnnoyingMessages-Lite.esp
 MM_TextHorse.esp
 MM_TextLoading.esp
+MM_TextSneak.esp
+MM_TrainingCost2.esp
 NoLoad.esp
 No More Annoying Messages.esp
 'Cannot Equip' Message Remover.esp

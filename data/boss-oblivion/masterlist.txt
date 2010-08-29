@@ -2085,6 +2085,7 @@ Soup01b.esp
 MW_booze.esp
 MW_Booze, Cobl.esp
 
+Status Bars.esp
 Street Gangs.esp
 Unsafe Streets.esp
 
@@ -2649,6 +2650,8 @@ Alluring Potion Bottles.esp
 % {{BASH:Graphics,NoMerge}}
 Alluring Potion Bottles v2.esp
 % {{BASH:Graphics,NoMerge}}
+Alluring Potion Bottles v3.esp
+% {{BASH:Graphics,NoMerge}}
 AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
@@ -2732,6 +2735,7 @@ Armory of the Silver Dragon EN.esp
 ArmorOfTheWhiteFox.esp
 % {{BASH:Invent}}
 Armored Masks.esp
+Armory of Icewind Dale.esp
 Armement_de_l'ombre.esp
 Armure de Belladone.esp
 Armure du Berserk.esp
@@ -7666,6 +7670,7 @@ PagesofHistoryDemo.esp
 Pats Business Mod---Shop Version 1.6.esp
 ? Old, update to version 2.0+.
 Pats Business Mod---Shop Version 2.0.esp
+Pats Business Mod BC.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
 photoroom.esp
@@ -8163,6 +8168,7 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 
 \BeginGroup\: Quests V
 
+Vaernlor Manor.esp
 Valenwood Improved.esp
 Valley_View_Estate.esp
 Valus Cottage.esp
@@ -12892,6 +12898,8 @@ Half Orcs.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Hidden_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+kaleen.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lima.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
@@ -13144,6 +13152,8 @@ Half Devil.esp
 Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 XeniaRace.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Wolven Anthros.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 
 Assassins Creed - Altair's Gear.esp

@@ -5290,9 +5290,6 @@ MALO - Loot Tweaks FRAN.esp
 MTCDirtierBandits.esp
 % {{BASH:Invent}}
 
-OriginalLeather.esp
-OriginalLeatherSI.esp
-
 \EndGroup\\
 
 \BeginGroup\: MMM & FCOM
@@ -10275,6 +10272,8 @@ Oblivifall - New Classes.esp
 % {{BASH:R.Description}}
 Oblivifall - Something's Not Right.esp
 Ohgma Infinium OverHaul.esp
+OriginalLeather.esp
+OriginalLeatherSI.esp
 Orrery_Rewards.esp
 OS-foot-HORSE.esp
 \EndGroup\\

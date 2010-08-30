@@ -2653,6 +2653,8 @@ Alluring Potion Bottles v2.esp
 % {{BASH:Graphics,NoMerge}}
 Alluring Potion Bottles v3.esp
 % {{BASH:Graphics,NoMerge}}
+Alluring Wine Bottles.esp
+% {{BASH:Graphics}}
 AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
 AyleidFiringa.esp
@@ -2745,6 +2747,7 @@ Armure de Seigneur Daedrique.esp
 Armurerie du Dragon d'Argent.esp
 Arrow_of_Light.esp
 ALE_Armure_Legere.esp
+AlternateDwarvenHelmet.esp
 AlternativeLightArmors12.esp
 AlternativeLightArmors1.2.esp
 Animated Staves.esp
@@ -2936,6 +2939,7 @@ Classic-Wizard-Robes-UL.esp
 Classic-Wizard-Robes-U.esp
 Claws+MonkGear.esp
 ClearGlassArmorSet.esp
+ClosedSteelHelmet.esp
 ClothGloves.esp
 % {{BASH:Invent}}
 CLS-ClassyClothesFactions.esp
@@ -8860,6 +8864,10 @@ Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 
 Molapi.esp
 
+Bonds Crystal Isles an Adventure.esp
+Bonds Crystal Isles an Adventure Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
 TVIcar.esp
 
 Fort Akatosh.esp
@@ -9106,6 +9114,7 @@ WaldnirsWoods-AncientRedwoods patch.esp
 xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 ? Obsolete if using Ancient Redwoods 1.6 or higher.
+PineLodge2-AncientRedwoods patch.esp
 
 xulCloudtopMountains.esp
 Unique Landscapes - Cloudtop Mountains DV.esp

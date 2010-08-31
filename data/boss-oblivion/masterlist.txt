@@ -1893,7 +1893,7 @@ Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
 personality_idles_custom.esp
-/before P1DseeYouSleep... hopefully will work better
+? before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
@@ -2070,6 +2070,7 @@ SkinMannequinVan-nosleep.esp
 SkinMannequinVan-sleep.esp
 
 Slof's Oblivion Pillow Book.esp
+Slof's Oblivion Pillow BookRU.esp
 SM Soul Delete.esp
 SoT_Holiday.esp
 Soul Gem Discharger.esp
@@ -2647,6 +2648,7 @@ Alhemy.esp
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
+Allods_Weapons_Pack.esp
 Alluring Potion Bottles.esp
 % {{BASH:Graphics,NoMerge}}
 Alluring Potion Bottles v2.esp
@@ -2663,6 +2665,7 @@ Ayleid Artifacts.esp
 Ayleid Kings Armor.esp
 Ancient Aylied elven armors.esp
 ancient_blades_armor.esp
+AncientDragonSword.esp
 Ancient Silver Armor.esp
 Ancient Silver Elven Armor.esp
 AngelicArmor.esp
@@ -2834,6 +2837,8 @@ bcrich.esp
 BisDancerPumps.esp
 BetterBedroll.esp
 % {{BASH:Invent}}
+Belles Bouteilles.esp
+% {{BASH:Graphics}}
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -2896,6 +2901,7 @@ Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 1630-1.0-Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 BloodElvenArmorV1.0.esp
 Blue Destiny.esp
+BluesPillows1.0.esp
 BlueStaff.esp
 BlueAndWhitePorcelain - Full.esp
 BlueAndWhitePorcelain - Shop Inventory Only.esp
@@ -2980,6 +2986,7 @@ CSR - Fine Iron.esp
 CSR - Golden Saint.esp
 % {{BASH:Graphics,Stats}}
 ChainHoods.esp
+CharonsClaw.esp
 Chess Set Complete.esp
 ChitinArmor.esp
 Chrysamere.esp
@@ -3294,6 +3301,7 @@ Griffon Fortress 0.4.esp
 ? Old, upgrade to version 0.5.
 Griffon Fortress 0.5.esp
 Griffon Fortress 6.9.esp
+Grommash.esp
 Growlfs Hot Clothes.esp
 Growlfs Animated Hair.esp
 GruntsSigilStones.esp
@@ -3321,6 +3329,7 @@ HB Daedric Slag Axe.esp
 HB Elven Sunbreaker Shortsword.esp
 HB Hammerfell Long Axe.esp
 HB Legacy Dwemer Weapons.esp
+HeavenWill.esp
 Hel Borne's Boning Knife.esp
 Hel Borne's Blackiron Weapon Set.esp
 Hel Borne's Chitin Armor Weapons.esp
@@ -3384,6 +3393,7 @@ HotApparatus.esp
 It's A Wig!.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
+IcingDeath.esp
 ICVisuals.esp
 Icxth Sword.esp
 Imperial Legion Light Armor.esp
@@ -3412,6 +3422,7 @@ JCapesBonus.esp
 Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
 : OBSE
+Jewels Collection.esp
 JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Joe's Energy Bow.esp
@@ -3473,6 +3484,7 @@ Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
 Kikai & Slof Clothing.esp
+Kratos Blade Of Chaos.esp
 Kurese Recolours.esp
 \EndGroup\\
 
@@ -3487,6 +3499,7 @@ Lady Elegance.esp
 Lady Fantasy.esp
 Lady Flirt.esp
 Lady Jasmine Moon.esp
+Lady Rogue.esp
 Lady Santry.esp
 Lady Secrets.esp
 Lady Skanda.esp
@@ -3809,7 +3822,8 @@ Sang_Noir.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
-Scholomance armor.esp 
+Scholomance armor.esp
+sci-fi bow.esp
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
@@ -3831,6 +3845,7 @@ ShadowMailArmor_v.1.0.esp
 ShadowWatcher_HGEC_v2_b.esp
 ShadowWatcher_HGEC_v2.esp
 Shadowsilk.esp
+Shamshires.esp
 Shdw_Armor pack01.esp
 Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
@@ -3982,6 +3997,7 @@ SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
+SteelHalfMoon.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -4058,6 +4074,7 @@ TLS Modded Mannequins.esp
 ? Do not use with Reznod's Mannequins.
 TM's HGEC Ball Gown.esp
 Tona Anchorite Outfit.esp
+tona_casual_&_quiet_muffler_v2.esp
 tona_muffler.esp
 tona_clothes_and_underwear.esp
 tona_clothes_and_underwear_v2.esp
@@ -4068,6 +4085,7 @@ Town Guard Armor Replacers.esp
 TripleArrows_1C.esp
 TreasuresOfTyrV10.esp
 Tribute armor.esp
+TristanSword.esp
 trfdaedricarmors.esp
 trfjChronoStaff.esp
 trfjBladeMasterSword.esp
@@ -4081,6 +4099,7 @@ Tyrael Armor.esp
 Templer-Armor.esp
 The Soul Reaver.esp
 Twin Blades of Ichtyon.esp
+Twinkle.esp
 
 UmarilsArmor.esp
 Umarils Armor Separate.esp
@@ -4627,6 +4646,7 @@ Mithril_Sorceress_armor.esp
 Priestess_of_Dibella_HGEC.esp
 Rosesilk.esp
 Sorceressofthestorm.esp
+Dragon Princess.esp
 The Dragon Princess.esp
 Vampiress Armors For Exnem Body.esp
 Volcano in the Twilight.esp
@@ -6278,6 +6298,7 @@ Albae+Gefährten.esp
 AlchemistForHire.esp
 AleswellHomeQuest.esp
 AL_Maverick.esp
+AL_WildSpright.esp
 All New House.esp
 Along Came A Spider.esp
 alto angelos proveing ground.esp
@@ -6330,6 +6351,7 @@ Ancient_Goblin_City.esp
 Vibliribland-4843-Ancient_Goblin_City.esp
 Ancient Ruins - Ayleid Edition.esp
 AncientSource.esp
+Angelslayer.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
 
@@ -6645,6 +6667,7 @@ Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
 Chapels.esp
+Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
 Clamshell_Cottage_v1.5_COBL.esp
 ArCloudRulerArmoryExtended.esp
@@ -6730,6 +6753,8 @@ Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
 ? Upgrade to latest version.
 Dark Brotherhood Outpost v3.esp
+? Upgrade to latest version.
+Dark Brotherhood Outpost v3.1.esp
 Dark Brotherhood Sanctuaries.esp
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
@@ -6788,6 +6813,7 @@ Draelins Hidden Abode.esp
 DragonClawCastle.esp
 DragonInvasion.esp
 DragonHouse.esp
+DreamersIsland.esp
 DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
@@ -7038,6 +7064,7 @@ hchouse408.esp
 HeavenlyIslands.esp
 Hedge Home.esp
 HelsethArmor.esp
+HentaiLovelyHouse.esp
 Hentai Mania.esp
 >: FCOM_Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts,C.Owner}}
@@ -7095,6 +7122,7 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
 imperial armors shop.esp
 Shezrie's Villages.esp
+Imperial_City_Cave_House-9473.esp
 Imperial City Temple Clean.esp
 Imperial City Townhouse.esp
 Imperial City Welcome Sign.esp
@@ -7210,6 +7238,7 @@ IC Atmospheric Shops Mod.esp
 ? If not using WB you may have to move this above some item mods (thereby loosing some changes from this) or lose some items from those mods.
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
+ICEGHouse_cobl.esp
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
 Dirtier Waterfront.esp
@@ -7490,6 +7519,7 @@ Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
 marketway.esp
 marodan_osdakal.esp
+MDRisheren.esp
 ME_MERCENARIES.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
@@ -7953,6 +7983,7 @@ Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
 swamp home cobl.esp
+SweetspringIsland.esp
 SWInn.esp
 SwordOfTheEye.esp
 Sylar0712_ICAgarmirHouse.esp
@@ -8178,6 +8209,7 @@ Vampire Tunnel System.esp
 VampiresLair.esp
 Vampire Haven.esp
 1SB_VampireHaven.esp
+Vampire Mansion.esp
 Vampires.esp
 CV - Castle Dracula.esp
 Varlasel.esp
@@ -9717,6 +9749,7 @@ Badmagic - Landscape Fix for 20 -18.esp
 Badmagic - Landscape Fix for Fanacasecul.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
+Banes Diverse Guards Rus.esp
 Better_Amelion_Gear.esp
 Better_Blade_Equipment.esp
 BetterCoins.esp
@@ -11298,6 +11331,7 @@ Banishment Works.esp
 BasicInstinct.esp
 Better Scrolls.esp
 blink.esp
+BookOfMagic.esp
 CartographersUnite.esp
 CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp

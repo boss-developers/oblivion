@@ -1893,7 +1893,7 @@ Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
 personality_idles_custom.esp
-? before P1DseeYouSleep... hopefully will work better
+/before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp

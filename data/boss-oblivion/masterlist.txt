@@ -219,6 +219,7 @@ Brothel of Cyrodiil.esm
 RaceFrameWork.esm
 Race-Lattamerv3.esm
 Tabaxi_Race_Default.esm
+Tabaxi_Race_BAB_Robert.esm
 x117race.esm
 % {{BASH:Hair}}
 Chanpon.esm
@@ -573,7 +574,7 @@ Oblivion_Deutsch_v3_2_1.esp
 \---------------
 
 DLCShiveringIsles.esp
-SI_rus_DotStudio_1.1.esp 
+SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
 Unofficial Shivering Isles Patch.esp
@@ -2651,11 +2652,11 @@ Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
 Allods_Weapons_Pack.esp
 Alluring Potion Bottles.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 Alluring Potion Bottles v2.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 Alluring Potion Bottles v3.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics}}
 Alluring Wine Bottles.esp
 % {{BASH:Graphics}}
 AltEnchAndSpell.esp
@@ -3093,6 +3094,7 @@ Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DefianceOfSubtlety.esp
 DeliveranceFireEnch.esp
+DesuChan's Lolita Finery.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
 DFSL Leathery 4.esp
@@ -3430,6 +3432,7 @@ Joe's Energy Bow.esp
 Journeyman_armor.esp
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
+Journeyman_armor.esp
 JPBooks_Vanilla+SI.esp
 morrowindJPbooks.esp
 JQ-Amulets.esp
@@ -3714,6 +3717,7 @@ pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
 Pauldron.esp
 PEDress.esp
+phinix_dual-weild_imports.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
@@ -3839,6 +3843,7 @@ sepulcresorceressoutfit.esp
 severianskatanas1_2.esp
 SexyTops.esp
 Shadow Legion Armor.esp
+Shaman Clothing.esp
 shamblingbooks.esp
 ShinobiSet.esp
 ShinobiSet_NoEnchant.esp
@@ -5769,6 +5774,7 @@ FCOM_TamrielTravelers.esp
 
 kuerteeWanderingEncounters.esp
 \maybe I should put this somewhere else but until further testing this seems reasonable
+Oblivion Alive Wanderer.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM\MMM optionals 3.
@@ -6021,7 +6027,7 @@ Diverse Imperial Armor v1.1.esp
 \EndGroup\\
 
 Adventurers_1.0.esp
-? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be abe to be made work with MMM.
+? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be able to be made work with MMM.
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -6625,6 +6631,7 @@ Cannibalism.esp
 Cathedral Improver.esp
 Castle Arpenia - Niben Bay.esp
 Castle Arpenia - Gold Coast.esp
+Castle.Bedwyr 1.0.0.esp
 castledarkshard.esp
 CastleEltz.esp
 castleofnight.esp
@@ -9331,6 +9338,7 @@ CastleSeaview-SutchReborn-LostCoast patch.esp
 
 Castle_Wolfspike.esp
 Patch-Wolfspike-UL.esp
+Castle Wolfspike2.esp
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -9565,7 +9573,7 @@ Better Abandoned House OC Full.esp
 Better Abandoned House OC Cheydinhal.esp
 ? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
 Better Abandoned House - Interior Only.esp
-Better Abandoned House - Complete.esp 
+Better Abandoned House - Complete.esp
 
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
@@ -9616,6 +9624,7 @@ RedBag - Imperial City Pack.esp
 Better Cities - House price patch.esp
 Blue Destiny's Armor.esp
 
+\EndGroup\\
 \EndGroup\\
 \EndGroup\\
 
@@ -10929,7 +10938,7 @@ Cliff_RPO_NewBeginnings_RPC.esp
 DD_RestrictedCityEntrance.esp
 
 Quest Award Leveling.esp
-Quest Award Leveling_1C.esp 
+Quest Award Leveling_1C.esp
 Quest Award Leveling SI.esp
 Quest Award Leveling SI - no forged items.esp
 Quest Award Leveling - Finger of the Mountain.esp
@@ -11410,6 +11419,7 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
+MTC EagleEyesSpell 1.1[ENG].esp
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
@@ -13383,6 +13393,7 @@ CM Partners Beasts.esp
 CM Partners Belle.esp
 CM Partners 20 Pack.esp
 CM Partners Argonians by Howabominable.esp
+CM Partners Friska.esp
 CM Partners Humans by Howabominable.esp
 CM Partners Khajits by Howabominable.esp
 CM Partners Orcs by Howabominable.esp
@@ -13830,6 +13841,12 @@ bgBalancingEVNoSIVersion_Core_still_required.esp
 TamrielTravellers Cosmetics Cobl or RBP.esp
 SkinMannequinCOBL-sleep.esp
 SkinMannequinCOBL-nosleep.esp
+\EndGroup\\
+
+\BeginGroup\: ZU SI Overhaul
+\because I suspect that there will eventually be a fair slew of patches.
+ZUAmberMadnessOverhaul.esp
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Body-F,Body-M,Cell.Flags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.
@@ -14334,6 +14351,7 @@ Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
+Better Cities - Vvanderfell Imports.esp
 \EndGroup\\
 
 Better Cities and IC Rwalk.esp

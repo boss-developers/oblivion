@@ -13846,7 +13846,7 @@ SkinMannequinCOBL-nosleep.esp
 \BeginGroup\: ZU SI Overhaul
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Body-F,Body-M,Cell.Flags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Body-F,Body-M,C.RecordFlags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.

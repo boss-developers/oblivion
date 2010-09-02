@@ -8605,6 +8605,7 @@ Mart's Monster Mod for OOO - Knights .esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
+% {{BASH:Actors.AIPackages}}
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp

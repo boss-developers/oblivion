@@ -7078,18 +7078,28 @@ Hentai Mania.esp
 >: FCOM_Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts,C.Owner}}
 Hentai ManiaC.esp
->: FCOM_Hentai Mania.esp
+? Cleaned version of Hentai Mania.esp use only one
+>: FCOM_Hentai Mania.esp and rename to Hentai Mania.esp
 Hentai Mania addon Break Undies.esp
 % {{BASH:Scripts,Stats}}
+: Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 FCOM_Hentai Mania.esp
 % {{BASH:Delev,Factions,Relations,Relev,Stats}}
 : Hentai Mania.esp and FCOM
 Hentai_mania_statuetki.esp
+? Minor fix for Hentai Mania.esp
+: Hentai Mania.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 HentaiMania2.esp
+HentaiMania2C.esp
+? Cleaned version of HentaiMania2.esp use only one
+HentaiMania2_Merged_Hell.esp
+: HentaiMania2C.esp
+HentaiMania2_Merged_Nightmare.esp
+: HentaiMania2C.esp
 Hero Hill Redone.esp
 HighwaymanHideway.esp
 HobbitHole.esp
@@ -15144,6 +15154,7 @@ NRB4 OCReborn Road Record.esp
 ? Use only one road record file.
 
 CUMoreDurableArmor.esp
+HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
 % {{BASH:Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash

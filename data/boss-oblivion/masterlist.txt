@@ -999,6 +999,7 @@ Underwater.esp
 Enviroment.esp
 Real Water.esp
 realWaters.esp
+Wavy_Water.esp
 \EndGroup\\
 
 \BeginGroup\: Sound mods
@@ -2651,6 +2652,8 @@ Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
 Allods_Weapons_Pack.esp
+Alluring Books.esp
+% {{BASH:Graphics}}
 Alluring Potion Bottles.esp
 % {{BASH:Graphics}}
 Alluring Potion Bottles v2.esp
@@ -3717,7 +3720,7 @@ pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
 Pauldron.esp
 PEDress.esp
-phinix_dual-weild_imports.esp
+phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
@@ -4145,6 +4148,8 @@ Unenchanted Staves.esp
 UnexpurgatedBarenziahv100.esp
 UnexpurgatedBarenziahPAv100.esp
 Unique Ebony Sets.esp
+Unique Enticing Skill Books.esp
+% {{BASH:Graphics}}
 Universal_Armor_Stands.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
@@ -7719,8 +7724,11 @@ ThePaleAdventurer.esp
 ThePaleAdventurer_delayer.esp
 PagesofHistoryDemo.esp
 Pats Business Mod---Shop Version 1.6.esp
-? Old, update to version 2.0+.
+? Old, update to version 2.1+.
 Pats Business Mod---Shop Version 2.0.esp
+? Old, update to version 2.1+
+Pats Business Mod.esp
+^ If using BC use the BC version instead.
 Pats Business Mod BC.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 PeryitesLowestRealmofOblivion.esp
@@ -10067,6 +10075,8 @@ Gattsurus_Easier_Black_Soul_Gems.esp
 Get_Your_Arrows_Back-9403.esp
 ? Consider using Bash Patch tweaks instead, if possible.
 Gemfix-6955.esp
+Gems.esp
+% {{BASH:Stats,NoMerge}}
 GuilesScrollRenamer.esp
 % {{BASH:Names}}
 Give Me My Shader Effects.esp
@@ -11031,6 +11041,7 @@ Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
 MQSDone.esp
+Vswe_Skip_Start_No_Videos.esp
 \EndGroup\\
 
 \BeginGroup\: Realism
@@ -11498,6 +11509,7 @@ Resurrection_v_1_0.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
+SixthSense.esp
 sjdDetectArrow.esp
 sleepyunderlings.esp
 Smite of Order.esp
@@ -12087,6 +12099,7 @@ AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
 cancelattack.esp
+Creature Damage Fix.esp
 Denock Arrows.esp
 Combat Behavior 2.11b.esp
 Duke Patricks Basic Denock Arrows.esp
@@ -12601,73 +12614,73 @@ less_dungeon_effects-6330.esp
 
 Let There Be Darkness.esp
 ? Obsolete. Upgrade to version 1.2+.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Shivering Isles.esp
 : Shivering Isles.
 ? Obsolete. Upgrade to version 1.2+.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Cyrodiil.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Cyrodiil + SI.esp
 : Shivering Isles.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Knights.esp
 : Knights of the Nine.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Mehrunes Razor.esp
 : Mehrunes Razor DLC
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let there be Darkness All Merge.esp
 ? Merge requiring KOTN, Shivering Isles and Mehrunes Razor.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Thieves Den.esp
 : Thieves Den.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - OOO.esp
 : Oscuro's Oblivion Overhaul.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Kvatch Rebuilt.esp
 : Kvatch Rebuilt.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Curse of Hircine.esp
 : Curse of Hircine.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Glenvar Castle.esp
 : Glenvar Castle.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - The Elder Council.esp
 : The Elder Council.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Thievery.esp
 : Thievery in the Imperial City.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - VH Bloodlines.esp
 : Verona House Bloodlines.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Lost Spires.esp
 : The Lost Spires.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Elsweyr.esp
 : Elsweyr Deserts of Anequina.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - UL Colovian Highlands.esp
 : UL Colovian Highlands.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - UL Lost Coast.esp
 : UL Lost Coast.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - UL Brena.esp
 : Ul Brena River Ravine.
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - UL Blackwood Forest.esp
 : UL Blackwood Forest.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Nacosto.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Heart Of the Dead.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness - Hoarfrost Castle.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Let There Be Darkness All.esp
 % {{BASH:C.Light,Filter}}
 
@@ -15066,6 +15079,7 @@ Argonians and Khajiit Lose Tails no More Script - CoBl.esp
 Argonians and Khajiit Lose Tails no More Script - Anwolf.esp
 Argonians and Khajiit Lose Tails no More Script - Lilmothiit.esp
 Argonians and Khajiit Lose Tails no More.esp
+Argonians and Khajiit Lose Tails no More - KD Circlets Loot Only patch.esp
 JazzJRKhajiitfeets.esp
 % {{BASH:Invent}}
 LT_EquipTailItem.esp

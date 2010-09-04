@@ -711,6 +711,7 @@ MrSiikaRabbits.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
 >Francesco's Optional Leveled Guards.esp
 >: Shivering Isles expansion.
+>% {{BASH:Actors.ACBS,Actors.Stats}}
 >Francesco's Dark Seducer Weapons Patch.esp
 >% {{BASH:Delev, Relev}}
 >FranDarkSeducerWeapFix.esp
@@ -5019,6 +5020,7 @@ Francesco's Optional Dungeon Chest Loot.esp
 Francesco's Optional Dungeon Chest Locks.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 <Francesco's Optional Leveled Guards.esp
+% {{BASH:Actors.ACBS,Actors.Stats}}
 Francesco's Optional House Chest Loot.esp
 * Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 MALO - Guild Tweaks.esp

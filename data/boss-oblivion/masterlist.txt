@@ -2947,6 +2947,7 @@ CapesandCloaks.esp
 Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
+CB Gothic Mistress.esp
 Chin CatSuit.esp
 CET_Crossbow.esp
 CET_DwemerPrecisionBow_v2.esp
@@ -3035,6 +3036,7 @@ dagger_o_a.esp
 DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
 Dancers clothes.esp
+Dante's Scythe.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
@@ -3741,6 +3743,7 @@ PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
+PlayableEmpclothes.esp
 lootableSIArmor.esp
 PMCurioCeremonialRapier.esp
 PocketGuideEmpire.esp
@@ -3854,6 +3857,7 @@ semi_precious_stones.esp
 SentientWeapon.esp
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
+Serentin Vampire Armors.esp
 severianskatanas1_2.esp
 SexyTops.esp
 Shadow Legion Armor.esp
@@ -4019,6 +4023,7 @@ Staff_of_Magius.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 SteelHalfMoon.esp
+StarX Witch Hunter Armor.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -6820,6 +6825,7 @@ DFDiveRockHome.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
 Dibella Temple Final.esp
+Display Rooms.esp
 Diverse Guards.esp
 
 Dive Rock Revisited.esp
@@ -9805,6 +9811,7 @@ Better Potions and Poisons.esp
 Better Prices.esp
 Better Sheogorath.esp
 Better Skooma.esp
+Better Staff of Worms.esp
 Better_Gem_Pricing-7112.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 BFG's Open All the Gates.esp
@@ -9962,8 +9969,10 @@ DarNified Books_BJ.esp
 DarNified Books_BP_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
 kuerteeCustomisableHUDComponents.esp
+darkarrow.esp
 DB_NightMotherMoney5k.esp
 DB_NightMotherMoneyRangeA.esp
+dbpoisonapple.esp
 DDJailShackles.esp
 ? Old, update to version 1.04+
 DD_JailShackles.esp
@@ -9974,6 +9983,7 @@ Decorator Assistant.esp
 ? Check version is 1.1 or later.
 DecoratorAssistant v1.1.esp
 DecoratorAssistant with OBSE v1.1.esp
+DecoratorAssistant Unlock.esp
 DecoratorAssistant Unlock for OBSE version.esp
 DecoratorAssistant with OBSE v1.11_Unofficial.esp
 Delmar_the_Soulgem_Salesman-5069.esp
@@ -10119,7 +10129,10 @@ GuilesNameReplace-Scrolls.esp
 \BeginGroup\: overrides H
 [Hexaae] Vilverin fires.esp
 [Hexaae] Vilverin fires UOP.esp
+HarderRepairs_2.esp
 HarderRepairs_5.esp
+HarderRepairs_10.esp
+HarderRepairs_20.esp
 HaroK_Arrow_Forge.esp
 haz_ct1_no_fasttravel.esp
 haz_spawn_oblivion_gates.esp
@@ -10318,6 +10331,7 @@ No Glow Grass - Faster.esp
 No Glow Grass - Shorter.esp
 No Glow Grass - Faster and Shorter.esp
 NoMoreGuardsWithBowsv1.2.1.esp
+Andrews_No_Quest_Items-6729.esp
 No Quest Items.esp
 No quest items SI.esp
 NoObsoleteEnemies.esp
@@ -10415,6 +10429,7 @@ RandomEncounters.esp
 RandomGatesDontReopen.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
+RedBag - Dangerous Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
 ReneerKeyLockMod.esp
@@ -10826,6 +10841,7 @@ Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 ATakesAll.esp
 dyseso_PromptAt2Items.esp
+Lyn-DontAskMeHowMany.esp
 TML_WieldableTorches_v10.esp
 tona_underwear.esp
 Tona Compilation.esp
@@ -10967,7 +10983,10 @@ Roleplaying Dialogues.esp
 SupremeDialougeImmersion[The A-MQ].esp
 SupremeDialougeImmersion[A-O].esp
 
+DurableEquipment_2.esp
+DurableEquipment_5.esp
 DurableEquipment_10.esp
+DurableEquipment_20.esp
 
 Wolvmans_Hidden_Unique_Merchant_Items.esp
 Cliff_RPO_NewBeginnings.esp
@@ -11281,6 +11300,7 @@ Twillith vampirism 1.7.esp
 Twillith vampirism 1.71.esp
 ? Old upgrade to 'Twillith vampirism.esp'.
 Twillith vampirism.esp
+vampire_without_disadvantages-7944.esp
 Vampirismless Vampires.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
@@ -12793,6 +12813,8 @@ Better Looking Dark Elves.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Dremora.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Dark Elves.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards Vwalk.esp
@@ -13964,6 +13986,7 @@ Conjuration Mastery.esp
 Enemy Actors Use Powers 0.1.esp
 HippoNoStarterSpells.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
+Lyn-Summon10.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 : BASH for proper use

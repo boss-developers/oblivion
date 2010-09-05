@@ -256,6 +256,10 @@ Oblivion Achievements CORE Version.esm
 \-------------
 rus_DotStudio_1.2_final.esp
 ? it's rusification of oblivion.esm
+russian.esp
+ZoGRus.esp
+ZoGRusScriptMessagebox.esp
+ZoGRusFactionNames.esp
 
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.

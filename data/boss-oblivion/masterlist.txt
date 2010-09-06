@@ -5813,8 +5813,6 @@ FCOM_BobsGuardUnity.esp
 FCOM_HungersUnitySI.esp
 % {{BASH:Factions,Graphics,Invent,Relev}}
 : Shivering Isles expansion.
-FCOM_Archery.esp
-% {{BASH:NoMerge,Stats}}
 FCOM_ArcheryArmamentarium.esp
 : the Armamentarium Complete mod.
 % {{BASH:Stats}}
@@ -7028,6 +7026,8 @@ GoldDaedricArmor.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 GoldenCrest.esp
+GoldenCrest Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
 Gold Road Cottage - Rugged.esp
@@ -7839,6 +7839,7 @@ RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
 RomancingAhnassi.esp
+NRB4+Romancing Ahnassi Patch.esp
 Romuska Fantasy Store.esp
 RosenrotManor01.esp
 Rosethorn Hall Necrmancy Study.esp
@@ -11424,6 +11425,7 @@ Divine Magicka.esp
 DOT Spells.esp
 Detect Item.esp
 Duplicate_Item_Spell.esp
+DuplicateItemSpell.esp
 Elemental Horses.esp
 Empty_Soul_Gems.esp
 EnchantmentMastery.esp
@@ -12336,6 +12338,7 @@ Druid.esp
 Vanilla_Oblivion_Skill_Rates.esp
 LRM_Generic.esp
 
+AttributePlusX_v1.1.esp
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.
@@ -12369,6 +12372,9 @@ CDM-CGO Vanilla Skill Levelling Faster.esp
 CDM-CGO Vanilla Skill Levelling Slower.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
 CDM-CGO Level Up.esp
+Faster Level Up X2.esp
+Faster Level Up X4.esp
+Faster Level Up X100.esp
 G_'s-Level-Slow.esp
 
 AttributeInfluenceSkill.esp
@@ -13936,7 +13942,7 @@ SkinMannequinCOBL-nosleep.esp
 \BeginGroup\: ZU SI Overhaul
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Body-F,Body-M,C.RecordFlags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Body-F,Body-M,C.RecordFlags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.
@@ -15138,6 +15144,8 @@ DLCFrostcrag_MysticEmporiumKTDH.esp
 Enhanced Economy - Soulgems.esp
 % {{BASH:Scripts,NoMerge}}
 Faction Rank Fix.esp
+FCOM_Archery.esp
+% {{BASH:NoMerge,Stats}}
 Helmet Toggle.esp
 Hemingweys Capes.esp
 ? Don't use Bash's unlimited amulet's tweak with this.

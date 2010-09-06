@@ -8524,6 +8524,7 @@ BrumaMGRestored Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 BrumaMGRestored-Frostcrag.esp
 Frostcrag Addon.esp
+FrostcragBetterFamiliars.esp
 Frostcrag For Busy People.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
@@ -11141,6 +11142,7 @@ encumbrance.esp
 Encumbrance100.esp
 EncumbranceMod.esp
 encumberancemodx10.esp
+encumberancemodx25.esp
 More Capacity Encumbrance.esp
 More Realistic Encumbrance.esp
 More Realistic Fatigue.esp

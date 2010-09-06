@@ -10657,6 +10657,7 @@ Slof's Epona.esp
 SM Essential Kills.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
+Soul Gem Bigger Capacity.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 \BeginGroup\: SPT Diverse Guards
@@ -11546,6 +11547,7 @@ Resurrection_v_1_0.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
+SINAZ_Soulcraft.esp
 SixthSense.esp
 sjdDetectArrow.esp
 sleepyunderlings.esp
@@ -14778,6 +14780,8 @@ Chameleon-NoRefraction-2411.esp
 1310-chamelion-norefraction-tessource.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Disable_Weapon_Membrane_Shaders-3127.esp
+spellstrip 1.0.esp
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Shader replacers

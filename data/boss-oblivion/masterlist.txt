@@ -1926,6 +1926,7 @@ Pirates Treasure.esp
 PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
+PlayerSayStuff.esp
 PMVisibleMapMarkersSI.esp
 Poisonous_Food-9719.esp
 Posters.esp
@@ -3132,6 +3133,7 @@ DMRangerArmor.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
 DragonTorch_1C.esp
+Dread Knight Armor Addon.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
@@ -3283,6 +3285,7 @@ GC Draped Gowns.esp
 GC Gowns.esp
 GCBloodgown.esp
 GemSword.esp
+genji Armor.esp
 Ghogiels Armor.esp
 GhostArmor.esp
 Ghost Ring.esp
@@ -6779,6 +6782,8 @@ Dalls_Merchant.esp
 Dalls Collection.esp
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
+DarelothFrontDoorFix.esp
+" Apachii's Goddess Store.
 Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
 ? Upgrade to latest version.
@@ -7676,6 +7681,7 @@ NocturneCallSteed.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
+? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
 
 NNWAREAyleidDungeons_Series1EV.esp
 NNWAREAyleidDungeons_Series1DV.esp
@@ -7839,6 +7845,7 @@ RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
 RomancingAhnassi.esp
+NRB4+Romancing Ahnassi Patch.esp
 Romuska Fantasy Store.esp
 RosenrotManor01.esp
 Rosethorn Hall Necrmancy Study.esp
@@ -8414,6 +8421,9 @@ Angel's Arena Loot en.esp
 Add_Arena_Robes-5411.esp
 Arena Blacksmith.esp
 Arena Camp.esp
+Arena District Alive.esp
+Arena District Alive-JQ-FGU.esp
+: JQ Fighters Guild United.
 Arena Immersion Upgrade.esp
 Arena Immersion Upgrade-1174451252-TESSource.esp
 CDM-Arena Gauntlet.esp
@@ -8917,7 +8927,6 @@ NRB4+AranMathi Patch.esp
 NRB4-TchosTower-Patch.esp
 NRB4+CastleWestWeald Patch.esp
 NRB4+QFE Patch.esp
-NRB4+Romancing Ahnassi Patch.esp
 
 Bridges For the Fools.esp
 
@@ -9369,7 +9378,6 @@ West Roads.esp
 WR Villages Addon.esp
 ULSO+WestRoads Patch.esp
 ? Outdated - Upgrade to latest version of West Roads and delete this patch.
-WellspringVale+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
 
@@ -10345,6 +10353,8 @@ No Screensaver.esp
 NoWindSI.esp
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
+No Wait Regenerate.esp
+: OBSE.
 NPCsMoreGold.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
@@ -10413,6 +10423,10 @@ PPPickUpBook.esp
 Player's Diary.esp
 PlayersDiary_1C.esp
 Prox - Arena Loot v1.1.esp
+PSS-normal.esp
+PSS-vampire.esp
+PSS-NO-Dark.esp 
+PSS-Blades.esp 
 PWRunSpeed.esp
 % {{BASH:Actors.Stats,NoMerge}} // to be confirmed!
 \EndGroup\\
@@ -10494,6 +10508,7 @@ Salmo the Baker, Cobl.esp
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+BetterInns - Salmo the Baker, Cobl PATCH.esp
 SA Social Alertness.esp
 SBDummyTraining.esp
 Scouter.esp
@@ -11964,6 +11979,7 @@ BookLooting.esp
 : OBSE 15+
 CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
+crimesandpunshiment.esp
 MerchantFriendsBuysStolen.esp
 MerchantsAlwaysBuyStolen.esp
 Merchants Buy Stolen Goods.esp
@@ -11973,6 +11989,7 @@ More Realistic Sneaking - Sleepkill Dagger.esp
 More Realistic Sneaking 1.9 - Sleepkill Dagger.esp
 More Realistic Sneaking - Sneak Attack Modifiers.esp
 More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
+Sneak Effectiveness Enhancement.esp
 Stalk'em.esp
 SM Combat Hide.esp
 Attack & Hide.esp
@@ -12029,6 +12046,7 @@ Thievery_Hard_Thrill.esp
 ? only use one of the 'Worthwhile Thievery' ESPs.
 Thievery_Hard.esp
 ? only use one of the 'Worthwhile Thievery' ESPs.
+Troy_SneakClang.esp
 
 IThieveryRaise.esp
 IThieveryRaiseVeryHard.esp

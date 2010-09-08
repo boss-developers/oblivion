@@ -1671,7 +1671,6 @@ Goranga restaurant job.esp
 Gorangas traveling merchant.esp
 GP Tent.esp
 GrayFoxLeatherReward.esp
-GrayFoxOutfit.esp
 Grand Potions.esp
 ? May need Wrye Bashed Patch to work with overhaul mods.
 % {{BASH:Delev,Relev}} ??? Untested.
@@ -6075,6 +6074,9 @@ Fran's Ore Refiner - SI only.esp
 ? Use only if you have SI, use only one Fran's Ore Refiner esp.
 Fran's Ore Refiner.esp
 ? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
+
+GrayFoxOutfit.esp
+% {{BASH:Invent}}
 
 Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp

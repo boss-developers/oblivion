@@ -7681,7 +7681,7 @@ NocturneCallSteed.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
-? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
+? Make sure to be using at least version 0.85+
 
 NNWAREAyleidDungeons_Series1EV.esp
 NNWAREAyleidDungeons_Series1DV.esp
@@ -13964,6 +13964,10 @@ SkinMannequinCOBL-nosleep.esp
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Body-F,Body-M,C.RecordFlags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
+ZUSIO-MMM SI-patch.esp
+% {{BASH:Factions}}
+ZUSIO-Map MarkerOverhaul SI-patch.esp
+ZUSIO-SM Plugin Refurbish SI-patch.esp
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.
@@ -14851,6 +14855,8 @@ DS Flaming Arrows.esp
 Li-Glassphials.esp
 fog.esp
 RedBag - Fog.esp
+PW_MorrowindFog.esp
+? If using Weather mods this will conflict with them and you should probably use Streamline's Fog features instead to get a similar effect.
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
 ? Only activate one Life Detected esp at a time.

@@ -2196,6 +2196,10 @@ XTS-Merchant-Mod-V1.0.esp
 ZariAlchemistsRing.esp
 
 Zedar.esp
+Zombie Replacer_en.esp
+% {{BASH:Graphics,NoMerge}}
+Zombie Replacer_cn.esp
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Base Late
@@ -7500,6 +7504,7 @@ LeyawiinPort-AlphaRelease.esp
 
 LirialsRetreatRu.esp
 
+Li-TheresasLaden-EV.esp
 Lions Claw harbuor House.esp
 Lions Claw harbuor area.esp
 Listener's Room.esp
@@ -8185,6 +8190,7 @@ Trail  EAST.esp
 Trail  Central.esp
 TrainerFind.esp
 Tramps.esp
+% {{BASH:Relev}}
 Travelers Inns.esp
 TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
@@ -9704,7 +9710,7 @@ PitcherPlantHarvestable.esp
 PitcherPlantsHarvestable.esp
 Lily of the Valley Nectar.esp
 Harvest [Flora].esp
-% {{BASH:Scripts}}
+% {{BASH:Graphics,Scripts}}
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 NoHFailure_HFlora_SE.esp
@@ -10593,6 +10599,7 @@ LoversSpermSplashEx.esp
 LoversEscapeRapeVPlayer.esp
 LoversRapeSlave.esp
 LoversMB.esp
+LoversLight.esp
 LoversHideMenus.esp
 Sexlivion_0.4a_Full_English_v1.esp
 ? Old, update to version 0.8.2
@@ -13471,6 +13478,8 @@ Toaster Says Share Faction Recruitment.esp
 CompanionMaster.esp
 
 rusik.esp
+Rusik 2.0.1.esp
+CM Partners RU.esp
 CM Partners.esp
 CM Partners Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}

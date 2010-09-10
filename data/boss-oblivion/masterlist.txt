@@ -5952,9 +5952,6 @@ ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
 ArmamentariumLLMagicOOO.esp
 
-PersuasionOverhaul_OOO.esp
-PersuasionOverhaul_MMM.esp
-
 Qarls Harvest - OOO Patch.esp
 Qarls_Harvest - OOO Patch.esp
 Qarls_Harvest - MMM Patch.esp
@@ -6058,6 +6055,8 @@ Diverse Imperial Armor v1.1.esp
 
 Adventurers_1.0.esp
 ? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be able to be made work with MMM.
+un-leveled-shops.esp
+% {{Invent,Relev}}
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -6311,6 +6310,7 @@ AdenseEpicDungeon1_5.esp
 / Yay for renaming esp at every version.
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 Adenses Better Waterfront.esp
+Adoring_Fan_Platinum_Edition!!!-8619.esp
 Adrift.esp
 adTH-druidsdomain.esp
 : COBL and Shivering Isles
@@ -8025,6 +8025,7 @@ Star Ship Orion.esp
 Stonehenge.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
+Steve - Thieves Guils HQ.esp
 Street Market.esp
 sunk ships.esp
 Shield of the Gods v0.82.esp
@@ -8381,6 +8382,7 @@ Window Entrances 1.0.esp
 WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
 Wrath of Sithis.esp
+Wretched Pit and Witherstone Caverns.esp
 
 Cyrodill Travel Services.esp
 ? Obsolete. Upgrade to latest version, then delete this file. It was a typo.
@@ -10428,6 +10430,8 @@ P-Froggys NPC-Respawning X Tage.esp
 P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
+PersuasionOverhaul_OOO.esp
+PersuasionOverhaul_MMM.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 persuasioncompatable1.8.esp
@@ -14285,6 +14289,7 @@ BCChorrol-ChorrolHinterland patch.esp
 ? Same as 'Better Cities - Unique Landscape Chorrol Hinterland.esp' - only use ONE of these.
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
+% {{BASH:C.Water}}
 Better Cities CHORROL - Werewolf.esp
 
 Better Cities BRUMA - Werewolf.esp
@@ -14295,13 +14300,16 @@ Better Cities - Cheydinhal City Defences.esp
 Better Cities CHEYDINHAL.esp
 Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
+% {{BASH:C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 BCCheydinhalFULL-CheydinhalFalls patch.esp
+% {{BASH:C.Water}}
 ? Same as 'Better Cities - Unique Landscape Cheydinhal Falls.esp' - only use ONE of these.
 BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 % {{BASH:C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 Better Cities - Unique Landscape Cheydinhal Falls.esp
+% {{BASH:C.Water}}
 
 Better Cities - Leyawiin City Defences.esp
 Better Cities LEYAWIIN.esp
@@ -14501,6 +14509,7 @@ Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
+Better Cities - Dwemer Subway.esp
 Better Cities - Vvanderfell Imports.esp
 \EndGroup\\
 

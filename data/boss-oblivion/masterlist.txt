@@ -1266,6 +1266,7 @@ Adonnays Ranger Coats.esp
 Adult Books.esp
 AdventurersAlchemy.esp
 AEVWD.esp
+AL_MonsterRevisited v1.0.esp
 Almost Everything VWD.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
@@ -2655,6 +2656,7 @@ Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 AkatoshHead.esp
+Alliria_CRP_Weapon&Armor.esp
 alllll61-Saint Silver armor.esp
 Saint_Silver_Armor.esp
 alllll61s-Templar armors beta 0.9.esp
@@ -5293,6 +5295,8 @@ Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
 % {{BASH:Graphics}}
 
+Alliria_CRP_CrossOwnership_patch_OOO.esp
+
 ArmamentariumFixes.esp
 ArmamentariumLL.esp
 $ For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
@@ -6338,6 +6342,12 @@ AleswellHomeQuest.esp
 AL_Maverick.esp
 AL_WildSpright.esp
 All New House.esp
+Alliria_CRP_Communications.esp
+% {{BASH:Roads}}
+Alliria_CRP_CrossOwnership.esp
+% {{BASH:Factions}}
+Alliria_CRP_IC.esp
+
 Along Came A Spider.esp
 alto angelos proveing ground.esp
 ALTshack02.esp
@@ -11081,6 +11091,7 @@ TIE In - BC-Anvil.esp
 \
 \Must go after anything that alters the main quest.
 
+AlliriaRPS.esp
 Arks Tutorial Terminator.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations,Invent}}
@@ -11416,6 +11427,7 @@ Active_Inventory_Spell_1.2.esp
 AddSpells.esp
 Advanced Magic.esp
 Advanced Mark & Recall.esp
+Alliria_CRP_Spells.esp
 Alter Weight Spells.esp
 always protection.esp
 Apprentice Mystic.esp
@@ -12146,8 +12158,11 @@ Adrenaline-Fuelled Combat.esp
 Adrenaline Fuelled Archery- Bow Sway.esp
 ? Old version. Consider updating to v2.
 
+AlliriaArmorRebalanced.esp
+
 CDM - Fisticuffs.esp
 CombatMod.esp
+CUMoreDurableArmor.esp
 
 ResetEmotionAfterCombat.esp
 
@@ -13023,6 +13038,8 @@ AinmhiRace-RensBeautyPackFull.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AinmhiRace-RensBeautyPackHairsOnly.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+AlliriaBretonPatriciiRace.esp
+: xeoex.esp
 Anwolf Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Asian Race.esp
@@ -15283,7 +15300,6 @@ NRB4 OCReborn Road Record.esp
 : Open Cities Reborn.
 ? Use only one road record file.
 
-CUMoreDurableArmor.esp
 HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
 % {{BASH:Filter,Deactivate}}

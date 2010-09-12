@@ -7828,7 +7828,6 @@ Quest Nirnroot.esp
 \BeginGroup\: Quests R
 
 Reaper's Animated Lute.esp
-Reaper's Bleaker's Way Village Revamp.esp
 Reaper's Coldstone Town.esp
 " Heart of the Dead.
 Reaper's Coldstone Town Vwalk.esp
@@ -8737,7 +8736,7 @@ RTT Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 MTCExpandedVillages.esp
-? Conflicts with Ruined Tales Tale, use the patch available here 'http://www.tesnexus.com/downloads/file.php?id=34010'
+? Conflicts with Ruined Tales Tale, use the patch available here http://www.tesnexus.com/downloads/file.php?id=34010
 ? Conflicts with Lost Spires and Faregyl
 
 MoreSuburbLife.esp
@@ -8996,6 +8995,7 @@ MehrunesFel.esp
 Daedric Shrine Ruins.esp
 " Asharnakibibi.esp, MehrunesFel.esp, Zergonipilamat.esp,MehrunesFel.esp
 Daedric Ruins House of Healing Patch.esp
+Reaper's Bleaker's Way Village Revamp.esp
 Reaper's Waterfront.esp
 ReclaimSancreTor.esp
 Sylix.esp

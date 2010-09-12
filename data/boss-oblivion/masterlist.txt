@@ -9862,7 +9862,7 @@ Birthsigns Expanded.esp
 Birthsign Zero.esp
 BlackAzurasStar.esp
 BlackFineryWithAmulet.esp
-? If using Wrye Bash use the better to use the 'clothing show amulets' tweak instead.
+? If using Wrye Bash use the 'clothing show amulets' tweak instead.
 BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
@@ -10453,8 +10453,8 @@ PlayersDiary_1C.esp
 Prox - Arena Loot v1.1.esp
 PSS-normal.esp
 PSS-vampire.esp
-PSS-NO-Dark.esp 
-PSS-Blades.esp 
+PSS-NO-Dark.esp
+PSS-Blades.esp
 PWRunSpeed.esp
 % {{BASH:Actors.Stats,NoMerge}} // to be confirmed!
 \EndGroup\\
@@ -13404,7 +13404,11 @@ Ash Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ancient Elven Sorcerer - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Ancient Elven Sorcerer - DV.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ancient Elven Sorceress - EV.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Ancient Elven Sorceress - DV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 CapsAdmin.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
@@ -13503,6 +13507,9 @@ TSS Custom Companion Template.esp
 Toaster Says Share 2.11.esp
 Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
+
+Minionz.esp
+: OBSE
 
 CompanionMaster.esp
 

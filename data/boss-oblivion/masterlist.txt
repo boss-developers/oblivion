@@ -1316,6 +1316,7 @@ SI Clothes.esp
 
 \BeginGroup\: Base B
 
+Battlemage Friends.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 Book Jackets Oblivion - BP.esp
@@ -1605,6 +1606,7 @@ Oblivion_Deutsch_v3_1.esp
 % {{BASH:Names}}
 
 DBCEndOfMayTeaser.esp
+Defensive Katana Store v1.0.esp
 Decoration Pillows.esp
 Display Stats.esp
 dist_trees_x1_5.esp
@@ -3343,6 +3345,7 @@ Gypsy_Clothes.esp
 \BeginGroup\: Items H
 
 Hades.esp
+Handschuhe.esp
 Harlequin Armour 0.6.esp
 HaroK Arrow Forge Revisited.esp
 % {{BASH:Invent}}
@@ -7178,6 +7181,7 @@ Hunter's Haven File 1.esp
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 ICAU_Mages_bridge.esp
+ICEGHouse.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
@@ -10959,6 +10963,7 @@ kuerteeDeathHasPenalties.esp
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
+zzzDarkHelloTopic.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late
@@ -11599,6 +11604,7 @@ SixthSense.esp
 sjdDetectArrow.esp
 sleepyunderlings.esp
 Smite of Order.esp
+Smite_of_Order.esp
 Special Abilities.esp
 SpellDeflection.esp
 Stalk'em SI.esp

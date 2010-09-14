@@ -203,6 +203,8 @@ Beautiful People.esm
 Bab.esm
 Cosmetic Compilation - No JPeepers or NPC Changes.esm
 DADemons.esm
+DKImperials.esm
+% {{BASH:Hair,Eyes}}
 EyeCandy - Content.esm
 EyeCandy Compilation.esm
 Kaleah.esm
@@ -2435,6 +2437,8 @@ Uncommon Controls.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 FastShortcuts.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+FastEquipping.esp
+? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys_Extended.esp
@@ -2847,6 +2851,7 @@ Banes Guilds United.esp
 $ May have trouble with OOO. Untested.
 BarbarianShop.esp
 Bar Maid.esp
+Battle Princess.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
@@ -4773,6 +4778,7 @@ R18PN - Mizugi set.esp
 R18PN - Bs Bondage.esp
 R18PN - Collection.esp
 R18PN - Schatten lauf Amr.esp
+R18PN 08 - FuruFuru Armor for HGEC v2.esp
 kunoichi DM Enchanted.esp
 SexyKunoichi.esp
 TrawlolsCorinthianGladiator.esp
@@ -7391,6 +7397,7 @@ Keeper_of_The_Castle_Road.esp
 KendelfordAvon.esp
 Keric.esp
 Keys & Furniture Papers Box.esp
+(SFL) The Boxes - Keys & Furniture Papers.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
 $ If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
@@ -11601,6 +11608,7 @@ Remove Extra Data.esp
 Resurrect.esp
 Resurrection-5159.esp
 Resurrection_v_1_0.esp
+The Resurrect Spell v1.2.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
@@ -13670,6 +13678,8 @@ AW_Partners_MarkReturnTweak.esp
 CompanionshipRing.esp
 DS Companion Wardrobe Manager.esp
 
+DLD89.esp
+
 cssRhett.esp
 cssCalisto.esp
 cssCernd.esp
@@ -14016,6 +14026,8 @@ SkinMannequinCOBL-nosleep.esp
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.Stats,Body-F,Body-M,C.RecordFlags,Delev,Factions,Graphics,Invent,Names,R.Head,R.Relations,Relations,Relev,Scripts,SpellStats,Stats}}
+ZUSIO-RatsInCrucible.esp
+
 ZUSIO-MMM SI-patch.esp
 % {{BASH:Factions}}
 ZUSIO-Map MarkerOverhaul SI-patch.esp

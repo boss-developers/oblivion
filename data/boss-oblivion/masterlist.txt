@@ -5360,6 +5360,7 @@ MALO - Loot Tweaks FRAN.esp
 MTCDirtierBandits.esp
 % {{BASH:Invent}}
 
+DB Conspiracy.esp
 \EndGroup\\
 
 \BeginGroup\: MMM & FCOM
@@ -6242,6 +6243,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 \BeginGroup\: Quests #
 
 [Calsar] BetterWhiteStallionLodge.esp
+(SFL) Knights of the Thorn Lodge.esp
 
 007 Market district fps boost.esp
 ^ Probably incompatible with Better Cities.
@@ -7055,6 +7057,8 @@ GGShivOBSEv1_1.esp
 Gianna.esp
 Gift of Kynareth.esp
 Gift of Kynareth_delayer.esp
+? Old Version.
+Gift of Kynareth v2.1 Delayer.esp
 GoblinwatchKeep.esp
 Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
@@ -7463,6 +7467,9 @@ EiAmod.esp
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
+Eiamod_delayer.esp
+? Old version
+EiAmod v1.2 Delayer.esp
 EiAmod Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -8368,6 +8375,7 @@ Whispers of Death Extended.esp
 White Gold Top.esp
 WhiteGoldTowerV19.esp
 White Tower v0.8.esp
+whiteRoseRiverFarm.esp
 WinterCabin.esp
 Winterhouse.esp
 Winter Palace.esp
@@ -8767,6 +8775,8 @@ The Lost Spires.esp
 LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
+? Old Version.
+The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -11917,6 +11927,7 @@ PMSneakySummons-ForVanilla.esp
 ? to have magic overhaul features move before magic overhauls (but then
 ? you won't get the features of this)
 Cure Disease Overhaul – Extreme Diseases.esp
+Cure Disease Overhaul - Deadly Diseases (OBSE).esp
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
 
@@ -13333,6 +13344,9 @@ Energy - Beautiful Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Demon Hunter.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Demonhunter Delayer.esp
+? Old version.
+Demonhunter v1.01 Delayer.esp
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesuChan's Kawa-Khajiits.esp
@@ -15137,6 +15151,7 @@ QTdof.esp
 omg-dynamicDoF.esp
 omg-staticDoF.esp
 omg-waterrefraction-obse.esp
+omg-watersettings.esp
 Jake's Water.esp
 % {{BASH:Graphics}}
 Advanced_Water_Modification.esp

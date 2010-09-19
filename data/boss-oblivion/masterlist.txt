@@ -1372,6 +1372,8 @@ DLTIC-1-6.esp
 Torch Hotkey.esp
 BTMM.esp
 Brighter_Torches.esp
+BrighterTorches_v1.1.esp
+? Old, update to V1.2+
 BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
 % {{BASH:Invent}}
@@ -6610,6 +6612,8 @@ Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 BladeOfTheHaunted.esp
 % {{BASH:Factions}}
+BladeOfTheHaunted Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 BladeSong.esp
 : OBSE 18+, Screen Effects,
 Blankenmarch Home.esp
@@ -9350,6 +9354,7 @@ xulImperialIsle Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
@@ -10741,6 +10746,7 @@ Soul Gem Bigger Capacity.esp
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 \BeginGroup\: SPT Diverse Guards
+SPTDiverseGuards-Core.esp
 SPTDiverseGuards.esp
 $ Probably not compatible with OOO. Consider upgrading to version 2.0.
 SPTDiverseGuardsMRAll.esp
@@ -12155,6 +12161,7 @@ RenGuardOverhaul.esp
 % {{BASH:Actors.AIData}}
 RenGuardOverhaulShiveringIsles.esp
 ? Obsolete. Update to 2.08 or later and remove.
+SPTDiverseGuards-RGO-Patch.exp
 sycHearNoEvil.esp
 sycSHOUT.esp
 SM RGOConfig.esp
@@ -12467,7 +12474,13 @@ CDM-CGO Vanilla Skill Levelling Slower.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
 CDM-CGO Level Up.esp
 Faster Level Up X2.esp
+Faster Level Up X3.esp
 Faster Level Up X4.esp
+Faster Level Up X5.esp
+Faster Level Up X10.esp
+Faster Level Up X20.esp
+Faster Level Up X25.esp
+Faster Level Up X50.esp
 Faster Level Up X100.esp
 G_'s-Level-Slow.esp
 

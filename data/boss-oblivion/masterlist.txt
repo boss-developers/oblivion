@@ -8555,7 +8555,7 @@ Lynges Thieves Highway - OOO.esp
 \-----
 
 DLCFrostcrag.esp
-% {{BASH:C.Name,C.Owner}}
+% {{BASH:C.Name,C.Owner,Factions}}
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 Kvatch Rebuilt_Frostcrag Reborn.esp

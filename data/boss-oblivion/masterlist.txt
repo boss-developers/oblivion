@@ -229,6 +229,8 @@ x117race.esm
 Chanpon.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Independent High Elf Body (Replace)(v1.1).esm
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 p2p'sAshDraconian.esm
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 All Shapes And Sizes 1.0.esm
@@ -1777,6 +1779,7 @@ Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
 LostTelvanniCodex.esp
 Luchaire's Neck Seam Concealer.esp
+skinfix.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH:Invent}}
 Ls Rentable Player Homes.esp
@@ -2248,6 +2251,7 @@ GoldAdjustment.esp
 Enhanced Economy.esp
 ? Replaces Living Economy plugin
 
+Lynges_Dark_Brotherhood_Assassins.esp
 JOJOeffect.esp
 StandingJOJO.esp
 JOJO Merged.esp
@@ -5126,6 +5130,7 @@ Slof's Oblivion Robe Trader.esp
 % {{BASH:Graphics}}
 >: 'FCOM_SlofsRobeTrader.esp'.
 
+Morrowind Ingredients_Combo.esp
 Tamrielic_Ingredients_cOMbo.esp
 FCOM_TamrielicIngredients.esp
 : 'Tamrielic_Ingredients_cOMbo.esp'. Do not use TI and COBL at the same time.
@@ -7670,7 +7675,13 @@ MTCGlarthirsHouse.esp
 MTC Glarthirs House.esp
 MTCStableInteriors.esp
 
+NPCs Alive - Bandits.esp
+NPCs Alive - Beggers.esp
 NPCs Alive - Faregyll Inn.esp
+NPCs Alive - Goblins.esp
+NPCs Alive - Imperial Legion Foresters.esp
+NPCs Alive - Imps.esp
+NPCs Alive - Orges.esp
 
 Muffin Display Rooms.esp
 Museum.esp
@@ -9277,6 +9288,7 @@ Mimics-CloudtopMountains patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
 
 xulArriusCreek.esp
+% {{BASH:C.Water}}
 Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
 UL_Patch_AncientYews_ArriusCreek DV.esp
@@ -9816,6 +9828,7 @@ lTrainingseinheiten erhalten.esp
 AC's realistic priced clutter.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Accessing TG after Heist 1.1-TESSource.esp
+Ace_TorchlightRadiusIncrease.esp
 Actual Oblivion Crisis.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
@@ -10100,6 +10113,9 @@ Dwemer_Rename.esp
 
 \BeginGroup\: overrides E
 
+E0ThievesGuildFence-Low.esp
+E0ThievesGuildFence-Medium.esp
+E0ThievesGuildFence-High.esp
 ecatSmartBookshelf.esp
 Elys Invest More.esp
 Empty_Soul_Gems-2529.esp
@@ -10304,7 +10320,6 @@ Lights.esp
 Live at Gweden Farm.esp
 Loot All Armor.esp
 Lootable Merchant Chests.esp
-Lynges_Dark_Brotherhood_Assassins.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
@@ -12237,6 +12252,7 @@ Push_Spin_Fly.esp
 Push_Shove_Die.esp
 : OBSE.
 
+Killtastic! Chance.esp
 Kythrius_Mod.esp
 Kythrius_Mod_OBSE.esp
 
@@ -12245,6 +12261,7 @@ AR's Hand to Hand - 30.esp
 AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
+AutoOffhand.esp
 cancelattack.esp
 Creature Damage Fix.esp
 Denock Arrows.esp

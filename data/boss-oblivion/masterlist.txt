@@ -1532,6 +1532,8 @@ ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
 OCC-CoC-Patch.esp
 ? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 
+ClothingIsArmor.esp
+
 CLS-CMHotKeys-OBSE.esp
 CLS-Object Renamer-COBL.esp
 CLS-Object Renamer-OBSE.esp
@@ -1704,6 +1706,8 @@ haz_ct2_magesguild_teleport.esp
 haz_ct3_horse_cart.esp
 Hide Away.esp
 HTFpcb Extended.esp
+HUDI.esp
+" with UI systems other than DarNified UI/Dark'd DarN/other DarN variants.
 \EndGroup\\
 
 \BeginGroup\: Base I
@@ -2300,7 +2304,11 @@ Crowded Cities 30 Vwalk.esp
 Crowded Roads 23 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Crowded Roads Advanced.esp
+Crowded Roads Advanced Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Crowded Roads Advanced less crowded.esp
+Crowded Roads Advanced less crowded Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 CrowdedRoadsAdvanced_LC_1C.esp
 CrowdedRoadsAdvanced_1C.esp
 Crowded Roads Revamped.esp
@@ -2737,6 +2745,8 @@ Armure du Seigneur Noir.esp
 ArynnsDemonatrixHGEC.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
+Female Assassins Creed - Altair's Gear - EV.esp
+Female Assassins Creed - Altair's Gear - DV.esp
 AC2-Revisited_DV.esp
 AC2 Revisited HGEC.esp
 AC2Gear_HGEC.esp
@@ -6585,6 +6595,7 @@ Benirus Manor Remade.esp
 Benirus' Past.esp
 Benirus_Servents.esp
 Better Dark Brotherhood Sanctuary.esp
+% {{BASH:Names,NpcFaces}}
 Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
@@ -6977,13 +6988,6 @@ Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
 BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
-eyja.esp
-Eyja_DV 1.0..esp
-eyja Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-Eyja Abriael Human Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-EyjaFaceFixed.esp
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -8160,6 +8164,14 @@ The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+eyja.esp
+% {{BASH:C.Water}}
+Eyja_DV 1.0..esp
+eyja Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Eyja Abriael Human Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+EyjaFaceFixed.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
 TheMountainLodge.esp
@@ -8693,6 +8705,7 @@ Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
 Knights - AWS Patch.esp
+Knights - Cobl.esp
 Knights_fem.esp
 NLF Knights.esp
 M.O.E. - Visit Valen Dreth Topic.esp
@@ -8865,6 +8878,8 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH:C.Owner,Factions}}
+AFK_Weye Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
@@ -10109,6 +10124,7 @@ Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DropLitTorchesClean.esp
 DropLitTorchesCleanJP.esp
+ROM Drop Lit Torches.esp
 Druid_Cowl_proper.esp
 DS Less Predictable Respawn.esp
 Alchemy Pocket.esp
@@ -10474,6 +10490,8 @@ Oblivifall - Ambiant Dungeon SFX.esp
 Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
+% {{BASH:R.Description}}
+Oblivifall - New Classes Regular Fonts.esp
 % {{BASH:R.Description}}
 Ohgma Infinium OverHaul.esp
 OriginalLeather.esp
@@ -13651,6 +13669,7 @@ CM Partners Beasts.esp
 CM Partners Belle.esp
 CM Partners 20 Pack.esp
 CM Partners Argonians by Howabominable.esp
+CM Partners Elves by Howabominable.esp
 CM Partners Friska.esp
 CM Partners Humans by Howabominable.esp
 CM Partners Khajits by Howabominable.esp
@@ -15566,6 +15585,7 @@ Duke Patricks SCA Combat Archery.esp
 Duke Patricks - SCA Combat Archery.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - Combat Archery.esp
+" MOBS Optional Combat Settings.esp.
 SpookyArcheryMagicMeleeMerge.esp
 
 Duke Patrick's SCA Combat Archery patch for CnC.esp

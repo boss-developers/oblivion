@@ -980,6 +980,8 @@ Enhanced Water v1.5 ND.esp
 ? Old. Upgrade to latest version.
 Enhanced Water v2.0 ND.esp
 % {{BASH:C.Water}}
+Enhanced Water ND_1C.esp
+% {{BASH:C.Water}}
 Enhanced Water v2.0 HD.esp
 % {{BASH:C.Water}}
 Enhanced Water v2.0 HDMI.esp
@@ -10533,6 +10535,8 @@ RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
 ReneerAutoTorchMod.esp
 RenCorpseMod.esp
+% {{BASH:Graphics,Names}}
+RenCorpseMod_1C.esp
 % {{BASH:Graphics,Names}}
 MCaleb's_Decompose_Corpse_v1.2.esp
 ReneersGoldMod.esp

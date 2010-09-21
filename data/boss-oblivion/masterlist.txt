@@ -6175,6 +6175,8 @@ Enhanced Quest Roleplaying.esp
 Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
+Oblivifall - Something's Not Right.esp
+
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid and landscape edits.
 Quelldorf 1.5.esp
@@ -7105,8 +7107,12 @@ Gates To Aesgaard Weather Patch.esp
 ? Deprecated. Update to latest Gates To Aesgaard Episode 1 and remove this patch.
 GTAesgaard_2.esp
 GtArus.esp
+GTAesgaard I v1.2 Delayer.esp
+GTAesgaard II v1.1 Delayer.esp
 Gates To Aesgaard 2 Delayer.esp
 GTAesgaard 1and2 Delayer.esp
+? Old, update to latest version.
+GTAesgaard I-II Delayer.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
@@ -8096,6 +8102,7 @@ Star's Rest.esp
 Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
 Steve - Hitman.esp
+Steve - Hitman (Patched) Delayer.esp
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
@@ -8852,6 +8859,7 @@ HoarfrostCastle.esp
 % {{BASH:Hair}}
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
+HoarfrostCastle v1.2.2 Delayer.esp
 HoarfrostCastle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -9465,6 +9473,7 @@ ULSO+WestRoads Patch.esp
 xleyawiinSwamp.esp
 
 Castle_Seaview.esp
+Castle_Seaview v1.1 Delayer.esp
 CastleSeaview+LostCoast Patch.esp
 " EaglesRest+LostCoast+CastleSeaview Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
@@ -10466,7 +10475,6 @@ Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
 % {{BASH:R.Description}}
-Oblivifall - Something's Not Right.esp
 Ohgma Infinium OverHaul.esp
 OriginalLeather.esp
 OriginalLeatherSI.esp
@@ -10499,6 +10507,7 @@ P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
 PersuasionOverhaul_OOO.esp
+? If using this don't also use 'PersuasionOverhaul_MMM.esp'.
 PersuasionOverhaul_MMM.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
@@ -14614,6 +14623,7 @@ Better Cities - Sexlivion_0.4a_Full_English_v1.esp
 Better Cities - Sexlivion.esp
 Better Cities - Stranded Light.esp
 ? Obsolete. Do not use.
+Better Cities - The Lost Spires.esp
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
 Better Cities - Dwemer Subway.esp
@@ -15357,6 +15367,7 @@ bgScriptEffectSilencer.esp
 % {{BASH:Sound,Graphics}}
 NoScriptHitVisual.esp
 % {{BASH:Sound,Graphics}}
+Script Effect Silencer.esp
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.

@@ -485,6 +485,7 @@ Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
 BlackScreenToggleFix.esp
 
+Allies for Bruma Fix.esp
 Erthor_Fix-2593.esp
 ? Use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
@@ -511,7 +512,7 @@ ArenaChampionHotfix.esp
 ? Obsolete, as the bug was fixed in the 1.2 official patch.
 vampirescriptfix.esp
 object_placement.esp
-? Overlaps slightly with UOP, load whichever you want to have an effect last.
+? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
 CaeliaDraconisFix.esp
 sulinus fix.esp
 sva_testFixBruma.esp
@@ -2089,6 +2090,7 @@ SimpleHUDClock.esp
 SimpleSprinting.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
+SkeletonShaders.esp
 SkinMannequinVan-nosleep.esp
 SkinMannequinVan-sleep.esp
 
@@ -2168,6 +2170,8 @@ Unlimited.esp
 VA_BetterGold.esp
 % {{BASH:Graphics}}
 VAs Better Gold with no Menu Icon.esp
+% {{BASH:Graphics}}
+AC_Gold_Coins.esp
 % {{BASH:Graphics}}
 Vampire Alchemy V1.1.esp
 % {{BASH:Invent}} or you really won't get much of the effects of this if you use any overhauls.
@@ -4029,6 +4033,8 @@ SG005_DHuntress.esp
 SG006_Nabiya.esp
 SG007_Nobody.esp
 SG010 Compilation.esp
+Shaun's Weapon Replacers.esp
+% {{BASH:Graphics}}
 Staves&Polearms&Spears.esp
 StealStaff.esp
 SteelHalberd.esp
@@ -12085,6 +12091,7 @@ More Realistic Sneaking 1.9 - Sleepkill Dagger.esp
 More Realistic Sneaking - Sneak Attack Modifiers.esp
 More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
 Sneak Effectiveness Enhancement.esp
+Realistic Sneak for NPCs.esp
 Stalk'em.esp
 SM Combat Hide.esp
 Attack & Hide.esp
@@ -13587,6 +13594,9 @@ Minionz.esp
 : OBSE
 
 CompanionMaster.esp
+
+CSR Fixed.esp
+CSR Balanced.esp
 
 rusik.esp
 Rusik 2.0.1.esp

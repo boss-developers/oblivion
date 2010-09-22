@@ -8664,7 +8664,7 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
-% {{BASH:Actors.AIPackages}}
+% {{BASH:Actors.AIPackages,Factions}}
 Knights - Book Jackets.esp
 % {{BASH:Graphics,NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -8674,7 +8674,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Factions,Relations,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIPackages,Factions,Relations}}
 Correctif Knights.esp
 DBOO - Knights.esp
 Knights Rwalk.esp

@@ -2443,6 +2443,7 @@ Wayshrine Map Markers.esp
 \Load order independent. Use only one unless documentation says otherwise.
 
 DBTAM.esp
+Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Expanded Hotkeys and Spell Delete V2.esp
@@ -3529,6 +3530,8 @@ KohdiAnduril.esp
 KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
 Kohdi Ankewan-Anesphar Delayer.esp
+? Old, update to latest version.
+Kohdi Ankewan-Anesphar Delayer v2.esp
 KohdiLessFrustratingArrows.esp
 kolovian_robes.esp
 KORE- Salient Daggers.esp
@@ -6745,7 +6748,6 @@ Castle_Veyond.esp
 Castle Volengrad.esp
 CastleHeiLi.esp
 CDEP.esp
-CDEP_FanaCeya.esp
 CDEP-UnderpallCave.esp
 % {{BASH:C.Light, C.Water}}
 CDM-The Necromantic Experience.esp
@@ -7977,6 +7979,7 @@ Seawatch Abode.esp
 Secret Hideout.esp
 Secrets.esp
 SecretsOfMertvitel.esp
+Secrets of Mortum.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp
@@ -8096,6 +8099,7 @@ Sunburn.esp
 Sunken Fortress.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
+sS-OrderOfAskarthe.esp
 Sseths Resource Foundry.esp
 SSS_1.0.esp
 : Shivering Isles.
@@ -8138,6 +8142,7 @@ Sheogorath`s Artifacts.esp
 
 \BeginGroup\: Quests T
 
+tales of gratch.esp
 Talos Bridge.esp
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
@@ -8149,6 +8154,7 @@ Tantrivaylia Vwalk.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
+templars.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
@@ -8164,6 +8170,7 @@ The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+CDEP_FanaCeya.esp
 eyja.esp
 % {{BASH:C.Water}}
 Eyja_DV 1.0..esp
@@ -8172,6 +8179,7 @@ eyja Vwalk.esp
 Eyja Abriael Human Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 EyjaFaceFixed.esp
+The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
 TheMountainLodge.esp
@@ -8404,6 +8412,8 @@ WaterloggedTower.esp
 WaterSphere.esp
 Wayshrines in the University.esp
 Wayshrines.esp
+wb_Erewhon.esp
+wb_Erewhon_Cobl.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
@@ -9113,6 +9123,7 @@ HOD_delayer.esp
 ? only use without Open Cities
 OC_HOD_delayer.esp
 ? only use with Open Cities
+HeartOftheDeadv6.3 Delayer.esp
 
 Dschinni.esp
 ? There are incompatibilities with Servant of the Dawn.

@@ -20,54 +20,57 @@ A simple "one-click" program for users to quickly optimize and avoid detrimental
 
 [b]Features:[/b]
 [b][list]
-[*]Checks and correctly positions all the mod files involved with an 'FCOM Convergence' installation including partial or complete installations of OOO, MMM, Fran's, Oblivion WarCry, Bob's Armory, Loth's Blunt Weapons (for NPCs), COBL, Tamriel Travellers, Exnem's Runeskulls and so on.
-[*]Correctly positions all the mod files involved with OOO, MMM, Better Cities, Open Cities and other very large mods.
-[*]Supports over 9000 mods and counting.
-[*] Warns the user about any commonly miss-installed FCOM related files.
-[*] Provides useful load order notes.
-[*] Provides Wrye Bash with Bash Patch tag suggestions which it will import.
-[*] Is mostly right (most of the time)!
-[*] Is under constant development and improvement by a team of modders and Oblivion experts.
-[*] Differentiates between FCOM and non-FCOM set-ups.
+[*]Correctly positions over 10,000 mods and counting, including all the mod files found in such popular mods as FCOM, OOO, MMM, Better Cities, Open Cities, Race Balancing Project and many other large mods.
+[*]Checks all the mod files used in an 'FCOM Convergence' installation, including partial or complete installations of OOO, MMM, Fran's, Oblivion WarCry, Bob's Armory, Loth's Blunt Weapons for NPCs, Cobl, Tamriel Travellers, Exnem's Runeskulls and more.
+[*]Detects common FCOM installation mistakes and warns the user about them.
+[*]Differentiates between FCOM and non-FCOM setups.
+[*]Provides Wrye Bash Bash Tag suggestions that are automatically applied by Wrye Bash.
+[*]Provides useful load order notes for many mods.
+[*]Displays the version number of mods when it is available.
+[*]Sorts mod files ghosted by Wrye Bash.
+[*]Is mostly right (most of the time)!
+[*]Allows easy user customisation of mod positions and the messages provided.
+[*]Is under constant development and improvement by a team of modders and Oblivion experts.
 [/list][/b]
 
-Better Oblivion Sorting Software (BOSS) will reorder all the mods it knows about (listed in the masterlist.txt database file) and puts ones it doesn't know after. The unknown mods will be in the same order as you had them before running BOSS.
+Better Oblivion Sorting Software (BOSS) will reorder your mods to their correct positions (as listed in the masterlist.txt database file), putting any mods it doesn't recognise after them, in the same order as they were before BOSS was run.
 
-BOSS is designed to assist installing FCOM, MMM and a wide variety of other mods and help mod users avoid serious conflicts. It isn’t a complete solution to load ordering issues as there are far too many mods out there (estimated at about 30 thousand). To properly place mods the program doesn’t know about, a good working knowledge of Oblivion mod load ordering is going to be necessary. Some research and documentation reading will go a long way.
-
+BOSS is designed to assist in the installation and usage of mods, especially more complex mods such as FCOM and MMM, and help mod users avoid serious conflicts. It is not a complete solution to load ordering issues, as there are far more mods out there (estimated at about 30,000) than BOSS knows about. To properly place mods BOSS doesn't know about, a good working knowledge of Oblivion mod load ordering is still necessary, for which some research and documentation reading will go a long way.
 
 [u]REQUIREMENTS:[/u]
 
-Windows (or Wine), Oblivion, some mods.
+Windows (or Wine), Oblivion (or Fallout 3), some mods.
 
 
 [u]DOWNLOADS:[/u]
 
-[url=http://www.tesnexus.com/downloads/file.php?id=20516]Better Oblivion Sorting Software on TES Nexus (less than 200KB download)[/url]
+[url=http://www.tesnexus.com/downloads/file.php?id=20516]Better Oblivion Sorting Software on TES Nexus[/url]
 
 There are no official mirrors at this time.
 
 
 [u]INSTALLATION AND USE:[/u]
 
-1. Backup your load order with OBMM or Wrye Bash.
+1. If you have Wrye Bash, make sure the "Lock Times" function is deactivated.
 
-2. If you have Wrye Bash, make sure it has its "Lock Times" function deactivated.
+2. If upgrading from an earlier version of BOSS, delete your BOSS.bat, modlist.txt, modlist.old, masterlist.txt and BOSSlog.txt files in your Data folder. If you have an edited masterlist, make sure to keep a backup so that your edits are not lost.
 
-4. Run BOSS.bat (the .bat file, not the .exe file).
+3. Unzip the BOSS.zip to your ..\Oblivion\Data folder, so that BOSS.exe is in the same folder as your mods.
 
-The output of the utility will be displayed immediately. Read any notes, FCOM install errors if applicable and/or Wrye Bash Bashed Patch suggestions. Wrye Bash can import suggestions from BOSS and apply them automatically.
+4. Run the "BOSS - Update Masterlist.bat" file to get the latest masterlist from the Internet and sort your mods.
 
-You will need to re-order "unknown" mods by hand with OBMM or Wrye Bash.
+5. When running BOSS normally, do so from the BOSS.exe, but remember to run the "BOSS - Update Masterlist.bat" regularly to ensure you have a recent masterlist.
 
-Wrye Bash automatically integrates BOSS's Bashed Patch suggestions from the masterlist.txt file. Some Bashed Patch suggestion can come with conditions and notes that require human intervention so read the suggestions BOSS makes thoroughly and adjust tags by hand if necessary.
+Once BOSS has finished running, the output will be displayed automatically. Read any notes, FCOM installation errors if applicable, and make any relevant changes that are suggested by them. Wrye Bash will automatically import and apply Bash Tag suggestions from BOSS. Some Bash Tag suggestions can come with conditions and notes that require human intervention though, so read the suggestions makes thoroughly and adjust tags by hand in Wrye Bash if necessary.
+
+You will need to reorder "unknown" mods by hand using OBMM or Wrye Bash.
+
+You can update your masterlist to the latest version by running the "BOSS - Update Masterlist.bat" file. This will replace your copy with the latest available online, and then run BOSS as normal using the updated masterlist. If you have an edited masterlist, using this updater will cause you to lose all your edits.
 
 
 [u]UNINSTALLATION:[/u]
 
-Delete BOSS.bat,  BOSS.exe and masterlist.txt.
-
-Also delete BOSSlog.txt, modlist.txt and modlist.old if BOSS has been run.
+Delete BOSS.exe, "BOSS - Update Masterlist.bat", "BOSS - Undo Last Run.bat" and, if BOSS has been run, the BOSS folder in your ..\Oblivion\Data folder.
 
 
 [u]TROUBLESHOOTING:[/u]
@@ -105,35 +108,60 @@ Run BOSS.bat not BOSS.exe[/spoiler]
 
 [u]FURTHER DETAILS:[/u]
 
-There are no options, command-line switches or run-time choices to make.
+[b]Command Line Arguments[/b]
 
-The only thing this tool does is re-date files and create a couple of text files including one that is displayed to the user with (hopefully!) handy comments and/or FCOM install error messages.
+BOSS has a few command-line arguments. The syntax is:
 
-Oblivion.esm is never touched and all file dates are derived from it.
+BOSS [--update | -u] [--help | -h] [--disable-version-parse | -V-] [--revert-level | -r] [level]
 
-The program archive contains masterlist.txt which is, obviously, the master list of mods the program recognizes and is the most frequently updated component of BOSS.
+-h, --help:
 
-The output for the user to read is called BOSSlog.txt and is saved as a text file and displayed by Window's default text file handling program once BOSS has finished re-dating files.
+This prints a short description of BOSS and some information on the function of the command line arguments.
 
-The program generates a text file called modlist.txt which is your list of mods prior to re-ordering. 
+-u, --update:
 
-The changes BOSS makes can be undone in the following way:
-[list=1]
-[*]Rename masterlist.txt to masterlist.old (or any temporary name).
-[*]Rename modlist.txt to masterlist.txt .
-[*] Run BOSS.bat .
-[*] Delete masterlist.txt .
-[*] Rename masterlist.old to masterlist.txt .
+If this switch is used, BOSS will automatically update the local copy of the masterlist using the latest version on the Google Code repository, and then sort your mods. Since this replaces your current masterlist, don't run this if you have an edited copy and wish to keep the changes. The "BOSS - Update Masterlist.bat" runs BOSS with this switch.
+
+-V-, --disable-version-parse:
+
+Disables the parsing of each mod's description to extract the author's version information, so it is not printed alongside other data in the generated BOSSlog.html. This can be used if the version parsing is not working properly for some of your mods, and you wish to remove the version notes.
+
+-r level, --revert-level level:
+
+Sets BOSS to undo its changes by reverting back the number of levels given by level to the load order at that point. level can take values of 1 or 2. A value of 1 will restore the load order to that stored in modlist.txt. A value of 2 will restore the load order to that stored in modlist.old. If the modlist that you are reverting to does not exist, BOSS will cancel the undo and display an error message. The modlist files are not updated when BOSS is run with this parameter.
+
+
+[b]BOSS Changes and Files[/b]
+
+The only changes BOSS makes to your Oblivion install are to re-date the .esp and .esm files in your Data folder, to create a BOSS folder there, and create a few text files in that BOSS folder. Oblivion.esm is never touched, and all dates are derived from it.
+
+The text files that are used and created by BOSS are all found in the ..\Oblivion\Data\BOSS folder, and they are:
+[list]
+[*]masterlist.txt - This is the master list of mods that BOSS recognises, listing them in order and which includes notes attached to them. It is the most frequently updated component of BOSS, receiving updates almost every day.
+[*]BOSSlog.html - This log is where the output that BOSS generates and displays once the program ends is stored. It is replaced every time you run BOSS. You can view it in any web browser.
+[*]modlist.txt - This file contains the list of your mods in the order they were before you last ran BOSS, which can be used to undo changes to your load order.
+[*]modlist.old - This file contains the contents of your modlist.txt before you last ran BOSS, providing a second level of undo for load order changes.
+[*]userlist.txt - This file contains your custom rules to be implemented by the User Rules feature.
 [/list]
 
-If modlist.txt already exists (when you run the program for the second time or more), it will be renamed to modlist.old before a new modlist.txt file is created. This gives you two levels of undo.
+[b]Undoing Changes[/b]
+To undo the changes BOSS makes to your load order, you can use the included "BOSS - Undo Last Run.bat" file. The .bat file will, by default, revert to the load order before the last run of BOSS, as stored in modlist.txt. If you want to revert back to the load order before that, as stored in modlist.old, you will need to edit your "BOSS - Undo Last Run.bat" file:
 
-One of the best ways more experienced users can use BOSS is to edit your own copy of masterlist.txt and include there any mods not listed. You can "merge" in new updates with the excellent free open-source WinMerge software. http://www.winmerge.org
+1. Right-click it and select "Edit" to open it up in Notepad.
 
+2. On the line containing "BOSS.exe -r 1", replace the 1 with a 2 to give "BOSS.exe -r 2".
+
+3. Then save the file and run it to revert your load order back two levels.
+
+
+[b]Customising How BOSS Works[/b]
+The best way that users can customise how BOSS works is by using the included User Rules feature. This feature allows you to define the positions of mods not in the masterlist, and to override the masterlist positions of mods, as well as edit the output messages of mods, and more. In addition, this is all done without editing the masterlist.txt, so when you update it using the built-in updater, your changes shall not be lost. All the information on the User Rules feature can be found in the "BOSS User Rules ReadMe.html" file.
+
+An alternative is to use the [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Master List Manager[/url] (BOMM) by Surazal, which is a Word 2003, 2007 and 2010 Macro that provides similar features.
 
 [u]CONTRIBUTIONS AND HELP:[/u]
 
-Questions, suggestions, unrecognized mods and general discussion takes place [url=http://forums.bethsoft.com/index.php?/topic/1101592-boss-better-oblivion-sorting-software/]HERE[/url].
+Questions, suggestions, unrecognized mods and general discussion takes place [url=http://www.bethsoft.com/bgsforums/index.php?showtopic=1117093]HERE[/url].
 
 User corrections to the masterlist are vital. Let us know what you know.
 
@@ -147,13 +175,11 @@ Lists of unrecognized mods are welcome but the only way we can include them in t
 
 [u]UPDATES:[/u]
 
-Updates are published from [url=http://www.tesnexus.com/downloads/file.php?id=20516]TesNexus[/url] and the latest masterlist is always on [url=http://code.google.com/p/better-oblivion-sorting-software/]Google Code Repository[/url].
-Files on Nexus are updated once a week or so. Always use latest dated files.
+Updates are published at the TES Nexus BOSS page.
 
+For those not using the masterlist updater, the latest masterlist is always on the Google Code repository.
 
-[u]ADDITIONAL FILES:[/u]
-
-FCOM-only masterlist.txt database file. Using it instead of the normal one will move all FCOM files to the start in the correct order (and check for problems, show comments as usual) but leave all other mods' load order the same as before running BOSS. Useful for troubleshooting purposes and useful to anyone who wants to keep their existing mod load order then add FCOM and finalize everything by hand. This file is getting a very old but it does the job (sortof).
+Always make sure to use the latest release of the BOSS program, and the latest masterlist.
 
 
 [u]CREDITS:[/u]
@@ -161,6 +187,8 @@ FCOM-only masterlist.txt database file. Using it instead of the normal one will 
 Sources for the mod list and its order include: Agiel's Annotated Load Order; Fivefries load order; dev_akm's official expanded FCOM load order (FCOM 0.9.9); suggestions and instructions from Mart's Monster Mod, Better Cities, Open Cities and Open Better Cities developers; suggestions and instructions from many other modders; lots of advice and information from users. Some people have gone out of their way and provided continuing, expert and detailed help - thank you very much!
 
 Thanks go to Wrye for implementing the importing of BOSS's Bashed Patch tag suggestions into [url=http://wrye.ufrealms.net/Wrye%20Bash.html]Wrye Bash[/url].
+
+Thanks also go to the Beta Testing & Analysis Guild at TESAlliance and Surazal for testing and giving feedback on v1.6 prior to release.
 
 
 [u]PROJECT MEMBERS[/u]

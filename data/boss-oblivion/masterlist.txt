@@ -591,6 +591,7 @@ Traduccion Mejorada S.I.esp
 Unofficial Shivering Isles Patch.esp
 ? Remember to use the 'MOBS' version when using Francesco's and FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
+? Alternatively, consider using the standalone MOBS/OMOBS mods together with the non-MOBS patch.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Name,C.Owner,Delev,Factions,Invent,Names,Relev,Scripts,Stats,Relations}}
 CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
@@ -815,6 +816,17 @@ _darker_nights_2_with_burning_kvatch.esp
 " weather overhauls.
 darker nights for shivering isles.esp
 " weather overhauls that affect SI.
+
+fog.esp
+? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+RedBag - Fog.esp
+? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+PW_MorrowindFog.esp
+? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+sdn LOD Fog Full.esp
+? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+sdn LOD Fog Lite.esp
+? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
 
 Lem - Modified Weather.esp
 
@@ -1610,7 +1622,8 @@ Damsels In Distress.esp
 DID3_DoubleTrouble.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
-
+DarNifiedUI Config Addon.esp
+: OBSE v18+, Pluggy v125b+ and DarNified UI or DarkUI'd DarN.
 Days&Months.esp
 RealDaysAndMonths.esp
 
@@ -15048,10 +15061,6 @@ Detect Life Red Shader.esp
 Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
 Li-Glassphials.esp
-fog.esp
-RedBag - Fog.esp
-PW_MorrowindFog.esp
-? If using Weather mods this will conflict with them and you should probably use Streamline's Fog features instead to get a similar effect.
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
 ? Only activate one Life Detected esp at a time.

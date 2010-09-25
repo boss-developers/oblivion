@@ -2254,7 +2254,7 @@ Harvest[Containers] - Flat-Top Barrels Add-on.esp
 $ Not OOO compatible. Included in OOO -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 Harvest[Containers] - Havok Crates Add-on.esp
 $ Not OOO compatible -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
-DBOO - Harvest[Containers].esp	
+DBOO - Harvest[Containers].esp
 
 Piratelords Trade Fixes.esp
 
@@ -2283,11 +2283,11 @@ moDem's City Life - BP Compat.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 ? For use with Better Cities use replacing fix for BBC.
 moDem's City Life - BP Compat Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}	
+% {{BASH:Actors.Anims,NoMerge}}
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
 moDem's City Life Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}	
+% {{BASH:Actors.Anims,NoMerge}}
 
 Oblivion Alive.esp
 ^ May be incompatible with BC - untested.
@@ -2911,8 +2911,10 @@ Blackheart and Gizmodian ECRobes.esp
 Black Mirror.esp
 BlackSoulGemArmory.esp
 Blackwire.esp
+Blade of Judgment2.esp
 Blade Of Woe Replacer.esp
 % {{BASH:Graphics}}
+BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
 Blood Mage.esp
 Bloodmail 2.1.esp
@@ -3697,6 +3699,7 @@ NewbsArmoredRobes.esp
 NewMageRobes.esp
 NexonsArmory.esp
 NexonsArmoryENG.esp
+NexonsArmoryGER.esp
 Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
 Nico's Daes' Rakan Swords.esp
@@ -6339,6 +6342,11 @@ A_ship_near_Anvil-7781.esp
 A Blades House.esp
 A Cut Above Hairdressers.esp
 A House on the Isles!!.esp
+A Not So Simple Cave Retreat.esp
+" 'A Not So Simple Cave Retreat - Coblized.esp'.
+A Not So Simple Cave Retreat - Coblized.esp
+: COBL.
+" 'A Not So Simple Cave Retreat.esp'.
 A Sneaky Buy 2.1.esp
 A Sorceress Love 1_1.esp
 AAAEmptyRoom.esp
@@ -6401,6 +6409,8 @@ AlchemistForHire.esp
 AL_Maverick.esp
 AL_WildSpright.esp
 All New House.esp
+? Old, update to latest version (which is called Vaernlor Manor).
+Vaernlor Manor.esp
 Alliria_CRP_Communications.esp
 % {{BASH:Roads}}
 Alliria_CRP_CrossOwnership.esp
@@ -7205,13 +7215,6 @@ Hentai_mania_statuetki.esp
 : Hentai Mania.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
-HentaiMania2.esp
-HentaiMania2C.esp
-? Cleaned version of HentaiMania2.esp use only one
-HentaiMania2_Merged_Hell.esp
-: HentaiMania2C.esp
-HentaiMania2_Merged_Nightmare.esp
-: HentaiMania2C.esp
 Hero Hill Redone.esp
 HighwaymanHideway.esp
 HobbitHole.esp
@@ -7955,8 +7958,6 @@ RoxeyCottage.esp
 RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
-Ruins of Tarnesia.esp
-% {{BASH:NpcFaces}}
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
 RumarePriory.esp
@@ -8442,7 +8443,6 @@ WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeatherWizard.esp
 WellDiver.esp
-Well of Arcane Marking.esp
 WellOfSouls.esp
 WellspringGrove.esp
 Well Thief v 1.1.esp
@@ -8940,6 +8940,8 @@ Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
 Shadowcrest_Vineyard_Guard.esp
+
+Well of Arcane Marking.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM Compatibility Section
@@ -9194,6 +9196,16 @@ Ravenpride-Stendarr patch.esp
 ? Obsolete as of version 1.2 of Stendarr Valley.
 WindspearTower-StendarrValley compatibility patch.esp
 ? Update to patch version 1.1 if using Stendarr Valley 1.2
+
+\BeginGroup\: HM2
+HentaiMania2.esp
+HentaiMania2C.esp
+? Cleaned version of HentaiMania2.esp use only one
+HentaiMania2_Merged_Hell.esp
+: HentaiMania2C.esp
+HentaiMania2_Merged_Nightmare.esp
+: HentaiMania2C.esp
+\EndGroup\\
 
 xulTheHeath.esp
 Unique Landscapes - The Heath - with Creatures DV.esp
@@ -9587,6 +9599,9 @@ Moriarcis.esp
 % {{BASH:Hair}}
 Moriarcis_TheNecromancer Patch.esp
 TheNecromancer-Moriarcis patch.esp
+
+Ruins of Tarnesia.esp
+% {{BASH:NpcFaces}}
 
 300 Arcane University.esp
 Reaper's Arcane University.esp
@@ -10075,6 +10090,7 @@ Compass-Disable_Both.esp
 Compass_Marker_Reducer.esp
 ? If using Wrye Bash use Bashed Patch tweaker instead.
 Create NPCs Duplicates.esp
+Create NPC Duplicates - Beta.esp
 Creature Language Skills -Ver 3.3-.esp
 Creatures20.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Actors.Spells,Factions,Graphics,Names,Relev}}
@@ -10134,6 +10150,12 @@ DDJailShackles.esp
 ? Old, update to version 1.04+
 DD_JailShackles.esp
 DeadlierDarkBrotherHood.esp
+DBED - 7 murders Level delay.esp
+DBED - 5 murders Level delay.esp
+DBED - 3 murders No level delay.esp
+DBED - 3 murders Level delay.esp
+DBED - 5 murders No level delay.esp
+DBED - 7 murders No level delay.esp
 Deadly Clutter.esp
 Deadly Clutter_update.esp
 Decorator Assistant.esp

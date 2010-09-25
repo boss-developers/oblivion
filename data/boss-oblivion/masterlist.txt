@@ -804,10 +804,6 @@ Floydian1 Loading Screens Compilation.esp
 Oblivion_Audio_and_Visual_Overhaul_1st_esp.esp
 Oblivion_Audio_and_Visual_Overhaul_2nd_esp.esp
 
-_Real_Lights.esp
-? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
-? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
-
 oc_darker_nights.esp
 " weather overhauls.
 _darker_nights.esp
@@ -922,9 +918,6 @@ EW-GTA2 Patch.esp
 
 Enhanced Seasons.esp
 
-All Natural - Real Lights.esp
-% {{BASH:Graphics,Scripts}}
-? Do not use with original Real Lights mod.
 All Natural.esp
 ? Required for All Natural.
 % {{BASH:C.Climate}}
@@ -1182,6 +1175,14 @@ Rainbows.esp
 \''''''''
 \
 \Should load early to allow more 'important' mods to override.
+
+_Real_Lights.esp
+? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
+? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
+
+All Natural - Real Lights.esp
+% {{BASH:Graphics,Scripts}}
+? Do not use with original Real Lights mod.
 
 LightsOut.esp
 LightsOut - DV.esp

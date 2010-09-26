@@ -9017,6 +9017,9 @@ Valenwood.esp
 Summerset.esp
 SummersetLandscapes.esp
 The Lost Chapel.esp
+
+Tamriel.esp
+
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 BetterMusicSystem(Elsweyr).esp
@@ -9164,6 +9167,17 @@ Dschinni Vwalk.esp
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH:Hair,Invent,C.Owner,Actors.AIPackages}}
+
+\BeginGroup\: Tamriel Worldspace Modding Project
+\-----------------------------------------------
+
+TWMP_Valenwood_Elsweyr.esp
+TWMP_Summerset.esp
+TWMP_Hammerfell.esp
+TWMP_HighRock.esp
+TWMP_Skyrim.esp
+TWMP_Morrowind.esp
+TWMP_ BlackMarsh.esp
 
 \BeginGroup\: CUO Cities
 \-----------------------
@@ -15697,6 +15711,7 @@ MergedMaps.esp
 Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 TamrielWorldspaceCompleteWorldMap.esp
+TWMP_Tamriel_Ingame_ Map.esp
 \any map changing files esp have to go dead last other than pure script mods
 
 FormID Finder.esp

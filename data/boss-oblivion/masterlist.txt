@@ -3482,6 +3482,7 @@ javrmb.esp
 javbmb.esp
 JBlades!.esp
 JBladesVol2.esp
+% {{BASH:Relev}}
 JBScimitar.esp
 JCapes!20.esp
 JCapesBonus.esp
@@ -9216,9 +9217,10 @@ HentaiMania2.esp
 HentaiMania2C.esp
 ? Cleaned version of HentaiMania2.esp use only one
 HentaiMania2_Merged_Hell.esp
-: HentaiMania2C.esp
+: Hentai mania 2 base plugin
 HentaiMania2_Merged_Nightmare.esp
-: HentaiMania2C.esp
+: Hentai mania 2 base plugin
+
 \EndGroup\\
 
 xulTheHeath.esp

@@ -1729,6 +1729,8 @@ HUDI.esp
 ImprovedSigns.esp
 Inebriation.esp
 $ Not OOO compatible - already included in OOO.
+Inebriation Rus.esp
+$ Not OOO compatible - already included in OOO.
 Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
@@ -4960,6 +4962,7 @@ MD Saddlebags V3.0.esp
 MD_Saddlebag_Accessories.esp
 Call Steed 2.5+Saddlebags 0.91.esp
 CallSteed3.0a.esp
+CallSteed3.0a Rus.esp
 GP_Call Steed.esp
 Calm_Shadowmere.esp
 Leveled Shadowmere.esp
@@ -6359,6 +6362,7 @@ Abandoned_Estate.esp
 Abandoned Farm Ground Effects On.esp
 Aberwiin Manor.esp
 ABloodyNight.esp
+ABloodyNight_ru.esp
 AbuEmir01.esp
 : Shivering Isles
 Academy - Oblivion Magic.esp
@@ -6922,6 +6926,7 @@ Der Orden.esp
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
 DFDiveRockHome.esp
+Dibella_priestess.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
 Dibella Temple Final.esp
@@ -8394,6 +8399,7 @@ CV - Castle Dracula.esp
 Varlasel.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
+VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
 Veldin.esp
 Verbesserte Magiergilde.esp
@@ -8541,6 +8547,7 @@ zzzDeerHunter.esp
 \BeginGroup\: Quests Arena
 
 Arena Imersion Upgrade 1.1.esp
+Arena Mod 1.2 Rus.esp
 Angel's Arena Loot en.esp
 ? Unlikely to work with other IC Arena mods
 24hourArena.esp
@@ -8932,6 +8939,7 @@ FiveLanterns-HoarfrostCastle patch.esp
 
 MannimarcoComplete.esp
 MannimarcoRevisited.esp
+MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
 % {{BASH:NpcFaces}}
 MannimarcoWardrobeChest.esp
@@ -11189,6 +11197,8 @@ Merchant_Tim.esp
 Tim_No_SI.esp
 ? Use this without Shivering Isles. Otherwise use 'Merchant_Tim'.
 
+Borderless_Cyrodiil.esp
+? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Borderless_Cyrodiil-3578.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Border-Region-disabled.esp

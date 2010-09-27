@@ -6518,6 +6518,7 @@ Archery Shops 2.0.esp
 Archery Shop.esp
 Arboretum Bathhouse.esp
 Arboretum Bathhouse Variety.esp
+Areala.esp
 Arena Armory.esp
 Arena Girl.esp
 ArchersLodge.esp
@@ -6868,6 +6869,7 @@ Companion Gate.esp
 Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
+CyrilliansStaff.esp
 \EndGroup\\
 
 \BeginGroup\: Quests D
@@ -6898,6 +6900,7 @@ DBSRebuiltComplete.esp
 DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
+Darklore Manor_V2.esp
 DarkstarTower.esp
 DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
@@ -7390,6 +7393,7 @@ ICEXPANDWaterfront.esp
 Dirtier Waterfront.esp
 AdensesBetterWaterfront.esp
 ICSewerDBsanctuary.esp
+IdiBegaj1.00.esp
 ImaItemAll.esp
 ImaGHS.esp
 ImperialForts-FortNikel.esp
@@ -7969,6 +7973,9 @@ RoxeyCottage.esp
 RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
+Ruins of Tarnesia.esp
+% {{BASH:NpcFaces}} 
+? Has a small landscape conflict with Unique Landcapes: Chorrol Hinterland.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
 RumarePriory.esp
@@ -8226,6 +8233,7 @@ The Black Cat Jewelry Store - Daedric Statues.esp
 The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
 : OBSE
+The Crazy Scientist.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists.esp
@@ -8277,6 +8285,7 @@ TheFeedBag.esp
 TheForgottenShields.esp
 NRB4+ForgottonShields Patch.esp
 TheForgottenShields_delayer.esp
+TheForgottenShields v1.1 Delayer.esp
 TheMistRetreat1.3_Optimized.esp
 Thermae.esp
 __thermae.esp
@@ -8363,6 +8372,7 @@ Tunnels of Tamriel.esp
 
 \BeginGroup\: Quests U
 
+UA_ArmorOfTotality.esp
 UFF Gypsy Market.esp
 Unbeatable Angel.esp
 UnfathomedTower.esp
@@ -8401,6 +8411,7 @@ Vassoul11.esp
 VaultsofCyrodiil.esp
 VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
+VaultsOfTheAyleids.esp
 Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
@@ -9628,9 +9639,6 @@ Moriarcis.esp
 % {{BASH:Hair}}
 Moriarcis_TheNecromancer Patch.esp
 TheNecromancer-Moriarcis patch.esp
-
-Ruins of Tarnesia.esp
-% {{BASH:NpcFaces}}
 
 300 Arcane University.esp
 Reaper's Arcane University.esp

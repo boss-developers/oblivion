@@ -2730,6 +2730,7 @@ ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arctic_Gear_Improved.esp
 Arkay's Champion.esp
+ANBDayWalkerAmulet.esp
 ANB_Emerald_Sorceress_Armor.esp
 ANBHuntersCoat.esp
 ANB_Portable_Bedroll.esp
@@ -2922,6 +2923,7 @@ Blakeley's Lachrymal Bow.esp
 Blood Mage.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
+Bloodwine-6073.esp
 Blue and White.esp
 Blue Destinys Paladin Armor.esp
 Bluefire Claymore by Mr. V.esp
@@ -3042,6 +3044,7 @@ console codes.esp
 Corthian Akavir Clothing.esp
 Cowgirl_HGEC.esp
 cowlredux.esp
+crazy_shadow-cats.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
 CSR - Fine Iron.esp
@@ -3339,6 +3342,7 @@ GhostArmor.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
 Gizmodian - Shell of the Artifice.esp
+Gizmodian - Shell of the ArtificeUFF.esp
 Gizmodian - Vicious Heart.esp
 Gizmodian - Vicious Heart.SoB.esp
 GizmodianNetherweaveRobe.esp
@@ -3747,6 +3751,7 @@ Nicos Dreadweave Compilation.esp
 ? Deactivate 'Nicos Dreweave Axes 1.2'
 ? Deactivate 'Nicos Dreweave armor 1.4'
 ? Deactivate 'Nicos Bow and Arrows 1.1'
+Noviere's Gray Fox Hood.esp
 \EndGroup\\
 
 \BeginGroup\: Items O
@@ -4217,6 +4222,11 @@ UK47_LOTR_Weapons_Merged.esp
 
 \BeginGroup\: Items U
 
+UFF Boots.esp
+UFF_Nails.esp
+UFF Shadow Cat.esp
+UFF Undies.esp
+UFF & ROBERT Noviere's Gray Fox Armor.es
 Underwear HGEC placed.esp
 Underworld Armor.esp
 Unenchanted Staves.esp
@@ -6923,6 +6933,7 @@ Del_Skingrad_Garden.esp
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
+Demonicus.esp
 DengardKeep.esp
 Der Orden.esp
 
@@ -9817,11 +9828,14 @@ DBOO - OpenCitiesFull + Outer Districts.esp
 \BeginGroup\: Quests and Locations 5
 \----------------------
 Better Abandoned House.esp
+% {{BASH:C.Name, C.Owner,Graphics,Names}}
 Better Abandoned House OC Full.esp
 Better Abandoned House OC Cheydinhal.esp
 ? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
 Better Abandoned House - Interior Only.esp
+% {{BASH:C.Name, C.Owner,Graphics,Names}}
 Better Abandoned House - Complete.esp
+% {{BASH:C.Name, C.Owner,Graphics,Names}}
 
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
@@ -10187,13 +10201,6 @@ dbpoisonapple.esp
 DDJailShackles.esp
 ? Old, update to version 1.04+
 DD_JailShackles.esp
-DeadlierDarkBrotherHood.esp
-DBED - 7 murders Level delay.esp
-DBED - 5 murders Level delay.esp
-DBED - 3 murders No level delay.esp
-DBED - 3 murders Level delay.esp
-DBED - 5 murders No level delay.esp
-DBED - 7 murders No level delay.esp
 Deadly Clutter.esp
 Deadly Clutter_update.esp
 Decorator Assistant.esp
@@ -10543,6 +10550,7 @@ New_Magical_Staves.esp
 newsheogorath.esp
 % {{BASH:NpcFaces}}
 NFs_Kvatch_Guard_Tweak-7399.esp
+NightMother_Money-6759.esp
 NirnrootPermPotions.esp
 Nirnroot Tweak.esp
 NoFlicker_BrightTorch2.esp
@@ -11804,6 +11812,7 @@ stickyfingers.esp
 TeachSpell.esp
 Teleport.esp
 : OBSE.
+Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
 
 SD Skill Diary rus.esp
@@ -12203,6 +12212,7 @@ svaReEnch_1C.esp
 
 BookLooting.esp
 : OBSE 15+
+Cheydinhal for Thieves.esp
 CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
 crimesandpunshiment.esp
@@ -14861,6 +14871,7 @@ MM_TextHorse.esp
 MM_TextLoading.esp
 MM_TextSneak.esp
 MM_TrainingCost2.esp
+No_Load_Screen_on_Death-5824.esp
 NoLoad.esp
 No More Annoying Messages.esp
 'Cannot Equip' Message Remover.esp
@@ -15435,6 +15446,13 @@ Shining Creatures_DLCFrostcrag.esp
 
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
+DeadlierDarkBrotherHood.esp
+DBED - 7 murders Level delay.esp
+DBED - 5 murders Level delay.esp
+DBED - 3 murders No level delay.esp
+DBED - 3 murders Level delay.esp
+DBED - 5 murders No level delay.esp
+DBED - 7 murders No level delay.esp
 DLCFrostcrag_MysticEmporiumKTDH.esp
 Enhanced Economy - Soulgems.esp
 % {{BASH:Scripts,NoMerge}}

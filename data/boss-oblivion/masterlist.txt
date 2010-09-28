@@ -814,15 +814,15 @@ darker nights for shivering isles.esp
 " weather overhauls that affect SI.
 
 fog.esp
-? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods. Consider using Streamline's StreamSight feature instead.
 RedBag - Fog.esp
-? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods. Consider using Streamline's StreamSight feature instead.
 PW_MorrowindFog.esp
-? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods. Consider using Streamline's StreamSight feature instead.
 sdn LOD Fog Full.esp
-? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods. Consider using Streamline's StreamSight feature instead.
 sdn LOD Fog Lite.esp
-? Not compatible with weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods. Consider using Streamline's StreamSight feature instead.
 
 Lem - Modified Weather.esp
 
@@ -919,10 +919,10 @@ EW-GTA2 Patch.esp
 Enhanced Seasons.esp
 
 All Natural.esp
-? Required for All Natural.
+? Required for All Natural. Make sure this is active and not just imported into your Bashed Patch.
 % {{BASH:C.Climate}}
 All Natural - SI.esp
-? Required for All Natural SI support.
+? Required for All Natural SI support. Make sure this is active and not just imported into your Bashed Patch.
 % {{BASH:C.Climate}}
 All Natural - Enhanced Weather.esp
 ? Obsolete. Update to latest version of All Natural and delete this.

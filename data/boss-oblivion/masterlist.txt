@@ -6014,6 +6014,9 @@ TIE In - Game Settings OOO.esp
 ? Choose only Game Settings.esp OR Game Settings OOO.esp, not both.
 TIE In - Sounds.esp
 
+TIE Cats.esp
+% {{BASH:Graphics}}
+
 Choices and Consequences - FCOM.esp
 ? Obsolete. Upgrade to latest version and remove.
 \EndGroup\\

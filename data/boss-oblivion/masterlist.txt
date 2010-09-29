@@ -2695,6 +2695,7 @@ Adonnays Elven Weaponry for NPCs.esp
 Adonnays Elven Longblades.esp
 Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
+AHIRUs_Glasses_v1.esp
 Aishabreak.esp
 ak_testhighheels.esp
 AK-47GR2.esp
@@ -7244,6 +7245,7 @@ Hentai mania OOO patch.esp
 Hero Hill Redone.esp
 HighwaymanHideway.esp
 HobbitHole.esp
+Hobbit Hole Revamped.esp
 Holy Cathedral.esp
 Home_1.1a.esp
 Home in Bleakers Way.esp
@@ -11105,6 +11107,7 @@ TweakAthleticsNoSpeed.esp
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
 GalerionTrueUnarmored-v20.esp
+lwb_unarmored_stats_skills.esp
 university cosmetics.esp
 university cosmetics-no orrery dome.esp
 UNKNOWNYMOUS Social NPCs.esp
@@ -12369,6 +12372,8 @@ Duke Patrick's Lockpick challange Manual.esp
 \''''''
 \
 \Overrides 'overhauls'.
+
+Attack Failure Chance v2.esp
 
 bgCombatMessage.esp
 
@@ -13822,6 +13827,10 @@ CM_LoreleiU.esp
 cm lula wild.esp
 CM Never.esp
 % {{BASH:Hair,Eyes}}
+CM Faramir.esp
+% {{BASH:Graphics,NpcFaces}}
+CM Frodo.esp
+% {{BASH:Graphics,Hair,NpcFaces,R.Relations}}
 CM Garrus.esp
 CM Illona.esp
 CM Tifa A.esp
@@ -13830,6 +13839,8 @@ CM_Kailinda Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Jessica.esp
 cm_Jo-han.esp
+CM Legolas.esp
+% {{BASH:Graphics,Hair,NpcFaces,R.Relations}}
 CM Partner Kim Kardashian.esp
 CM PARTNER KITTY SNOW.esp
 CM PARTNER LOLA.esp
@@ -13844,6 +13855,8 @@ CM Partner Fiona.esp
 CM DESTINY M.esp
 CM Embla.esp
 CM NIKA SB.esp
+CM NixReslain.esp
+% {{BASH:Graphics,Hair,NpcFaces,R.Relations}}
 CM NOVA.esp
 CM SASHEIRA.esp
 CM SHEILA A.esp

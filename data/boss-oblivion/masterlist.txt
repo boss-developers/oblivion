@@ -2748,6 +2748,7 @@ Andragorn_Weapons_Armors.esp
 Angel Slayerr.esp
 AngelslayerEN.esp
 Aperture Cube.esp
+Aragorns Royal Gear.esp
 ares-HGEC.esp
 Armblade.esp
 % {{BASH:Invent}}
@@ -3533,6 +3534,7 @@ Kafei's Circlets Reforged.esp
 KDDwemerSpectacles.esp
 kdThiefVest.esp
 Kendo2_Gunman.esp
+kfclothes.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
 kfmageitems.esp
@@ -3887,6 +3889,7 @@ RingwraithArmorSteel.esp
 RingwraithArmorGlass.esp
 ? Only have one ringwraith armor esp active at once.
 RippleBlade.esp
+RTBlackEveningDress10Personality.esp
 Ryk_MiscGoods.esp
 Ryk_Sandals.esp
 Ryk_SimpleDress_DV.esp
@@ -6758,6 +6761,8 @@ BXX Tamriel Resource Exchange.esp
 
 \BeginGroup\: Quests C
 
+CaesarHealer.esp
+CaesarRanger.esp
 Camp Simplicity.esp
 Campus Village.esp
 Capsized Ship.esp
@@ -6868,6 +6873,7 @@ Clintmichs Beautiful Talos Plaza District.esp
 COR-Episode1 Secret of Enourk.esp
 CM Armor Expansion.esp
 CM_Minor_Quests_1.2.esp
+CMcamp.esp
 Crescent Island.esp
 Cropsford Cottage.esp
 CropsfordErmitage.esp
@@ -7188,6 +7194,7 @@ GwedenBrothel.esp
 GwedenExpansion.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
+Gypsy Wagon.esp
 \EndGroup\\
 
 \BeginGroup\: Quests H
@@ -7696,6 +7703,7 @@ Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
 marketway.esp
 marodan_osdakal.esp
+MathmoraCottage.esp
 MDRisheren.esp
 ME_MERCENARIES.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
@@ -10106,6 +10114,9 @@ BuyLockpicks.esp
 
 \BeginGroup\: overrides C
 
+CaesarOneWithNature.esp
+% {{BASH:Factions}}
+: CaesarRanger.esp
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
 CoverYourself.esp
@@ -12914,6 +12925,8 @@ Slof's Sexy Anims.esp
 Oblivion Pose Pack.esp
 zzEstrus.esp
 walklikesheo.esp
+Woman's Move.esp
+% {{BASH:Actors.Anims,NoMerge}}
 NewAnimation.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Animation - Growlfs Body Resizing Mod.esp
@@ -13381,6 +13394,12 @@ CuteElf11.esp
 CuteElf11 Blue Portal Bug-Fix Patch.esp
 CuteElfBody.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Cute Sexy Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+" Manga Elves.esp (Delete and update to Manga Elves.esp)
+Manga Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+" Cute Sexy Elves.esp which is an older version of same race
 _Ren_BeautyPack_full.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full_-_1.1_DV.esp
@@ -13584,6 +13603,8 @@ Sun_&_Night_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Vexend Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Voldemort.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Sheo Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Soqui Race.esp
@@ -13643,12 +13664,18 @@ Ancient Elven Sorceress - DV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 CapsAdmin.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+MGothic Breton Race.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Moogles.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Na'vi race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+X.Dea.Obscura.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+X.Deus.Obscurus.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 X.Nature.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Moon.Elf.esp
@@ -13806,6 +13833,7 @@ CM Partner - Roscoe the Labrador.esp
 CM Partner Renita.esp
 CM AnyaYelena2.esp
 CM_Blackie_the_Fence.esp
+CM Pellena Trader Twins.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
 
@@ -13895,6 +13923,8 @@ RavenCM2.esp
 RoseCM.esp
 SarahCM.esp
 % {{BASH:Hair}}
+TealcCM2partner.esp
+% {{BASH:Graphics,Hair,NpcFaces}}
 Terimer.esp
 % {{BASH:Hair,Eyes}}
 Three CM Partners.esp
@@ -14012,6 +14042,8 @@ GG_Vincente.esp
 % {{BASH:Hair,Eyes}}
 GG_Vincente_Revived.esp
 % {{BASH:Hair,Eyes}}
+Hentari.esp
+% {{BASH:Graphics,Actors.Anims}}
 Haowen.esp
 % {{BASH:Hair,Eyes}}
 Herculine's Tabaxi Companions.esp

@@ -266,6 +266,8 @@ russian.esp
 ZoGRus.esp
 ZoGRusScriptMessagebox.esp
 ZoGRusFactionNames.esp
+Essential_Merchants.esp
+% {{BASH:Actors.ACBS,NoMerge}}
 
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
@@ -6231,6 +6233,10 @@ Enhanced Quest Roleplaying - FCOM.esp
 
 Oblivifall - Something's Not Right.esp
 
+Roleplaying_Expansion.esp
+" 'Mysteries Of Atrene Camp.esp' and 'Kragenir's Death Quest.esp'.
+" (Landscape) 'xulCheydinhalFalls.esp'
+
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid and landscape edits.
 Quelldorf 1.5.esp
@@ -7717,6 +7723,7 @@ TradeShip.esp
 Mimics!.esp
 Miners n Pickaxes.esp
 MiniCyrodiil.esp
+Miniquest_Vampire.esp
 Minotaur's Revenge 1.7b.esp
 MirrorOfMagnus.esp
 MistyHideout.esp
@@ -7863,6 +7870,8 @@ Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
 Oblivion Achievements CORE Version.esp
 Oblivion Wine Overhaul.esp
+Oblivion_NPC_Project1.esp
+OblivionNPCproject2.es
 Wine Overhaul.esp
 OlauronCastleEn.esp
 OlauronCastleRuGE.esp
@@ -7977,6 +7986,8 @@ Region Revive - Lake Rumare.esp
 Region Revive - Lake Rumare - OOO LockBash.esp
 RealmofRuun.esp
 Return Of Shadows.esp
+Return Of Shadows Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 ReneersContainerMod.esp
 Resurrection of the Dark Brotherhood.esp
 REX_TheLostSouls.esp
@@ -10216,6 +10227,7 @@ DarNified Books_BJ.esp
 DarNified Books_BP_BJ.esp
 ? If possible, use Wrye Bash's Darnified Books tweak instead.
 kuerteeCustomisableHUDComponents.esp
+HUD Status Bars.esp
 darkarrow.esp
 DB_NightMotherMoney5k.esp
 DB_NightMotherMoneyRangeA.esp
@@ -11161,6 +11173,7 @@ vn_goldweight.esp
 
 \BeginGroup\: overrides W
 
+Wayshrine_Redesign.esp
 Wayshrines Improved.esp
 WeaponAndStaffSpecs.esp
 Wondrous_Inventory_v091.esp

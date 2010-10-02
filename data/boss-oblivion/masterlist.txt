@@ -3556,9 +3556,13 @@ Knight of Order Armor.esp
 Knight of Skeleton.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
+? Old version, update to latest version.
+KohdiBladesofAnkewan v1.6 Delayer.esp
 KohdiAnduril.esp
 KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
+? Old version, update to latest version.
+KohdiArmoryofAnsephaer v1.01 Delayer.esp
 Kohdi Ankewan-Anesphar Delayer.esp
 ? Old, update to latest version.
 Kohdi Ankewan-Anesphar Delayer v2.esp
@@ -6775,6 +6779,8 @@ Campus Village.esp
 Capsized Ship.esp
 Castello_gotico.esp
 CaveOfWishcraft 1_1.esp
+CaveOfWishcraft v1.1 Delayer.esp
+
 Champion's Mansion.esp
 Chatham.esp
 CityofSunevV058.esp
@@ -8507,6 +8513,7 @@ wb_Erewhon_Cobl.esp
 wb_Erewhon_RR-LR_Patch.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
+WeaponsOfTheNine v2.3 Delayer.esp
 WeatherWizard.esp
 WellDiver.esp
 WellOfSouls.esp
@@ -9229,7 +9236,7 @@ Dschinni Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 \EndGroup\\
 
-\BeginGroup\: Landscape and City overhauls
+\BeginGroup\: Landscape and City overhauls 1
 \----------------------------
 
 HammerfellBorders.esp
@@ -9246,6 +9253,7 @@ TWMP_HighRock.esp
 TWMP_Skyrim.esp
 TWMP_Morrowind.esp
 TWMP_ BlackMarsh.esp
+\EndGroup\\
 
 \BeginGroup\: CUO Cities
 \-----------------------
@@ -9253,6 +9261,7 @@ TWMP_ BlackMarsh.esp
 Chorrol Jewelry Company.esp
 CUO_Chorrol.esp
 CUO_Leyawiin.esp
+\EndGroup\\
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
@@ -9729,6 +9738,7 @@ Duke Patricks The Lady said NO.esp
 ? Old. Upgrade to latest version.
 DukePatricksTheLadysaidNO.esp
 
+Skingrad outer district.esp
 SPD-SailableRivers.esp
 ? Most likely incompatible with some ULs
 \EndGroup\\
@@ -14556,6 +14566,7 @@ Better Cities SKINGRAD.esp
 BC Skingrad Reduced - EV.esp
 ? For use with Better Cities uncheck Better Cities SKINGRAD.esp
 ? Do not use this plug-in with Better Cities Full.esp
+Better Cities - Skingrad Outer District.esp
 
 Better Cities - Bravil City Defences.esp
 Better Cities BRAVIL.esp

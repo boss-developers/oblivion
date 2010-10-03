@@ -6813,6 +6813,9 @@ Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
 Castle_Highrock.esp
 Castle Tirith and Tirith Town.esp
+Castle Tirith and Tirith Town Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Castle_Tirith Addon 1-Mechalo's Quest.esp
 Castle_Veyond.esp
 Castle Volengrad.esp
 CastleHeiLi.esp
@@ -11383,6 +11386,9 @@ Cliff_Roleplayingcharacter.esp
 StartChoices.esp
 Alternate Start Revamped.esp
 MQSDone.esp
+TuStartingOptions_01.esp
+TuStartingOptions_02.esp
+TuStartingOptions_03.esp
 Vswe_Skip_Start_No_Videos.esp
 \EndGroup\\
 

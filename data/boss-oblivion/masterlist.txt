@@ -11993,10 +11993,6 @@ SM Spell Leveller - Vile Lair.esp
 Restore Health Addon By Hqthief.esp
 Diverse Effects Icons for SM.esp
 Diverse Effect Icons for SM.esp
-bgMagicEV_Conjuration_for_Supreme_Magicka.esp
-: Supreme Magicka.
-? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
-? Always place this file after Supreme Magika.
 \EndGroup\\
 
 \BeginGroup\: Midas Magic
@@ -14371,6 +14367,10 @@ bgAddEnVarStandAloneEV.esp
 \EndGroup\\
 
 \Expect SM to be moved here for people who want SM to 'win' over LAME.
+bgMagicEV_Conjuration_for_Supreme_Magicka.esp
+: Supreme Magicka.
+? Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
+? Always place this file after Supreme Magika.
 
 \BeginGroup\: Post Magicka Overhaul
 \'''''''''''''''''''''

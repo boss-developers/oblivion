@@ -9115,6 +9115,8 @@ ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
 % {{BASH:Body-F}}
+Elsweyr plantations & co. Southland Plantation.esp
+: ElsweyrAnequina.esp
 Rimmen.esp
 RimmenAN.esp
 % {{BASH:Filter,C.Climate,Deactivate}}
@@ -10790,6 +10792,7 @@ Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
 
+\BeginGroup\: Sexual Stuff
 AAQv1.esp
 AACV1.esp
 Brothel of Cyrodiil.esp
@@ -10880,6 +10883,7 @@ SMYB Full.esp
 SMYB Female Only.esp
 SMYB Love Female Only.esp
 SMYB Love Full.esp
+\EndGroup\\
 
 ShinySeptims_Septimus.esp
 % {{BASH:Graphics}}
@@ -11110,6 +11114,8 @@ Stronger Soul Gems - no cap x10.esp
 Stronger Soul Gems - with cap x2.esp
 Stronger Soul Gems - with cap x3.esp
 Stronger Soul Gems - with cap x10.esp
+StrongerAllies.esp
+% {{BASH:Invent}}
 SynchronizedStatueWithPose.esp
 \EndGroup\\
 
@@ -11504,6 +11510,7 @@ sr_retroactive_health.esp
 True Retroactive Health v2.2.esp
 ? Old update to v3.1+
 True Retroactive Health v3.1.esp
+TTHealthRegen.esp
 Level Based Health.esp
 Real Injury.esp
 Bleed Damn You V2.0.esp
@@ -12513,6 +12520,7 @@ mighty_bows_damage_bonus.esp
 mighty_bows_sneak_dmg_bonus.esp
 mighty_bows_improved_firerate.esp
 
+NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp
 BetterBlocking.esp
 
@@ -15215,6 +15223,7 @@ Detect Life Green Shader.esp
 Detect Life Red Shader.esp
 Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
+EvenLessGreenLight.esp
 Li-Glassphials.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
@@ -15400,6 +15409,8 @@ KoldornsImprovedLava.esp
 Templars Lava Replacer v1.0.esp
 Better Lava by elveon.esp
 Better Lava (by elveon).esp
+Cooled_Lava.esp
+% {{BASH:Graphics}}
 Deadly_Lava.esp
 Magic Projectile Variants.esp
 MotionBlur.esp

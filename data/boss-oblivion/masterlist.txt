@@ -2064,6 +2064,7 @@ Practice_Dummy0.9.5.esp
 RingofNightEye.esp
 Rings of Infiltration.esp
 : OBSE 16+.
+RK9s Dogs Demo.esp
 RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
@@ -2903,6 +2904,7 @@ BetterBedroll.esp
 % {{BASH:Invent}}
 Belles Bouteilles.esp
 % {{BASH:Graphics}}
+BKMask.esp
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
 % {{BASH:Invent}}
@@ -3389,6 +3391,8 @@ Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
 GekkoukanSet.esp
+Guitar ENG.esp
+Guitar ITA.esp
 Gypsy_Clothes.esp
 \EndGroup\\
 
@@ -3465,6 +3469,7 @@ Hadhafang.esp
 HolyRelics.esp
 homura.esp
 homura outfit HGEC.esp
+Horse_Dung.esp
 HotApparatus.esp
 \EndGroup\\
 
@@ -4238,10 +4243,12 @@ UK47_LOTR_Weapons_Merged.esp
 \BeginGroup\: Items U
 
 UFF Boots.esp
+UFF - Corset Dresses.esp
 UFF_Nails.esp
 UFF Shadow Cat.esp
+UFF_TM_Ballgowns.esp
 UFF Undies.esp
-UFF & ROBERT Noviere's Gray Fox Armor.es
+UFF & ROBERT Noviere's Gray Fox Armor.esp
 Underwear HGEC placed.esp
 Underworld Armor.esp
 Unenchanted Staves.esp
@@ -8376,6 +8383,7 @@ Trail  South East.esp
 Trail  WEST.esp
 Trail  EAST.esp
 Trail  Central.esp
+Trails of Cyrodiil -  Colovian Highland Vanilla.esp
 TrainerFind.esp
 Tramps.esp
 % {{BASH:Relev}}
@@ -8940,6 +8948,7 @@ The Lost Spires_delayer.esp
 The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+ImpeREALForts+LostSpires Patch.esp
 
 SoT_TheOrderofNibenay.esp
 ? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
@@ -10281,6 +10290,7 @@ DoB20mins.esp
 Dousing The Flames.esp
 Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
+Dremora Mod 1.00.esp
 Drop Lit Torches Weight.esp
 DropLitTorchOBSE.esp
 DropLitTorchesClean.esp
@@ -12948,6 +12958,7 @@ ActorsInMadness.esp
 ActorsInEmotions.esp
 Animation and Poses.esp
 77_Umpa_Animation.esp
+77_Umpa_Disco.esp
 77_Umpa_Sexy_walk.esp
 EFGAddPose.esp
 Chain it!.esp
@@ -13453,6 +13464,9 @@ Ice Elves and Wolf Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Jessica Biel.esp
+Lindsay Lohan.esp
+Paris Hilton.esp
 Playable Flame Atronach.esp
 Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}

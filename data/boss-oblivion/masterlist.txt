@@ -9482,7 +9482,9 @@ BergDesKrieger-CloudtopMountain patch.esp
 KragenirsDeathQuest-CloudtopMountains patch.esp
 Ravenview-Cloudtop-Patch.esp
 Mimics-CloudtopMountains patch.esp
+Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
+? Obsolete. Upgrade to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 
 xulArriusCreek.esp
 % {{BASH:C.Water}}

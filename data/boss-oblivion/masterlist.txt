@@ -3983,6 +3983,7 @@ $ Not compatible with OOO - armors already included - so deactivate when using O
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 Sinblood Collection.esp
+Sister_of_Eisen_BAB.es
 Sister_of_Eisen_HGEC.esp
 ShaiyaOutfit.esp
 SK_Berserk_v0.6.esp
@@ -4585,6 +4586,7 @@ UFF Mage Skin.esp
 UFF Shirts with Suspenders.esp
 UFF Warrior Skin.esp
 BAB & RM Assassin Elite Armor.esp
+BABCeltic Witch Robes.esp
 Babarized Cryos Ordinator Lite.esp
 Babarized DiverseImperialArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
@@ -6365,6 +6367,7 @@ AkaviriStronghold_1C.esp
 300_KillTheDB.esp
 
 301_Compass.esp
+330FloatingIsle.esp
 3_Numbers_v.1.0.esp
 
 5573-1.0-Villa Nova, my private retreat-TESSource.esp
@@ -7083,6 +7086,7 @@ Abriael_Human.esp
 \shouldn't go here but one version of eyja.esp requires it so :shrug:
 BridFetishGirl.esp
 BridFetishGirlTrainerAddon.esp
+EyeOfNirn.esp
 \EndGroup\\
 
 \BeginGroup\: Quests F
@@ -8136,6 +8140,7 @@ Side's Skingrad House (Bathing).esp
 Side's Skingrad House (BloodyMess).esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
+Silorn Manor.esp
 Silvercliff.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
@@ -9644,7 +9649,6 @@ TrailsOfCyrodiil-UL merged patch.esp
 exhICMO.esp
 : BC/OC IC Market District Components.
 West Roads.esp
-WR Villages Addon.esp
 ULSO+WestRoads Patch.esp
 ? Outdated - Upgrade to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
@@ -12423,6 +12427,7 @@ TRN One of the Gang.esp
 ? If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
 TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 WR OotG Addon.esp
+WR Villages Addon.esp
 GuildBetrayal.esp
 
 FameAndInfamyAnnouncer.esp
@@ -14024,9 +14029,15 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Chocolate_Elf.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Custom_by_Gonzoguns.esp
+: Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=25524">Abriael Human Races Revamped</a>, the ESP file is not required.
+? Choose only ONE customization for Vilja.
 1em_Vilja_as_Custom_by_4GVN.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Custom_by_Xtudo.esp
+? Choose only ONE customization for Vilja.
+1em_Vilja_as_High_Imperial.esp
+: Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=33044">Deathknowz's High Imperials Race</a> (all three files), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Moonshadow_Elf_MU.esp
 ? Choose only ONE customization for Vilja.
@@ -14036,6 +14047,8 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi.esp
 ? Choose only ONE customization for Vilja.
+
+Unknown mod file: 
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja Not Essential Vwalk.esp

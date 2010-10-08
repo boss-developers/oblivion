@@ -2,6 +2,7 @@
 
 Past Threads:
 [spoiler]
+[topic=1117093]Thread 25[/topic]
 [topic=1111761]Thread 24[/topic]
 [topic=1107788]Thread 23[/topic]
 [topic=1101592]Thread 22[/topic]
@@ -53,7 +54,7 @@ There are no official mirrors at this time.
 
 1. If you have Wrye Bash, make sure the "Lock Times" function is deactivated.
 
-2. If upgrading from an earlier version of BOSS, delete your BOSS.bat, modlist.txt, modlist.old, masterlist.txt and BOSSlog.txt files in your Data folder. If you have an edited masterlist, make sure to keep a backup so that your edits are not lost.
+2. If upgrading from an earlier version of BOSS, delete your BOSS.bat, modlist.txt, modlist.old, masterlist.txt and BOSSlog.txt files in your Data folder. If you have an edited masterlist, make sure to keep a backup so that your edits are not lost (and preferably copy your edits out in to the new userlist format).
 
 3. Unzip the BOSS.zip to your ..\Oblivion\Data folder, so that BOSS.exe is in the same folder as your mods.
 
@@ -75,18 +76,26 @@ Delete BOSS.exe, "BOSS - Update Masterlist.bat", "BOSS - Undo Last Run.bat" and,
 
 [u]TROUBLESHOOTING:[/u]
 [spoiler]
-[b]Won't run: Using BOSS version under 1.51:[/b]
-Update to version 1.51
+[b]Won't run: Using BOSS version under 1.6:[/b]
+Update to version 1.6
 
 [b]Won't run: BOSS not extracted (unzipped) to ...\oblivion\data but a sub-folder or the Oblivion folder.[/b]
 
-All BOSS files must share the same folder as your mods.
+All BOSS exe/bat files must share the same folder as your mods.
 
 Check you have:
 [list]
 [*]BOSS.exe
-[*]BOSS.bat
-[*]masterlist.txt[/list]in your ...\oblivion\data folder.
+[*]BOSS - Undo Last Run.bat (optional)
+[*]BOSS - Update Masterlist.bat (optional)
+[/list]in your ...\Oblivion\data folder.
+and
+[list]
+[*]masterlist.txt (will be created if it doesn't exist if you run update (via batch file, cmd prompt or Wrye Bash)
+[*]userlist.txt (optional)
+[*]BOSS ReadMe.html (optional)
+[*]BOSS User Rules ReadMe.html (optional)
+[/list in your ...\Oblivion\data\BOSS
 [/list]
 
 [b]Won't change load order: OS is Vista and Oblivion is installed in Program Files.[/b]
@@ -253,7 +262,7 @@ Better Oblivion Sorting Software and periodic updates are distributed under the 
 
 [url=http://www.tesnexus.com/downloads/file.php?id=20516]BOSS on TES Nexus[/url]
 
-[url=http://forums.bethsoft.com/index.php?/topic/1107788-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/url]
+[url=http://forums.bethsoft.com/index.php?/topic/1119720-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/url]
 
 [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Masterlist Manager[/url]: A handy MSWord 2007 (and now also 2003) Macro that Surazal wrote up to automatically update and merge the latest version of the masterlist with personal changes you want to make to your copy of the masterlist - very easy and simple to use.
 
@@ -261,4 +270,4 @@ Due to a 200 maximum post limit, a new "official" thread is created periodically
 
 You must register for free to post messages.
 
-[i]Documentation updated 01 August 2010[/i]
+[i]Documentation updated 8 October 2010[/i]

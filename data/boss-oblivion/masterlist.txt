@@ -1819,6 +1819,7 @@ MeosPotionReplacer.esp
 % {{BASH:Graphics}}
 merchant chest fix.esp
 MG Recommendation Skip.esp
+MidnightRecharge.esp
 Milt-SecretStorage.esp
 mini fixes-altars.esp
 mini fixes-more animal skins, meat etc..esp
@@ -2042,6 +2043,7 @@ Better Cities ESM Swalk.esp
 Nude Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 
+Reaper's Auto Equip Bikini.esp
 REBetterLCB.esp
 % {{BASH:Graphics,Deactivate}}
 REBetterDrinks.esp
@@ -5866,6 +5868,11 @@ WACESM_Ingredients_Rebalance.esp
 WAC-OOO.esp
 \EndGroup\\
 
+\BeginGroup\: OWC New Dimensions
+OWC - Mannequin.esp
+OWC - Seaworld.esp
+OWC - New Dimension.esp
+\EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
 
@@ -8179,6 +8186,8 @@ SleepyCatInn.esp
 Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
+SMChorrol.esp
+SMHighImperial.esp
 SN_Shivering_Shack.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
@@ -8520,6 +8529,7 @@ Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Apachii_Heroes_Store.esp
+Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
 Villages1.1.esp
@@ -8661,6 +8671,7 @@ Angel's Arena Loot en.esp
 24HrArenaAliveV2Light.esp
 24HrArenaAliveLow.esp
 Add_Arena_Robes-5411.esp
+ArenaAlive_DV_2.0.esp
 Arena Blacksmith.esp
 Arena Camp.esp
 Arena District Alive.esp
@@ -11923,6 +11934,7 @@ Special Abilities.esp
 SpellDeflection.esp
 Stalk'em SI.esp
 stickyfingers.esp
+StrongholdTeleport.esp
 TeachSpell.esp
 Teleport.esp
 : OBSE.
@@ -13017,6 +13029,7 @@ MrMuhs Sheogorath-Anims EV.esp
 SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
+Specialanims.esp
 Oblivion Pose Pack.esp
 zzEstrus.esp
 walklikesheo.esp
@@ -13473,7 +13486,13 @@ Nec-Character_Sonnet_Spoiled.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moonshadow Elves - Sc.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+: OBSE
+Moonshadow-Elves_Sc_DV.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+: OBSE
 Moonshadow Elves - NoSc.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Moonshadow-Elves_NoSc_DV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Mystic_DarkElf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -15809,6 +15828,7 @@ LoversIdleForceReset.esp
 * Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev41 and newer.
 LoversIdleAnimsPriority.esp
 
+Voice_Fix.esp
 \EndGroup\\
 
 \BeginGroup\: Obsolete, Unsorted Duke Patrick's Mods

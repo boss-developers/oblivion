@@ -4110,6 +4110,7 @@ Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 SteelHalfMoon.esp
 StarX Witch Hunter Armor.esp
+Stealth Armor.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -6545,6 +6546,7 @@ Anvil_MorningGloryBetterCities_Mixed.esp
 AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
+APSFortIronyBETA.esp
 Aqvatika.esp
 Aqua_City_01.esp
 : Shivering Isles
@@ -6605,6 +6607,7 @@ Ash'kale.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
 Assassin's Hideout v1.1.esp
+AStrangeCave.esp
 Asylum.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
@@ -6926,6 +6929,7 @@ Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 CyrilliansStaff.esp
+Cyrodiil Training Center.esp
 \EndGroup\\
 
 \BeginGroup\: Quests D
@@ -7578,6 +7582,7 @@ Kvatch Rebuilt Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Kvatch Rebuilt Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+KvatchRankFix.esp
 Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
@@ -7957,6 +7962,8 @@ Player House.esp
 PlayerHomeNaheema.esp
 Players with Jobs.esp
 Pond Cottage.esp
+Potion Of the Gods.esp
+: Jojjo's Lich King's armour, shield, and Frostmourne sword. (http://www.tesnexus.com/downloads/file.php?id=17032)
 PotR.esp
 POVS2 v1.1.esp
 Praying Room.esp
@@ -7988,6 +7995,7 @@ Quest Nirnroot.esp
 
 \BeginGroup\: Quests R
 
+Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
 Reaper's Coldstone Town.esp
 " Heart of the Dead.
@@ -8013,6 +8021,8 @@ Region Revive - Lake Rumare.esp
 " most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
 Region Revive - Lake Rumare - OOO LockBash.esp
+Region Revive - Lake Rumare Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 RealmofRuun.esp
 Return Of Shadows.esp
 Return Of Shadows Vwalk.esp
@@ -8154,6 +8164,7 @@ Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
 Skingrad Market - MoC 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
+SK.esp
 SkyCastle.esp
 Skyrim Alive.esp
 Skye Village Final.esp
@@ -8261,6 +8272,11 @@ Tantrivaylia.esp
 Tantrivaylia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Taverners.esp
+Taverners Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Tavern-Goers 2.esp
+Tavern-Goers 2 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
@@ -11219,6 +11235,7 @@ vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
 vendorfreedom.esp
 % {{BASH:relev}}
+Vincente Valtieri Imperial.esp
 vn_goldweight.esp
 \EndGroup\\
 
@@ -12499,6 +12516,8 @@ cancelattack.esp
 Creature Damage Fix.esp
 Denock Arrows.esp
 Combat Behavior 2.11b.esp
+Duke Patricks - Combat Archery.esp
+" MOBS Optional Combat Settings.esp.
 Duke Patricks Basic Denock Arrows.esp
 ? COBL Includes a denock arrow feature so don't use this with COBL
 Duke Patricks - Double Arrow Nock Shot.esp
@@ -12544,6 +12563,7 @@ More_Arrows_Recovered.esp
 ? Use Wyre Bash's Bashed Patch Tweaks instead where possible.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
+MagicDefence.esp
 mighty_bows_arrows_recovery.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 mighty_bows_full.esp
@@ -12729,6 +12749,8 @@ CDM-CGO Vanilla Skill Levelling Faster.esp
 CDM-CGO Vanilla Skill Levelling Slower.esp
 ? Only use one CDM-CGO Skill Levelling plugin.
 CDM-CGO Level Up.esp
+ExperienceBasedTraining.esp
+: OBSE 16+
 Faster Level Up X2.esp
 Faster Level Up X3.esp
 Faster Level Up X4.esp
@@ -15837,8 +15859,6 @@ Duke Patricks SCA Combat Archery.esp
 ? Old. Upgrade to latest version.
 Duke Patricks - SCA Combat Archery.esp
 ? Old. Upgrade to latest version.
-Duke Patricks - Combat Archery.esp
-" MOBS Optional Combat Settings.esp.
 SpookyArcheryMagicMeleeMerge.esp
 
 Duke Patrick's SCA Combat Archery patch for CnC.esp

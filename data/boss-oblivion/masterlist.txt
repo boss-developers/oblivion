@@ -12070,6 +12070,7 @@ MidasSpells.esp
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
+{{BASH:Relev}}
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
 MMC_Iphigenia Vwalk.esp
@@ -14438,6 +14439,7 @@ bgMagicEV.esp
 bgMagicEV Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 bgMagicSpellTomes_for_WryeBash.esp
+% {{BASH:Relev}}
 bgMagicDVSpellTomes_for_WryeBash.esp
 bgMagicItemSigil.esp
 bgMagicDVItemSigil.esp

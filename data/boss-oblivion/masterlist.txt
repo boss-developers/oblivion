@@ -13138,6 +13138,13 @@ Let There Be Darkness - Hoarfrost Castle.esp
 Let There Be Darkness All.esp
 % {{BASH:C.Light,Filter}}
 
+Cava Obscura - Cyrodiil.esp
+{{BASH:C.Light,Deactivate}}
+Cava Obscura - SI.esp
+{{BASH:C.Light,Deactivate}}
+Cava Obscura - Filter Patch For Mods.esp
+{{BASH:C.Light,Deactivate,Filter}}
+
 FastTravelAllowed.esp
 
 Item interchange - Placement.esp

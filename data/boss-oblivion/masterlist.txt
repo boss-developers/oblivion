@@ -15689,6 +15689,18 @@ bgScriptEffectSilencer.esp
 NoScriptHitVisual.esp
 % {{BASH:Sound,Graphics}}
 Script Effect Silencer.esp
+Duke Patricks Script Effect Silencer.esp
+? Old. Upgrade to latest version.
+Duke Patricks Script Effect Silencer Rev 2.esp
+? Old. Upgrade to latest version.
+Duke Patricks Script Effect Silencer Silver Edition.esp
+? Old. Upgrade to latest version.
+Duke Patricks Script Effect Silencer Gold Edition.esp
+? Old. Upgrade to latest version.
+Duke Patricks - BASIC Script Effect Silencer BETA.esp
+? Old. Upgrade to latest version.
+Duke Patricks - BASIC Script Effect Silencer.esp
+Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
@@ -15836,35 +15848,21 @@ LoversIdleAnimsPriority.esp
 Voice_Fix.esp
 \EndGroup\\
 
-\BeginGroup\: Obsolete, Unsorted Duke Patrick's Mods
+\BeginGroup\: Unavailable/Obsolete Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
 \
-\Mods that are not available for download and are not referenced in Duke Patrick's load order guidelines.
-\Duke Patrick has confirmed that they should no longer be used. I am awaiting more info on these mods.
+\Mods that are not available for download. They have been sorted according to Duke Patrick's load order guidelines, where given.
 
 Duke Patrick ShiveringIsles patch 1.1.esp
 ? Obsolete. Do not use.
-
 Duke Patrick's more & better loot.esp
 ? Obsolete. Do not use.
-
 Duke Patricks - Custom Melee Weapons Made Compatible.esp
 ? Obsolete. Do not use.
-
 Duke Patrick's So you think you are a war god 1.2.esp
 ? Obsolete. Do not use.
 Duke Patricks So you think you are a war god MARK II.esp
 ? Obsolete. Do not use.
-\EndGroup\\
-
-\BeginGroup\: Sorted Duke Patrick's Mods
-\''''''''''''''''''''''''''''
-\
-\The rest of these mods are ordered as according to Duke Patrick's guidelines.
-\The below mods are part of Duke Patrick's SCA set, which is being reworked currently.
-\I cannot find any copies to analyse for correct placement, so they're just sitting here for now.
-\Supposed to go LAST LAST, but could probably go in after the other combat mods with the correct Bash tags.
-\I will move them once Duke Patrick's reworked SCA stuff is out, based on where that should go.
 
 Duke Patricks - Momentum Lite Damage Bonus.esp
 ? Only use one 'Momentum Damage' mod.
@@ -15878,7 +15876,6 @@ Duke Patricks - Momentum Damage And Jump Risk.esp
 Duke Patricks - Shield Charge.esp
 ? Obsolete. Replaced by SCA Shield Tricks.
 Duke Patricks - SCA Shield Tricks.esp
-\% {{BASH:Sound}}
 
 Duke Patricks SCA Melee combat with NO RECOIL.esp
 ? Old. Upgrade to latest version.
@@ -15912,32 +15909,7 @@ Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
 Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
-\% {{BASH:Sound}}
-\EndGroup\\
 
-\BeginGroup\: These should go LAST LAST LAST.
-\I think they'd be OK in the semi final overrides section, as nothing after alters the same stuff.
-\Staying here until the SCA stuff moves though, these should be after that.
-
-Duke Patricks Script Effect Silencer.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound,Graphics}}
-Duke Patricks Script Effect Silencer Rev 2.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound,Graphics}}
-Duke Patricks Script Effect Silencer Silver Edition.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound,Graphics}}
-Duke Patricks Script Effect Silencer Gold Edition.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound,Graphics}}
-Duke Patricks - BASIC Script Effect Silencer.esp
-% {{BASH:Sound,Graphics}}
-Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
-% {{BASH:Sound,Graphics}}
-Duke Patricks - BASIC Script Effect Silencer BETA.esp
-? Old. Upgrade to latest version.
-% {{BASH:Sound,Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Last Files

@@ -1762,7 +1762,7 @@ JQ-TeaSet-DV.esp
 kalikuts_beds_ingame.esp
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
- Katana Store.esp
+Katana Store.esp
 : patch to use with Kalikuts
 KB - House of Wonders.esp
 Kill_Bruma_Statue.esp
@@ -2083,9 +2083,9 @@ Sexual_SpiderDaedra.esp
 % {{BASH:Graphics,Deactivate}}
 ? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
- % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
- Oblivion Sexualized Monsters-exclu TRM.esm
-  % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
+% {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
+Oblivion Sexualized Monsters-exclu TRM.esm
+% {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -6373,6 +6373,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 300_Akaviri_Stronghold.esp
 AkaviriStronghold_1C.esp
 300_Artifacts.esp
+300_Caldera.esp
 300_Caldera Update.esp
 300_Weapons.esp
 300_KillTheDB.esp
@@ -7129,6 +7130,7 @@ OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
 FF_WaldnirsWoods.esp
 Fighting Chance.esp
+FishermanRock_Hideout.esp
 FiveBlindMiceBeta.esp
 ? Beta. Some problems reported: eg floating door outside of the Wawnet Inn.
 FMan-CityIsleBridges.esp
@@ -7744,6 +7746,8 @@ MadMagesTowerBASIC.esp
 Mad Mike's Crypts of Cyrodiil.esp
 Madness’ Hideout.esp
 Madness' Hideout.esp
+Mage'sSkyHouse.esp
+Mage'sSkyHouse_cobl.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 Magister Cogitation.esp
@@ -7928,6 +7932,7 @@ One Stop Magic Shop.esp
 One Stop Armors.esp
 000lute.esp
 OCC-OSMS-Patch.esp
+OrangeInn.esp
 OrangeroadCottage.esp
 Orange Road Cabin.esp
 Orange_Road_Manor_ru.esp
@@ -10026,7 +10031,7 @@ Pitcher Plant and Lily Ingredients.esp
 DEJ Harvest - Flora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 ? Exception: Herbalism mod.
- DEJ Harvest - Flora - CPU.esp
+DEJ Harvest - Flora - CPU.esp
 RealisticFlora.esp
 ? Old. Update to 'Harvest [Flora]' v3.0.1 or later.
 RealisticFlora-DLCFrostcrag.esp
@@ -11522,8 +11527,12 @@ More Capacity Encumbrance with Fatigue.esp
 NoEncumberance.esp
 Carry_four_times_more_loot-7515.esp
 carry_more_mod.esp
+Carry More, (10).esp
+Carry More, (15).esp
+Carry More, (20).esp
 LooterWeightMod.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
+NoEncumberedSwimming.esp
 Extended Game Mechanics.esp
 Extended Game Mechanics Init.esp
 Extended Game Mechanics - Cobl.esp

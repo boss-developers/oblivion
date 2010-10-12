@@ -8013,7 +8013,12 @@ Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
 Reaper's Coldstone Town.esp
 " Heart of the Dead.
+? Update to latest version (9+), esp renamed.
 Reaper's Coldstone Town Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Reaper's The Dark Tower.esp
+" Heart of the Dead.
+Reaper's The Dark Tower Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Reaper_Drakelowe's Witch.esp
 Reaper's Elsandore's Stoneway.esp
@@ -9289,6 +9294,7 @@ HOD_delayer.esp
 OC_HOD_delayer.esp
 ? only use with Open Cities
 HeartOftheDeadv6.3 Delayer.esp
+? Compatible with  HOD v6.4 as well as 6.3
 
 Dschinni.esp
 ? There are incompatibilities with Servant of the Dawn.
@@ -10768,6 +10774,8 @@ PSS-NO-Dark.esp
 PSS-Blades.esp
 PWRunSpeed.esp
 % {{BASH:Actors.Stats,NoMerge}} // to be confirmed!
+PyFFI-Optimized Vanilla Meshes Patch.esp
+% {{BASH:Graphics,NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: overrides Q
@@ -13902,6 +13910,7 @@ TSS Custom Companion Template.esp
 Toaster Says Share 2.11.esp
 Toaster Says Share.esp
 Toaster Says Share Faction Recruitment.esp
+MuffinShare.esp
 
 Minionz.esp
 : OBSE

@@ -1465,13 +1465,13 @@ $ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
 CNRP FightersGuild4OOO.esp
 % {{BASH:Invent}}
 CNRP DB.esp
-% {{BASH:Invent}}
+% {{BASH:Invent,Graphics}}
 $ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
 CNPR DB for OOO.esp
-% {{BASH:Invent}}
+% {{BASH:Invent,Graphics}}
 /looks like a mispelling but listed on the mod page as such so maybe?
 CNRP DB for OOO.esp
-% {{BASH:Invent}}
+% {{BASH:Invent,Graphics}}
 CNRP FB for OOO.esp
 % {{BASH:Invent}}
 CNRP Cheydinhal.esp
@@ -6772,8 +6772,6 @@ Boqwater_Settlement_V103.esp
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
-BravilSeaDomes.esp
-BravilSeaDomesExpanded.esp
 Bravil Docks.esp
 " Better Cities. Already included in Better Cities Bravil.
 Bravil House For Sale Upgrade.esp
@@ -9692,6 +9690,9 @@ ULSO+WestRoads Patch.esp
 WellspringVale+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
+
+BravilSeaDomes.esp
+BravilSeaDomesExpanded.esp
 
 Castle_Seaview.esp
 Castle_Seaview v1.1 Delayer.esp

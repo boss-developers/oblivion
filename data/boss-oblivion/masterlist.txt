@@ -13181,9 +13181,6 @@ Item interchange - Placement for FCOM.esp
 Item interchange - Placement for Frostcrag.esp
 % {{BASH:Filter,IIM,Invent,Deactivate}}
 : Bashed Patch
-OOO Harvest Containers Filter patch for mods.esp
-% {{BASH:Deactivate,Filter}}
-: Bashed Patch
 Item interchange - Placement for Frostcrag Reborn.esp
 : Bashed Patch
 Item interchange - Placement for Frostcrag Spire Revisited.esp
@@ -15815,6 +15812,9 @@ Cobl Filter Late MERGE ONLY.esp
 % {{BASH: Filter,Deactivate}}
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
+OOO Harvest Containers Filter patch for mods.esp
+% {{BASH:Deactivate,Filter}}
+: Bashed Patch
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter,C.Climate,Deactivate}}
 

@@ -10651,6 +10651,7 @@ Music Controller.esp
 MYR_AyleidKing.esp
 MQSDone.esp
 MQ Consideration.esp
+mzBe A Beggar.esp
 
 \EndGroup\\
 
@@ -11302,6 +11303,8 @@ XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
 zzzBookreadingEnhanced.esp
 zzzDarkHelloTopic.esp
+zzzHuntingUnlimited.esp
+zzzTrainingOthersMod.esp
 \EndGroup\\
 
 \BeginGroup\: overrides Late

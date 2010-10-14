@@ -1269,6 +1269,8 @@ AmbientDungeons.esp
 
 5076-V2.0-Dwemer Specs Equip-TESSource.esp
 
+99 Ways to...esp
+
 [WIP]_Mysterious_Chest_(Combine_or_drain_soulgems)-2047.esp
 \EndGroup\\
 
@@ -1606,6 +1608,7 @@ CT-Com's Torch Compendium.esp
 CT-Backpacks.esp
 Cyrodilic Brandy.esp
 % {{BASH:Graphics,Deactivate}}
+CyrodiilCemeteries.esp
 Cure_Vampirism.esp
 Cyrodiil Most Wanted v.1.0.esp
 ChallangingThieveryFull.esp
@@ -8672,6 +8675,7 @@ zzzDeerHunter.esp
 Arena Imersion Upgrade 1.1.esp
 Arena Mod 1.2 Rus.esp
 Angel's Arena Loot en.esp
+Àngel's Arena Loot rus.esp
 ? Unlikely to work with other IC Arena mods
 24hourArena.esp
 24HrArenaAliveV2.esp
@@ -12486,6 +12490,7 @@ TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 WR OotG Addon.esp
 WR Villages Addon.esp
 GuildBetrayal.esp
+RegionalBounty.esp
 
 FameAndInfamyAnnouncer.esp
 FameAndInfamyAnnouncerBountyDeduct.esp
@@ -13175,6 +13180,9 @@ Item interchange - Placement for FCOM.esp
 <? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
 % {{BASH:Filter,IIM,Invent,Deactivate}}
+: Bashed Patch
+OOO Harvest Containers Filter patch for mods.esp
+% {{BASH:Deactivate,Filter}}
 : Bashed Patch
 Item interchange - Placement for Frostcrag Reborn.esp
 : Bashed Patch

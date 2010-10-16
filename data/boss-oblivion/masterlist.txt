@@ -2414,6 +2414,41 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 \EndGroup\\
 \EndGroup\\
 
+\BeginGroup\: Load Order Independent Mods
+\'''''''''''''''''
+\
+\These mods don't need to go anywhere, they're fully scripted, so load them early, out of the way of the more placement-critical sections near the bottom of the masterlist.
+
+CleanQuit.esp
+CTEFastSaver.esp
+
+FormID Finder.esp
+? Old, upgrade to version 4
+FormID Finder without Pluggy.esp
+? Old, upgrade to version 4
+FormID Finder4.esp
+
+KuerteeActorDetails.esp
+kuerteeCleanUp.esp
+
+LazyPCB.esp
+Lock Bash Omega.esp
+
+Oblivion Graphics Extender Support.esp
+
+RedDelPCB.esp
+
+Streamline 3.1.esp
+Streamline_3.1.esp
+Streamline 3.0.esp
+? Old. Update to 3.1 or later.
+Streamline 2.1.esp
+? Very Old. Update to 3.1+.
+
+TES4ViewLink.esp
+
+\EndGroup\\
+
 \BeginGroup\: Map marker Tweaks
 \'''''''''''''''''
 \
@@ -6245,7 +6280,6 @@ IABaneOils 100.esp
 $ Has minor incompatibility with OOO - changes Meridia quest & script back to level 10
 ? Only use one IABane Oils X.esp
 
-Lock Bash Omega.esp
 Modified Bandits.esp
 % {{BASH:Delev}}
 ? not very compatible with any overhauls.
@@ -10014,7 +10048,6 @@ Blue Destiny's Armor.esp
 
 \EndGroup\\
 \EndGroup\\
-\EndGroup\\
 
 \BeginGroup\: Overrides
 \---------
@@ -13092,9 +13125,9 @@ immersive_caves_manual.esp
 Dark Dungeons.esp
 % {{BASH:C.Light,Deactivate}}
 Dark Dungeons -  SI.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 Darker Dungeons.esp
-% {{BASH:C.Light}}
+% {{BASH:C.Light,Deactivate}}
 _darker dungeons.esp
 % {{BASH:C.Light,Deactivate}}
 _darker_dungeons.esp
@@ -13172,7 +13205,7 @@ Let There Be Darkness - Heart Of the Dead.esp
 Let There Be Darkness - Hoarfrost Castle.esp
 % {{BASH:C.Light,Deactivate}}
 Let There Be Darkness All.esp
-% {{BASH:C.Light,Filter}}
+% {{BASH:C.Light,,Deactivate,Filter}}
 
 Cava Obscura - Cyrodiil.esp
 {{BASH:C.Light,Deactivate}}
@@ -15895,7 +15928,6 @@ LoversIdleForceReset.esp
 LoversIdleAnimsPriority.esp
 
 Voice_Fix.esp
-\EndGroup\\
 
 \BeginGroup\: Unavailable/Obsolete Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''
@@ -15961,37 +15993,17 @@ Duke Patricks - Combat Magic.esp
 
 \EndGroup\\
 
-\BeginGroup\: Last Files
+\BeginGroup\: Map Changes
 \''''''''''
+\
+\any map changing files esp have to go dead last
+
 MWakeMap.esp
 MergedMaps.esp
 Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 TamrielWorldspaceCompleteWorldMap.esp
 TWMP_Tamriel_Ingame_ Map.esp
-\any map changing files esp have to go dead last other than pure script mods
 
-FormID Finder.esp
-? Old, upgrade to version 4
-FormID Finder without Pluggy.esp
-? Old, upgrade to version 4
-FormID Finder4.esp
-TES4ViewLink.esp
-
-KuerteeActorDetails.esp
-kuerteeCleanUp.esp
-CleanQuit.esp
-
-Oblivion Graphics Extender Support.esp
-
-Streamline 3.1.esp
-Streamline_3.1.esp
-Streamline 3.0.esp
-? Old. Update to 3.1 or later.
-Streamline 2.1.esp
-? Very Old. Update to 3.1+.
-RedDelPCB.esp
-LazyPCB.esp
-
-CTEFastSaver.esp
+\EndGroup\\
 \EndGroup\\

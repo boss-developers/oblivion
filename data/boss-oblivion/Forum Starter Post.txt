@@ -121,7 +121,7 @@ Run BOSS.bat not BOSS.exe[/spoiler]
 
 BOSS has a few command-line arguments. The syntax is:
 
-BOSS [--update | -u] [--help | -h] [--disable-version-parse | -V-] [--revert-level | -r] [level]
+BOSS [--update | -u] [--help | -h] [--disable-version-parse | -V-] [--revert-level | -r] [level] [--silent-mode | -s]
 
 -h, --help:
 
@@ -138,6 +138,10 @@ Disables the parsing of each mod's description to extract the author's version i
 -r level, --revert-level level:
 
 Sets BOSS to undo its changes by reverting back the number of levels given by level to the load order at that point. level can take values of 1 or 2. A value of 1 will restore the load order to that stored in modlist.txt. A value of 2 will restore the load order to that stored in modlist.old. If the modlist that you are reverting to does not exist, BOSS will cancel the undo and display an error message. The modlist files are not updated when BOSS is run with this parameter.
+
+-s, --silent-mode:
+
+if this switch is used BOSS doesn't automatically launch the log when it finishes.
 
 
 [b]BOSS Changes and Files[/b]
@@ -263,6 +267,8 @@ Better Oblivion Sorting Software and periodic updates are distributed under the 
 [url=http://www.tesnexus.com/downloads/file.php?id=20516]BOSS on TES Nexus[/url]
 
 [url=http://forums.bethsoft.com/index.php?/topic/1119720-boss-better-oblivion-sorting-software/]Bethesda Game Studios Oblivion modding forum BOSS Topic[/url]
+
+[url=http://code.google.com/p/better-oblivion-sorting-software/]Google Code BOSS pages - including the SVN repository[/url]
 
 [url=http://www.tesnexus.com/downloads/file.php?id=29790]BOSS Masterlist Manager[/url]: A handy MSWord 2007 (and now also 2003) Macro that Surazal wrote up to automatically update and merge the latest version of the masterlist with personal changes you want to make to your copy of the masterlist - very easy and simple to use.
 

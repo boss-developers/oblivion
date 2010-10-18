@@ -9404,12 +9404,18 @@ WindspearTower-StendarrValley compatibility patch.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
+HentaiMania2 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 HentaiMania2C.esp
 ? Cleaned version of HentaiMania2.esp use only one
 HentaiMania2_Merged_Hell.esp
 : Hentai mania 2 base plugin
+HentaiMania2_Merged_Hell Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 HentaiMania2_Merged_Nightmare.esp
 : Hentai mania 2 base plugin
+HentaiMania2_Merged_Nightmare Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 
 \EndGroup\\
 

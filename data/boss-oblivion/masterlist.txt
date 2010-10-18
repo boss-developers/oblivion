@@ -9072,7 +9072,7 @@ Ungarion1TheWelkyndSword.esp
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
-Blood&Mud - EE Patch.esp
+Blood&Mud - EE patch.esp
 Blood&Mud Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -9431,7 +9431,7 @@ SpiritsEdge-EntiusGorge patch.esp
 
 ULFallenLeafEverglade.esp
 ? Obsolete. Update to latest version, then delete.
-xulFallenLeafEverglade.esp
+xulFallenleafEverglade.esp
 Unique Landscapes - Fallenleaf Everglade DV.esp
 LostSpires-Everglade patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
@@ -9511,13 +9511,13 @@ DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
 
-xulbravilbarrowfields.esp
+xulBravilbarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
-xulbravilbarrowfields Rwalk.esp
+xulBravilbarrowfields Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
-xulbravilbarrowfields Swalk.esp
+xulBravilbarrowfields Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
-xulbravilbarrowfields Vwalk.esp
+xulBravilbarrowfields Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.

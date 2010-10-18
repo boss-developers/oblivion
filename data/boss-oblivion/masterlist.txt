@@ -1735,6 +1735,8 @@ Inebriation.esp
 $ Not OOO compatible - already included in OOO.
 Inebriation Rus.esp
 $ Not OOO compatible - already included in OOO.
+Wasted.esp
+TDDM.esp
 Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
@@ -8239,6 +8241,7 @@ Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
+SMChocolateElf.esp
 SMHighImperial.esp
 SN_Shivering_Shack.esp
 Sno_DB 1.0_Full Version.esp
@@ -8930,6 +8933,8 @@ M.O.E. - Visit Valen Dreth Topic.esp
 M.O.E. - Main Quest Delayer.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
+QuietFeet.esp
+? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move thisa voe Knights.esp.
 Mart's Monster Mod - Knights of the Nine Patch.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
@@ -9454,6 +9459,7 @@ EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
 ThievesGrotto-ColovianHighlands patch.esp
 DwarvenMines-ColovianHighlands patch.esp
+Trails of Cyrodiil - Colovian Highlands UL.esp
 
 xulChorrolHinterland.esp
 Unique Landscapes - ChorrolHinterland DV.esp
@@ -11027,6 +11033,9 @@ M.O.E. - Alternative Script Effect Icon I.esp
 M.O.E. - Alternative Script Effect Icon II.esp
 
 sgLighterQuivers.esp
+% {{BASH:Stats}}
+sgLighterQuiversOOO.esp
+% {{BASH:Stats}}
 Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 SetsunaDummyTraining.esp
@@ -11228,6 +11237,7 @@ Storms & Sound Patches.esp
 ? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
 ? This is a custom merge.
 
+SiC shippingInCyrodiil.esp
 ShippingInCyrodiil-08.esp
 ShippingInCyrodiil_Normal_Lights_V1-1 - With Drawbridges.esp
 SkoomaTest.esp
@@ -12147,6 +12157,7 @@ OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
 {{BASH:Relev}}
+Midas' Shortcut.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
 MMC_Iphigenia Vwalk.esp
@@ -12518,6 +12529,7 @@ No psychic guards v1.1.esp
 No psychic guards v1.2.esp
 No psychic guards harder v1.2.esp
 No psychic guards harder fix.esp
+Regional-Bounty-Decreasing-v1.2.esp
 RenGuardOverhaul.esp
 % {{BASH:Actors.AIData}}
 RenGuardOverhaulShiveringIsles.esp
@@ -12855,6 +12867,7 @@ Faster Level Up X20.esp
 Faster Level Up X25.esp
 Faster Level Up X50.esp
 Faster Level Up X100.esp
+Faster Skills x5.esp
 G_'s-Level-Slow.esp
 
 AttributeInfluenceSkill.esp
@@ -13030,6 +13043,9 @@ Wrye Leveling.esp
 SaveSkillTrainingForLater.esp
 DPCS.esp
 DPCSRealisticLeveling.esp
+phat39s trainaholic-10.esp
+phat39s trainaholic-15.esp
+phat39s trainaholic-20.esp
 \EndGroup\\
 
 \BeginGroup\: Pose and Animation Mods
@@ -13977,6 +13993,7 @@ CompanionMaster.esp
 
 CSR Fixed.esp
 CSR Balanced.esp
+not_recruit_companions.esp
 
 rusik.esp
 Rusik 2.0.1.esp
@@ -14404,6 +14421,7 @@ prettyEnh.esp
 SOLS COMPANION MERGE.esp
 1stAlchemistCompanionGirl.esp
 Prometheus's SlavePackGoblin.esp
+Slave Alba(Elf).esp
 Tarana The Golden Impling.esp
 
 theguywhounlockedthecell.esp
@@ -14458,6 +14476,7 @@ DACompilation_GO_APN.esp
 ? Includes 'KW-AlliesPlayNicer.esp' so don't use that with this.
 DACompilation_GO_SI.esp
 DACompilation_GO_SI_APN.esp
+ABCompilation_APN.esp 
 
 ElsweyrWhitelockCMPartner.esp
 OrcrestCMPartners.esp

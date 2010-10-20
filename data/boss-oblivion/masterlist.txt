@@ -2268,6 +2268,8 @@ Harvest[Containers] - Havok Crates Add-on.esp
 $ Not OOO compatible -- However if using the latest version and want the latest features you may want to use this (move after OOO) but you'll loose some features of OOO (trappings and such) on most containers.
 DBOO - Harvest[Containers].esp
 
+Piratelords Creature Balances.esp
+Piratelords Loot Fixes.esp
 Piratelords Trade Fixes.esp
 
 Living Economy.esp
@@ -11367,6 +11369,7 @@ za_less_NPC_conversations.esp
 zzzBookreadingEnhanced.esp
 zzzDarkHelloTopic.esp
 zzzHuntingUnlimited.esp
+zzzLetMeGoAway.esp
 zzzTrainingOthersMod.esp
 \EndGroup\\
 

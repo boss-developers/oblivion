@@ -323,7 +323,7 @@ notamod.esp
 \Bash and deactivate to keep new faces with NPC altering mods later.
 
 xeoex.esp
-% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Ears,R.Head,R.Mouth,R.Teeth}}
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,NPC.Race,R.Ears,R.Head,R.Mouth,R.Teeth}}
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -5919,9 +5919,13 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 
 WAC.esp
 WAC - OverSpawn.esp
+% {{BASH:Actors.Spells,Graphics,Relev}}
 WAC - TCOS.esp
+% {{BASH:Graphics,Invent,NPC.Race,Relev}}
 WAC - TCOS Invent only.esp
+% {{BASH:Invent,NPC.Race}}
 WAC - TCOS Shops.esp
+% {{BASH:Graphics,Invent}}
 WAC - BlackBootDungeon.esp
 WAC - 8th Gate.esp
 WAC - Dead Knights.esp

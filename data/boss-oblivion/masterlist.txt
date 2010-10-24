@@ -9586,6 +9586,7 @@ xulBravilBarrowfields Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
+TonaSimpleDressArmor-BravilBarrowfields patch.esp 
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
 ColdstoneTown-BravilBarrowfields patch.esp

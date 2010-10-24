@@ -256,6 +256,7 @@ Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esm
 SPTDiverseGuards-Resources.esm
 $ Probably not compatible with OOO.
 Oblivion Achievements CORE Version.esm
+John's Leveled List Overhaul.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1056,6 +1057,8 @@ Side's EAX Control.esp
 Soundscaper.esp
 al-smm7.esp
 al-smm7-ru.esp
+PlaySpecial - OBSE and SoundCommands Required.esp
+PlaySpecial.esp
 PowerAttack Voicemod.esp
 ? May cause unfixable animation bugs if used with 'Personality Idles' or similar.
 PowerAttack Voicemod - The Shivering Isles.esp
@@ -5484,12 +5487,14 @@ Armamentarium SoB Patch.esp
 Asylum_patch_OOO.esp
 
 John's Leveled List Overhaul.esp
+John's Leveled List Overhaul - Cyrodillic Armors.esp
 John's Leveled List Overhaul - Vanilla Armours.esp
 ? Don't use with John's Leveled List Overhaul - Vanilla Complete.esp)
 John's Leveled List Overhaul - Vanilla Weapons.esp
 ? Don't use with John's Leveled List Overhaul - Vanilla Complete.esp)
 John's Leveled List Overhaul - Vanilla Complete.esp
 ? Dont use with either John's Leveled List Overhaul - Vanilla Weapons.esp or John's Leveled List Overhaul - Vanilla Armours.esp)
+John's Leveled List Overhaul for OOO.esp
 John's Leveled List Overhaul - Realm of Amenophis.esp
 John's Leveled List Overhaul - Town Honour Guards.esp
 
@@ -6788,6 +6793,7 @@ Better Benirus Manor - Complete - AN-II Patch.esp
 Better Benirus Manor for Cobl - Complete - AN-II Patch.esp
 Better Benirus Manor - Interior Only - AN-II Patch.esp
 Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp
+Better Benirus Manor - AN Patch - Natural.esp
 Better Rosethorn Hall.esp
 Better Shady Sam.esp
 Best Defense.esp
@@ -6817,7 +6823,8 @@ BladeOfTheHaunted Vwalk.esp
 BladesModv2.esp
 bladesmod3.esp
 BladeSong.esp
-: OBSE 18+, Screen Effects,
+: OBSE 18+, Screen Effects.
+BladeSong v1.3 Delayer.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
@@ -7018,6 +7025,7 @@ Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 CyrilliansStaff.esp
+CyrilliansStaff v1.0 Delayer.esp
 Cyrodiil Training Center.esp
 \EndGroup\\
 
@@ -10717,6 +10725,7 @@ Shadow's Merged Value Fixesv2.0.esp
 % {{BASH:Stats,Deactivate}}
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
+Class Advantages.esp
 CM_Essential_Classes.esp
 more_classes1.1.esp
 GotNoClass.esp
@@ -13188,6 +13197,9 @@ Woman's Move.esp
 NewAnimation.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Animation - Growlfs Body Resizing Mod.esp
+
+1st Person Legs
+: OBSE 15+.
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides
@@ -14148,6 +14160,8 @@ CM Frodo.esp
 CM Garrus.esp
 CM Illona.esp
 CM Tifa A.esp
+CMpartnerTifa.esp
+% {{BASH:Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth}}
 CM_Kailinda.esp
 CM_Kailinda Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -15913,7 +15927,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Underdark v1.1 Delayer.esp 
-" UnderdarkSaga v1.2 Delayer.esp.
+" UnderdarkSaga v1.2 Delayer.esp. (Obselete if using that esp)
 UnderdarkSaga.esp
 UnderdarkSaga v1.2 Delayer.esp
 UnderdarkSaga Vwalk.esp

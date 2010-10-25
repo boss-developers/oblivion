@@ -1723,8 +1723,6 @@ GW71_Soulgems.esp
 \BeginGroup\: Base H
 
 Happyhannah's Wines.esp
-haz_ct2_magesguild_teleport.esp
-haz_ct3_horse_cart.esp
 Hide Away.esp
 HTFpcb Extended.esp
 HUDI.esp
@@ -6323,6 +6321,7 @@ Modified Bandits.esp
 Unscaled Loot and Encounters.esp
 VG0udyrfrykte.esp
 slaughterfish addon.esp
+Smarter Bandits.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 1
@@ -10606,6 +10605,19 @@ HarderRepairs_10.esp
 HarderRepairs_20.esp
 HaroK_Arrow_Forge.esp
 haz_ct1_no_fasttravel.esp
+haz_ct2_magesguild_teleport.esp
+haz_ct3_horse_cart.esp
+haz_ct3_horse_cart_1C.esp
+haz_ct4_no_MQ_horse.esp
+haz_ct4_no_maborel_horse.esp
+haz_ct4_no_maborel_horse_1C.esp
+haz_ct5_mark_recall.esp
+haz_ct6_expensive_horses.esp
+haz_ct7_horse_relocate.esp
+haz_ct7_horse_relocate_1C.esp
+haz_ct_REMOVE.esp
+? ONLY Activate this if you want to remove the changes made by the Classic Travel mod components ct4 & ct1.
+haz_ctx_REMOVE.esp
 haz_spawn_oblivion_gates.esp
 HelmetFOV.esp
 HelmetFOV-OBSE.esp
@@ -11964,11 +11976,6 @@ Nighteye Glasses.obse.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
-haz_ct3_horse_cart_1C.esp
-haz_ct4_no_maborel_horse_1C.esp
-haz_ct5_mark_recall.esp
-haz_ct7_horse_relocate.esp
-haz_ct7_horse_relocate_1C.esp
 Healers.esp
 hilarity_121.esp
 hunters_performance.esp

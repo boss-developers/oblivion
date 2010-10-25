@@ -7082,6 +7082,9 @@ Del_Skingrad_Garden.esp
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
+Demonhunter Delayer.esp
+? Old version.
+Demonhunter v1.01 Delayer.esp
 Demonicus.esp
 DengardKeep.esp
 Der Orden.esp
@@ -13850,9 +13853,6 @@ Energy - Beautiful Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Demon Hunter.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
-Demonhunter Delayer.esp
-? Old version.
-Demonhunter v1.01 Delayer.esp
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesuChan's Kawa-Khajiits.esp
@@ -14280,7 +14280,6 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Tabaxi.esp
 ? Choose only ONE customization for Vilja.
 
-Unknown mod file:
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja Not Essential Vwalk.esp

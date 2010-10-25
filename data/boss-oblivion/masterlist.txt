@@ -312,8 +312,8 @@ TRoN Swalk.esp
 TRoN Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 \Probably doesn't need to load this early but the authors recommend it.
-notamod.esp
-? I'm just here for temporary testing -- specifically for Surazal.
+Underdark v1.1 Delayer.esp
+" UnderdarkSaga v1.2 Delayer.esp (Only use one).
 !Oblivion_PL.esp
 % {{BASH:Names}}
 \EndGroup\\
@@ -2979,7 +2979,7 @@ Blade Of Woe Replacer.esp
 % {{BASH:Graphics}}
 BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
-BlessedMageKnightDress.esp 
+BlessedMageKnightDress.esp
 Blood Mage.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
@@ -3149,7 +3149,7 @@ dagger_o_a.esp
 DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
 Dancers clothes.esp
-Dancing Shadow Rose Break Undies.esp 
+Dancing Shadow Rose Break Undies.esp
 Dante's Scythe.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
@@ -3234,7 +3234,7 @@ Diano.esp
 Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
-DKAionProject.esp 
+DKAionProject.esp
 DMCDanteClothes.esp
 Dollparts_CorsetsoftheRose.esp
 DFSL Leathery 4.esp
@@ -3541,7 +3541,7 @@ ICVisuals.esp
 Icxth Sword.esp
 IgnisOutfit.esp
 Imperial Legion Light Armor.esp
-Imperial Legion Scout Armour.esp  
+Imperial Legion Scout Armour.esp
 impguardpalkey.esp
 IP_Magerobes.esp
 % {{BASH:Graphics}}
@@ -4208,7 +4208,7 @@ tda_PHModv1.2.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
-Tenko_Cloth.esp 
+Tenko_Cloth.esp
 TestShuriken.esp
 Tesw.esp
 TGG- Treasure Placement.esp
@@ -5896,6 +5896,7 @@ OMOBS_MMM_H&C_Ammo.esp
 % {{BASH:Stats}}
 
 SubSpecies Variety Pack.esp
+SubSpecies Variety Pack #1 - Canines (full version).esp
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
 Jade Dishes for MMM - HnC.esp
@@ -6794,6 +6795,7 @@ Better Benirus Manor for Cobl - Complete - AN-II Patch.esp
 Better Benirus Manor - Interior Only - AN-II Patch.esp
 Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp
 Better Benirus Manor - AN Patch - Natural.esp
+Better Benirus Manor - AN Patch - Bright.esp
 Better Rosethorn Hall.esp
 Better Shady Sam.esp
 Best Defense.esp
@@ -14278,7 +14280,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Tabaxi.esp
 ? Choose only ONE customization for Vilja.
 
-Unknown mod file: 
+Unknown mod file:
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja Not Essential Vwalk.esp
@@ -14552,7 +14554,7 @@ DACompilation_GO_APN.esp
 ? Includes 'KW-AlliesPlayNicer.esp' so don't use that with this.
 DACompilation_GO_SI.esp
 DACompilation_GO_SI_APN.esp
-ABCompilation_APN.esp 
+ABCompilation_APN.esp
 
 ElsweyrWhitelockCMPartner.esp
 OrcrestCMPartners.esp
@@ -15928,10 +15930,9 @@ ViconiaChapterTwo Swalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-Underdark v1.1 Delayer.esp
-" UnderdarkSaga v1.2 Delayer.esp. (Obselete if using that esp)
 UnderdarkSaga.esp
 UnderdarkSaga v1.2 Delayer.esp
+" Underdark v1.1 Delayer.esp (Only use one).
 UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkMap.esp

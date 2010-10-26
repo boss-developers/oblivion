@@ -543,7 +543,7 @@ Traduccion Mejorada Oblivion Clan DLAN.esp
 \---
 
 Unofficial Oblivion Patch.esp
-? Use Standalone MOBS if using Frans ог OMOBS if using FCOM\OOO. Both versions can be found here: http://www.tesnexus.com/downloads/file.php?id=28537
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM\OOO. Both versions can be found here: http://www.tesnexus.com/downloads/file.php?id=28537
 ? Recommend installing UOP Supplemental for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.DeathItem,Actors.Stats,C.Climate,C.Light,C.Music,C.Name,C.Owner,Creatures.Blood,Delev,Factions,Invent,Names,Relations,Relev,Scripts,Stats}} and remove the C.Water tag (only exist in older version).
 Unofficial Oblivion Patch DV.esp
@@ -1931,6 +1931,7 @@ OSRCustom.esp
 
 Packhorses v1.esp
 paladin.esp
+Paradisebird_2.esp
 passive_horses.esp
 910-passive wildlife-TESSource.esp
 personality_idles2.esp
@@ -5586,6 +5587,7 @@ FCOM_MoreWildernessLife.esp
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Passive Wildlife.esp
+>? Not recommended, has bugs
 
 >Mart's Monster Mod - Safer Roads.esp
 ? Nod need for Mart's Monster Mod - Spawn Rates - Reduced.esp included
@@ -5824,6 +5826,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - More Wilderness Life No Gates.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Passive Wildlife.esp
+<? Not recommended, has bugs
 <Mart's Monster Mod - City Defences.esp
 <^ Incompatible with BC - City Defences.
 <Mart's Monster Mod - Curse of Hircine.esp
@@ -8891,6 +8894,7 @@ SM Plugin Refurbish - FrostCrag.esp
 " 'CDM-CGO Compatibility plugins'.
 NLF FrostCrag.esp
 FrostcragAlchemySorter.esp
+DLCFrostcrag_OOO.esp
 DLCFrostcragMysticEmporiumPatch.esp
 DLCFrostcrag_MysticEmporiumPatch.esp
 BrumaMGRestored.esp

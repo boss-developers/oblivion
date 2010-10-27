@@ -5956,8 +5956,11 @@ WAC-OOO.esp
 
 \BeginGroup\: OWC New Dimensions
 OWC - Mannequin.esp
+% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
 OWC - Seaworld.esp
+% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
 OWC - New Dimension.esp
+% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
 \EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
@@ -9367,7 +9370,6 @@ FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
-A Imperial Outpost - Fort Novi Sad.esp
 MehrunesFel.esp
 Daedric Shrine Ruins.esp
 " Asharnakibibi.esp, MehrunesFel.esp, Zergonipilamat.esp,MehrunesFel.esp
@@ -9416,7 +9418,9 @@ HOD_delayer.esp
 OC_HOD_delayer.esp
 ? only use with Open Cities
 HeartOftheDeadv6.3 Delayer.esp
-? Compatible with  HOD v6.4 as well as 6.3
+? Old Version.Update to 'HeartOfTheDeadv6.5 Delayer.esp' (fine even if using HoTD 6.3/6.4).
+HeartOfTheDeadv6.5 Delayer.esp
+? Fine with HoTD V6.3-6.5.
 
 Dschinni.esp
 ? There are incompatibilities with Servant of the Dawn.
@@ -9819,6 +9823,8 @@ TrailsOfCyrodiil-UL merged patch.esp
 
 \BeginGroup\: Post UL, Pre BC
 \'''''''''''''''
+
+A Imperial Outpost - Fort Novi Sad.esp
 
 exhICMO.esp
 : BC/OC IC Market District Components.
@@ -11183,6 +11189,9 @@ SM Essential Kills.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp
+Soulgem Magic.esp
+% {{BASH:Scripts}}
+: OBSE 18+.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 \BeginGroup\: SPT Diverse Guards
@@ -11843,6 +11852,7 @@ $ Has problems with OOO (StarX vampires will fight OOO vampires, and some chests
 $ There is a patch to solve these problems.
 StarX VVR_OOO Patch.esp
 StarX VVR_OOO_FCOM Patch.esp
+Starx-OVB Patch.esp 
 MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
 JaySuS-Vampire-Mod-MKV-V3.8.esp
@@ -15865,6 +15875,7 @@ DBED - 7 murders No level delay.esp
 DLCFrostcrag_MysticEmporiumKTDH.esp
 Enhanced Economy - Soulgems.esp
 % {{BASH:Scripts,NoMerge}}
+? Obsolete, replace with Soulgem Magic.
 Faction Rank Fix.esp
 FCOM_Archery.esp
 % {{BASH:NoMerge,Stats}}

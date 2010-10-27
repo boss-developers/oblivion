@@ -6886,6 +6886,10 @@ BravilBridgeCottage.esp
 Break Into the Arcane University.esp
 Brew Houses of Cyrodiil.esp
 Brew Houses of Cyrodiil_comp.esp
+
+HackdirtCaverns.esp
+\Needs to load here to avoid messing up path grids for ABR.
+
 BrotherhoodRenewed.esp
 % {{BASH:Factions}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
@@ -7359,7 +7363,6 @@ Gypsy Wagon.esp
 
 hallofthemountainking.esp
 hackdirtabyss.esp
-HackdirtCaverns.esp
 Halcyon House.esp
 Halls of Fortitude.esp
 Halls of Unrelent.esp

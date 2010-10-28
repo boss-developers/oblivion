@@ -2,6 +2,8 @@
 
 Past Threads:
 [spoiler]
+[topic=1126021]Thread 27[/topic]
+[topic=1119720]Thread 26[/topic]
 [topic=1117093]Thread 25[/topic]
 [topic=1111761]Thread 24[/topic]
 [topic=1107788]Thread 23[/topic]
@@ -21,7 +23,7 @@ A simple "one-click" program for users to quickly optimize and avoid detrimental
 
 [b]Features:[/b]
 [b][list]
-[*]Correctly positions over 10,000 mods and counting, including all the mod files found in such popular mods as FCOM, OOO, MMM, Better Cities, Open Cities, Race Balancing Project and many other large mods.
+[*]Correctly positions over 10,400 mods and counting, including all the mod files found in such popular mods as FCOM, OOO, MMM, Better Cities, Open Cities, Race Balancing Project and many other large mods.
 [*]Checks all the mod files used in an 'FCOM Convergence' installation, including partial or complete installations of OOO, MMM, Fran's, Oblivion WarCry, Bob's Armory, Loth's Blunt Weapons for NPCs, Cobl, Tamriel Travellers, Exnem's Runeskulls and more.
 [*]Detects common FCOM installation mistakes and warns the user about them.
 [*]Differentiates between FCOM and non-FCOM setups.
@@ -40,7 +42,7 @@ BOSS is designed to assist in the installation and usage of mods, especially mor
 
 [u]REQUIREMENTS:[/u]
 
-Windows (or Wine), Oblivion (or Fallout 3), some mods.
+Windows (or Wine), Oblivion (or Fallout 3, Fallout: New Vegas or Nehrim), some mods.
 
 
 [u]DOWNLOADS:[/u]
@@ -201,7 +203,7 @@ Sources for the mod list and its order include: Agiel's Annotated Load Order; Fi
 
 Thanks go to Wrye for implementing the importing of BOSS's Bashed Patch tag suggestions into [url=http://wrye.ufrealms.net/Wrye%20Bash.html]Wrye Bash[/url].
 
-Thanks also go to the Beta Testing & Analysis Guild at TESAlliance and Surazal for testing and giving feedback on v1.6 prior to release.
+Thanks also go to the Beta Testing & Analysis Guild at TESAlliance and Surazal for testing and giving feedback on v1.6 prior to release, and to myk002 for code contributions..
 
 
 [u]PROJECT MEMBERS[/u]
@@ -233,19 +235,29 @@ BOSS since the middle of 2009 been a collaborative project on Google Code using 
 [list]
 [*] Alithelord
 [*] Arthmoor
-[*] jacksonleist
+[*] SpaceOden
 [*] Mosanger
 [*] PacificMorrowind
 [*] Valda
 [/list]
 
+[b]Fallout: New Vegas Masterlist Developers:[/b]
+[list]
+[*] SpaceOden
+[/list]
+
+[b]Nehrim Masterlist Developers:[/b]
+[list]
+[*] Psymon
+[/list]
+
 [b]Source Code Developers:[/b]
 [list]
-[*] Random007
 [*] Alithelord
-[*] Leandor
+[*] Leandro Conde
 [*] Leus
 [*] PacificMorrowind
+[*] Random007
 [*] WrinklyNinja
 [/list]
 

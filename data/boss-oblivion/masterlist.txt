@@ -2764,6 +2764,9 @@ Alhemy.esp
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.
+Alir'sArmor.esp
+? Will conflict with Better Imperial City.esp
+? May conflict with mods that alter the exterior of the IC Market District.
 Allods_Weapons_Pack.esp
 Alluring Books.esp
 % {{BASH:Graphics}}
@@ -8397,6 +8400,7 @@ BetterInns + NewHomeOwners.esp
 BetterInns - ClocksOfCyrodiil PATCH.esp
 BetterInns - COBL PATCH.esp
 BetterInns - BHCExpanded PATCH.esp
+BetterInns - Harvest Containers PATCH.esp
 Sheogorath`s Artifacts.esp
 \EndGroup\\
 
@@ -9831,6 +9835,7 @@ TrailsOfCyrodiil-UL merged patch.esp
 \'''''''''''''''
 
 A Imperial Outpost - Fort Novi Sad.esp
+Ancient Ruins - Ayleid Edition.esp
 
 exhICMO.esp
 : BC/OC IC Market District Components.
@@ -11858,7 +11863,7 @@ $ Has problems with OOO (StarX vampires will fight OOO vampires, and some chests
 $ Get patch on this page: http://www.tesnexus.com/downloads/file.php?id=21564
 StarX VVR_OOO Patch.esp
 StarX VVR_OOO_FCOM Patch.esp
-Starx-OVB Patch.esp 
+Starx-OVB Patch.esp
 MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
 JaySuS-Vampire-Mod-MKV-V3.8.esp

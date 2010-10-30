@@ -7073,6 +7073,7 @@ Dark Brotherhood Outpost v3.esp
 ? Upgrade to latest version.
 Dark Brotherhood Outpost v3.1.esp
 Dark Brotherhood Sanctuaries.esp
+_DarkBrothershood.esp
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
@@ -7658,6 +7659,8 @@ KendelfordAvon.esp
 Keric.esp
 Keys & Furniture Papers Box.esp
 (SFL) The Boxes - Keys & Furniture Papers.esp
+KieranFleshRobes.esp
+KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
 $ If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
@@ -8171,6 +8174,7 @@ RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
 Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
+RipsInTime I TheTimeRippers.esp
 Rise Of A Samurai.esp
 RizztsManor.esp
 Rivana Ayleid Ruine.esp
@@ -8793,6 +8797,7 @@ Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
 zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
+zzzMyMine.esp
 \EndGroup\\
 
 \BeginGroup\: Quests Arena
@@ -10847,9 +10852,11 @@ No Glow Grass.esp
 No Glow Grass - Faster.esp
 No Glow Grass - Shorter.esp
 No Glow Grass - Faster and Shorter.esp
+NoLoadingMessage.esp
 NoMoreGuardsWithBowsv1.2.1.esp
 Andrews_No_Quest_Items-6729.esp
 No Quest Items.esp
+NoQuestItems.esp
 No quest items SI.esp
 NoObsoleteEnemies.esp
 ? Highly likely to be incompatible with every overhaul out there.
@@ -11474,6 +11481,7 @@ zzzBookreadingEnhanced.esp
 zzzDarkHelloTopic.esp
 zzzHuntingUnlimited.esp
 zzzLetMeGoAway.esp
+zzzOblivionTaxandBribe.esp
 zzzTrainingOthersMod.esp
 \EndGroup\\
 

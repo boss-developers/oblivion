@@ -9064,6 +9064,22 @@ Dragon Templar.esp
 RavDCPOD.esp
 \EndGroup\\
 
+\BeginGroup\: ROM
+\----------------------
+ROM Revised Oblivion Mod.esp
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,R.Description,R.Relations,R.Skills,Relations,Relev,Scripts,Sound,SpellStats,Stats}}
+ROM Patch - Knights.esp
+% {{BASH:Actors.ACBS,Actors.Stats,Delev,SpellStats,Stats}}
+ROM Patch - MMM.esp
+% {{BASH:Actors.Stats,Factions,Names,Scripts,Stats}}
+ROM Patch - MMM H&C.esp
+% {{BASH:Actors.Stats,Factions,Names,Scripts,Stats}}
+ROM Patch - Armamentarium.esp
+% {{BASH:Stats}}
+ROM Patch - Bobs Armory.esp
+% {{BASH:Stats}}
+\EndGroup\\
+
 \BeginGroup\: Quests and Locations 3
 \----------------------
 
@@ -11627,6 +11643,8 @@ AlliriaRPS.esp
 Arks Tutorial Terminator.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations,Invent}}
+ROM Patch - Alternative Start.esp
+% {{BASH:Scripts}}
 SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.
@@ -15248,6 +15266,9 @@ TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
 
 Portrait Painter for Better Cities.esp
+
+ROM Patch - Better Cities.esp
+% {{BASH:Stats}}
 
 HTS.esp
 OCC-HTS-Patch.esp

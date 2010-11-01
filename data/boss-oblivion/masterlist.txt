@@ -257,6 +257,7 @@ SPTDiverseGuards-Resources.esm
 $ Probably not compatible with OOO.
 Oblivion Achievements CORE Version.esm
 John's Leveled List Overhaul.esm
+Sephiroth Companion.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -4080,6 +4081,7 @@ Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
 Slof's Heartbreaker.esp
 Slof's Ice Warrior.esp
+Slof's Icebane Armour.esp
 Slof's Jeans.esp
 Slof's Kitana Outfit for Males.esp
 Slof's Male Clothing.esp
@@ -4162,6 +4164,7 @@ SG005_DHuntress.esp
 SG006_Nabiya.esp
 SG007_Nobody.esp
 SG010 Compilation.esp
+" SG001_BunnyGirl.esp, SG002_Button.esp, SG003_Slit.esp, SG004_Stargazer.esp, SG005_DHuntress.esp, SG006_Nabiya.esp, SG007_Nobody.esp, SG014_SparkleSweetSummer.esp (Includes the contents of these esps).
 SG014_SparkleSweetSummer.esp
 Shaun's Weapon Replacers.esp
 % {{BASH:Graphics}}
@@ -13215,6 +13218,7 @@ CTAddPose_fujosi_eng.esp
 CTAddPose_Le01.esp
 CTAddPose_Le02.esp
 CTAddPose_OTPair.esp
+CTAddPose_OTpair2.esp
 CTAddPose_ bondage_sex.esp
 CTAddPose_bondage_sex-2.esp
 CTAddPose_2ch_(Hentai).esp
@@ -13255,6 +13259,7 @@ Animation and Poses.esp
 EFGAddPose.esp
 Chain it!.esp
 CT_prendre_pose.esp
+geechan_SimplePose.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
 Pose de Lain v1.4.esp
@@ -13653,6 +13658,8 @@ AlliriaBretonPatriciiRace.esp
 : xeoex.esp
 Anwolf Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Aos Si.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Description}}
 Asian Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AsianElves.esp
@@ -13983,6 +13990,8 @@ Altair_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 XeniaRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+WieraRace_EV.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
 Wolven Anthros.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 
@@ -14220,6 +14229,8 @@ Xenia_CMPartner Vwalk.esp
 CM__Shalia.esp
 cmAbbeyAeryn.esp
 cmBellenia.esp
+CM Boromir.esp
+% {{BASH:Graphics,NpcFaces}}
 cmChocolates.esp
 CM Companion Jessica Alba.esp
 % {{BASH:Hair,Eyes}}
@@ -14468,6 +14479,8 @@ Sonia.esp
 Sonia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 STEREOTYPES.esp
+Sephiroth Companion.esp
+Tyrael Companion.esp
 Tamara.esp
 % {{BASH:Hair,Eyes}}
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.

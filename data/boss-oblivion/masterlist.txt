@@ -2435,6 +2435,14 @@ FormID Finder.esp
 FormID Finder without Pluggy.esp
 ? Old, upgrade to version 4
 FormID Finder4.esp
+Forward Motion Blur.esp
+
+Get Wet - just droplets.esp
+Get Wet - no droplets.esp
+Get Wet.esp
+Get Wet v0.92.esp
+Get Wet Dark.esp
+[Hexaae] Get Wet v0.92.esp
 
 KuerteeActorDetails.esp
 kuerteeCleanUp.esp
@@ -2442,10 +2450,16 @@ kuerteeCleanUp.esp
 LazyPCB.esp
 Lock Bash Omega.esp
 
+MUTE.esp
+MotionBlur.esp
+? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
+
 Oblivion Graphics Extender Support.esp
 
 RedDelPCB.esp
 
+Scathe.esp
+ScreenControls.esp
 skycaptains NPCFF.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
@@ -2455,6 +2469,8 @@ Streamline 2.1.esp
 ? Very Old. Update to 3.1+.
 
 TES4ViewLink.esp
+
+Vacuity.esp
 
 \EndGroup\\
 
@@ -11710,6 +11726,8 @@ RealHungerv1.4.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RealHungerv1.4_NO_MMM.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
+Real Hunger, Cobl.esp
+? Realistic hunger mods and vampire mods may conflict seriously.
 
 RH 1.5.5 - Original Alchemy Edition.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
@@ -15795,13 +15813,6 @@ lumi_enchantments.esp
 ? Use only one lumi_enchantments  esp
 lumi_enchantments_subtle.esp
 ? Use only one lumi_enchantments  esp
-Forward Motion Blur.esp
-Get Wet - just droplets.esp
-Get Wet - no droplets.esp
-Get Wet.esp
-Get Wet v0.92.esp
-Get Wet Dark.esp
-[Hexaae] Get Wet v0.92.esp
 BubbleFx.esp
 ? Most likely incompatible with SM
 GW71_Life_Detect.esp
@@ -15816,8 +15827,6 @@ Cooled_Lava.esp
 % {{BASH:Graphics}}
 Deadly_Lava.esp
 Magic Projectile Variants.esp
-MotionBlur.esp
-? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
 New Frost Damage cloud3.esp
 New Disintegration Effect.esp
 New_NightEye_Toggle.esp
@@ -15847,7 +15856,6 @@ Real Lava v1.2.esp
 % {{BASH:Graphics,Deactivate}}
 Improved Lava.esp
 % {{BASH:Graphics,Deactivate}}
-ScreenControls.esp
 Summon_Bear.esp
 Better Turn Undead Shader.esp
 Update 2.0 Visually Enchanted.esp
@@ -15979,12 +15987,8 @@ MassA.I-40.esp
 MassA.I-50.esp
 ? Use Bashed patch tweak instead if using Wrye Bash.
 MiniMap.esp
-Scathe.esp
 soundfix_DV.esp
-Vacuity.esp
 MrPwner's Falling.esp
-MUTE.esp
-
 KSE_v3.esp
 
 
@@ -16012,9 +16016,6 @@ UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
-
-Real Hunger, Cobl.esp
-? Realistic hunger mods and vampire mods may conflict seriously.
 
 StokerWolff.esp
 StokerWolff 1.3.esp

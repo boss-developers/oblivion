@@ -2446,6 +2446,7 @@ Oblivion Graphics Extender Support.esp
 
 RedDelPCB.esp
 
+skycaptains NPCFF.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
@@ -5084,6 +5085,7 @@ Calm_Shadowmere.esp
 Leveled Shadowmere.esp
 Rideable_Wild_Horses.esp
 PSFastHorse.esp
+HorseSanity.esp
 HorseSpeedEqualsPlayerSpeed.esp
 HRMHorseCommands.esp
 qazSteerHorsesWithMouse.esp
@@ -8203,6 +8205,7 @@ Ruins of Tarnesia.esp
 ? Has a small landscape conflict with Unique Landcapes: Chorrol Hinterland.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
+Rumare Castle.esp
 RumarePriory.esp
 RumpleMod.esp
 \^^^^guessed name and position^^^\
@@ -9491,6 +9494,9 @@ TWMP_BlackMarsh.esp
 \-----------------------
 
 Chorrol Jewelry Company.esp
+CUO_Bruma.esp
+% {{BASH:Invent}}
+: Kvatch Aftermath Bruma Features - disable them.
 CUO_Chorrol.esp
 CUO_Leyawiin.esp
 \EndGroup\\
@@ -10648,6 +10654,8 @@ GP_Lockpicks.esp
 " MMM Hunting & Crafting.
 Great Gate Essential NPC's.esp
 Grummite Bows.esp
+GuardEquipAndStatFix.esp
+% {{BASH:Actors.Stats,Invent}}
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp
@@ -12571,6 +12579,7 @@ Cheydinhal for Thieves.esp
 CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
 crimesandpunshiment.esp
+Crime & Punishment Overhaul 1.1.esp
 MerchantFriendsBuysStolen.esp
 MerchantsAlwaysBuyStolen.esp
 Merchants Buy Stolen Goods.esp
@@ -15023,6 +15032,12 @@ Better Cities Full B&M - CUO Leyawiin Patch.esp
 
 Better Cities - Bruma City Defences.esp
 Better Cities BRUMA.esp
+Better Cities - CUO Bruma Patch.esp
+? Only use one version of the BC - CUO Bruma Patch.
+Better Cities Full - CUO Bruma Patch.esp
+? Only use one version of the BC - CUO Bruma Patch.
+Better Cities Full B&M - CUO Bruma Patch.esp
+? Only use one version of the BC - CUO Bruma Patch.
 
 BCSkingrad-SkingradOutskirts patch.esp
 % {{BASH:C.Water}}

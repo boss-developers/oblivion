@@ -2353,6 +2353,9 @@ PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
+FF_Real_Thirst.esp
+? Don't use with vampire mods.
+
 Terran Vampires Beta.esp
 OCC-TVamp-Patch.esp
 

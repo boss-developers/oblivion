@@ -1298,7 +1298,6 @@ Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
 Akatosh Mount Earn The Wyrm.esp
 Akatosh Mounts Reborn.esp
-ANBToggleGrab.esp
 ANB_TrashCan.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
@@ -1312,9 +1311,6 @@ archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
 ? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
-Auto_Recharge.esp
-No Recharge.esp
-: OBSE
 autosavertest.esp
 Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
@@ -1322,8 +1318,6 @@ Ayleid Loot EXtension.esp
 % {{BASH:Invent}}
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
-kuerteeAutoSaveAndTime.esp
-" Streamline's Streamsave and Cobl's clock.
 Amulet of Magicka.esp
 Amulet of Magicka_1Ñ.esp
 Amulet of Magicka_1C.esp
@@ -1333,10 +1327,8 @@ AFC v2 Quick Powerattacks.esp
 AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
-Damage Text v2.esp
 AFK_PrayerIdles.esp
 Arena_Ring_V2.esp
-
 All normal clothes buyable.esp
 SI Clothes.esp
 \EndGroup\\
@@ -1377,7 +1369,6 @@ Books-Daggerfall.esp
 Books-Morrowind.esp
 Books-FirstEditionGuidetotheEmpire.esp
 FirstEditionGuidetotheEmpire.esp
-BookTrackerOBSE.esp
 Book Collection.esp
 Bookofthedead.esp
 Books of Console v1.esp
@@ -1639,7 +1630,6 @@ Oblivion_Deutsch_v3_1.esp
 DBCEndOfMayTeaser.esp
 Defensive Katana Store v1.0.esp
 Decoration Pillows.esp
-Display Stats.esp
 dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
@@ -1651,10 +1641,7 @@ diversegrasses.esp
 Doomstones.esp
 DragonStatuesv1.esp
 DropLPUI.esp
-DS Time Manager.esp
 Duke Patricks - Basic Alchemic Immersion.esp
-Duke Patricks - Follow That Actor.esp
-Duke Patricks - Friendship Ring For Companion Detection.esp
 Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
 Duke Patricks - Who Goes There.esp
@@ -1699,7 +1686,6 @@ Fishing in Cyrodiil.esp
 % {{BASH:Invent}}
 Flamering.esp
 Fundies.esp
-fwDropGold.esp
 \EndGroup\\
 
 \BeginGroup\: Base G
@@ -1726,7 +1712,6 @@ GW71_Soulgems.esp
 
 Happyhannah's Wines.esp
 Hide Away.esp
-HTFpcb Extended.esp
 HUDI.esp
 " with UI systems other than DarNified UI/Dark'd DarN/other DarN variants.
 \EndGroup\\
@@ -1774,7 +1759,6 @@ Katana Store.esp
 KB - House of Wonders.esp
 Kill_Bruma_Statue.esp
 Kill_KvatchRebuilt_Statue.esp
-kuerteeSittableRocks.esp
 KF Chapel Shop.esp
 Kyoma's Focus on Shrine.esp
 \EndGroup\\
@@ -1820,7 +1804,6 @@ Ls Rentable Player Homes.esp
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 CParchmagetele.esp
-marksman_challenge.esp
 Medic!.esp
 MeosPotionReplacer.esp
 % {{BASH:Graphics}}
@@ -1830,7 +1813,6 @@ MidnightRecharge.esp
 Milt-SecretStorage.esp
 mini fixes-altars.esp
 mini fixes-more animal skins, meat etc..esp
-MiscTracker.esp
 MM_TextLocks.esp
 MM_Run5.esp
 M.O.E. - Undermined Leveled Gameplay - Creature Edition.esp
@@ -1853,7 +1835,6 @@ More_Vegetables.esp
 Morrowind Ingredients.esp
 movingpaintings.esp
 MoveQuestItems - OBSE.esp
-Musical Immersion 1.0.esp
 Menu Time.esp
 MYR_AyleidExtensions.esp
 Maigrets House Cats.esp
@@ -1861,18 +1842,11 @@ Maigrets Pet Fox.esp
 Summon Undead Mount by Nitocris.esp
 MERP-Bree House Interiors.esp
 
-P1DmenuEscape.esp
-QZ Easy Menus.esp
-
-Immersive Music.esp
-Immersive Combat Music.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 ? Old version, upgrade to version 2+.
 BetterMusicSystem(SI).esp
-CBMS_V2.esp
-: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
 
 Better Beggars.esp
 
@@ -1891,8 +1865,6 @@ My Voice Extender.esp
 
 \BeginGroup\: Base N
 
-NameThatHorse.esp
-: OBSE 17+, Pluggy 122+
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
@@ -1907,7 +1879,6 @@ Nosvertu's Wearable Daemer Wings.esp
 Not a Bedroll.esp
 Not a Bedroll_ru.esp
 NPCs Eat More.esp
-
 NWJtamriel.esp
 NpcwithJobsCreatures.esp
 \EndGroup\\
@@ -1954,7 +1925,6 @@ P1DanywhereSittable.esp
 P1DseeYouSleep.esp
 P1DseeYouSleep - Vampire Bedroll Anims.esp
 P1DlookAtShrines.esp
-P1DlookHereYou.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp
 Pegasus.esp
@@ -1982,9 +1952,7 @@ PotionMixer.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
 P1dSeeYouSleep - Portable Campsite - Quickstart.esp
-Purge Cell Buffers - Loading.esp
 Faction_Rank_Fix-5862.esp
-Purge Cell Buffers - Cell Change.esp
 PrivateQuarters.esp
 PTWeaponValues.esp
 p2p'sAshDraconian.esp
@@ -2002,11 +1970,10 @@ Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
-Quest Log Manager.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Old, upgrade to V3+
 QQuix - Rock, rock, rock your ship - V3.esp
-Quick Wardrobe.esp
+
 \EndGroup\\
 
 \BeginGroup\: Base R
@@ -2118,23 +2085,16 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Sigil_Stone_Spawner-3025.esp
-SimpleHUDClock.esp
-: OBSE
-: Hud version pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll
-SimpleSprinting.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
 SkeletonShaders.esp
 SkinMannequinVan-nosleep.esp
 SkinMannequinVan-sleep.esp
-
 Slof's Oblivion Pillow Book.esp
 Slof's Oblivion Pillow BookRU.esp
-SM Soul Delete.esp
 SoT_Holiday.esp
 Soul Gem Discharger.esp
-Spell Delete.esp
-Spell Delete And Item Remove.esp
+
 SPARTANVIsDiverseCityGuards05BETA.esp
 ? Old, upgrade to SPARTAN VIs Diverse City Guards v1 2.esp.
 SPARTAN VIs Diverse City Guards v1 2.esp
@@ -2171,7 +2131,6 @@ the secret black market.esp
 Thingamajigs Broken Armor DD Edit.esp
 Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
-Timekeeper_Advanced.esp
 Timescale Options.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
@@ -2192,7 +2151,6 @@ TryBeforeYouBuy.esp
 
 \BeginGroup\: Base U
 
-Unconscious.esp
 Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
@@ -2415,12 +2373,24 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 \
 \These mods don't need to go anywhere, they're fully scripted, so load them early, out of the way of the more placement-critical sections near the bottom of the masterlist.
 
+ANBToggleGrab.esp
+Auto_Recharge.esp
+
+BookTrackerOBSE.esp
+
 CleanQuit.esp
+CBMS_V2.esp
+: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
 CTEFastSaver.esp
 
+Damage Text v2.esp
 DarNifiedUI Config Addon.esp
 : OBSE v18+, Pluggy v125b+ and DarNified UI or DarkUI'd DarN.
+Display Stats.esp
 DropLitTorchOBSE.esp
+DS Time Manager.esp
+Duke Patricks - Follow That Actor.esp
+Duke Patricks - Friendship Ring For Companion Detection.esp
 
 Enhanced Seasons.esp
 
@@ -2430,6 +2400,7 @@ FormID Finder without Pluggy.esp
 ? Old, upgrade to version 4
 FormID Finder4.esp
 Forward Motion Blur.esp
+fwDropGold.esp
 
 Get Wet - just droplets.esp
 Get Wet - no droplets.esp
@@ -2438,23 +2409,54 @@ Get Wet v0.92.esp
 Get Wet Dark.esp
 [Hexaae] Get Wet v0.92.esp
 
+HTFpcb Extended.esp
+
+Immersive Music.esp
+Immersive Combat Music.esp
+
 KuerteeActorDetails.esp
+kuerteeAutoSaveAndTime.esp
+" Streamline's Streamsave and Cobl's clock.
 kuerteeCleanUp.esp
+kuerteeSittableRocks.esp
 
 LazyPCB.esp
 Lock Bash Omega.esp
 
-MUTE.esp
+marksman_challenge.esp
+MiscTracker.esp
 MotionBlur.esp
 ? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
+Musical Immersion 1.0.esp
+MUTE.esp
+
+NameThatHorse.esp
+: OBSE 17+, Pluggy 122+
+No Recharge.esp
+: OBSE
 
 Oblivion Graphics Extender Support.esp
+
+P1DlookHereYou.esp
+P1DmenuEscape.esp
+Purge Cell Buffers - Cell Change.esp
+Purge Cell Buffers - Loading.esp
+
+Quest Log Manager.esp
+Quick Wardrobe.esp
+QZ Easy Menus.esp
 
 RedDelPCB.esp
 
 Scathe.esp
 ScreenControls.esp
+SimpleHUDClock.esp
+: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll
+SimpleSprinting.esp
 skycaptains NPCFF.esp
+SM Soul Delete.esp
+Spell Delete.esp
+Spell Delete And Item Remove.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
@@ -2463,6 +2465,9 @@ Streamline 2.1.esp
 ? Very Old. Update to 3.1+.
 
 TES4ViewLink.esp
+Timekeeper_Advanced.esp
+
+Unconscious.esp
 
 Vacuity.esp
 

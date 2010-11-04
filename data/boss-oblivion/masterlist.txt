@@ -2968,6 +2968,7 @@ Banes Guilds United.esp
 $ May have trouble with OOO. Untested.
 BarbarianShop.esp
 Bar Maid.esp
+BaronArmor.esp
 Battle Princess.esp
 battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
@@ -3777,6 +3778,7 @@ mnp Nighteye Goggles.esp
 % {{BASH:Invent}}
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
+MODForestElfRangerOutfit_RS.es
 MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morniel_SpecialItem.esp
@@ -7105,6 +7107,7 @@ _DarkBrothershood.esp
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
+DBSRebuiltCompleteFPS.esp
 DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
@@ -7585,9 +7588,6 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 " Better Cities Full or Better Cities Leyawiin components.
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 " Better Cities Full or Better Cities Skingrad components.
-ImpeREAL Empire - Unique Forts.esp
-ImpeREAL Empire - Unique Forts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
 
 Imperial Library.esp
 Imperial City Ranch.esp
@@ -9177,6 +9177,10 @@ The Lost Spires_delayer.esp
 ? Old Version.
 The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
+ImpeREAL Empire - Unique Forts.esp
+ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ImpeREALForts+LostSpires Patch.esp
 
@@ -13529,6 +13533,14 @@ BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
 Smaller Elf ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
+Slof's Better Bodies.esp
+% {{BASH:Body-M,Body-F,Eyes,Graphics}}
+: Robert's Male (v3, v4 or v5) and Robert's Female
+" Other body mods other than Robert's
+? Conflicts with Improved Facial Textures
+? Conflicts with Facial Textures by Enayla
+? Conflicts with Cobl Races Resource
+? Conflicts with Luchairs HGEC body seam reducer
 Jjiinx_Long Ears.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
 Head06 Replacer.esp
@@ -14450,6 +14462,8 @@ DremoraCompanion.esp
 % {{BASH:Hair,Eyes}}
 Eluna.esp
 % {{BASH:Hair,Eyes}}
+DAAragorn.esp
+% {{BASH:Hair,Eyes}
 DAEluna.esp
 % {{BASH:Hair,Eyes}}
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
@@ -14465,6 +14479,8 @@ GGValeria2_0.esp
 GG_Vincente.esp
 % {{BASH:Hair,Eyes}}
 GG_Vincente_Revived.esp
+% {{BASH:Hair,Eyes}}
+Grashnak.esp
 % {{BASH:Hair,Eyes}}
 Hentari.esp
 % {{BASH:Graphics,Actors.Anims}}

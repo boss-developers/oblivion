@@ -3432,6 +3432,7 @@ GhostArmor.esp
 Ghost Rider Helmet.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
+GizDredfireOB.esp
 Gizmodian - Shell of the Artifice.esp
 Gizmodian - Shell of the ArtificeUFF.esp
 Gizmodian - Vicious Heart.esp
@@ -3677,6 +3678,7 @@ Kurese Recolours.esp
 \BeginGroup\: Items L
 
 L2W Cosplay 01.esp
+LACRKatanas_V1.esp
 LadiesOrcish.esp
 Lady Anna.esp
 Lady Apella.esp
@@ -3778,7 +3780,7 @@ mnp Nighteye Goggles.esp
 % {{BASH:Invent}}
 Model Man Exterminator.esp
 Model Man Ninja Breaker.esp
-MODForestElfRangerOutfit_RS.es
+MODForestElfRangerOutfit_RS.esp
 MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morniel_SpecialItem.esp
@@ -4075,7 +4077,7 @@ $ Not compatible with OOO - armors already included - so deactivate when using O
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 Sinblood Collection.esp
-Sister_of_Eisen_BAB.es
+Sister_of_Eisen_BAB.esp
 Sister_of_Eisen_HGEC.esp
 ShaiyaOutfit.esp
 SK_Berserk_v0.6.esp
@@ -8065,7 +8067,7 @@ Oblivion Achievements Core with Rewards.esp
 Oblivion Achievements CORE Version.esp
 Oblivion Wine Overhaul.esp
 Oblivion_NPC_Project1.esp
-OblivionNPCproject2.es
+OblivionNPCproject2.esp
 Wine Overhaul.esp
 OlauronCastleEn.esp
 OlauronCastleRuGE.esp

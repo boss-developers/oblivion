@@ -1108,12 +1108,11 @@ PCSoundViconia.esp
 RWTavernTemple.esp
 
 Hear-Me-Not.esp
-QuietFeet.esp
-$ Not compatible with OOO. Try 'Quiet Feet Max' (or any similar mod that replaces sound files).
 Footstep Sound Fix.esp
 Quiet Feet Complete.esp
+? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
 QuietFeet Max.esp
-? Make sure that you have the right codecs installed to be able to play the sound files.
+? Upgrade to v2.0, which does not require a plugin.
 % {{BASH:Sound}}
 QuietFeet HorseArmor.esp
 % {{BASH:Sound}}
@@ -6941,7 +6940,6 @@ Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
-BravilBridgeCottage.esp
 Break Into the Arcane University.esp
 Brew Houses of Cyrodiil.esp
 Brew Houses of Cyrodiil_comp.esp
@@ -9078,7 +9076,8 @@ M.O.E. - Main Quest Delayer.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 QuietFeet.esp
-? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move thisa voe Knights.esp.
+? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
+? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
 Mart's Monster Mod - Knights of the Nine Patch.esp
 * Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Relations,Relev,Stats}}
@@ -9156,7 +9155,6 @@ Cybiades Vwalk.esp
 
 Damarask.esp
 Castle_Knightstone.esp
-DarknessHollows.esp
 
 Midland.esp
 

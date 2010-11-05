@@ -5765,12 +5765,25 @@ Mart's Monster Mod for Fran.esp
 <% {{BASH:Invent,Relations,Delev,Factions,Graphics,Relev,Scripts}}
 >* Delete. Not needed with FCOM.
 <Mart's Monster Mod TNR Faces.esp
+% {{BASH:NpcFaces,NoMerge}}
 <Mart's Monster Mod COBL Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+? Do not use with COBL Races TNR at same time
+<Mart's Monster Mod - COBL Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+? Do not use with COBL Races TNR at same time
 Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 <Mart's Monster Mod for OOO TNR Faces.esp
+% {{BASH:NpcFaces,NoMerge}}
+? Do not use with COBL Races TNR at same time
 <Mart's Monster Mod for OOO COBL Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+? Do not use with COBL Races TNR at same time
+<Mart's Monster Mod for OOO - COBL Races TNR.esp
+% {{BASH:NpcFaces,NoMerge}}
+? Do not use with COBL Races TNR at same time
 <Mart's Monster Mod - Shivering Isles.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 

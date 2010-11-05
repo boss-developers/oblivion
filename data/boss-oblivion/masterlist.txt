@@ -2536,7 +2536,11 @@ DBTAM.esp
 Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+? Old, upgrade to V2a+.
 Expanded Hotkeys and Spell Delete V2.esp
+? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+? Old, upgrade to V2a+.
+Expanded Hotkeys and Spell Delete V2a.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Expanded Hotkeys Brief Equip Message.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
@@ -2726,6 +2730,7 @@ avarm.esp
 1BDSword [ENG].esp
 1Elven.esp
 1SBVampireOutfits.esp
+1SBFingerArmor.esp
 1SB_LucreziaNavarre outfit.esp
 1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
@@ -3067,6 +3072,7 @@ BowOfShadow.esp
 BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
+BryntrollTheBoneArbitor.esp
 Burningweapons.esp
 Buster Sword R.esp
 BrivasArmor.esp
@@ -4188,9 +4194,14 @@ SG004_Stargazer.esp
 SG005_DHuntress.esp
 SG006_Nabiya.esp
 SG007_Nobody.esp
-SG010 Compilation.esp
-" SG001_BunnyGirl.esp, SG002_Button.esp, SG003_Slit.esp, SG004_Stargazer.esp, SG005_DHuntress.esp, SG006_Nabiya.esp, SG007_Nobody.esp, SG014_SparkleSweetSummer.esp (Includes the contents of these esps).
+SG008_Gee.esp
+SG010_Attractive.esp
+SG011_Seductive.esp
+SG012_MoonLight_Suit.esp
+SG013_Nazca.esp
 SG014_SparkleSweetSummer.esp
+SG010 Compilation.esp
+" SG001_BunnyGirl.esp, SG002_Button.esp, SG003_Slit.esp, SG004_Stargazer.esp, SG005_DHuntress.esp, SG006_Nabiya.esp, SG007_Nobody.esp, SG008_Gee.esp, SG010_Attractive.esp, SG011_Seductive.esp, SG012_MoonLight_Suit.esp, SG013_Nazca.esp, SG014_SparkleSweetSummer.esp (Includes the contents of these esps).
 Shaun's Weapon Replacers.esp
 % {{BASH:Graphics}}
 Staves&Polearms&Spears.esp
@@ -7114,6 +7125,7 @@ DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
 Darklore Manor_V2.esp
+DarknessHollows.esp
 DarkstarTower.esp
 DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
@@ -8671,6 +8683,7 @@ Vaernlor Manor.esp
 Valenwood Improved.esp
 Valley_View_Estate.esp
 Valus Cottage.esp
+Vampire Hideaway.esp
 Vampire Tunnel System.esp
 VampiresLair.esp
 Vampire Haven.esp
@@ -14694,6 +14707,7 @@ ABCompilation_APN.esp
 
 ElsweyrWhitelockCMPartner.esp
 OrcrestCMPartners.esp
+xenia.esp
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

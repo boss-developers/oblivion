@@ -10872,6 +10872,7 @@ M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
 Class Advantages.esp
 CM_Essential_Classes.esp
+DnD_Classes.esp
 more_classes1.1.esp
 GotNoClass.esp
 KnightClassAbility1.esp
@@ -12031,6 +12032,7 @@ Blood Is Everything.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
 Nekhanimal's Awesome Vampire Mod.esp
+NAVM GREETING fix.esp
 Duke Patricks Nosferatu Vampires.esp
 ? Old. Upgrade to latest version.
 % {{BASH:Sound}}
@@ -12429,6 +12431,10 @@ Midas BeastFortify Fix OBSE.esp
 \EndGroup\\
 
 \BeginGroup\: Spells Late
+
+CALSUDG.esp
+: OBME, OBSE 18+
+CALSUDGPlugin.esp
 
 Levelled Spell Names.esp
 % {{BASH:Names}}
@@ -13872,6 +13878,7 @@ Paris Hilton.esp
 Playable Flame Atronach.esp
 Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}
+Sadran.esp
 Slof's Playable Xivilai.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 " OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
@@ -13891,6 +13898,7 @@ AinmhiRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Dark_Seducer_and_Golden_Saint_Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+DABloodDemon.esp
 DAPlayableTrollRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DemonRace.esp
@@ -14128,6 +14136,7 @@ Moogles.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Na'vi race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+opaquan.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 X.Dea.Obscura.esp
@@ -14227,6 +14236,9 @@ MuffinShare.esp
 
 Minionz.esp
 : OBSE
+
+AsharasCharactersAsNPCs.esp
+: RBP full
 
 CompanionMaster.esp
 

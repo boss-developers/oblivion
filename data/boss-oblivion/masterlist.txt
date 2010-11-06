@@ -258,6 +258,7 @@ $ Probably not compatible with OOO.
 Oblivion Achievements CORE Version.esm
 John's Leveled List Overhaul.esm
 Sephiroth Companion.esm
+The Arsenal.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -404,6 +405,10 @@ Younger Hotter NPC's 0.99.esp
 Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}}
 Younger Hotter NPC's v1.0 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Ren's hair on Young Hot NPCs.esp
+% {{BASH:NpcFaces,Hair}}
+Ren's hair on Young Hot NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Younger  Women's_1C Gold.esp
 % {{BASH:NpcFaces,NoMerge}}
@@ -4259,6 +4264,8 @@ TestShuriken.esp
 Tesw.esp
 TGG- Treasure Placement.esp
 The Adventurer's Guide.esp
+The Arsenal.esp
+The Arsenal - Leveled Lists.esp
 The Bow of Ash.esp
 The Bow of Bones.esp
 TheBowOfBonesRevisited.esp
@@ -9443,6 +9450,7 @@ Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
 Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+The Arsenal - Faregyl Patch.esp
 
 Molapi.esp
 
@@ -13346,6 +13354,7 @@ Animation - Growlfs Body Resizing Mod.esp
 
 1st Person Legs
 : OBSE 15+.
+SP1stPLegs.esp
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides
@@ -13564,6 +13573,7 @@ Slof's Better Bodies.esp
 % {{BASH:Body-M,Body-F,Eyes,Graphics}}
 : Robert's Male (v3, v4 or v5) and Robert's Female
 " Other body mods other than Robert's
+" Slof's Oblivion Better Beasts.esp (included in this).
 ? Conflicts with Improved Facial Textures
 ? Conflicts with Facial Textures by Enayla
 ? Conflicts with Cobl Races Resource
@@ -13790,6 +13800,7 @@ Lima.esp
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+n_Dywyll_Elves.esp
 Nec-Mystic Dark ElF.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Nec_Mystic_Dark_Elf_DV.esp

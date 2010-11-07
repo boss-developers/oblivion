@@ -5586,10 +5586,10 @@ DB Conspiracy.esp
 \''''''''''
 >Mart's Monster Mod - Fran's Leveled Quests.esp
 >* Delete. Already integrated into FCOM.
->
+
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
 >? Can increase the chances of a CTD in a heavily modded game.
->
+
 >FCOM_Convergence.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackagesForceAdd,Actors.CombatStyle,Actors.DeathItem,Actors.Spells,Actors.SpellsForceAdd,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
 >FCOM_ConvergenceNoFran.esp
@@ -5612,7 +5612,7 @@ DB Conspiracy.esp
 
 \BeginGroup\: FCOM/MMM optionals 1.
 >\'''''''''''''''''''''
->
+
 >Mart's Monster Mod - Diverse Runeskulls.esp
 >? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
 >% {{BASH:Delev,Relev}}
@@ -5620,11 +5620,11 @@ DB Conspiracy.esp
 >FCOM_EntropicOrderHardcore.esp
 >FCOM_RealSwords.esp
 % {{BASH:Delev,Relev}}
->
+
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
 >FCOM_DurabilityAndDamage.esp
->
+
 >FCOM_SpawnRatesReduced.esp
 % {{BASH:Delev,Relev}}
 >? Use only one: Reduced, SlightlyReduced or Stronger.
@@ -5635,7 +5635,7 @@ DB Conspiracy.esp
 % {{BASH:Delev,Relev}}
 >? Use only one: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
->
+
 FCOM_MoreWildernessLife.esp
 ? Delete. Use Mart's Monster Mod - More Wilderness Life.esp or Mart's Monster Mod - More Wilderness Life No Gates.esp instead
 >Mart's Monster Mod - More Wilderness Life.esp
@@ -5674,13 +5674,13 @@ FCOM_MoreWildernessLife.esp
 >* Delete. Use FCOM_LessReaversInGates instead.
 >FCOM_LessReaversInGates.esp
 >? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
->
+
 >CurseOfHircine.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
 >\'''''''''''''''''''''
->
+
 >Mart's Monster Mod - Extra Wounding.esp
 >Mart's Monster Mod - Looting NPCs & Creatures.esp
 >Mart's Monster Mod - Increased Spawn Rates.esp
@@ -5807,7 +5807,7 @@ CoH Werewolves Mixed.esp
 <Mart's Monster Mod - Lesser Balrog Fix.esp
 <MMM - UberhulkParalyzeFix.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
-<
+
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
 <? Can increase the chances of a CTD in a heavily modded game.
 <Mart's Monster Mod - Diverse Runeskulls.esp
@@ -5817,7 +5817,7 @@ CoH Werewolves Mixed.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
 <Mart's Monster Mod - Extra Reavers.esp
 <? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
-<
+
 <Mart's Monster Mod - Diverse Imperial Armor.esp
 <$ Don't use if using OOO. Integrated into OOO.
 <Mart's Monster Mod - Diverse Creature Skins.esp

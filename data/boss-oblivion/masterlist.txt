@@ -2984,6 +2984,8 @@ battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
 % {{BASH:Invent}}
 Battlespire Books.esp
+BBBRoseoftheGuard.esp
+: A Maximum Compatability Skeleton such as Coronnera's.
 bbLager.esp
 bbLagerOptional.esp
 bcrich.esp
@@ -3376,6 +3378,7 @@ FalxMod.esp
 % {{BASH:Invent}}
 fang-flakpak.esp
 Fans for Helain.esp
+Fantasy Lingerie.esp 
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
 FashionAnvil.esp
@@ -3508,6 +3511,7 @@ HB Daedric Slag Axe.esp
 HB Elven Sunbreaker Shortsword.esp
 HB Hammerfell Long Axe.esp
 HB Legacy Dwemer Weapons.esp
+HGECFighterDMB_BodyPiercings_2.esp
 HeavenWill.esp
 Hel Borne's Boning Knife.esp
 Hel Borne's Blackiron Weapon Set.esp
@@ -5186,9 +5190,12 @@ Goblin Realswords.esp
 ? Only use this or Goblin Realswords+Tribal Shields.esp (or FCOM)
 Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
 % {{BASH:Invent}}
+RealBanditsAndHighwaymen.esp
+% {{BASH:Invent}}
 SIRMS.esp
 % {{BASH:Invent,Names}}
 The Last Queen Of The Ayleids.esp
+Weapon Expansion Pack for Oblivion Nthusiasts.esp
 \EndGroup\\
 
 \BeginGroup\: Only Name changing files
@@ -14385,6 +14392,8 @@ AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH:Hair,Eyes}}
 BloodLady.esp
+High_Imperial_Trio.esp
+% {{BASH:Hair,Eyes}}
 kgt_Aida.esp
 % {{BASH:Hair}}
 kgt_Avve.esp

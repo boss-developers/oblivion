@@ -9593,23 +9593,6 @@ Ravenpride-Stendarr patch.esp
 WindspearTower-StendarrValley compatibility patch.esp
 ? Update to patch version 1.1 if using Stendarr Valley 1.2
 
-\BeginGroup\: HM2
-HentaiMania2.esp
-HentaiMania2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-HentaiMania2C.esp
-? Cleaned version of HentaiMania2.esp use only one
-HentaiMania2_Merged_Hell.esp
-: Hentai mania 2 base plugin
-HentaiMania2_Merged_Hell Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-HentaiMania2_Merged_Nightmare.esp
-: Hentai mania 2 base plugin
-HentaiMania2_Merged_Nightmare Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-
-\EndGroup\\
-
 xulTheHeath.esp
 Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
@@ -9708,6 +9691,25 @@ ShipwreckHome-LostCoast-SutchReborn patch.esp
 DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
+
+\BeginGroup\: HM2
+HentaiMania2.esp
+HentaiMania2 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+HentaiMania2C.esp
+? Cleaned version of HentaiMania2.esp use only one
+HentaiMania2_Merged_Hell.esp
+: Hentai mania 2 base plugin
+HentaiMania2_Merged_Hell Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+HentaiMania2_Merged_Nightmare.esp
+: Hentai mania 2 base plugin
+HentaiMania2_Merged_Nightmare Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+T-HMO.esp
+HMO_ForHMC.esp
+HM2_xuLC_Comp.esp
+\EndGroup\\
 
 xulBravilBarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp

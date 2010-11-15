@@ -10195,6 +10195,9 @@ OCC-ABE-Patch.esp
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
+? Do not use with Open Cities Reborn.
+OCR+ULCH Patch.esp
+? Do not use with Open Cities Classic.
 OCC-COBL-Wells.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp

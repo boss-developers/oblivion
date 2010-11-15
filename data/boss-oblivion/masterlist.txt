@@ -1337,6 +1337,8 @@ Arena Posters Diversified.esp
 Arena Posters Diversified -Better Cities.esp
 archrobe.esp
 % {{BASH:Graphics}}
+AutoEquip.esp
+: OBSE.
 Automagic Bags 1.1.esp
 ? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
 autosavertest.esp
@@ -2090,6 +2092,20 @@ OSM-All Genders.esp
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Oblivion Sexualized Monsters-exclu TRM.esm
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
+Nude Humanlike Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan Tweaked.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan HGEC B.esp
+" Oblivion Sexualized Monsters (OSM)
+: HGEC Body replacer
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Male Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+: Robert Male Body v5
+? USE ONE 'nude * Spriggan.esp' ONLY
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -5220,6 +5236,7 @@ SIRMS.esp
 % {{BASH:Invent,Names}}
 The Last Queen Of The Ayleids.esp
 Weapon Expansion Pack for Oblivion Nthusiasts.esp
+%{{BASH:Delev,Graphics,Invent,Names,Relev,Scripts,Stats}}
 \EndGroup\\
 
 \BeginGroup\: Only Name changing files
@@ -13236,6 +13253,8 @@ DMRequirements.esp
 ? Old, update to version 1.4+
 DMRequirements V1.4.esp
 
+RevolutionarySkills.esp
+
 TML_TrainingUncap.esp
 Uncapped Blivvy UHM.esp
 Uncapped Blivvy UH.esp
@@ -15017,6 +15036,15 @@ bgIntegrationEV Vwalk.esp
 \'''''''''''''''''''''''''
 
 Appler's Passive Birthsigns.esp
+Blademan's Better Birthsigns.esp
+Blademan's New Birthsigns - Part A.esp
+Blademan's New Birthsigns - Part B.esp
+Blademan's New Birthsigns - Part C.esp
+Blademan's New Birthsigns - Part D.esp
+Blademan's New Birthsigns - Part E.esp
+Blademan's New Birthsigns - Addition 1.esp
+Blademan's New Birthsigns - Addition 2.esp
+Blademan's New Birthsigns - Addition 3.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 Birthsigns Revamped.esp

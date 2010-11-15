@@ -1337,8 +1337,6 @@ Arena Posters Diversified.esp
 Arena Posters Diversified -Better Cities.esp
 archrobe.esp
 % {{BASH:Graphics}}
-AutoEquip.esp
-: OBSE.
 Automagic Bags 1.1.esp
 ? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
 autosavertest.esp
@@ -1985,6 +1983,7 @@ Portable Campsite - Quickstart.esp
 P1dSeeYouSleep - Portable Campsite - Quickstart.esp
 Faction_Rank_Fix-5862.esp
 PrivateQuarters.esp
+PTFallingStars.esp
 PTWeaponValues.esp
 p2p'sAshDraconian.esp
 \EndGroup\\
@@ -2092,20 +2091,6 @@ OSM-All Genders.esp
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Oblivion Sexualized Monsters-exclu TRM.esm
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
-Nude Humanlike Spriggan.esp
-" Oblivion Sexualized Monsters (OSM)
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Humanlike Spriggan Tweaked.esp
-" Oblivion Sexualized Monsters (OSM)
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Humanlike Spriggan HGEC B.esp
-" Oblivion Sexualized Monsters (OSM)
-: HGEC Body replacer
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Male Spriggan.esp
-" Oblivion Sexualized Monsters (OSM)
-: Robert Male Body v5
-? USE ONE 'nude * Spriggan.esp' ONLY
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -2422,6 +2407,9 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 \These mods don't need to go anywhere, they're fully scripted, so load them early, out of the way of the more placement-critical sections near the bottom of the masterlist.
 
 ANBToggleGrab.esp
+AutoEquip.esp
+: OBSE (version unknown, use latest to be safe).
+? Contains a dirty edit to the GREETING Dialog Topic, clean with TES4Edit.
 Auto_Recharge.esp
 
 BookTrackerOBSE.esp
@@ -2461,6 +2449,8 @@ HTFpcb Extended.esp
 
 Immersive Music.esp
 Immersive Combat Music.esp
+
+Jjiinx_ScrollYesOrNo.esp
 
 KuerteeActorDetails.esp
 kuerteeAutoSaveAndTime.esp
@@ -3301,9 +3291,10 @@ Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DefianceOfSubtlety.esp
 DeliveranceFireEnch.esp
-DesuChan's Lolita Finery.esp
-DesuChan's Stealth Gear Complete.esp
 DesuChan's Demon Huntress.esp
+DesuChan's Lolita Finery.esp
+DesuChan's Macabre Dancer.esp
+DesuChan's Stealth Gear Complete.esp
 DFSL Leathery 4.esp
 DFSLChina.esp
 DG Jewelry for All.esp
@@ -3632,6 +3623,7 @@ IrohaClothes.esp
 IvyArmor_Black.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
+IvyArmor_Arena.esp
 IvyArmor_Arena_Hcup.esp
 \EndGroup\\
 
@@ -3961,6 +3953,8 @@ pale_rider's Paladin Equipment_enchanted_RU.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
 ParaClothes.esp
 Pauldron.esp
+Pekka_Shields_Light.esp
+Pekka_Shields_Heavy.esp
 PEDress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
@@ -5236,7 +5230,7 @@ SIRMS.esp
 % {{BASH:Invent,Names}}
 The Last Queen Of The Ayleids.esp
 Weapon Expansion Pack for Oblivion Nthusiasts.esp
-%{{BASH:Delev,Graphics,Invent,Names,Relev,Scripts,Stats}}
+% {{BASH:Delev, Graphics, Invent, Names, Relev, Scripts, Stats}}
 \EndGroup\\
 
 \BeginGroup\: Only Name changing files
@@ -5628,6 +5622,7 @@ MTCDirtierBandits.esp
 % {{BASH:Invent}}
 
 DB Conspiracy.esp
+The Arsenal - Leveled Lists for OOO.esp
 \EndGroup\\
 
 \BeginGroup\: MMM & FCOM
@@ -6069,11 +6064,10 @@ WAC-OOO.esp
 
 \BeginGroup\: OWC New Dimensions
 OWC - Mannequin.esp
-% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
 OWC - Seaworld.esp
-% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
+% {{BASH:Delev,Relev}}
 OWC - New Dimension.esp
-% {{BASH:Delev,Relev,Invent,Eyes,Hair,Graphics,Stats,Names}}
+% {{BASH:Delev, Relev, Invent, Stats, Hair, Eyes, Names}}
 \EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
@@ -6461,7 +6455,6 @@ Smarter Bandits.esp
 \BeginGroup\: Quests Early
 
 Orden des Drachen.esp
-OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
 % {{BASH:Factions}}
@@ -7739,6 +7732,7 @@ Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
+JDNT_Brina Cross.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
 JolardHome.esp
@@ -8011,6 +8005,8 @@ MountainShackR12.esp
 MountainShackR121.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp
+mrSiikas_ImperialCathedral.esp
+" Anything that modifies the Chorrol cathedral interior or exterior.
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
@@ -8598,6 +8594,7 @@ The forgotten Castle.esp
 The Island Of Fire.esp
 The Loo.esp
 The Lost Tomb.esp
+TML_TheBox.esp
 The Necromancers start V1.0.esp
 OOO-TheNecromancer_Landtear_Fix.esp
 TheNexus.esp
@@ -10212,9 +10209,6 @@ OCC-ABE-Patch.esp
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
-? Do not use with Open Cities Reborn.
-OCR+ULCH Patch.esp
-? Do not use with Open Cities Classic.
 OCC-COBL-Wells.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
@@ -13091,13 +13085,14 @@ BFG's Enhanced Armory.esp
 \Unlikely to interact with other kinds of mods.
 \Includes related mods bundled with OOO and similar optional items from Fran's.
 
-Druid.esp
-
-4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
-Vanilla_Oblivion_Skill_Rates.esp
-LRM_Generic.esp
 
 AttributePlusX_v1.1.esp
+Druid.esp
+LRM_Generic.esp
+RevolutionarySkills.esp
+4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
+Vanilla_Oblivion_Skill_Rates.esp
+
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.
@@ -13252,8 +13247,6 @@ All+5AttributeModifiers.esp
 DMRequirements.esp
 ? Old, update to version 1.4+
 DMRequirements V1.4.esp
-
-RevolutionarySkills.esp
 
 TML_TrainingUncap.esp
 Uncapped Blivvy UHM.esp
@@ -14377,6 +14370,9 @@ Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM__Shalia.esp
 cmAbbeyAeryn.esp
+CM Alexander.esp
+% {{BASH:Hair,NpcFaces}}
+: Xenius' Deus Obscura race 
 cmBellenia.esp
 CM Boromir.esp
 % {{BASH:Graphics,NpcFaces}}
@@ -15036,6 +15032,9 @@ bgIntegrationEV Vwalk.esp
 \'''''''''''''''''''''''''
 
 Appler's Passive Birthsigns.esp
+Custom_Birthsigns_Chris.esp
+Rebalanced Races and Birthsigns.esp
+Birthsigns Revamped.esp
 Blademan's Better Birthsigns.esp
 Blademan's New Birthsigns - Part A.esp
 Blademan's New Birthsigns - Part B.esp
@@ -15045,9 +15044,6 @@ Blademan's New Birthsigns - Part E.esp
 Blademan's New Birthsigns - Addition 1.esp
 Blademan's New Birthsigns - Addition 2.esp
 Blademan's New Birthsigns - Addition 3.esp
-Custom_Birthsigns_Chris.esp
-Rebalanced Races and Birthsigns.esp
-Birthsigns Revamped.esp
 sr_race_balance_tweaks.esp
 Trap.esp
 % {{BASH:R.Attributes-F,R.Attributes-M,R.ChangeSpells,R.Description,R.Relations,R.Skills}}

@@ -2091,6 +2091,20 @@ OSM-All Genders.esp
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Oblivion Sexualized Monsters-exclu TRM.esm
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
+Nude Humanlike Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan Tweaked.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan HGEC B.esp
+" Oblivion Sexualized Monsters (OSM)
+: HGEC Body replacer
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Male Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+: Robert Male Body v5
+? USE ONE 'nude * Spriggan.esp' ONLY
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -6067,7 +6081,7 @@ OWC - Mannequin.esp
 OWC - Seaworld.esp
 % {{BASH:Delev,Relev}}
 OWC - New Dimension.esp
-% {{BASH:Delev, Relev, Invent, Stats, Hair, Eyes, Names}}
+% {{BASH:Delev,Relev,Invent,Stats,Hair,Eyes,Names}}
 \EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
@@ -6455,6 +6469,7 @@ Smarter Bandits.esp
 \BeginGroup\: Quests Early
 
 Orden des Drachen.esp
+OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
 % {{BASH:Factions}}
@@ -10209,6 +10224,9 @@ OCC-ABE-Patch.esp
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp
+? Do not use with Open Cities Reborn.
+OCR+ULCH Patch.esp
+? Do not use with Open Cities Classic.
 OCC-COBL-Wells.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
@@ -13085,14 +13103,13 @@ BFG's Enhanced Armory.esp
 \Unlikely to interact with other kinds of mods.
 \Includes related mods bundled with OOO and similar optional items from Fran's.
 
-
-AttributePlusX_v1.1.esp
 Druid.esp
-LRM_Generic.esp
-RevolutionarySkills.esp
+
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
 Vanilla_Oblivion_Skill_Rates.esp
+LRM_Generic.esp
 
+AttributePlusX_v1.1.esp
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.
@@ -13247,6 +13264,8 @@ All+5AttributeModifiers.esp
 DMRequirements.esp
 ? Old, update to version 1.4+
 DMRequirements V1.4.esp
+
+RevolutionarySkills.esp
 
 TML_TrainingUncap.esp
 Uncapped Blivvy UHM.esp

@@ -9722,6 +9722,7 @@ MOEVampireClanRaelu-ChorrolHinterland patch.esp
 ? Obsolete. Delete.
 WeynonRetreat-ChorrolHinterland-Patch.esp
 TrailsOfCyrodiil-ChorrolHinterland patch.esp
+HoarfrostCastle-ChorrolHinterland patch.esp
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -9834,6 +9835,7 @@ Zedar-AncientYews patch.esp
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
 WaldnirsWoods-AncientRedwoods patch.esp
+PineLodge-AncientRedwoods patch.esp
 xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 ? Obsolete if using Ancient Redwoods 1.6 or higher.
@@ -9856,6 +9858,7 @@ xulArriusCreek.esp
 Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
 UL_Patch_AncientYews_ArriusCreek DV.esp
+Amen'thalasWellHouse-ArriusCreek patch.esp 
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
@@ -9891,6 +9894,7 @@ goldenarchery-rollinghills fix.esp
 FCOM MWL-RollingHills patch.esp
 MMMMWL-RollingHills patch.esp
 KragenirsDeathQuest-RollingHills patch.esp
+CigarettesRollingHillsFix.esp
 RedcourtCastle-RollingHills patch.esp
 RedcourtCastle-UniqueLandscapes Merged patch.esp
 ? Do not use with RedcourtCastle-RollingHills patch.esp or RedcourtCastle-AncientYews patch.esp
@@ -9957,6 +9961,7 @@ Blood&Mud-CheydinhalFalls patch.esp
 GiftOfKynareth-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
+KvatchRebuilt-CheydinhalFalls patch DV.esp 
 CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Oblivion Collectible Cards UL Cheydinhal Falls Patch.esp

@@ -489,6 +489,10 @@ Beautiful Amazon.esp
 \UOP v3.0.1 or later should be used to fix buggy vanilla quests rather than these -
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
+AtiAAFix.esp
+? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
+AtiAAFix_1C.esp 
+? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
 Black Screen Fix.esp
@@ -2076,6 +2080,7 @@ RK9s Dogs Demo.esp
 RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
+Robe_over_armor.esp 
 Rock Remover - Underwater.esp
 Ring_of_SS_Assist.esp
 Ryk_Onsen.esp
@@ -2204,6 +2209,8 @@ Unlimited.esp
 
 \BeginGroup\: Base V
 
+BetterGold Rus.esp
+% {{BASH:Graphics}}
 VA_BetterGold.esp
 % {{BASH:Graphics}}
 VAs Better Gold with no Menu Icon.esp
@@ -2860,6 +2867,7 @@ Ancient Silver Armor.esp
 Ancient Silver Elven Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
+Arc de Legolas.esp 
 ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arctic_Gear_Improved.esp
@@ -3770,6 +3778,7 @@ LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
 lineagesls.esp
+LisandrasRareBooks.esp 
 LittleCarmine.esp
 Lockbreaker.esp
 LockpickMold.esp
@@ -3794,6 +3803,7 @@ LSB Skull Weapons (Clean).esp
 \BeginGroup\: Items M
 
 m_DwemerEliteArmorWeps.esp
+Mace_of_Vareon.esp 
 Mage Ward.esp
 M&BAxes.esp
 % {{BASH:Invent}}
@@ -3853,6 +3863,7 @@ mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
 MythicDawnTiein - Lite.esp
+MythicDemon Armor V1.0.esp 
 Mythsword.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
@@ -4177,6 +4188,7 @@ Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Even More Male Things.esp
 Slof's Neckchains.esp
+SlofsPillowBook_1C.esp 
 Slof's Robe of the Dark Arts.esp
 Slof's Stuff for Wizards.esp
 Slof's Thunderbird Armour.esp
@@ -8800,6 +8812,8 @@ Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
 Villages1.1.esp
+Villages1.1Male.esp
+Villages1.1Famale.esp
 Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp
 Village of Lily 2.0.esp
@@ -8863,6 +8877,8 @@ Woodland Refuge.esp
 Woodland Rangers.esp
 Woodland-Rangers_DV.esp
 WoodNymph.esp
+WOTFH_1.1.esp 
+? Old Version, update to version 1.3+
 WOTFH_1.2.esp
 ? Old Version, update to version 1.3+
 WOTFH_1.3.esp
@@ -11199,6 +11215,7 @@ Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
+SoulGemCreation_ru.esp 
 
 \BeginGroup\: Sexual Stuff
 AAQv1.esp
@@ -12811,6 +12828,7 @@ M.O.E. - Realistic Law Enforcement - Part One.esp
 M.O.E. - Realistic Law Enforcement - Part Two.esp
 SM Bounty.esp
 CoblDeathFix.esp
+BountyReductionOverTime.esp
 BountyReductionOverTime_standard.esp
 Lem - Bounty Reduction Over Gametime.esp
 No psychic guards v1.1.esp
@@ -13321,6 +13339,7 @@ Conrans Level Rates modified-3x.esp
 Francesco's Slower skills x1.5.esp
 Francesco's Slower skills x2.esp
 Francesco's Slower skills x3.esp
+Francesco's level up mini mod.esp 
 Francesco's level up mini mod - Slower skills x1.5.esp
 Francesco's level up mini mod - Slower skills x3.esp
 Francesco's level up mini mod - Slower skills x2.esp
@@ -13724,6 +13743,8 @@ elveons realistic eyes.esp
 % {{BASH:Eyes}}
 Cernasite - DragonEyes.esp
 % {{BASH:Eyes}}
+Cernasite - DragonEyes - GE.esp
+% {{BASH:Eyes}}
 JCPeepers.esp
 % {{BASH:Eyes}}
 Koldorns Eye Mod.esp
@@ -13933,6 +13954,8 @@ Manga Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 " Cute Sexy Elves.esp which is an older version of same race
 _Ren_BeautyPack_full.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+_Ren_BeautyPack_full_RW.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full_-_1.1_DV.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
@@ -14189,6 +14212,8 @@ ahtata Ork.esp
 Arabian Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ash Elves.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Ancient Elven Sorcerer.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Ancient Elven Sorcerer - EV.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -16117,7 +16142,6 @@ MiniMap.esp
 soundfix_DV.esp
 MrPwner's Falling.esp
 KSE_v3.esp
-
 
 OOO-Magic_Script_Effect_Fix.esp
 % {{BASH:Sound,Graphics}}

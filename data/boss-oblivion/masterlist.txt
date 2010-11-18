@@ -13033,22 +13033,42 @@ ptThrowingWeapons.esp
 
 CombatWarning.esp
 
+Deadly Reflex - Timed Block + Higher Damage.esp
+? Old version - update to v5 or later.
+Deadly Reflex - Timed Block no other changes.esp
+? Old version - update to v5 or later.
+DeadlyReflex - Timed Block + Very High Damage.esp
+? Old version - update to v5 or later.
+Mounted_Spellcasting Deadly Reflex Compatible.esp
+? Old version - upgrade to v6 or later.
+
 Deadly Reflex 5 - Timed Block.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Timed block and 150% damage.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Timed Block and 250% damage.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Timed block and 1.5x damage.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Timed Block and 2.5x damage.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
-? Use no more than one Timed Block ESP.
+? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Combat Moves.esp
 ? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
 DeadlyReflex 5 - Combat Moves.esp
 ? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
+
+Deadly Reflex 6 - Timed Block with no damage or durability changes.esp
+? Use no more than one Timed Block plugin.
+Deadly Reflex 6 - Timed block and 150% damage.esp
+? Use no more than one Timed Block plugin.
+Deadly Reflex 6 - Timed Block and 250% damage.esp
+? Use no more than one Timed Block plugin.
+Mounted_Spellcasting_Deadly_Reflex_Compatible.esp
+DRSplatter.esp
+: OBGEv2.
+
 SM_DeadlyReflex.esp
 
 Deadly Reflex Bow Sway.esp
@@ -16176,6 +16196,12 @@ Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 UnnecessaryViolence.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
+DeadlyReflex - Combat Moves.esp
+? Old version - update to v5 or later.
+DeadlyReflex 6 - Combat Moves.esp
+% {{BASH:Graphics}}
+\preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
+
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Real Hunger, Cobl.esp
@@ -16301,19 +16327,7 @@ Bashed Patch, Test.esp
 CybBPcompatibility.esp
 Creeper.esp
 
-DeadlyReflex - Combat Moves.esp
-? Old version - update to v5 or later.
-Deadly Reflex - Timed Block + Higher Damage.esp
-? Old version - update to v5 or later.
-Deadly Reflex - Timed Block no other changes.esp
-? Old version - update to v5 or later.
-DeadlyReflex - Timed Block + Very High Damage.esp
-? Old version - update to v5 or later.
-
 Mart's Monster Mod - Diverse Runeskulls Loot beta Place After Bashed Patch.esp
-Mounted_Spellcasting Deadly Reflex Compatible.esp
-? Mounted Spellcasting is not compatible with version 5 of Deadly Reflex.
-? Try FlyFightFleas Mounted Combat OBSE until DR Horse Combat is updated: http://www.tesnexus.com/downloads/file.php?id=8962
 
 SWalk.esp
 no_mouse_wheel.esp

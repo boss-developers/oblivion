@@ -491,7 +491,7 @@ Beautiful Amazon.esp
 
 AtiAAFix.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
-AtiAAFix_1C.esp 
+AtiAAFix_1C.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 nVidia Black Screen Fix.esp
 ? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
@@ -2082,7 +2082,7 @@ RK9s Dogs Demo.esp
 RMShieldOnBack.esp
 RoadSigns.esp
 Robes Under Armor.esp
-Robe_over_armor.esp 
+Robe_over_armor.esp
 Rock Remover - Underwater.esp
 Ring_of_SS_Assist.esp
 Ryk_Onsen.esp
@@ -2779,11 +2779,13 @@ avarm.esp
 000torturearmorbw.esp
 01_SenTinel's Katanas.esp
 % {{BASH:Invent}}
+0FHuntress.esp
 0FPetroBootsHGEC.esp
 
 1.4TheAtlanteanSword.esp
 1.4TheAtlanteanSword_leather.esp
 1.4TheAtlanteanSword2h_leather.esp
+1AlexscorpionSilverDragonKatana.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1BDSword [ENG].esp
@@ -2842,6 +2844,7 @@ Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH:Invent}}
 AkatoshHead.esp
+Akorithi's Jade Bow.esp
 Alliria_CRP_Weapon&Armor.esp
 alllll61-Saint Silver armor.esp
 Saint_Silver_Armor.esp
@@ -2869,7 +2872,7 @@ Ancient Silver Armor.esp
 Ancient Silver Elven Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
-Arc de Legolas.esp 
+Arc de Legolas.esp
 ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arctic_Gear_Improved.esp
@@ -2958,6 +2961,7 @@ AlternateDwarvenHelmet.esp
 AlternativeLightArmors12.esp
 AlternativeLightArmors1.2.esp
 Animated Staves.esp
+AS_ElvenStrappedbyFlonne.esp
 ASlof'sBraceletsandClaws.esp
 AW_Wings.esp
 AW_LeatherArmor.esp
@@ -3136,6 +3140,7 @@ Brigand's Gear.esp
 % {{BASH:Invent}}
 BryntrollTheBoneArbitor.esp
 Burningweapons.esp
+bustersword.esp
 Buster Sword R.esp
 BrivasArmor.esp
 BW Armory.esp
@@ -3154,6 +3159,7 @@ Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
 CB Gothic Mistress.esp
+CheatsBook.esp
 Chin CatSuit.esp
 CET_Crossbow.esp
 CET_DwemerPrecisionBow_v2.esp
@@ -3239,6 +3245,7 @@ CasquetteCamisoleX117.esp
 
 \BeginGroup\: Items D
 
+Daethic Armor.esp
 dagger_o_a.esp
 DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
@@ -3350,6 +3357,7 @@ Nico's Dreadweave Armor_light.esp
 Nicos Dreadweave Armor_Light.esp
 Nico's Dreadweave Armor_heavy.esp
 Nico's Dreadweave Bow and Arrows.esp
+Drizzt Blades.esp
 dwr.esp
 % {{BASH:Invent}}
 DWTPlugin.esp
@@ -3434,7 +3442,7 @@ FalxMod.esp
 % {{BASH:Invent}}
 fang-flakpak.esp
 Fans for Helain.esp
-Fantasy Lingerie.esp 
+Fantasy Lingerie.esp
 Fantasy Mod.esp
 % {{BASH:Hair,Eyes}}
 FashionAnvil.esp
@@ -3443,6 +3451,7 @@ FB_Dark_Crusader_01.esp
 % {{BASH:Invent}}
 FB_Dark_Crusader_Dynamis.esp
 FB_Dark_Crusader_Longbow_01.esp
+FB_DC_Holy_Shadow_Buckler.esp
 FB_DC_Mega_Pack_OMOD.esp
 % {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
@@ -3456,6 +3465,8 @@ Female Helmet Replacer.esp
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
+FF7 Weapons.esp
+FinalFantasy10BrotherhoodSword.esp
 FinalFantasy10BrotherhoodswordNEW.esp
 FineWeapons.esp
 % {{BASH:Graphics}}
@@ -3503,6 +3514,7 @@ Ghost Rider Helmet.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
 GizDredfireOB.esp
+Gizmodian Aurora Blade.esp
 Gizmodian - Shell of the Artifice.esp
 Gizmodian - Shell of the ArtificeUFF.esp
 Gizmodian - Vicious Heart.esp
@@ -3525,6 +3537,7 @@ Golden Arrows of the Serpent.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
 GothFreak's Celtic Rings and Swords.esp
+Grenth Set.esp
 GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 GothicGirls.esp
@@ -3633,6 +3646,7 @@ HotApparatus.esp
 \BeginGroup\: Items I
 
 It's A Wig!.esp
+icearmor.esp
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 IcingDeath.esp
@@ -3737,6 +3751,7 @@ Kohdi Ankewan-Anesphar Delayer.esp
 ? Old, update to latest version.
 Kohdi Ankewan-Anesphar Delayer v2.esp
 KohdiLessFrustratingArrows.esp
+KohdiScimitar.esp
 kolovian_robes.esp
 KORE- Salient Daggers.esp
 Krakens.esp
@@ -3780,7 +3795,7 @@ LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
 lineagesls.esp
-LisandrasRareBooks.esp 
+LisandrasRareBooks.esp
 LittleCarmine.esp
 Lockbreaker.esp
 LockpickMold.esp
@@ -3805,7 +3820,7 @@ LSB Skull Weapons (Clean).esp
 \BeginGroup\: Items M
 
 m_DwemerEliteArmorWeps.esp
-Mace_of_Vareon.esp 
+Mace_of_Vareon.esp
 Mage Ward.esp
 M&BAxes.esp
 % {{BASH:Invent}}
@@ -3823,6 +3838,7 @@ maidarmorRetexKABOPAN.esp
 Marine Bunny.esp
 Masks.esp
 Materia.esp
+mECB_Collection.esp
 Medieval leather armors.esp
 Midlander.esp
 Midlander_HGEC.esp
@@ -3858,6 +3874,7 @@ MODForestElfRangerOutfit_RS.esp
 MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morniel_SpecialItem.esp
+Multicolored_Glass.esp
 MuffinGoldenDishes.esp
 MWorcisharmor.esp
 mycastle.esp
@@ -3865,7 +3882,7 @@ mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
 MythicDawnTiein - Lite.esp
-MythicDemon Armor V1.0.esp 
+MythicDemon Armor V1.0.esp
 Mythsword.esp
 MC_Staff_Pack.esp
 MC_Staff_Pack_NoLL.esp
@@ -3879,6 +3896,7 @@ M16A2_With_m203.esp
 
 \BeginGroup\: Items N
 
+naginata.esp
 Naruto items.esp
 Nature's_bounty.esp
 Natures_Arsenal.esp
@@ -3898,6 +3916,7 @@ Nicoroshi Creations DW Light.esp
 Nicoroshi Creations DW heavy.esp
 Nico's Daes' Rakan Swords.esp
 Nico's  Daes' Rakan Swords.esp
+Nicos Dread Doomshard Bow.esp
 Nicos Scimitars.esp
 Nicos  Scimitars.esp
 Nicos Scimitars Back.esp
@@ -4028,6 +4047,7 @@ Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
+raziel's crystal equipment.esp
 Raziel_Apperal.esp
 Raziel Training Dummy BETA.esp
 RDAyleidArmour.esp
@@ -4056,6 +4076,7 @@ Rotating Mace.esp
 Royal Daedric Armor.esp
 RRSeifuku.esp
 RRWeapos&Armors.esp
+Ruby Rose Armor.esp
 RuLZ Weapons.esp
 Rum1.esp
 Running4Cover's Welkynd Armors - Free.esp
@@ -4089,6 +4110,7 @@ RZWPortableCandles.esp
 \BeginGroup\: Items S
 
 SaberCloth.esp
+Saber's Doublekatanas.esp
 Sacredblade.esp
 Saint Hiryu's Artifacts.esp
 % {{BASH:Invent}}
@@ -4190,7 +4212,7 @@ Slof's Male Clothing.esp
 Slof's More Male Stuff.esp
 Slof's Even More Male Things.esp
 Slof's Neckchains.esp
-SlofsPillowBook_1C.esp 
+SlofsPillowBook_1C.esp
 Slof's Robe of the Dark Arts.esp
 Slof's Stuff for Wizards.esp
 Slof's Thunderbird Armour.esp
@@ -4504,6 +4526,7 @@ Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
 wrathofmagic.esp
+Wulfharths Fury.esp
 Wyverex's - Runes by DJ.esp
 \EndGroup\\
 
@@ -6948,7 +6971,9 @@ Better Benirus Manor - Interior Only - AN-II Patch.esp
 Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp
 Better Benirus Manor - AN Patch - Natural.esp
 Better Benirus Manor - AN Patch - Bright.esp
+Better Benirus Manor - SYS Patch.esp
 Better Rosethorn Hall.esp
+Better Rosethorn Hall - Cobl Patch.esp
 Better Shady Sam.esp
 Best Defense.esp
 Better Elven Gardens.esp
@@ -8882,7 +8907,7 @@ Woodland Refuge.esp
 Woodland Rangers.esp
 Woodland-Rangers_DV.esp
 WoodNymph.esp
-WOTFH_1.1.esp 
+WOTFH_1.1.esp
 ? Old Version, update to version 1.3+
 WOTFH_1.2.esp
 ? Old Version, update to version 1.3+
@@ -9798,7 +9823,7 @@ xulBravilBarrowfields Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 LostSpires-BravilBarrowfields patch.esp
 ? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
-TonaSimpleDressArmor-BravilBarrowfields patch.esp 
+TonaSimpleDressArmor-BravilBarrowfields patch.esp
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
 ColdstoneTown-BravilBarrowfields patch.esp
@@ -9858,7 +9883,7 @@ xulArriusCreek.esp
 Unique Landscapes - ArriusCreek DV.esp
 xulPatch_AY_AC.esp
 UL_Patch_AncientYews_ArriusCreek DV.esp
-Amen'thalasWellHouse-ArriusCreek patch.esp 
+Amen'thalasWellHouse-ArriusCreek patch.esp
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
@@ -9961,7 +9986,7 @@ Blood&Mud-CheydinhalFalls patch.esp
 GiftOfKynareth-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
-KvatchRebuilt-CheydinhalFalls patch DV.esp 
+KvatchRebuilt-CheydinhalFalls patch DV.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Oblivion Collectible Cards UL Cheydinhal Falls Patch.esp
@@ -10519,7 +10544,9 @@ BMC Chrome Ebony.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
 Enchanted Portable Tent.esp
 Enchanted Portable Tent non-Cobl.esp
+Enchanted Portable Tent - AN Patch.esp
 Enchanted Portable Tent - See You Sleep Patch.esp
+Enchanted Portable Tent - SYS Patch.esp
 Bonds Big Portable Tent.esp
 phinix_portable_tent.esp
 Tent.esp
@@ -10991,6 +11018,8 @@ more rewarding loot list.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
 MWStyleSpriggansV.1.2.esp
+More Lockpicks.esp
+? If using with an overhaul such as OOO (or many other mods) really should use Wrye Bash or you'll have loss of some leveled list changes.
 More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
@@ -11225,7 +11254,7 @@ Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
-SoulGemCreation_ru.esp 
+SoulGemCreation_ru.esp
 
 \BeginGroup\: Sexual Stuff
 AAQv1.esp
@@ -11587,6 +11616,7 @@ Toggleable Quantity Prompt.esp
 ATakesAll.esp
 dyseso_PromptAt2Items.esp
 Lyn-DontAskMeHowMany.esp
+TML_InfiniteCharges.esp
 TML_WieldableTorches_v10.esp
 tona_underwear.esp
 Tona Compilation.esp
@@ -12488,6 +12518,8 @@ Midas Reduced Costs Quarter.esp
 Midas Reduced Costs 3 Quarters.esp
 ? Use only one Reduced Costs module at a time
 Mart's Monster Mod - Midas Creature Ingredients.esp
+% {{BASH:Names}}
+AncientTowersMidasLab.esp
 FrostcragMidasLab.esp
 
 Mighty for Midas - Rational.esp
@@ -12568,6 +12600,7 @@ Scaled_Summons-6068.esp
 Secrets of the Stones.esp
 Soulcraft.esp
 SorcerysToll.esp
+StealthierMagic.esp
 sr_spell_deletion.esp
 Spellbooks.esp
 Wizard'sSpellBook.esp
@@ -12603,7 +12636,13 @@ Miniature Necromancy Revised.esp
 ? Do not have Jpm's original active at the same time as this.
 TheDarkArts.esp
 
+Magicka Regen x1.2.esp
+Magicka Regen x1.4.esp
+Magicka Regen x1.6.esp
+Magicka Regen x1.8.esp
 Magicka Regen x2.esp
+Magicka Regen x4.esp
+Magicka Regen x8.esp
 Magicka_Fortification.esp
 Magicka_Fortification_100.esp
 SigilStoneSelector.esp
@@ -13325,6 +13364,8 @@ Uncapped Blivvy U.esp
 Uncapped Blivvy M.esp
 Uncapped Blivvy H.esp
 Uncapped Blivvy HM.esp
+UnlimitedTraining+x5traincost.esp
+UnlimitedTraining.esp
 
 Toaster's Legendary Skills.esp
 ? Use this plugin instead of 'Toaster's Legendary Skills & Stats.esp' if you have any problems with the stats.
@@ -13369,7 +13410,7 @@ Conrans Level Rates modified-3x.esp
 Francesco's Slower skills x1.5.esp
 Francesco's Slower skills x2.esp
 Francesco's Slower skills x3.esp
-Francesco's level up mini mod.esp 
+Francesco's level up mini mod.esp
 Francesco's level up mini mod - Slower skills x1.5.esp
 Francesco's level up mini mod - Slower skills x3.esp
 Francesco's level up mini mod - Slower skills x2.esp
@@ -14448,7 +14489,7 @@ CM__Shalia.esp
 cmAbbeyAeryn.esp
 CM Alexander.esp
 % {{BASH:Hair,NpcFaces}}
-: Xenius' Deus Obscura race 
+: Xenius' Deus Obscura race
 cmBellenia.esp
 CM Boromir.esp
 % {{BASH:Graphics,NpcFaces}}
@@ -14909,6 +14950,7 @@ bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
 \EndGroup\\
 TamrielTravellers Cosmetics Cobl or RBP.esp
+% {{BASH:NoMerge,NpcFaces}}
 SkinMannequinCOBL-sleep.esp
 SkinMannequinCOBL-nosleep.esp
 \EndGroup\\
@@ -15275,10 +15317,12 @@ BCSkingrad-SkingradOutskirts patch.esp
 ? Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.
 Better Cities - Unique Landscape Skingrad Outskirts.esp
 % {{BASH:C.Water}}
+Better Cities - Skyrim Nords.esp
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
+Better Cities - Werewolf-Legends.esp
 
 Better Cities - VWD of the IC.esp
 

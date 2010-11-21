@@ -14048,6 +14048,8 @@ Playable Flame Atronach.esp
 Riflers Races.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Sadran.esp
+Salutrian Elves.esp
+% {{BASH:NpcFaces,Eyes,Graphics,Hair,R.Attributes-F,R.Attributes-M,R.Description,R.Ears,R.Head,R.Mouth,R.Skills,R.Teeth}}
 Slof's Playable Xivilai.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 " OOO, MMM or FCOM: Xivilai won't appear. Patch planned.
@@ -14725,6 +14727,8 @@ Nec Character Eva-Remake.esp
 % {{BASH:Hair,Eyes}}
 Olga.esp
 % {{BASH:Hair,Eyes}}
+OrenCM.esp
+% {{BASH:Graphics,Hair,NPCFaces}} 
 PetsOfChorrol.esp
 % {{BASH:Hair,Eyes}}
 Ramy Enfant.esp

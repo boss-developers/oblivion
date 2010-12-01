@@ -386,10 +386,10 @@ Oblivion_SI Vwalk Full TNR.esp
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 ? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
@@ -5476,6 +5476,7 @@ Cheat Bob's Armory Oblivion.esp
 Bob's Armory OblivionRU.esp
 FCOM_BobsArmory.esp
 : 'Bob's Armory Oblivion.esp'.
+% {{BASH:Relev,Delev}}
 
 Loth's Blunt Weapons.esp
 * Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' and 'FCOM_LothsBluntWeapons.esp'.
@@ -5487,11 +5488,11 @@ FCOM_LothsBluntWeapons.esp
 : 'Loths Blunt Weapons for NPCs.esp'.
 
 Oblivion WarCry.esp
-% {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
+% {{BASH:Actors.ACBS,Actor.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 * Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
 Oblivion WarCry EV.esp
-% {{BASH:Actors.ACBS,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
+% {{BASH:Actors.ACBS,Actor.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
 % {{BASH:Delev,Relev,Stats}}

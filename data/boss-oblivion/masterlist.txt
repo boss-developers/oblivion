@@ -528,6 +528,7 @@ ArenaChampionHotfix.esp
 vampirescriptfix.esp
 object_placement.esp
 ? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
+PRO64-BrumaFix.esp
 CaeliaDraconisFix.esp
 sulinus fix.esp
 sva_testFixBruma.esp
@@ -9121,6 +9122,8 @@ FrostcragAlchemySorter.esp
 DLCFrostcrag_OOO.esp
 DLCFrostcragMysticEmporiumPatch.esp
 DLCFrostcrag_MysticEmporiumPatch.esp
+brumaguild.esp
+Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
 OCBruma+BrumaMGRestored Patch.esp
 BrumaMGRestored Rwalk.esp

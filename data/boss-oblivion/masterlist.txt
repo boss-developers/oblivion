@@ -1321,6 +1321,7 @@ AliveWaters_nofish.esp
 MoreLive_AliveWatersRedone.esp
 MoreLive_AliveWatersRedone_Koi.esp
 MoreLive_AliveWatersRedone_Slaughterfish.esp
+MoreLive_Mudcrabs.esp
 
 Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
@@ -3187,6 +3188,7 @@ ChunliClothes.esp
 CM_Better Wine.esp
 % {{BASH:Graphics,Deactivate}}
 CM_Better Wine_SI.esp
+CM_Redguard_Scaled_Armor.esp
 Collectible Figurines.esp
 Collectible T-Shirts V1.0.esp
 Collectible T-Shirts V1.1.esp
@@ -3881,6 +3883,7 @@ Model Man Ninja Breaker.esp
 MODForestElfRangerOutfit_RS.esp
 MODMassClothes.esp
 mordSithArmorAndAgiel.esp
+Morrigan God-like Armor.esp
 Morniel_SpecialItem.esp
 Multicolored_Glass.esp
 MuffinGoldenDishes.esp
@@ -3961,6 +3964,7 @@ Nico's Quinga Bows.esp
 Nicoroshi's Bows.esp
 Doomshard Bow.esp
 DoomshardBow_1C.esp
+Nico's Dreadweave Axes.esp
 Nicos Dreadweave Compilation.esp
 ? Deactivate 'Nicos Daes Rakan Swords 1.2'
 ? Deactivate 'Nicos Dreweave Axes 1.2'
@@ -4040,6 +4044,7 @@ Priestess_of_Dibella_HGEC.esp
 Priests of Dibella.esp
 PTArtifacts.esp
 Phitts-Artifacts_DV.esp
+PTRepairKits.esp
 PureSteelBlade.esp
 PythonHolyhg.esp
 \EndGroup\\
@@ -4423,6 +4428,7 @@ trfjEmpireGreatsword.esp
 trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
+TRSAssassinBoots.esp
 TS3_Arcanery.esp
 TTB.esp
 Tyrael Armor.esp
@@ -7428,7 +7434,7 @@ FF_WaldnirsWoods.esp
 Fighting Chance.esp
 FishermanRock_Hideout.esp
 FiveBlindMiceBeta.esp
-? Beta. Some problems reported: eg floating door outside of the Wawnet Inn.
+? Versions under 1.3 are Beta and have Some problems reported: eg floating door outside of the Wawnet Inn. 1.3+ should be fine.
 FMan-CityIsleBridges.esp
 Forgotten Tomb.esp
 Forgrum's Travelogue.esp
@@ -8021,11 +8027,8 @@ Lynges_Absolute_Freedom-9880.esp
 Lyn-AnvilAbandonedHouse.esp
 Lynges_Dark_Brotherhood_Assassins-8654.esp
 Lyn-GnollMountain.esp
-: 'Unscaled Loot and Encounters.esp'
 Lynges_Gnoll_Mountain.esp
-: 'Unscaled Loot and Encounters.esp'
 Lynges_Gnoll_Mountain-8117.esp
-: 'Unscaled Loot and Encounters.esp'
 Lilarcor.esp
 \EndGroup\\
 
@@ -10685,6 +10688,7 @@ Cultural Secrets.esp
 
 CUO_Dwemer.esp
 CUO_FightersGuildContracts_SAFE.esp
+Fighters Guilds Contracts.esp
 CUO_MerchantsGuild_SAFE.esp
 CUO_MerchantUpdate_SAFE.esp
 CUO_UnLeveledPotions.esp
@@ -15068,6 +15072,7 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
 \BeginGroup\: Post Magicka Overhaul
 \'''''''''''''''''''''
 
+All Spells Avalible for Enchanting and Spell Making.esp
 Bound_Arrows_with_Bow.esp
 CzBuyToggleNightEye.esp
 cidnothump.esp

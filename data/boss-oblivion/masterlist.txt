@@ -7937,6 +7937,7 @@ LE_search.esp
 Legends Baleful Eye.esp
 Legion Faction Mod.esp
 % {{BASH:Relations}}
+? Warning: This mod deletes several important vanilla dialogue entries. They will need to be repaired via TES4Edit to avoid possible CTDs.
 Lost Grove.esp
 Love Suite Room.esp
 Lem - Celestial Lagoon.esp

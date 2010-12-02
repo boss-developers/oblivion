@@ -1459,6 +1459,7 @@ Ultimate 3rd Person Camera.esp
 VanityCameraSmoother.esp
 VanityCamera Smoother.esp
 Vanitycamlesswait.esp
+VipCxj_BulletCamera.esp
 kuerteeAutoFirstThirdPersonView.esp
 EnableFreeLook.esp
 EnableFreeLookNoWheel.esp
@@ -3515,6 +3516,7 @@ GhostArmor.esp
 Ghost Rider Helmet.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
+GizBladeset01OB.esp
 GizDredfireOB.esp
 Gizmodian Aurora Blade.esp
 Gizmodian - Shell of the Artifice.esp
@@ -8233,6 +8235,7 @@ Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
 Vampire Hunting - Order Of The Virtuous Blood.esp
+% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 OSE - Outlook.esp
@@ -8672,6 +8675,7 @@ The Reluctant Ranger REVAMPED.esp
 " Better Cities.
 The Power of the North.esp
 The Retreat.esp
+TheSiegeofMalat.esp
 The Siren's Deception.esp
 The Spirit Of The Wolf.esp
 The_Dragon_Citadel-6178.esp
@@ -8737,6 +8741,7 @@ Trail  WEST.esp
 Trail  EAST.esp
 Trail  Central.esp
 Trails of Cyrodiil -  Colovian Highland Vanilla.esp
+Trails of Cyrodiil North Short Cut.esp
 TrainerFind.esp
 Tramps.esp
 % {{BASH:Relev}}
@@ -8768,6 +8773,8 @@ Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
 " UL mod(s).
 Treasure Maps Revenge Of The Nords.esp
 " UL mod(s).
+Treasuresofthedeep.esp
+: OOO.
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
 Tropical Island.esp
@@ -8832,6 +8839,8 @@ VaultsofCyrodiil.esp
 VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
 VaultsOfTheAyleids.esp
+VRIceOrcMod.esp
+: Elys USV or the dialogue will go by very fast.
 Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
@@ -8839,6 +8848,7 @@ Versus Dark Brotherhood.esp
 Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
+% {{BASH:Actors.AIData,Actors.AIPackages}}
 VHBloodlines 1.2 Vwalk.esp
 ? Override merge animations – does not seem to work properly for VH Bloodlines.
 ? Mark Mergeable and deactivate
@@ -9522,6 +9532,8 @@ ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
 % {{BASH:Body-F}}
+Elsweyr plantations & co..esp
+: ElsweyrAnequina.esp
 Elsweyr plantations & co. Southland Plantation.esp
 : ElsweyrAnequina.esp
 Rimmen.esp
@@ -12827,6 +12839,7 @@ UOE-attack and hide easier v2.1.esp
 attack and hide harder v2.1.esp
 UOE-attack and hide harder v2.1.esp
 LFox No Trespassing.esp
+PTSneakPenalties.esp
 Resist Arrest Increases Bounty.esp
 StealthOverhaul.esp
 Stealth Overhaul.esp
@@ -15193,6 +15206,7 @@ Cobl Races - Balanced.esp
 % {{BASH:Body-F,Body-M,Eyes,Hair,R.Relations,R.Description,R.Skills,R.Attributes-F,R.Attributes-M,R.ChangeSpells}}
 ? Do not use with RBP.
 Cobl Balanced Races - MMR Patch.esp
+Cobl Races Ren Names Fix.esp
 Diverse Races.esp
 % {{BASH:Body-F,Body-M}}
 Better_Berserk-2177.esp

@@ -10003,6 +10003,7 @@ xulImperialIsle Swalk.esp
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
+? Obselete - update to version 2.2.1 of BladeOfTheHaunted.esp, then disable/remove this esp.
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
@@ -12139,6 +12140,7 @@ StarX VVR_OOO_FCOM Patch.esp
 Starx-OVB Patch.esp
 MJA Vampire Improvements.esp
 New Vampire Feeding Sound.esp
+LGVampire.esp
 JaySuS-Vampire-Mod-MKV-V3.8.esp
 KT_VampSightToggleNoEff.esp
 KINewVampires.esp
@@ -16232,6 +16234,8 @@ Shining Creatures_DLCFrostcrag.esp
 \BeginGroup\: Pre Bash
 \--------
 
+a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp
+{{BASH:Body-F,Body-M,Graphics,R.Ears,R.Head,R.Mouth,R.Teeth,Voice-F,Voice-M}}
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DeadlierDarkBrotherHood.esp

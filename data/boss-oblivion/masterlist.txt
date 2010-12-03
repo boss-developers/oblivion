@@ -529,6 +529,8 @@ vampirescriptfix.esp
 object_placement.esp
 ? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
 PRO64-BrumaFix.esp
+The Finger of the Mountain Fix.esp
+? Probably included in UOP. Included in Quest Award Leveller.
 CaeliaDraconisFix.esp
 sulinus fix.esp
 sva_testFixBruma.esp
@@ -2136,6 +2138,7 @@ ShieldOnBack_GOTY_1C.esp
 1HweaponOnBack.esp
 ? Obsolete. Upgrade to latest version.
 shiveringislesdoorusable.esp
+SINecropolis.es
 ShowHideAmulet.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
@@ -2523,6 +2526,7 @@ skycaptains NPCFF.esp
 SM Soul Delete.esp
 Spell Delete.esp
 Spell Delete And Item Remove.esp
+StatCleaner.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
@@ -3289,6 +3293,7 @@ daedric sky armor.esp
 Daedric Trap Weapons.esp
 Daemon Queen Garb.esp
 Dalls_Anduril.esp
+Dalls_BlackBow.esp
 Dalls_Blood_Fang.esp
 Dalls_Fireglow_Weapons.esp
 Dalls_Rings_n_Amulets.esp
@@ -14552,6 +14557,7 @@ CM Companion Jessica Alba.esp
 % {{BASH:Hair,Eyes}}
 CM Companion Megan Fox.esp
 % {{BASH:Hair,Eyes}}
+CM Hoarfrost Castle Guard.esp
 CM_LoreleiU.esp
 % {{BASH:Hair,Eyes}}
 cm lula wild.esp
@@ -14659,31 +14665,51 @@ cssJeremiah.esp
 cssJaKhaiitMyr.esp
 
 1em_Vilja.esp
+1em_Vilja Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Argonian.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Argonian Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Chocolate_Elf.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Chocolate_Elf Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Custom_by_Gonzoguns.esp
 : Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=25524">Abriael Human Races Revamped</a>, the ESP file is not required.
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Custom_by_Gonzoguns Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Custom_by_4GVN.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Custom_by_4GVN Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Custom_by_Xtudo.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Custom_by_Xtudo Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_High_Imperial.esp
 : Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=33044">Deathknowz's High Imperials Race</a> (all three files), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_High_Imperial Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Moonshadow_Elf_MU.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Moonshadow_Elf_MU Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Moonshadow_Elf_Stranger.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Moonshadow_Elf_Stranger Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Vampire.esp
 ? Choose only ONE customization for Vilja.
+1em_Vilja_as_Vampire Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja_as_Tabaxi.esp
 ? Choose only ONE customization for Vilja.
-
-1em_Vilja Vwalk.esp
+1em_Vilja_as_Tabaxi Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp

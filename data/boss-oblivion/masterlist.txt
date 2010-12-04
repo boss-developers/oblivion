@@ -1486,37 +1486,6 @@ Rational Names, 2.esp
 
 Countess Wear Gowns 1.1.esp
 
-CNRP Brumav02.esp
-% {{BASH:Invent}}
-$ With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
-CNRP Bruma4OOO.esp
-% {{BASH:Invent}}
-CNRP Chorrol.esp
-% {{BASH:Invent}}
-$ With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
-CNRP Chorrol4OOO.esp
-% {{BASH:Invent}}
-CNRP FightersGuild.esp
-$ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
-% {{BASH:Invent}}
-CNRP FightersGuild4OOO.esp
-% {{BASH:Invent}}
-CNRP DB.esp
-% {{BASH:Invent,Graphics}}
-$ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
-CNPR DB for OOO.esp
-% {{BASH:Invent,Graphics}}
-/looks like a mispelling but listed on the mod page as such so maybe?
-CNRP DB for OOO.esp
-% {{BASH:Invent,Graphics}}
-CNRP FB for OOO.esp
-% {{BASH:Invent}}
-CNRP Cheydinhal.esp
-% {{BASH:Invent}}
-$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
-CNRP Cheydinhal4OOO.esp
-% {{BASH:Invent}}
-
 SNR Fighter Guild UFF.esp
 % {{BASH:Hair,Eyes,Invent}}
 ? Make sure to install the additional mods (listed in the readme).
@@ -2138,7 +2107,7 @@ ShieldOnBack_GOTY_1C.esp
 1HweaponOnBack.esp
 ? Obsolete. Upgrade to latest version.
 shiveringislesdoorusable.esp
-SINecropolis.es
+SINecropolis.esp
 ShowHideAmulet.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
@@ -5099,6 +5068,8 @@ Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
+HGEC_Companionmail.esp
+FB_DC_Mega_Pack_OMOD_BC1_H.esp
 
 ArynnsDrowWitchHGEC.esp
 Arynns-Heavenly-Sword_HGEC-sexy.esp
@@ -5163,6 +5134,8 @@ Slof's Horses HA Essential.esp
 Slof's Extra Horses.esp
 % {{BASH:Graphics}}
 Slof's Black Unicorn.esp
+% {{BASH:Graphics}}
+Slof's Nightmare.esp
 % {{BASH:Graphics}}
 HS-Horse.esp
 % {{BASH:Graphics}}
@@ -5592,6 +5565,7 @@ OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 
 a4sFlamingNightmare-OOO.esp
 % {{BASH:Graphics,Scripts,ScriptContents}}
+Vanilla House Prices for OOO.esp
 Boethia_OOO.esp
 
 Alluring Potion Bottles.esp
@@ -6454,6 +6428,38 @@ un-leveled-shops.esp
 
 \BeginGroup\: Post Overhaul
 \'''''''''''''
+\BeginGroup\: CNRP
+CNRP Brumav02.esp
+% {{BASH:Invent}}
+$ With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
+CNRP Bruma4OOO.esp
+% {{BASH:Invent}}
+CNRP Chorrol.esp
+% {{BASH:Invent}}
+$ With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
+CNRP Chorrol4OOO.esp
+% {{BASH:Invent}}
+CNRP DB.esp
+% {{BASH:Invent,Graphics}}
+$ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
+CNPR DB for OOO.esp
+% {{BASH:Invent,Graphics}}
+/looks like a mispelling but listed on the mod page as such so maybe?
+CNRP DB for OOO.esp
+% {{BASH:Invent,Graphics}}
+CNRP FB for OOO.esp
+% {{BASH:Invent}}
+CNRP Cheydinhal.esp
+% {{BASH:Invent}}
+$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
+CNRP Cheydinhal4OOO.esp
+% {{BASH:Invent}}
+CNRP FightersGuild.esp
+$ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
+% {{BASH:Invent}}
+CNRP FightersGuild4OOO.esp
+% {{BASH:Invent}}
+\EndGroup\\
 
 dangerous wilderness.esp
 % {{BASH:Delev,Relev}}
@@ -13380,7 +13386,6 @@ Progress - RacialAdvancement.esp
 PureImmersion.esp
 piHealth5x.esp
 piHealthVanilla.esp
-RealisticLeveling.esp
 Immediate Character Generation.esp
 Automatic Spell Learning.esp
 NaturalMagicSkillsInceases_v2.0.esp
@@ -13487,6 +13492,7 @@ DPCSRealisticLeveling.esp
 phat39s trainaholic-10.esp
 phat39s trainaholic-15.esp
 phat39s trainaholic-20.esp
+RealisticLeveling.esp
 \EndGroup\\
 
 \BeginGroup\: Pose and Animation Mods

@@ -975,6 +975,8 @@ Immersive Interiors.esp
 : All Natural - For the transparent windows and the ESM file.
 Immersive Interiors - Lights Addon.esp
 
+ReneerInteriorsMod.esp 
+
 Natural Interiors.esp
 % {{BASH:C.Climate}}
 " All Natural - NI is merged with it.
@@ -8465,6 +8467,7 @@ Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
 Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
+ShezriesTownsMaster.esp
 ShipInATree.esp
 Shivering Farm.esp
 Shivering isles Extender 0.6.esp

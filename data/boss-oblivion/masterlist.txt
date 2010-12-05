@@ -8814,6 +8814,7 @@ Torynwyll.esp
 Thorlak Island.esp
 
 TopalIsland.esp
+Topal Island Rus.esp
 Topal Island & Safe Water.esp
 Topal Island - Safe Water.esp
 
@@ -12943,7 +12944,13 @@ M.O.E. - Realistic Law Enforcement - Part Two.esp
 SM Bounty.esp
 CoblDeathFix.esp
 BountyReductionOverTime.esp
+? Use only one BountyReductionOverTime esp
 BountyReductionOverTime_standard.esp
+? Use only one BountyReductionOverTime esp
+BountyReductionOverTime_unforgiving.esp
+? Use only one BountyReductionOverTime esp
+BountyReductionOverTime_mostwanted.esp
+? Use only one BountyReductionOverTime esp
 Lem - Bounty Reduction Over Gametime.esp
 No psychic guards v1.1.esp
 ? Update to 1.2 or later unless v1.1 voice distance settings (different between versions) are important.

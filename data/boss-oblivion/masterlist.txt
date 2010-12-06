@@ -16353,6 +16353,8 @@ DeadlyReflex - Combat Moves.esp
 ? Old version - update to v5 or later.
 DeadlyReflex 6 - Combat Moves.esp
 % {{BASH:Graphics}}
+: NifSE (http://www.tesnexus.com/downloads/file.php?id=21292)
+: Drop Lit Torches OBSE (http://www.tesnexus.com/downloads/file.php?id=16282)
 \preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
 
 Enhanced Grabbing - Unnecessary Violence Liaison.esp

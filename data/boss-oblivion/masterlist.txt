@@ -130,7 +130,7 @@ Armamentarium.esm
 ArmamentariumFran.esm
 % {{BASH:Relev}}
 ArmamentariumEnchanted.esm
-? Outdated, included newest Armamentarium Complete.
+? Outdated, included in newest Armamentarium Complete.
 azsTHouse.esm
 Artifacts.esm
 Underwear HGEC Fighter.esm
@@ -143,7 +143,7 @@ Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
-? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing.
+? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing. (Same esm name).
 BathingMod_Base.esm
 BP EDIT.esm
 BurningItemsMasterF.esm
@@ -975,7 +975,7 @@ Immersive Interiors.esp
 : All Natural - For the transparent windows and the ESM file.
 Immersive Interiors - Lights Addon.esp
 
-ReneerInteriorsMod.esp 
+ReneerInteriorsMod.esp
 
 Natural Interiors.esp
 % {{BASH:C.Climate}}
@@ -1989,6 +1989,7 @@ Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
+TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Old, upgrade to V3+
 QQuix - Rock, rock, rock your ship - V3.esp
@@ -2497,6 +2498,8 @@ Scathe.esp
 ScreenControls.esp
 SimpleHUDClock.esp
 : OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll
+VipCxj_RadarSystem.esp
+: OBSE, MenuQue.
 SimpleSprinting.esp
 skycaptains NPCFF.esp
 SM Soul Delete.esp
@@ -2510,6 +2513,7 @@ Streamline 3.0.esp
 Streamline 2.1.esp
 ? Very Old. Update to 3.1+.
 streamline.311.esp
+3 Alternative Stories.esp
 
 TES4ViewLink.esp
 Timekeeper_Advanced.esp
@@ -3336,7 +3340,7 @@ DMMagesGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
-Dollparts_RoseCorsets - Dark & Light.esp 
+Dollparts_RoseCorsets - Dark & Light.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
 DragonTorch_1C.esp
@@ -5079,6 +5083,7 @@ Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
 HGEC_Companionmail.esp
+FB_DC_Mega_Pack_OMOD_BC1.esp
 FB_DC_Mega_Pack_OMOD_BC1_H.esp
 
 ArynnsDrowWitchHGEC.esp
@@ -9640,7 +9645,11 @@ Bonds Crystal Isles an Adventure Vwalk.esp
 TVIcar.esp
 
 PTMudwater.esp
-Forgotten Realm PTMudwater Patch.esp 
+Forgotten Realm PTMudwater Patch.esp
+Celestiel - EV.esp
+Academy.esp
+Rooftop Rewards cleaned.esp
+Azure's Arcanery.esp
 
 Fort Akatosh.esp
 % {{BASH:Relations}}
@@ -13004,6 +13013,7 @@ FameAndInfamyAnnouncerNoStonesBountyDeduct.esp
 Enhanced Grabbing.esp
 Enhanced Grabbing - Debug.esp
 ? Old version. Consider updating.
+GrabCompanion.esp
 
 GrabLiveNPC_OBSE.esp
 
@@ -14830,7 +14840,7 @@ Nec Character Eva-Remake.esp
 Olga.esp
 % {{BASH:Hair,Eyes}}
 OrenCM.esp
-% {{BASH:Graphics,Hair,NPCFaces}} 
+% {{BASH:Graphics,Hair,NPCFaces}}
 PetsOfChorrol.esp
 % {{BASH:Hair,Eyes}}
 Ramy Enfant.esp

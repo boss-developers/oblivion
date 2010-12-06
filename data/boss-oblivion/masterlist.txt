@@ -1074,10 +1074,15 @@ Visually Realistic Lava.esp
 Better Bell Sounds.esp
 HBM.esp
 Louder Nirnroot Sound.esp
+% {{BASH:Sound}}
 Louder Nirnroots.esp
+% {{BASH:Sound}}
 ln.esp
+% {{BASH:Sound}}
 lninroot.esp
+% {{BASH:Sound}}
 Louder Nirns.esp
+% {{BASH:Sound}}
 Symphony of Violence.esp
 Echo_ChapelChant.esp
 AmbientTownSounds.esp
@@ -2504,6 +2509,7 @@ Streamline 3.0.esp
 ? Old. Update to 3.1 or later.
 Streamline 2.1.esp
 ? Very Old. Update to 3.1+.
+streamline.311.esp
 
 TES4ViewLink.esp
 Timekeeper_Advanced.esp
@@ -4506,6 +4512,7 @@ WarriorBandages_OOO_V2.0.esp
 Warriors Items.esp
 WarriorsRobe.esp
 Western Armor.esp
+Westwind_Rogue_HGEC.esp
 witchkingsword.esp
 Wyrmfang.esp
 White Leather Armor.esp
@@ -6911,6 +6918,7 @@ Ash'kale.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
 Assassin's Hideout v1.1.esp
+Assassin Tripwires.esp
 AStrangeCave.esp
 Asylum.esp
 Aundae.esp
@@ -6989,6 +6997,8 @@ Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
+BDBS - Assassin Tripwires Patch.esp
+BDBS - Chapel Memorial.esp
 AbandonedHouse.esp
 ^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
 AbandonedHouseBC.esp
@@ -7277,6 +7287,7 @@ DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
 DBSRebuiltCompleteFPS.esp
+Assassin Tripwires DBSR.esp
 DB-The Forgotten Sewers.esp
 DarkLair.esp
 DarkLight Mithril Armor.esp
@@ -10536,8 +10547,6 @@ As Intended - Vanilla Boars.esp
 % {{BASH:Actors.Spells}}
 As Intended - Vanilla Imps.esp
 % {{BASH:Actors.Spells}}
-Assassin Tripwires.esp
-Assassin Tripwires DBSR.esp
 AleswellNoRefractFix.esp
 AlendrialsLibrary.esp
 AdenseMiscValue.esp
@@ -16390,6 +16399,7 @@ UnderdarkSaga v1.2 Delayer.esp
 UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkMap.esp
+Companion Compatibility.esp
 
 Open Cities Road Record.esp
 ? Obsolete. Upgrade to Open Cities Classic 3.5+ and then delete this.

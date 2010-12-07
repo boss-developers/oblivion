@@ -2308,6 +2308,9 @@ Oblivion Alive Vwalk.esp
 
 OBC City Life - FULL.esp
 
+Bards of Cyrodiil.esp
+% {{BASH:Relations}}
+
 Crowded Cities 15.esp
 Crowded Cities 15 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -3117,6 +3120,7 @@ BlueAndWhitePorcelain - Full.esp
 BlueAndWhitePorcelain - Shop Inventory Only.esp
 Broadswords.esp
 Broadswords_MOBS.esp
+brotherhoood.esp
 BodMod.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
@@ -3133,6 +3137,7 @@ Burningweapons.esp
 bustersword.esp
 Buster Sword R.esp
 BrivasArmor.esp
+brotherhood.esp
 BW Armory.esp
 BWisteria.esp
 \EndGroup\\
@@ -3153,6 +3158,8 @@ CheatsBook.esp
 Chin CatSuit.esp
 CET_Crossbow.esp
 CET_DwemerPrecisionBow_v2.esp
+CG - Necessity Pack.esp
+% {{BASH:Actors.AIData,Invent}}
 
 ClassyClothingCompendium.esp
 Classic Books.esp
@@ -3236,6 +3243,8 @@ CasquetteCamisoleX117.esp
 
 \BeginGroup\: Items D
 
+Daedric Healer Robes.esp
+% {{BASH:Invent}}
 Daethic Armor.esp
 Dagger Master.esp
 dagger_o_a.esp
@@ -3302,6 +3311,8 @@ Darkgreen Glass Armour.esp
 DarkIllusionArmor.esp
 DarkIllusionSchoolUniform.esp
 Dark_Katana.esp
+Dark Katana.esp
+% {{BASH:Invent}}
 DarkLeatherArmor.esp
 % {{BASH:Invent}}
 Dark Mithril Armour.esp
@@ -3333,6 +3344,7 @@ DKAionProject.esp
 DMCDanteClothes.esp
 Dollparts_CorsetsoftheRose.esp
 DFSL Leathery 4.esp
+DLCRequestedCaps.esp
 DMACArmor.esp
 DMCWeapons.esp
 DMGloves.esp
@@ -3430,6 +3442,8 @@ Extremly Wet Panties.esp
 
 \BeginGroup\: Items F
 
+Fable Swords.esp
+% {{BASH:Invent}}
 Fall Hair Wig - EV.esp
 Fall Hair Wig - DV.esp
 FalxMod.esp
@@ -3450,6 +3464,7 @@ FB_DC_Mega_Pack_OMOD.esp
 % {{BASH:Invent}}
 Featherwynd - Amazon Priestess.esp
 Female Steel Armor.esp
+FemaleSweaterMod.esp
 FemaleImperialDragonCuirass.esp
 ImperialDragonHeavyShield.esp
 femaleorderrobe.esp
@@ -3652,6 +3667,8 @@ IgnisOutfit.esp
 Imperial Legion Light Armor.esp
 Imperial Legion Scout Armour.esp
 impguardpalkey.esp
+Insanity's Kill Bill Katanas.esp
+% {{BASH:Invent}}
 IP_Magerobes.esp
 % {{BASH:Graphics}}
 IrohaClothes.esp
@@ -3682,6 +3699,7 @@ JediLightsabersWithSheathFIX.esp
 Jewels Collection.esp
 JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
+Ji.esp
 Joe's Energy Bow.esp
 Journeyman_armor.esp
 Johnn's Cutlass Mod.esp
@@ -3750,12 +3768,15 @@ KohdiLessFrustratingArrows.esp
 KohdiScimitar.esp
 kolovian_robes.esp
 KORE- Salient Daggers.esp
+KOTN steel armor.esp
 Krakens.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
 Kikai & Slof Clothing.esp
 Kratos Blade Of Chaos.esp
 Kurese Recolours.esp
+Kusanagi.esp
+% {{BASH:Invent}
 \EndGroup\\
 
 \BeginGroup\: Items L
@@ -3790,6 +3811,8 @@ Leviathan Daikatana.esp
 LKF_EY_Vampirehunter.esp
 Lich King's Helm v1_0.esp
 Lich King's Armor v1_0.esp
+Lightning Sword.esp
+% {{BASH:Invent}}
 lineagesls.esp
 LisandrasRareBooks.esp
 LittleCarmine.esp
@@ -3831,6 +3854,7 @@ mageitems.esp
 Mage Leather Armor.esp
 MagicElvenCapes1a.esp
 maidarmorRetexKABOPAN.esp
+MaleSweaterMod.esp
 Marine Bunny.esp
 Masks.esp
 Materia.esp
@@ -4075,6 +4099,10 @@ ROHJ2.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
+Royal Shields.esp
+% {{BASH:Invent}}
+Royal Glass.esp
+% {{BASH:Invent}}
 RRSeifuku.esp
 RRWeapos&Armors.esp
 Ruby Rose Armor.esp
@@ -4181,6 +4209,7 @@ Sister_of_Eisen_BAB.esp
 Sister_of_Eisen_HGEC.esp
 ShaiyaOutfit.esp
 SK_Berserk_v0.6.esp
+sk_Katanas.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
 Slaveknight armor.esp
@@ -4315,6 +4344,7 @@ Staff of the Scamp-Milt.esp
 SteelHalfMoon.esp
 Star's Fury.esp
 StarX Witch Hunter Armor.esp
+StarX Witcher Based Outfit.esp
 Stealth Armor.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
@@ -4543,6 +4573,8 @@ XSPipeMod.esp
 XiaValentinesDayGift07.esp
 ? May not be compatible with anything that modifies the Tiber Septim Hotel.
 
+Zatoichi.esp
+% {{BASH:Invent}}
 ZMP NoError.esp
 \EndGroup\\
 
@@ -5259,6 +5291,7 @@ IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
 Benjamin the Donkey.esp
+Black and Daedric Unicorn's.esp
 Orion the Ox.esp
 Shadowfax-2838.esp
 SellHorses.esp
@@ -7137,6 +7170,7 @@ Champion's Mansion.esp
 Chatham.esp
 CityofSunevV058.esp
 Colossus_01.esp
+Colmir Manor.esp
 CottageInColoviaV1.6.esp
 CountryHome.esp
 CalairCastle.esp
@@ -7346,6 +7380,7 @@ MeteorShowerDiveRock.esp
 SkingradHoleInTheWall_COBL_v6.esp
 delivery_job.esp
 " Better Cities 4.6+. Has been integrated into Better Cities as of version 4.6.0.
+delivery_job - OAG.esp
 Delivery Job - BC.esp
 ? Must deactivate delivery_job.esp if using it. This ESP replaces that file.
 ? Obsolete: Now integrated with Better Cities 4.6+. Upgrade and delete this plugin.
@@ -7546,10 +7581,6 @@ goldenarrowarcheryshopfixedprices.esp
 GoldenCrest.esp
 GoldenCrest Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-Gold Road Cottage - Classy.esp
-? Use only one 'Gold Road Cottage - X.esp'.
-Gold Road Cottage - Rugged.esp
-? Use only one 'Gold Road Cottage - X.esp'.
 Gottshaw.esp
 SRGottshaw0.9 Beta.esp
 GP_Moretta.esp
@@ -7641,6 +7672,7 @@ HMO_ForHMC.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 Hero Hill Redone.esp
+High Rock.esp
 HighwaymanHideway.esp
 HobbitHole.esp
 Hobbit Hole Revamped.esp
@@ -7827,6 +7859,7 @@ Isiak's fate.esp
 Island.esp
 Island Lighthouse.esp
 Ivy Cottage.esp
+Ivy Cottage - AN Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Quests J
@@ -7935,6 +7968,12 @@ Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
 kvatch essential.esp
 KvatchRising.esp
+
+Gold Road Cottage - Classy.esp
+? Use only one 'Gold Road Cottage - X.esp'.
+Gold Road Cottage - Rugged.esp
+? Use only one 'Gold Road Cottage - X.esp'.
+Gold Road Cottage & Kvatch Rebuilt Patch.esp
 
 EiAmod.esp
 : 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
@@ -8310,6 +8349,7 @@ PinePeakLodge.esp
 Pinevale.esp
 Pinewood.esp
 Pit Trap.esp
+Pirate Cove Cavern.esp
 PirateIsland.esp
 Pirates Grave V1.1.esp
 Pirate Ship Home.esp
@@ -8376,7 +8416,9 @@ Ravenrock.esp
 ? Shivering Isles.
 RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
+rdHeavenlyHome.esp
 rebornaylieds.esp
+ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
@@ -8459,6 +8501,8 @@ Scribe Supplies.esp
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
+SecludedGladeCottage.esp
+% {{BASH:Invent}}
 Secret Hideout.esp
 Secrets.esp
 SecretsOfMertvitel.esp
@@ -8493,6 +8537,7 @@ ShipInATree.esp
 Shivering Farm.esp
 Shivering isles Extender 0.6.esp
 Shivering Isles Root System.esp
+ShiveringTreehouses.esp
 SI-BlissAquaductHouse.esp
 SI-BlissAquaductHouse-COBL.esp
 SIPalaceExpansion.esp
@@ -8524,6 +8569,7 @@ SilentStonesCamp.esp
 Silgrad_Tower.esp
 Silorn Manor.esp
 Silvercliff.esp
+SilverSoul Hideaway_v1.1.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
 Simple Life - Antus Family.esp
@@ -8581,6 +8627,7 @@ SRJspiderDaedra.esp
 SRJtrollKajsa.esp
 Star Ship Orion.esp
 Stonehenge.esp
+Stonemere.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
@@ -8944,6 +8991,7 @@ Wayshrines in the University.esp
 Wayshrines.esp
 wb_Erewhon.esp
 wb_Erewhon_Cobl.esp
+wb_Erewhon_Cobl_Altar.esp
 wb_Erewhon_RR-LR_Patch.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
@@ -9023,6 +9071,7 @@ BankMod.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
 ZamokVOblakah2.esp
+Zayls Lost House.esp
 zDangerSense.esp
 Zergonipilamat.esp
 Zergonipilamat 1_2.esp
@@ -9044,6 +9093,8 @@ zzzMyMine.esp
 
 \BeginGroup\: Quests Arena
 
+75barena.esp
+% {{BASH:NpcFaces,Actors.Stats}}
 Arena Imersion Upgrade 1.1.esp
 Arena Mod 1.2 Rus.esp
 Angel's Arena Loot en.esp
@@ -10909,6 +10960,8 @@ GladiatorsVarlorRing.esp
 goblin_war_party.esp
 Goblin Tribal Shields.esp
 goblin_wars.esp
+GodStatues.esp
+GodStatues KOTN Edition.esp
 Gold Change II.esp
 % {{BASH:Names}}
 GoresNoTargetMagicGaining-Vanilla.esp
@@ -12744,7 +12797,14 @@ PMSneakySummons-ForVanilla.esp
 ? to have magic overhaul features move before magic overhauls (but then
 ? you won't get the features of this)
 Cure Disease Overhaul – Extreme Diseases.esp
+% {{BASH:Actors.Spells,SpellStats}}
+Cure Disease Overhaul - Extreme Diseases.esp
+% {{BASH:Actors.Spells,SpellStats}}
+/okay WTF - those two entries above here are DIFFERENT! - a different dash!... which is freaking weird so leave the duplication since it isn't duplication!
 Cure Disease Overhaul - Deadly Diseases (OBSE).esp
+% {{BASH:Actors.Spells,SpellStats,Stats}}
+Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esp
+% {{BASH:Actors.Spells,SpellStats,Stats}}
 CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
 
@@ -16582,6 +16642,7 @@ Duke Patricks - Combat Magic.esp
 \
 \any map changing files esp have to go dead last
 
+Hiboriamap.esp
 MWakeMap.esp
 MergedMaps.esp
 Elsweyr Color Map.esp

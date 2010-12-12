@@ -3665,6 +3665,7 @@ IcingDeath.esp
 ICVisuals.esp
 Icxth Sword.esp
 IgnisOutfit.esp
+Imperial Guard Cuirass.es
 Imperial Legion Light Armor.esp
 Imperial Legion Scout Armour.esp
 impguardpalkey.esp
@@ -4071,6 +4072,7 @@ RealitySpectresThiefGarb.esp
 Ranger's Shroud Armor.esp
 Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
+Ravenous Blade.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 raziel's crystal equipment.esp
@@ -4344,6 +4346,7 @@ Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 SteelHalfMoon.esp
 Star's Fury.esp
+StarX Katanas.esp
 StarX Witch Hunter Armor.esp
 StarX Witcher Based Outfit.esp
 Stealth Armor.esp
@@ -7198,6 +7201,7 @@ Chateau_Domrose_V.1.2.1-Fr.esp
 Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
 Castle_Highrock.esp
+Castle Redwort.esp
 Castle Tirith and Tirith Town.esp
 Castle Tirith and Tirith Town Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -7353,6 +7357,7 @@ The Dead Knights.esp
 Deathtrap Dungeon.esp
 Dk offhand weapons.esp
 Dk second knight update.esp
+DeerLeap.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Consort.esp
@@ -8125,6 +8130,10 @@ Mage'sSkyHouse.esp
 Mage'sSkyHouse_cobl.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
+? Old name, update to v1.2+. 
+The Imperial Water.esp
+^Use 'The Imperial Water - BETTER CITIES.esp' instead.
+The Imperial Water - BETTER CITIES.esp
 Magister Cogitation.esp
 MakTravellersInn.esp
 MarasTowerRu.esp
@@ -9649,7 +9658,11 @@ BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
+ElsweyrValenwoodImprevedPatch.esp
+: 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
 Walkabout.esp
+WAC - Elsweyr Anequina.esp
+: 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
 
 Skyrim.esp
 
@@ -14349,6 +14362,8 @@ Energy - Beautiful Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Demon Hunter.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+Desuchan's Dolls.esp
+Desuchan's Dolls (None SI).esp
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesuChan's Kawa-Khajiits.esp

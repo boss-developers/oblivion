@@ -2219,6 +2219,7 @@ Walk to Oblivion.esp
 ? Use Walk to Oblivion - OBSE.esp if you need compatibility with those mods.
 Walk to Oblivion - OBSE.esp
 Walk to Oblivion - OGMMR.esp
+Warrior Princess Class.esp
 Water Nymphs.esp
 wd purse of wonders.esp
 % {{BASH:Scripts}}
@@ -5109,7 +5110,7 @@ R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
 R18PN - Mina Armor.esp
 R18PN - Mizugi set.esp
-R18PN - Perona armor.es
+R18PN - Perona armor.esp
 R18PN - Bs Bondage.esp
 R18PN - Collection.esp
 R18PN - Schatten lauf Amr.esp
@@ -14337,6 +14338,8 @@ Beautiful People 2ch-Ed Merged Eye Modules.esp
 % {{BASH:Eyes}}
 Beautiful People 2ch-Ed Chocolate Elves.esp
 % {{BASH:Hair,Eyes,R.Relations}}
+Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp 
+% {{BASH:Hair}}
 Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Cute Elves.esp
@@ -14678,6 +14681,8 @@ CMPartner_Xenia Vwalk.esp
 Xenia_CMPartner.esp
 Xenia_CMPartner Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Xena Warrior Princess.esp
+% {{BASH:Invent}}
 CM__Shalia.esp
 cmAbbeyAeryn.esp
 CM Alexander.esp

@@ -471,8 +471,6 @@ Colourwheels Sexy Female NPCs.esp
 % {{BASH:Actors.Anims,NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-beardy.esp
-% {{BASH:NpcFaces}}
 ChangeSomeCyrodiilLadies.esp
 ? Old, update to CSCP.esp.
 % {{BASH:NpcFaces,NoMerge}}
@@ -6481,6 +6479,8 @@ un-leveled-shops.esp
 
 \BeginGroup\: Post Overhaul
 \'''''''''''''
+beardy.esp
+% {{BASH:NpcFaces}}
 \BeginGroup\: CNRP
 CNRP Brumav02.esp
 % {{BASH:Invent}}
@@ -9658,7 +9658,7 @@ BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
-ElsweyrValenwoodImprevedPatch.esp
+ElsweyrValenwoodImprovedPatch.esp
 : 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
 Walkabout.esp
 WAC - Elsweyr Anequina.esp
@@ -11332,6 +11332,7 @@ Q - Gem Value Modifier - Realistic v1.1.esp
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
+Ranokoas Purchase Use Enchant Spellmake.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
 RedBag - Dangerous Animals.esp
@@ -12020,7 +12021,6 @@ CDM-New Start.esp
 CMF-New.esp
 Cliff_Roleplayingcharacter.esp
 StartChoices.esp
-Alternate Start Revamped.esp
 MQSDone.esp
 TuStartingOptions_01.esp
 TuStartingOptions_02.esp
@@ -15770,6 +15770,7 @@ Better Cities - Oblivion Collectible Cards.esp
 \BeginGroup\: Post BC and OBC
 \'''''''''''''''
 
+Alternate Start Revamped.esp
 _burning_kvatch.esp
 Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp

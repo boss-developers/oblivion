@@ -1477,6 +1477,9 @@ EnableFreeLookOBSE.esp
 : OBSE.
 tw1_fov_adjustor.esp
 : OBSE.
+NoMouseWheelZoom.esp
+NoMouseWheelZoomKeyOBSE.esp
+NoMouseWheelZoomSpellOBSE.esp
 
 CATSDeerPeltsAndAntlers.esp
 ? May not be compatible with OOO or MMM Hunting and Crafting.
@@ -3023,7 +3026,7 @@ Badmagic Crusader.esp
 Badmagic Red Ebony - Ebony Strength.esp
 Badmagic's Rogue Set.esp
 Baedoona_recurve_bow.esp
-BagOfAlchemy_1C.esp 
+BagOfAlchemy_1C.esp
 Bamboo Armor.esp
 % {{BASH:Invent}}
 Banes Guilds United.esp
@@ -3205,8 +3208,6 @@ cowlredux.esp
 crazy_shadow-cats.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
-CSR - Fine Iron.esp
-% {{BASH:Graphics}}
 CSR - Golden Saint.esp
 % {{BASH:Graphics,Stats}}
 ChainHoods.esp
@@ -3307,6 +3308,8 @@ DaedricCrescentBlade.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
 % May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+replace_glass.esp
+% {{BASH:Graphics}}
 DarkIllusionArmor.esp
 DarkIllusionSchoolUniform.esp
 Dark_Katana.esp
@@ -4583,6 +4586,8 @@ ZMP NoError.esp
 \BeginGroup\: Items Late
 
 BleachOverhaul.esp
+CSR - Fine Iron.esp
+% {{BASH:Graphics}}
 GuardTrinkets.esp
 Thieves Arsenal.esp
 : OBSE.
@@ -5103,6 +5108,7 @@ R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
 R18PN - Mina Armor.esp
 R18PN - Mizugi set.esp
+R18PN - Perona armor.es
 R18PN - Bs Bondage.esp
 R18PN - Collection.esp
 R18PN - Schatten lauf Amr.esp
@@ -8130,7 +8136,7 @@ Mage'sSkyHouse.esp
 Mage'sSkyHouse_cobl.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
-? Old name, update to v1.2+. 
+? Old name, update to v1.2+.
 The Imperial Water.esp
 ^Use 'The Imperial Water - BETTER CITIES.esp' instead.
 The Imperial Water - BETTER CITIES.esp
@@ -14138,6 +14144,8 @@ Hidden_Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 kaleen.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+lady_of_the_lake.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lima.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
@@ -14366,6 +14374,8 @@ Desuchan's Dolls.esp
 Desuchan's Dolls (None SI).esp
 DesuChan's Persocoms RELOADED.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+DesuChan's Persocoms RECONSTRUCTED.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesuChan's Kawa-Khajiits.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DKImperials.esp
@@ -14381,6 +14391,8 @@ ShadowElf.esp
 Shadow Hunter Races v1.1.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Spartan Race v1.5.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+sun_night_elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Moon Elven Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -14832,6 +14844,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
+% {{BASH:Factions,NoMerge}}
 Aliyah.esp
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 ArianaTrudeaux.esp

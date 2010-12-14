@@ -4593,8 +4593,6 @@ ZMP NoError.esp
 \BeginGroup\: Items Late
 
 BleachOverhaul.esp
-CSR - Fine Iron.esp
-% {{BASH:Graphics}}
 GuardTrinkets.esp
 Thieves Arsenal.esp
 : OBSE.
@@ -5651,6 +5649,8 @@ DBOO - OOO.esp
 DBOO - ShiveringIsles.esp
 DBOO - TNR ALL RACES FINAL.esp
 Fine Weapons for OOO.esp
+CSR - Fine Iron.esp
+% {{BASH:Graphics}}
 Improved Imperial Dragon.esp
 
 OCC-OOO-Patch.esp
@@ -15579,6 +15579,7 @@ Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 Better Cities - Werewolf-Legends.esp
+TrailsOfCyrodiil-BC patch.esp
 
 Better Cities - VWD of the IC.esp
 

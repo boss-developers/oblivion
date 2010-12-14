@@ -2312,6 +2312,7 @@ OBC City Life - FULL.esp
 
 Bards of Cyrodiil.esp
 % {{BASH:Relations}}
+Bard of Cyrodiil 2.0.esp
 
 Crowded Cities 15.esp
 Crowded Cities 15 Vwalk.esp
@@ -2869,6 +2870,7 @@ Ancient Silver Elven Armor.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
 Arc de Legolas.esp
+Arcelas Black Hand Armor.esp
 ArenaEyeCandyArmor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 Arctic_Gear_Improved.esp
@@ -3425,6 +3427,7 @@ Exnem Pekka Pumps.esp
 Extra Robe Pack.esp
 extavegant masks.esp
 Elfenwacht.esp
+Eltonbrand Easter Egg.esp
 ElvenPrincess.esp
 ElyndasLostDressesHGEC.esp
 Elwing.esp
@@ -10050,6 +10053,7 @@ ColdstoneTown-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
+Dschinni - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
 
@@ -10123,6 +10127,7 @@ BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
+ImperialCitySuburbs-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch DV.esp
 UL Imperial Isle Adense Epic Dungeon Patch.esp
@@ -12724,6 +12729,10 @@ Midas BeastFortify Fix NONOBSE.esp
 ? Pick either the OBSE version or this one. But not both.
 Midas BeastFortify Fix OBSE.esp
 ? Pick either the Non OBSE version or this one. But not both. Do not run without Oblivion Script Extender.
+Midas Assimulator Addon - Temp Fix.esp
+Midas Assimulator Addon - Oscuro.esp
+Midas Assimulator Addon - Ench Jewels Enhanced.esp
+Midas Assimulator Addon - Shivering.esp
 \EndGroup\\
 
 \BeginGroup\: Spells Late
@@ -15251,6 +15260,7 @@ Enemy Actors Use Powers 0.1.esp
 HippoNoStarterSpells.esp
 Kyoma's Spell Renamer for L.A.M.E..esp
 Lyn-Summon10.esp
+New Spell Icons - Final.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
 : BASH for proper use
@@ -16315,6 +16325,7 @@ Jake's Water.esp
 Summon_Bear.esp
 Better Turn Undead Shader.esp
 Update 2.0 Visually Enchanted.esp
+VampNormalVision.esp
 Visually Enchanted 2.1 No Shock Particles.esp
 Visually Enchanted 2.1.esp
 Visually Enchanted.esp

@@ -5539,11 +5539,11 @@ FCOM_LothsBluntWeapons.esp
 : 'Loths Blunt Weapons for NPCs.esp'.
 
 Oblivion WarCry.esp
-% {{BASH:Actors.ACBS,Actor.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 * Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
 Oblivion WarCry EV.esp
-% {{BASH:Actors.ACBS,Actor.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.DeathItem,Actors.Stats,Delev,Graphics,Invent,Relev,Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
 FCOM_WarCry.esp
 % {{BASH:Delev,Relev,Stats}}
@@ -9523,6 +9523,7 @@ AFK_Weye.esp
 % {{BASH:C.Owner,Factions}}
 AFK_Weye Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+AFK_Weye - Oblivion XP Patch.esp
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
@@ -14165,6 +14166,9 @@ lady_of_the_lake.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lima.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Lucha's Blood Witcher.esp[/url]
+: Robert's Male v4 or v5
+% {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

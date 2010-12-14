@@ -511,6 +511,7 @@ Fighters_Guild_Dissapearences_Mission_Bug_Fix-3483.esp
 ? Use UOP v3.0.1 or later instead.
 FathisFix.esp
 ? Use UOP v3.0.1 or later instead.
+GrassFix.esp
 Grove of Reflection Fix.esp
 Mages Guild Quest Fixes.esp
 ? Use UOP v3.0.1 or later instead.
@@ -3076,6 +3077,7 @@ Blade Of Woe Replacer.esp
 BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
 BlessedMageKnightDress.esp
+Blood Knight Armor.esp
 Blood Mage.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
@@ -7590,6 +7592,7 @@ Gift of Kynareth v2.1 Delayer.esp
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
+Going Rogue.esp
 Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
 " Unique Lanscapes Lost Coast, The Heath, and Brena River.
@@ -7860,6 +7863,8 @@ Imperial City Boutique.esp
 Imperial City Miniature Model.esp
 ? May conflict with many mods that alter the IC palace.
 Imperial City Suburbs.esp
+Imperial City Suburbs Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 IC Temple Altars.esp
 IC Tower.esp
 ImpeREAL Empire - Unique Forts - Bouayard.esp
@@ -9558,6 +9563,8 @@ Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
 ? Old version. Update to Shezrie's Towns and remove this.
 ShezriesTownsMaster.esp
+ShezriesTownsMaster Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 LostSpires+PellsGate Patch.esp
 
 Well of Arcane Marking.esp
@@ -9802,6 +9809,14 @@ Dschinni Vwalk.esp
 \BeginGroup\: Landscape and City overhauls 1
 \----------------------------
 
+Better daedric shrines Namira.esp
+Better daedric shrines sanguine.esp
+Better daedric shrines Sheogorath.esp
+better daedric shrines Meridia.esp
+Better daedric shrines Clavicus.esp
+Better daedric shrines Vaermina.esp
+better daedric shrines Nocturnal.esp
+Better daedric shrine Pyriate.esp
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH:Hair,Invent,C.Owner,Actors.AIPackages}}
@@ -10012,6 +10027,7 @@ Verwen Brewery UL Ancient Yews Compatable.esp
 ? Use only one Verwen Brewery esp. Unique Landscapes Ancient Yews.
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
+BetterDaedricShrineVaermina-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
@@ -10093,6 +10109,7 @@ TrailsOfCyrodiil- PantherRiver patch DV.esp
 
 xulRiverEthe.esp
 Unique Landscapes - River Ethe DV.esp
+BetterDaedricShrinesMeridia-RiverEthe.esp
 BlackMarshHall-RiverEthe patch.esp
 ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.

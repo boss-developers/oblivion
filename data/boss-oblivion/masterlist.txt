@@ -262,6 +262,7 @@ John's Leveled List Overhaul.esm
 % {{BASH:Graphics}}
 Sephiroth Companion.esm
 The Arsenal.esm
+TML_WieldableTorches_v10.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1706,6 +1707,7 @@ Fishing in Cyrodiil.esp
 ? If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
 % {{BASH:Invent}}
 Flamering.esp
+Foxfire Mushrooms.esp
 Fundies.esp
 \EndGroup\\
 
@@ -2502,6 +2504,7 @@ Quick Wardrobe.esp
 QZ Easy Menus.esp
 
 RedDelPCB.esp
+PCB.esp
 
 Scathe.esp
 ScreenControls.esp
@@ -3675,7 +3678,7 @@ IcingDeath.esp
 ICVisuals.esp
 Icxth Sword.esp
 IgnisOutfit.esp
-Imperial Guard Cuirass.es
+Imperial Guard Cuirass.esp
 Imperial Legion Light Armor.esp
 Imperial Legion Scout Armour.esp
 impguardpalkey.esp
@@ -5842,13 +5845,13 @@ The Arsenal - Leveled Lists for OOO.esp
 \''''''''''
 \BeginGroup\: FranOOOMMM
 \just OLD FILES (didn't even know they were still available but they are on TesN and got reported... so just warn they they are severely outdated.)
-FranOOOMMM_FranItemLists.esp 
+FranOOOMMM_FranItemLists.esp
 ? Obselete, update to FCOM.
-FranOOOMMM_SpawnMerge.esp 
+FranOOOMMM_SpawnMerge.esp
 ? Obselete, update to FCOM.
-FranOOOMMM_GuardFix.esp 
+FranOOOMMM_GuardFix.esp
 ? Obselete, update to FCOM.
-FranOOOMMM_OOOItemLists.esp 
+FranOOOMMM_OOOItemLists.esp
 ? Obselete, update to FCOM.
 FranOOOMMM_WarCry_BobsArmory.esp
 ? Obselete, update to FCOM.
@@ -11581,7 +11584,7 @@ LoversDiag.esp
 LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
 LoversBCMSounds.esp
-LoversFSE.esp 
+LoversFSE.esp
 LoversRapeman.esp
 LoversBCMSound.esp
 LoversVoice.esp
@@ -11941,6 +11944,8 @@ dyseso_PromptAt2Items.esp
 Lyn-DontAskMeHowMany.esp
 TML_InfiniteCharges.esp
 TML_WieldableTorches_v10.esp
+TML_WieldableTorches_v10_Plug-in_FIRE_Strong.esp
+TML_WieldableTorches_v10_Plug-in_LIGHT_dltic16b.esp
 tona_underwear.esp
 Tona Compilation.esp
 TorchesBlowOut.esp
@@ -12671,6 +12676,7 @@ Resurrect.esp
 Resurrection-5159.esp
 Resurrection_v_1_0.esp
 The Resurrect Spell v1.2.esp
+ThreeSpells.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
@@ -12707,6 +12713,7 @@ Unique Summons & Banish Flesh.esp
 Unload Inventory.esp
 Unlocking spell.esp
 WaldelfsLevitation.esp
+Weatherspell.esp
 Wizard's Vengeance Spells.esp
 no spell limit.esp
 spelliconreplace.esp
@@ -13319,6 +13326,9 @@ Armorer's Advantage.esp
 arrow damage 1_5.esp
 AutoOffhand.esp
 Can´t touch me!.esp
+Canït touch me!.esp
+Can't touch me!.esp
+
 cancelattack.esp
 Creature Damage Fix.esp
 Denock Arrows.esp
@@ -13527,6 +13537,7 @@ Phitt's Phighting Phixes.esp
 ? Don't need to use 'PTActorsCare.esp', 'PTDamageFinal.esp', 'PTDoorExploitBegone.esp', 'PTLessKnockback.esp' or NoRunningBackwards mod with this.
 : OBSE 17+
 Ragna Parry V2.esp
+Smarter Ally Combat Positioning.esp
 Unequip Broken Armor.esp
 BFG's Enhanced Armory.esp
 \EndGroup\\
@@ -16272,6 +16283,7 @@ LifeDetect Shader LQ.esp
 BadderFireFX.esp
 BadderFrostFX.esp
 BadderShockFX.esp
+BadderNuclearFireFX.esp
 BetterExplosions.esp
 bgMagicEVShader.esp
 {{BASH:NoMerge,Graphics}}

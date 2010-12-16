@@ -114,6 +114,7 @@ Waalx Animals & Creatures.esm
 Diverse Wisps - Base.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
+Hemingweys Capes Improved.esm
 SoS Library.esm
 Enhanced Daedric Invasion.esm
 ORP.esm
@@ -2539,6 +2540,7 @@ Xero's Fame Indicator.esp
 \
 \Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
 
+Dynamic Map.esp
 Map Markers Be Done -Elys-.esp
 Map Markers Be Done.esp
 Map Marker Renamer.esp
@@ -5653,6 +5655,98 @@ Fine Weapons for OOO.esp
 CSR - Fine Iron.esp
 % {{BASH:Graphics}}
 Improved Imperial Dragon.esp
+
+\BeginGroup\: Hemingwey's Capes
+Hemingweys Capes Improved for FCOM.esp
+% {{BASH:Invent,Scripts,Stats}}
+Hemingweys Capes Improved for MMM.esp
+% {{BASH:Invent,Stats}}
+Hemingweys Capes Improved for OOO.esp
+% {{BASH:Invent,Scripts,Stats}}
+Hemingweys Capes Improved.esp
+% {{BASH:Invent,Stats}}
+\
+Hemingweys Capes Improved Merchants.esp
+\
+Hemingweys FCOM Boss Chest Cape Loot.esp
+% {{BASH:Invent}}
+Hemingweys FCOM OOO Cape Patch.esp
+% {{BASH:Scripts}}
+Hemingweys FCOM NPC Capes Improved Citizens.esp
+% {{BASH:Invent}}
+Hemingweys FCOM NPC Capes Improved Enemies.esp
+% {{BASH:Invent}}
+Hemingweys FCOM NPC Capes Improved Bosses Only.esp
+% {{BASH:Invent}}
+Hemingweys FCOM NPC Capes Improved Legion Forester.esp
+% {{BASH:Invent}}
+Hemingweys FCOM NPC Capes Improved Regional City Guards.esp
+% {{BASH:Invent}}
+Hemingweys FCOM Show Amulets.esp
+% {{BASH:Stats}}
+\
+Hemingweys FCOM NPC Capes Improved IC Guards.esp
+% {{BASH: Graphics,Invent,Scripts}}
+\
+Hemingweys MMM Boss Chest Cape Loot.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved Citizens.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved Enemies.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved Bosses Only.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved IC Guards.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved Legion Forester.esp
+% {{BASH:Invent}}
+Hemingweys MMM NPC Capes Improved Regional City Guards.esp
+% {{BASH:Invent}}
+Hemingweys MMM Show Amulets.esp
+% {{BASH:Stats}}
+\
+Hemingweys OOO Boss Chest Cape Loot.esp
+% {{BASH:Invent}}
+Hemingweys OOO Cape Patch.esp
+% {{BASH:Scripts}}
+Hemingweys OOO NPC Capes Improved Citizens.esp
+% {{BASH:Invent}}
+Hemingweys OOO NPC Capes Improved Enemies.esp
+% {{BASH:Invent}}
+Hemingweys OOO NPC Capes Improved Bosses Only.esp
+% {{BASH:Invent}}
+Hemingweys OOO NPC Capes Improved Legion Forester.esp
+% {{BASH:Invent}}
+Hemingweys OOO NPC Capes Improved Regional City Guards.esp
+% {{BASH:Invent}}
+Hemingweys OOO Show Amulets.esp
+% {{BASH:Stats}}
+\
+Hemingweys OOO NPC Capes Improved IC Guards.esp
+% {{BASH: Graphics,Invent,Scripts}}
+\
+Hemingweys VAN Boss Chest Cape Loot.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved Citizens.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved Enemies.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved Bosses Only.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved IC Guards.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved Legion Forester.esp
+% {{BASH:Invent}}
+Hemingweys VAN NPC Capes Improved Regional City Guards.esp
+% {{BASH:Invent}}
+Hemingweys VAN Show Amulets.esp
+% {{BASH:Stats}}
+\
+Hemingweys Capes for EDI.esp
+% {{BASH:Invent}}
+Hemingweys Capes for FCOM_FrancescosNamedBosses.esp
+% {{BASH:Invent}}
+\EndGroup\\
 
 OCC-OOO-Patch.esp
 
@@ -14188,6 +14282,7 @@ Black Wizard Beard Races.esp
 Blonde Wizard Beard Races.esp
 Brown Wizard Beard Races.esp
 Red Wizard Beard Races.esp
+Brachyuran.esp
 Dark Seducer Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DreamWalker.esp

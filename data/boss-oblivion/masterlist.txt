@@ -6283,6 +6283,8 @@ WAC - TCOS Invent only.esp
 % {{BASH:Invent,NPC.Race}}
 WAC - TCOS Shops.esp
 % {{BASH:Graphics,Invent}}
+WAC - TCOSFix.esp
+% {{BASH:Delev,Invent,Relev}}
 WAC - BlackBootDungeon.esp
 WAC - 8th Gate.esp
 WAC - Dead Knights.esp

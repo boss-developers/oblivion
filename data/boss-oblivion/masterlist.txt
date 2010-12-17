@@ -16527,7 +16527,7 @@ Visually Enchanted.esp
 Visually Enchanted Damage and Absorb with Particles.esp
 % {{BASH:Graphics,Deactivate}}
 Visually Enchanted Drains 1.esp
-% {{BASH:Graphics,Deactivate}}
+% {{BASH:Graphics}}
 Visually Enchanted Drains.esp
 % {{BASH:Graphics,Deactivate}}
 Visually Enchanted Fire 1.esp
@@ -16555,7 +16555,7 @@ Visually Enchanted Shock 3.esp
 Visually Enchanted Shock.esp
 % {{BASH:Graphics,Deactivate}}
 Visually Enchanted SoulTrap 1.esp
-% {{BASH:Graphics,Deactivate}}
+% {{BASH:Graphics}}
 Visually Enchanted SoulTrap.esp
 % {{BASH:Graphics,Deactivate}}
 Visual Enchantments LessFire.esp

@@ -1784,6 +1784,7 @@ Kill_Bruma_Statue.esp
 Kill_KvatchRebuilt_Statue.esp
 KF Chapel Shop.esp
 Kyoma's Focus on Shrine.esp
+Kyoma's Thermometer.esp
 \EndGroup\\
 
 \BeginGroup\: Base L
@@ -1824,6 +1825,8 @@ Ls Rentable Player Homes.esp
 
 \BeginGroup\: Base M
 
+Mage Guild Sorters v3.esp
+: COBL.
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 CParchmagetele.esp
@@ -2173,6 +2176,7 @@ Thingamajigs Broken Armor DD Edit.esp
 Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
 Timescale Options.esp
+Torch Arrows.esp 
 Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
@@ -6651,6 +6655,8 @@ CNRP FightersGuild4OOO.esp
 % {{BASH:Invent}}
 \EndGroup\\
 
+Creature Restorations.esp
+
 dangerous wilderness.esp
 % {{BASH:Delev,Relev}}
 
@@ -8569,6 +8575,7 @@ Ravenrock.esp
 ? Shivering Isles.
 RavenviewVillageVer2.0.esp
 Ranokoas City Stealth Exits.esp
+UnseenExits.esp
 rdHeavenlyHome.esp
 rebornaylieds.esp
 ReclaimByZabre.esp
@@ -8672,10 +8679,13 @@ SFSpecialtyContainers.esp
 Shabah.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
+CMWaterskin.esp
+: OBSE 18+.
 ShadowfangKeep.esp
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
+Shady Fences.esp
 ShadySamFence.esp
 Sheogoraths_Accords_of_Madness.esp
 SheogorathPlanebyInfornography.esp
@@ -9019,6 +9029,7 @@ Treasuresofthedeep.esp
 : OOO.
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
+Trolls Under Bridges.esp
 Tropical Island.esp
 Tyler's Property Tax.esp
 TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
@@ -11116,8 +11127,12 @@ Friendly Hits up 20 points.esp
 FotM WF Alternative.esp
 FrbitPotionReplacer.esp
 % {{BASH:Graphics,Names,NoMerge}}
+Food Prices Revised 0.1.esp
+% {{BASH:Stats}}
 Furniture Prices.esp
+% {{BASH:Stats}}
 Furniture Repriced.esp
+% {{BASH:Stats}}
 \EndGroup\\
 
 \BeginGroup\: overrides G
@@ -11939,6 +11954,8 @@ Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
 Teleport Everywhere.esp
 : OBSE.
+Things Found Fence.esp
+% {{BASH:Actors.AIData}}
 Tombstone Epitaphs.esp
 Toggleable Quantity Prompt.esp
 1293-No More -How Many- prompts-TESSource.esp
@@ -12312,6 +12329,7 @@ DA ReducedBackwardsRunningSpeedFRAN.esp
 DA Sprint.esp
 NoBackwardsRunning.esp
 NoBackwardsRunning_fran.esp
+PTNoRunningBowsSpells.esp
 ReducedBackwardsSpeed.esp
 StumbleRunningBackwards.esp
 Duke Patricks Running Backwards RISK.esp
@@ -12937,6 +12955,9 @@ Scaled_Summons-6068.esp
 Secrets of the Stones.esp
 Soulcraft.esp
 SorcerysToll.esp
+spellshields2.esp
+: OBSE 18+.
+spellshields2nofxpatch.esp
 StealthierMagic.esp
 sr_spell_deletion.esp
 Spellbooks.esp
@@ -13497,6 +13518,8 @@ Duke Patricks Bob and Weave Dodge GOLD Edition.esp
 Duke Patricks - Bob and Weave Dodge Mark II.esp
 ? Old upgrade to latest version.
 DocDodge.esp
+Double-tap dodge.esp
+: OBSE 19+.
 
 Duke Patricks - NPCs Now Bob Under Your Shots.esp
 ? Old. Upgrade to latest version.
@@ -13745,6 +13768,7 @@ Legendary Abilities-Reflect MOJ.esp
 
 Nanite's Legendary Alchemy.esp
 Grandmaster of Alchemy.esp
+% {{BASH:Factions}}
 sr_staff_skill.esp
 J3X's Staff Bashing Mod.esp
 
@@ -14329,7 +14353,7 @@ lady_of_the_lake.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lima.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
-Lucha's Blood Witcher.esp[/url]
+Lucha's Blood Witcher.esp
 : Robert's Male v4 or v5
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 YX33A_batch_of_stuff.esp

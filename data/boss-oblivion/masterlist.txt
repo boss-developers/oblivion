@@ -861,6 +861,7 @@ Arthur_ Natural weather with HDR.esp
 ? Outdated. Upgrade to latest version of Arthur Natural Environments.
 
 Natural Environments.esp
+Natural Weather.esp 
 NaturalWeather.esp
 Natural_Weather_by_Max_Tael.esp
 ? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
@@ -1226,6 +1227,9 @@ Rainbows.esp
 \
 \Should load early to allow more 'important' mods to override.
 
+Real_Lights.esp
+? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
+? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
 _Real_Lights.esp
 ? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
 ? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
@@ -1948,6 +1952,7 @@ personality_idles_custom.esp
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
+SeeYouSleep.esp
 P1DseeYouSleep.esp
 P1DseeYouSleep - Vampire Bedroll Anims.esp
 P1DlookAtShrines.esp
@@ -2522,6 +2527,7 @@ SM Soul Delete.esp
 Spell Delete.esp
 Spell Delete And Item Remove.esp
 StatCleaner.esp
+Streamline.esp 
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
@@ -3570,6 +3576,7 @@ GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 GothicGirls.esp
 Grigors_Grimoires.esp
+Griffon Fortress.esp
 Griffon Fortress 0.3.esp
 ? Old, upgrade to version 0.5.
 Griffon Fortress 0.4.esp
@@ -4152,6 +4159,7 @@ Ryk_MiscGoods.esp
 Ryk_Sandals.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
+SorceressArmor.esp
 Ryk_Swimwear.esp
 RoseGear.esp
 RZWPortableCandles.esp
@@ -5123,6 +5131,7 @@ R18PN - Dancer's Dress.esp
 R18PN - FuruFuru Armor.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
+Leere Armor.esp 
 R18PN - Mina Armor.esp
 R18PN - Mizugi set.esp
 R18PN - Perona armor.esp
@@ -6750,6 +6759,7 @@ Roleplaying_Expansion.esp
 " 'Mysteries Of Atrene Camp.esp' and 'Kragenir's Death Quest.esp'.
 " (Landscape) 'xulCheydinhalFalls.esp'
 
+Suliin.esp
 Suliin V1.2.esp
 ? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid and landscape edits.
 Quelldorf 1.5.esp
@@ -6878,6 +6888,7 @@ AkaviriStronghold_1C.esp
 " Unique landscapes.(conflict of locations) uncheck mods on the time of play of the addon
 
 .LuEmaNarfil Cave of Vampires.esp
+Cave of Vampires.esp
 
 [NPC] Sharmina.esp
 \EndGroup\\
@@ -6913,6 +6924,7 @@ Adaman Fortress.esp
 A_dark_elvish_cave-5121.esp
 AddisHeadhunterMod EV.esp
 Adele_blackSwanBoutique.esp
+Epic_Dungeon.esp
 AdenseEpicDungeon.esp
 / It's a bit like a merry-go-round. Yay for going back to a simple plugin name!
 ? Newest version has the same name as the original. Check that you're using at least v1.5.2.
@@ -7119,6 +7131,7 @@ Automagicon.esp
 Automagicon_Cobl.esp
 : COBL
 AvaiRii_UnderwaterHome.esp
+AXIS.esp
 AyleidArrows.esp
 AyleidHouse.esp
 AyranUndercity.esp
@@ -7224,6 +7237,9 @@ AW_BHC_HomeDelivery.esp
 Black ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
+Black_ocean.esp 
+: Shivering Isles
+: Knights.esp or download patch from home page of 'Black Ocean' mod
 Black Rock Home.esp
 Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
@@ -7241,10 +7257,13 @@ Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
 Blissful_Dreams.esp
 Blissful_DreamsCOBL.esp
+Molag_Fel.esp
 Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
 Blood Raven.esp
+Laughing_Maw.esp
 BD&R - Laughing Maw.esp
+Deepgrave.esp
 BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
@@ -7504,6 +7523,7 @@ Dk second knight update.esp
 DeerLeap.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
+Demon_Bane.esp 
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
@@ -7741,6 +7761,7 @@ GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 green market district.esp
 GTAesgaard.esp
+GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
 ? Deprecated. Update to latest Gates To Aesgaard Episode 1 and remove this patch.
@@ -8507,6 +8528,7 @@ Pine Lodge ver2.esp
 PinePeakLodge.esp
 Pinevale.esp
 Pinewood.esp
+Pinnacle Citadel.esp 
 Pit Trap.esp
 Pirate Cove Cavern.esp
 PirateIsland.esp
@@ -8593,6 +8615,7 @@ RealmofRuun.esp
 Return Of Shadows.esp
 Return Of Shadows Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Return of the Ayleids.esp 
 ReneersContainerMod.esp
 Resurrection of the Dark Brotherhood.esp
 REX_TheLostSouls.esp
@@ -8665,6 +8688,7 @@ SecludedGladeCottage.esp
 % {{BASH:Invent}}
 Secret Hideout.esp
 Secrets.esp
+Secrets_Of_Mertvitel.esp 
 SecretsOfMertvitel.esp
 Secrets of Mortum.esp
 Septim Mansion.esp
@@ -8870,8 +8894,10 @@ The Temple of Serpent Race.esp
 Theryon.esp
 Templar Fighters Guild.esp
 CHEAT - TempleofNirn.esp
+Temple_Of_Zealots.esp
+? Check out version 2
 TempleOfZealots.esp
-? Check out version 2.
+? Check out version 2
 TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
@@ -9232,6 +9258,7 @@ za_bankmod.esp
 ZamokVOblakah2.esp
 Zayls Lost House.esp
 zDangerSense.esp
+Zealots_of_the_Nine.esp
 Zergonipilamat.esp
 Zergonipilamat 1_2.esp
 Zombie Inn III.esp
@@ -9245,6 +9272,7 @@ Zira Horse Showjumping Track.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
+ChangeAbleWeapon
 zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
@@ -9678,6 +9706,7 @@ FiveLanterns-HoarfrostCastle patch.esp
 
 MannimarcoComplete.esp
 MannimarcoComplete - ICS Patch.esp
+Mannimarco_resurrection.esp
 MannimarcoRevisited.esp
 MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
@@ -10432,6 +10461,8 @@ Imperial City Waterfront Tunnel Entrance v2.1.esp
 " Better Cities. Already included in Better Cities IC plugins.
 Imperial City Waterfront Tunnel Entrance v3.0.esp
 " Better Cities. Already included in Better Cities IC plugins.
+Imperil_City_Tunnel.esp
+" Better Cities.
 IC Tunnel.esp
 " Better Cities.
 ICWaterfrontPassage.esp

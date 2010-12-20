@@ -7647,6 +7647,7 @@ EyeOfNirn.esp
 
 FalamirTheMerchant.esp
 FallenTower.esp
+Fallen_Heroes.esp
 Fallen_Tower_ru.esp
 Fanacasecul.esp
 Farleum V 1.2.esp
@@ -9272,7 +9273,7 @@ Zira Horse Showjumping Track.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
-ChangeAbleWeapon
+ChangeAbleWeapon.esp 
 zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
@@ -11245,6 +11246,7 @@ Hurt me Bad Traps.esp
 \BeginGroup\: overrides I
 
 IC_BattleMage_Remark_Removed-6373.esp
+HealthIndication.esp
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
 Visual Health Indication.esp

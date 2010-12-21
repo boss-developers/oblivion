@@ -3568,6 +3568,7 @@ GoldAndSilverSuits.esp
 Goldbrand Rapier.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
+Golden Daedric Armor.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
 GothFreak's Celtic Rings and Swords.esp
@@ -6663,6 +6664,11 @@ $ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
 CNRP FightersGuild4OOO.esp
 % {{BASH:Invent}}
 \EndGroup\\
+\BeginGroup\: Creatures - New
+\Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
+LBVermin.esp
+LBWaterBeasts.esp
+\EndGroup\\
 
 Creature Restorations.esp
 
@@ -6846,6 +6852,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 
 [Calsar] BetterWhiteStallionLodge.esp
 (SFL) Knights of the Thorn Lodge.esp
+(SFL) Campus Village.esp
 
 001_LM_ElvenGardenRetreat.esp
 ^ Possibly incompatible with Better Cities (needs confirmation).
@@ -7405,6 +7412,7 @@ Cheydinhal House.esp
 Cheydinhal Petshop.esp
 ? Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
 ChorrolFirstHouse.esp
+Christmas Peaks.esp
 Cinderella Craft V2.0.esp
 Clover the lucky pig.esp
 cloudcity mod V1.1.esp
@@ -8409,6 +8417,7 @@ Nanaelas Heartbreak.esp
 nazarianlibraryV3beta.esp
 NecroHideOut.esp
 NecromancerHunting.esp
+Necromancer Lair.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
 Nerussa The Wine Collector v1.0.esp
@@ -8750,6 +8759,9 @@ Side's Skingrad House (Bathing).esp
 Side's Skingrad House (BloodyMess).esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
+ardah.esp
+ardah Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 Silorn Manor.esp
 Silvercliff.esp
 SilverSoul Hideaway_v1.1.esp
@@ -8770,6 +8782,7 @@ SkyCastle.esp
 Skyrim Alive.esp
 Skye Village Final.esp
 Sky Haven.esp
+SkyrimObservatory.esp
 SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
@@ -9732,6 +9745,7 @@ ShezriesVillagesCOBL.esp
 ShezriesTownsMaster.esp
 ShezriesTownsMaster Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+GoC_ShezriesTowns_Patch.esp
 LostSpires+PellsGate Patch.esp
 
 Well of Arcane Marking.esp
@@ -10365,6 +10379,8 @@ SnowLineLodge-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
 OOOCliffsOfAnvilPatch.esp
+xulCliffsOfAnvil Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -10444,6 +10460,7 @@ Legion Ranger Addon.esp
 
 Lilyvale.esp
 LilyvaleULcompatibility.esp
+LilyBATTLEHORNcompatibility.esp
 
 Millstone_Farm.esp
 Millstone_Farm_COBL.esp
@@ -11586,6 +11603,7 @@ Retros Fletching and Imbueing 1.7.1_rus.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
 RingRobeHGEC.esp
+Robes with Clothes Fix.esp
 Rock Remover - Shore.esp
 RTSWelkyndClstrTreasure.esp
 Rowboats.esp
@@ -15410,6 +15428,7 @@ bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH:NoMerge,NpcFaces}}
+Prettier Saints and Seducers.esp
 SkinMannequinCOBL-sleep.esp
 SkinMannequinCOBL-nosleep.esp
 \EndGroup\\

@@ -9649,12 +9649,6 @@ The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
-ImpeREAL Empire - Unique Forts.esp
-ImpeREAL Empire - Unique Forts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-ImpeREALForts+LostSpires Patch.esp
-LostSpiresImpeREALFortsPatch2.esp
-
 SoT_TheOrderofNibenay.esp
 ? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
 LostSpires_TheOrderofNibenay_patch.esp
@@ -9751,6 +9745,12 @@ ShezriesTownsMaster Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 GoC_ShezriesTowns_Patch.esp
 LostSpires+PellsGate Patch.esp
+
+ImpeREAL Empire - Unique Forts.esp
+ImpeREAL Empire - Unique Forts Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+ImpeREALForts+LostSpires Patch.esp
+LostSpiresImpeREALFortsPatch2.esp
 
 Well of Arcane Marking.esp
 \EndGroup\\

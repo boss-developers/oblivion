@@ -9642,7 +9642,6 @@ CUO_Bravil.esp
 ? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
 
 The Lost Spires.esp
-LostSpiresImpeREALFortsPatch2.esp
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 ? Old Version.
@@ -9654,6 +9653,7 @@ ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 ImpeREALForts+LostSpires Patch.esp
+LostSpiresImpeREALFortsPatch2.esp
 
 SoT_TheOrderofNibenay.esp
 ? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide

@@ -5348,6 +5348,7 @@ AncientTowers.esp
 AncientTowers Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 AncientTowersNoExnem.esp
+ClassedBeginning.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
 ? Only use this or Goblin Realswords.esp (or FCOM)

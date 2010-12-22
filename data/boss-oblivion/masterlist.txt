@@ -9747,12 +9747,6 @@ ShezriesTownsMaster Vwalk.esp
 GoC_ShezriesTowns_Patch.esp
 LostSpires+PellsGate Patch.esp
 
-ImpeREAL Empire - Unique Forts.esp
-ImpeREAL Empire - Unique Forts Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-ImpeREALForts+LostSpires Patch.esp
-LostSpiresImpeREALFortsPatch2.esp
-
 Well of Arcane Marking.esp
 \EndGroup\\
 
@@ -10415,6 +10409,12 @@ TrailsOfCyrodiil-UL merged patch.esp
 \'''''''''''''''
 
 A Imperial Outpost - Fort Novi Sad.esp
+
+ImpeREAL Empire - Unique Forts.esp
+ImpeREAL Empire - Unique Forts Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+ImpeREALForts+LostSpires Patch.esp
+LostSpiresImpeREALFortsPatch2.esp
 
 exhICMO.esp
 : BC/OC IC Market District Components.

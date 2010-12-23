@@ -2802,6 +2802,7 @@ avarm.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1BDSword [ENG].esp
+1DethWeapons.esp
 1Elven.esp
 1SBVampireOutfits.esp
 1SBFingerArmor.esp
@@ -3911,6 +3912,7 @@ Medieval Shields.esp
 Meerkat Clothing.esp
 MerryBellInn.esp
 MilkJugsComplete.esp
+minibloomers.esp
 Mirage_Rosewood.esp
 Mirror_1C.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
@@ -5190,6 +5192,8 @@ GizmodianSorceress.esp
 \BeginGroup\: Horse Mods
 \----------
 
+1SI_Horses.esp
+: Shivering Isles.
 a4sFlamingNightmare.esp
 % {{BASH:Graphics,Scripts,ScriptContents}}
 Shivering Isles Horse.esp
@@ -5336,6 +5340,8 @@ Rund ums Streitross.esp
 ? German mod.
 CavalryCustomization.esp
 FastHorse v03.esp
+Faster Horses.esp
+% {{BASH:Actors.Stats,Actors.ACBS}}
 Zira's Medieval Horse Clothes.esp
 \EndGroup\\
 
@@ -7867,7 +7873,7 @@ High Rock.esp
 HighwaymanHideway.esp
 HobbitHole.esp
 Hobbit Hole Revamped.esp
-SYS Patch Hobbit Hole Revemped.esp
+SYS Patch Hobbit Hole Revamped.esp
 Holy Cathedral.esp
 Home_1.1a.esp
 Home in Bleakers Way.esp
@@ -9858,6 +9864,7 @@ ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 : OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
+Elsweyr Anequina - Morrowind Drinks COBL patch
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
@@ -13696,6 +13703,7 @@ CDM-CGO Vanilla Skill Levelling Slower.esp
 CDM-CGO Level Up.esp
 ExperienceBasedTraining.esp
 : OBSE 16+
+Faster Leveling.esp
 Faster Level Up X2.esp
 Faster Level Up X3.esp
 Faster Level Up X4.esp

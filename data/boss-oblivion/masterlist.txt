@@ -114,7 +114,6 @@ Waalx Animals & Creatures.esm
 Diverse Wisps - Base.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
-Hemingweys Capes Improved.esm
 SoS Library.esm
 Enhanced Daedric Invasion.esm
 ORP.esm
@@ -134,6 +133,7 @@ ArmamentariumEnchanted.esm
 ? Outdated, included in newest Armamentarium Complete.
 azsTHouse.esm
 Artifacts.esm
+Hemingweys Capes Improved.esm
 Underwear HGEC Fighter.esm
 Underwear HGEC Normal.esm
 DremoraCompanion.esm
@@ -5685,6 +5685,7 @@ Hemingweys Capes Improved for OOO.esp
 % {{BASH:Invent,Scripts,Stats}}
 Hemingweys Capes Improved.esp
 % {{BASH:Invent,Stats}}
+Hemingweys Capes Improved No Tail Capes Patch.esp
 \
 Hemingweys Capes Improved Merchants.esp
 \
@@ -6998,6 +6999,7 @@ MoreTapestry.esp
 ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
+SYS Patch for Enchanted Druid Treehome.esp
 Adventures Gear.esp
 AK_corpses_collector.esp
 AkaviriKojima.esp
@@ -7334,6 +7336,7 @@ BXX Tamriel Resource Exchange.esp
 
 CaesarHealer.esp
 CaesarRanger.esp
+SYS Patch Caesar Ranger.esp
 Camp Simplicity.esp
 Campus Village.esp
 Capsized Ship.esp
@@ -8611,6 +8614,8 @@ RavenCragHome.esp
 Ravenrock.esp
 ? Shivering Isles.
 RavenviewVillageVer2.0.esp
+Rangerhome01.esp
+SYS Patch RangerHome01.esp
 Ranokoas City Stealth Exits.esp
 UnseenExits.esp
 rdHeavenlyHome.esp
@@ -8673,6 +8678,8 @@ RumpleMod Vwalk.esp
 RunedRobes.esp
 runestone.esp
 RuneTower.esp
+RusticHome.esp
+SYS Patch Rustic Home.esp
 rusty.esp
 The Ranger's House.esp
 rayearth.esp
@@ -8762,6 +8769,7 @@ Side's Skingrad House.esp
 Side's Skingrad House (COBL).esp
 Side's Skingrad House (Bathing).esp
 Side's Skingrad House (BloodyMess).esp
+SYS Patch for Sides Skingrad House.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
 ardah.esp
@@ -10723,6 +10731,8 @@ FCOM_UnofficialFranArmorAddon.esp
 : 'Fran Armor Add-on.esp' from 'Unofficial Francesco's Armor'.
 
 NPC new clothes V2.6.esp
+NPC new clothes V2.6 Modified.esp
+>? If using FCOM, rename this to 'NPC new clothes V2.6.esp' or adjust the masterlist with Wrye Bash for 'FCOM_NewNPCClothes.esp'.
 FCOM_NewNPCClothes.esp
 : 'New NPC Clothes 2.6'.
 KS - Cities FPS Boost.esp

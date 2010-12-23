@@ -7032,6 +7032,9 @@ Amen'thalas non-Cobl, for SI.esp
 ? Rename to Amen'thalas.esp
 Amen'thalas non-Cobl, non-SI.esp
 ? Rename to Amen'thalas.esp
+Amen'thalas - AN Patch.esp
+Amen'thalas - HOD Patch.esp
+SYS Patch-Amen'thalas Well House.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
 Ancient_Islands-4896.esp
@@ -7864,6 +7867,7 @@ High Rock.esp
 HighwaymanHideway.esp
 HobbitHole.esp
 Hobbit Hole Revamped.esp
+SYS Patch Hobbit Hole Revemped.esp
 Holy Cathedral.esp
 Home_1.1a.esp
 Home in Bleakers Way.esp
@@ -8761,6 +8765,7 @@ Side's Bruma House (BloodyMess).esp
 Side's Cheydinhal House.esp
 Side's Cheydinhal House (BathMod).esp
 Side's Cheydinhal House (COBL).esp
+SYS Patch-Side's Cheydinhal House.esp
 Side's Sailing Ships.esp
 Side's Sailing Ships (Bathing).esp
 Side's Sailing Ships (BloodyMess).esp
@@ -10337,6 +10342,7 @@ Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
 ImperialCitySuburbs-ImperialIsle patch.esp
+? Don't use UL Imperial Isle Adense Epic Dungeon Patch.esp in conjunction with ImperialCitySuburbs-ImperialIsle patch.esp (causes land tears)
 ImperialManor-ImperialIsle patch.esp
 ImperialManor-ImperialIsle patch DV.esp
 UL Imperial Isle Adense Epic Dungeon Patch.esp

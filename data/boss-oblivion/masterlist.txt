@@ -11180,6 +11180,8 @@ Everlasting Corpses v 1.0.esp
 
 \BeginGroup\: overrides F
 
+Factions DB v1.16.esp
+% {{BASH:Actors.ACBS,Actors.AIPackages,Actors.Stats,Graphics,Invent,Names,Scripts,Stats}}
 faster-grass.esp
 Faster-trees.esp
 FG_Merchant Inventory Realism V 1_5.esp

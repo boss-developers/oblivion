@@ -6303,9 +6303,9 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 
 WAC.esp
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells,Graphics,Invent,Relev}}
+% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relev}}
 WAC - TCOS.esp
-% {{BASH:Graphics,Invent,NPC.Race,Relev}}
+% {{BASH:Actors.ACBS,Actors.Stats,Delev,Graphics,Invent,NPC.Race,Relev}}
 WAC - TCOS Invent only.esp
 % {{BASH:Invent}}
 WAC - TCOS Shops.esp

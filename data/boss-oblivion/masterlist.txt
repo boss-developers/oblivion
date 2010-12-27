@@ -6299,43 +6299,6 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 ? Obsolete. Upgrade to latest version and remove.
 \EndGroup\\
 
-\BeginGroup\: Waalx Animals and Creatures
-\'''''''''''''''''''
-
-WAC.esp
-WAC - OverSpawn.esp
-% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relations,Relev}}
-WAC - BlackBootDungeon.esp
-WAC - Dead Knights.esp
-WAC - Player Summons.esp
-WAC - Birds&Insects.esp
-WAC - Companions.esp
-% {{BASH:Factions}}
-WAC - Horses.esp
-% {{BASH:Graphics}}
-WAC - TCOS.esp
-% {{BASH:Actors.ACBS,Actors.Stats,Delev,Graphics,Invent,NPC.Race,Relev}}
-WAC - TCOS Invent only.esp
-% {{BASH:Invent}}
-WAC - TCOS Shops.esp
-% {{BASH:Graphics,Invent}}
-WAC - TCOSFix.esp
-% {{BASH:Delev,Invent,Relev}}
-WAC - 8th Gate.esp
-WAC - Legion.esp
-% {{BASH:Graphics,Invent}}
-WAC - Gladiator.esp
-% {{BASH:Actors.AIPackages,Delev,Graphics,Invent,Relev,Stats}}
-WAC - Magic.esp
-WAC - QuietFeet.esp
-
-WACESM_MiscItemsRebal.esp
-% {{BASH:Stats}}
-WACESM_Ingredients_Rebalance.esp
-% {{BASH:Stats}}
-WAC-OOO.esp
-\EndGroup\\
-
 \BeginGroup\: OWC New Dimensions
 OWC - Mannequin.esp
 OWC - Seaworld.esp
@@ -6644,6 +6607,43 @@ Adventurers_1.0.esp
 ? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be able to be made work with MMM.
 un-leveled-shops.esp
 % {{Invent,Relev}}
+\EndGroup\\
+
+\BeginGroup\: Waalx Animals and Creatures
+\'''''''''''''''''''
+
+WAC.esp
+WAC - OverSpawn.esp
+% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relations,Relev}}
+WAC - BlackBootDungeon.esp
+WAC - Dead Knights.esp
+WAC - Player Summons.esp
+WAC - Birds&Insects.esp
+WAC - Companions.esp
+% {{BASH:Factions}}
+WAC - Horses.esp
+% {{BASH:Graphics}}
+WAC - TCOS.esp
+% {{BASH:Actors.ACBS,Actors.Stats,Delev,Graphics,Invent,NPC.Race,Relev}}
+WAC - TCOS Invent only.esp
+% {{BASH:Invent}}
+WAC - TCOS Shops.esp
+% {{BASH:Graphics,Invent}}
+WAC - TCOSFix.esp
+% {{BASH:Delev,Invent,Relev}}
+WAC - 8th Gate.esp
+WAC - Legion.esp
+% {{BASH:Graphics,Invent}}
+WAC - Gladiator.esp
+% {{BASH:Actors.AIPackages,Delev,Graphics,Invent,Relev,Stats}}
+WAC - Magic.esp
+WAC - QuietFeet.esp
+
+WACESM_MiscItemsRebal.esp
+% {{BASH:Stats}}
+WACESM_Ingredients_Rebalance.esp
+% {{BASH:Stats}}
+WAC-OOO.esp
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul

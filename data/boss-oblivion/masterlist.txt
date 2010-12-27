@@ -111,6 +111,7 @@ Mart's Monster Mod for OOO.esm
 % {{BASH:Delev,Factions,Relations,Relev}}
 Waalx Animals & Creatures.esm
 " other overhaul mods.
+Natural_Habitat_by_Max_Tael.esm
 Diverse Wisps - Base.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
@@ -6303,7 +6304,15 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 
 WAC.esp
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relev}}
+% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relations,Relev}}
+WAC - BlackBootDungeon.esp
+WAC - Dead Knights.esp
+WAC - Player Summons.esp
+WAC - Birds&Insects.esp
+WAC - Companions.esp
+% {{BASH:Factions}}
+WAC - Horses.esp
+% {{BASH:Graphics}}
 WAC - TCOS.esp
 % {{BASH:Actors.ACBS,Actors.Stats,Delev,Graphics,Invent,NPC.Race,Relev}}
 WAC - TCOS Invent only.esp
@@ -6312,19 +6321,12 @@ WAC - TCOS Shops.esp
 % {{BASH:Graphics,Invent}}
 WAC - TCOSFix.esp
 % {{BASH:Delev,Invent,Relev}}
-WAC - Birds&Insects.esp
-WAC - BlackBootDungeon.esp
-WAC - Companions.esp
 WAC - 8th Gate.esp
-WAC - Dead Knights.esp
-WAC - Gladiator.esp
-% {{BASH:Delev}}
-WAC - Horses.esp
-% {{BASH:Graphics}}
 WAC - Legion.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,Invent}}
+WAC - Gladiator.esp
+% {{BASH:Actors.AIPackages,Delev,Graphics,Invent,Relev,Stats}}
 WAC - Magic.esp
-WAC - Player Summons.esp
 WAC - QuietFeet.esp
 
 WACESM_MiscItemsRebal.esp

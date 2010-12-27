@@ -6303,18 +6303,25 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 
 WAC.esp
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells,Graphics,Relev}}
+% {{BASH:Actors.Spells,Graphics,Invent,Relev}}
 WAC - TCOS.esp
 % {{BASH:Graphics,Invent,NPC.Race,Relev}}
 WAC - TCOS Invent only.esp
-% {{BASH:Invent,NPC.Race}}
+% {{BASH:Invent}}
 WAC - TCOS Shops.esp
 % {{BASH:Graphics,Invent}}
 WAC - TCOSFix.esp
 % {{BASH:Delev,Invent,Relev}}
+WAC - Birds&Insects.esp
 WAC - BlackBootDungeon.esp
+WAC - Companions.esp
 WAC - 8th Gate.esp
 WAC - Dead Knights.esp
+WAC - Gladiator.esp
+WAC - Horses.esp
+% {{BASH:Graphics}}
+WAC - Legion.esp
+% {{BASH:Graphics}}
 WAC - Magic.esp
 WAC - Player Summons.esp
 WAC - QuietFeet.esp

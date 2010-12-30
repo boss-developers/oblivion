@@ -9921,7 +9921,7 @@ Vergayun Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 Faregyl.esp
-% {{BASH:Factions,Relations}}
+{{BASH:Actors.AIPackages,Factions,Relations}}
 Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp

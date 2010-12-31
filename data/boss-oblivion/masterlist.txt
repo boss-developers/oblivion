@@ -150,6 +150,7 @@ BathingMod_Base.esm
 BP EDIT.esm
 BurningItemsMasterF.esm
 Lovers with PK.esm
+LoversCreature.esm
 BreakUndies.esm
 CURP_Controller.esm
 No Lights Flicker.esm
@@ -6615,6 +6616,8 @@ un-leveled-shops.esp
 WAC.esp
 WAC - OverSpawn.esp
 % {{BASH:Actors.Spells,Delev,Graphics,Invent,Relations,Relev}}
+WAC - OverSpawn4OOO.esp
+% {{BASH:Delev,Relev}}
 WAC - BlackBootDungeon.esp
 WAC - Dead Knights.esp
 WAC - Player Summons.esp
@@ -16928,7 +16931,7 @@ no_mouse_wheel.esp
 LoversIdleForceReset.esp
 * Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev41 and newer.
 LoversIdleAnimsPriority.esp
-Lovers—reatureIdleAnimsPriority.esp
+LoversCreatureIdleAnimsPriority.esp
 LoversAnimObjectsPriority.esp
 
 Voice_Fix.esp

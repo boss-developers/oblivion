@@ -5507,8 +5507,6 @@ FCOM_ExnemRuneskulls.esp
 
 MMM_Runeskull_Rebalance_BETA2.esp
 
-FCOM_AyleidCoinDelev.esp
-
 Slof's Oblivion Robe Trader.esp
 % {{BASH:Graphics}}
 >: 'FCOM_SlofsRobeTrader.esp'.
@@ -6574,6 +6572,8 @@ Tamrielic_Ingredients_FraM.esp
 
 Morrowind Ingredients_MMM.esp
 ? Consider Upgrading to Tamrielic Ingredients.
+
+FCOM_AyleidCoinDelev.esp
 
 FCOM_Archery_4_Arma_Complete_patch.esp
 % {{BASH:Stats}}

@@ -6239,8 +6239,8 @@ Mart's Monster Mod - Hairy Spiders Addon.esp
 ? Old, upgrade to MMM 3.7b3+
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
-% {{BASH:Graphics}}
-" Slof's Horses or Slof's Extra Horses.
+% {{BASH:Actors.AIPackages,Graphics,Scripts}}
+" Slof's Horses or Slof's Extra Horses or use Wrye Bash Bashed Patch
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 " MMM Gems & Gem Dust or MMMforOOO

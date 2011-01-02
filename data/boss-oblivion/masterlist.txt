@@ -2094,8 +2094,6 @@ Sexual_SpiderDaedra.esp
 ? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 OSM-All Genders.esp
 % {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
-Oblivion Sexualized Monsters-exclu TRM.esm
-% {{BASH:Graphics,Invent,Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Nude Humanlike Spriggan.esp
 " Oblivion Sexualized Monsters (OSM)
 ? USE ONE 'nude * Spriggan.esp' ONLY
@@ -2455,7 +2453,6 @@ DropLitTorchOBSE.esp
 DS Time Manager.esp
 Duke Patricks - Follow That Actor.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
-Dynamic Map.esp
 
 Enhanced Seasons.esp
 
@@ -3096,7 +3093,6 @@ BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
 BlessedMageKnightDress.esp
 Blood Knight Armor.esp
-Blood Mage.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bloodwine-6073.esp
@@ -3368,7 +3364,6 @@ DivineShields.esp
 DKAionProject.esp
 DMCDanteClothes.esp
 Dollparts_CorsetsoftheRose.esp
-DFSL Leathery 4.esp
 DLCRequestedCaps.esp
 DMACArmor.esp
 DMCWeapons.esp
@@ -3730,7 +3725,6 @@ JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
 Ji.esp
 Joe's Energy Bow.esp
-Journeyman_armor.esp
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
 Journeyman_armor.esp
@@ -4082,7 +4076,6 @@ Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
 SLPD_Ponytail.esp
-Priestess_of_Dibella_HGEC.esp
 Priests of Dibella.esp
 PTArtifacts.esp
 Phitts-Artifacts_DV.esp
@@ -4206,8 +4199,6 @@ ShinobiSet.esp
 ShinobiSet_NoEnchant.esp
 Shadowlord Armours.esp
 ShadowMailArmor_v.1.0.esp
-ShadowWatcher_HGEC_v2_b.esp
-ShadowWatcher_HGEC_v2.esp
 Shadowsilk.esp
 Shamshires.esp
 Shdw_Armor pack01.esp
@@ -4471,7 +4462,6 @@ tona_whitesquall-armor_ver2.esp
 Town Guard Armor Replacers.esp
 % {{BASH:Graphics}}
 TripleArrows_1C.esp
-TreasuresOfTyrV10.esp
 Tribute armor.esp
 TristanSword.esp
 trfdaedricarmors.esp
@@ -4827,8 +4817,6 @@ DMRA Stock Armor Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA  Skimpy Armor Expanded.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
-DMRA Stock Clothing Skimpy.esp
-% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Robe Skimpy Replacer.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 HGEC Glass Replacement.esp
@@ -5027,6 +5015,7 @@ HG Lady Shadow.esp
 Elegance_HGEC.esp
 Blackmarsh_Witch_HGEC.esp
 ShadowWatcher_HGEC_v2.esp
+ShadowWatcher_HGEC_v2_b.esp
 Swim Suit Retextured By DH13 Part 3.esp
 Robed Panty.esp
 Opale armor for Exnem body.esp
@@ -5331,7 +5320,6 @@ SBsaddlebags.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
-Benjamin the Donkey.esp
 Black and Daedric Unicorn's.esp
 Orion the Ox.esp
 Shadowfax-2838.esp
@@ -6279,7 +6267,6 @@ SubSpecies Variety Pack.esp
 SubSpecies Variety Pack #1 - Canines (full version).esp
 Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
-Jade Dishes for MMM - HnC.esp
 
 FaunaOfTamriel.esp
 Creature Diversity.esp
@@ -7086,7 +7073,6 @@ Anvil_MorningGloryBetterCities_Purple.esp
 Anvil_MorningGloryBetterCities_Mixed.esp
 ? Use only one Anvil_MorningGlory mod module.
 
-AbandonedHouse.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 APSFortIronyBETA.esp
@@ -8166,7 +8152,6 @@ Burning Kvatch.esp
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
-Kvatch Rebuilt Swalk.esp
 OCC-KR-Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
@@ -8867,7 +8852,6 @@ Stonemere.esp
 StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
-Street Market.esp
 sunk ships.esp
 Shield of the Gods v0.82.esp
 Ship Wrack.esp
@@ -9155,7 +9139,6 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 
 \BeginGroup\: Quests V
 
-Vaernlor Manor.esp
 Valenwood Improved.esp
 Valley_View_Estate.esp
 Valus Cottage.esp
@@ -11464,7 +11447,6 @@ movablebodies.esp
 MTC Stable Interiors.esp
 Music Controller.esp
 MYR_AyleidKing.esp
-MQSDone.esp
 MQ Consideration.esp
 mzBe A Beggar.esp
 
@@ -11621,7 +11603,6 @@ RedBag - Friendly Animals.esp
 RedBag - Dangerous Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
-ReneerKeyLockMod.esp
 ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
@@ -13027,6 +13008,11 @@ CALSUDG.esp
 : OBME, OBSE 18+
 CALSUDGPlugin.esp
 
+ES4_Spell Names by Effect.esp
+% {{BASH:Names}}
+
+Health_Spell_Cost-2088.esp
+
 Levelled Spell Names.esp
 % {{BASH:Names}}
 
@@ -13172,7 +13158,6 @@ dyseso_Alchemy_Potion_Perks.esp
 PoisonIvy.esp
 lumi_alchemyexpanded.esp
 Poison Combiner.esp
-Advanced Magecraft.esp
 Weapon Magic.esp
 varlatest.esp
 " mods that alter Welkynd or Varla stones or the AyleidWell script.
@@ -14212,8 +14197,6 @@ Better Looking Dark Elves.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Dremora.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Dark Elves.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Redguards Vwalk.esp
@@ -14916,8 +14899,6 @@ Minionz.esp
 AsharasCharactersAsNPCs.esp
 : RBP full
 
-CompanionMaster.esp
-
 CSR Fixed.esp
 CSR Balanced.esp
 not_recruit_companions.esp
@@ -15291,7 +15272,6 @@ Tamara.esp
 Tiamat the Firedrake.esp
 BetterShack.esp
 Candlelight.esp
-Additional Cosmetics for BP.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 VampireCompanion.esp
@@ -15503,9 +15483,6 @@ ZUSIO-MMM SI-patch.esp
 ZUSIO-Map MarkerOverhaul SI-patch.esp
 ZUSIO-SM Plugin Refurbish SI-patch.esp
 \EndGroup\\
-
-ES4_Spell Names by Effect.esp
-Health_Spell_Cost-2088.esp
 
 \BeginGroup\: L.A.M.E.
 \''''''''
@@ -16691,7 +16668,6 @@ LightSpellEvilRed.esp
 LightSpellTorch.esp
 LightSpellWhite.esp
 LightSpellWhiteDimmer.esp
-ScriptEffectSubduer.esp
 SnArrowEffects.esp
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp

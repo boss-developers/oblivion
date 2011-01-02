@@ -1949,7 +1949,7 @@ Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
 personality_idles_custom.esp
-/before P1DseeYouSleep... hopefully will work better
+\before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
 P1DanywhereSittable.esp
@@ -6673,7 +6673,7 @@ CNRP DB.esp
 $ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
 CNPR DB for OOO.esp
 % {{BASH:Invent,Graphics}}
-/looks like a mispelling but listed on the mod page as such so maybe?
+\looks like a mispelling but listed on the mod page as such so maybe?
 CNRP DB for OOO.esp
 % {{BASH:Invent,Graphics}}
 CNRP FB for OOO.esp
@@ -6958,7 +6958,7 @@ AddisHeadhunterMod EV.esp
 Adele_blackSwanBoutique.esp
 Epic_Dungeon.esp
 AdenseEpicDungeon.esp
-/ It's a bit like a merry-go-round. Yay for going back to a simple plugin name!
+\ It's a bit like a merry-go-round. Yay for going back to a simple plugin name!
 ? Newest version has the same name as the original. Check that you're using at least v1.5.2.
 AdenseEpicDungeon1_1.esp
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
@@ -6969,7 +6969,7 @@ AdenseEpicDungeon1_3.esp
 AdenseEpicDungeon1_4.esp
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 AdenseEpicDungeon1_5.esp
-/ Yay for renaming esp at every version.
+\ Yay for renaming esp at every version.
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 Adenses Better Waterfront.esp
 Adoring_Fan_Platinum_Edition!!!-8619.esp
@@ -7038,7 +7038,7 @@ AleswellHomeQuest.esp
 Aleswell House.esp
 AyleidMarket.esp
 AyleidQuest.esp
-Ayleid Treasury
+Ayleid Treasury.esp
 Amajor7 Imperial Furniture.esp
 Imperial Furniture Renovated.esp
 Imperial Furniture Renovated - Patch.esp
@@ -7746,7 +7746,7 @@ Waterfront Lighthouse Enhanced.esp
 
 FuseFruitMachine.esp
 FuseSnailRacing.esp
-If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp'.
+? If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp'.
 \EndGroup\\
 
 \BeginGroup\: Quests G
@@ -9705,7 +9705,7 @@ GuardsofCyrodiilRedux - RRLRpatch.esp
 
 Mighty Umbra.esp
 % {{BASH:Graphics}}
-FCOM users might consider 'FCOM_MightyUmbra.esp'
+? FCOM users might consider 'FCOM_MightyUmbra.esp'.
 Mighty Umbra - Vanilla OB.esp
 KORE- Blood Drinker Umbra.esp
 
@@ -9881,7 +9881,7 @@ ElsweyrC&CBlackwoodPatch.esp
 Enhanced Weather - Elsweyr Anequina Patch.esp
 : OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
-Elsweyr Anequina - Morrowind Drinks COBL patch
+Elsweyr Anequina - Morrowind Drinks COBL patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
@@ -9929,7 +9929,7 @@ Vergayun Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
 Faregyl.esp
-{{BASH:Actors.AIPackages,Factions,Relations}}
+% {{BASH:Actors.AIPackages,Factions,Relations}}
 Faregyl-FGRoad-Patch.esp
 ? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp
@@ -12957,7 +12957,7 @@ MidasSpells.esp
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
-{{BASH:Relev}}
+% {{BASH:Relev}}
 Midas' Shortcut.esp
 MidasMagicCompanions.esp
 MMC_Iphigenia.esp
@@ -13086,7 +13086,7 @@ Spell Ranks.esp
 
 SSEE.esp
 Useful_TK-10337.esp
-Poison Spells
+Poison Spells.esp
 Poison FX.esp
 Poison Arrows.esp
 : OBSE 15 or higher.
@@ -13128,7 +13128,7 @@ Cure Disease Overhaul – Extreme Diseases.esp
 % {{BASH:Actors.Spells,SpellStats}}
 Cure Disease Overhaul - Extreme Diseases.esp
 % {{BASH:Actors.Spells,SpellStats}}
-/okay WTF - those two entries above here are DIFFERENT! - a different dash!... which is freaking weird so leave the duplication since it isn't duplication!
+\okay WTF - those two entries above here are DIFFERENT! - a different dash!... which is freaking weird so leave the duplication since it isn't duplication!
 Cure Disease Overhaul - Deadly Diseases (OBSE).esp
 % {{BASH:Actors.Spells,SpellStats,Stats}}
 Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esp
@@ -14013,7 +14013,7 @@ NewAnimation.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Animation - Growlfs Body Resizing Mod.esp
 
-1st Person Legs
+1st Person Legs.esp
 : OBSE 15+.
 SP1stPLegs.esp
 \EndGroup\\
@@ -14115,11 +14115,11 @@ Let There Be Darkness All.esp
 % {{BASH:C.Light,,Deactivate,Filter}}
 
 Cava Obscura - Cyrodiil.esp
-{{BASH:C.Light,Deactivate}}
+% {{BASH:C.Light,Deactivate}}
 Cava Obscura - SI.esp
-{{BASH:C.Light,Deactivate}}
+% {{BASH:C.Light,Deactivate}}
 Cava Obscura - Filter Patch For Mods.esp
-{{BASH:C.Light,Deactivate,Filter}}
+% {{BASH:C.Light,Deactivate,Filter}}
 
 FastTravelAllowed.esp
 
@@ -14376,7 +14376,7 @@ CT-Argonian Headstyles-EE+MM.esp
 % {{BASH:Graphics,Hair,Eyes}}
 MD_Natural_Faces_DV.esp
 % {{BASH:Graphics,Hair,Eyes}}
-King_O_POPver2
+King_O_POPver2.esp
 % {{BASH:Graphics,Hair,Eyes}}
 Naruto's_Eyes_bY_Van_Groud.esp
 % {{BASH:Graphics,Hair,Eyes}}
@@ -14658,7 +14658,7 @@ Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Cute Elves.esp
 % {{BASH:Hair,Eyes,R.Relations}}
-Beautiful People 2ch-Ed Nec Mystic High Elf Remake
+Beautiful People 2ch-Ed Nec Mystic High Elf Remake.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed MS Elves - Sc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
@@ -16428,9 +16428,9 @@ BadderShockFX.esp
 BadderNuclearFireFX.esp
 BetterExplosions.esp
 bgMagicEVShader.esp
-{{BASH:NoMerge,Graphics}}
+% {{BASH:NoMerge,Graphics}}
 bgMagicDVShader.esp
-{{BASH:NoMerge,Graphics}}
+% {{BASH:NoMerge,Graphics}}
 bgMagicShaderLifeDetect.esp
 kuertee bgMagicEVShader default drain effects.esp
 bgMagicLightningbolt.esp
@@ -16722,7 +16722,7 @@ Shining Creatures_DLCFrostcrag.esp
 \--------
 
 a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp
-{{BASH:Body-F,Body-M,Graphics,R.Ears,R.Head,R.Mouth,R.Teeth,Voice-F,Voice-M}}
+% {{BASH:Body-F,Body-M,Graphics,R.Ears,R.Head,R.Mouth,R.Teeth,Voice-F,Voice-M}}
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DeadlierDarkBrotherHood.esp

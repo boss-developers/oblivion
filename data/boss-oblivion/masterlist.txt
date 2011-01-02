@@ -53,7 +53,6 @@ Beautiful People 2ch-Ed.esm
 % {{BASH:Eyes,Graphics,Hair,R.Relations}}
 Jog_X_Mod.esm
 piCore.esm
-ScreenEffects.esm
 Q-Core.esm
 GlobalSettingsInterface.esm
 Inventory Tracker.esm
@@ -264,6 +263,7 @@ John's Leveled List Overhaul.esm
 Sephiroth Companion.esm
 The Arsenal.esm
 TML_WieldableTorches_v10.esm
+ScreenEffects.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods

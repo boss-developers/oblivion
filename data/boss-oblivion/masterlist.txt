@@ -3276,6 +3276,7 @@ Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
 Dark Sorceress.esp
+DarkWoods_Weapons_Armor.esp
 Dauphni Clothing.esp
 DawnWraith.esp
 DBShadowSet.esp
@@ -3891,6 +3892,7 @@ moon.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
 MotherSword.esp
+LACR_MoonshadowBlade_V1.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
 M.O.E. - Playable Scythe.esp
 M.O.E. - Unlocked Palace Guard Armour.esp
@@ -7337,6 +7339,7 @@ Bruma Farm Updated.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 BurySvenjaSnowSong.esp
+Buy A House Shivering Isles.esp
 Buyabletavern.esp
 BXX_Mines.esp
 BXX Tamriel Resource Exchange.esp
@@ -7779,6 +7782,7 @@ goldenarrowarcheryshopfixedprices.esp
 GoldenCrest.esp
 GoldenCrest Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+GoldenCrestBattlehornComp.esp
 Gottshaw.esp
 SRGottshaw0.9 Beta.esp
 GP_Moretta.esp
@@ -8323,6 +8327,8 @@ Madness’ Hideout.esp
 Madness' Hideout.esp
 Mage'sSkyHouse.esp
 Mage'sSkyHouse_cobl.esp
+MSHaddon-cobl.esp
+MSHaddon-SI.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 ? Old name, update to v1.2+.
@@ -9226,6 +9232,7 @@ Well Thief v 1.1.esp
 WestwatchTowerV1.0.esp
 Whispered Warning.esp
 Whispered Warning Rus.esp
+BDBS - Whispered Warning Patch.esp
 Whispers of Death Extended.esp
 White Gold Top.esp
 WhiteGoldTowerV19.esp
@@ -10395,6 +10402,7 @@ xulSkingradOutskirts Vwalk.esp
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
 
 xulSnowdale.esp
+ApachiiHeroesStore-Snowdale patch.esp
 CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
 FrostcragReborn-Snowdale patch.esp
@@ -13322,6 +13330,7 @@ ZumbsLockpickingMod - OBSE.esp
 ZumbsLockpickingMod - Hide Difficulty Addon.esp
 Morrowind Lockpicking.esp
 " Zumbs Lockpicking Mod
+% {{BASH:Relev}}
 
 kuerteeNoLootingDuringCombat.esp
 kuerteeNPCsAreSuspicious.esp
@@ -15098,6 +15107,7 @@ cssMerged12Sets.esp
 cssJeremiah.esp
 cssJaKhaiitMyr.esp
 
+\BeginGroup\: Vilja Companion
 1em_Vilja.esp
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -15143,11 +15153,65 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-
+1em_Vilja_coolhair41.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair49.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair51.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair56.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair59.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair60.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair64.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_coolhair65.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair1.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair2.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair3.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair4.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair5.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair6.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair7.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair8.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair9.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair10.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair11.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair12.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair13.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair14.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair15.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair16.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair17.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair18.esp
+? Use only one 1em_Vilja_*hair*.esp.
+1em_Vilja_RenHair19.esp
+? Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions,NoMerge}}
+\EndGroup\\
 Aliyah.esp
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 ArianaTrudeaux.esp

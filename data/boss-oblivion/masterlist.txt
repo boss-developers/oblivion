@@ -6267,8 +6267,9 @@ Spiders Addon.esp
 ? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
 
 FaunaOfTamriel.esp
-Creature Diversity.esp
 Creatures Alive v1.3.esp
+Creature Diversity.esp
+% {{BASH:Relev}}
 ReteroX_BEvilSkeletons.esp
 ReteroX_BBEvilSkeletons.esp
 Revenants.esp

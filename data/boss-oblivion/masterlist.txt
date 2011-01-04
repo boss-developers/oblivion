@@ -6600,7 +6600,7 @@ Diverse Imperial Armor v1.1.esp
 Adventurers_1.0.esp
 ? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be able to be made work with MMM.
 un-leveled-shops.esp
-% {{Invent,Relev}}
+% {{BASH:Invent,Relev}}
 \EndGroup\\
 
 \BeginGroup\: Waalx Animals and Creatures

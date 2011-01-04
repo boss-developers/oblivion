@@ -1,0 +1,599 @@
+﻿\ This is the old FCOM-only version of the masterlist for Oblivion.
+\ It is heavily out of date, and should not be used.
+\ It is kept on the SVN repository simply as a record.
+\ Leading symbol code:
+\
+\ \ A silent comment - will be ignored by the program.
+\ % A Bashed Patch suggestion for the mod above.
+\ ? A comment about the mod above.
+\ * Flags a critical mistake for FCOM installation in relation to the mod above.
+\
+\ Multiple remark/comment/bash/error lines allowed.
+
+\----
+\ESMs
+\----
+
+Oblivion.esm
+Francesco's Leveled Creatures-Items Mod.esm
+Francesco's Optional New Items Add-On.esm
+Francesco's Optional New Creatures Add-On.esm
+* Delete. Not FCOM compatible. Integrated into MMM & FCOM. 
+Tamrielic Ingredients.esm
+? Do not use Tamrielic Ingredients and COBL at the same time.
+Cobl Main.esm
+? Do not use Tamrielic Ingredients and COBL at the same time.
+Oscuro's_Oblivion_Overhaul.esm
+Mart's Monster Mod.esm
+Mart's Monster Mod for OOO.esm
+* Delete. Not compatible with FCOM.
+Enhanced Daedric Invasion.esm
+TamrielTravellers.esm
+FCOM_Convergence.esm
+
+\---
+\UOP
+\---
+
+Unofficial Oblivion Patch.esp
+Unofficial Oblivion Patch-mobs.esp
+FlamesRandomLightUOP.esp
+UOP Vampire Aging & Face Fix.esp
+Oblivion Citadel Door Fix.esp
+
+\---------------
+\Shivering Isles
+\---------------
+
+DLCShiveringIsles.esp
+Unofficial Shivering Isles Patch.esp
+* Use the MOBS version when using Francesco's + FCOM ('Unofficial Shivering Isles Patch-MOBS-FCOM.esp').
+Unofficial_Shivering_Isles_Patch_10MOBS.esp
+? Check for newer version.
+Unofficial Shivering Isles Patch 10MOBS.esp
+? Check for newer version.
+Unofficial Shivering Isles Patch MOBS.esp
+? Check for newer version.
+Unofficial_Shivering_Isles_Patch_MOBS.esp
+? Check for newer version.
+Unofficial Shivering Isles Patch-MOBS.esp
+? Check for newer version.
+Unofficial Shivering Isles Patch-MOBS-FCOM.esp
+
+
+\------------------
+\Fran's (with FCOM)
+\------------------
+
+Francesco's Optional Leveled Quests-SI-only.esp
+Francesco's Optional Leveled Quests-SI only.esp
+Francesco's Optional Chance of Stronger Bosses.esp
+Francesco's Optional Chance of Stronger Enemies.esp
+Francesco's Optional Chance of More Enemies.esp
+Francesco's Optional Leveled Guards.esp
+? Requires Shivering Isles expansion when using FCOM.
+
+Francesco's Dark Seducer Weapons Patch.esp
+FranDarkSeducerWeapFix.esp
+FranSeducerScriptFix.esp
+
+FCOM_Francescos.esp
+? Francesco's Leveled Creatures-Items 4.5b required.
+FCOM_FrancescosItemsAddOn.esp
+? Francesco's Leveled Creatures-Items 4.5b required. 
+? Francesco's supplementary addon package required.
+FCOM_FrancescosNamedBosses.esp
+? Francesco's Leveled Creatures-Items 4.5b required.
+
+Fran Armor Add-on.esp
+? Requires the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs. 
+? Francesco's Leveled Creatures-Items 4.5b required.
+Fran_Lv30Item_Maltz.esp
+? Francesco's Leveled Creatures-Items 4.5b required.
+
+Francesco's More Wilderness Life.esp
+* Delete. Not FCOM compatible.
+Francesco's Optional Dungeon Chest Loot.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional Dungeon Chest Locks.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional House Chest Loot.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional New Adventurers.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional Vendor Tweaks.esp
+* Delete. Not FCOM compatible.
+Francesco's Optional Leveled Quests.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional Leveled Arena.esp
+* Delete. Already integrated into FCOM.
+Francesco's Optional Files.esp
+* Delete. Reinstall Fran's and select "Separate Files" when the option is presented.
+Francesco's Optional Files 1.esp
+* Delete. Reinstall Fran's and select "Separate Files" when the option is presented.
+Francesco's Optional Files 2.esp
+* Delete. Reinstall Fran's and select "Separate Files" when the option is presented.
+Francesco's Optional Files 3.esp
+* Delete. Reinstall Fran's and select "Separate Files" when the option is presented.
+Francesco's Optional Files 4.esp
+* Delete. Reinstall Fran's and select "Separate Files" when the option is presented.
+Francesco's No Reduced Backwards Running.esp
+LuckBasedLootForFrans.esp
+* Delete. Already integrated into FCOM.
+
+
+\-----
+\DLC 1
+\-----
+
+DLCHorseArmor.esp
+DLCHorseArmor - Unofficial Patch.esp
+
+DLCOrrery.esp
+DLCOrrery - Unofficial Patch.esp
+
+DLCVileLair.esp
+DLCVileLair - Unofficial Patch.esp
+
+DLCMehrunesRazor.esp
+DLCMehrunesRazor - Unofficial Patch.esp
+
+DLCSpellTomes.esp
+DLCSpellTomes - Unofficial Patch.esp
+
+\----
+\Base
+\----
+
+Living Economy.esp
+? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
+Living Economy - SI.esp
+? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. 
+? Requires Shivering Isles expansion.
+Living Economy - Items.esp
+
+\-----
+\DLC 2
+\-----
+
+DLCThievesDen.esp
+\DLC Thieves Den note: "Keep after Living Economy (Conflict with NPC Fences from Thieves Den)" [Agiel's load order]
+DLCThievesDen - Unofficial Patch.esp
+
+\----
+\FCOM
+\----
+
+\Optional content mods.
+\''''''''''''''''''''''
+
+KDCircletsOOOOptimized - NPC Equip.esp
+? Requires 'FCOM_KDCircletsOOOOptimizedNPCEquip.esp'.
+FCOM_KDCircletsOOOOptimizedNPCEquip.esp
+? Requires 'KDCircletsOOOOptimized - NPC Equip'.
+
+ExnemRuneskulls.esp
+? Requires 'FCOM_ExnemRuneskulls.esp'
+FCOM_ExnemRuneskulls.esp
+? Requires 'ExnemRuneskulls.esp'.
+
+Slof's Oblivion Robe Trader.esp
+? Requires 'FCOM_SlofsRobeTrader.esp'.
+
+Tamrielic_Ingredients_cOMbo.esp
+? Requires 'FCOM_TamrielicIngredients.esp'.
+FCOM_TamrielicIngredients.esp
+? Requires 'Tamrielic_Ingredients_cOMbo.esp'. 
+? Do not use Tamerielic Ingredients and COBL at the same time.
+
+Tamrielic_Ingredients_MMM.esp
+* Delete. Not FCOM compatible. Use cOMbo plugin instead.
+
+Cobl Glue.esp
+? Requires 'FCOM_Cobl.esp'.
+Cobl Si.esp
+? Requires Shivering Isles expansion.
+OOO 1.32-Cobl.esp
+FCOM_Cobl.esp
+? Requires 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'. 
+? Do not use COBL and Tamerielic Ingredients at the same time.
+Cobl Tweaks.esp
+* Delete. Already included in FCOM_Cobl.esp. 
+COBL-FransCre.esp
+* Delete. Not compatible with FCOM.
+COBL-FransNewCre.esp
+* Delete. Not compatible with FCOM.
+
+Bob's Armory Oblivion.esp
+? Requires 'FCOM_BobsArmory.esp'.
+FCOM_BobsArmory.esp
+? Requires 'Bob's Armory Oblivion.esp'.
+
+Loth's Blunt Weapons.esp
+* Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' + 'FCOM_LothsBluntWeapons.esp'.
+Loth's Blunt Weapons- Mobs.esp
+* Delete. Only use 'Loth's Blunt Weapons For NPCs.esp' + 'FCOM_LothsBluntWeapons.esp'.
+Loth's Blunt Weapons for NPCs.esp
+? Requires 'FCOM_LothsBluntWeapons.esp'.
+FCOM_LothsBluntWeapons.esp
+? Requires 'Loths Blunt Weapons for NPCs.esp'.
+
+Oblivion WarCry.esp 
+* Delete. German version. Use 'Oblivion WarCry EV.esp' instead.
+Oblivion WarCry EV.esp
+? Requires either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
+FCOM_WarCry.esp
+? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
+FCOM_WarCryNoSpawn.esp
+? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
+
+\OOO full and lite.
+\''''''''''''''''''
+
+Oscuro's_Oblivion_Overhaul.esp
+OOO-Water_Weeds.esp
+OOO-Map_Markers_Stock.esp
+OOO-No_Guild_Ownership.esp
+OOO-DLT_Remover.esp
+OOO-Armor_Perks_WearRate_Repair.esp
+OOO-Birthsigns.esp
+OOO-Combat_Skills_Perks_Marksmanship.esp
+OOO-DaedricLord_Quests.esp
+OOO-DaedraLord_Quests.esp
+OOO-Dangerous_traps.esp
+OOO-Deadly_Combat.esp
+OOO-DLT_Immersion.esp
+OOO-Magic_Effects+Enchantments.esp
+OOO-Magic_Effects+Spells.esp
+OOO-Magic_Game_Settings.esp
+OOO-Potions.esp
+OOO-Thief_Guild_Difficult.esp
+OOO-ThiefGuild_Difficult.esp
+OOO-Magic_Script_Effect_Fix.esp
+OOO-Container_Trap_Instant_Effects.esp
+OOO-Ayleid Coin Add-on.esp
+* Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
+OOO132RC3Hotfixes.esp 
+* Delete. Use newer version of OOO. Integrated into OOO v1.32.Final and newer.
+OOO132RC3MapMarkers.esp
+* Delete. Use newer version of OOO. Now a different plugin in OOO v1.32.Final and newer.
+OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
+OOO-LightOfDawnAlwaysFlames.esp
+
+\FCOM Convergence.
+\'''''''''''''''''
+Mart's Monster Mod.esp
+* Delete. Use 'FCOM_convergence.esp'.
+Mart's Monster Mod for FCOM.esp
+* Delete. Old. Use 'FCOM_convergence.esp'.
+? Update MMM to 3.6beta3 or later.
+Mart's Monster Mod for Fran.esp
+* Delete. Not needed with FCOM.
+Mart's Monster Mod for Francescos.esp
+* Delete. Not needed with FCOM.
+Mart's Monster Mod for OOO.esp
+* Delete. Not needed with FCOM.
+Mart's Monster Mod - Fran's Leveled Quests.esp 
+* Delete. Already integrated into FCOM. 
+
+Mart's Monster Mod - Additional Enemy NPC Vars.esp
+* May cause CTD issues - not recommended.
+
+FCOM_Convergence.esp
+FCOM_ConvergenceNoFran.esp
+* Old. Install FCOM version 0.9.9 or later.
+FCOM_OscurosOverhaul.esp
+? Only use when not using MMM.
+
+Mart's Monster Mod - Blood Fix v3.esp
+? Not needed in MMM 3.6beta3 Intergrated.
+Mart's Monster Mod - Lesser Balrog Fix.esp
+MMM - UberhulkParalyzeFix.esp 
+Mart's Monster Mod - GhostApparitionFix.esp
+
+\FCOM/MMM optionals 1.
+\'''''''''''''''''''''
+
+FCOM_EntropicOrderRebalance.esp
+FCOM_EntropicOrderHardcore.esp
+FCOM_RealSwords.esp
+
+Mart's Monster Mod - Durability & Damage.esp
+* Delete and use 'FCOM_DurabilityAndDamage.esp'.
+FCOM_DurabilityAndDamage.esp
+
+FCOM_SpawnRatesReduced.esp
+? Use only one: Reduced, SlightlyReduced or Stronger.
+FCOM_SpawnRatesSlightlyReduced.esp
+? Use only one: Reduced, SlightlyReduced or Stronger.
+FCOM_SpawnRatesStronger.esp
+? Use only one: Reduced, SlightlyReduced or Stronger.
+? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
+
+Mart's Monster Mod - More Wilderness Life.esp
+? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+Mart's Monster Mod - More Wilderness Life No Gates.esp 
+? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+
+Mart's Monster Mod - Safer Roads.esp
+* Delete and use the 'FCOM_SaferRoads.esp'.
+FCOM_SaferRoads.esp
+Mart's Monster Mod - Less Rats.esp
+* Delete and use 'FCOM_LessRats.esp'.
+FCOM_LessRats.esp
+Mart's Monster Mod - No Spiders.esp
+* Delete and use 'FCOM_NoSpiders.esp'.
+FCOM_NoSpiders.esp
+Mart's Monster Mod - No Wyvern.esp
+* Delete and use 'FCOM_NoWyverns.esp'.
+Mart's_Monster Mod -No Wyvern.esp
+* Delete and use 'FCOM_NoWyverns.esp'.
+FCOM_NoWyverns.esp
+Mart's Monster Mod for OOO - NoReaversInGates.esp
+* Delete. Use 'FCOM_NoReaversInGates.esp' instead.
+FCOM_NoReaversInGates.esp
+? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
+FCOM_NoAdventurersInGates.esp
+Mart's Monster Mod for OOO - LessReaversInGates.esp
+* Delete. Use FCOM_LessReaversInGates instead.
+FCOM_LessReaversInGates.esp
+? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
+
+\FCOM/MMM optionals 2.
+\'''''''''''''''''''''
+
+Mart's Monster Mod - Extra Wounding.esp
+Mart's Monster Mod - Looting NPCs & Creatures.esp
+Mart's Monster Mod - Increased Spawn Rates.esp
+* Delete. Old version of MMM. Update MMM to 3.6beta3 or later.
+Mart's Monster Mod - Spawn Rates Increased.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+Mart's Monster Mod - Spawn Rates - Increased.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+Mart's Monster Mod - Spawn Rates - Moderate Increased.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+Mart's Monster Mod - Spawn Rates Moderate.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+? Consider using 'FCOM_SpawnRatesReduced.esp', 'FCOM_SpawnRatesSlightlyReduced.esp' or 'FCOM_SpawnRatesStronger.esp' instead.
+Mart's Monster Mod - Spawn Rates - Reduced.esp
+* Use 'FCOM_SpawnRatesReduced.esp' instead.
+Mart's Monster Mod - Spawn Rates Reduced Reduced.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+? Consider using 'FCOM_SpawnRatesReduced.esp', 'FCOM_SpawnRatesSlightlyReduced.esp' or 'FCOM_SpawnRatesStronger.esp' instead.
+Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
+* Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+? Consider using 'FCOM_SpawnRatesReduced.esp', 'FCOM_SpawnRatesSlightlyReduced.esp' or 'FCOM_SpawnRatesStronger.esp' instead.
+Mart's Monster Mod - No Reavers.esp
+Mart's Monster Mod - No Reaver Hounds.esp
+Mart's Monster Mod - No Carrion Rats.esp
+Mart's Monster Mod - No Blood.esp
+Mart's Monster Mod - No Bone Loot.esp
+Mart's Monster Mod - No Giants.esp
+Mart's Monster Mod - No Undead Rise.esp
+Mart's Monster Mod - No Slimes.esp
+Mart's Monster Mod - No Fiends.esp
+Mart's Monster Mod - No Werewolves.esp
+Mart's Monster Mod - No Lanterns.esp 
+Mart's Monster Mod - No Adventurers.esp
+Mart's Monster Mod - No Beholdens.esp
+Mart's Monster Mod - No Uberhulks.esp
+* Delete. Not FCOM compatible. 
+Mart's Monster Mod - No Skeep.esp
+* Delete. Not FCOM compatible. 
+Mart's Monster Mod - No Balrogs.esp
+* Delete. Not FCOM compatible. 
+Mart's Monster Mod - More Reavers.esp 
+? Old version. As from v3.6, integrated into of Additional Enemy NPC Vars.
+Mart's Monster Mod - Extra Reavers.esp
+? Old version. As from v3.6, integrated into of Additional Enemy NPC Vars.
+Mart's Monster Mod for OOO - LessReavers.esp
+* Delete. Use 'Mart's Monster Mod - Less Reavers.esp'.
+Mart's Monster Mod - Less Reavers.esp
+Mart's Monster Mod - Less Bone Loot.esp
+Mart's Monster Mod - Zombies for Body Meshes.esp
+Mart's Monster Mod - Vindasel.esp
+Mart's Monster Mod - Foxes.esp
+Mart's Monster Mod - Bats Addon.esp
+? Old MMM file. Update MMM to 3.6b3 or later and use 'Dungeons of MMM.esp' instead.
+Mart's Monster Mod - Dungeons of MMM.esp
+Mart's Monster Mod - Curse of Hircine.esp
+Mart's Monster Mod - More Reaver Variants.esp
+Mart's Monster Mod - Gems & Gem Dust.esp
+? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
+Mart's Monster Mod - Hunting & Crafting.esp
+Mart's Monster Mod - Diverse Imperial Armor.esp
+* Delete. Already integrated into FCOM. 
+Mart's Monster Mod - Diverse Creature Skins.esp
+* Delete. Already integrated into FCOM.
+
+\Tamriel Travellers.
+\'''''''''''''''''''
+
+TamrielTravellerAdvScript.esp
+TamrielTravellers.esp
+* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead. 
+TamrielTravellers4MMM.esp
+* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead. 
+Travellers4MMMHostileFactions.esp
+* Delete. Not FCOM compatible.
+TamrielTravellersFactionAll.esp
+* Delete. Not FCOM compatible.
+TamrielTravellers4OOO.esp
+? Check for newer version.
+TamrielTravellers4000.esp
+TamrielTravellersItemsNPC.esp
+TamrielTravellersItemsCobl.esp
+? Requires COBL.
+TamrielTravellersItemsVendor.esp
+TamrielTravellersItemsUnscaled.esp
+* Delete. Not FCOM compatible. 
+ShiveringIsleTravellers.esp
+? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
+? Requires Shivering Isles expansion.
+TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
+? Requires Shivering Isles expansion.
+TamrielTravellersHorseTextures.esp
+% {{BASH:NoMerge,Graphics}} and deactivate.
+FCOM_TamrielTravelers.esp
+? Requires 'TamrielTravellers4000.esp'
+
+\FCOM optionals 2.
+\'''''''''''''''''
+
+Mart's Monster Mod - Diverse Imperial Armor.esp
+* Delete. Use 'FCOM_DiverseGuardUnity.esp' instead.
+FCOM_DiverseGuardUnity.esp
+FCOM_BobsGuardUnity.esp
+? Requires 'Bob's Armory Oblivion.esp' and 'FCOM_BobsArmory.esp'.
+FCOM_HungersUnitySI.esp
+? Requires Shivering Isles expansion.
+FCOM_Archery.esp
+FCOM_ArcheryArmamentarium.esp
+? Requires the Armamentarium Complete mod.
+FCOM_ArcheryRealSwords.esp
+? Requires 'FCOM_Realswords.esp'.
+FCOM_ArcheryHunting&Crafting.esp
+? Requires 'Mart's Monster Mod - Hunting & Crafting.esp'.
+Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
+* Delete and use 'FCOM_FriendlierFactions.esp'.
+Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
+* Delete and use 'FCOM_FriendlierFactions.esp'.
+FCOM_FriendlierFactions.esp
+FCOM_MoreRandomSpawns.esp
+FCOM_MoreRandomItems.esp
+FCOM_VanillaItemReleveler.esp
+* Delete. Old. Update to FCOM v0.9.9 or later.
+
+\-----
+\DLC 3
+\-----
+
+DLCBattlehornCastle.esp
+DLCBattlehornCastle - Unofficial Patch.esp
+DLCFrostcrag.esp
+DLCFrostcrag - Unofficial Patch.esp
+Knights.esp
+Knights - Unofficial Patch.esp 
+
+\------
+\Quests
+\------
+
+Ruin.esp
+? Requires 'FCOM_Ruin.esp'.
+Mighty Umbra.esp
+? Requires 'FCOM_MightyUmbra.esp'.
+Ungarion1TheWelkyndSword.esp
+Blood&Mud.esp
+% {{BASH:Hair}}
+? Requires 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
+Lost Paladins of the Divines.esp
+Origin of the Mages Guild.esp
+? Requires 'FCOM_OMG.esp' or 'FCOM_OMGSRT.esp'.
+The Mystery of the Dulan Cult.esp
+? Requires 'FCOM_DulanCult.esp'.
+
+Mart's Monster Mod - City Defences.esp
+
+\-------------------------------
+\FCOM quest compatibility addons
+\-------------------------------
+
+FCOM_mightyumbra.esp
+? Requires 'Mighty Umbra.esp'.
+FCOM_Blood&Mud.esp
+? Requires 'Blood&Mud.esp'.
+FCOM_Knights.esp
+% {{BASH:Delev,Merge,Relev}}
+? Requires DLC 'Knights.esp'.
+FCOM_WelkyndSwordBlood&Mud.esp
+? Requires 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
+FCOM_ruin.esp
+? Requires 'Ruin.esp'.
+FCOM_slofsrobetrader.esp
+? Requires 'Slof's Oblivion Robe Trader.esp'.
+FCOM_OMG.esp
+? Requires 'Origin of the Mages Guild.esp' unless also using Slof's Oblivion Robe Trader.
+? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' instead.
+FCOM_OMGSRT.esp
+? Requires both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
+FCOM_DulanCult.esp
+? Requires 'The Mystery of the Dulan cult.esp'.
+Enhanced Daedric Invasion.esp
+? Requires 'FCOM_EnhancedDaedricInvasion.esp'.
+Enhanced Daedric Invasion for FCOM.esp
+* Delete. Use 'FCOM_EnhancedDaedricInvasion.esp' instead!
+FCOM_EnhancedDaedricInvasion.esp
+FCOM_UnofficialFranArmorAddon.esp
+
+\--------
+\Harvest
+\--------
+
+Harvest [Flora].esp
+Harvest [Flora] - Shivering Isles.esp
+? Requires Shivering Isles expansion.
+Harvest [Flora] - DLCVileLair.esp
+? Requires DLC Vile Lair expansion.
+Harvest [Flora] - DLCFrostcrag.esp
+? Requires DLC Frostcrag expansion.
+
+\--------------------
+\Respawn & day length
+\--------------------
+
+Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
+Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
+Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
+Francesco's day lenght rescale 1-12.esp
+Francesco's day lenght rescale 1-16.esp
+Francesco's day lenght rescale 1-20.esp
+Francesco's day lenght rescale 1-24.esp
+Francesco's day lenght rescale 1-30.esp
+Francesco's 21 days respawn time.esp
+Francesco's 14 days respawn time.esp
+Francesco's 10 days respawn time.esp
+Francesco's 7 days respawn time.esp
+OOO-Respawn_Month.esp
+OOO-Respawn_Two_Week.esp
+OOO-Respawn_Week.esp
+OOO-Respawn_Year.esp
+
+\------------
+\Bashed Patch
+\------------
+
+Bashed Patch, 0.esp
+
+\-----------------
+\To be deactivated
+\-----------------
+
+Bonemold_Helmet.esp
+% {{BASH:NoMerge}} when using Unoffical Fran's Armor mod.
+? Deactivate or delete ESP file when using this together with 'Unofficial Fran's Armor'
+Cryos Ordinator Lite.esp
+% {{BASH:NoMerge}} when using Unoffical Fran's Armor mod.
+? Deactivate or delete ESP file when using this together with 'Unofficial Fran's Armor'

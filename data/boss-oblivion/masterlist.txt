@@ -1,4 +1,4 @@
-\ Leading symbol code:
+ï»¿\ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
@@ -1372,7 +1372,7 @@ Ayleid Loot EXtension.esp
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
 Amulet of Magicka.esp
-Amulet of Magicka_1Ñ.esp
+Amulet of Magicka_1N.esp
 Amulet of Magicka_1C.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
@@ -3122,7 +3122,6 @@ Daggers Improved.esp
 
 blacktemplarweapons.esp
 blacktempler+HT.esp
-Blakeley’s Lachrymal Bow.esp
 BladeofWoe.esp
 % {{BASH:Graphics}}
 javbs_mod.esp
@@ -3196,7 +3195,6 @@ Christian's Claymore.esp
 Change Undies Everyday.esp
 Chapel Shop.esp
 Charon's Call by Nicoroshi.esp
-Charon’s Call by Nicoroshi.esp
 ChunliClothes.esp
 CM_Better Wine.esp
 % {{BASH:Graphics,Deactivate}}
@@ -3997,7 +3995,6 @@ Nepher and Bepher Blades.esp
 
 That's so Nico v1.1.esp
 Nicos Ice Bow.esp
-Nico’s Quinga Bows.esp
 Nico's Quinga Bows.esp
 Nicoroshi's Bows.esp
 Doomshard Bow.esp
@@ -4985,7 +4982,6 @@ UFF Lady Shadow.esp
 UFF & RM Vermillion and Silverthorn Robes.esp
 UFF & RM Elegant Vests.esp
 UFF_Unrepetant_Archer.esp
-UFF_Jenées_Honor.esp
 IndigoArmor.esp
 Pirate Gear.esp
 tona_simple_dress-armor.esp
@@ -6987,7 +6983,6 @@ AkaviriSamuraiShop.esp
 AkerasHouseRu.esp
 A Qrazy Quest.esp
 Alexis_Magiergilde.esp
-Albae+Gefährten.esp
 AlchemistForHire.esp
 AL_Maverick.esp
 AL_WildSpright.esp
@@ -8323,7 +8318,6 @@ MadMagesTowerBASIC.esp
 ? Does not edit border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
 ? Use 'MadMagesTowerBASIC-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
 Mad Mike's Crypts of Cyrodiil.esp
-Madness’ Hideout.esp
 Madness' Hideout.esp
 Mage'sSkyHouse.esp
 Mage'sSkyHouse_cobl.esp
@@ -9173,7 +9167,7 @@ Verwen Brewery.esp
 VHBloodlines 1.2.esp
 % {{BASH:Actors.AIData,Actors.AIPackages}}
 VHBloodlines 1.2 Vwalk.esp
-? Override merge animations – does not seem to work properly for VH Bloodlines.
+? Override merge animations - does not seem to work properly for VH Bloodlines.
 ? Mark Mergeable and deactivate
 OCC-Verona-Patch.esp
 
@@ -13119,11 +13113,8 @@ PMSneakySummons-ForVanilla.esp
 ? Do not use with PMSneakySummonCompatibility.esp,
 ? to have magic overhaul features move before magic overhauls (but then
 ? you won't get the features of this)
-Cure Disease Overhaul – Extreme Diseases.esp
-% {{BASH:Actors.Spells,SpellStats}}
 Cure Disease Overhaul - Extreme Diseases.esp
 % {{BASH:Actors.Spells,SpellStats}}
-\okay WTF - those two entries above here are DIFFERENT! - a different dash!... which is freaking weird so leave the duplication since it isn't duplication!
 Cure Disease Overhaul - Deadly Diseases (OBSE).esp
 % {{BASH:Actors.Spells,SpellStats,Stats}}
 Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esp
@@ -13453,8 +13444,6 @@ AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
 AutoOffhand.esp
-Can´t touch me!.esp
-Canït touch me!.esp
 Can't touch me!.esp
 
 cancelattack.esp
@@ -13768,7 +13757,7 @@ AFUninstall.esp
 Balor Leveling - Vehem Edition.esp
 
 Kobu's Character Advancement System.esp
-Kobu’s Character Advancement System (MM Version).esp
+Kobu's Character Advancement System (MM Version).esp
 Kobu's Personality Enhancer.esp
 Kobu's Health Modifier Mod.esp
 Kobu's Slower Skills Mod.esp

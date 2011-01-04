@@ -22,3 +22,15 @@ Removed "Cure Disease Overhaul – Extreme Diseases.esp" as "Cure Disease Overhaul
 Removed "Can´t touch me!.esp" and "Canït touch me!.esp" as "Can't touch me!.esp" also exists. However, "Can´t touch me!.esp" is the correct name, so re-add after UTF-8 conversion.
 
 Replaced "Kobu’s Character Advancement System (MM Version).esp" with "Kobu's Character Advancement System (MM Version).esp".
+
+-------------------------------
+
+Masterlist converted to UTF-8. Adding back in mods that definitely need non-ASCII characters.
+
+Added "UFF_Jenées_Honor.esp" below "UFF_Unrepetant_Archer.esp"
+
+Added "Albae+Gefährten.esp" below "Alexis_Magiergilde.esp"
+
+Replaced "Can't touch me!.esp" with "Can´t touch me!.esp" which is the actual plugin name.
+
+The other mods will only be added if they are re-reported as unknowns.

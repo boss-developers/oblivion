@@ -7085,6 +7085,7 @@ Aranmathi Druid Version v.1.2.esp
 ArboretumHouse.esp
 Arborwatch.esp
 Arborwatch Basement no Mannequin.esp
+SYS Patch-Arborwatch.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane Services.esp
@@ -7910,6 +7911,8 @@ Hunter's Haven File 1.esp
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 ICAU_Mages_bridge.esp
 ICEGHouse.esp
+icPlayerHome.esp
+SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
@@ -8714,6 +8717,8 @@ Sanguine.esp
 Sanguinenorob.esp
 Satu Ra - Lord of Beasts.esp
 SaveWaterEdgeEng.esp
+Sbturm_Penthouse.esp
+SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
@@ -8781,6 +8786,7 @@ Side's Sailing Ships.esp
 Side's Sailing Ships (Bathing).esp
 Side's Sailing Ships (BloodyMess).esp
 Side's Sailing Ships (COBL).esp
+SYS Patch-Side's Sailing Ships.esp
 Side's Skingrad House.esp
 Side's Skingrad House (COBL).esp
 Side's Skingrad House (Bathing).esp
@@ -9153,6 +9159,12 @@ Vampire Haven.esp
 1SB_VampireHaven.esp
 Vampire Mansion.esp
 Vampires.esp
+VampTomb.esp
+VampTomb - Bright.esp
+SYS Patch-VampTomb.esp
+SYS Patch VampTomb-Bright.esp
+SYS Patch=VampTomb FC.esp
+SYS-VampTomb Bright FC.esp
 CV - Castle Dracula.esp
 Varlasel.esp
 Vassoul11.esp
@@ -9764,6 +9776,8 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
+SYS Patch- Shadowcrest Vineyard.esp
+SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
 Shadowcrest_Vineyard_Guard.esp
 
@@ -10462,6 +10476,7 @@ xleyawiinSwamp.esp
 
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
+SYS Patch Bravil Sea Domes.esp
 
 Castle_Seaview.esp
 Castle_Seaview v1.1 Delayer.esp
@@ -10472,8 +10487,10 @@ EaglesRest+LostCoast+CastleSeaview Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
 
 Castle_Wolfspike.esp
+SYS Patch Castle Wolfspike V1.esp
 Patch-Wolfspike-UL.esp
 Castle Wolfspike2.esp
+SYS Patch Castle Wolfspike V2.esp
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -10746,6 +10763,8 @@ FightersGuildContracts.esp
 (JQ) Fighters Guild United.esp
 % {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp
+% {{BASH:Invent}}
+(JQ&SG) Fighters Guild United.esp
 % {{BASH:Invent}}
 FCOM_FighterGUnited.esp
 : Fighters Guild United.
@@ -13956,6 +13975,15 @@ CTAddPose_SPB_01.esp
 CTAddPose SPB 02.esp
 CTAddPose_Mfeth.esp
 
+Goma Pose 1.esp
+Goma Pose 2.esp
+Goma Pose 3.esp
+Goma Pose 4.esp
+Goma Pose 5.esp
+Goma Pose 6.esp
+Goma Pose 7.esp
+Goma Pose 8.esp
+
 LainPose.esp
 LainPoseMOD.esp
 LainPoseMODv1.4.esp
@@ -14807,6 +14835,8 @@ Sharingan and Uchiha Clan.esp
 X.Dea.Obscura.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 X.Deus.Obscurus.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+X.Falmer.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 X.Nature.Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -16471,6 +16501,9 @@ bgMagicDVShader.esp
 % {{BASH:NoMerge,Graphics}}
 bgMagicShaderLifeDetect.esp
 kuertee bgMagicEVShader default drain effects.esp
+kuerteeDetectLifeEffectNightEyeShader.esp
+: OBSE.
+: OBSE Night Eye Shader Switcher.
 bgMagicLightningbolt.esp
 BNewShockBoltEffects20.esp
 BNewShockFunnelEffects20.esp

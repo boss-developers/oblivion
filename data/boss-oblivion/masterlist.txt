@@ -7330,6 +7330,8 @@ Brew Houses of Cyrodiil_comp.esp
 
 HackdirtCaverns.esp
 \Needs to load here to avoid messing up path grids for ABR.
+HackdirtTheDeepOnes.esp
+? Revamp of the older mod HackdirtCaverns.esp, do not use both at the same time.
 
 BrotherhoodRenewed.esp
 % {{BASH:Factions}}

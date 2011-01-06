@@ -6607,7 +6607,7 @@ un-leveled-shops.esp
 
 WAC.esp
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells,Delev,Graphics,Invent,Relations,Relev}}
+% {{BASH:Actors.Spells,Graphics,Invent,Relations,Relev}}
 WAC - OverSpawn4OOO.esp
 % {{BASH:Delev,Relev}}
 WAC - BlackBootDungeon.esp

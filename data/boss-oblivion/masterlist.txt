@@ -446,6 +446,10 @@ Beautiful_Women_Vampires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Beautiful_Women_Revised.esp
 % {{BASH:NpcFaces,NoMerge}}
+Beautiful_Women_Revised_DB.esp
+% {{BASH:NpcFaces,NoMerge}}
+Beautiful_Women_Revised_SI.esp
+% {{BASH:NpcFaces,NoMerge}}
 Beautiful_Women_Revised_NotSoNice.esp
 % {{BASH:NpcFaces,NoMerge}}
 Handsome_Gents_Addon.esp
@@ -461,6 +465,10 @@ Handsome_Gents_Vampires_50.esp
 Handsome_Gents_Bonus.esp
 % {{BASH:NpcFaces,NoMerge}}
 Handsome_Gents_Revised.esp
+% {{BASH:NpcFaces,NoMerge}}
+Handsome_Gents_Revised_DB.esp
+% {{BASH:NpcFaces,NoMerge}}
+Handsome_Gents_Revised_SI.esp
 % {{BASH:NpcFaces,NoMerge}}
 emperorface.esp
 % {{BASH:NpcFaces,NoMerge}}
@@ -4111,6 +4119,7 @@ Retma Dresses.esp
 Reznod Mannequin.esp
 Reznod_Mannequin_1C.esp
 Reznod_Mannequin_HD[Eng].esp
+RF_Crimson.esp
 RGMsCheerleader.esp
 Rindirs Staves.esp
 ring_of_feather.esp
@@ -8448,6 +8457,7 @@ NecromancerHunting.esp
 Necromancer Lair.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
+NemoriaCottage.esp
 Nerussa The Wine Collector v1.0.esp
 New Anvil Flora.esp
 ^ Probably incompatible with Better Cities Anvil components.
@@ -9289,6 +9299,7 @@ WeynonRetreat.esp
 WhiteRoseLodgev2.0.esp
 Wrath of Sithis.esp
 Wretched Pit and Witherstone Caverns.esp
+Wtower.esp
 
 Cyrodill Travel Services.esp
 ? Obsolete. Upgrade to latest version, then delete this file. It was a typo.
@@ -10985,6 +10996,7 @@ Enchanted Portable Tent - AN Patch.esp
 Enchanted Portable Tent - See You Sleep Patch.esp
 Enchanted Portable Tent - SYS Patch.esp
 Bonds Big Portable Tent.esp
+SYS Patch-Bond's Big Portable Tent.esp
 phinix_portable_tent.esp
 Tent.esp
 Bottled_Explosions.esp
@@ -13971,6 +13983,7 @@ CTAddPose_glock3.esp
 CTAddPose_gobu.esp
 CTAddPose_Dsk(erori)Pose.esp
 CTAddPose_Dsk(erori-2)Pose.esp
+CTAddPose_DskPose.esp
 CTAddPose_2ch.esp
 CTAddPose_2ch-2.esp
 CTAddPose_enfant.esp

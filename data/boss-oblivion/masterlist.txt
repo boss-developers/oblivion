@@ -7347,6 +7347,8 @@ BrotherhoodRenewed.esp
 BrotherhoodRenewed - Oblivion XP Patch.esp
 : OBSE, Oblivion XP
 Bruma Farm Updated.esp
+Bruma House For Sale.esp
+SYS Patch-Bruma House For Sale.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 BurySvenjaSnowSong.esp
@@ -7384,6 +7386,7 @@ Castle.Bedwyr 1.0.0.esp
 castledarkshard.esp
 CastleEdrendil.esp
 CastleEltz.esp
+SYS Patch-Castle Eltz.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
 CastleDomroseRu.esp
@@ -7500,6 +7503,7 @@ Companion Gate.esp
 Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
+CV - Templar Fortress.esp
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 Cyrodiil Training Center.esp
@@ -8229,6 +8233,7 @@ Land of Hyrule.esp
 Lake Canulus Village.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
+LakesideHome.esp
 Lakeview.esp
 ? Cannot be used in combination with Shezrie's Villages.
 Lakeview2.esp
@@ -8477,6 +8482,7 @@ NewMGQuests.esp
 NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
+Night Vendors.esp
 Nightmist Manor.esp
 Nine Divines Robes.esp
 : OBSE
@@ -12578,6 +12584,7 @@ New Vampire Feeding Sound.esp
 LGVampire.esp
 JaySuS-Vampire-Mod-MKV-V3.8.esp
 KT_VampSightToggleNoEff.esp
+kuerteeSimpleVampirismExpanded.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
 PxVampireFaceReset.esp
@@ -13113,6 +13120,8 @@ FasterArrows250.esp
 Spell Ranks.esp
 ? Use Wrye Bash Bashed Patch tweak 'Rational Names' where posible.
 
+MagickOverlap.esp
+: OBSE 14+.
 
 SSEE.esp
 Useful_TK-10337.esp

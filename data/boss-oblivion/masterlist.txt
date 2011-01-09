@@ -2406,14 +2406,6 @@ NPCsTravel.esp
 TamrielNPCsTravel.esp
 ? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
 NPCsTravel - NoRandomNpc.esp
-From2ch Lives.esp
-: Beautiful People 2ch-Ed.esm
-From2ch Lives Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-From2ch Lives Boss.esp
-F2LAddon.esp
-F2LAddon_Kasuga&Sisimaru.esp
-Ta22's 01Army.esp
 
 Populated Prisons.esp
 PCTM.esp
@@ -10239,6 +10231,15 @@ HentaiMania2_Merged_Nightmare Vwalk.esp
 T-HMO.esp
 HM2_xuLC_Comp.esp
 \EndGroup\\
+
+From2ch Lives.esp
+: Beautiful People 2ch-Ed.esm
+From2ch Lives Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+From2ch Lives Boss.esp
+F2LAddon.esp
+F2LAddon_Kasuga&Sisimaru.esp
+Ta22's 01Army.esp
 
 xulBravilBarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp

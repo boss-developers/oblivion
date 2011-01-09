@@ -2408,6 +2408,12 @@ TamrielNPCsTravel.esp
 NPCsTravel - NoRandomNpc.esp
 From2ch Lives.esp
 : Beautiful People 2ch-Ed.esm
+From2ch Lives Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+From2ch Lives Boss.esp
+F2LAddon.esp
+F2LAddon_Kasuga&Sisimaru.esp
+Ta22's 01Army.esp
 
 Populated Prisons.esp
 PCTM.esp
@@ -14709,6 +14715,7 @@ Beautiful People 2ch-Ed MS Elves - NoSc.esp
 
 x117race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+117NPCs.esp
 Lop-ears Elf.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 RANs_WildTabaxi_101.esp

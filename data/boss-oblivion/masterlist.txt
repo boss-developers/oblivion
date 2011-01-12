@@ -264,6 +264,8 @@ Sephiroth Companion.esm
 The Arsenal.esm
 TML_WieldableTorches_v10.esm
 ScreenEffects.esm
+Pose Compendium.esm
+Ayleid Power Stones.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -411,6 +413,8 @@ Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces,NoMerge}}
 Younger Hotter NPC's v1.0 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+YoungerHotterNPCwithPussies.esp
+% {{BASH:NpcFaces,NoMerge}}
 Ren's hair on Young Hot NPCs.esp
 % {{BASH:NpcFaces,Hair}}
 Ren's hair on Young Hot NPCs Vwalk.esp
@@ -2610,6 +2614,7 @@ Wayshrine Map Markers.esp
 \'''''''
 \Load order independent. Use only one unless documentation says otherwise.
 
+fangshotkeyfix.esp
 DBTAM.esp
 Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
@@ -3059,6 +3064,8 @@ Bamboo Armor.esp
 % {{BASH:Invent}}
 Banes Guilds United.esp
 $ May have trouble with OOO. Untested.
+Banes Steel Helm Replacer.esp
+% {{BASH:Graphics}}
 BarbarianShop.esp
 Bar Maid.esp
 BaronArmor.esp
@@ -4247,6 +4254,8 @@ SK_Berserk_v0.6.esp
 sk_Katanas.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
+1662-1.21-Inebriation + Skooma addon-TESSource.esp
+OblivionSkoomaAddiction1.0.esp
 Slaveknight armor.esp
 slayersword.esp
 Slitterblade - Talon of the Wood.esp
@@ -6688,6 +6697,7 @@ CNRP FightersGuild4OOO.esp
 \EndGroup\\
 \BeginGroup\: Creatures - New
 \Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
+John's Creature Mod.esp
 LBVermin.esp
 LBWaterBeasts.esp
 \EndGroup\\
@@ -7114,6 +7124,7 @@ ArchersLodge.esp
 ? Update to version 1.1.
 ArchersLodge1.1.esp
 Archfall_house.esp
+Archmageexpanded.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
 Armageddon.esp
@@ -7514,6 +7525,7 @@ Cyrodiil Training Center.esp
 Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 NoDaedricQuestLevelLocks.esp
+Dairânath Avari - male Companion.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
 Dalls_ICHouseTwo.esp
@@ -7699,6 +7711,7 @@ FFM.esp
 FishermansCottage.esp
 fishing boat.esp
 TheForbiddenSecret.esp
+ForbiddenLands.esp
 Forgiven Sins.esp
 Forgotten Chapel.esp
 Forgotten Tower.esp
@@ -8190,6 +8203,7 @@ Kvatch Rebuilt Vwalk.esp
 KvatchRankFix.esp
 Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
+Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
 
@@ -9081,6 +9095,8 @@ Tombstones-beta.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
 Topal Bay Camp.esp
+TQ1-loveletters.esp
+tq3-Blood-and-Gold.esp
 Trail  South East.esp
 Trail  WEST.esp
 Trail  EAST.esp
@@ -14053,6 +14069,7 @@ aaa_animations.esp
 DMC Stylish - Specialanims.esp
 % {{BASH:Actors.Anims}}
 MrMuhs Sheogorath-Anims EV.esp
+Pose Compendium.esp
 SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
@@ -14277,6 +14294,8 @@ Better Looking Wood Elves Vanilla.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Wood Elves Vanilla Black Eyes.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Wood Elves COBL.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
 Smaller Elf ears.esp
@@ -14300,6 +14319,7 @@ MergedMouth.esp
 % {{BASH:R.Mouth}}
 JoinedJaws.esp
 % {{BASH:R.Teeth}}
+pussyfur.esp
 \EndGroup\\
 
 \BeginGroup\: Hair
@@ -14973,6 +14993,7 @@ AsharasCharactersAsNPCs.esp
 CSR Fixed.esp
 CSR Balanced.esp
 not_recruit_companions.esp
+Unique Companion.esp
 
 rusik.esp
 Rusik 2.0.1.esp

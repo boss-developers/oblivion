@@ -1,8 +1,5 @@
 Here is a log of all changes to the Oblivion masterlist relating to removing non-ASCII characters in preparation for UTF-8 conversion, and to ensure proper segragation of basic English and full international support.
 
-
-Replaced "Amulet of Magicka_1Ñ.esp" with "Amulet of Magicka_1N.esp"
-
 Removed "Blakeley’s Lachrymal Bow.esp" as "Blakeley's Lachrymal Bow.esp" also exists.
 
 Removed "Charon’s Call by Nicoroshi.esp" as "Charon's Call by Nicoroshi.esp" also exists.
@@ -14,8 +11,6 @@ Removed "UFF_Jenées_Honor.esp". No ASCII replacement. Will re-add after UTF-8 co
 Removed "Albae+Gefährten.esp". No ASCII replacement. Will re-add after UTF-8 conversion. It was positioned directly below "Alexis_Magiergilde.esp".
 
 Removed "Madness’ Hideout.esp" as "Madness' Hideout.esp" also exists.
-
-Replaced "? Override merge animations – does not seem to work properly for VH Bloodlines." with "? Override merge animations - does not seem to work properly for VH Bloodlines."
 
 Removed "Cure Disease Overhaul – Extreme Diseases.esp" as "Cure Disease Overhaul - Extreme Diseases.esp" also exists.
 
@@ -34,3 +29,9 @@ Added "Albae+Gefährten.esp" below "Alexis_Magiergilde.esp"
 Replaced "Can't touch me!.esp" with "Can´t touch me!.esp" which is the actual plugin name.
 
 The other mods will only be added if they are re-reported as unknowns.
+
+----------------------------------
+
+Now for recording any Unicode-only mods that get added, to avoid duplicate additions:
+
+Dairânath Avari - male Companion.esp

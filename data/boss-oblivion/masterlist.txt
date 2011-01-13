@@ -3086,6 +3086,7 @@ BetterBedroll.esp
 % {{BASH:Invent}}
 Belles Bouteilles.esp
 % {{BASH:Graphics}}
+BFF4L.esp
 BKMask.esp
 BlackDragonNinjato.esp
 BlackGlovesEng.esp
@@ -7033,6 +7034,7 @@ Adult_BookStore.esp
 adTreeHome.esp
 SYS Patch for Enchanted Druid Treehome.esp
 Adventures Gear.esp
+SYS Patch-Adventures Gear.esp
 AK_corpses_collector.esp
 AkaviriKojima.esp
 AlchemistsCave.esp
@@ -7886,6 +7888,7 @@ HeavenlyIslands.esp
 Hedge Home.esp
 HelsethArmor.esp
 HentaiLovelyHouse.esp
+SYS Patch Hentai's Lovely House.esp
 Hentai Mania.esp
 >: FCOM_Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts,C.Owner}}
@@ -11691,6 +11694,8 @@ Realistic Creature Rarity.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RareItemsv1.18 for RCR.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
+realistic_weapon_reach_mod_ks_d.esp
+% {{BASH:Stats}}
 ReneerRainMod.esp
 RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
@@ -13132,6 +13137,7 @@ SorcerysToll.esp
 spellshields2.esp
 : OBSE 18+.
 spellshields2nofxpatch.esp
+Spells Be Effective.esp
 StealthierMagic.esp
 sr_spell_deletion.esp
 Spellbooks.esp
@@ -14536,6 +14542,8 @@ kaleen.esp
 lady_of_the_lake.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lima.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Lorebased Races.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Lucha's Blood Witcher.esp
 : Robert's Male v4 or v5

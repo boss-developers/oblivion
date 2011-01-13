@@ -566,6 +566,10 @@ Self-Preservation v1.0.esp
 % {{BASH:Scripts}}
 Traduccion Mejorada Oblivion Clan DLAN.esp
 % {{BASH:Names}} or without Bash load it later.
+fixterms1C_03.esp
+% {{BASH:Names}}
+fixtext1C_04.esp
+% {{BASH:Names}}
 \EndGroup\\
 
 \BeginGroup\: UOP

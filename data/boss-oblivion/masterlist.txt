@@ -5852,20 +5852,20 @@ FCOM_Cobl.esp
 
 \BeginGroup\: Harvest[Containers]
 Harvest[Containers].esp
-$ Included in OOO. Only use with OOO if you want to remove its container traps, security rebalance and lock bashing features.
+$ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 Harvest[Containers] - Vanilla.esp
-$ Included in OOO. Only use with OOO if you want to remove its container traps, security rebalance and lock bashing features.
+$ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 Harvest[Containers] - SI.esp
 Harvest[Containers] - SI - Ore Respawn.esp
 Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - Player Home Add-on.esp
-$ Included in OOO. Only use with OOO if you want to remove its container traps, security rebalance and lock bashing features.
+$ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 DEJ Harvest - Containers [Combo] v0.99.08.esp
 $ Obsolete, please update to a recent version of Harvest[Containers].
 Harvest[Containers] - Flat-Top Barrels Add-on.esp
-$ Included in OOO. Only use with OOO if you want to remove its container traps, security rebalance and lock bashing features.
+$ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 Harvest[Containers] - Havok Crates Add-on.esp
-$ Included in OOO. Only use with OOO if you want to remove its container traps, security rebalance and lock bashing features.
+$ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 DBOO - Harvest[Containers].esp
 \EndGroup\\
 

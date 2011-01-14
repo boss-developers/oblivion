@@ -5353,6 +5353,8 @@ Black and Daedric Unicorn's.esp
 Orion the Ox.esp
 Shadowfax-2838.esp
 SellHorses.esp
+Ride_Wild_Horses_2.0.esp
+% {{BASH:Actors.AIData}}
 Rund ums Pferd.esp
 ? German mod.
 Rund ums Streitross.esp
@@ -7064,6 +7066,7 @@ Imperial Furniture Renovated - Patch.esp
 : Amajor7 Imperial Furniture.esp
 SYS Patch-Imperial Furniture Renovated.esp
 Amaterasu no Yume.esp
+SYS Patch-Amaterasu no Yume.esp
 Amen'thalas Well House.esp
 Amen'thalas.esp
 Amen'thalas for Cobl, for SI.esp
@@ -8595,6 +8598,7 @@ Vampire Hunting - Order Of The Virtuous Blood.esp
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 OSE - Outlook.esp
+Overflow.esp
 \EndGroup\\
 
 \BeginGroup\: Quests P
@@ -8685,6 +8689,7 @@ Reaper's Friendly Back-Up.esp
 Reaper's Sexy Shower Everywhere.esp
 Reaper's Tower V_1.esp
 Reaper_Tree_Home.esp
+SYS Patch-Reaper's Tree Home.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
@@ -8898,6 +8903,8 @@ Sno_DBA 1.0.esp
 Snow Dragon Temple v1.0.esp
 snowglobe.esp
 Snow Line Lodge.esp
+SN_Skingrad_Villa.esp
+SYS Patch- Skingrad Villa.es
 SOTES_Santres.esp
 Solace.esp
 SolaceDV.esp
@@ -9405,6 +9412,7 @@ zzzMyMine.esp
 
 \BeginGroup\: Quests Arena
 
+[Natcalsar] ArenaSittingAreaBetter v1.esp
 75barena.esp
 % {{BASH:NpcFaces,Actors.Stats}}
 Arena Imersion Upgrade 1.1.esp
@@ -11075,6 +11083,7 @@ Bullettimemodsetkey.esp
 Bullet Time Custom.esp
 Bullet Time Spells.esp
 PowerBulletTime.esp
+Happyhannah's Time Wasting.esp
 WHOOSH.esp
 TimeWizard.esp
 : OBSE (only if using version 2.1+)
@@ -12202,6 +12211,8 @@ Unlimited_AmulRings_1C.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
+upperGothicClutter.esp
+% {{BASH:Graphics}}
 UV Vanilla Quest Fixes.esp
 \EndGroup\\
 
@@ -12272,6 +12283,8 @@ lorecreatures.esp
 * Use 'LCE-addon.esp' instead if using MMM/Frans etc.
 LCE-addon.esp
 ? If not using monster overhaul mods, use 'Lore Creatures.esp'.
+
+More Replay Again.esp
 
 CLS-craftybits.esp
 craftybits.esp
@@ -13364,6 +13377,7 @@ More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
 Sneak Effectiveness Enhancement.esp
 Realistic Sneak for NPCs.esp
 Stalk'em.esp
+StolenItemOwnership.esp
 SM Combat Hide.esp
 Attack & Hide.esp
 ? Check for newer version.
@@ -13568,6 +13582,7 @@ Duke Patricks Basic Denock Arrows.esp
 ? COBL Includes a denock arrow feature so don't use this with COBL
 Duke Patricks - Double Arrow Nock Shot.esp
 Enhanced_Hand_to_hand-2329.esp
+ArrowMania_English.esp
 erics_double_damage_for_archers.esp
 ? Only use one Erics * for archers.esp
 erics_quad_damage_for_archers.esp
@@ -14336,6 +14351,8 @@ Better Looking Wood Elves Vanilla Black Eyes.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
 Better Looking Wood Elves COBL.esp
 % {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Redguard Guards.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair,NpcFaces}}
 BigDunmerEars.esp
 % {{BASH:Body-M,Body-F,NpcFaces}}
 Smaller Elf ears.esp
@@ -15661,6 +15678,7 @@ bgBalancingDVCore.esp
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
+Zinni's New Tail.esp
 \EndGroup\\
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH:NoMerge,NpcFaces}}

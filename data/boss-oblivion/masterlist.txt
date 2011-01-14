@@ -1013,6 +1013,8 @@ NoOblivionWeatherOutside.esp
 no_wind-2578.esp
 NoWind.esp
 No wind.esp
+
+PTAutumnTrees.esp
 \EndGroup\\
 
 \BeginGroup\: Water and lava tweaks
@@ -7060,6 +7062,7 @@ Amajor7 Imperial Furniture.esp
 Imperial Furniture Renovated.esp
 Imperial Furniture Renovated - Patch.esp
 : Amajor7 Imperial Furniture.esp
+SYS Patch-Imperial Furniture Renovated.esp
 Amaterasu no Yume.esp
 Amen'thalas Well House.esp
 Amen'thalas.esp
@@ -7083,6 +7086,7 @@ Ancient_Goblin_City.esp
 Vibliribland-4843-Ancient_Goblin_City.esp
 Ancient Ruins - Ayleid Edition.esp
 AncientSource.esp
+Anduril Reforged.esp
 Angelslayer.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
@@ -7638,6 +7642,7 @@ DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
 Deluxe IC Shack.esp
+SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
 DSPirateIsleBeta.esp
 ? Old, updated to latest version.
@@ -8297,6 +8302,7 @@ Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
 GlenvarCastle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+SYS Patch Glenvar Castle.esp
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
@@ -8310,6 +8316,8 @@ Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
 LeyawiinPort-AlphaRelease.esp
 ? Not Better Cities compatible. Already included in Better Cities Leyawiin.
+Leyawin Player House for Sale.esp
+SYS Patch-Leyawiin Player House for Sale.esp
 
 LirialsRetreatRu.esp
 
@@ -8870,6 +8878,8 @@ Skyrim Alive.esp
 Skye Village Final.esp
 Sky Haven.esp
 SkyrimObservatory.esp
+Skyship.esp
+SYS Patch-Bond's Skyship.esp
 SkullofMondain.esp
 Slash n Smash.esp
 SleepyCatInn.esp
@@ -8909,6 +8919,7 @@ SRJriverbendhouse.esp
 SRJspiderDaedra.esp
 SRJtrollKajsa.esp
 Star Ship Orion.esp
+SYS Patch-Star Ship Orion.esp
 Stonehenge.esp
 Stonemere.esp
 StopDarkBrotherhood.esp
@@ -10948,6 +10959,7 @@ ANB_Item_Switchers.esp
 ANB_No_FastTravel.esp
 ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
+APS Abundant Stones.esp
 Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
 Archmage_Enchanted_Chest_OBSE.esp
@@ -14009,6 +14021,8 @@ phat39s trainaholic-10.esp
 phat39s trainaholic-15.esp
 phat39s trainaholic-20.esp
 RealisticLeveling.esp
+The Versatile Adventurer.esp
+: OBSE.
 \EndGroup\\
 
 \BeginGroup\: Pose and Animation Mods

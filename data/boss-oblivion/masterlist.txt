@@ -93,7 +93,7 @@ Qarls_Harvest.esm
 Ulrim's Horses.esm
 armoryLab.esm
 DEJ Harvest - Flora.esm
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later (or v3.0.0 for compatibility with 'Herbalism' mod).
+? Old. Update to 'Harvest [Flora]' v3.0.1 or later (or v3.0.0 for compatibility with 'Herbalism' mod, but that version contains a CTD bug).
 Harvest[Containers].esm
 Harvest[Containers] - Flat-Top Barrels Add-on.esm
 Harvest[Containers] - Havok Crates Add-on.esm
@@ -10905,6 +10905,7 @@ PitcherPlantsHarvestable.esp
 Lily of the Valley Nectar.esp
 Harvest [Flora].esp
 % {{BASH:Graphics,Scripts}}
+? Make sure you have v3.0.1 or later, which removes a CTD bug with the Harrada root.
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 NoHFailure_HFlora_SE.esp
@@ -13311,7 +13312,7 @@ Herbalism - Shivering Isles.esp
 Herbalism - DLCFrostcrag.esp
 Herbalism - DLCVileLair.esp
 Harvest [Flora] - Patch.esp
-? Use only with the 'Herbalism' mod, otherwise use newer 'Harvest [Flora]' v3.1.
+? Use only with the 'Herbalism' mod. Otherwise use 'Harvest [Flora]' v3.0.1 or later which removes a CTD with the Harrada root.
 \EndGroup\\
 
 \BeginGroup\: Enchantment

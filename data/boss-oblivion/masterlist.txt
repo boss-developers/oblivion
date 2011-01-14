@@ -8172,6 +8172,8 @@ $ ...found here: 'http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip'
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
 Klarre Forestheart MR.esp
+Knights abode.esp
+" New Roads and Bridges; Landscape problems reported.
 Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 
@@ -8644,6 +8646,7 @@ pythanis.esp
 
 \BeginGroup\: Quests Q
 
+qNS3-inventrix.esp
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -9095,6 +9098,8 @@ The UnderCroft v-04a.esp
 The UnderCroft v-04-Forjoining.esp
 TheUnluckyLeprechaun.esp
 TheVaultofOrder.esp
+The Vertueux.esp
+" The Lost Spires; Small landscaping issue between the HQ and surroundings.
 ThemeParkFinal.esp
 thievery.esp
 thievery - EE patch.esp
@@ -13740,6 +13745,7 @@ Duke Patrick`s Smash of the Titans.esp
 Duke Patricks - Smash Of The Titans.esp
 SMCombatRegen.esp
 SpookyNPCAIModsMerge.esp
+Mister Misanthrope's Custom Settings.esp
 MM_AllowAlchemy.esp
 ? If using Bash, might as well use the bashed patch tweak instead and save an esp slot.
 MM_AlchemyPotions.esp
@@ -15450,6 +15456,7 @@ BetterShack.esp
 Candlelight.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
+Valtierro_B1.esp
 VampireCompanion.esp
 Vance.esp
 

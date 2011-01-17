@@ -6644,18 +6644,18 @@ un-leveled-shops.esp
 
 WAC.esp
 WAC - ItemLootFix4v1.0b.esp
-% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations,Deactivate}}
+% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations}}
 ? For Vanilla and Fran(not Francesco's Optional New Creatures Add-On.esm) and WarCry
 WAC - ItemLootFix4v1.0bFran.esp
-% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations,Deactivate}}
+% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations}}
 ? For Fran(Francesco's Optional New Creatures Add-On.esm)
 ? Don't use with WAC - ItemLootFix.esp
 WAC - ItemLootFix4v1.0bOOO.esp
-% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations,Deactivate}}
+% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations}}
 ? For OOO
 ? Don't use with WAC - ItemLootFix.esp
 WAC - ItemLootFix4v1.0bMMM.esp
-% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations,Deactivate}}
+% {{BASH:Actors.Stats,Actors.AIData,Delev,Factions,Invent,Relev,Stats,Relations}}
 ? For MMM / OOO+MMM / FCOM
 ? Don't use with WAC - ItemLootFix.esp
 WAC - OverSpawn.esp

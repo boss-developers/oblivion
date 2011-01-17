@@ -11863,6 +11863,9 @@ LoversSpringSale.esp
 ? Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversAdultPlayPlus.esp
 ? Use either 'LoversAdultPlay.esp' or 'LoversSpringSale.esp' but not both together.
+LoversAdultPlayPlusforSSP.esp
+" LoversAdultPlayPlus.esp
+" LoversSpringSale.esp
 LoversTachiCat.esp
 ? Obsolete. Use LoversTachiCat2.esp instead.
 LoversTachiCat2.esp

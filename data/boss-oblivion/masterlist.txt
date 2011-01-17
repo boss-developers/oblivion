@@ -228,6 +228,8 @@ Tabaxi_Race_Default.esm
 Tabaxi_Race_BAB_Robert.esm
 x117race.esm
 % {{BASH:Hair}}
+xeorace.esm
+xeoracex117.esm 
 Chanpon.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -17022,6 +17024,7 @@ Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 
 UnnecessaryViolence.esp
+UnnecessaryViolenceNormalSpeed.esp 
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 DeadlyReflex - Combat Moves.esp

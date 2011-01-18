@@ -2216,6 +2216,7 @@ TreasureChestNoGurdian.esp
 TreasureChest_OOO.esp
 : Oscuro's Oblivion Overhaul.
 ? Choose only one 'TreasureChest' ESP.
+Treleths_Pitchable_Tent.esp
 TurnoffLights.esp
 TreeDoorAddition.esp
 trfSolaris.esp
@@ -3284,6 +3285,7 @@ Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
 Dark Sorceress.esp
+DarkSaintUFF.esp
 DarkWoods_Weapons_Armor.esp
 Dauphni Clothing.esp
 DawnWraith.esp
@@ -4824,7 +4826,11 @@ LC-Dragon-Exnem.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 New Exnem Compatible Armors.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Clothing Replacer.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
+% {{BASH:Graphics,NoMerge}} if using overhaul mods.
+DMRA Stock Robe Replacer.esp 
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
@@ -5829,6 +5835,8 @@ Armamentarium SoB Patch.esp
 Adonnays Elven Weaponry for NPCs - Armamentarium piggyback.esp
 
 Asylum_patch_OOO.esp
+
+Better Hunting for OOO.esp 
 
 John's Leveled List Overhaul.esp
 John's Leveled List Overhaul - Cyrodillic Armors.esp
@@ -9033,6 +9041,7 @@ Tavern-Goers 2 Vwalk.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
+Temple District Repaired.esp
 templars.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
@@ -10520,6 +10529,7 @@ Oblivion Collectible Cards UL Cheydinhal Falls Patch.esp
 Villages-CheydinhalFalls patch.esp
 Villges-CheydinhalFalls patch.esp
 EtInArkay-CheydinhalFalls patch.esp
+RedHeadedGang-CheydinhalFalls patch.esp
 TrailsOfCyrodiil-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
@@ -11632,6 +11642,8 @@ newsheogorath.esp
 NFs_Kvatch_Guard_Tweak-7399.esp
 NightMother_Money-6759.esp
 NirnrootPermPotions.esp
+NirnrootPlants.esp
+% {{BASH:Graphics}}
 Nirnroot Tweak.esp
 NoFlicker_BrightTorch2.esp
 No Glow Grass.esp
@@ -12757,6 +12769,7 @@ MM_VampireFeeding.1.2.esp
 Muggervamp.esp
 muggervampinvisbed.esp
 Blood Is Everything.esp
+BIE.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
 Nekhanimal's Awesome Vampire Mod.esp
@@ -12883,6 +12896,7 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
+More Effective Enchantments.esp 
 MTC EagleEyesSpell 1.1[ENG].esp
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
@@ -15341,6 +15355,7 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+1em_Vilja_Neck_Seam_Concealer.esp
 1em_Vilja_coolhair41.esp
 ? Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja_coolhair49.esp

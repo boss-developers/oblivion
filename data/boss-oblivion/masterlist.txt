@@ -6338,9 +6338,8 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 \BeginGroup\: OWC New Dimensions
 OWC - Mannequin.esp
 OWC - Seaworld.esp
-% {{BASH:Delev,Relev}}
 OWC - New Dimension.esp
-% {{BASH:Delev,Relev,Invent,Stats,Hair,Eyes,Names}}
+{{BASH:Actors.Spells,Delev,Eyes,Graphics,Hair,Invent,Names,R.Relations,Relev,Stats}}
 \EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''

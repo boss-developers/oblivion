@@ -229,7 +229,7 @@ Tabaxi_Race_BAB_Robert.esm
 x117race.esm
 % {{BASH:Hair}}
 xeorace.esm
-xeoracex117.esm 
+xeoracex117.esm
 Chanpon.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -882,7 +882,7 @@ Arthur_ Natural weather with HDR.esp
 ? Outdated. Upgrade to latest version of Arthur Natural Environments.
 
 Natural Environments.esp
-Natural Weather.esp 
+Natural Weather.esp
 NaturalWeather.esp
 Natural_Weather_by_Max_Tael.esp
 ? Original mod is heavily bugged. Make sure you are using Ryu Doppler's fixed version.
@@ -1329,6 +1329,7 @@ AmbientDungeons.esp
 13rings.esp
 1440-1-Black Soul Merchant-TESSource.esp
 1DeadlyShadows.esp
+1em_GiveAGift.esp
 
 2126-1.0-Fame Indicator-TESSource.esp
 2680twohand.esp
@@ -1953,6 +1954,7 @@ OblivionOnline.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
 Oscars_Nicer_Grass-3346.esp
+FullGrass.esp
 OSRCustom.esp
 \EndGroup\\
 
@@ -2205,7 +2207,7 @@ Thingamajigs Broken Armor DD Edit.esp
 Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
 Timescale Options.esp
-Torch Arrows.esp 
+Torch Arrows.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
@@ -2532,7 +2534,7 @@ SM Soul Delete.esp
 Spell Delete.esp
 Spell Delete And Item Remove.esp
 StatCleaner.esp
-Streamline.esp 
+Streamline.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
@@ -4830,7 +4832,7 @@ DMRA Stock Clothing Replacer.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
-DMRA Stock Robe Replacer.esp 
+DMRA Stock Robe Replacer.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
 DMAC Armor.esp
 % {{BASH:Graphics,NoMerge}} if using overhaul mods.
@@ -5146,7 +5148,7 @@ R18PN - Dancer's Dress.esp
 R18PN - FuruFuru Armor.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
-Leere Armor.esp 
+Leere Armor.esp
 R18PN - Mina Armor.esp
 R18PN - Mizugi set.esp
 R18PN - Perona armor.esp
@@ -5613,7 +5615,6 @@ Oscuro's_Oblivion_Overhaul.esp
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Spells,Actors.Stats,Delev,Factions,Graphics,Invent,Names,R.ChangeSpells,Relations,Relev,Scripts,Stats}}
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
-$ Not use with FULL version of OOO, included.
 OOO-No_Guild_Ownership.esp
 OOO-DLT_Remover.esp
 OOO-Armor_Perks_WearRate_Repair.esp
@@ -5836,7 +5837,8 @@ Adonnays Elven Weaponry for NPCs - Armamentarium piggyback.esp
 
 Asylum_patch_OOO.esp
 
-Better Hunting for OOO.esp 
+Better Hunting for OOO.esp
+% {{BASH:Stats}}
 
 John's Leveled List Overhaul.esp
 John's Leveled List Overhaul - Cyrodillic Armors.esp
@@ -7334,7 +7336,7 @@ AW_BHC_HomeDelivery.esp
 Black ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
-Black_ocean.esp 
+Black_ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
 Black Rock Home.esp
@@ -7635,7 +7637,7 @@ Dk second knight update.esp
 DeerLeap.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
-Demon_Bane.esp 
+Demon_Bane.esp
 Demon_Consort.esp
 DemonEnergy.esp
 Demonhunter.esp
@@ -8755,7 +8757,7 @@ RealmofRuun.esp
 Return Of Shadows.esp
 Return Of Shadows Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-Return of the Ayleids.esp 
+Return of the Ayleids.esp
 ReneersContainerMod.esp
 Resurrection of the Dark Brotherhood.esp
 REX_TheLostSouls.esp
@@ -8833,7 +8835,7 @@ SecludedGladeCottage.esp
 % {{BASH:Invent}}
 Secret Hideout.esp
 Secrets.esp
-Secrets_Of_Mertvitel.esp 
+Secrets_Of_Mertvitel.esp
 SecretsOfMertvitel.esp
 Secrets of Mortum.esp
 Septim Mansion.esp
@@ -9443,7 +9445,7 @@ Zira Horse Showjumping Track.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
-ChangeAbleWeapon.esp 
+ChangeAbleWeapon.esp
 zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
@@ -11781,6 +11783,10 @@ RareItemsv1.18 for RCR.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 realistic_weapon_reach_mod_ks_d.esp
 % {{BASH:Stats}}
+realistic_weapon_reach_mod_ks.esp
+% {{BASH:Stats}}
+realistic-weapon-reach-mod.esp
+% {{BASH:Stats}}
 ReneerRainMod.esp
 RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
@@ -12896,7 +12902,7 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
-More Effective Enchantments.esp 
+More Effective Enchantments.esp
 MTC EagleEyesSpell 1.1[ENG].esp
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
@@ -14581,6 +14587,8 @@ AinmhiRace-RensBeautyPackHairsOnly.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 AlliriaBretonPatriciiRace.esp
 : xeoex.esp
+Almalexia.esp
+% {{BASH:Graphics,NpcFaces,R.Ears}}
 Anwolf Race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Aos Si.esp
@@ -14652,7 +14660,7 @@ Lucha's Blood Witcher.esp
 : Robert's Male v4 or v5
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 Lucha's Blood Witch.esp
-: HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12 
+: HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp
@@ -14789,8 +14797,12 @@ Elves Of Lineage II.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Elves Of Lineage II_1.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Sotha Sil Race.esp
+% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears}}
 TFF_Races_Base.esp
 % {{BASH:NpcFaces,Hair,Eyes,Body-F,Graphics}}
+Tolkien Elves.esp
+% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth}}
 Beautiful People.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 Capucines_Beautiful People.esp
@@ -15735,6 +15747,8 @@ bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
 Zinni's New Tail.esp
+Colourwheels Sexy Oblivion OverHaul.esp
+% {{BASH:Actors.Anims,Graphics,NpcFaces}}
 \EndGroup\\
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH:NoMerge,NpcFaces}}
@@ -16620,6 +16634,7 @@ SPAWN.esp
 _No__persistant_enchantment_glow_fix-1843.esp
 -No-_persistant_enchantment_glow_fix-1843.esp
 No persistant enchantment glow fix.esp
+No_Glow_a_go_go_Version_10-4987.esp
 MagicEffectDim.esp
 P1DshieldNoGlow.esp
 [GFX]_Initial_Glow-all.esp

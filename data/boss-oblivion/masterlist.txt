@@ -13088,6 +13088,7 @@ SM_AbsorbRestoration.esp
 SM_EnableCharmChameleon.esp
 SM_EnableRestoreEnchanting.esp
 SM_NoPoisonLevitationEffects.esp
+? Obsolete, you can update to Supreme Magicka 0.89b+ and set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in the ini for the same result.
 SM_EnchantStaff.esp
 SM_MMMCompatability.esp
 SM_MOBSCompatability.esp
@@ -17044,6 +17045,7 @@ Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 
 UnnecessaryViolence.esp
+? If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini
 UnnecessaryViolenceNormalSpeed.esp 
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 

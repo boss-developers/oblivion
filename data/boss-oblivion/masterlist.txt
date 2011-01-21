@@ -7278,6 +7278,7 @@ Battle4Morrowind.esp
 " anything that changes Legion Armor.
 BayOfMermaid.esp
 bazOOkasWatchTowers_v1.esp
+BecomeALichMod.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp
 Beautiful Watch.esp
@@ -9449,6 +9450,7 @@ ChangeAbleWeapon.esp
 zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
+zzzSlaveMaster.esp
 \EndGroup\\
 
 \BeginGroup\: Quests Arena
@@ -10319,6 +10321,7 @@ Hammerfell+UL Lost Coast Patch.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
+HentaiMania2(Hentai).esp
 HentaiMania2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 HentaiMania2C.esp
@@ -11349,6 +11352,7 @@ Everlasting Corpses v 1.0.esp
 
 Factions DB v1.16.esp
 % {{BASH:Actors.ACBS,Actors.AIPackages,Actors.Stats,Graphics,Invent,Names,Scripts,Stats}}
+Factions Dark Brotherhood.esp
 faster-grass.esp
 Faster-trees.esp
 FG_Merchant Inventory Realism V 1_5.esp
@@ -14484,7 +14488,8 @@ ZelsHairfixRenshairV1_5.esp
 
 \BeginGroup\: Eyes
 \''''
-
+ArdigaWolfessRealEyesAddonVanilla.esp
+% {{BASH:Eyes}}
 ElaborateEyes.esp
 % {{BASH:Eyes}}
 Ethereal - Eyes.esp

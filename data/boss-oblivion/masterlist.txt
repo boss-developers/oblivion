@@ -15949,7 +15949,7 @@ k_HOD_RBP_patch.esp
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:NpcFaces,NoMerge}}
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 OCRAnvil+Integration Path Grid Fix.esp

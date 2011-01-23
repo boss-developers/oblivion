@@ -14166,7 +14166,8 @@ SW01Plus.esp
 ? Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
 SW01Minus.esp
 SexyPlOneHand.esp
-
+handk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 SeductiveIdle.esp
 SeductiveIdles.esp
 Idle Pose Replacer.esp
@@ -14180,6 +14181,7 @@ Animation and Poses.esp
 EFGAddPose.esp
 Chain it!.esp
 CT_prendre_pose.esp
+
 geechan_SimplePose.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
@@ -14818,44 +14820,33 @@ LattamerV3_P-rrtyCure_Hair_Module.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 
 Beautiful People 2ch-Ed Disable AGS Hair.esp
-% {{BASH:Hair}}
 Beautiful People 2ch-Ed Disable BandBlindMask.esp
-% {{BASH:Hair}}
 Beautiful People 2ch-Ed Disable Corean Hair + Saram Hair + AGS Hair.esp
-% {{BASH:Hair}}
 Beautiful People 2ch-Ed Disable Corean Hair + Saram Hair.esp
-% {{BASH:Hair}}
 Beautiful People 2ch-Ed Disable Corean Hair.esp
-% {{BASH:Hair}}
 Beautiful People 2ch-Ed Disable Glow Eyes + Odd Eyes + One Eyed.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable Glow Eyes + Odd Eyes.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable Glow Eyes.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable Odd Eyes + One Eyed.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable Odd Eyes.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable One Eyed + Glow Eyes.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable One Eyed.esp
-% {{BASH:Eyes}}
 Beautiful People 2ch-Ed Disable Saram Hair.esp
-% {{BASH:Hair,Eyes}}
 Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NoMerge,NpcFaces}}
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M,Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F,Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
-% {{BASH:Body-F,Body-M}}
+% {{BASH:Body-F,Body-M,Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Merged Hair Modules.esp
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp
+x117 Merged SKSRENs Hair Modules.esp 
+Beautiful People 2ch-Ed CustomRace.esp 
 Beautiful People 2ch-Ed Chocolate Elves.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
@@ -14868,6 +14859,7 @@ Beautiful People 2ch-Ed MS Elves - Sc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed MS Elves - NoSc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
+ChanponSimpleDef.esp 
 
 x117race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}

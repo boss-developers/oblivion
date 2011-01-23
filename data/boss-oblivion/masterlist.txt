@@ -393,10 +393,10 @@ Oblivion_SI Vwalk Full TNR.esp
 ? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Cobl Races TNR.esp
-% {{BASH:NpcFaces,NoMerge,Deactivate}}
+% {{BASH:NpcFaces,NoMerge}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl Races TNR SI.esp
-% {{BASH:NpcFaces,NoMerge,Deactivate}}
+% {{BASH:NpcFaces,NoMerge}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
 ? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
@@ -5677,13 +5677,14 @@ Vanilla House Prices for OOO.esp
 Boethia_OOO.esp
 
 Alluring Potion Bottles.esp
-% {{BASH:Graphics, NoMerge}}
+% {{BASH:Graphics}}
 Alluring Potion Bottles v2.esp
-% {{BASH:Graphics, NoMerge}}
+% {{BASH:Graphics}}
 Alluring Potion Bottles v3.esp
-% {{BASH:Graphics, NoMerge}}
+% {{BASH:Graphics}}
+? Must stay activated for the BSA to load.
 Alluring Wine Bottles.esp
-% {{BASH:Graphics, NoMerge}}
+% {{BASH:Graphics}}
 
 AMC-OOO.esp
 DBOO.esp
@@ -15943,7 +15944,7 @@ k_HOD_RBP_patch.esp
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
-% {{BASH:NpcFaces,NoMerge,Deactivate}}
+% {{BASH:NpcFaces,NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
 OCRAnvil+Integration Path Grid Fix.esp

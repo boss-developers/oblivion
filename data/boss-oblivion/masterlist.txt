@@ -826,6 +826,8 @@ Zira's Horse Theme Loadscreens.esp
 LoadingScreensRemade.esp
 Floydian1 Loading Screens Compilation.esp
 % {{BASH:Graphics,NoMerge}}
+LoadingScreenQuotes.esp
+? Make sure that any mod that replaces the graphics of the loading screens is tagged with Graphics, otherwise this mod will revert them to vanilla.
 \EndGroup\\
 
 \BeginGroup\: Base Mods

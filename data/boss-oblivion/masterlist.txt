@@ -850,6 +850,7 @@ oc_darker_nights.esp
 " weather overhauls.
 _darker_nights.esp
 " weather overhauls.
+DMP - Darker Nights.esp
 _darker_nights_2_with_burning_kvatch.esp
 " weather overhauls.
 darker nights for shivering isles.esp
@@ -905,6 +906,7 @@ Natural_Weather_with_darker_Nights_by_Max_Tael_RD.esp
 
 Darker Nights for Nat Env.esp
 _darker_nights_for_nat_env.esp
+DMP - Darker Nights_NE.esp
 Natural_Weather_HDR+Darker_Nights_2.1.2_bugfree.esp
 ? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
 Natural_Weather_HDR_2.1.2_bugfree.esp
@@ -13020,6 +13022,7 @@ Unique Summons & Banish Flesh.esp
 Unload Inventory.esp
 Unlocking spell.esp
 WaldelfsLevitation.esp
+WaldelfsLevitation_1C.esp
 Weatherspell.esp
 Wizard's Vengeance Spells.esp
 no spell limit.esp
@@ -14237,6 +14240,10 @@ Darker Dungeons.esp
 _darker dungeons.esp
 % {{BASH:C.Light,Deactivate}}
 _darker_dungeons.esp
+% {{BASH:C.Light,Deactivate}}
+DMP - Darker Dungeons Rus.esp
+% {{BASH:C.Light,Deactivate}}
+DMP - Darker Dungeons Rus GoldEdition.esp
 % {{BASH:C.Light,Deactivate}}
 less_dungeon_effects-6330.esp
 
@@ -16379,6 +16386,7 @@ Better Cities - Oblivion Collectible Cards.esp
 
 Alternate Start Revamped.esp
 _burning_kvatch.esp
+DMP - Burning Kvatch.esp
 Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp

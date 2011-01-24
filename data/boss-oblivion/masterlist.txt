@@ -6938,7 +6938,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 (SFL) Campus Village.esp
 
 001_LM_ElvenGardenRetreat.esp
-^ Possibly incompatible with Better Cities (needs confirmation).
+^ latest versions of this and BC work fine together (v1.21 and v4.8.4 respectively).
 007 Market district fps boost.esp
 ^ Probably incompatible with Better Cities.
 00RBScribeSupplies Intensive.esp
@@ -7356,6 +7356,7 @@ bladesmod3.esp
 BladeSong.esp
 : OBSE 18+, Screen Effects.
 BladeSong v1.3 Delayer.esp
+BladeSong - High Imperial Tess by Xtudo.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
@@ -9343,6 +9344,7 @@ Woodelvendon.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
+WaterlilyCottage1.esp
 WaterloggedTower.esp
 WaterSphere.esp
 Wayshrines in the University.esp
@@ -15429,6 +15431,7 @@ cssJaKhaiitMyr.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions,NoMerge}}
+ViljainAleswell.esp
 \EndGroup\\
 Aliyah.esp
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.

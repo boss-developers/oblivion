@@ -617,6 +617,9 @@ Obl-IM_SI.esp
 singlers_uebersetzungen.esp
 Correction des voix.esp
 Oblivion_Deutsch_v3_2_1.esp
+? Old, update to latest version (V5+).
+Oblivion_Deutsch_v5_0.esp
+% {{BASH:Names}}
 \EndGroup\\
 
 \BeginGroup\: Shivering Isles
@@ -814,7 +817,10 @@ Loading Screens.esp
 LoadingScreens.esp
 % {{BASH:Graphics}}
 LoadingScreensAddOn.esp
+LoadingScreens-AddOn.esp
 LoadingScreensSI.esp
+% {{BASH:Graphics,NoMerge}}
+LoadingScreensSI-DV.esp
 % {{BASH:Graphics,NoMerge}}
 Loading Screens - Vanilla No Text.esp
 % {{BASH:Graphics,NoMerge}}
@@ -3394,6 +3400,7 @@ Dollparts_RoseCorsets - Dark & Light.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
 DragonTorch_1C.esp
+Drake Knight Armor and Weapons v1.0.esp
 Dread Knight Armor Addon.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
@@ -4604,6 +4611,7 @@ White Leather Armor.esp
 WhiteRoseArmor.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wm-Portable-Coffins.esp
+SYS Patch-Portable Coffin.esp
 Wood Bows and Leather Armors.esp
 Woodsman Armor.esp
 Warglaive - EV.esp
@@ -8476,6 +8484,7 @@ MountainShack DV.esp
 MountainShackR12.esp
 ? Old, Update to R121
 MountainShackR121.esp
+SYS Patch-Abandoned Mountain Shack.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp
 mrSiikas_ImperialCathedral.esp
@@ -9053,6 +9062,7 @@ Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
 Temple District Repaired.esp
+^ Not compatible with Better Cities.
 templars.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
@@ -9646,6 +9656,8 @@ Knights - Book Jackets.esp
 % {{BASH:Graphics,NoMerge}}
 Traduccion mejorada KoT9.esp
 % {{BASH:Names}} or without Bash load it later.
+Oblivion_Deutsch_Patch_KotN.esp
+% {{BASH:Names}}
 KnightsBabFemaleArmor.esp
 KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
@@ -14858,8 +14870,8 @@ Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
 Beautiful People 2ch-Ed Merged Hair Modules.esp
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp
-x117 Merged SKSRENs Hair Modules.esp 
-Beautiful People 2ch-Ed CustomRace.esp 
+x117 Merged SKSRENs Hair Modules.esp
+Beautiful People 2ch-Ed CustomRace.esp
 Beautiful People 2ch-Ed Chocolate Elves.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed Ashara's Sirens and Tritons.esp
@@ -14872,7 +14884,7 @@ Beautiful People 2ch-Ed MS Elves - Sc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
 Beautiful People 2ch-Ed MS Elves - NoSc.esp
 % {{BASH:Hair,Eyes,R.Relations}}
-ChanponSimpleDef.esp 
+ChanponSimpleDef.esp
 
 x117race.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -17075,7 +17087,7 @@ Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 
 UnnecessaryViolence.esp
 ? If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini
-UnnecessaryViolenceNormalSpeed.esp 
+UnnecessaryViolenceNormalSpeed.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 DeadlyReflex - Combat Moves.esp

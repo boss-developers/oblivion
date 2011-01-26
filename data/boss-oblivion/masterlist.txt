@@ -3299,6 +3299,7 @@ DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
 Dark Sorceress.esp
 DarkSaintUFF.esp
+UFF Dark Saint Armor.esp
 DarkWoods_Weapons_Armor.esp
 Dauphni Clothing.esp
 DawnWraith.esp
@@ -6101,6 +6102,7 @@ FCOM_MoreWildernessLife.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
 >% {{BASH:Invent,Scripts,Stats}}
+Fletching Compilation.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
 >Mart's Monster Mod - Farm Animals.esp
@@ -8010,6 +8012,7 @@ Hero's Retreat.esp
 02_Helms_Deep.esp
 03_Helms_Deep.esp
 Hidden Cave.esp
+hrOscarWiener.esp
 Hunter's Haven File 1.esp
 \EndGroup\\
 
@@ -11143,6 +11146,9 @@ Bonds Big Portable Tent.esp
 SYS Patch-Bond's Big Portable Tent.esp
 phinix_portable_tent.esp
 Tent.esp
+Treleths_Pitchable_Tent.esp
+Pitchable_Tent.esp
+Pitchable_Tent_anywhere.esp
 Bottled_Explosions.esp
 Bow Damage Balanced.esp
 % {{BASH:Stats,Deactivate}}
@@ -14367,6 +14373,24 @@ No Loading Screen Text v1.0.esp
 Loading Quotes of AWESOME.esp
 
 Alternate Script Effect Icon.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Darkness.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Fortify.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Lock.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Reflect Spell.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Resist.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Silence.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Stunted Magicka.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Sun Damage.esp
+% {{BASH:Graphics}}
+Different Script Effect Icon - Vampirism.esp
 % {{BASH:Graphics}}
 ScriptEffectIconReplace.esp
 % {{BASH:Graphics}}

@@ -1872,6 +1872,8 @@ Mage Guild Sorters v3.esp
 : COBL.
 Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
+MagesGuildPortalTowerV1.1.esp
+MagesGuildPortalTowerV1.2.esp
 CParchmagetele.esp
 Medic!.esp
 MeosPotionReplacer.esp
@@ -3404,6 +3406,7 @@ Dragon Knight Armor v. 1.1.esp
 DragonTorch_1C.esp
 Drake Knight Armor and Weapons v1.0.esp
 Dread Knight Armor Addon.esp
+Drake Knight Complete.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Nico's Dreadweave Armor_light.esp
@@ -3855,6 +3858,8 @@ lam.esp
 Lamayo's Crescent Axe.esp
 Lamayo's Dragon Bow.esp
 LD - New Arrows.esp
+Legion Shield Replacer.esp
+% {{BASH:Graphics}}
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
 Leveled Weapons.esp
@@ -6953,6 +6958,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 (SFL) Campus Village.esp
 
 001_LM_ElvenGardenRetreat.esp
+% {{BASH:Invent}}
 ^ latest versions of this and BC work fine together (v1.21 and v4.8.4 respectively).
 007 Market district fps boost.esp
 ^ Probably incompatible with Better Cities.
@@ -8352,6 +8358,8 @@ Latexshop2.esp
 latexshopstore.esp
 LE_search.esp
 Legends Baleful Eye.esp
+Legends - Zefaro Cottage.esp
+: OBSE 18+, USV, HGEC or Exnem body.
 Legion Faction Mod.esp
 % {{BASH:Relations}}
 ? Warning: This mod deletes several important vanilla dialogue entries. They will need to be repaired via TES4Edit to avoid possible CTDs.
@@ -15396,6 +15404,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja.esp
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+1em_Vilja_Neck_Seam_Concealer.esp
 1em_Vilja_as_Argonian.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Argonian Vwalk.esp
@@ -15438,7 +15447,6 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-1em_Vilja_Neck_Seam_Concealer.esp
 1em_Vilja_coolhair41.esp
 ? Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja_coolhair49.esp

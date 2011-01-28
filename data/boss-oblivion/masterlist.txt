@@ -7207,6 +7207,8 @@ ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
 ArrowRestLodge.esp
+SYS Patch-Arrow Rest Lodge.esp
+SYS Patch-Arrow Rest Lodge COBL.esp
 Artifacts of the Ancestors.esp
 ? this mod needs repairing with TES4Edit before it's usable.
 Artefacts of the Ancestors.esp
@@ -7391,6 +7393,8 @@ Bjornheim.esp
 ? This ESP has critical errors and should not be used in an active game. Regular TES4Edit cleaning is not enough to repair it.
 Bjornheim_1C.esp
 BlackMarshHall.esp
+SYS Patch-Blackmarsh Hall.esp
+SYS Patch-Blackmarsh Hall COBL.esp
 BlackRockManorV11.esp
 Vibliribland-4489-Blackrock_Mountain.esp
 Blackrock_Mountain-4489.esp
@@ -7940,6 +7944,8 @@ Halls of Unrelent.esp
 Hammerfell.esp
 Hammerfell Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Hammerfellbeachhouse.esp
+SYS Patch-Hammerfell Retreat.esp
 Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
@@ -7967,6 +7973,7 @@ Hedge Home.esp
 HelsethArmor.esp
 HentaiLovelyHouse.esp
 SYS Patch Hentai's Lovely House.esp
+SYS Patch-Hentai's Lovely House 2.esp
 Hentai Mania.esp
 >: FCOM_Hentai Mania.esp
 % {{BASH:Hair,Invent,Scripts,C.Owner}}
@@ -8651,6 +8658,7 @@ One Stop Armors.esp
 OCC-OSMS-Patch.esp
 OrangeInn.esp
 OrangeroadCottage.esp
+SYS Patch-Orange Road Cottage.esp
 Orange Road Cabin.esp
 Orange_Road_Manor_ru.esp
 OrderCloudKnights.esp
@@ -10038,6 +10046,7 @@ ElsweyrAnequina Vwalk.esp
 ElsweyrAnequina v2 Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Reaper's Esmeralda's Desert Manor.esp
+SYS Patch-Anequina Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Upgrade to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
@@ -10065,6 +10074,7 @@ ElsweyrValenwoodImprovedPatch.esp
 : 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
 Elsweyr Valenwood Daedric Shrine Patch.esp
 : 'Daedric Shrine Ruins.esp', 'ElsweyrAnequina.esp', 'Valenwood Improved.esp', 'ElsweyrValenwoodImprovedPatch.esp'
+SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
 WAC - Elsweyr Anequina.esp
 : 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
@@ -13875,6 +13885,7 @@ Duke Patrick`s Smash of the Titans.esp
 Duke Patricks - Smash Of The Titans.esp
 SMCombatRegen.esp
 SpookyNPCAIModsMerge.esp
+Enemy Actors AutoHeal 1.3.esp
 Mister Misanthrope's Custom Settings.esp
 MM_AllowAlchemy.esp
 ? If using Bash, might as well use the bashed patch tweak instead and save an esp slot.

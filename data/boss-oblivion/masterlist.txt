@@ -120,6 +120,7 @@ ORP.esm
 CyrodiilUpgradeResourcePack.esm
 AGC-TARDISmstr.esm
 (DC)A Saints Tale Master.esm
+(DC) County Sutch Reborn Master.esm
 TamrielTravellers.esm
 TamrielTravellers SI.esm
 FCOM_Convergence.esm
@@ -4207,6 +4208,7 @@ Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
 Scarves!.esp
 Scholomance armor.esp
+Schwertleite Armor.esp
 sci-fi bow.esp
 ScimitarMod.esp
 Scoundrels Luck Armor.esp
@@ -7648,6 +7650,7 @@ Dancer_Undress0_6.esp
 Sutch Reborn Spawn Patch.esp
 (DC) County Sutch - New Haven.esp
 ? it's replace (DC) Sutch Reborn.esp
+(DC) County Sutch - Owls Cove.es
 
 The Dead Knights.esp
 Deathtrap Dungeon.esp
@@ -7732,6 +7735,7 @@ DarkDale.esp
 
 Eagle'sNest.esp
 EaglesRest.esp
+EastbrinkBasic.esp
 eden castle.esp
 Edgar's little secret.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
@@ -9459,8 +9463,10 @@ Zergonipilamat.esp
 Zergonipilamat 1_2.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
+Zera LeSaar's Aethera Aeternium.esp
 Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
+Zera LeSaar's Theoretical Rift.esp
 Zira's Clydesdale Horses.esp
 Zira's Battle Horse.esp
 Zira's Battle Horse Shop.esp
@@ -9955,6 +9961,8 @@ FCOM_Knights.esp
 FCOM_WelkyndSwordBlood&Mud.esp
 : 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
 FCOM_ruin.esp
+FCOM_SlofsHorses.esp
+% {{BASH:Graphics}}
 FCOM_slofsrobetrader.esp
 % {{BASH:Delev,Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.
@@ -13803,6 +13811,7 @@ DRSplatter.esp
 : OBGEv2.
 
 SM_DeadlyReflex.esp
+SM_DeadlyReflex5.esp
 
 Deadly Reflex Bow Sway.esp
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
@@ -14237,6 +14246,8 @@ Animation - Growlfs Body Resizing Mod.esp
 1st Person Legs.esp
 : OBSE 15+.
 SP1stPLegs.esp
+
+KamiCAS.esp
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides

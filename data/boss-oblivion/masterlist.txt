@@ -1287,6 +1287,7 @@ CampfireBehavior.esp
 better lights.esp
 
 IlluminationWithin.esp
+IlluminationWithout.esp
 Illumination Within Rus.esp
 ? use only one Illumination Within Rus.esp or Illumination Without Rus.esp
 Illumination Without Rus.esp
@@ -2225,6 +2226,7 @@ Torch Arrows.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
+TreasureHunt.esp
 TreasureChest.esp
 ? Choose only one 'TreasureChest' ESP.
 TreasureChestNoGurdian.esp
@@ -4094,6 +4096,7 @@ pizz_NINJA_outfit.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 Plate Armor Plus - Woman's Move Edition.esp
+Plate Armor Plus - OOO_FCOM_version.esp
 Plate of the Shadow.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
@@ -4601,6 +4604,7 @@ VSPTensaZangetsu.esp
 Viro's Kung Fu Set.esp
 Vvardenfell_Imports.esp
 OC+Imports Patch.esp
+VypersStealthArmors.esp
 \EndGroup\\
 
 \BeginGroup\: Items W
@@ -6557,6 +6561,10 @@ Choices and Consequences - FCOM.esp
 
 >Mart's Monster Mod - Shivering Isles.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Delev,Factions,Graphics,Invent,Names,Relations,Relev,Scripts,Stats}}
+Mart's Monster Mod - Legion Shield Replacer.esp
+% {{BASH:Graphics}}
+Legion Shield Replacer - OOO.esp
+% {{BASH:Graphics}}
 
 ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
@@ -7118,9 +7126,11 @@ AleswellMerchant Cobl SI.esp
 AleswellHomeFree.esp
 AleswellHomeQuest.esp
 Aleswell House.esp
+Alternate Daedric Artifacts.esp
 AyleidMarket.esp
 AyleidQuest.esp
 Ayleid Treasury.esp
+AyleidTreasury.esp
 Amajor7 Imperial Furniture.esp
 Imperial Furniture Renovated.esp
 Imperial Furniture Renovated - Patch.esp
@@ -7240,6 +7250,7 @@ Asharnakibibi 1_2.esp
 Ash'kale.esp
 Ash's Odd Jobs.esp
 AshTentMod.esp
+Assassin's Abode.esp
 Assassin's Hideout v1.1.esp
 Assassin Tripwires.esp
 AStrangeCave.esp
@@ -7251,6 +7262,7 @@ Auriel's Books.esp
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Aus's Alchemy Helper!.esp
 Automagicon.esp
 ? Use *either* COBL version or non-cobl version.
 Automagicon_Cobl.esp
@@ -7474,6 +7486,7 @@ Chatham.esp
 Chichester Village.esp
 ChristmasCottage.esp
 CityofSunevV058.esp
+Civilian Storage.esp
 Colossus_01.esp
 Colmir Manor.esp
 CottageInColoviaV1.6.esp
@@ -8443,6 +8456,7 @@ Lynges_Dark_Brotherhood_Assassins-8654.esp
 Lyn-GnollMountain.esp
 Lynges_Gnoll_Mountain.esp
 Lynges_Gnoll_Mountain-8117.esp
+Lynijasgift10.esp[
 Lilarcor.esp
 \EndGroup\\
 
@@ -9287,6 +9301,7 @@ UFF Gypsy Market.esp
 Unbeatable Angel.esp
 UndergroundLair.esp
 UnfathomedTower.esp
+UngarimsCaveNew.es
 Unholy Cathedral.esp
 Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
@@ -11598,6 +11613,7 @@ Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lights.esp
 Live at Gweden Farm.esp
+Location Names With Enemy Tags.esp
 Loot All Armor.esp
 Lootable Merchant Chests.esp
 LowRechargeCost.esp
@@ -11626,6 +11642,8 @@ RedBag - Items Repriced v2.esp
 % {{BASH:Stats,Deactivate}}
 Fixed_Repriced_Clutter_11_by_Carpmalenko_POD-9319.esp
 % {{BASH:Stats,Deactivate}}
+Priced_Clutter-2312.esp
+% {{BASH:Stats}}
 Shadow's Balance Price Fixv2.0.esp
 % {{BASH:Stats,Deactivate}}
 Shadow's Merged Value FixesNOBLOODPOTv2.0.esp
@@ -12560,6 +12578,7 @@ Vswe_Skip_Start_No_Videos.esp
 
 Axebane_RealHunger25.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
+BareNecessities.esp
 HTS-WithMessages 1-1 DV.esp
 HTS-WithMessages 1-10 DV.esp
 HTS-WithMessages 1-12 DV.esp
@@ -13545,6 +13564,7 @@ Speedy Looting - Harvest [Containers] - Player Home Add-on.esp
 Speedy Looting - OOO.esp
 Speedy Looting - wd purse of wonders.esp
 
+Enhanced Thievery.esp
 Thievery_Easy_Thrill.esp
 ? only use one of the 'Worthwhile Thievery' ESPs.
 Thievery_Easy.esp
@@ -13706,6 +13726,8 @@ Duke Patricks Basic Denock Arrows.esp
 Duke Patricks - Double Arrow Nock Shot.esp
 Enhanced_Hand_to_hand-2329.esp
 ArrowMania_English.esp
+Bow_Damage_Equalizer.esp
+% {{BASH:Stats}}
 erics_double_damage_for_archers.esp
 ? Only use one Erics * for archers.esp
 erics_quad_damage_for_archers.esp
@@ -13830,9 +13852,6 @@ Deadly Reflex 6 - Timed Block and 250% damage.esp
 Mounted_Spellcasting_Deadly_Reflex_Compatible.esp
 DRSplatter.esp
 : OBGEv2.
-
-SM_DeadlyReflex.esp
-SM_DeadlyReflex5.esp
 
 Deadly Reflex Bow Sway.esp
 Deadly Reflex - Breathing Motion & Head Bobbing.esp
@@ -14403,6 +14422,7 @@ Item interchange - Option, Ingredients in Bulk, reduced.esp
 Atmospheric Loading Screens - No Text.esp
 % {{BASH:Graphics}}
 No Loading Screen Text v1.0.esp
+NoLoadMessage_v1.0-RSS.esp
 Loading Quotes of AWESOME.esp
 
 Alternate Script Effect Icon.esp
@@ -17154,6 +17174,8 @@ DeadlyReflex 6 - Combat Moves.esp
 : NifSE (http://www.tesnexus.com/downloads/file.php?id=21292)
 : Drop Lit Torches OBSE (http://www.tesnexus.com/downloads/file.php?id=16282)
 \preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
+SM_DeadlyReflex.esp
+SM_DeadlyReflex5.esp
 
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
 

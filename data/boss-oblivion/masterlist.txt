@@ -7094,6 +7094,7 @@ AL_WildSpright.esp
 All New House.esp
 ? Old, update to latest version (which is called Vaernlor Manor).
 Vaernlor Manor.esp
+SYS Patch-Vaernlor Manor.esp
 Alliria_CRP_Communications.esp
 % {{BASH:Roads}}
 Alliria_CRP_CrossOwnership.esp
@@ -7673,7 +7674,7 @@ Dancer_Undress0_6.esp
 Sutch Reborn Spawn Patch.esp
 (DC) County Sutch - New Haven.esp
 ? it's replace (DC) Sutch Reborn.esp
-(DC) County Sutch - Owls Cove.es
+(DC) County Sutch - Owls Cove.esp
 
 The Dead Knights.esp
 Deathtrap Dungeon.esp
@@ -8957,6 +8958,7 @@ Silgrad_Tower.esp
 ardah.esp
 ardah Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+SYS Patch-Ardah.esp
 Silorn Manor.esp
 Silvercliff.esp
 SilverSoul Hideaway_v1.1.esp
@@ -8999,7 +9001,7 @@ Snow Dragon Temple v1.0.esp
 snowglobe.esp
 Snow Line Lodge.esp
 SN_Skingrad_Villa.esp
-SYS Patch- Skingrad Villa.es
+SYS Patch- Skingrad Villa.esp
 SOTES_Santres.esp
 Solace.esp
 SolaceDV.esp
@@ -9106,6 +9108,8 @@ TempleOfHeretics.esp
 TempleofNirn.esp
 The Horror in the Village of Kuhn Dah.esp
 The Temple of Serpent Race.esp
+The Treasure House.esp
+SYS Patch-Personal Treasure Vault.esp
 Theryon.esp
 Templar Fighters Guild.esp
 CHEAT - TempleofNirn.esp
@@ -9301,7 +9305,7 @@ UFF Gypsy Market.esp
 Unbeatable Angel.esp
 UndergroundLair.esp
 UnfathomedTower.esp
-UngarimsCaveNew.es
+UngarimsCaveNew.esp
 Unholy Cathedral.esp
 Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
@@ -9969,6 +9973,7 @@ ShezriesTownsMaster.esp
 ShezriesTownsMaster Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 GoC_ShezriesTowns_Patch.esp
+SYS Patch-Shezrie's Towns.esp
 LostSpires+PellsGate Patch.esp
 
 Well of Arcane Marking.esp
@@ -10311,6 +10316,7 @@ LostSpires-Everglade patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
+Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
@@ -10542,6 +10548,7 @@ ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.
 TrailsOfCyrodiil-RiverEthe patch.esp
 TrailsOfCyrodiil-RiverEthe patch DV.esp
+Valenwood Improved - River Ethe EV - Patch.esp
 WestRoads-RiverEthe patch.esp
 ? Obselete - update to West Roads version 1.3+.
 WineOverhaul-RiverEthe Patch.esp
@@ -14878,6 +14885,7 @@ DemonRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 DesertArgonian.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+Drake Dragon Race.esp
 Dremora.esp
 % {{BASH:NpcFaces}}
 M.O.E. - Playable Dremora and Custom Race Fix.esp
@@ -15527,6 +15535,8 @@ cssJaKhaiitMyr.esp
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
+% {{BASH:Factions,NoMerge}}
+1em_Vilja MMM Fix.esp
 % {{BASH:Factions,NoMerge}}
 ViljainAleswell.esp
 \EndGroup\\

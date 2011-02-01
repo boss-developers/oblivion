@@ -4621,6 +4621,7 @@ WizardWear.esp
 Wyrmfang.esp
 White Leather Armor.esp
 WhiteRoseArmor.esp
+WhiteRoseArmor_RW.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wm-Portable-Coffins.esp
 SYS Patch-Portable Coffin.esp
@@ -12341,6 +12342,8 @@ UNKNOWNYMOUS Social NPCs.esp
 VisiblyUnlimited.esp
 Unlimited Rings 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited Rings 1.0 Rus.esp
+? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets - Shivering Isles.esp
@@ -14650,6 +14653,8 @@ Cosmetic Compilation.esp
 Cosmetic Compilation XXL DV.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No NPC Changes.esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+Cosmetic Compilation - No JPeepers.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
 % {{BASH:NpcFaces,Hair,Eyes}}

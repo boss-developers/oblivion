@@ -2359,6 +2359,7 @@ Crowded Cities 15 Vwalk.esp
 Crowded Cities 30.esp
 
 Crowded Cities_Open.esp
+Crowded Cities for OCR.esp
 
 Crowded Roads.esp
 Crowded Roads Vwalk.esp
@@ -3529,6 +3530,8 @@ Female Helmet Replacer.esp
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
+FF00_Clothes.esp
+FF00_SA-LightArmor.esp
 FF7 Weapons.esp
 FinalFantasy10BrotherhoodSword.esp
 FinalFantasy10BrotherhoodswordNEW.esp
@@ -4128,6 +4131,7 @@ Queensarmory.esp
 \BeginGroup\: Items R
 
 RealitySpectresThiefGarb.esp
+Ra'haar's Arcane Clutter.esp
 Ranger's Shroud Armor.esp
 Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
@@ -4449,6 +4453,7 @@ tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
+Teklanika's Reforged Items.esp
 Tenko_Cloth.esp
 TestShuriken.esp
 Tesw.esp
@@ -14830,6 +14835,7 @@ Nec-Character_Sonnet_Spoiled.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Nephilim.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,Actors.Spells,R.Description,R.Skills,R.Attributes-F,R.Attributes-M}}
+NorthernSuthay.esp
 OE-Enhanced Races V1.35.esp
 % {{BASH:Eyes,Hair,R.Head,SpellStats}}
 Moonshadow Elves - Sc.esp
@@ -15699,6 +15705,7 @@ Candlelight.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 Valtierro_B1.esp
+Valtierro_B1-NoCCRL.es
 VampireCompanion.esp
 Vance.esp
 
@@ -17253,6 +17260,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkSaga.esp
+UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 " Underdark v1.1 Delayer.esp (Only use one).
 UnderdarkSaga Vwalk.esp

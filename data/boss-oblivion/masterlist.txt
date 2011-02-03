@@ -2443,6 +2443,7 @@ OCC-TVamp-Patch.esp
 Choices and Consequences.esp
 C&C&EQR.esp
 ? Obsolete. Upgrade to latest version.
+EQR_-_FCOM.esp
 
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner,Relations}}
@@ -4096,8 +4097,6 @@ Piratelords Recharging Enchantments.esp
 pizz_NINJA_outfit.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
-Plate Armor Plus - Woman's Move Edition.esp
-Plate Armor Plus - OOO_FCOM_version.esp
 Plate of the Shadow.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
@@ -6673,6 +6672,9 @@ EVE_StockEquipmentReplacer4MMM.esp
 
 Diverse Imperial Armor v1.1.esp
 " MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
+
+Plate Armor Plus - Woman's Move Edition.esp
+Plate Armor Plus - OOO_FCOM_version.esp
 \EndGroup\\
 
 Adventurers_1.0.esp
@@ -10285,6 +10287,7 @@ xuldarkforest.esp
 Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 DBOO - UL DarkForest.esp
+WAC-ULdarkforest-patch.esp
 
 Silverfish.esp
 
@@ -10355,6 +10358,7 @@ MOEVampireClanRaelu-ChorrolHinterland patch.esp
 WeynonRetreat-ChorrolHinterland-Patch.esp
 TrailsOfCyrodiil-ChorrolHinterland patch.esp
 HoarfrostCastle-ChorrolHinterland patch.esp
+WAC-ULchorrolhinterland-patch.esp
 
 Myths and Legends.esp
 ? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
@@ -14093,6 +14097,7 @@ ProgressRacial.esp
 ProgressArmorer.esp
 ProgressMercantile.esp
 Progress - RacialAdvancement.esp
+JCN_AV Uncap.esp
 
 PureImmersion.esp
 piHealth5x.esp
@@ -15555,13 +15560,13 @@ cssJaKhaiitMyr.esp
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
-% {{BASH:Factions,NoMerge}}
+% {{BASH:Factions,Relations,NoMerge}}
 ? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection. 
 : Requires OOO (and is good for OOO / MMMforOOO / FCOM / etc.)
 1em_Vilja MMM Fix.esp
 % {{BASH:Factions,NoMerge}}
 1em_Vilja MMM FCOM Fix.esp
-% {{BASH:Factions,NoMerge}}
+% {{BASH:Factions,Relations,NoMerge}}
 ? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures. 
 : Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 ViljainAleswell.esp
@@ -17124,6 +17129,8 @@ Shining Creatures_AtronachFrost.esp
 Shining Creatures_WillOWisp.esp
 % {{BASH:Invent}}
 Shining Creatures_DLCFrostcrag.esp
+% {{BASH:Invent}}
+Shining Creatures_OOO.esp
 % {{BASH:Invent}}
 \EndGroup\\
 

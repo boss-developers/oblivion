@@ -3202,6 +3202,7 @@ CapesandCloaks.esp
 Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
+CB Dark Enchantress.esp
 CB Gothic Mistress.esp
 CheatsBook.esp
 Chin CatSuit.esp
@@ -7027,6 +7028,7 @@ A Not So Simple Cave Retreat - Coblized.esp
 : COBL.
 " 'A Not So Simple Cave Retreat.esp'.
 A Sneaky Buy 2.1.esp
+A Sneaky Buy - BETTER CITIES.esp
 A Sorceress Love 1_1.esp
 AAAEmptyRoom.esp
 AABTSv1.esp
@@ -7758,6 +7760,7 @@ DarkDale.esp
 
 \BeginGroup\: Quests E
 
+Eagles Landing v1.esp
 Eagle'sNest.esp
 EaglesRest.esp
 EastbrinkBasic.esp
@@ -9220,6 +9223,7 @@ TheUnluckyLeprechaun.esp
 TheVaultofOrder.esp
 The Vertueux.esp
 " The Lost Spires; Small landscaping issue between the HQ and surroundings.
+The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp
 thievery - EE patch.esp
@@ -9297,6 +9301,7 @@ TOTW.esp
 TOTWfurn.esp
 TOTWcamp.esp
 Tunnels of Tamriel.esp
+Twin Myths Of The Dawn.esp
 \EndGroup\\
 
 \BeginGroup\: Quests U
@@ -10182,6 +10187,7 @@ Split Expansion.esp
 Split Expansion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 StalhrimVillage.esp
+StalhrimVillage - AN Patch.esp
 
 Tales from Elsweyr 2_1.esp
 
@@ -11518,6 +11524,7 @@ GuilesNameReplace-Scrolls.esp
 \BeginGroup\: overrides H
 [Hexaae] Vilverin fires.esp
 [Hexaae] Vilverin fires UOP.esp
+Haldar's Mods Pack.esp
 HarderRepairs_2.esp
 HarderRepairs_5.esp
 HarderRepairs_10.esp
@@ -12278,6 +12285,7 @@ Storms & Sound Patches.esp
 SiC shippingInCyrodiil.esp
 ShippingInCyrodiil-08.esp
 ShippingInCyrodiil_Normal_Lights_V1-1 - With Drawbridges.esp
+ShippingInCyrodiil_BC_comp_V1-1.esp
 SkoomaTest.esp
 
 StackableEquipment.esp
@@ -15548,8 +15556,14 @@ cssJaKhaiitMyr.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions,NoMerge}}
+? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection. 
+: Requires OOO (and is good for OOO / MMMforOOO / FCOM / etc.)
 1em_Vilja MMM Fix.esp
 % {{BASH:Factions,NoMerge}}
+1em_Vilja MMM FCOM Fix.esp
+% {{BASH:Factions,NoMerge}}
+? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures. 
+: Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 ViljainAleswell.esp
 \EndGroup\\
 Aliyah.esp
@@ -16133,10 +16147,92 @@ Patch Naked NPCs.esp
 
 \BeginGroup\: Better Cities
 \-------------
-
+\BeginGroup\: Main BC Esps
 Better Cities - Full City Defences.esp
 Better Cities Full.esp
 Better Cities Full - B&M Edition.esp
+Better Cities - Skingrad City Defences.esp
+Better Cities SKINGRAD.esp
+BC Skingrad Reduced - EV.esp
+? For use with Better Cities uncheck Better Cities SKINGRAD.esp
+? Do not use this plug-in with Better Cities Full.esp
+Better Cities - Bravil City Defences.esp
+Better Cities BRAVIL.esp
+Better Cities BRAVIL - Blood & Mud.esp
+Better Cities - Anvil City Defences.esp
+Better Cities ANVIL.esp
+Better Cities - Chorrol City Defences.esp
+Better Cities CHORROL.esp
+Better Cities - Cheydinhal City Defences.esp
+Better Cities CHEYDINHAL.esp
+Better Cities - Leyawiin City Defences.esp
+Better Cities LEYAWIIN.esp
+Better Cities - Bruma City Defences.esp
+Better Cities BRUMA.esp
+
+Better Cities - VWD of the IC.esp
+\EndGroup\\
+
+\BeginGroup\: BC IC
+
+Better Cities IC Arboretum.esp
+Better Cities IC Arcane University.esp
+Better Cities IC Arena.esp
+Better Cities IC Elven Gardens.esp
+Better Cities IC Green Emperor Way.esp
+Better Cities IC Market.esp
+Better Cities IC Prison.esp
+Better Cities IC Talos Plaza.esp
+Better Cities IC Temple.esp
+Better Cities IC Waterfront.esp
+Better Imperial City.esp
+\EndGroup\\
+
+\BeginGroup\: Better Cities FPS Patches
+
+Better Cities Full FPS Patch.esp
+Better Cities Skingrad FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Leyawiin FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Chorrol FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Cheydinhal FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bruma FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities Bravil FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+? Do not use with Blood & Mud version of Better Cities.
+Better Cities Bravil - Blood & Mud FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+? Only use if using Blood & Mud version of Better Cities.
+Better Cities Anvil FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Tunnel FPS Patch.esp
+Better Cities IC Temple FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Talos Plaza FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Prison FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Market FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Green Emperor Way FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Elven Gardens FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arena FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arcane University FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Arboretum FPS Patch.esp
+? Only use if using the separate Better Cities .esps
+Better Cities IC Waterfront FPS Patch.esp
+\EndGroup\\
+
+\BeginGroup\: BC Compatibility patches
+
 Better Cities Full Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 Better Cities Full Swalk.esp
@@ -16146,19 +16242,8 @@ Better Cities Full Vwalk.esp
 Better Cities Full - B&M Edition Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
-Better Cities IC Districts.esp
-? Obsolete file. Upgrade to the latest version of Better Cities and then delete this.
-
-Better Cities - Skingrad City Defences.esp
-Better Cities SKINGRAD.esp
-BC Skingrad Reduced - EV.esp
-? For use with Better Cities uncheck Better Cities SKINGRAD.esp
-? Do not use this plug-in with Better Cities Full.esp
 Better Cities - Skingrad Outer District.esp
 
-Better Cities - Bravil City Defences.esp
-Better Cities BRAVIL.esp
-Better Cities BRAVIL - Blood & Mud.esp
 Better Cities - CUO Bravil Patch.esp
 ? Use only one Better Cities *version* - CUO Bravil Patch.esp
 Better Cities Full - CUO Bravil.esp
@@ -16172,21 +16257,15 @@ BCBravilB&MFULL-Barrowfields patch.esp
 BCBravilFULL-Barrowfields patch.esp
 ? Same as 'Better Cities - Unique Landscape Barrowfields.esp' - only use ONE of these.
 BCBravil-Barrowfields.esp
-
 Better Cities - Unique Landscape Barrowfields.esp
 BCBravil-Barrowfields patch.esp
 
-Better Cities - Anvil City Defences.esp
-Better Cities ANVIL.esp
 Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
 " Ruined Tail's Tale v2.5.
 : Ruined Tail's Tale v3+.
-
 Better Cities - Anvil Bay Expansion.esp
 
-Better Cities - Chorrol City Defences.esp
-Better Cities CHORROL.esp
 Better Cities - CUO Chorrol Patch.esp
 ? Use only one Better Cities *version* - CUO Chorrol Patch.esp
 Better Cities Full - CUO Chorrol Patch.esp
@@ -16208,8 +16287,7 @@ Better Cities BRUMA - Werewolf.esp
 
 Better Cities - Knightly Armory.esp
 
-Better Cities - Cheydinhal City Defences.esp
-Better Cities CHEYDINHAL.esp
+
 Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
 % {{BASH:C.Water}}
@@ -16223,14 +16301,10 @@ BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 Better Cities - Unique Landscape Cheydinhal Falls.esp
 % {{BASH:C.Water}}
 
-Better Cities - Leyawiin City Defences.esp
-Better Cities LEYAWIIN.esp
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp
 Better Cities Full B&M - CUO Leyawiin Patch.esp
 
-Better Cities - Bruma City Defences.esp
-Better Cities BRUMA.esp
 Better Cities - CUO Bruma Patch.esp
 ? Only use one version of the BC - CUO Bruma Patch.
 Better Cities Full - CUO Bruma Patch.esp
@@ -16251,10 +16325,50 @@ Better Cities - VHBloodlines.esp
 Better Cities - Werewolf-Legends.esp
 TrailsOfCyrodiil-BC patch.esp
 
-Better Cities - VWD of the IC.esp
+
+Better Imperial City Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
+Better Imperial City Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
+Better Imperial City Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Better Imperial City FPS Patch.esp
+? Only use if using Better Imperial City.esp
+Better Cities - OMG.esp
+? Use only one Better *version* - OMG Patch.esp
+Better Cities - OMG Patch.esp
+? Use only one Better *version* - OMG Patch.esp
+Better Imperial City - OMG Patch.esp
+? Use only one Better *version* - OMG Patch.esp
+Better Imperial City - OMG.esp
+? Use only one Better *version* - OMG Patch.esp
+Better Cities - Sexlivion_0.4a_Full_English_v1.esp
+Better Cities - Sexlivion.esp
+Better Cities - Stranded Light.esp
+? Obsolete. Do not use.
+Better Cities - The Lost Spires.esp
+Better Cities - Old Crow Inn.esp
+Better Cities - COBL.esp
+Better Cities - Dwemer Subway.esp
+Better Cities - Unique Landscape Imperial Isle.esp
+Better Cities - Vvardenfell Imports.esp
+
+Better Cities and IC Rwalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
+Better Cities and IC Swalk.esp
+? Old, consider upgrading to Sensual Walks mod'.
+Better Cities and IC Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+
+Better Cities - No LEYAWIIN Flooding.esp
+Better Cities - Oblivion Collectible Cards.esp
+
+\EndGroup\\
 
 \BeginGroup\: Obsolete BC files
 
+Better Cities IC Districts.esp
+? Obsolete file. Upgrade to the latest version of Better Cities and then delete this.
 BCAnvil-LostCoast Fix.esp
 ? Obsolete. Update Better Cities to latest version.
 Better Cities - Unique Landscape Lost Coast.esp
@@ -16396,101 +16510,6 @@ Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
 ? Old, update to newer version.
 \EndGroup\\
-
-\BeginGroup\: BC IC
-
-Better Cities IC Arboretum.esp
-Better Cities IC Arcane University.esp
-Better Cities IC Arena.esp
-Better Cities IC Elven Gardens.esp
-Better Cities IC Green Emperor Way.esp
-Better Cities IC Market.esp
-Better Cities IC Prison.esp
-Better Cities IC Talos Plaza.esp
-Better Cities IC Temple.esp
-Better Cities IC Waterfront.esp
-Better Imperial City.esp
-Better Imperial City Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
-Better Imperial City Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
-Better Imperial City Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-Better Imperial City FPS Patch.esp
-? Only use if using Better Imperial City.esp
-Better Cities - OMG.esp
-? Use only one Better *version* - OMG Patch.esp
-Better Cities - OMG Patch.esp
-? Use only one Better *version* - OMG Patch.esp
-Better Imperial City - OMG Patch.esp
-? Use only one Better *version* - OMG Patch.esp
-Better Imperial City - OMG.esp
-? Use only one Better *version* - OMG Patch.esp
-Better Cities - Sexlivion_0.4a_Full_English_v1.esp
-Better Cities - Sexlivion.esp
-Better Cities - Stranded Light.esp
-? Obsolete. Do not use.
-Better Cities - The Lost Spires.esp
-Better Cities - Old Crow Inn.esp
-Better Cities - COBL.esp
-Better Cities - Dwemer Subway.esp
-Better Cities - Unique Landscape Imperial Isle.esp
-Better Cities - Vvardenfell Imports.esp
-\EndGroup\\
-
-Better Cities and IC Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
-Better Cities and IC Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
-Better Cities and IC Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-
-\BeginGroup\: Better Cities FPS Patches
-
-Better Cities Full FPS Patch.esp
-Better Cities Skingrad FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Leyawiin FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Chorrol FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Cheydinhal FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Bruma FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities Bravil FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-? Do not use with Blood & Mud version of Better Cities.
-Better Cities Bravil - Blood & Mud FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-? Only use if using Blood & Mud version of Better Cities.
-Better Cities Anvil FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Tunnel FPS Patch.esp
-Better Cities IC Temple FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Talos Plaza FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Prison FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Market FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Green Emperor Way FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Elven Gardens FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Arena FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Arcane University FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Arboretum FPS Patch.esp
-? Only use if using the separate Better Cities .esps
-Better Cities IC Waterfront FPS Patch.esp
-\EndGroup\\
-
-Better Cities - No LEYAWIIN Flooding.esp
-Better Cities - Oblivion Collectible Cards.esp
-
 \EndGroup\\
 
 \BeginGroup\: Post BC and OBC

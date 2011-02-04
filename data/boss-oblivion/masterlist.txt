@@ -18,7 +18,7 @@
 \BeginGroup\: ESMs
 \----
 Oblivion.esm
-? Masterlist Revision: 2100
+? Masterlist Information: $Revision$, $Date$, $LastChangedBy$ 
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
 Oblivion_SI.esm
@@ -1411,8 +1411,8 @@ Ayleid Loot EXtension.esp
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
 Amulet of Magicka.esp
-Amulet of Magicka_1?.esp
-\ This ? is different from the C in the mod name below: the former is apparently Russian, and the latter is ASCII. Both entries should be kept.
+Amulet of Magicka_1С.esp
+\ This С is different from the C in the mod name below: the former is apparently Russian, and the latter is ASCII. Both entries should be kept. 
 Amulet of Magicka_1C.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
@@ -11301,8 +11301,6 @@ Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Colourwheels Sexy Bank.esp
-Colourwheels Sexy Oblivion OverHaul.esp
-% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,Graphics,R.Description,Actors.Anims,Invent,Race,Actors.ACBS}}
 CombatAlarm.esp
 CompanionHorseSupport.esp
 : OBSE version 17b or higher.

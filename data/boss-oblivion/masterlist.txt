@@ -269,6 +269,8 @@ TML_WieldableTorches_v10.esm
 ScreenEffects.esm
 Pose Compendium.esm
 Ayleid Power Stones.esm
+Diverse Magic Effects Resource.esm
+: OBSE 19+, OBME 1+.
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -7761,6 +7763,7 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 DukeCity.esp
 Dungeo Forgotten Tower.esp
 Dungeo Forgotten Tower Reduced Spawns.esp
+Dungeons of Blackwood.esp
 
 DarkDale.esp
 \EndGroup\\
@@ -8905,6 +8908,9 @@ Secrets.esp
 Secrets_Of_Mertvitel.esp
 SecretsOfMertvitel.esp
 Secrets of Mortum.esp
+SenTineL's Legendary Weapons And Armors 1.0.esp
+? Update to latest version, latest version doesn't have version number in name.
+SenTineL's Legendary Weapons And Armors.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp
@@ -11306,6 +11312,9 @@ Create NPC Duplicates - Beta.esp
 Creature Language Skills -Ver 3.3-.esp
 Creatures20.esp
 % {{BASH:Actors.AIData,Actors.AIPackages,Actors.Stats,Actors.Spells,Factions,Graphics,Names,Relev}}
+CreaturesFactionalised.esp
+" OOO, MMM, probably most other overhauls if they touch creatures at all.
+% {{BASH:Factions,Relations,Actors.AIData}}
 Curseman's Anti Extinction Mod.esp
 % {{BASH:Delev,Relev}}
 " overhauls

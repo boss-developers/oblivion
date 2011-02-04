@@ -1,4 +1,4 @@
-Ôªø\ Leading symbol code:
+\ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
@@ -18,7 +18,7 @@
 \BeginGroup\: ESMs
 \----
 Oblivion.esm
-? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
+? Masterlist Revision: 2100
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
 Oblivion_SI.esm
@@ -247,6 +247,7 @@ HorseCombatMaster.esm
 Horse Combat Master.esm
 PMSneakySummons.esm
 CLS-SneakyFeet.esm
+Pose Compendium.esm
 UnnecessaryViolence.esm
 ShieldOnBack.esm
 UndiesUnderneath.esm
@@ -1410,8 +1411,8 @@ Ayleid Loot EXtension.esp
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
 Amulet of Magicka.esp
-Amulet of Magicka_1–°.esp
-\ This –° is different from the C in the mod name below: the former is apparently Russian, and the latter is ASCII. Both entries should be kept.
+Amulet of Magicka_1?.esp
+\ This ? is different from the C in the mod name below: the former is apparently Russian, and the latter is ASCII. Both entries should be kept.
 Amulet of Magicka_1C.esp
 AFC v2 Combo Chains.esp
 AFC v2 Combat Moves.esp
@@ -2767,7 +2768,7 @@ JuvenileMod.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
-% {{BASH:Body-M,Body-F,NpcFaces,Hair,Eyes}}
+% {{BASH:Body-M,Body-F,NpcFaces,Hair,Eyes,Actors.AIPackages}}
 Bab.esp
 % {{BASH:Body-M,Body-F}}
 Bodybuilder Body.esp
@@ -4586,6 +4587,7 @@ UU! Female Undies NPCs.esp
 UU_Female_Undies.esp
 UFF Armour of HadesRU.esp
 Ultimate Zelda Mod.esp
+moreundies UU Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Items V
@@ -5039,7 +5041,7 @@ UFF Lady Shadow.esp
 UFF & RM Vermillion and Silverthorn Robes.esp
 UFF & RM Elegant Vests.esp
 UFF_Unrepetant_Archer.esp
-UFF_Jen√©es_Honor.esp
+UFF_JenÈes_Honor.esp
 IndigoArmor.esp
 Pirate Gear.esp
 tona_simple_dress-armor.esp
@@ -5193,6 +5195,7 @@ kunoichi DM Enchanted.esp
 SexyKunoichi.esp
 TrawlolsCorinthianGladiator.esp
 Break_ESalor__and_LingerieSet.esp
+R18PN - Lingeries UU Patch.esp
 
 Colourwheels Sexy Stock Armor & Clothing Replacer.esp
 % {{BASH:Graphics}}
@@ -5211,6 +5214,8 @@ Lady Elegance.esp
 Lady Fantasy.esp
 Lady Style.esp
 SG015_Leia.esp
+Armor-Clothing-Weapons Merger.esp 
+% {{BASH:Graphics, Invent, Delev, Relev}}
 \EndGroup\\
 
 \BeginGroup\: Not For Free Armor
@@ -5715,6 +5720,8 @@ Alluring Potion Bottles v3.esp
 % {{BASH:Graphics}}
 ? Must stay activated for the BSA to load.
 Alluring Wine Bottles.esp
+% {{BASH:Graphics}}
+Alluring Potion Bottles v3OOO.esp
 % {{BASH:Graphics}}
 
 AMC-OOO.esp
@@ -7099,7 +7106,7 @@ AkaviriSamuraiShop.esp
 AkerasHouseRu.esp
 A Qrazy Quest.esp
 Alexis_Magiergilde.esp
-Albae+Gef√§hrten.esp
+Albae+Gef‰hrten.esp
 AlchemistForHire.esp
 AL_Maverick.esp
 AL_WildSpright.esp
@@ -7642,7 +7649,7 @@ Cyrodiil Training Center.esp
 Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 NoDaedricQuestLevelLocks.esp
-Dair√¢nath Avari - male Companion.esp
+Dair‚nath Avari - male Companion.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
 Dalls_ICHouseTwo.esp
@@ -9006,8 +9013,6 @@ Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
-SMChocolateElf.esp
-SMHighImperial.esp
 SN_Shivering_Shack.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
@@ -9032,6 +9037,8 @@ Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
 " 'Ayleid Wells'
+Sbturm_Penthouse.esp 
+sbtP_ad cobl.esp 
 SRJclannfearWilson.esp
 SRJelytra.esp
 SRJlandDreugh.esp
@@ -9062,6 +9069,7 @@ SSS_1.0.esp
 : 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 SST - ICWF Dock Expansion.esp
+StargateMod.esp 
 Star's Rest.esp
 Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
@@ -9143,8 +9151,6 @@ Aylied Steps - AN Real Lights patch.esp
 \Yes, that spelling error is correct.
 : The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
-eyja.esp
-% {{BASH:C.Water}}
 Eyja_DV 1.0..esp
 eyja Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -9252,6 +9258,7 @@ Tomb of the Unknown Knight.esp
 Tombstones-beta.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
+Tona's_ModsStore UU Patch.esp
 Topal Bay Camp.esp
 TQ1-loveletters.esp
 tq3-Blood-and-Gold.esp
@@ -11294,6 +11301,8 @@ Colourwheels Sexy Imperial Legion.esp
 Colourwheels Sexy Imperial Legion Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Colourwheels Sexy Bank.esp
+Colourwheels Sexy Oblivion OverHaul.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,Graphics,R.Description,Actors.Anims,Invent,Race,Actors.ACBS}}
 CombatAlarm.esp
 CompanionHorseSupport.esp
 : OBSE version 17b or higher.
@@ -11409,12 +11418,13 @@ DS Portable Sorters.esp
 : COBL.
 DS Storage Sacks.esp
 : COBL.
-DMRA Replacer OOO Collection.esp
 dragonarmormod_1.0.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
 Dwemer_Rename.esp
 ? If using Wrye Bash use the Bashed Patch Tweak instead and delete.
+DMRA Replacer OOO Collection.esp
+% {{BASH:Graphics,NpcFaces,Hair,Eyes,Invent,Stats,Actors.Stats,Actors.ACBS}}
 \EndGroup\\
 
 \BeginGroup\: overrides E
@@ -11504,6 +11514,8 @@ Furniture Repriced.esp
 
 \BeginGroup\: overrides G
 
+Gabriella's Sexy Boutique.esp
+"Speedbuster Collection.esp, SG010 Compilation.esp, SG001_BunnyGirl.esp, SG002_Button.esp, SG003_Slit.esp, SG004_Stargazer.esp, SG005_DHuntress.esp, SG006_Nabiya.esp, SG007_Nobody.esp, SG008_Gee.esp, SG010_Attractive.esp, SG011_Seductive.esp, SG012_MoonLight_Suit.esp, SG013_Nazca.esp, SG014_SparkleSweetSummer.esp (Includes the contents of these esps).
 gardening.esp
 Gary Gygax's Grave.esp
 Gattsurus Easier Black Soul Gems-TESSource.esp
@@ -11976,7 +11988,8 @@ Brothel of Cyrodiil.esp
 Brothel of Cyrodiil_ENG.esp
 Kaleah Sucub.esp
 Basic Instinct for BoC.esp
-Vtoy.esp
+Vtoy.esp 
+SMVtoyCross.esp
 Lovers.esp
 LoversDiag.esp
 LoversSetBody.esp
@@ -12071,6 +12084,9 @@ SMYB Full.esp
 SMYB Female Only.esp
 SMYB Love Female Only.esp
 SMYB Love Full.esp
+Oblivion Pose Pack.esp
+PAPlayer1200Eng.esp
+Pose Compendium.esp
 \EndGroup\\
 
 ShinySeptims_Septimus.esp
@@ -13756,7 +13772,7 @@ AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
 AutoOffhand.esp
-Can¬¥t touch me!.esp
+Can¥t touch me!.esp
 
 cancelattack.esp
 Creature Damage Fix.esp
@@ -14319,7 +14335,7 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 Specialanims.esp
-Oblivion Pose Pack.esp
+UChainBeast.esp 
 zzEstrus.esp
 walklikesheo.esp
 Woman's Move.esp
@@ -14730,6 +14746,8 @@ idkrrr_sarameyesNhairs4originalrace.esp
 % {{BASH:Graphics,Hair,Eyes}}
 \EndGroup\\
 
+CM Partners.esp
+
 \BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
@@ -14819,6 +14837,8 @@ Lucha's Blood Witcher.esp
 Lucha's Blood Witch.esp
 : HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
+LycanRace.esp 
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -15104,6 +15124,8 @@ WieraRace_EV.esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 Wolven Anthros.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+eyja.esp
+% {{BASH:C.Water}}
 
 Assassins Creed - Altair's Gear.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
@@ -15135,6 +15157,7 @@ Ahtata Arquamer spike4hair.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations,Body-F,Body-M}}
 ? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
 Ahtata Arquamer female got hair.esp
+% {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 ahtata Ork.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Arabian Elves.esp
@@ -15274,7 +15297,6 @@ rusik.esp
 Rusik 2.0.1.esp
 CM Partners RU.esp
 CM Partners rus.esp
-CM Partners.esp
 CM Partners Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners Special NPCs.esp
@@ -15411,6 +15433,7 @@ CM Vampire Golbert.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 CM ElizabethColourWheel.esp
+CM Dimon Lineage Elves Merged.esp
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
 ArnoldCM2.esp
@@ -15872,6 +15895,14 @@ ABCompilation_APN.esp
 ElsweyrWhitelockCMPartner.esp
 OrcrestCMPartners.esp
 xenia.esp
+SMChocolateElf.esp
+SMHighImperial.esp
+CMAll.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,Graphics,R.Relations}}
+CMAllXenius.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,Graphics,R.Relations}}
+CMAll2.esp
+% {{BASH:NpcFaces,Hair,Eyes,Body-M,Body-F,Graphics,R.Relations}}
 \EndGroup\\
 
 \BeginGroup\: Race Overrides
@@ -17339,6 +17370,7 @@ Wrye Morph Wearable.esp
 Wrye Morph-See You Sleep.esp
 ShowRaceMenu StatsFix.esp
 The Big Merger.esp
+% {{BASH: NpcFaces,Hair,eyes,Graphics,Names,Invent,Stats,Relations,Factions,Deflst,Delev,relev,Actors.ACBS,Actors.Stats,Deflst,Delev,Relev}}
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch

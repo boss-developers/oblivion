@@ -3761,6 +3761,7 @@ JCapesBonus.esp
 Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
 : OBSE
+JediLightsabersCollectionV1.3.esp
 Jewels Collection.esp
 JG Elven.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics,R.Relations}}
@@ -8713,10 +8714,6 @@ OrderCloudKnights.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
-Vampire Hunting - Order Of The Virtuous Blood.esp
-% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
-Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
 OSE - Outlook.esp
 Overflow.esp
 \EndGroup\\
@@ -9392,6 +9389,10 @@ VHBloodlines 1.2 Vwalk.esp
 ? Override merge animations - does not seem to work properly for VH Bloodlines.
 ? Mark Mergeable and deactivate
 OCC-Verona-Patch.esp
+Vampire Hunting - Order Of The Virtuous Blood.esp
+% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
+Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
 
 Apachii_Goddess_Store.esp
 Apachii_Goddess_Store_DV.esp
@@ -13839,6 +13840,7 @@ mighty_bows_full.esp
 mighty_bows_damage_bonus.esp
 % {{BASH:Stats}}
 mighty_bows_sneak_dmg_bonus.esp
+mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
 
 NO_Recoil_Stagger.esp
@@ -14200,6 +14202,8 @@ Grandmaster of Alchemy.esp
 sr_staff_skill.esp
 J3X's Staff Bashing Mod.esp
 
+Skill Decay.esp
+: OBSE v20+
 S.P.A.M.esp
 ? Use either 'S.P.A.M.esp' or 'S.P.A.M. 100+.esp' but not both together.
 S.P.A.M. 100+.esp

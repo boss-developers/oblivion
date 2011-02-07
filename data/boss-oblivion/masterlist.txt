@@ -5408,6 +5408,7 @@ AncientTowers.esp
 AncientTowers Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 AncientTowersNoExnem.esp
+SYS Patch-Ancient Towers.esp
 ClassedBeginning.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
@@ -6570,6 +6571,9 @@ TIE Cats.esp
 
 Choices and Consequences - FCOM.esp
 ? Obsolete. Upgrade to latest version and remove.
+
+Dangerous_Overhaul_v0.2.esp
+% {{BASH:Relev}}
 \EndGroup\\
 
 \BeginGroup\: Additional MMM OOO Patches
@@ -7801,6 +7805,7 @@ Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
+EM_Packdonkeys.es
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
@@ -7985,6 +7990,7 @@ Gypsy Wagon.esp
 hallofthemountainking.esp
 hackdirtabyss.esp
 Halcyon House.esp
+Halcyon House - AN Patch.esp
 Halls of Fortitude.esp
 Halls of Unrelent.esp
 Hammerfell.esp
@@ -9393,6 +9399,7 @@ Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Valenwood Improved Vampire Hunting Patch.esp
 
 Apachii_Goddess_Store.esp
 Apachii_Goddess_Store_DV.esp
@@ -11859,7 +11866,6 @@ Respawnable NPC Mod.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
 PersuasionOverhaul_OOO.esp
-? If using this don't also use 'PersuasionOverhaul_MMM.esp'.
 PersuasionOverhaul_MMM.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
@@ -12610,6 +12616,7 @@ SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.
 SkipTutorialv2.esp
+SkipTutorialv2_1.esp
 Alternative Start v1.2.esp
 ? Check you're using v1.26 or later.
 Alternative Start v1.26.esp

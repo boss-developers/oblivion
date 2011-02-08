@@ -2011,6 +2011,7 @@ P-Froggys Corpse Carry DV.esp
 : OBSE.
 P-Froggys Corpse Carry EV.esp
 : OBSE.
+P-Froggys First Person Body.esp
 P-Froggys Wall Climbing EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
@@ -5215,7 +5216,7 @@ Lady Elegance.esp
 Lady Fantasy.esp
 Lady Style.esp
 SG015_Leia.esp
-Armor-Clothing-Weapons Merger.esp 
+Armor-Clothing-Weapons Merger.esp
 % {{BASH:Graphics, Invent, Delev, Relev}}
 \EndGroup\\
 
@@ -7805,7 +7806,7 @@ Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
-EM_Packdonkeys.es
+EM_Packdonkeys.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
@@ -9044,8 +9045,8 @@ Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
 " 'Ayleid Wells'
-Sbturm_Penthouse.esp 
-sbtP_ad cobl.esp 
+Sbturm_Penthouse.esp
+sbtP_ad cobl.esp
 SRJclannfearWilson.esp
 SRJelytra.esp
 SRJlandDreugh.esp
@@ -9076,7 +9077,7 @@ SSS_1.0.esp
 : 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 SST - ICWF Dock Expansion.esp
-StargateMod.esp 
+StargateMod.esp
 Star's Rest.esp
 Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
@@ -14348,7 +14349,7 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 Specialanims.esp
-UChainBeast.esp 
+UChainBeast.esp
 zzEstrus.esp
 walklikesheo.esp
 Woman's Move.esp
@@ -14849,7 +14850,7 @@ Lucha's Blood Witcher.esp
 Lucha's Blood Witch.esp
 : HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
-LycanRace.esp 
+LycanRace.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 YX33A_batch_of_stuff.esp
 RGMsNavatar.esp
@@ -15611,13 +15612,13 @@ cssJaKhaiitMyr.esp
 % {{BASH:Actors.Anims,NoMerge}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions,Relations,NoMerge}}
-? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection. 
+? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection.
 : Requires OOO (and is good for OOO / MMMforOOO / FCOM / etc.)
 1em_Vilja MMM Fix.esp
 % {{BASH:Factions,NoMerge}}
 1em_Vilja MMM FCOM Fix.esp
 % {{BASH:Factions,Relations,NoMerge}}
-? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures. 
+? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures.
 : Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 ViljainAleswell.esp
 \EndGroup\\
@@ -15749,7 +15750,7 @@ Candlelight.esp
 RhiannaII-essential.esp
 % {{BASH:Hair,Eyes}}
 Valtierro_B1.esp
-Valtierro_B1-NoCCRL.es
+Valtierro_B1-NoCCRL.esp
 VampireCompanion.esp
 Vance.esp
 

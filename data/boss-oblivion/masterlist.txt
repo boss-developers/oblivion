@@ -3819,6 +3819,7 @@ Kill_Bill_Katanas.esp
 kitsune.esp
 Knight of Order Armor.esp
 Knight of Skeleton.esp
+Kodachi Swords.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
 ? Old version, update to latest version.
@@ -4448,7 +4449,9 @@ talon.esp
 % {{BASH:Invent}}
 TadEC_Underwear01.esp
 Talon of Akatosh Claymore.esp
+Talon of Akatosh Claymore v1.1 Delayer.esp
 Talon of Akatosh Longsword.esp
+Talon of Akatosh Longsword v1.1 Delayer.esp
 Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
@@ -6577,6 +6580,15 @@ Choices and Consequences - FCOM.esp
 
 Dangerous_Overhaul_v0.2.esp
 % {{BASH:Relev}}
+
+\Sagerbliv's:
+Balance fixes.esp
+% {{BASH:Delev,Relev}}
+Balance Settings.esp
+% {{BASH:Delev,Relev}}
+Sagerbliv Weapons v20.esp
+% {{BASH:Stats,Names}}
+Sagerbliv Rareitems v20.esp
 \EndGroup\\
 
 \BeginGroup\: Additional MMM OOO Patches
@@ -8578,6 +8590,7 @@ Mondstein - female Companion.esp
 More Skingrad.esp
 MountainRetreat.esp
 MountainTower.esp
+SYS Patch-Mountain Tower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_LongshipExpansion.esp
@@ -14212,7 +14225,7 @@ Grandmaster of Alchemy.esp
 sr_staff_skill.esp
 J3X's Staff Bashing Mod.esp
 
-Skill Decay.esp
+SkillDecay.esp
 : OBSE v20+
 S.P.A.M.esp
 ? Use either 'S.P.A.M.esp' or 'S.P.A.M. 100+.esp' but not both together.

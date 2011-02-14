@@ -272,6 +272,7 @@ Pose Compendium.esm
 Ayleid Power Stones.esm
 Diverse Magic Effects Resource.esm
 : OBSE 19+, OBME 1+.
+TESA Clutter.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1715,6 +1716,7 @@ Duke Patricks - Basic Alchemic Immersion.esp
 Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
 Duke Patricks - Who Goes There.esp
+DWnifSEtest.esp
 DZ_Hide_Grass.esp
 DoF AutoToggle.esp
 \EndGroup\\
@@ -2223,6 +2225,7 @@ Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 Teleport Arrows.esp
 % {{BASH:Invent}}
+TESA Clutter Test Cell.esp
 The White Stallions.esp
 the secret black market.esp
 Thingamajigs Broken Armor DD Edit.esp
@@ -14574,86 +14577,6 @@ Useful Houses.esp
 \
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\BeginGroup\: Body and head changes
-\'''''''''''''''''''''
-ArgonianBeautification-RaceSettings.esp
-BulkyNord.esp
-% {{BASH:Body-M,Body-F}}
-BulkyOrcs.esp
-% {{BASH:Body-M,Body-F}}
-EVE_KhajiitFix.esp
-% {{BASH:Body-F}}
-Khajiit Fix.esp
-% {{BASH:Body-F}}
-Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-M,Body-F,R.Relations}}
-Bigger_Dremora.esp
-% {{BASH:Body-M,Body-F}}
-Bigger_Dremora-2369.esp
-% {{BASH:Body-M,Body-F}}
-Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces,R.Teeth,Body-M,Body-F}}
-JJR'sWhiskers and Eyebrow.esp
-% {{BASH:NpcFaces,R.Teeth}}
-EyelashesVanillaRaces.esp
-% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
-EyelashesVannilaRaces.esp
-% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
-EyelashesForVanillaRaces1.0.esp
-% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
-Jjiinx_MorrowindStyleArgonians.esp
-% {{BASH:NpcFaces,NoMerge}}
-Better Redguard v2.esp
-% {{BASH:NpcFaces,NoMerge}}
-? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
-Better Redguard v2 Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-Better Looking Dark Elves.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Dremora.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Redguards.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Redguards Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-Better Looking Redguards-Mergeable.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Redguards-Mergeable Vwalk.esp
-% {{BASH:Actors.Anims,NoMerge}}
-Better Looking Wood Elves Vanilla.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Wood Elves Vanilla Black Eyes.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Better Looking Wood Elves COBL.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
-Redguard Guards.esp
-% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair,NpcFaces}}
-BigDunmerEars.esp
-% {{BASH:Body-M,Body-F,NpcFaces}}
-Smaller Elf ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}}
-Slof's Better Bodies.esp
-% {{BASH:Body-M,Body-F,Eyes,Graphics}}
-: Robert's Male (v3, v4 or v5) and Robert's Female
-" Other body mods other than Robert's
-" Slof's Oblivion Better Beasts.esp (included in this).
-? Conflicts with Improved Facial Textures
-? Conflicts with Facial Textures by Enayla
-? Conflicts with Cobl Races Resource
-? Conflicts with Luchairs HGEC body seam reducer
-Jjiinx_Long Ears.esp
-% {{BASH:Body-M,Body-F,NpcFaces}}
-Head06 Replacer.esp
-% {{BASH:Body-M,Body-F,NpcFaces}}
-WhiskersAll.esp
-% {{BASH:R.Teeth}}
-MergedMouth.esp
-% {{BASH:R.Mouth}}
-JoinedJaws.esp
-% {{BASH:R.Teeth}}
-pussyfur.esp
-\EndGroup\\
-
 \BeginGroup\: Hair
 \''''
 
@@ -15983,6 +15906,87 @@ Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH:Actors.Anims,Graphics,Invent,NPC.Race,NpcFaces}}
 \EndGroup\\
+
+\BeginGroup\: Body and head changes
+\'''''''''''''''''''''
+ArgonianBeautification-RaceSettings.esp
+BulkyNord.esp
+% {{BASH:Body-M,Body-F}}
+BulkyOrcs.esp
+% {{BASH:Body-M,Body-F}}
+EVE_KhajiitFix.esp
+% {{BASH:Body-F}}
+Khajiit Fix.esp
+% {{BASH:Body-F}}
+Mart's Monster Mod - Resized Races.esp
+% {{BASH:Body-M,Body-F,R.Relations}}
+Bigger_Dremora.esp
+% {{BASH:Body-M,Body-F}}
+Bigger_Dremora-2369.esp
+% {{BASH:Body-M,Body-F}}
+Slof's Oblivion Better Beasts.esp
+% {{BASH:NpcFaces,R.Teeth,Body-M,Body-F}}
+JJR'sWhiskers and Eyebrow.esp
+% {{BASH:NpcFaces,R.Teeth}}
+EyelashesVanillaRaces.esp
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
+EyelashesVannilaRaces.esp
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
+EyelashesForVanillaRaces1.0.esp
+% {{BASH:NpcFaces,R.Teeth,R.Mouth}}
+Jjiinx_MorrowindStyleArgonians.esp
+% {{BASH:NpcFaces,NoMerge}}
+Better Redguard v2.esp
+% {{BASH:NpcFaces,Body-F,Body-M,NoMerge}}
+? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
+Better Redguard v2 Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Better Looking Dark Elves.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Dremora.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Redguards.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Redguards Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Better Looking Redguards-Mergeable.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Redguards-Mergeable Vwalk.esp
+% {{BASH:Actors.Anims,NoMerge}}
+Better Looking Wood Elves Vanilla.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Wood Elves Vanilla Black Eyes.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Better Looking Wood Elves COBL.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair}}
+Redguard Guards.esp
+% {{BASH:Body-M,Body-F,R.Ears,R.Head,Hair,NpcFaces}}
+BigDunmerEars.esp
+% {{BASH:Body-M,Body-F,NpcFaces}}
+Smaller Elf ears.esp
+% {{BASH:Body-M,Body-F,NpcFaces}}
+Slof's Better Bodies.esp
+% {{BASH:Body-M,Body-F,Eyes,Graphics}}
+: Robert's Male (v3, v4 or v5) and Robert's Female
+" Other body mods other than Robert's
+" Slof's Oblivion Better Beasts.esp (included in this).
+? Conflicts with Improved Facial Textures
+? Conflicts with Facial Textures by Enayla
+? Conflicts with Cobl Races Resource
+? Conflicts with Luchairs HGEC body seam reducer
+Jjiinx_Long Ears.esp
+% {{BASH:Body-M,Body-F,NpcFaces}}
+Head06 Replacer.esp
+% {{BASH:Body-M,Body-F,NpcFaces}}
+WhiskersAll.esp
+% {{BASH:R.Teeth}}
+MergedMouth.esp
+% {{BASH:R.Mouth}}
+JoinedJaws.esp
+% {{BASH:R.Teeth}}
+pussyfur.esp
+\EndGroup\\
+
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH:NoMerge,NpcFaces}}
 Prettier Saints and Seducers.esp

@@ -330,6 +330,7 @@ TRoN Vwalk.esp
 \Probably doesn't need to load this early but the authors recommend it.
 Underdark v1.1 Delayer.esp
 " UnderdarkSaga v1.2 Delayer.esp (Only use one).
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 !Oblivion_PL.esp
 % {{BASH:Names}}
 \EndGroup\\
@@ -1033,6 +1034,7 @@ NoWind.esp
 No wind.esp
 
 PTAutumnTrees.esp
+HAZdynamicSnow.esp
 \EndGroup\\
 
 \BeginGroup\: Water and lava tweaks
@@ -3831,14 +3833,17 @@ KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
 ? Old version, update to latest version.
 KohdiBladesofAnkewan v1.6 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 KohdiAnduril.esp
 KohdiArmoryofAnsephaer.esp
 KohdiArmoryofAnsephaer Delayer.esp
 ? Old version, update to latest version.
 KohdiArmoryofAnsephaer v1.01 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Kohdi Ankewan-Anesphar Delayer.esp
 ? Old, update to latest version.
 Kohdi Ankewan-Anesphar Delayer v2.esp
+? Depreciated.
 KohdiLessFrustratingArrows.esp
 KohdiScimitar.esp
 kolovian_robes.esp
@@ -4458,8 +4463,10 @@ talon.esp
 TadEC_Underwear01.esp
 Talon of Akatosh Claymore.esp
 Talon of Akatosh Claymore v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Talon of Akatosh Longsword.esp
 Talon of Akatosh Longsword v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
@@ -7448,6 +7455,7 @@ bladesmod3.esp
 BladeSong.esp
 : OBSE 18+, Screen Effects.
 BladeSong v1.3 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 BladeSong - High Imperial Tess by Xtudo.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
@@ -7538,6 +7546,7 @@ Capsized Ship.esp
 Castello_gotico.esp
 CaveOfWishcraft 1_1.esp
 CaveOfWishcraft v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Champion's Mansion.esp
 Chatham.esp
 Chichester Village.esp
@@ -7678,6 +7687,7 @@ Companion Gate_Load.esp
 CV - Templar Fortress.esp
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Cyrodiil Training Center.esp
 \EndGroup\\
 
@@ -7746,6 +7756,7 @@ Demonhunter.esp
 Demonhunter Delayer.esp
 ? Old version.
 Demonhunter v1.01 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Demonicus.esp
 DengardKeep.esp
 Der Orden.esp
@@ -7964,6 +7975,7 @@ Gift of Kynareth.esp
 Gift of Kynareth_delayer.esp
 ? Old Version.
 Gift of Kynareth v2.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
@@ -7993,11 +8005,14 @@ Gates To Aesgaard Weather Patch.esp
 GTAesgaard_2.esp
 GtArus.esp
 GTAesgaard I v1.2 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 GTAesgaard II v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Gates To Aesgaard 2 Delayer.esp
 GTAesgaard 1and2 Delayer.esp
 ? Old, update to latest version.
 GTAesgaard I-II Delayer.esp
+? Depreciated.
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
@@ -8041,6 +8056,7 @@ HauntedHouse v1.4.esp
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
 Haunted_House_v1.5 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 HauntedLairMod.esp
 ? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
 Haven of the Mad.esp
@@ -8400,6 +8416,7 @@ EiA_delayer.esp
 Eiamod_delayer.esp
 ? Old version
 EiAmod v1.2 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 EiAmod Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -9115,6 +9132,7 @@ Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
 Steve - Hitman.esp
 Steve - Hitman (Patched) Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
@@ -9157,6 +9175,7 @@ Tantrivaylia.esp
 Tantrivaylia Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 Tantrivaylia v0.99a Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Taverners.esp
 Taverners Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
@@ -9267,6 +9286,7 @@ TheForgottenShields.esp
 NRB4+ForgottonShields Patch.esp
 TheForgottenShields_delayer.esp
 TheForgottenShields v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 TheMistRetreat1.3_Optimized.esp
 Thermae.esp
 __thermae.esp
@@ -9483,6 +9503,7 @@ wb_Erewhon_RR-LR_Patch.esp
 WeaponsOfTheNine.esp
 WeaponsOfTheNine_delayer.esp
 WeaponsOfTheNine v2.3 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 WeatherWizard.esp
 WellDiver.esp
 WellOfSouls.esp
@@ -9944,6 +9965,7 @@ OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 ? Old Version.
 The Lost Spires v14 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -9997,6 +10019,7 @@ HoarfrostCastle.esp
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 HoarfrostCastle Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 
@@ -10293,6 +10316,7 @@ HeartOftheDeadv6.3 Delayer.esp
 ? Old Version.Update to 'HeartOfTheDeadv6.5 Delayer.esp' (fine even if using HoTD 6.3/6.4).
 HeartOfTheDeadv6.5 Delayer.esp
 ? Fine with HoTD V6.3-6.5.
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 
 Dschinni.esp
 ? There are incompatibilities with Servant of the Dawn.
@@ -10767,6 +10791,7 @@ SYS Patch Bravil Sea Domes.esp
 
 Castle_Seaview.esp
 Castle_Seaview v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 CastleSeaview+LostCoast Patch.esp
 " EaglesRest+LostCoast+CastleSeaview Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
@@ -17353,6 +17378,7 @@ UnderdarkSaga.esp
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 " Underdark v1.1 Delayer.esp (Only use one).
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 UnderdarkMap.esp
@@ -17386,6 +17412,7 @@ HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
 % {{BASH:Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash
+? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 Bashed Delayers E - MERGE ONLY.esp
 % {{BASH:Filter,Deactivate}}
 ? Must be merged into the bashed patch in Wrye Bash

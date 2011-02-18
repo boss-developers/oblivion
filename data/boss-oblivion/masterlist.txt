@@ -329,8 +329,7 @@ TRoN Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 \Probably doesn't need to load this early but the authors recommend it.
 Underdark v1.1 Delayer.esp
-" UnderdarkSaga v1.2 Delayer.esp (Only use one).
-? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
+? Versions less than 3.1 may cause the quest being patched to resart if installed <i><b>after</b></i> the quest has started.  Update to the latest delayer if you suspect a problem.
 !Oblivion_PL.esp
 % {{BASH:Names}}
 \EndGroup\\

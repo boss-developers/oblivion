@@ -4151,6 +4151,8 @@ Queensarmory.esp
 
 RealitySpectresThiefGarb.esp
 Ra'haar's Arcane Clutter.esp
+Ranger Equipment Set.esp
+Ranger Equipment Set_Ench.esp
 Ranger's Shroud Armor.esp
 Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
@@ -6639,6 +6641,8 @@ Fransfemale.esp
 % {{BASH:Graphics,NoMerge}}
 Jade Dishes for MMM - HnC.esp
 : original Jade Dishes mod.
+LoadingScreens_OOO.esp
+% {{BASH:Graphics,NoMerge}}
 LoadingScreens-OOO.esp
 % {{BASH:Graphics,NoMerge}}
 MMM Pelt Extension.esp

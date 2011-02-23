@@ -1924,6 +1924,7 @@ Menu Time.esp
 MYR_AyleidExtensions.esp
 Maigrets House Cats.esp
 Maigrets Pet Fox.esp
+Maigrets Sable thePanther.esp
 Summon Undead Mount by Nitocris.esp
 MERP-Bree House Interiors.esp
 
@@ -8824,6 +8825,7 @@ POVS2 v1.1.esp
 Praying Room.esp
 Priests of Akatosh -Ver 1.3-.esp
 PrincessAnvilSeasideCabin.esp
+Princess Crate Manor.esp
 PrincessImperialCityApartment.esp
 PrisonersCampsite-COBL.esp
 PrincessImperialCityApartment-COBL.esp
@@ -10748,6 +10750,9 @@ xulCliffsOfAnvil.esp
 OOOCliffsOfAnvilPatch.esp
 xulCliffsOfAnvil Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+KragenirsDeathQuest-CliffsOfAnvil patch.esp
+MMMDungeons-CliffsOfAnvil patch.esp
+SideSailingShips-CliffsOfAnvil patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -10760,6 +10765,7 @@ LtPD+NRB4+UL-II Patch.esp
 
 EtInArkay-UniqueLandscapes Merged patch.esp
 DwarvenMines-UniqueLandscapes Merged patch.esp
+KragenirsDeathQuest-UniqueLandscapes Merged patch.esp
 xul Rwalk Full.esp
 ? Old, consider upgrading to Sensual Walks mod'.
 xul Swalk Full.esp
@@ -10806,6 +10812,7 @@ CastleSeaview+LostCoast Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
 " CastleSeaview+LostCoast Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
+SYS Patch-Castle Seaview.esp
 
 Castle_Wolfspike.esp
 SYS Patch Castle Wolfspike V1.esp
@@ -13024,6 +13031,7 @@ MagLite.esp
 MagLite - Alchemy.esp
 NoDurationSpells.esp
 OOO Potions Autocalc.esp
+Slower Potion Effects.esp
 
 \BeginGroup\: General Spells
 

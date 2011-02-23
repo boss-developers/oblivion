@@ -632,6 +632,7 @@ Oblivion_Deutsch_v5_0.esp
 \---------------
 
 DLCShiveringIsles.esp
+? For russian version GOTY please move this esp before Unofficial Oblivion Patch.esp (for UOP quest fixes)
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
@@ -1053,6 +1054,8 @@ Enhanced Water v2.0 ND.esp
 Enhanced Water ND_1C.esp
 % {{BASH:C.Water}}
 Enhanced Water v2.0 HD.esp
+% {{BASH:C.Water}}
+Enhanced Water HD_1C.esp
 % {{BASH:C.Water}}
 Enhanced Water v2.0 HDMI.esp
 % {{BASH:C.Water}}
@@ -1506,6 +1509,7 @@ crafting.esp
 CWar's Chest of Fun v1.4.esp
 007camera.esp
 ChaseCameraMod.esp
+ChaseCameraMod_1C.esp
 CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
 Custom 3rd person view.esp
@@ -11635,6 +11639,7 @@ HarderRepairs_10.esp
 HarderRepairs_20.esp
 HaroK_Arrow_Forge.esp
 haz_ct1_no_fasttravel.esp
+haz_ct1_no_fasttravel_1C.esp
 haz_ct2_magesguild_teleport.esp
 haz_ct3_horse_cart.esp
 haz_ct3_horse_cart_1C.esp
@@ -11643,6 +11648,7 @@ haz_ct4_no_maborel_horse.esp
 haz_ct4_no_maborel_horse_1C.esp
 haz_ct5_mark_recall.esp
 haz_ct6_expensive_horses.esp
+haz_ct6_expensive_horses_1C.esp
 haz_ct7_horse_relocate.esp
 haz_ct7_horse_relocate_1C.esp
 haz_ct_REMOVE.esp
@@ -11907,6 +11913,7 @@ OS-foot-HORSE.esp
 \BeginGroup\: overrides P
 
 KeyChain.esp
+Key Chain Rus.esp
 KeyChainSI.esp
 P1DcandlesForKleptos.esp
 P1DCandlesForKleptos_1C.esp
@@ -13752,6 +13759,7 @@ Lem - Bounty Reduction Over Gametime.esp
 No psychic guards v1.1.esp
 ? Update to 1.2 or later unless v1.1 voice distance settings (different between versions) are important.
 No psychic guards v1.2.esp
+NoPsychicGuards Harder_1C.esp
 No psychic guards harder v1.2.esp
 No psychic guards harder fix.esp
 Regional-Bounty-Decreasing-v1.2.esp

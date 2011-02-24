@@ -5475,7 +5475,7 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 % {{BASH:C.Name,C.Light,Actors.ACBS,Actors.AIPackages,Actors.Stats}}
 DLCThievesDen - Unofficial Patch.esp
-% {{BASH:Actors.ACBS,Actors.AIData,Actors.Spells,Actors.Stats,C.Light,C.Music,C.Name,Delev,Relev}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.Stats,C.Light,C.Music,C.Name,Delev,Relev}}
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp

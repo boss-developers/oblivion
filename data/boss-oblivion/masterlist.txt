@@ -7161,6 +7161,7 @@ Alexis_Magiergilde.esp
 Albae+Gefährten.esp
 AlchemistForHire.esp
 AL_Maverick.esp
+AL_Nightmare.esp
 AL_WildSpright.esp
 All New House.esp
 ? Old, update to latest version (which is called Vaernlor Manor).
@@ -7344,7 +7345,6 @@ AXIS.esp
 AyleidArrows.esp
 AyleidHouse.esp
 AyranUndercity.esp
-Castle.bedwyr 0.9.1.esp
 AzurasServices_de.esp
 ? German Version
 AzurasServices_en.esp
@@ -7573,7 +7573,10 @@ Castel_Monte.esp
 Cathedral Improver.esp
 Castle Arpenia - Niben Bay.esp
 Castle Arpenia - Gold Coast.esp
+Castle.bedwyr 0.9.1.esp
+? Old, update to v 1.0.0+.
 Castle.Bedwyr 1.0.0.esp
+SYS Patch-Castle Bedwyr.esp
 castledarkshard.esp
 CastleEdrendil.esp
 CastleEltz.esp
@@ -8775,6 +8778,7 @@ SYS Patch-Orange Road Cottage.esp
 Orange Road Cabin.esp
 Orange_Road_Manor_ru.esp
 OrderCloudKnights.esp
+OrderCloudKnights v1.0 Delayer.esp
 Order of the Virtuous Blood Expanded v0.1.esp
 ? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
 Order of the Virtuous Blood Expanded v0.3.esp
@@ -8821,6 +8825,7 @@ Portrait Painter.esp
 Potion Of the Gods.esp
 : Jojjo's Lich King's armour, shield, and Frostmourne sword. (http://www.tesnexus.com/downloads/file.php?id=17032)
 PotR.esp
+PotR v0.7 Delayer.esp
 POVS2 v1.1.esp
 Praying Room.esp
 Priests of Akatosh -Ver 1.3-.esp
@@ -9131,6 +9136,7 @@ Sunken Fortress.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
 sS-OrderOfAskarthe.esp
+sS-OrderOfAskarthe v0.6 Delayer.esp
 Sseths Resource Foundry.esp
 SSS_1.0.esp
 : Shivering Isles.
@@ -9197,8 +9203,8 @@ Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
 Temple District Repaired.esp
-^ Not compatible with Better Cities.
 templars.esp
+templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp

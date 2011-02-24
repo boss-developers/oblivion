@@ -2732,6 +2732,7 @@ P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
 DLCMehrunesRazor - Unofficial Patch.esp
+% {{BASH:Delev,Invent,Relev}}
 LightningReduced - Razor.esp
 YX33A Razor Edit.esp
 Correctif MehrunesRazor.esp
@@ -5474,7 +5475,7 @@ Ranokoas Organized Potions.esp
 DLCThievesDen.esp
 % {{BASH:C.Name,C.Light,Actors.ACBS,Actors.AIPackages,Actors.Stats}}
 DLCThievesDen - Unofficial Patch.esp
-% {{BASH:C.Light,C.Name,C.Music}}
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.Spells,Actors.Stats,C.Light,C.Music,C.Name,Delev,Relev}}
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
@@ -9742,7 +9743,7 @@ Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
 ? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
-% {{BASH:C.Name,C.Owner}} and remove [C.Climate,C.Light] tags
+% {{BASH:Actors.ACBS,C.Name,C.Owner,Creatures.Blood}} and remove [C.Climate,C.Light] tags
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp

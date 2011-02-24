@@ -1382,6 +1382,7 @@ MoreLive_AliveWatersRedone.esp
 MoreLive_AliveWatersRedone_Koi.esp
 MoreLive_AliveWatersRedone_Slaughterfish.esp
 MoreLive_Mudcrabs.esp
+Dangerous Waters.esp
 
 Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
@@ -6663,6 +6664,7 @@ RustyItems for OOO.esp
 SentientWeapon - OOO & MOBS.esp
 SSEE-OOO.esp
 SigilStoneSelector-SSEE-OOO.esp
+SigilStoneSelector-SSEE.esp
 StockClothingArmor-forExnems - OOO Patch.esp
 zCats & Rats.esp
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
@@ -8829,6 +8831,7 @@ PotR v0.7 Delayer.esp
 POVS2 v1.1.esp
 Praying Room.esp
 Priests of Akatosh -Ver 1.3-.esp
+PrincessAnvilBasement 2pt0.esp
 PrincessAnvilSeasideCabin.esp
 Princess Crate Manor.esp
 PrincessImperialCityApartment.esp
@@ -9932,6 +9935,7 @@ CybHardest.esp
 ? only use one Cybiades difficulty plugin
 Cybiades Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+Cybiades v2.1 Delayer
 
 Damarask.esp
 Castle_Knightstone.esp
@@ -11996,6 +12000,7 @@ Regional Legion Soldiers by Ionis.esp
 ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
+Respawning Ore Veins.esp
 Repair_Anytime-9384.esp
 real_tools.esp
 % {{BASH:Scripts}}

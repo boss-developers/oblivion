@@ -147,6 +147,7 @@ BetterMusicSystem.esm
 bookplacing.esm
 ? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing. (Same esm name).
 BathingMod_Base.esm
+A_Bloody_Mess.esm
 BP EDIT.esm
 BurningItemsMasterF.esm
 Lovers with PK.esm
@@ -167,7 +168,6 @@ Wondrous Items.esm
 VVAdvanced.esm
 Adrenaline Locational Masterfile.esm
 CLS-craftybits.esm
-A_Bloody_Mess.esm
 Horadric Cube.esm
 StaticRepairItems.esm
 TLS Modded Mannequins.esm
@@ -3626,6 +3626,7 @@ Golden Daedric Armor.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
 GothFreak's Celtic Rings and Swords.esp
+Gothic Fetish Outfit.esp
 Grenth Set.esp
 GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
@@ -8715,6 +8716,8 @@ Niflheim.esp
 Night Shops of Cyrodiil.esp
 Night Vendors.esp
 Nightmist Manor.esp
+Nightmist Manor - AN Patch.esp
+Nightmist Manor - OC Patch.esp
 Nine Divines Robes.esp
 : OBSE
 Nocturne.esp
@@ -15621,6 +15624,8 @@ cssJaKhaiitMyr.esp
 ? Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+1em_Vilja_Bruse_as_Clydesdale_horse_by_Xtudo.esp
+% {{BASH:Graphics}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions,Relations,NoMerge}}
 ? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection.
@@ -17410,7 +17415,6 @@ ViconiaChapterTwo Vwalk.esp
 UnderdarkSaga.esp
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
-" Underdark v1.1 Delayer.esp (Only use one).
 ? Versions less than 3.1 may cause the quest being patched to resart if installed [i][b]after[/b][/i] the quest has started.  Update to the latest delayer if you suspect a problem.
 UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}

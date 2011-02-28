@@ -7538,7 +7538,7 @@ HackdirtTheDeepOnes.esp
 ? Revamp of the older mod HackdirtCaverns.esp, do not use both at the same time.
 
 BrotherhoodRenewed.esp
-% {{BASH:Factions}}
+% {{BASH:Actors.AIPackages,Factions}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
 : OBSE, Oblivion XP
 Bruma Farm Updated.esp

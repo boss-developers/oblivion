@@ -51,6 +51,7 @@ BP-CosmeticLibraryBase-Public.esm
 BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
 % {{BASH:Eyes,Graphics,Hair,R.Relations}}
+xeoex.esm
 Jog_X_Mod.esm
 piCore.esm
 Q-Core.esm
@@ -686,6 +687,7 @@ Dancer_Undress.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
 New Duke and Duchess.esp
 ShiveringMounts.esp
+xeoexpeople.esp
 \EndGroup\\
 
 \BeginGroup\: VWalk Post-UOP Files

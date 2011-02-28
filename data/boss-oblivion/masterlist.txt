@@ -274,6 +274,8 @@ Ayleid Power Stones.esm
 Diverse Magic Effects Resource.esm
 : OBSE 19+, OBME 1+.
 TESA Clutter.esm
+TOCP.esm
+Sheogorad.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -3598,6 +3600,7 @@ GemSword.esp
 genji Armor.esp
 Ghogiels Armor.esp
 GhostArmor.esp
+Ghost_Headache.esp
 Ghost Rider Helmet.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
@@ -4051,6 +4054,7 @@ Nicos Gift.esp
 Night Knight Armor.esp
 Nighteye Goggles.esp
 ninjacowl.esp
+NinjaMask_by_Vergel.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
 Noble Plate Armory.esp
@@ -9025,6 +9029,7 @@ Shady Sam Plus.esp
 Shady Fences.esp
 Shady Merchants.esp
 ShadySamFence.esp
+Sheogorad.esp
 Sheogoraths_Accords_of_Madness.esp
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
@@ -10018,7 +10023,7 @@ GuardsofaCyrodiilRedux - RRLRpatch.esp
 GuardsofCyrodiilRedux - RRLRpatch.esp
 
 Mighty Umbra.esp
-% {{BASH:Graphics}}
+% {{BASH:Graphics,Stats}}
 ? FCOM users might consider 'FCOM_MightyUmbra.esp'.
 Mighty Umbra - Vanilla OB.esp
 KORE- Blood Drinker Umbra.esp
@@ -14996,6 +15001,7 @@ DremoraFemales.esp
 % {{BASH:Voices-F}}
 The Complete Dremora.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
+TOCP - Playable Centaur.esp
 LJD_HumanMIKA.esp
 % {{BASH:NpcFaces,Hair,Eyes,R.Relations}}
 Luchaire's Dryad Race.esp
@@ -15507,6 +15513,7 @@ Terimer.esp
 Three CM Partners.esp
 The Ice Queen.esp
 
+CompanionFergus.esp
 Companion Sales & Retail.esp
 Companion Mark and Recall.esp
 Companion Postal Service.esp

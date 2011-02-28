@@ -52,6 +52,7 @@ BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
 % {{BASH:Eyes,Graphics,Hair,R.Relations}}
 xeoex.esm
+% {{BASH:Body-F,Body-M,Eyes}}
 Jog_X_Mod.esm
 piCore.esm
 Q-Core.esm
@@ -690,6 +691,8 @@ PMVisibleMapMarkers-ShiveringIsles.esp
 New Duke and Duchess.esp
 ShiveringMounts.esp
 xeoexpeople.esp
+% {{BASH:Actors.Stats,Eyes,Hair,NPC.Race,NpcFaces}}
+?  Delete or disable 'xeoex.esp'
 \EndGroup\\
 
 \BeginGroup\: VWalk Post-UOP Files

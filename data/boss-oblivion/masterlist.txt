@@ -5883,6 +5883,8 @@ Hemingweys Capes for FCOM_FrancescosNamedBosses.esp
 % {{BASH:Invent}}
 \EndGroup\\
 
+MALO - Clutter Replacer OOO.esp
+
 OCC-OOO-Patch.esp
 
 Oscuro's_Oblivion_Overhaul Vwalk.esp
@@ -7584,6 +7586,7 @@ CaveOfWishcraft v1.1 Delayer.esp
 Champion's Mansion.esp
 Chatham.esp
 Chichester Village.esp
+Chorrol_Dungeon.esp
 ChristmasCottage.esp
 CityofSunevV058.esp
 Civilian Storage.esp
@@ -9214,6 +9217,8 @@ Sheogorath`s Artifacts.esp
 
 tales of gratch.esp
 Talos Bridge.esp
+TalosBridgeGateHouse.esp
+" UL Imperial Isle (as of March 1, 2011).
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -16565,7 +16570,8 @@ Better Cities and IC Vwalk.esp
 
 Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Oblivion Collectible Cards.esp
-
+Better Cities - Open Better Cities.esp
+% {{BASH:Actors.AIPackages}}
 \EndGroup\\
 
 \BeginGroup\: Obsolete BC files
@@ -17625,6 +17631,9 @@ Duke Patrick's SCA Combat Archery patch for xulLostCoast.esp
 Duke Patricks - Basic Exhaustion Plus Encumbrance And Sleep.esp
 
 Duke Patricks - Combat Magic.esp
+
+Duke Patricks - Fortress of Fear.esp
+Duke Patricks - Combat Magic II.esp
 
 \EndGroup\\
 

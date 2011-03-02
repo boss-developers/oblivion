@@ -4141,6 +4141,7 @@ pizz_NINJA_outfit.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 Plate of the Shadow.esp
+Platinum Tyrael Armory.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
 PlayableEmpclothes.esp
@@ -6812,6 +6813,8 @@ WAC - TCOSFix.esp
 WAC - 8th Gate.esp
 WAC - Legion.esp
 % {{BASH:Graphics,Invent}}
+WAC - Legion_FemaleFix.esp
+% {{BASH:Graphics}}
 WAC - Gladiator.esp
 % {{BASH:Actors.AIPackages,Delev,Graphics,Invent,Relev,Stats}}
 WAC - Magic.esp
@@ -6863,6 +6866,7 @@ CNRP FightersGuild4OOO.esp
 \EndGroup\\
 \BeginGroup\: Creatures - New
 \Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
+Centaur Enemies.esp
 John's Creature Mod.esp
 % {{BASH:Relev}}
 LBVermin.esp
@@ -7051,6 +7055,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 \BeginGroup\: Quests #
 
 [Calsar] BetterWhiteStallionLodge.esp
+[Calsar] KOTN_Shrines.esp
 (SFL) Knights of the Thorn Lodge.esp
 (SFL) Campus Village.esp
 
@@ -10250,6 +10255,7 @@ Skyrim.esp
 Improved Imperial Infrastructure.esp
 
 road+bridges.esp
+Hemingweys Capes for NRB.esp
 NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
 NRB4-TchosTower-Patch.esp
@@ -13937,6 +13943,10 @@ Marksman and Blade Realism.esp
 Marksman Velocity.esp
 More_Arrows_Recovered-2169.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
+[Calsar] ArrowSpeedRealism.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+[Calsar] ArrowSpeedRealismSI.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 ArrowVelocity.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
@@ -14950,6 +14960,8 @@ Manga Elves.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 " Cute Sexy Elves.esp which is an older version of same race
 _Ren_BeautyPack_full.esp
+% {{BASH:NpcFaces,Hair,Eyes,Graphics}}
+_Ren_Beauty_Pack_Full_anime_voice.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}
 _Ren_BeautyPack_full_RW.esp
 % {{BASH:NpcFaces,Hair,Eyes,Graphics}}

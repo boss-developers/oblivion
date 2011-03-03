@@ -568,7 +568,7 @@ Bow Crash Fix.esp
 Boethia.esp
 DaedricHelmFIX.esp
 Vampire Eye Fix by Agesofb.esp
-
+FastTravelDoubleFaceFix.esp
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
 % {{BASH:Invent,Relations}} needed so that it will work before UOP and still have the inventory changes from this.
@@ -7402,6 +7402,7 @@ Divine Elegance Upgrade.esp
 Bandit Hideouts.esp
 BanditSlaveTrade.esp
 Barbada_Island.esp
+BaronOfWeyeENG.esp
 Basement for Cobl.esp
 Basement for Cobl - Sheep Wool addition.esp
 : MMM
@@ -13742,6 +13743,7 @@ Stealth Overhaul.esp
 StealthOverhaul, Cobl.esp
 Deadlier Sneaking 1.1.esp
 Increased_Sneak_Damage-8187.esp
+Sneaking Detection Recalibrated.esp
 SneakingRealism_v1_3_2.esp
 Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp

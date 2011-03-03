@@ -9219,7 +9219,7 @@ Sheogorath`s Artifacts.esp
 tales of gratch.esp
 Talos Bridge.esp
 TalosBridgeGateHouse.esp
-" UL Imperial Isle (as of March 1, 2011).
+? Requires a patch if used with UL Imperial Isle
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -10746,6 +10746,7 @@ Adense UL Imp Isle AFK RR Rumare Patch.esp
 LetThePeopleDrink-ImperialIsle patch.esp
 LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
 ? Do not use - has technical issues. Download the correct patch here: http://www.tesnexus.com/downloads/file.php?id=20218
+TalosGatehouse + ULImperialIsle.esp
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
@@ -16442,6 +16443,8 @@ Better Cities IC Waterfront FPS Patch.esp
 \EndGroup\\
 
 \BeginGroup\: BC Compatibility patches
+
+Better Cities - All Natural.esp
 
 Better Cities Full Rwalk.esp
 ? Old, consider upgrading to Sensual Walks mod'.

@@ -7801,6 +7801,7 @@ Demonhunter v1.01 Delayer.esp
 Demonicus.esp
 DengardKeep.esp
 Der Orden.esp
+DescentIntoNecropolis.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
@@ -9219,7 +9220,7 @@ Sheogorath`s Artifacts.esp
 tales of gratch.esp
 Talos Bridge.esp
 TalosBridgeGateHouse.esp
-? Requires a patch if used with UL Imperial Isle
+? Requires a patch if used with UL Imperial Isle.
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -10483,6 +10484,7 @@ EtInArkay-ColovianHighlands patch.esp
 ? If using 'xulColovianHighlands.esp', it must be manually renamed to 'xulColovianHighlands_EV.esp' for this patch to work.
 ThievesGrotto-ColovianHighlands patch.esp
 DwarvenMines-ColovianHighlands patch.esp
+OWC - ND UL Colovian Highlands Patch.esp
 Trails of Cyrodiil - Colovian Highlands UL.esp
 
 xulChorrolHinterland.esp
@@ -10659,6 +10661,7 @@ ColdstoneTown-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
+OWCND - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
@@ -10832,6 +10835,11 @@ A Imperial Outpost - Fort Novi Sad.esp
 ImpeREAL Empire - Unique Forts.esp
 ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
+ImpeREAL Empire - Unique Forts - Clydesdale Horses - By Xtudo.esp
+ImpeREAL Empire - Unique Forts - Slofs Horses - By Xtudo.esp
+% {{BASH:Graphics,Merge}}
+ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp 
+% {{BASH: Invent}
 ImpeREALForts+BrinaCross Patch.esp
 ImpeREALForts+LostSpires Patch.esp
 LostSpiresImpeREALFortsPatch2.esp

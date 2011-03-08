@@ -15399,18 +15399,22 @@ CM Partners Special NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners NPC.esp
 % {{BASH:Hair,Eyes}}
+? Use only one Essential or NotEssential version esp
 CM Partners NPC Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners NPC NE.esp
 % {{BASH:Hair,Eyes}}
+? Use only one Essential or NotEssential version esp
 CM Partners NPC NE Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners More NPCs.esp
 % {{BASH:Hair,Eyes}}
+? Use only one Essential or NotEssential version esp
 CM Partners More NPCs Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners More NPCs NE.esp
 % {{BASH:Hair,Eyes}}
+? Use only one Essential or NotEssential version esp
 CM Partners More NPCs NE Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
 CM Partners Marker NPCs.esp

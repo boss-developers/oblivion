@@ -6793,6 +6793,8 @@ WAC - ItemLootFix4v1.0bMMM.esp
 ? Use only one WAC - ItemLootFix esp
 WAC - OverSpawn.esp
 % {{BASH:Actors.Spells,Graphics,Invent,Relations,Relev}}
+WAC - OverSpawn4v1.0bOWCND.esp
+% {{BASH:Delev,Relev}}
 WAC - OverSpawn4OOO.esp
 % {{BASH:Delev,Relev}}
 WAC - OverSpawn4v1.0bFran.esp

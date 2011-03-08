@@ -1395,6 +1395,7 @@ Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
 Addendum - Property Tax.esp
 Adonnays Ranger Coats.esp
+Adonnays Ranger CoatsRU.esp
 Adult Books.esp
 AdventurersAlchemy.esp
 AEVWD.esp
@@ -1821,6 +1822,7 @@ Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
 IshNightEyeToggle.esp
+InfiniteArrows.esp
 \EndGroup\\
 
 \BeginGroup\: Base J
@@ -2927,6 +2929,7 @@ Alluring Books.esp
 % {{BASH:Graphics}}
 AltEnchAndSpell.esp
 Alternative_Light_Armors-3931.esp
+ArmorHeroOfKvatch.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
 Ayleid Artifacts.esp
@@ -3742,6 +3745,7 @@ homura.esp
 homura outfit HGEC.esp
 Horse_Dung.esp
 HotApparatus.esp
+hrAchillesGear.esp
 \EndGroup\\
 
 \BeginGroup\: Items I
@@ -11923,6 +11927,8 @@ NirnrootPermPotions.esp
 NirnrootPlants.esp
 % {{BASH:Graphics}}
 Nirnroot Tweak.esp
+No_Essential_NPC-2076.esp
+NoFlicker_BrightTorch.esp
 NoFlicker_BrightTorch2.esp
 No Glow Grass.esp
 No Glow Grass - Faster.esp
@@ -13258,6 +13264,7 @@ RDetectLife.esp
 Rain of Gold OBSE.esp
 Rain of Gold.esp
 Ranokoas Killing Spree Spells.esp
+Recharge Spell.esp
 Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Remove Extra Data.esp

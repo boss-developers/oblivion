@@ -4560,6 +4560,7 @@ TripleArrows_1C.esp
 Tribute armor.esp
 TristanSword.esp
 trfdaedricarmors.esp
+trfjBowOfShadows.esp 
 trfjChronoStaff.esp
 trfjBladeMasterSword.esp
 trfjEmpireGreatsword.esp
@@ -7777,7 +7778,6 @@ Dancer_Undress0_6.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 (DC) Sutch Reborn Vwalk.esp
 % {{BASH:Actors.Anims,NoMerge}}
-? The bash tag seems to be ignored by WB 282 - turn off Automatic and set manually
 Sutch Reborn Spawn Patch.esp
 (DC) County Sutch - New Haven.esp
 ? it's replace (DC) Sutch Reborn.esp
@@ -8421,6 +8421,7 @@ Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
 OCC-KR-Patch.esp
+Kvatch Rebuilt - Oblivion XP Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 <: FCOM
@@ -10061,6 +10062,7 @@ Blood&Mud Vwalk.esp
 Lost Paladins of the Divines.esp
 
 Origin of the Mages Guild.esp
+%  {{BASH:Actors.AIPackages}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 
 The Mystery of the Dulan cult.esp
@@ -10153,7 +10155,7 @@ FCOM_slofsrobetrader.esp
 % {{BASH:Delev,Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
-% {{BASH:Relations}}
+% {{BASH:Relations,Actors.AIPackages}}
 : 'Origin of the Mages Guild.esp'.
 ? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
 FCOM_OMGSRT.esp
@@ -11665,6 +11667,8 @@ Get_Your_Arrows_Back-9403.esp
 Gemfix-6955.esp
 Gems.esp
 % {{BASH:Stats,NoMerge}}
+Ghost_better skulls.esp
+% {{BASH:NoMerge,Graphics}}
 GuilesScrollRenamer.esp
 % {{BASH:Names}}
 Give Me My Shader Effects.esp
@@ -11965,6 +11969,7 @@ Oblivifall - New Classes.esp
 % {{BASH:R.Description}}
 Oblivifall - New Classes Regular Fonts.esp
 % {{BASH:R.Description}}
+obliviousterrainreplacer.esp
 Ohgma Infinium OverHaul.esp
 OriginalLeather.esp
 OriginalLeatherSI.esp
@@ -12914,6 +12919,7 @@ Level Based Health.esp
 Real Injury.esp
 Bleed Damn You V2.0.esp
 PrimaryNeeds10.esp
+Basic Primary Needs.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp

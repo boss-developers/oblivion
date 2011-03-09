@@ -2432,6 +2432,7 @@ Crowded Roads Revisited_GoldRoad_40.esp
 Crowded Roads Revisited_GreenRoad_40.esp
 Crowded Roads Revisited_YellowRoad_40.esp
 WAC - Crowded Roads Revisited.esp
+WAC - Crowded Roads Revisited Fix4v1.0b.esp
 
 
 travellers-new balance.esp
@@ -6799,6 +6800,8 @@ WAC - OverSpawn4OOO.esp
 % {{BASH:Delev,Relev}}
 WAC - OverSpawn4v1.0bFran.esp
 % {{BASH:Delev,Relev}}
+WAC - OverSpawn4v1.0bOOO.esp
+% {{BASH:Delev,Relev}}
 WAC - OverSpawn4v1.0bFCOM.esp
 % {{BASH:Delev,Relev}}
 WAC - BlackBootDungeon.esp
@@ -6818,6 +6821,8 @@ WAC - TCOS Invent only.esp
 WAC - TCOS Shops.esp
 % {{BASH:Graphics,Invent}}
 WAC - TCOSFix.esp
+% {{BASH:Delev,Invent,Relev}}
+WAC - TCOSFix4v1.0b.esp
 % {{BASH:Delev,Invent,Relev}}
 WAC - 8th Gate.esp
 WAC - Legion.esp

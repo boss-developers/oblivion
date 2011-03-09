@@ -1038,8 +1038,11 @@ NoOblivionWeatherOutside.esp
 " All Natural
 
 no_wind-2578.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 NoWind.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 No wind.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 
 PTAutumnTrees.esp
 HAZdynamicSnow.esp

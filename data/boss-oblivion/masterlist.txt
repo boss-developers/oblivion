@@ -14658,7 +14658,6 @@ FastTravelAllowed.esp
 
 Item interchange - Placement.esp
 >* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
->? Non-FCOM version. Use 'Item interchange - Placement for FCOM.esp' instead.
 : recent version of Wrye Bash.
 Item interchange - Placement for FCOM.esp
 % {{BASH:Delev,Filter,IIM,Invent,Relev,Deactivate}}
@@ -17623,7 +17622,7 @@ Mart's Monster Mod - Diverse Runeskulls Loot beta Place After Bashed Patch.esp
 SWalk.esp
 no_mouse_wheel.esp
 LoversIdleForceReset.esp
->* Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev41 and newer.
+? Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev41 and newer.
 LoversIdleAnimsPriority.esp
 LoversCreatureIdleAnimsPriority.esp
 LoversAnimObjectsPriority.esp

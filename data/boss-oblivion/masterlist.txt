@@ -17,9 +17,9 @@
 
 //Masterlist variable setup. For BOSS v1.7+. 
 //Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
-IF (Oscuro's_Oblivion_Overhaul.esm) SET: OOO
-IF (Better Cities Resources.esm) SET: BC
-IF (FCOM_Convergence.esm) SET: FCOM
+IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
+IF ("Better Cities Resources.esm") SET: BC
+IF ("FCOM_Convergence.esm") SET: FCOM
 
 \BeginGroup\: ESMs
 \----
@@ -6049,7 +6049,7 @@ Oscuro's Combat Behavior.esp
 >? Can increase the chances of a CTD in a heavily modded game.
 
 >FCOM_Convergence.esp
-IFNOT (FCOM) ERROR: FCOM_Convergence.esm is missing.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing.
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
 >FCOM_ConvergenceNoFran.esp
 >* Old. Install FCOM version 0.9.9 or later.

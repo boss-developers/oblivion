@@ -6790,7 +6790,6 @@ un-leveled-shops.esp
 \BeginGroup\: Waalx Animals and Creatures
 \'''''''''''''''''''
 
-WAC.esp
 WAC - ItemLootFix4v1.0b.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For Vanilla and Fran(not Francesco's Optional New Creatures Add-On.esm) and WarCry
@@ -6807,6 +6806,7 @@ WAC - ItemLootFix4v1.0bMMM.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For MMM / OOO+MMM / FCOM
 ? Use only one WAC - ItemLootFix esp
+WAC.esp
 WAC - OverSpawn.esp
 % {{BASH:Actors.Spells, Graphics, Invent, Relations, Relev}}
 WAC - OverSpawn4v1.0bOWCND.esp

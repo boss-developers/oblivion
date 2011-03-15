@@ -6854,7 +6854,6 @@ WACESM_MiscItemsRebal.esp
 WACESM_Ingredients_Rebalance.esp
 % {{BASH:Stats}}
 WAC-OOO.esp
-WAC - NoMapMarker.esp
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -17589,6 +17588,7 @@ LandMagicPatch.esp
 amGE_Races.esp
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
+WAC - NoMapMarker.esp
 
 Slof's Manly Stride.esp
 Wrye Morph, X6.esp

@@ -2448,6 +2448,7 @@ WAC - Crowded Roads Revisited.esp
 WAC - Crowded Roads Revisited Fix4v1.0b.esp
 
 
+
 travellers-new balance.esp
 travellers a.esp
 ? Old, update to 'travellers-new balance.esp'.
@@ -6808,7 +6809,7 @@ WAC - ItemLootFix4v1.0bMMM.esp
 ? Use only one WAC - ItemLootFix esp
 WAC.esp
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells, Graphics, Invent, Relations, Relev}}
+% {{BASH:Actors.Spells, Delev, Graphics, Invent, Relations, Relev}}
 WAC - OverSpawn4v1.0bOWCND.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4OOO.esp
@@ -6821,8 +6822,9 @@ WAC - OverSpawn4v1.0bFCOM.esp
 % {{BASH:Delev, Relev}}
 WAC - BlackBootDungeon.esp
 WAC - Dead Knights.esp
+% {{BASH:Actors.ACBS, Actors.Stats, Actors.AIData, Actors.AIPackages}}
 WAC - Dead Knights Fix.esp
-% {{BASH:Deactivate, Relations}}
+% {{BASH:Relations}}
 WAC - Player Summons.esp
 WAC - Birds&Insects.esp
 WAC - Companions.esp

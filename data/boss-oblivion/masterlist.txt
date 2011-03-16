@@ -596,12 +596,12 @@ fixtext1C_04.esp
 Unofficial Oblivion Patch.esp
 ? Use Standalone MOBS if using Frans or OMOBS if using FCOM\OOO. Both versions can be found here: http://www.tesnexus.com/downloads/file.php?id=28537
 ? Recommend installing UOP Supplemental for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
+% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
 Unofficial Oblivion Patch DV.esp
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
+% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
+% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 ? Recommend removing if using Wrye Bash. A tweak for this exists in "Tweak Settings".

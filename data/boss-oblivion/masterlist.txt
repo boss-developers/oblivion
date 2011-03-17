@@ -6831,7 +6831,7 @@ WAC - Companions.esp
 WAC - Horses.esp
 % {{BASH:Graphics}}
 WAC - TCOS.esp
-% {{BASH:Actors.ACBS, Actors.Stats, Delev, Graphics, Invent, NPC.Race, Relev}}
+% {{BASH:Actors.ACBS, Actors.Stats, Eyes, Delev, Graphics, Invent, NPC.Race, Relev}}
 WAC - TCOS Invent only.esp
 % {{BASH:Invent}}
 WAC - TCOS Shops.esp

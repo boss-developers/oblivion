@@ -299,7 +299,7 @@ Essential_Merchants.esp
 
 HrmnsOblivionScriptOptimizationv1.0.esp
 ? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
-? A fixed edition (for Shivering Isles ONLY! is avaliable here: http://tinyurl.com/kmgaxd
+? A fixed edition (for Shivering Isles ONLY! is avaliable here: "http://tinyurl.com/kmgaxd"
 \This really does need to load this early.
 HrmnsOblivionScriptOptimizationv SI 1.0.esp
 
@@ -594,8 +594,8 @@ fixtext1C_04.esp
 \---
 
 Unofficial Oblivion Patch.esp
-? Use Standalone MOBS if using Frans or OMOBS if using FCOM\OOO. Both versions can be found here: http://www.tesnexus.com/downloads/file.php?id=28537
-? Recommend installing UOP Supplemental for additional fixes: http://www.tesnexus.com/downloads/file.php?id=27710
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM\OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
+? Recommend installing UOP Supplemental for additional fixes: "http://www.tesnexus.com/downloads/file.php?id=27710"
 % {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
 Unofficial Oblivion Patch DV.esp
 % {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
@@ -2557,7 +2557,7 @@ Lock Bash Omega.esp
 marksman_challenge.esp
 MiscTracker.esp
 MotionBlur.esp
-? Fix available for 'Over-Darkening' issue: http://tr.im/scy6
+? Fix available for 'Over-Darkening' issue: "http://tr.im/scy6"
 Musical Immersion 1.0.esp
 MUTE.esp
 
@@ -7122,7 +7122,7 @@ AkaviriStronghold_1C.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 7roads.esp
 % {{BASH:Actors.ACBS, Factions, Invent, Relations, Scripts}}
-? For play with 'knights.esp' use patch http://tamriel.ru/7roadsmod/Knights_Patch_02.zip
+? For play with 'knights.esp' use patch "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
 " Kvatch Rebuilt.(conflict of locations) uncheck mod on the time of play of the addon
 " HoarfrostCastle.esp.(conflict of locations) uncheck mod on the time of play of the addon
 " MidasSpells.esp.(conflict of locations) uncheck mod on the time of play of the addon
@@ -8411,7 +8411,7 @@ KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
 $ If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
-$ ...found here: 'http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip'
+$ ...found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
 Klarre Forestheart MR.esp
@@ -8883,7 +8883,7 @@ Players with Jobs.esp
 Pond Cottage.esp
 Portrait Painter.esp
 Potion Of the Gods.esp
-: Jojjo's Lich King's armour, shield, and Frostmourne sword. (http://www.tesnexus.com/downloads/file.php?id=17032)
+: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://www.tesnexus.com/downloads/file.php?id=17032")
 PotR.esp
 PotR v0.7 Delayer.esp
 POVS2 v1.1.esp
@@ -9956,7 +9956,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
-? Use version 1.01 'http://tesnexus.com/downloads/download.php?id=29355' for Bashed Patch
+? Use version 1.01 "http://tesnexus.com/downloads/download.php?id=29355" for Bashed Patch
 % {{BASH:Deactivate, Stats, NoMerge}}
 MOBS DLCs.esp
 % {{BASH:Stats, NoMerge}}
@@ -10031,7 +10031,7 @@ RTT Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 MTCExpandedVillages.esp
-? Conflicts with Ruined Tales Tale, use the patch available here http://www.tesnexus.com/downloads/file.php?id=34010
+? Conflicts with Ruined Tales Tale, use the patch available here "http://www.tesnexus.com/downloads/file.php?id=34010"
 ? Conflicts with Lost Spires and Faregyl
 
 MoreSuburbLife.esp
@@ -10041,7 +10041,7 @@ MoreSuburbLife_RTT_patch.esp
 TOS - Prelude.esp
 
 CUO_Bravil.esp
-? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
 OCC-Lost Spires-Patch.esp
@@ -10053,9 +10053,9 @@ The Lost Spires Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 SoT_TheOrderofNibenay.esp
-? Needs TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostSpires_TheOrderofNibenay_patch.esp
-? Needs Wrye Bash "Remove World Orphans" function run on it, as well as TES4Edit cleaning: http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide
+? Needs Wrye Bash "Remove World Orphans" function run on it, as well as TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 GuardsofCyrodiil.esp
 % {{BASH:Relations}}
@@ -10298,7 +10298,7 @@ NRB4-TchosTower-Patch.esp
 NRB4+CastleWestWeald Patch.esp
 NRB4+QFE Patch.esp
 LetThePeopleDrink-NRB patch.esp
-? Do not use - has technical issues. Download the correct patch here: http://www.tesnexus.com/downloads/file.php?id=20218
+? Do not use - has technical issues. Download the correct patch here: "http://www.tesnexus.com/downloads/file.php?id=20218"
 
 Bridges For the Fools.esp
 
@@ -10777,7 +10777,7 @@ Adense RR Rumare UL Imperial Isle Patch.esp
 Adense UL Imp Isle AFK RR Rumare Patch.esp
 LetThePeopleDrink-ImperialIsle patch.esp
 LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
-? Do not use - has technical issues. Download the correct patch here: http://www.tesnexus.com/downloads/file.php?id=20218
+? Do not use - has technical issues. Download the correct patch here: "http://www.tesnexus.com/downloads/file.php?id=20218"
 TalosGatehouse + ULImperialIsle.esp
 
 xulBlackwoodForest.esp
@@ -13036,7 +13036,7 @@ MHE v2 - Exnem&Robert.esp
 
 StarX Vanilla Vampires Revised.esp
 $ Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
-$ Get patch on this page: http://www.tesnexus.com/downloads/file.php?id=21564
+$ Get patch on this page: "http://www.tesnexus.com/downloads/file.php?id=21564"
 StarX VVR_OOO Patch.esp
 StarX VVR_OOO_FCOM Patch.esp
 Starx-OVB Patch.esp
@@ -13895,7 +13895,7 @@ DW_FameInfamyBounty.esp
 Infamy Pilgrimage.esp
 Ranokoas Undercover Overhaul TRN compatible.esp
 TRN One of the Gang.esp
-? If using The Elder council use the patch (http://www.tesnexus.com/downloads/file.php?id=23526)
+? If using The Elder council use the patch ("http://www.tesnexus.com/downloads/file.php?id=23526")
 ? If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
 TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 TRN_Compatibility_Patch_One_of_the_Gang_TheElderCouncil.esp
@@ -14098,9 +14098,9 @@ Deadly Reflex 5 - Timed Block and 2.5x damage.esp
 Deadly Reflex 5 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block plugin.
 Deadly Reflex 5 - Combat Moves.esp
-? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
+? See "http://omploader.org/vMmJlbA/DRtestfix.zip" for a hotfix for CTD issues.
 DeadlyReflex 5 - Combat Moves.esp
-? See http://omploader.org/vMmJlbA/DRtestfix.zip for a hotfix for CTD issues.
+? See "http://omploader.org/vMmJlbA/DRtestfix.zip" for a hotfix for CTD issues.
 
 Deadly Reflex 6 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block plugin.
@@ -15646,7 +15646,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Chocolate_Elf Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_as_Custom_by_Gonzoguns.esp
-: Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=25524">Abriael Human Races Revamped</a>, the ESP file is not required.
+: Requires resources from Abriael Human Races Revamped ("http://www.tesnexus.com/downloads/file.php?id=25524"), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Custom_by_Gonzoguns Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -15659,7 +15659,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Custom_by_Xtudo Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_as_High_Imperial.esp
-: Requires resources from <a href="http://www.tesnexus.com/downloads/file.php?id=33044">Deathknowz's High Imperials Race</a> (all three files), the ESP file is not required.
+: Requires resources from Deathknowz's High Imperials Race ("http://www.tesnexus.com/downloads/file.php?id=33044") (all three files), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_High_Imperial Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -15756,7 +15756,7 @@ Arwen companion.esp
 % {{BASH:Hair, Eyes}}
 Audrey companion.esp
 Baddy.esp
-? If you use Entius Gorge you need the compatibility patch found here: http://tesnexus.com/downloads/file.php?id=13834
+? If you use Entius Gorge you need the compatibility patch found here: "http://tesnexus.com/downloads/file.php?id=13834"
 Baddy-EntiusGorge patch.esp
 Arren.esp
 Arren-EntiusGorge patch.esp
@@ -17493,8 +17493,8 @@ DeadlyReflex - Combat Moves.esp
 ? Old version - update to v5 or later.
 DeadlyReflex 6 - Combat Moves.esp
 % {{BASH:Graphics}}
-: NifSE (http://www.tesnexus.com/downloads/file.php?id=21292)
-: Drop Lit Torches OBSE (http://www.tesnexus.com/downloads/file.php?id=16282)
+: NifSE ("http://www.tesnexus.com/downloads/file.php?id=21292")
+: Drop Lit Torches OBSE ("http://www.tesnexus.com/downloads/file.php?id=16282")
 \preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
 SM_DeadlyReflex.esp
 SM_DeadlyReflex5.esp

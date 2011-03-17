@@ -653,10 +653,10 @@ Unofficial Shivering Isles Patch.esp
 ? Remember to use the 'MOBS' version when using Francesco's and FCOM.
 ? Newest MOBS and non-MOBS versions have the same name.
 ? Alternatively, consider using the standalone MOBS/OMOBS mods together with the non-MOBS patch.
-% {{BASH:Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
-% {{BASH:Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp
@@ -672,7 +672,7 @@ Unofficial Shivering Isles Patch-MOBS.esp
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
 ? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
 S.I.C.A.F.U.I.S.v1.2.esp
-% {{BASH:Invent, Stats}}
+% {{BASH:Actors.Stats, Invent, Stats}}
 SM Plugin Refurbish - SI.esp
 " 'CDM-CGO Compatibility plugins'.
 Shivering Isles - No Starting Quest Popup.esp

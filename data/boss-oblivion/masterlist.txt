@@ -2400,6 +2400,8 @@ Crowded Cities 30.esp
 Crowded Cities_Open.esp
 Crowded Cities for OCR.esp
 
+Risk of Bandits in Cities.esp
+
 Crowded Roads.esp
 Crowded Roads Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -5534,6 +5536,7 @@ SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
 Thievesden_mobs.esp
 % {{BASH:NoMerge, Stats}}
+dunbarrowupgrade.esp
 \EndGroup\\
 
 \BeginGroup\: Overhauls
@@ -7085,6 +7088,8 @@ Anvil Merchant Galley Houseboat v1.0.esp
 
 [Calsar] BetterWhiteStallionLodge.esp
 [Calsar] KOTN_Shrines.esp
+(SFL) Eagle's Reach.esp
+SFL) ICWF - Dock Expansion.esp
 (SFL) Knights of the Thorn Lodge.esp
 (SFL) Campus Village.esp
 
@@ -7388,6 +7393,7 @@ Auriel's Books.esp
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+AuriCloudRulerAddons.esp
 Aus's Alchemy Helper!.esp
 Automagicon.esp
 ? Use *either* COBL version or non-cobl version.
@@ -8907,6 +8913,7 @@ pythanis.esp
 \BeginGroup\: Quests Q
 
 qNS3-inventrix.esp
+QOTW001-010.esp
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -10866,7 +10873,7 @@ ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 ImpeREAL Empire - Unique Forts - Clydesdale Horses - By Xtudo.esp
 ImpeREAL Empire - Unique Forts - Slofs Horses - By Xtudo.esp
-% {{BASH:Graphics, Merge}}
+% {{BASH:Graphics, NoMerge}}
 ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp
 % {{BASH: Invent}
 ImpeREALForts+BrinaCross Patch.esp
@@ -12783,6 +12790,7 @@ Alternative Start by Robert Evrae.esp
 % {{BASH:Relations, Invent}}
 ROM Patch - Alternative Start.esp
 % {{BASH:Scripts}}
+Impossible begining.esp
 SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.
@@ -14000,6 +14008,7 @@ Fast Arrow Collection.esp
 Fiery Fists v1.2.esp
 GM's Archery Rebalance.esp
 Archery Rebalance.esp
+realArchery_eng.esp
 WB Dynamic Weapon Speeds.esp
 I just hit you.esp
 Marksman and Blade Realism.esp
@@ -15319,6 +15328,8 @@ opaquan.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 X.Dea.Obscura.esp
+% {{BASH:NpcFaces, Hair, Eyes, Graphics}}
+X.Demon.Race.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}
 X.Deus.Obscurus.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}

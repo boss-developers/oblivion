@@ -15,7 +15,7 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-//Masterlist variable setup. For BOSS v1.7+. 
+//Masterlist variable setup. For BOSS v1.7+.
 //Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
 IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
 IF ("Better Cities Resources.esm") SET: BC
@@ -6462,6 +6462,9 @@ OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
 {{BASH:Actors.Spells, Delev, Eyes, Graphics, Hair, Invent, Names, R.Relations, Relev, Stats}}
+OWC - TGPatch.esp
+OWC ND-Spawn-reduced.esp
+OWC ND - Oblivion XP Patch.esp
 \EndGroup\\
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
@@ -6902,6 +6905,7 @@ Centaur Enemies.esp
 John's Creature Mod.esp
 % {{BASH:Relev}}
 LBVermin.esp
+LBUndeadAdditions.esp
 LBWaterBeasts.esp
 ZUSwordFlameAtro.esp
 \EndGroup\\
@@ -9396,6 +9400,8 @@ The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp
 thievery - EE patch.esp
+TiansAyla_NNW.esp
+: OWC New Dimensions
 TiredVampireShipRu.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
@@ -10046,6 +10052,8 @@ MoreSuburbLife.esp
 MoreSuburbLife_RTT_patch.esp
 
 TOS - Prelude.esp
+TOSlod_start.esp
+TOSlod_Built.esp
 
 CUO_Bravil.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11355,6 +11363,7 @@ Axebane_Hunters25.esp
 BaurusRunsInSewers.esp
 Bag of Holding.esp
 Automagic Bags.esp
+LootToGold.esp
 Bag of Alchemy.esp
 Badmagic - Landscape Fix for 20 -18.esp
 Badmagic - Landscape Fix for Fanacasecul.esp

@@ -512,6 +512,8 @@ CSCP.esp
 Beautiful Amazon.esp
 : Oscuro's_Oblivion_Overhaul.esm, Beautiful People 2ch-Ed.esm
 % {{BASH:NpcFaces, NoMerge}}
+Prettier Vampire Faces.esp
+% {{BASH:NpcFaces, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes
@@ -5317,6 +5319,8 @@ GizmodianSorceress.esp
 : Shivering Isles.
 a4sFlamingNightmare.esp
 % {{BASH:Graphics, Scripts, ScriptContents}}
+Athletics While Riding.esp
+: OBSE v18+.
 Shivering Isles Horse.esp
 CDM-Horses.esp
 : Shivering Isles.
@@ -6461,7 +6465,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-{{BASH:Actors.Spells, Delev, Eyes, Graphics, Hair, Invent, Names, R.Relations, Relev, Stats}}
+{{BASH:Actors.ACBS, Actors.Spells, Delev, Eyes, Graphics, Hair, Invent, Names, R.Relations, Relev, Stats}}
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
@@ -8217,9 +8221,11 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
+ImperialCityApartment.esp
 Imperial City Temple Clean.esp
 Imperial City Townhouse.esp
 Imperial City Welcome Sign.esp
+Unique Chapels.esp
 ImpeREAL Empire - Unique Castles.esp
 " Better Cities Full or Better Cities IC components.
 IC Market District  malachi delacot.esp
@@ -9439,6 +9445,7 @@ Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
 : TR_Stirk.
 FCOM_Stirk.esp
 Transmutation.esp
+Trashdog's SPB Heavy AB Shop.esp
 TreasuresOfTyrV10.esp
 treasure maps v1.esp
 % {{BASH:Invent}}
@@ -9745,6 +9752,7 @@ arenaloot v1.1.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp
 LGD's Arena Enhanced.esp
+Malo_Arena.esp
 MoreArenaSpectators.esp
 MoreArenaSpectatorsLite.esp
 UOE-MoreArenaSpectators.esp
@@ -10831,6 +10839,7 @@ xulSkingradOutskirts Vwalk.esp
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
 
 xulSnowdale.esp
+Unique Landscapes - Snowdale DV.esp
 ApachiiHeroesStore-Snowdale patch.esp
 CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
@@ -10839,6 +10848,7 @@ OOO-Snowdale Patch.esp
 SnowLineLodge-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
+Unique Landscapes - Cliffs Of Anvil DV.esp
 OOOCliffsOfAnvilPatch.esp
 xulCliffsOfAnvil Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -10904,6 +10914,7 @@ SYS Patch Bravil Sea Domes.esp
 Castle_Seaview.esp
 Castle_Seaview v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+CastleSeaview+LostCoast Patch DV.esp
 CastleSeaview+LostCoast Patch.esp
 " EaglesRest+LostCoast+CastleSeaview Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
@@ -15108,6 +15119,7 @@ DremoraFemales.esp
 The Complete Dremora.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 TOCP - Playable Centaur.esp
+Trokturian Cow.esp
 LJD_HumanMIKA.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Luchaire's Dryad Race.esp

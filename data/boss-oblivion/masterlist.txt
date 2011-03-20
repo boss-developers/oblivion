@@ -270,7 +270,7 @@ Oblivifall Master File.esm
 Cure Disease Overhaul - Deadly Diseases (OBSE).esm
 Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esm
 SPTDiverseGuards-Resources.esm
-$ Probably not compatible with OOO.
+$ Probably not compatible with OOO. Untested.
 Oblivion Achievements CORE Version.esm
 John's Leveled List Overhaul.esm
 % {{BASH:Graphics}}
@@ -805,7 +805,6 @@ FCOM_FrancescosNamedBosses.esp
 : Francesco's Leveled Creatures-Items 4.5b.
 
 >Fran Armor Add-on.esp
->% {{BASH:Invent}}
 >: FCOM_UnofficialFranArmorAddon.esp
 >: the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
 >: Francesco's Leveled Creatures-Items 4.5b.
@@ -1448,7 +1447,7 @@ BorsBedrolls.esp
 Bedrollsanyone.esp
 
 BEER! for Oblivion.esp
-$ Probably not OOO compatible. Untested.
+$ Probably not compatible with OOO. Untested.
 BEER_Inebriation.esp
 Better Wine SI.esp
 $ Not compatible with OOO. OOO contains a similar mod.
@@ -1476,9 +1475,9 @@ Bottledbloodv1.esp
 Brandy.esp
 $ Not compatible with OOO. OOO contains a similar mod.
 bnmDLTIC-1-6.esp
-$ Probably not OOO compatible - drop lit torches already integrated.
+$ Not compatible with OOO. OOO contains a similar mod.
 nmDLTIC-1-6.esp
-$ Probably not OOO compatible - drop lit torches already integrated.
+$ Not compatible with OOO. OOO contains a similar mod.
 bDLTIC-1-6.esp
 DLTIC-1-6.esp
 Torch Hotkey.esp
@@ -1904,7 +1903,7 @@ More_Animals.esp
 " Mart's Monster Mod. Included in MMM.
 more_classes.esp
 More Drinks.esp
-$ Probably not OOO compatible. Untested.
+$ Probably not compatible with OOO. Untested.
 more broadsheets.esp
 more_broadsheets.esp
 More Female Servants.esp
@@ -2290,7 +2289,7 @@ wd purse of wonders.esp
 % {{BASH:Scripts}}
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
-$ Probably not compatible with OOO. OOO contains a similar mod.
+$ Not compatible with OOO. OOO contains a similar mod.
 WhiteGoldTower_Telepad.esp
 Willful Resistance.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
@@ -2353,7 +2352,7 @@ moDem's City Life Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 Oblivion Alive.esp
-^ May be incompatible with BC - untested.
+^ May be incompatible with BC. Untested.
 Oblivion Alive Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -2603,13 +2602,13 @@ Maps!.esp
 Maps of Cyrodiil.esp
 AxiomMagesMapMarkers.esp
 Landmarks.esp
-$ Move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers a la vanilla.
 Landmarks, w Wells.esp
-$ Move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers a la vanilla.
 Landmarks, w Wells_DV.esp
-$ Move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers a la vanilla.
 Landmarks With Wells.esp
-$ Move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers a la vanilla.
 
 AddMapMarkers.esp
 All Travel Markers.esp
@@ -3090,7 +3089,7 @@ BagOfAlchemy_1C.esp
 Bamboo Armor.esp
 % {{BASH:Invent}}
 Banes Guilds United.esp
-$ May have trouble with OOO. Untested.
+$ Probably not compatible with OOO. Untested.
 Banes Steel Helm Replacer.esp
 % {{BASH:Graphics}}
 BarbarianShop.esp
@@ -5526,7 +5525,7 @@ dunbarrowupgrade.esp
 <: Francesco's Leveled Creatures-Items 4.5b.
 
 Francesco's More Wilderness Life.esp
->* Delete. Not FCOM compatible.
+>* Delete. Not compatible with FCOM.
 <Francesco's Optional Chance of Stronger Bosses.esp
 <Francesco's Optional Chance of Stronger Enemies.esp
 Francesco's Optional Dungeon Chest Loot.esp
@@ -5541,7 +5540,7 @@ MALO - Guild Tweaks.esp
 Francesco's Optional New Adventurers.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Vendor Tweaks.esp
->* Delete. Not FCOM compatible.
+>* Delete. Not compatible with FCOM.
 <Francesco's Optional Chance of More Enemies.esp
 Francesco's Optional Leveled Quests.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
@@ -5621,7 +5620,7 @@ FCOM_TamrielicIngredients.esp
 Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
->? Make sure to install the FCOM patch 'FCOM_Cobl.esp'/'MMM_Cobl.esp' if using latest version.
+>? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
@@ -5731,11 +5730,11 @@ OOO-ThiefGuild_Difficult.esp
 $ Don't use with the FULL version of OOO, already included.
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
->* Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
+>* Delete. Upgrade to latest version of OOO.
 OOO132RC3Hotfixes.esp
->* Delete. Use newer version of OOO. Integrated into OOO v1.32.Final and newer.
+>* Delete. Upgrade to latest version of OOO.
 OOO132RC3MapMarkers.esp
->* Delete. Use newer version of OOO. Now a different plugin in OOO v1.32.Final and newer.
+>* Delete. Upgrade to latest version of OOO.
 OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
 ? Use only one LightOfDawn plugin.
 OOO-LightOfDawnAlwaysFlames.esp
@@ -5965,7 +5964,7 @@ Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - Player Home Add-on.esp
 $ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 DEJ Harvest - Containers [Combo] v0.99.08.esp
-$ Obsolete, please update to a recent version of Harvest[Containers].
+? Obsolete. Remove this and update to the latest version of Harvest[Containers].
 Harvest[Containers] - Flat-Top Barrels Add-on.esp
 $ Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 Harvest[Containers] - Havok Crates Add-on.esp
@@ -5975,7 +5974,7 @@ DBOO - Harvest[Containers].esp
 
 Hemingweys NPC Capes for OOO and FCOM.esp
 ? Obselete if using MMM or FCOM. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
-$ If you are running only OOO, but not MMM or FCOM, remains useful and does not require Wyre Bash.
+$ If you are running only OOO, but not MMM or FCOM, keep this installed.
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -6179,11 +6178,11 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - Less Bone Loot.esp
 >Mart's Monster Mod - Zombies for Body Meshes.esp
 >Mart's Monster Mod - Vindasel.esp
->? obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+>? Obsolete. Upgrade to MMM 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 >Mart's Monster Mod - Safer Quest Locations.esp
 >Mart's Monster Mod - Foxes.esp
 >Mart's Monster Mod - Bats Addon.esp
->? Old MMM file. Update MMM to 3.6b3 or later and use 'Dungeons of MMM.esp' instead.
+>? Obsolete. Upgrade to MMM 3.6b3+ and use 'Dungeons of MMM.esp' instead.
 >Mart's Monster Mod - Dungeons of MMM.esp
 >Mart's Monster Mod - Curse of Hircine.esp
 >Mart's Monster Mod - More Reaver Variants.esp
@@ -6284,7 +6283,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
 <Mart's Monster Mod - Durability & Damage.esp
-<$ Don't use with OOO. Already integrated into OOO.
+<$ Not compatible with OOO. Already included in OOO.
 <Mart's Monster Mod - Fran's leveled quests.esp
 <: a Fran's install with the Leveled Quests option.
 <Mart's Monster Mod - Less Bone Loot.esp
@@ -6464,9 +6463,9 @@ TamrielTravellers4MMM.esp
 TamrielTravellers4MMM Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Travellers4MMMHostileFactions.esp
->* Delete. Not FCOM compatible.
+>* Delete. Not compatible with FCOM.
 TamrielTravellersFactionAll.esp
->* Delete. Not FCOM compatible.
+>* Delete. Not compatible with FCOM.
 TamrielTravellers4000.esp
 >: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
@@ -6480,7 +6479,7 @@ TamrielTravellersItemsCobl.esp
 TamrielTravellersItemsVendor.esp
 % {{BASH:Filter, Delev, Relev, Deactivate}}
 TamrielTravellersItemsUnscaled.esp
->* Delete. Not FCOM compatible.
+>* Delete. Not compatible with FCOM.
 ? Not overhaul mod compatible.
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
@@ -6557,7 +6556,7 @@ FCOM_FriendlierFactions.esp
 FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
->* Delete. Old. Update to FCOM v0.9.9 or later.
+>* Delete. Outdated. Update to FCOM v0.9.9 or later.
 \EndGroup\\
 
 \BeginGroup\: Overhaul compatibility
@@ -6707,7 +6706,7 @@ OOO Dread Armor Upgrade.esp
 LDEnhancedSI.esp
 Shield on Back Plugin - OOO.esp
 BladesSmithySTANDARD.esp
-$ If using OOO use 'BladesSmithyOOO.esp' instead.
+$ Use 'BladesSmithyOOO.esp' instead.
 BladesSmithyOOO.esp
 OOO_ThievesGuildFix.esp
 ? This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
@@ -6730,11 +6729,11 @@ Cats & Rats for Francescos.esp
 
 Tamrielic_Ingredients.esp
 Tamrielic_Ingredients_MMM.esp
->* Delete. Not FCOM compatible. Use cOMbo plugin instead.
+>* Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 Tamrielic_Ingredients_OOO.esp
->* Delete. Not FCOM compatible. Use cOMbo plugin instead.
+>* Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 Tamrielic_Ingredients_FraM.esp
->* Delete. Not FCOM compatible. Use cOMbo plugin instead.
+>* Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 
 Morrowind Ingredients_MMM.esp
 ? Consider Upgrading to Tamrielic Ingredients.
@@ -7061,7 +7060,7 @@ ShiveringIslesTransportationNetwork.esp
 EM_CompInnsleeping.esp
 
 Ivellon.esp
-$ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini.
+$ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 ? This Esp is used as a patch between "OOO" and "The Dungeons of Ivellon"
@@ -7084,7 +7083,6 @@ SFL) ICWF - Dock Expansion.esp
 
 001_LM_ElvenGardenRetreat.esp
 % {{BASH:Invent}}
-^ latest versions of this and BC work fine together (v1.21 and v4.8.4 respectively).
 007 Market district fps boost.esp
 ^ Probably incompatible with Better Cities.
 00RBScribeSupplies Intensive.esp
@@ -7459,7 +7457,7 @@ Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 BDBS - Assassin Tripwires Patch.esp
 BDBS - Chapel Memorial.esp
 AbandonedHouse.esp
-^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead (use only one).
+^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead.
 AbandonedHouseBC.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
@@ -7707,24 +7705,24 @@ Cliff_PersonalGuildStorageChest.esp
 
 Clintmichs Beautiful IC District Pack Plus.esp
 Clintmichs Beautiful Imperial City Arboretum.esp
-^ Probably incompatible with BC IC Arboretum and similar.
+^ Probably incompatible with Better Cities IC Arboretum and similar.
 Clintmichs Beautiful Imperial City Arboretum v1.1.esp
-^ Probably incompatible with BC IC Arboretum and similar.
+^ Probably incompatible with Better Cities IC Arboretum and similar.
 Clintmichs Beautiful Arcane University.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 The Beautiful Market District.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Market District v1.3.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Elven Gardens District v1.0.esp
-? old update to v1.1+
-^ Probably incompatible with BC
+? Outdated. Upgrade to v1.1+.
+^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Elven Gardens District v1.1.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 Clintmichs Improved Prison District v1.1.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Talos Plaza District.esp
-^ Probably incompatible with BC
+^ Probably incompatible with Better Cities.
 
 COR-Episode1 Secret of Enourk.esp
 CM Armor Expansion.esp
@@ -8407,8 +8405,7 @@ KieranFleshRobes.esp
 KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
 kingdomofAlmar.esp
-$ If using OOO, needs the OOO compatibility patch 'kingdomofAlamar_OOO.esp' ...
-$ ...found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
+$ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
 Klarre Forestheart MR.esp
@@ -8629,7 +8626,7 @@ Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 ? Old name, update to v1.2+.
 The Imperial Water.esp
-^Use 'The Imperial Water - BETTER CITIES.esp' instead.
+^ Use 'The Imperial Water - BETTER CITIES.esp' instead.
 The Imperial Water - BETTER CITIES.esp
 Magister Cogitation.esp
 MakTravellersInn.esp
@@ -8852,7 +8849,7 @@ Pats Business Mod---Shop Version 1.6.esp
 Pats Business Mod---Shop Version 2.0.esp
 ? Old, update to version 2.1+
 Pats Business Mod.esp
-^ If using BC use the BC version instead.
+^ Use the Better Cities version instead.
 Pats Business Mod BC.esp
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
@@ -9778,7 +9775,7 @@ Ash's DB Kah'Lil Quest.esp
 Z's Skeleton Horse.esp
 
 Slof's Oblivion Robe Trader - OOO Patch.esp
->? Use FCOM compatibility version instead
+>? Use FCOM compatibility version instead.
 Babarized Slof's Robe Trader Full.esp
 
 \Yay for inexplicable spelling variations! Maybe different versions. :(
@@ -9926,16 +9923,16 @@ QuietFeet.esp
 ? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
 Mart's Monster Mod - Knights of the Nine Patch.esp
->* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+>* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
 Mart's Monster Mod - Knights.esp
->* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+>* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
 Mart's Monster Mod for OOO - Knights.esp
->* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+>* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
 Mart's Monster Mod for OOO - Knights .esp
->* Delete. Not FCOM compatible. Use FCOM_knights.esp instead.
+>* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
@@ -11200,11 +11197,11 @@ NPC new clothes V2.6 Modified.esp
 FCOM_NewNPCClothes.esp
 : 'New NPC Clothes 2.6'.
 KS - Cities FPS Boost.esp
-^ Probably Better Cities incompatible.
+^ Probably incompatible with Better Cities.
 KS - Imperial FPS Boost.esp
-^ Probably Better Cities incompatible.
+^ Probably incompatible with Better Cities.
 KS - Kvatch FPS Boost.esp
-^ Probably Better Cities incompatible.
+^ Probably incompatible with Better Cities.
 
 RedBag - Imperial City Pack.esp
 
@@ -11689,9 +11686,9 @@ Fewer Foes.ESP
 
 Finite Ammo.esp
 First Person Messages.esp
-$ Not needed if using OOO.
+$ Not compatible with OOO. Already included in OOO.
 2nd to 1st person.esp
-$ Not needed if using OOO.
+$ Not compatible with OOO. Already included in OOO.
 
 Fiery Arrows v3.3.esp
 Two Fiery Arrows - optional.esp
@@ -12345,7 +12342,7 @@ Silgrad_Tower_T.esp
 Sinderion Fix.esp
 Size of rats more normal.esp
 Skill Perk Descriptions Enhancement.esp
-$ OOO changes skill perks and their descriptions as well.
+$ Conflicts with OOO's changes to skill perks and their descriptions.
 SkillSpecialization.esp
 Skillbased Thieves Guild Invitation.esp
 Steel Helm Replacer.esp
@@ -12372,7 +12369,7 @@ SpellMenu.esp
 \BeginGroup\: SPT Diverse Guards
 SPTDiverseGuards-Core.esp
 SPTDiverseGuards.esp
-$ Probably not compatible with OOO. Consider upgrading to version 2.0.
+$ Probably not compatible with OOO. Upgrade to version 2.0+.
 SPTDiverseGuardsMRAll.esp
 ? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
 SPTDiverseGuardsMRHuman.esp
@@ -13841,7 +13838,6 @@ Skeleton Key Revised.esp
 
 Speedy Looting OBSE.esp
 Speedy Looting - Harvest [Containers].esp
-$ Harvest [Containers] will have conflicts with OOO.
 Speedy Looting - Harvest [Containers] - Player Home Add-on.esp
 Speedy Looting - OOO.esp
 Speedy Looting - wd purse of wonders.esp
@@ -16358,7 +16354,7 @@ bgBalancingEVOptionalFCOMAdditions.esp
 % {{BASH:Actors.Stats, Actors.ACBS, NpcFaces}}
 
 bgBalancingOptionalFranAddition.esp
->* Delete. Not FCOM compatible. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
+>* Delete. Not compatible with FCOM. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
 
 bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
 

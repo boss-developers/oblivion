@@ -2817,10 +2817,8 @@ HGEC_special_armor_repl.esp
 \BeginGroup\: Items Early
 
 Bonemold_Helmet.esp
-% {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
 ? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 Cryos Ordinator Lite.esp
-% {{BASH:NoMerge}} when using 'Unoffical Fran's Armor' mod ('Fran Armor Add-on.esp').
 ? Deactivate or delete this ESP file when using 'Unofficial Fran's Armor' (mesh and texture files are required, however).
 
 avarm.esp
@@ -5522,7 +5520,6 @@ dunbarrowupgrade.esp
 
 <Fran Armor Add-on.esp
 <% {{BASH:Invent}}
-<? Use FCOM_UnofficialFranArmorAddon.esp instead of the tag if using FCOM
 <: the meshes from 'Bonemold Helmet' and 'Cryos Ordinator Indoril Armor' mods, but not the ESPs.
 <: Francesco's Leveled Creatures-Items 4.5b.
 <Fran_Lv30Item_Maltz.esp
@@ -5552,6 +5549,7 @@ UOP-Frans Optional Quests patch.esp
 UOP-Optional Quests Patch.esp
 
 <Francesco's Optional Leveled Quests-SI only.esp
+<Francesco's Optional Leveled Quests-SI-only.esp
 Francesco's Optional Leveled Arena.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Files.esp
@@ -5573,7 +5571,9 @@ Francesco's No Reduced Backwards Running.esp
 LuckBasedLootForFrans.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 <Francesco's Dark Seducer Weapons Patch.esp
+<% {{BASH:Delev, Relev}}
 <FranDarkSeducerWeapFix.esp
+<% {{BASH:Delev, Relev}}
 <FranSeducerScriptFix.esp
 
 Francesco's Boar Addon.esp
@@ -6024,13 +6024,15 @@ Oscuro's Combat Behavior.esp
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
 >? Can increase the chances of a CTD in a heavily modded game due to increased processor load.
 
->FCOM_Convergence.esp
+FCOM_Convergence.esp
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
 IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
->% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
->FCOM_ConvergenceNoFran.esp
+FCOM_ConvergenceNoFran.esp
 >* Outdated. Install FCOM version 0.9.9 or later.
->FCOM_OscurosOverhaul.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_OscurosOverhaul.esp
 >? Only use when not using MMM.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Choices and Consequences - MMM.esp
 >? Obsolete. Remove this and upgrade to latest version.
@@ -6046,30 +6048,37 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 1.
->\'''''''''''''''''''''
+\'''''''''''''''''''''
 
 >Mart's Monster Mod - Diverse Runeskulls.esp
 >? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
 >% {{BASH:Delev, Relev}}
->FCOM_EntropicOrderRebalance.esp
->FCOM_EntropicOrderHardcore.esp
->FCOM_RealSwords.esp
->% {{BASH:Delev, Relev}}
+FCOM_EntropicOrderRebalance.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_EntropicOrderHardcore.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_RealSwords.esp
+% {{BASH:Delev, Relev}}
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
->FCOM_DurabilityAndDamage.esp
+FCOM_DurabilityAndDamage.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
->FCOM_SpawnRatesReduced.esp
+FCOM_SpawnRatesReduced.esp
 % {{BASH:Delev, Relev}}
->? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
->FCOM_SpawnRatesSlightlyReduced.esp
+? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_SpawnRatesSlightlyReduced.esp
 % {{BASH:Delev, Relev}}
->? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
->FCOM_SpawnRatesStronger.esp
+? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_SpawnRatesStronger.esp
 % {{BASH:Delev, Relev}}
 >? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 FCOM_MoreWildernessLife.esp
 ? Delete. Use Mart's Monster Mod - More Wilderness Life.esp or Mart's Monster Mod - More Wilderness Life No Gates.esp instead
@@ -6078,43 +6087,47 @@ FCOM_MoreWildernessLife.esp
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Passive Wildlife.esp
->? Not recommended, has bugs
+>? Not recommended, has bugs.
 
 >Mart's Monster Mod - Safer Roads.esp
->? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced.esp', already included.
->? Remove if using 'Mart's Monster Mod - Spawn Rates Reduced Reduced.esp', already included.
->? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp', already included.
 >* Delete and use the 'FCOM_SaferRoads.esp'.
->FCOM_SaferRoads.esp
->% {{BASH:Delev, Relev}}
+FCOM_SaferRoads.esp
+% {{BASH:Delev, Relev}}
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - Less Rats.esp
 >* Delete and use 'FCOM_LessRats.esp'.
->FCOM_LessRats.esp
+FCOM_LessRats.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Spiders.esp
 >* Delete and use 'FCOM_NoSpiders.esp'.
->FCOM_NoSpiders.esp
+FCOM_NoSpiders.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Wyvern.esp
 >* Delete and use 'FCOM_NoWyverns.esp'.
 >Mart's_Monster Mod -No Wyvern.esp
 >* Delete and use 'FCOM_NoWyverns.esp'.
->FCOM_NoWyverns.esp
+FCOM_NoWyverns.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Pests.esp
 >Mart's Monster Mod - No Swarms.esp
 >Mart's Monster Mod for OOO - NoReaversInGates.esp
 >* Delete. Use 'FCOM_NoReaversInGates.esp' instead.
->FCOM_NoReaversInGates.esp
->? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
->FCOM_NoAdventurersInGates.esp
+FCOM_NoReaversInGates.esp
+? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+FCOM_NoAdventurersInGates.esp
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod for OOO - LessReaversInGates.esp
 >* Delete. Use FCOM_LessReaversInGates instead.
->FCOM_LessReaversInGates.esp
->? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
+FCOM_LessReaversInGates.esp
+? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >CurseOfHircine.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
->\'''''''''''''''''''''
+\'''''''''''''''''''''
 
 >Mart's Monster Mod - Extra Wounding.esp
 >Mart's Monster Mod - Looting NPCs & Creatures.esp
@@ -6195,7 +6208,7 @@ Fletching Compilation.esp
 \EndGroup\\
 
 \BeginGroup\: MMM for non-FCOM installs
-<\'''''''''''''''''''''''''
+\'''''''''''''''''''''''''
 
 Mart's Monster Mod.esp
 >* Delete. Not needed with FCOM.

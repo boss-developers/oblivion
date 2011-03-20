@@ -73,13 +73,13 @@ Natural Interiors.esm
 AWS-Core.esm
 EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
-? Outdated. Upgrade to the latest version of Enhanced Weather.
+? Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 % {{BASH:Invent, Delev, Relev, Actors.AIData, Actors.Stats, Stats}}
 Francesco's Optional New Items Add-On.esm
 Francesco's Optional New Creatures Add-On.esm
->* Delete. Not FCOM compatible. Already integrated into FCOM.
+>* Delete. Not compatible with FCOM. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
 MD_Saddle_Master.esm
 Children Of Rourken.esm
@@ -101,13 +101,14 @@ Qarls_Harvest.esm
 Ulrim's Horses.esm
 armoryLab.esm
 DEJ Harvest - Flora.esm
-? Old. Update to 'Harvest [Flora]' v3.0.1 or later (or v3.0.0 for compatibility with 'Herbalism' mod, but that version contains a CTD bug).
+? Obsolete. Update to 'Harvest [Flora]' v3.0.1+.
+? Outdated. Update to 'Harvest [Flora]' v3.0.1+.
 Harvest[Containers].esm
 Harvest[Containers] - Flat-Top Barrels Add-on.esm
 Harvest[Containers] - Havok Crates Add-on.esm
 Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
-$ Not OOO compatible. Already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
 % {{BASH:Actors.Spells, Graphics, Invent, Scripts, Stats, Relations}}
 DarkDale.esm
@@ -117,7 +118,7 @@ Mart's Monster Mod for OOO.esm
 >* Delete. Not compatible with FCOM.
 % {{BASH:Delev, Factions, Relations, Relev}}
 Waalx Animals & Creatures.esm
-" other overhaul mods.
+" Other overhaul mods.
 Natural_Habitat_by_Max_Tael.esm
 Diverse Wisps - Base.esm
 VASE - core.esm
@@ -139,7 +140,7 @@ Armamentarium.esm
 ArmamentariumFran.esm
 % {{BASH:Relev}}
 ArmamentariumEnchanted.esm
-? Outdated, included in newest Armamentarium Complete.
+? Outdated, included in Armamentarium Complete.
 azsTHouse.esm
 Artifacts.esm
 Hemingweys Capes Improved.esm
@@ -153,7 +154,7 @@ Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
-? Make sure to upgrade to v2+; v1 has a severe bug with the Mystic Emporium dissappearing. (Same esm name).
+? Check you are using v2+. If not, upgrade. v1 has a severe bug with the Mystic Emporium disappearing.
 A_Bloody_Mess.esm
 BathingMod_Base.esm
 BP EDIT.esm
@@ -180,7 +181,7 @@ CLS-craftybits.esm
 Horadric Cube.esm
 StaticRepairItems.esm
 TLS Modded Mannequins.esm
-? Do not use with Reznod's Mannequins.
+" Reznod's Mannequins.
 UHK.esm
 DA Run Fatigue.esm
 ANB_Scrolls.esm
@@ -289,7 +290,7 @@ Sheogorad.esm
 \BeginGroup\: Earliest mods
 \-------------
 rus_DotStudio_1.2_final.esp
-? it's rusification of oblivion.esm
+? Translates Oblivion.esm into Russian.
 russian.esp
 ZoGRus.esp
 ZoGRusScriptMessagebox.esp
@@ -325,7 +326,7 @@ SoVvM Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Oblivion_SI Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
@@ -376,25 +377,24 @@ TNR - THE ARGONIANS.esp
 TNR - all.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR- All Races.esp
-? Not need if use Cobl Races TNR.esp
+" Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR ALL RACES FINAL.esp
-? Not need if use Cobl Races TNR.esp
+" Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR - ALL RACES FINAL.esp
-? Not need if use Cobl Races TNR.esp
+" Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR - ALL RACES FINAL DV.esp
-? Not need if use Cobl Races TNR.esp
+" Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR ALL RACES FINAL Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TNR - All Races for OOO.esp
-? Use this instead TNR ALL RACES esps for OOO.
-? Not need if use Cobl Races TNR.esp
+" Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR - ShiveringIsles.esp
-? Not need if use Cobl Races TNR SI.esp
+" Cobl Races TNR SI.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR - ShiveringIsles no helms.esp
 % {{BASH:NpcFaces, NoMerge}}
@@ -404,7 +404,7 @@ Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces, NoMerge}}
 Oblivion_SI Vwalk Full TNR.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
@@ -413,7 +413,7 @@ Cobl Races TNR SI.esp
 % {{BASH:NpcFaces, NoMerge}}
 : the Cobl Cosmetics Res 01 files installed.
 Cobl - NPCDiversity - TNR Merge.esp
-? Obsolete. Use either Cobl Races TNR.esp or Cobl Races TNR SI.esp instead.
+? Obsolete. Remove this and install either Cobl Races TNR.esp or Cobl Races TNR SI.esp.
 % {{BASH: NpcFaces, Invent, NoMerge}}
 
 TweakedGenericFaces.esp
@@ -424,7 +424,7 @@ Better-Horse-Eyes.esp
 % {{BASH:Graphics, NoMerge}}
 Younger Hotter NPC's 0.99.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Old, update to version 1+.
+? Outdated. Update to version 1+.
 Younger Hotter NPC's v1.0.esp
 % {{BASH:NpcFaces, NoMerge}}
 Younger Hotter NPC's v1.0 Vwalk.esp
@@ -461,7 +461,7 @@ Beautiful_Women_Vampires_50 VWalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Beautiful Women Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Beautiful_Women_Revised.esp
@@ -503,7 +503,7 @@ Colourwheels Sexy Female NPCs.esp
 Colourwheels Sexy Female NPCs Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 ChangeSomeCyrodiilLadies.esp
-? Old, update to CSCP.esp.
+? Outdated. Update to CSCP.esp.
 % {{BASH:NpcFaces, NoMerge}}
 CSCP.esp
 % {{BASH:NpcFaces, NoMerge}}
@@ -526,37 +526,39 @@ AtiAAFix.esp
 AtiAAFix_1C.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 nVidia Black Screen Fix.esp
-? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+? Alternatively, remove this and use UOP v3.0.1+ instead.
 Black Screen Fix.esp
-? Use UOP v3.0.1 or later instead. Alternately, use the Bashed Patch tweak to cover this for all mods.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+? Alternatively, remove this and use UOP v3.0.1+ instead.
 BlackScreenToggleFix.esp
 
 Allies for Bruma Fix.esp
 Erthor_Fix-2593.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Ultimate_Heist_Fix-4880.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 fix_Brush_of_Death-3144.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Fighters_Guild_Dissapearences_Mission_Bug_Fix-3483.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 FathisFix.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 GrassFix.esp
 Grove of Reflection Fix.esp
 Mages Guild Quest Fixes.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 id_CompetitionFix.esp
-? Use UOP v3.0.1 or later instead.
+? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 SwampyCaveFix.esp
-? Use UOP v3.2.0 or later instead.
+? Obsolete. Remove this and use UOP v3.2.0 or later instead.
 ClavicusFix.esp
 ArenaChampionHotfix.esp
-? Use UOP v3.2.0 or later instead.
+? Obsolete. Remove this and use UOP v3.2.0 or later instead.
 995-Specular Fix 1.1-TESSource.esp
-? Obsolete, as the bug was fixed in the 1.2 official patch.
+? Obsolete. Remove this. Bug fixed in the 1.2 official patch.
 vampirescriptfix.esp
 object_placement.esp
 ? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
@@ -569,7 +571,7 @@ sva_testFixBruma.esp
 Specular_Fix_1.1.esp
 % {{BASH:Graphics}}
 Umbacana_quest_fix-9117.esp
-? Possibly fixed in official patch 1.5.11+
+? Possibly fixed in official patch 1.5.11+.
 NoNextRankDUMMY_v1.0-RSS.esp
 Bow Crash Fix.esp
 Boethia.esp
@@ -1395,7 +1397,7 @@ ANB_TrashCan.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
 Anvil Dock Map Marker.esp
-? Included in UOP 3.2.0. Recommended that you use that, and remove this plugin.
+? Use UOP 3.2.0 or later instead.
 Arabian Knight Fantasy Tent.esp
 Companion Tent.esp
 Arena Posters Diversified.esp
@@ -1446,7 +1448,7 @@ BorsBedrolls.esp
 Bedrollsanyone.esp
 
 BEER! for Oblivion.esp
-$ If using OOO, check compatibility (untested).
+$ Probably not OOO compatible. Untested.
 BEER_Inebriation.esp
 Better Wine SI.esp
 $ Not compatible with OOO. OOO contains a similar mod.
@@ -1523,7 +1525,7 @@ VipCxj_BulletCamera.esp
 kuerteeAutoFirstThirdPersonView.esp
 EnableFreeLook.esp
 EnableFreeLookNoWheel.esp
-? Only use if you do not have a mouse wheel
+? Only use if you do not have a mouse wheel.
 EnableFreeLookOBSE.esp
 : OBSE.
 tw1_fov_adjustor.esp
@@ -1830,7 +1832,7 @@ kalikuts_beds_ingame.esp
 kalikuts_bracelets.esp
 kalikuts_raretradegoods2_0.esp
 Katana Store.esp
-: patch to use with Kalikuts
+: patch to use with Kalikuts.
 KB - House of Wonders.esp
 Kill_Bruma_Statue.esp
 Kill_KvatchRebuilt_Statue.esp
@@ -1997,7 +1999,7 @@ personality_idles3b_nc.esp
 personality_idles4.esp
 Personality Idles 4 - Cleanned version.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Obselee, update to latest version.
+? Outdated, upgrade to latest version.
 Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
@@ -2145,7 +2147,7 @@ Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
 Sexual_SpiderDaedra.esp
 % {{BASH:Graphics, Deactivate}}
-? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
+? Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
 OSM-All Genders.esp
 % {{BASH:Graphics, Invent, Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 Nude Humanlike Spriggan.esp
@@ -2294,7 +2296,7 @@ wd purse of wonders.esp
 % {{BASH:Scripts}}
 Weapon Displays V1.9.esp
 Weed AND Beer inebriation 1.32.esp
-$ May not be OOO compatible as OOO includes inebriation.
+$ Probably not compatible with OOO. OOO contains a similar mod.
 WhiteGoldTower_Telepad.esp
 Willful Resistance.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
@@ -2327,17 +2329,18 @@ Piratelords Trade Fixes.esp
 Living Economy.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
-? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one. Shivering Isles expansion.
+? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
+: Shivering Isles expansion.
 SI Living Economy.esp
-? Check for newer version.
+? Outdated. Upgrade to latest version.
 Living Economy - Items.esp
 Cutthroat Merchants.esp
 Cyrodiil Economic Overhaul.esp
 
 GoldAdjustment.esp
-? Upgrade to Enhanced Economy.
+? Obsolete. Upgrade to Enhanced Economy.
 Enhanced Economy.esp
-? Replaces Living Economy plugins.
+" Living Economy.
 
 Lynges_Dark_Brotherhood_Assassins.esp
 JOJOeffect.esp
@@ -2452,7 +2455,7 @@ PTRoamingNPCs Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 FF_Real_Thirst.esp
-? Don't use with vampire mods.
+" Vampire mods.
 
 Terran Vampires Beta.esp
 OCC-TVamp-Patch.esp
@@ -2485,7 +2488,7 @@ BookTrackerOBSE.esp
 
 CleanQuit.esp
 CBMS_V2.esp
-: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin)
+: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin).
 CTEFastSaver.esp
 
 Damage Text v2.esp
@@ -2500,9 +2503,9 @@ Duke Patricks - Friendship Ring For Companion Detection.esp
 Enhanced Seasons.esp
 
 FormID Finder.esp
-? Old, upgrade to version 4
+? Outdated. Upgrade to version 4.
 FormID Finder without Pluggy.esp
-? Old, upgrade to version 4
+? Outdated. Upgrade to version 4.
 FormID Finder4.esp
 Forward Motion Blur.esp
 fwDropGold.esp
@@ -2538,9 +2541,9 @@ Musical Immersion 1.0.esp
 MUTE.esp
 
 NameThatHorse.esp
-: OBSE 17+, Pluggy 122+
+: OBSE 17+, Pluggy 122+.
 No Recharge.esp
-: OBSE
+: OBSE.
 
 Oblivion Graphics Extender Support.esp
 
@@ -2559,7 +2562,7 @@ PCB.esp
 Scathe.esp
 ScreenControls.esp
 SimpleHUDClock.esp
-: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll
+: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
 VipCxj_RadarSystem.esp
 : OBSE, MenuQue.
 SimpleSprinting.esp
@@ -2572,9 +2575,9 @@ Streamline.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 Streamline 3.0.esp
-? Old. Update to 3.1 or later.
+? Outdated. Update to 3.1+.
 Streamline 2.1.esp
-? Very Old. Update to 3.1+.
+? Outdated. Update to 3.1+.
 streamline.311.esp
 3 Alternative Stories.esp
 
@@ -2598,7 +2601,7 @@ Dynamic Map.esp
 Map Markers Be Done -Elys-.esp
 Map Markers Be Done.esp
 Map Marker Renamer.esp
-? Obsolete. Update to Map Marker Overhaul and then remove.
+? Obsolete. Remove this and install Map Marker Overhaul.
 Map Marker Overhaul.esp
 Map Marker Overhaul - SI additions.esp
 MapMarkerMax.esp
@@ -2606,13 +2609,13 @@ Maps!.esp
 Maps of Cyrodiil.esp
 AxiomMagesMapMarkers.esp
 Landmarks.esp
-$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells.esp
-$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks, w Wells_DV.esp
-$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers ala vanilla.
 Landmarks With Wells.esp
-$ If using OOO, move this after OOO if you desire initial city map markers ala vanilla.
+$ Move this after OOO if you desire initial city map markers ala vanilla.
 
 AddMapMarkers.esp
 All Travel Markers.esp
@@ -11234,6 +11237,7 @@ Lily of the Valley Nectar.esp
 Harvest [Flora].esp
 % {{BASH:Graphics, Scripts}}
 ? Make sure you have v3.0.1 or later, which removes a CTD bug with the Harrada root.
+? v3.0.0 required for compatibility with 'Herbalism'.
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 NoHFailure_HFlora_SE.esp

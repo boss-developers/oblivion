@@ -1637,38 +1637,32 @@ CrimsonScarArmor.esp
 % {{BASH:Invent}}
 crfo.esp
 Cryptic Festive Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? remove unnecessary cell edit to aleswell dummy cell to make mergeable into bashed patch.
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic Frosted Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic Blue Blood Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic Lake View Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic Snowy Oak Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic White Rose Ayleid Dining Set.esp
-% {{BASH:Names, Graphics}}
-? also Bash tag Stats if you want the values from this to overide overhaul values (ie. OOO)
-? remove unnecessary cell edit to testing hall to make mergeable into bashed patch.
-? Only use one Cryptic's X X X Dining set esp
+% {{BASH:Names, Graphics, Stats}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Only use one 'Cryptic's X X X Dining Set' plugin.
 Cryptic's Buyable Ayleid Dining Sets.esp
 % {{BASH:Invent}}
-? can be used with ONE of Cryptic's XXX Dining set.esp
+? Can be used alongside one 'Cryptic's X X X Dining Set' plugin.
 
 Buyable Ayldeid Dishes.esp
 % {{BASH:Invent}}
-? Don't use with Cryptic's Buyable Ayleid Dining Sets.esp
+" 'Cryptic's Buyable Ayleid Dining Sets.esp'
 
 CT-Com's Torch Compendium.esp
 % {{BASH:Actors.AIData}}
@@ -1708,7 +1702,7 @@ dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
-? Old, update to version 1.05+
+? Outdated. Upgrade to v1.05+.
 Diverse Dungeons - Subtle Color v.1.05.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
@@ -1744,14 +1738,14 @@ Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
 Exploding_Arrows_free_ru.esp
 Extended Death Camera.esp
-? Consider using the Wrye Bash Bashed Patch tweak option instead.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 \EndGroup\\
 
 \BeginGroup\: Base F
 
 FantasyPaintings.esp
 Fatality Cam.esp
-? Consider using the Wrye Bash Bashed Patch tweak option instead.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Female Lich.esp
 FileOne.esp
 Fish!.esp
@@ -1779,7 +1773,7 @@ Guardianalcset.esp
 Guide Books.esp
 Guiding Beacons.esp
 GuildOwnership1.2.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 GW71_Soulgems.esp
 % {{BASH:Graphics}}
 \EndGroup\\
@@ -1796,9 +1790,9 @@ HUDI.esp
 
 ImprovedSigns.esp
 Inebriation.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 Inebriation Rus.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 Wasted.esp
 TDDM.esp
 Infinite Charge.esp
@@ -1859,12 +1853,12 @@ Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Life1.2Rusb.esp
 Lock Bash v1.1.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 Lock Bash v99.9.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 ? Newer version is available. Update to v99.91 or later.
 Lock Bash v99.91.esp
-$ Not OOO compatible - already included in OOO.
+$ Not compatible with OOO. Already included in OOO.
 Security Rebalance-Traps and Bash Locks.esp
 Lyn-CitySigns.esp
 Lyn-DarkBrotherhoodAssassins.esp
@@ -1907,7 +1901,7 @@ Moist - Gate Room.esp
 Morrowindbooks.esp
 Morrowind Jewelry.esp
 More_Animals.esp
-? Content already added by MMM.
+" Mart's Monster Mod. Included in MMM.
 more_classes.esp
 More Drinks.esp
 $ Probably not OOO compatible. Untested.
@@ -1930,7 +1924,7 @@ MERP-Bree House Interiors.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
-? Old version, upgrade to version 2+.
+? Outdated. Upgrade to version 2+.
 BetterMusicSystem(SI).esp
 
 Better Beggars.esp
@@ -1999,7 +1993,7 @@ personality_idles3b_nc.esp
 personality_idles4.esp
 Personality Idles 4 - Cleanned version.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated, upgrade to latest version.
+? Outdated. Upgrade to latest version.
 Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
@@ -2061,7 +2055,7 @@ Qarls_Harvest addon.esp
 Qarls_logs.esp
 TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
-? Old, upgrade to V3+
+? Outdated. Upgrade to V3+.
 QQuix - Rock, rock, rock your ship - V3.esp
 
 \EndGroup\\
@@ -2086,27 +2080,27 @@ RealitySpectre'sBetterPotions.esp
 
 RealWalk.esp
 Oblivion Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Oblivion Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Oblivion_SI Rwalk Full.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Oblivion_SI Swalk Full.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Rwalk DG_DS.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Swalk DG_DS.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Better Cities ESM Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Better Cities ESM Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Nude Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 
 Reaper's Auto Equip Bikini.esp
 REBetterLCB.esp
@@ -2200,7 +2194,7 @@ SoT_Holiday.esp
 Soul Gem Discharger.esp
 
 SPARTANVIsDiverseCityGuards05BETA.esp
-? Old, upgrade to SPARTAN VIs Diverse City Guards v1 2.esp.
+? Outdated. Upgrade to 'SPARTAN VIs Diverse City Guards v1 2.esp'.
 SPARTAN VIs Diverse City Guards v1 2.esp
 % {{BASH:Invent}}
 Guard Torches.esp
@@ -2429,13 +2423,13 @@ WAC - Crowded Roads Revisited Fix4v1.0b.esp
 
 travellers-new balance.esp
 travellers a.esp
-? Old, update to 'travellers-new balance.esp'.
+? Outdated. Upgrade to 'travellers-new balance.esp'.
 travellers b.esp
-? Old, update to 'travellers-new balance.esp'.
+? Outdated. Upgrade to 'travellers-new balance.esp'.
 travellers c.esp
-? Old, update to 'travellers-new balance.esp'.
+? Outdated. Upgrade to 'travellers-new balance.esp'.
 travellers d.esp
-? Old, update to 'travellers-new balance.esp'.
+? Outdated. Upgrade to 'travellers-new balance.esp'.
 travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -2481,7 +2475,7 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 ANBToggleGrab.esp
 AutoEquip.esp
 : OBSE (version unknown, use latest to be safe).
-? Contains a dirty edit to the GREETING Dialog Topic, clean with TES4Edit.
+? Contains a dirty edit to the GREETING Dialog Topic. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auto_Recharge.esp
 
 BookTrackerOBSE.esp
@@ -2526,7 +2520,7 @@ Jjiinx_ScrollYesOrNo.esp
 
 KuerteeActorDetails.esp
 kuerteeAutoSaveAndTime.esp
-" Streamline's Streamsave and Cobl's clock.
+" Streamline's Streamsave, Cobl's clock.
 kuerteeCleanUp.esp
 kuerteeSittableRocks.esp
 
@@ -3034,7 +3028,7 @@ Aspiria.esp
 Assassin_Blade.esp
 AssassinBow.esp
 AyleidGlass.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+% {{BASH:Graphics}}
 Ayleid Armor and weapons.esp
 
 ACCCGR SI.esp
@@ -3368,7 +3362,7 @@ DamascusGlamdring.esp
 % {{BASH:Invent}}
 DarkAdventuressBow.esp
 Dark BrotherHood Hood Replacer V1.2.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 DarkBrotherhoodRed.esp
 Dark Crusader Armor.esp
 % {{BASH:Invent}}
@@ -3381,7 +3375,7 @@ DrakeGuardianEquipment.esp
 DaedricCrescentBlade.esp
 Dark Glass Set.esp
 Darkgreen Glass Armour.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 replace_glass.esp
 % {{BASH:Graphics}}
 DarkIllusionArmor.esp
@@ -4091,15 +4085,15 @@ Noviere's Gray Fox Hood.esp
 Oblivions_Edge.esp
 Obsidian Axe.esp
 Obsidian armor.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 Oddbasket Glass Replace NoEnch.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 Oddbasket Glass Replace.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 Oddbasket Glass Replace NoEnch ALT.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 Oddbasket Glass Replace ALT.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (e.g OOO).
+% {{BASH:Graphics}}
 Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
@@ -4133,7 +4127,7 @@ PEDress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
 PinkGlassArmor.esp
-% May need to be tagged {{BASH:Graphics}} when using overhaul mods (eg OOO).
+% {{BASH:Graphics}}
 Piratelords Recharging Enchantments.esp
 pizz_NINJA_outfit.esp
 PJ_armor_set.esp
@@ -4309,10 +4303,10 @@ SilverwareWeapons.esp
 Silverware Weapons - FCOM.esp
 SilverPhoenixArmor.esp
 Sin's Expanded Light Armor Kit [Chest].esp
-$ Not compatible with OOO - armors already included - so deactivate when using OOO.
+$ Not compatible with OOO. Already included in OOO.
 % {{BASH:Invent}}
 Sin's Expanded Light Armor Kit [NPC].esp
-$ Not compatible with OOO - armors already included - so deactivate when using OOO.
+$ Not compatible with OOO. Already included in OOO.
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 Sinblood Collection.esp
@@ -5708,33 +5702,33 @@ OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
 OOO-DLT_Remover.esp
 OOO-Armor_Perks_WearRate_Repair.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Birthsigns.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Combat_Skills_Perks_Marksmanship.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-DaedricLord_Quests.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-DaedraLord_Quests.esp
-? Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Dangerous_traps.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Deadly_Combat.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-DLT_Immersion.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Magic_Effects+Enchantments.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Magic_Effects+Spells.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Magic_Game_Settings.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Potions.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Thief_Guild_Difficult.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-ThiefGuild_Difficult.esp
-$ Not use with FULL version of OOO, included.
+$ Don't use with the FULL version of OOO, already included.
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
 >* Delete. Use newer version of OOO. Included in OOO v1.34 and newer.
@@ -5747,7 +5741,7 @@ OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
 OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
 MrSiikaRabbitsforOOO.esp
-? Do not use with MMMforOOO/FCOM. Already integrated.
+" MMMforOOO/FCOM. Already integrated.
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
@@ -5917,7 +5911,7 @@ Alliria_CRP_CrossOwnership_patch_OOO.esp
 
 ArmamentariumFixes.esp
 ArmamentariumLL.esp
-$ For non-OOO users. Use 'ArmamentariumLL4OOO.esp' if using OOO.
+$ For non-OOO users. Remove this and use 'ArmamentariumLL4OOO.esp'.
 Choices and Consequences - OOO.esp
 C&C&EQR - OOO.esp
 ? Obsolete. Upgrade to latest version.
@@ -5948,7 +5942,7 @@ John's Leveled List Overhaul - Vanilla Complete.esp
 John's Leveled List Overhaul for OOO.esp
 % {{BASH:Delev, Relev}}
 John's Leveled List Overhaul - Bandits in Glass Begone.esp
-? Do not use with OOO/FCOM
+$ Remove this. Do not use with OOO/FCOM.
 John's Leveled List Overhaul - Realm of Amenophis.esp
 John's Leveled List Overhaul - Town Honour Guards.esp
 
@@ -5980,8 +5974,8 @@ DBOO - Harvest[Containers].esp
 \EndGroup\\
 
 Hemingweys NPC Capes for OOO and FCOM.esp
-? If using MMM or FCOM obselete. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
-$ If you are running [u]only[/u] OOO, but not MMM or FCOM, remains useful and does not require Wyre Bash.
+? Obselete if using MMM or FCOM. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
+$ If you are running only OOO, but not MMM or FCOM, remains useful and does not require Wyre Bash.
 
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
@@ -6005,49 +5999,49 @@ The Arsenal - Leveled Lists for OOO.esp
 \BeginGroup\: FranOOOMMM
 \just OLD FILES (didn't even know they were still available but they are on TesN and got reported... so just warn they they are severely outdated.)
 FranOOOMMM_FranItemLists.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 FranOOOMMM_SpawnMerge.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 FranOOOMMM_GuardFix.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 FranOOOMMM_OOOItemLists.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 FranOOOMMM_WarCry_BobsArmory.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 Mart's Monster Mod - Diverse NPC faces nv.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 Mart's Monster Mod for Fran's nvCNPC.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 Mart's Monster Mod for Fran's nvNPC.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 Oscuro's Combat Behavior.esp
-? Obselete, update to FCOM.
+? Obsolete. Remove this and install FCOM.
 \EndGroup\\
 
 >Mart's Monster Mod - Fran's Leveled Quests.esp
 >* Delete. Already integrated into FCOM.
 
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
->? Can increase the chances of a CTD in a heavily modded game.
+>? Can increase the chances of a CTD in a heavily modded game due to increased processor load.
 
 >FCOM_Convergence.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing.
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+>% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
 >FCOM_ConvergenceNoFran.esp
->* Old. Install FCOM version 0.9.9 or later.
+>* Outdated. Install FCOM version 0.9.9 or later.
 >FCOM_OscurosOverhaul.esp
 >? Only use when not using MMM.
 
 >Choices and Consequences - MMM.esp
->? Obsolete. Upgrade to latest version and remove.
+>? Obsolete. Remove this and upgrade to latest version.
 >C&C&EQR - MMM.esp
->? Obsolete. Upgrade to latest version and remove.
+>? Obsolete. Remove this and upgrade to latest version.
 
 >Mart's Monster Mod - Blood Fix v3.esp
->? Not needed in MMM 3.6beta3 integrated.
+>? Not needed in MMM 3.6beta3+. Already integrated.
 >Mart's Monster Mod - Lesser Balrog Fix.esp
 >MMM - UberhulkParalyzeFix.esp
->? Not needed in MMM 3.6beta3 integrated.
+>? Not needed in MMM 3.6beta3+. Already integrated.
 >Mart's Monster Mod - GhostApparitionFix.esp
 \EndGroup\\
 
@@ -6060,7 +6054,7 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing.
 >FCOM_EntropicOrderRebalance.esp
 >FCOM_EntropicOrderHardcore.esp
 >FCOM_RealSwords.esp
-% {{BASH:Delev, Relev}}
+>% {{BASH:Delev, Relev}}
 
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
@@ -6068,13 +6062,13 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing.
 
 >FCOM_SpawnRatesReduced.esp
 % {{BASH:Delev, Relev}}
->? Use only one: Reduced, SlightlyReduced or Stronger.
+>? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
 >FCOM_SpawnRatesSlightlyReduced.esp
 % {{BASH:Delev, Relev}}
->? Use only one: Reduced, SlightlyReduced or Stronger.
+>? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
 >FCOM_SpawnRatesStronger.esp
 % {{BASH:Delev, Relev}}
->? Use only one: Reduced, SlightlyReduced or Stronger.
+>? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
 
 FCOM_MoreWildernessLife.esp
@@ -6087,12 +6081,12 @@ FCOM_MoreWildernessLife.esp
 >? Not recommended, has bugs
 
 >Mart's Monster Mod - Safer Roads.esp
-? Nod need for Mart's Monster Mod - Spawn Rates - Reduced.esp included
-? Nod need for Mart's Monster Mod - Spawn Rates Reduced Reduced.esp included
-? Nod need for Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp included
+>? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced.esp', already included.
+>? Remove if using 'Mart's Monster Mod - Spawn Rates Reduced Reduced.esp', already included.
+>? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp', already included.
 >* Delete and use the 'FCOM_SaferRoads.esp'.
 >FCOM_SaferRoads.esp
-% {{BASH:Delev, Relev}}
+>% {{BASH:Delev, Relev}}
 >Mart's Monster Mod - Less Rats.esp
 >* Delete and use 'FCOM_LessRats.esp'.
 >FCOM_LessRats.esp
@@ -6109,12 +6103,12 @@ FCOM_MoreWildernessLife.esp
 >Mart's Monster Mod for OOO - NoReaversInGates.esp
 >* Delete. Use 'FCOM_NoReaversInGates.esp' instead.
 >FCOM_NoReaversInGates.esp
->? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
+>? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
 >FCOM_NoAdventurersInGates.esp
 >Mart's Monster Mod for OOO - LessReaversInGates.esp
 >* Delete. Use FCOM_LessReaversInGates instead.
 >FCOM_LessReaversInGates.esp
->? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both, for obvious reason.
+>? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
 
 >CurseOfHircine.esp
 \EndGroup\\
@@ -6182,12 +6176,12 @@ FCOM_MoreWildernessLife.esp
 >Mart's Monster Mod - More Reaver Variants.esp
 >Mart's Monster Mod - Gems & Gem Dust.esp
 >Gems and Gem Dusts - MMM.esp
->? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
+>? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
 >% {{BASH:Invent, Scripts, Stats}}
 Fletching Compilation.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
->* Delete. Already integrated into FCOM and no longer used by MMM 3.7 or later.
+>* Obsolete. Remove this and upgrade to MMM 3.7+ and associated version of FCOM.
 >Mart's Monster Mod - Farm Animals.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
 >Mart's Monster Mod - Diverse WaterLife.esp
@@ -6209,44 +6203,43 @@ Mart's Monster Mod.esp
 Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-<Mart's Monster Mod for Francescos.esp
-<* Older Version Consider Upgrading
-<% {{BASH:Invent, Relations, Delev, Factions, Graphics, Relev, Scripts}}
+Mart's Monster Mod for Francescos.esp
+% {{BASH:Invent, Relations, Delev, Factions, Graphics, Relev, Scripts}}
 >* Delete. Not needed with FCOM.
-<Mart's Monster Mod TNR Faces.esp
+Mart's Monster Mod TNR Faces.esp
 % {{BASH:NpcFaces, NoMerge}}
-<Mart's Monster Mod COBL Races TNR.esp
+Mart's Monster Mod COBL Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Do not use with COBL Races TNR at same time
-<Mart's Monster Mod - COBL Races TNR.esp
+" COBL Races TNR.
+Mart's Monster Mod - COBL Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Do not use with COBL Races TNR at same time
+" COBL Races TNR.
 Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-<Mart's Monster Mod for OOO TNR Faces.esp
+Mart's Monster Mod for OOO TNR Faces.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Do not use with COBL Races TNR at same time
-<Mart's Monster Mod for OOO COBL Races TNR.esp
+" COBL Races TNR.
+Mart's Monster Mod for OOO COBL Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Do not use with COBL Races TNR at same time
-<Mart's Monster Mod for OOO - COBL Races TNR.esp
+" COBL Races TNR.
+Mart's Monster Mod for OOO - COBL Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
-? Do not use with COBL Races TNR at same time
+" COBL Races TNR.
 <Mart's Monster Mod - Shivering Isles.esp
-% {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+<% {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
 
 <Choices and Consequences - MMM.esp
-<? Obsolete. Upgrade to latest version and remove.
+<? Obsolete. Remove this and upgrade to latest version.
 <C&C&EQR - MMM.esp
-<? Obsolete. Upgrade to latest version and remove.
+<? Obsolete. Remove this and upgrade to latest version.
 <CurseOfHircine.esp
 CoH Werewolves Clothed.esp
 CoH Werewolves Mixed.esp
 CoH Spawn Rates Increased.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
-<? Old version. Not needed in MMM 3.6beta3 integrated or later.
+<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
 <Mart's Monster Mod - Lesser Balrog Fix.esp
 <MMM - UberhulkParalyzeFix.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
@@ -6257,19 +6250,19 @@ CoH Spawn Rates Increased.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
 <% {{BASH:Delev, Relev}}
 <Mart's Monster Mod - More Reavers.esp
-<? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
+<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
 <Mart's Monster Mod - Extra Reavers.esp
-<? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3.
+<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
 
 <Mart's Monster Mod - Diverse Imperial Armor.esp
-<$ Don't use if using OOO. Integrated into OOO.
+<$ Not compatible with OOO. Already included in OOO.
 <Mart's Monster Mod - Diverse Creature Skins.esp
-<$ Don't use if using OOO. Integrated into MMM for OOO.
-<? Old version. Consider using 3.7 or later.
+<$ Not compatible with OOO. Already included in OOO.
+<? Outdated. Upgrade to MMM 3.7+.
 <Mart's Monster Mod - More Reaver Variants.esp
-<? As from v3.6, integrated into of Additional Enemy NPC Vars. Remove if using 3.6beta3 or higher.
+<? Obsolete. Integrated into 'Mart's Monster Mod - Additional Enemy NPC Vars.esp'. Remove this and upgrade to MMM v3.6beta3+.
 <Mart's Monster Mod - Gems & Gem Dust.esp
-<? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO. Should be fixed in future versions of OOO.
+<? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO.
 <Gems and Gem Dusts - MMM.esp
 MALO - Clutter Replacer MMM - GEM.esp
 MALO - Loot Tweaks MMM - GEM.esp
@@ -6285,19 +6278,19 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Less Rats.esp
 <Mart's Monster Mod - Less Reavers.esp
 <Mart's Monster Mod - LessReaversInGates.esp
-<$ Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' if using OOO.
+<$ Use 'Mart's Monster Mod for OOO - LessReaversInGates.esp' instead.
 <Mart's Monster Mod for OOO - LessReaversInGates.esp
 <Mart's Monster Mod - Safer Roads.esp
-? Nod need for Mart's Monster Mod - Spawn Rates - Reduced.esp included
-? Nod need for Mart's Monster Mod - Spawn Rates Reduced Reduced.esp included
-? Nod need for Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp included
+<? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced.esp', already included.
+<? Remove if using 'Mart's Monster Mod - Spawn Rates Reduced Reduced.esp', already included.
+<? Remove if using 'Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp', already included.
 <Mart's Monster Mod - No Swarms.esp
 <Mart's Monster Mod - No Reavers.esp
 <Mart's Monster Mod - NoReaversInGates.esp
-<$ Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' if using OOO.
+<$ Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' instead.
 <Mart's Monster Mod for OOO - NoReaversInGates.esp
 <Mart's Monster Mod - No Reaver Hounds.esp
-<? Older version. Update to 3.6beta3 or later.
+<? Outdated. Upgrade to MMM 3.6beta3+.
 <Mart's Monster Mod - No Carrion Rats.esp
 <Mart's Monster Mod - No Blood.esp
 <Mart's Monster Mod - No Bone Loot.esp
@@ -6323,29 +6316,29 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Spawn Rates Moderate.esp
 <Mart's Monster Mod - Spawn Rates - Reduced.esp
 <Mart's Monster Mod - Spawn Rates Reduced Reduced.esp
-<? Older version. Update to 3.6beta3 or later.
+<? Outdated. Upgrade to MMM 3.6beta3+.
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
 <Mart's Monster Mod - Vindasel.esp
-<? obselete - upgrade to 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+<? Obsolete. Remove this and upgrade to 3.7b3+. Use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 <Mart's Monster Mod - Safer Quest Locations.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
-<? Old MMM file. Update MMM to 3.6beta3 or later and use 'Dungeons of MMM.esp' instead.
+<? Obsolete. Remove this and upgrade to 3.6beta3+. Use 'Dungeons of MMM.esp' instead.
 <Mart's Monster Mod - Dungeons of MMM.esp
 <Mart's Monster Mod - More Wilderness Life.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Wilderness Life No Gates.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Passive Wildlife.esp
-<? Not recommended, has bugs
+<? Not recommended, has bugs.
 <Mart's Monster Mod - City Defences.esp
 <^ Incompatible with BC - City Defences.
 <Mart's Monster Mod - Curse of Hircine.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
-<? obselete upgrade to 3.7b3+ and use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
+<? Obsolete. Remove this and upgrade to 3.7b3+. Use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
 <Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
@@ -6363,9 +6356,9 @@ MrSiika'sFarmAnimals.esp
 FarmAnimalsofCyrodiil.esp
 ? MMM users should use 'Mart's Monster Mod - Farm Animals'.
 MrSiikasBats.esp
-" MMM
+" MMM.
 OblivionDurzogs.esp
-" MMM
+" MMM.
 Diverse Wisps - for Vanilla.esp
 ? MMM users should use 'Mart's Monster Mod - Diverse Wisps.esp'.
 VASE - Vanilla Cyrodiil.esp
@@ -6373,33 +6366,33 @@ VASE - Vanilla Cyrodiil.esp
 VASE - Vanilla SI.esp
 
 Mart's Monster Mod - Boar's Addon.esp
-? Old, upgrade to MMM 3.7b3+
+? Outdated. Upgrade to MMM 3.7b3+.
 Mart's Monster Mod - Hairy Spiders Addon.esp
-? Old, upgrade to MMM 3.7b3+
+? Outdated. Upgrade to MMM 3.7b3+.
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH:Actors.AIPackages, Graphics, Scripts}}
-" Slof's Horses or Slof's Extra Horses or use Wrye Bash Bashed Patch
+" Slof's Horses, Slof's Extra Horses if not using a Bashed Patch. 
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
-" MMM Gems & Gem Dust or MMMforOOO
+" MMM Gems & Gem Dust or MMMforOOO.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot.esp
-" MMM Gems & Gem Dust or MMMforOOO
+" MMM Gems & Gem Dust or MMMforOOO.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
-: MMM and MMM Gems & Gem Dust
+: MMM and MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
-: MMM and MMM Gems & Gem Dust
+: MMM and MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
-: OOO.esm
+: Oscuro's Oblivion Overhaul.
 : MMMforOOO or FCOM.
 " MMM Gems & Gem Dust.
 % {{BASH:Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
-: OOO.esm
+: Oscuro's Oblivion Overhaul.
 : MMMforOOO or FCOM.
 " MMM Gems & Gem Dust.
 % {{BASH:Delev}}
@@ -6412,7 +6405,7 @@ OMOBS_MMM_H&C_Ammo.esp
 SubSpecies Variety Pack.esp
 SubSpecies Variety Pack #1 - Canines (full version).esp
 Spiders Addon.esp
-? Outdated, upgrade to MMM 3.7b1+, included in main MMM file.
+? Obsolete. Remove this and upgrade to MMM 3.7b1+.
 
 FaunaOfTamriel.esp
 Creatures Alive v1.3.esp
@@ -6433,7 +6426,7 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 : 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
-? Obsolete. Upgrade to latest version and remove.
+? Obsolete. Remove this and upgrade to latest version.
 \EndGroup\\
 
 \BeginGroup\: OWC New Dimensions

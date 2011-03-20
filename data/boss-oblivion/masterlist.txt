@@ -298,36 +298,34 @@ Essential_Merchants.esp
 % {{BASH:Actors.ACBS, NoMerge}}
 
 HrmnsOblivionScriptOptimizationv1.0.esp
-? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake.
-? A fixed edition (for Shivering Isles ONLY! is avaliable here: "http://tinyurl.com/kmgaxd"
+? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake. A fixed edition (for Shivering Isles ONLY! is avaliable here: "http://tinyurl.com/kmgaxd"
 \This really does need to load this early.
 HrmnsOblivionScriptOptimizationv SI 1.0.esp
 
 Skillbookssave.esp
 % {{BASH:Scripts}}
-? If not using Wrye Bash load this later (though then it will override somethings)
+? If not using Wrye Bash load this later (though then it will override some things).
 OBSE Save Skill Books For Later DV.esp
 % {{BASH:Scripts}}
-? If not using Wrye Bash load this later (though then it will override somethings)
+? If not using Wrye Bash load this later (though then it will override some things).
 DBBAM.esp
 Book Jackets Oblivion - SSBFL.esp
-? don't use togeter with 'Save Skill Books for Later' as this version includes it.
+" 'Save Skill Books for Later' - included in this plugin.
 % {{BASH:Graphics, Scripts}}
-? If not using Wrye Bash load this later (though then it will override somethings)
+? If not using Wrye Bash load this later (though then it will override some things).
 Book Jackets Oblivion - BP - SSBFL.esp
-? don't use togeter with 'Save Skill Books for Later' or 'Book Placement' as this version includes it.
+" 'Save Skill Books for Later' and 'Book Placement' - included in this plugin.
 % {{BASH:Graphics, Scripts}}
-? If not using Wrye Bash load this later (though then it will override somethings)
+? If not using Wrye Bash load this later (though then it will override some things).
 bookplacing.esp
 LightningReduced.esp
-
 Oblivion Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SoVvM Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Oblivion_SI Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 TRoN.esp
 TRoN 0-59-1b Vwalk.esp
@@ -392,7 +390,7 @@ TNR - ALL RACES FINAL DV.esp
 TNR ALL RACES FINAL Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TNR - All Races for OOO.esp
-? Use this instead TNR ALL RACES esps for OOO
+? Use this instead TNR ALL RACES esps for OOO.
 ? Not need if use Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
 TNR - ShiveringIsles.esp
@@ -582,7 +580,7 @@ AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
 % {{BASH:Invent, Relations}} needed so that it will work before UOP and still have the inventory changes from this.
 Self-Preservation v1.0.esp
-? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits
+? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits.
 % {{BASH:Scripts}}
 Traduccion Mejorada Oblivion Clan DLAN.esp
 % {{BASH:Names}} or without Bash load it later.
@@ -647,32 +645,30 @@ Oblivion_Deutsch_v5_0.esp
 \---------------
 
 DLCShiveringIsles.esp
-? For russian version GOTY please move this esp before Unofficial Oblivion Patch.esp (for UOP quest fixes)
+? For russian version GOTY please move this esp before Unofficial Oblivion Patch.esp (for UOP quest fixes).
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
 Unofficial Shivering Isles Patch.esp
-? Remember to use the 'MOBS' version when using Francesco's and FCOM.
-? Newest MOBS and non-MOBS versions have the same name.
-? Alternatively, consider using the standalone MOBS/OMOBS mods together with the non-MOBS patch.
+? When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial Shivering Isles Patch 10MOBS.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial Shivering Isles Patch MOBS.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial_Shivering_Isles_Patch_MOBS.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial Shivering Isles Patch-MOBS.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
-? Check for newer version. Needs to be renamed 'Unofficial Shivering Isles Patch.esp' for sound fixes to work.
+? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 S.I.C.A.F.U.I.S.v1.2.esp
 % {{BASH:Actors.Stats, Invent, Stats}}
 SM Plugin Refurbish - SI.esp
@@ -691,7 +687,7 @@ DLCShiveringIsles Vwalk DG_DS.esp
 
 MOBS.esp
 % {{BASH:NoMerge, Stats}}
-? Not need if you use MOBS SI.esp
+? Not needed if you use MOBS SI.esp
 MOBS SI.esp
 % {{BASH:NoMerge, Stats}}
 MOBS Optional Combat Settings.esp
@@ -985,6 +981,7 @@ EW_WeatherOrb.esp
 : Enhanced Weather.
 EnhancedWeather - Enhanced Seasons.esp
 : ScreenEffects.
+? Obsolete. Upgrade to the latest version of Enhanced Weather and install the standalone version of Enhanced Seasons.
 EnhancedWeather - SI.esp
 ? Outdated. Upgrade to the latest version of Enhanced Weather.
 EnhancedWeatherSIOnly.esp
@@ -1045,7 +1042,7 @@ Natural Interiors - Windows to the World.esp
 NI-Fullcity-Anvilhome.esp
 
 NoOblivionWeatherOutside.esp
-" All Natural
+" All Natural.
 
 no_wind-2578.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -1103,31 +1100,6 @@ Enviroment.esp
 Real Water.esp
 realWaters.esp
 Wavy_Water.esp
-
-Better Lava by elveon.esp
-Better Lava (by elveon).esp
-Cooled_Lava.esp
-Deadly_Lava.esp
-Improved Lava.esp
-KoldornsImprovedLava.esp
-KoldornsImprovedLava2.esp
-Real Lava.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}}
-Real Lava v1.1.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}}
-Real Lava 1.2.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}}
-Real Lava v1.2.esp
-? Update to 1.3 or later.
-% {{BASH:Graphics}}
-Real Lava 1.3.esp
-% {{BASH:Graphics}}
-Templars Lava Replacer v1.0.esp
-Visually Realistic Deadly Lava.esp
-Visually Realistic Lava.esp
 
 \EndGroup\\
 
@@ -11290,6 +11262,27 @@ LCs Auto Harvest.esp
 Diseased Corpses.esp
 ? If using HC decide which you want to have priority and move that one after the other (needs compatibility patch that is not currently available)
 % {{BASH:Scripts}}
+
+\Lava mods loading here because a dirty edit in DLCFrostcrag.esp causes their changes to be overwritten if loaded with water mods.
+Better Lava by elveon.esp
+Better Lava (by elveon).esp
+Cooled_Lava.esp
+Deadly_Lava.esp
+Improved Lava.esp
+KoldornsImprovedLava.esp
+KoldornsImprovedLava2.esp
+Real Lava.esp
+? Update to 1.3 or later.
+Real Lava v1.1.esp
+? Update to 1.3 or later.
+Real Lava 1.2.esp
+? Update to 1.3 or later.
+Real Lava v1.2.esp
+? Update to 1.3 or later.
+Real Lava 1.3.esp
+Templars Lava Replacer v1.0.esp
+Visually Realistic Deadly Lava.esp
+Visually Realistic Lava.esp
 \EndGroup\\
 
 \BeginGroup\: overrides #
@@ -12111,7 +12104,7 @@ Respawning Ore Veins.esp
 Repair_Anytime-9384.esp
 real_tools.esp
 % {{BASH:Scripts}}
-? Very dirty - Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile all command'.
+? Very dirty - Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile All' command.
 Realistic Creature Rarity.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 RareItemsv1.18 for RCR.esp

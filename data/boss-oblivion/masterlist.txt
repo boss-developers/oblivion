@@ -15,8 +15,8 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-//Masterlist variable setup. For BOSS v1.7+.
-//Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
+\Masterlist variable setup. For BOSS v1.7+.
+\Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
 IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
 IF ("Better Cities Resources.esm") SET: BC
 IF ("FCOM_Convergence.esm") SET: FCOM
@@ -493,6 +493,7 @@ Handsome_Gents_Revised_SI.esp
 % {{BASH:NpcFaces, NoMerge}}
 emperorface.esp
 % {{BASH:NpcFaces, NoMerge}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Absolutely_Sexy_MarketDistrict.esp
 % {{BASH:NpcFaces, Invent, NoMerge}}
 YoungerNPCs.esp
@@ -788,6 +789,7 @@ MrSiikaRabbits.esp
 
 >Francesco's Optional Chance of Stronger Bosses.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
+>? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >Francesco's Optional Chance of More Enemies.esp
 >Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
@@ -1130,10 +1132,12 @@ Louder Nirns.esp
 % {{BASH:Sound}}
 Symphony of Violence.esp
 Echo_ChapelChant.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AmbientTownSounds.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ambient Inns, 0.1.esp
 MIS.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 More Immersive Sounds.esp
 More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
@@ -1883,6 +1887,7 @@ Luchaire's Neck Seam Concealer.esp
 skinfix.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ls Rentable Player Homes.esp
 \EndGroup\\
 
@@ -1960,6 +1965,7 @@ My Voice Extender.esp
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New Potions.esp
 % {{BASH:Graphics, NoMerge}}
 Never die.esp
@@ -2341,6 +2347,7 @@ Living Economy - SI.esp
 SI Living Economy.esp
 ? Outdated. Upgrade to latest version.
 Living Economy - Items.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cutthroat Merchants.esp
 Cyrodiil Economic Overhaul.esp
 
@@ -2362,6 +2369,7 @@ moDem's City Life - BP Compat Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 moDem's City Life Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -2458,6 +2466,7 @@ Populated Prisons.esp
 PCTM.esp
 
 Immersive Travelers.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
@@ -2636,6 +2645,7 @@ BeyondCyrodiilMarkers.esp
 Guild Map Markers.esp
 HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 JQ-PortableSigns.esp
 MapMarkers.esp
 MapMarkers_1C.esp
@@ -2700,6 +2710,7 @@ YetAnotherHotkeyMod.esp
 
 DLCHorseArmor.esp
 % {{BASH:Scripts}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCHorseArmor - Unofficial Patch.esp
 % {{BASH:C.Owner}}
 Marts Monster Mod - DLCHorseArmor+Slof.esp
@@ -2714,6 +2725,7 @@ Correctif HorseArmor.esp
 Correctif HorseArmor RP.esp
 DLCOrrery.esp
 % {{BASH:Actors.AIPackages}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCOrrery - Unofficial Patch.esp
 Correctif Orrery.esp
 Correctif Orrery RP.esp
@@ -2732,6 +2744,7 @@ NLF Orrery.esp
 Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCVileLair - Unofficial Patch.esp
 % {{BASH:Graphics}}
 Correctif VileLair.esp
@@ -2744,6 +2757,7 @@ Lair_mobs.esp
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCMehrunesRazor - Unofficial Patch.esp
 % {{BASH:Delev, Invent, Relev}}
 LightningReduced - Razor.esp
@@ -2773,6 +2787,7 @@ SM Plugin Refurbish - MehrunesRazor.esp
 
 DLCSpellTomes.esp
 % {{BASH:Relev}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCSpellTomes - Unofficial Patch.esp
 " 'CDM-CGO Compatibility plugins'.
 Correctif SpellTomes.esp
@@ -2985,6 +3000,7 @@ Armure du Seigneur Noir.esp
 ArynnsDemonatrixHGEC.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Female Assassins Creed - Altair's Gear - EV.esp
 Female Assassins Creed - Altair's Gear - DV.esp
 AC2-Revisited_DV.esp
@@ -3401,6 +3417,7 @@ Dark Katana.esp
 % {{BASH:Invent}}
 DarkLeatherArmor.esp
 % {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dark Mithril Armour.esp
 % {{BASH:Invent}}
 DarkMonkRobe.esp
@@ -3853,6 +3870,7 @@ Kill_Bill_Katanas.esp
 kitsune.esp
 Knight of Order Armor.esp
 Knight of Skeleton.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kodachi Swords.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
@@ -3976,6 +3994,7 @@ MODRoadRogue.esp
 moon.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MotherSword.esp
 LACR_MoonshadowBlade_V1.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
@@ -4040,6 +4059,7 @@ Neck Seam Concealers Expanded.esp
 NecroArmour.esp
 NemakkiArrows_1C.esp
 New Frostmourne Sword by Jojjo v1_0.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New_Frostmourne_Sword_by_Jojjo_v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp
@@ -5385,6 +5405,7 @@ Essential Unicorn-TESSource.esp
 Imperial Horse Armor.esp
 Mounted_Steering.esp
 Mounted_Spellcasting.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mounted_Trampling.esp
 HorseCommands.esp
 HorseCommandsv2.esp
@@ -5402,6 +5423,7 @@ Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
 MD Saddlebags V3.0.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MD_Saddlebag_Accessories.esp
 Call Steed 2.5+Saddlebags 0.91.esp
 CallSteed3.0a.esp
@@ -5503,6 +5525,7 @@ Ranokoas Organized Potions.esp
 
 DLCThievesDen.esp
 % {{BASH:C.Name, C.Light, Actors.ACBS, Actors.AIPackages, Actors.Stats}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCThievesDen - Unofficial Patch.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.Stats, C.Light, C.Music, C.Name, Delev, Relev}}
 Correctif ThievesDen.esp
@@ -5549,6 +5572,7 @@ Francesco's More Wilderness Life.esp
 >* Delete. Not compatible with FCOM.
 <Francesco's Optional Chance of Stronger Bosses.esp
 <Francesco's Optional Chance of Stronger Enemies.esp
+<? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional Dungeon Chest Loot.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Dungeon Chest Locks.esp
@@ -6003,6 +6027,7 @@ $ If you are running only OOO, but not MMM or FCOM, keep this installed.
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 MALO - Clutter Replacer.esp
 MALO - Vendor Additions.esp
@@ -7004,6 +7029,7 @@ OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
 % {{BASH:Factions}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
@@ -7028,6 +7054,7 @@ Quelldorf ohne Schiff1.5.esp
 AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
 >: FCOM_KvatchAftermath.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FCOM_KvatchAftermath.esp
 : KvatchAftermath.esp
 County Kvatch version 5.2.esp
@@ -7037,6 +7064,7 @@ Halcyon Island.esp
 Halcyon Island_LowConflict.esp
 ? Rename to Halcyon Island.esp if using the file 'Better Cities - Halcyon Island.esp'.
 KnightlyArmory.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LE_GrowPlants.esp
 TreeHomeKielanai.esp
 TreeHomeKnIntLight.esp
@@ -7086,6 +7114,7 @@ EM_CompInnsleeping.esp
 
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7837,7 +7866,8 @@ DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
-? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
+? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes' Lost Coast.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (DC) Sutch Reborn Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Sutch Reborn Spawn Patch.esp
@@ -7910,6 +7940,7 @@ DSPirateIsleBeta.esp
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -8077,6 +8108,7 @@ GDSkingradCathedral.esp
 GGShivOBSEv1_1.esp
 Gianna.esp
 Gift of Kynareth.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gift of Kynareth_delayer.esp
 ? Old Version.
 Gift of Kynareth v2.1 Delayer.esp
@@ -8103,10 +8135,11 @@ GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 green market district.esp
 GTAesgaard.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
-? Deprecated. Update to latest Gates To Aesgaard Episode 1 and remove this patch.
+? Obsolete. Remove this and upgrade to the latest version of Gates To Aesgaard Episode 1.
 GTAesgaard_2.esp
 GtArus.esp
 GTAesgaard I v1.2 Delayer.esp
@@ -8137,6 +8170,7 @@ Gypsy Wagon.esp
 
 hallofthemountainking.esp
 hackdirtabyss.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"Harvest [Flora] - DLCFrostcrag.esp
 Halcyon House.esp
 Halcyon House - AN Patch.esp
 Halls of Fortitude.esp
@@ -8160,10 +8194,11 @@ HauntedHouse v1.4.esp
 ? Version 1.5 is available.
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Haunted_House_v1.5 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 HauntedLairMod.esp
-? Has the 'recompile all scripts' bug - cleaning with Tes4Edit or Wrye Bash highly recomended.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Haven of the Mad.esp
 HazadirsArms.esp
 HauntedHouse.esp
@@ -8215,6 +8250,7 @@ HanstHolm village.esp
 HeartlandFarm.esp
 HeartofDarkness.esp
 Heroes of Cyrodiil.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
@@ -8255,76 +8291,112 @@ IC Market District  malachi delacot.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Talos Plaza.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Elven Gardens.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Green Emperor Way.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Prison.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Arena.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Waterfront.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Temple.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - The Arcane University.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - The Arcane University Towers Visible From Outside.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Market.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Arboretum.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - All the Districts - Let The People Drink Compatible Version - Merged - Lightless.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - All the Districts Visible From Cyrodiil.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Green Emperor Way - Tombless Version.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arboretum.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Arena.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Let The People Drink Compatible Version - Talos Plaza.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Arboretum.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Arena.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Elven Gardens.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Green Emperor Way.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arboretum.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Arena.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - Talos Plaza.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Market.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Prison.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Talos Plaza.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Temple.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - The Arcane University.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Waterfront.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
 " Better Cities.
 ImpeREAL Empire - Unique Castles - Anvil.esp
@@ -8460,6 +8532,7 @@ Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 
 Kragenir's Death Quest.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kragenir's Death Quest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
@@ -8485,6 +8558,7 @@ Burning Kvatch.esp
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
@@ -8518,6 +8592,7 @@ EiAmod.esp
 : 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
 : 'EtInArkay-CheydinhalFalls patch.esp' if using UL Cheydinhal Falls
 : 'EtInArkay-AspenWood patch.esp' if using UL Aspen Wood
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
@@ -8582,16 +8657,21 @@ bladesfactionmod.esp
 OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GlenvarCastle Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SYS Patch Glenvar Castle.esp
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly-Cobl.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KragenirsDeathQuest-LetThePeopleDrink patch.esp
 
 Leyawiin Castle & Guilds Upgrade.esp
@@ -8624,6 +8704,7 @@ Lorekeep.esp
 Lost Chapel.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
@@ -8719,6 +8800,7 @@ mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 
 Malevolent.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Malevolent Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 OCC-Malevolent-Patch.esp
@@ -8783,6 +8865,7 @@ Naughty_Joana_01_rus.esp
 Naughty_Joana_01 Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Nanaelas Heartbreak.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 nazarianlibraryV3beta.esp
 NecroHideOut.esp
 NecromancerHunting.esp
@@ -8799,10 +8882,12 @@ NewSheothManor.esp
 NNICTunnel.esp
 
 Nascosto Isles 3.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 All Natural - Nascosto Isles Weather Patch.esp
 
 NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
 NewMGQuests.esp
 % {{BASH:Actors.AIPackages}}
@@ -9799,6 +9884,7 @@ fpsboost-arenanolights.esp
 \-----
 
 DLCBattlehornCastle.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
@@ -9833,6 +9919,7 @@ Lynges_Thieves_Highway.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges_Thieves_Highway-10256.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thieves Highway.esp
 ? Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway.esp
@@ -9847,6 +9934,7 @@ Lynges Thieves Highway - OOO.esp
 
 DLCFrostcrag.esp
 % {{BASH:C.Name, C.Owner, Factions}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 Kvatch Rebuilt_Frostcrag Reborn.esp
@@ -9920,6 +10008,7 @@ Ulrim's Horses - Vanilla.esp
 
 Knights.esp
 % {{BASH:Actors.AIPackages, Factions}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Knights - Book Jackets.esp
 % {{BASH:Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -10122,6 +10211,7 @@ GuardsofCyrodiilRedux - RRLRpatch.esp
 Mighty Umbra.esp
 % {{BASH:Graphics, Stats}}
 ? FCOM users might consider 'FCOM_MightyUmbra.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mighty Umbra - Vanilla OB.esp
 KORE- Blood Drinker Umbra.esp
 
@@ -10140,19 +10230,23 @@ Blood&Mud Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 Lost Paladins of the Divines.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Origin of the Mages Guild.esp
 % {{BASH:Actors.AIPackages}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Mystery of the Dulan cult.esp
 >: 'FCOM_DulanCult.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TheNecromancer.esp
 $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -10176,9 +10270,11 @@ LanternMonastery.esp
 FiveLanterns-HoarfrostCastle patch.esp
 
 MannimarcoComplete.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MannimarcoComplete - ICS Patch.esp
 Mannimarco_resurrection.esp
 MannimarcoRevisited.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
 % {{BASH:NpcFaces}}
@@ -10266,6 +10362,7 @@ _LPDaedricWAR.esp
 : EDI is almost certainly incompatible.
 Enhanced Daedric Invasion.esp
 >: 'FCOM_EnhancedDaedricInvasion.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 RoS_Enhanced Daedric Invasion Compatability.esp
 Enhanced Daedric Invasion for FCOM.esp
@@ -10807,6 +10904,8 @@ Brena River Ravine Daedric Shrine Ruins Patch.esp
 Gaelendryll-BrenaRiver patch.esp
 Gaelendryll - UL Brena River - Daedric Shrine Patch.esp
 NakedNord.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also requires manual cleaning, 1 wild edit.
 
 xulImperialIsle.esp
 Unique Landscapes - Imperial Isle DV.esp
@@ -11023,6 +11122,7 @@ JADDockTunnel.esp
 ? Probably not compatible with Better Cities.
 Moriarcis.esp
 % {{BASH:Hair}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Moriarcis_TheNecromancer Patch.esp
 TheNecromancer-Moriarcis patch.esp
 
@@ -11301,9 +11401,11 @@ Harvest [Flora].esp
 ? Make sure you have v3.0.1 or later, which removes a CTD bug with the Harrada root.
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
@@ -11748,6 +11850,7 @@ Fewer Foes.ESP
 Finite Ammo.esp
 First Person Messages.esp
 $ Not compatible with OOO. Already included in OOO.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 2nd to 1st person.esp
 $ Not compatible with OOO. Already included in OOO.
 
@@ -13287,6 +13390,8 @@ Healers.esp
 hilarity_121.esp
 hunters_performance.esp
 IllusionaryScript.esp
+Illusionary Summons.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp
 JADPolymorphSpellv3.esp
@@ -13544,6 +13649,7 @@ Diverse Effect Icons for SM.esp
 
 MidasSpells.esp
 % {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
@@ -13960,6 +14066,7 @@ Lem - Bounty Reduction Over Gametime.esp
 No psychic guards v1.1.esp
 ? Update to 1.2 or later unless v1.1 voice distance settings (different between versions) are important.
 No psychic guards v1.2.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoPsychicGuards Harder_1C.esp
 No psychic guards harder v1.2.esp
 No psychic guards harder fix.esp
@@ -14190,6 +14297,7 @@ Deadly Reflex 5 - Combat Moves.esp
 ? See "http://omploader.org/vMmJlbA/DRtestfix.zip" for a hotfix for CTD issues.
 DeadlyReflex 5 - Combat Moves.esp
 ? See "http://omploader.org/vMmJlbA/DRtestfix.zip" for a hotfix for CTD issues.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Deadly Reflex 6 - Timed Block with no damage or durability changes.esp
 ? Use no more than one Timed Block plugin.
@@ -14249,6 +14357,7 @@ Duke Patricks - Actors Can Miss Now.esp
 ? Causes CTD with companions. Use 'Duke Patricks - Friendship Ring For Companion Detection' to avoid this.
 
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Duke Patrick's Zombie Flied 4p1.esp
 ? Obsolete. Remove this and install Duke Patrick's Combat Geometry.
@@ -14477,14 +14586,17 @@ seorin's Leveling System - light.esp
 
 Legendary Abilities-Shield MOJ.esp
 ? Use only one 'Legendary Abilities' mod module.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legendary Abilities-Fortify Health MOJ.esp
 ? Use only one 'Legendary Abilities' mod module.
 Legendary Abilities-Reflect MOJ.esp
 ? Use only one 'Legendary Abilities' mod module.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Nanite's Legendary Alchemy.esp
 Grandmaster of Alchemy.esp
 % {{BASH:Factions}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 sr_staff_skill.esp
 J3X's Staff Bashing Mod.esp
 
@@ -15350,6 +15462,7 @@ Wolven Anthros.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 eyja.esp
 % {{BASH:C.Water}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Assassins Creed - Altair's Gear.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
@@ -15892,6 +16005,7 @@ DM_LucienCompanion.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
 % {{BASH:Hair, Eyes}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eluna.esp
 % {{BASH:Hair, Eyes}}
 DAAragorn.esp

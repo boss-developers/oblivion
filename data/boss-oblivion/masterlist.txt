@@ -439,6 +439,7 @@ Younger  Women's_1C Gold.esp
 % {{BASH:NpcFaces, NoMerge}}
 Beautiful_Women_NiceOnly.esp
 % {{BASH:NpcFaces, NoMerge}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Beautiful_Women_DB_Addon.esp
 % {{BASH:NpcFaces, NoMerge}}
 Beautiful_Women_SI.esp
@@ -534,6 +535,9 @@ Black Screen Fix.esp
 BlackScreenToggleFix.esp
 
 Allies for Bruma Fix.esp
+Arcana Restored.esp
+? Obsolete. Remove this and use the latest version of the UOP instead.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Erthor_Fix-2593.esp
 ? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
@@ -1127,6 +1131,7 @@ Louder Nirns.esp
 Symphony of Violence.esp
 Echo_ChapelChant.esp
 AmbientTownSounds.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ambient Inns, 0.1.esp
 MIS.esp
 More Immersive Sounds.esp
@@ -1137,6 +1142,7 @@ MIS New Sounds Optional Part.esp
 % {{BASH:Scripts}}
 Atmospheric Oblivion.esp
 % {{BASH:Scripts}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
 Side's EAX Control.esp
@@ -1357,6 +1363,7 @@ AmbientDungeons.esp
 300_Lore Dialogue.esp
 ? May have a problem with Storms and Sounds.
 300_Lore_Dialogue_Updated.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Do NOT use with 300_Lore Dialogue.esp
 300_Random_Clutter.esp
 36Sermons-Miltiades.esp
@@ -1371,7 +1378,9 @@ AmbientDungeons.esp
 \BeginGroup\: Base A
 
 AliveWaters.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
 AliveWaters_nofish.esp
 MoreLive_AliveWatersRedone.esp
@@ -1435,6 +1444,7 @@ SI Clothes.esp
 Battlemage Friends.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
 !Book Jackets Oblivion - PL.esp
@@ -1603,6 +1613,7 @@ CDM - Uderfrykte Matron Fix.esp
 
 ClocksOfCyrodiil.esp
 ? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ClocksOfCyrodiilBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
 ? Obsolete. Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
@@ -1616,6 +1627,7 @@ OCC-CoC-Patch.esp
 ? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 ClocksOfCyrodiil - ChorrolTextureChange.esp
 Better Clocks.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 ClothingIsArmor.esp
 
@@ -2392,12 +2404,14 @@ Crowded Roads Advanced.esp
 Crowded Roads Advanced Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Crowded Roads Advanced less crowded.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Advanced less crowded Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 CrowdedRoadsAdvanced_LC_1C.esp
 CrowdedRoadsAdvanced_1C.esp
 Crowded Roads Revamped.esp
 Crowded Roads Revisited.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Revisited_ChorrolCheydinhal_5.esp
 Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
@@ -2456,12 +2470,14 @@ Terran Vampires Beta.esp
 OCC-TVamp-Patch.esp
 
 Choices and Consequences.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR.esp
 ? Obsolete. Upgrade to latest version.
 EQR_-_FCOM.esp
 
 C&C - The Blackwood Company.esp
 % {{BASH:C.Owner, Relations}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 kuerteeIgnoringTheMainQuestHasConsequences.esp
 \EndGroup\\
@@ -2884,6 +2900,7 @@ Adonnays Classical Weaponry.esp
 Adonnays Classical WeaponryRU.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Adonnays Elven Weaponry for NPCs.esp
 Adonnays Elven Weaponry for NPCs - Vanilla placement.esp
 Adonnays Elven Longblades.esp
@@ -5625,6 +5642,7 @@ Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+COBL Luggage Patch.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
@@ -5655,6 +5673,7 @@ PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
 Bob's Armory OblivionRU.esp
 FCOM_BobsArmory.esp
@@ -5916,6 +5935,7 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 $ For non-OOO users. Remove this and use 'ArmamentariumLL4OOO.esp'.
 Choices and Consequences - OOO.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR - OOO.esp
 ? Obsolete. Upgrade to latest version.
 
@@ -7052,6 +7072,7 @@ cyrodiil transportation network wz.esp
 ? Check you're using v1.3 or later.
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil transportation network OC.esp
 Cyrodiil Transportation Network WZ OC.esp
 cyrodiil transportation network 1.2 DV.esp
@@ -7066,9 +7087,8 @@ EM_CompInnsleeping.esp
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
 Cyrodiil Border Regions 1.2.esp
-? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
-? This Esp is used as a patch between "OOO" and "The Dungeons of Ivellon"
-? Use "Cyrodiil Border Regions 1.2.esp" at once after "Ivellon.esp"
+? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-Ivellon-Patch.esp
 
 1079-Safe Archmage Storage-TESSource.esp
@@ -7101,10 +7121,12 @@ SFL) ICWF - Dock Expansion.esp
 2HFluch.esp
 300_Darker_Cyrodiil Imperial City.esp
 300 Regal Imperial City 2.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
 AkaviriStronghold_1C.esp
 300_Artifacts.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 300_Caldera.esp
 300_Caldera Update.esp
 300_Weapons.esp
@@ -7138,6 +7160,7 @@ Cave of Vampires.esp
 A Imperial Outpost - Fort Nova Varos .esp
 A_ship_near_Anvil-7781.esp
 A Blades House.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 A Cut Above Hairdressers.esp
 A House on the Isles!!.esp
 A Not So Simple Cave Retreat.esp
@@ -7169,6 +7192,7 @@ Epic_Dungeon.esp
 AdenseEpicDungeon.esp
 \ It's a bit like a merry-go-round. Yay for going back to a simple plugin name!
 ? Newest version has the same name as the original. Check that you're using at least v1.5.2.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AdenseEpicDungeon1_1.esp
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 AdenseEpicDungeon1_2.esp
@@ -7240,9 +7264,11 @@ AK_corpses_collector.esp
 AkaviriKojima.esp
 AlchemistsCave.esp
 AlchemistsCave-COBL.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 allinonebasement.esp
 allinonebasement_COBLnoCM.esp
 ? Use only one allinonebasement esp.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Alexandria.esp
 AleswellMerchant Cobl.esp
 AleswellMerchant Cobl SI.esp
@@ -7255,6 +7281,7 @@ AyleidQuest.esp
 Ayleid Treasury.esp
 AyleidTreasury.esp
 Amajor7 Imperial Furniture.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Imperial Furniture Renovated.esp
 Imperial Furniture Renovated - Patch.esp
 : Amajor7 Imperial Furniture.esp
@@ -7351,8 +7378,11 @@ SYS Patch-Arrow Rest Lodge COBL.esp
 Artifacts of the Ancestors.esp
 ? this mod needs repairing with TES4Edit before it's usable.
 Artefacts of the Ancestors.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also replaces some names with the German equivalents and contains wild edits. Requires manual cleaning.
 ArTheIceUnicorn.esp
 Artifacts.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Artifacts - EE patch.esp
@@ -7382,6 +7412,7 @@ Aundae.esp
 Aundae_OBSE_addon.esp
 Auriel's Books.esp
 " better cities - already included in BC IC Market District plugin.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -7394,6 +7425,7 @@ Automagicon_Cobl.esp
 AvaiRii_UnderwaterHome.esp
 AXIS.esp
 AyleidArrows.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
 AyranUndercity.esp
 AzurasServices_de.esp
@@ -7447,10 +7479,12 @@ Beginners_Dungeon-7741.esp
 Beautiful Watch.esp
 $ May conflict with OOO/FCOM.
 BeldaElysium.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1209-Beneath The Wall-TESSource.esp
 Benirus Lair.esp
 BenirusManorRebuilt.esp
 Benirus Manor Remade.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Benirus' Past.esp
 Benirus_Servents.esp
 Better Dark Brotherhood Sanctuary.esp
@@ -7533,6 +7567,7 @@ Laughing_Maw.esp
 BD&R - Laughing Maw.esp
 Deepgrave.esp
 BD&R - Deepgrave.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
 Bjornheim.esp
@@ -7662,6 +7697,7 @@ CastleHeiLi.esp
 CDEP.esp
 CDEP-UnderpallCave.esp
 % {{BASH:C.Light, C.Water}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CDM-The Necromantic Experience.esp
 CDM-Necromancy.esp
 CDM-Necromancy-No-Undead-Association.esp
@@ -7742,6 +7778,7 @@ CS_PaperParched.esp
 CastawayIsles.esp
 Chinese Weapons.esp
 CompleteMagePack.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CryptofDecay.esp
 CoinTrader.esp
 CoinTrader - SpellTomes.esp
@@ -9547,10 +9584,12 @@ Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 Valenwood Improved Vampire Hunting Patch.esp
 
 Apachii_Goddess_Store.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Apachii_Heroes_Store.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
@@ -9997,6 +10036,7 @@ ROM Patch - Bobs Armory.esp
 
 Cybiades.esp
 ? Do not use the (same name) compatible esp for UL:Lost; Update to the latest UL:Lost Coast.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CybiadesDungeon.esp
 cybCrashFix.esp
 CybEasier.esp
@@ -10094,6 +10134,7 @@ Ungarion1TheWelkyndSword.esp
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 Blood&Mud Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -10927,8 +10968,9 @@ Miscarcand Expanded.esp
 " The Ruins of Miscarcand.esp
 
 bartholm.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bartholm-Panther River Patch.esp
-? Outdated. Upgrade to the latest versions of Bartholm and UL Panther River, then delete this patch.
+? Obsolete. Remove this and upgrade to the latest versions of Bartholm and UL Panther River.
 bartholm - EE patch.esp
 Bartholm Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -11494,10 +11536,12 @@ clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
 % {{BASH:Names}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff_BetterLetters_RU.esp
 % {{BASH:Names}}
 Cliff_RiskyInnBeds.esp
 Cliff_CountyNames.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
 Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
@@ -11822,6 +11866,8 @@ SleepRestAnyTime.esp
 ImprovedSoulgems.esp
 Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
+cf_Improved_Barter_Gold.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance-TESSource.esp
 Increased_Training_Allowance.esp
@@ -15797,6 +15843,7 @@ cssJaKhaiitMyr.esp
 ViljainAleswell.esp
 \EndGroup\\
 Aliyah.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 ArianaTrudeaux.esp
 Arwen companion.esp

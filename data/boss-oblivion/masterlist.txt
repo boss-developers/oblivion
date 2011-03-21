@@ -329,6 +329,7 @@ Oblivion_SI Vwalk Full.esp
 ? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 TRoN.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TRoN 0-59-1b Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TRoN Rwalk.esp
@@ -1220,6 +1221,7 @@ Drum_Fix.esp
 Storms & Sound.esp
 % {{BASH:C.Owner}}
 ? Use only one Storms and Sound mod file.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 AWS-Storms & Sound.esp
@@ -1269,6 +1271,7 @@ Weather Inside.esp
 MIS Weather.esp
 
 Rainbows.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Rainbows.esp
 \EndGroup\\
 
@@ -2023,6 +2026,7 @@ P1DrobesOver.esp
 P1DanywhereSittable.esp
 SeeYouSleep.esp
 P1DseeYouSleep.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P1DseeYouSleep - Vampire Bedroll Anims.esp
 P1DlookAtShrines.esp
 Patron Deities.esp
@@ -2049,6 +2053,7 @@ Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
 Portable Bedroll.esp
 Portable Campsite.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PotionMixer.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
@@ -2138,6 +2143,7 @@ ReneerVariedNPCsMod.esp
 Reset the Blood Decal Variable.esp
 
 Reznod_Mannequin.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 rwr mannequins.esp
 Practice_Dummy0.9.5.esp
 
@@ -2286,6 +2292,7 @@ VA_BetterGold.esp
 % {{BASH:Graphics}}
 VAs Better Gold with no Menu Icon.esp
 % {{BASH:Graphics}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AC_Gold_Coins.esp
 % {{BASH:Graphics}}
 Vampire Alchemy V1.1.esp
@@ -4154,6 +4161,7 @@ pale_rider's Nordic Warrior Armor.esp
 pale_rider's Paladin Equipment_enchanted_eng.esp
 pale_rider's Paladin Equipment_enchanted_RU.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ParaClothes.esp
 Pauldron.esp
 Peasant_Gowns_HGEC.esp
@@ -4162,6 +4170,7 @@ Pekka_Shields_Heavy.esp
 PEDress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PinkGlassArmor.esp
 % {{BASH:Graphics}}
 Piratelords Recharging Enchantments.esp
@@ -4234,6 +4243,7 @@ Robe Replacer2.esp
 % {{BASH:Graphics, Invent}}
 Rogue Sun's Blood Lust Dress.esp
 ROHJ2.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
@@ -4290,6 +4300,7 @@ Sang_Noir.esp
 Santa Babe.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Scarves!.esp
 Scholomance armor.esp
 Schwertleite Armor.esp
@@ -4302,6 +4313,7 @@ SedaArmor.esp
 Seductress Armour.esp
 semi_precious_stones.esp
 SentientWeapon.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
 Serentin Vampire Armors.esp
@@ -4319,6 +4331,7 @@ Shamshires.esp
 Shdw_Armor pack01.esp
 Shdw_Armor pack02.esp
 Shdw_Armor Set_Sotonhorian.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shdw_Armour Set_Ziragon.esp
 Shdw_Weapon Set_Thorgeir.esp
 Shdw_weapon pack01.esp
@@ -4350,6 +4363,7 @@ Sister_of_Eisen_BAB.esp
 Sister_of_Eisen_HGEC.esp
 ShaiyaOutfit.esp
 SK_Berserk_v0.6.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 sk_Katanas.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
@@ -4486,6 +4500,7 @@ Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 SteelHalfMoon.esp
 Star's Fury.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StarX Katanas.esp
 StarX Witch Hunter Armor.esp
 StarX Witcher Based Outfit.esp
@@ -4525,9 +4540,11 @@ Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
 tda_Armoury.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 tda_PHModv1.2.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
 Teklanika's Reforged Items.esp
@@ -4702,6 +4719,7 @@ WarriorsRobe.esp
 Western Armor.esp
 Westwind_Rogue_HGEC.esp
 witchkingsword.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WizardWear.esp
 Wyrmfang.esp
 White Leather Armor.esp
@@ -4741,6 +4759,7 @@ BleachOverhaul.esp
 GuardTrinkets.esp
 Thieves Arsenal.esp
 : OBSE.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thieves_Arsenal_Patch_033010.esp
 Knock Out Arrows.esp
 Extinguish the Lights.esp
@@ -5109,6 +5128,7 @@ UFF_Sorceress_outfit.esp
 UFF & RM Assassin Elite Armor.esp
 UFF & RM Black Plate Armor.esp
 UFF & RM Gold and Silver Daedric Armor.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UFF & RM Extra Robe Pack.esp
 UFF & RM Dark Daedric Armor.esp
 LichGear.esp
@@ -5345,6 +5365,7 @@ MD_Saddle_Bags_Lite_v2.esp
 MD_Saddle_Bags_Accessories.esp
 Slof's Horses Base.esp
 % {{BASH:Graphics}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slof's Horses Essential.esp
 % {{BASH:Graphics}}
 Slof's Horses HA Essential.esp
@@ -5548,6 +5569,7 @@ DLCThievesDen Vwalk UOP.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thievesden_mobs.esp
 % {{BASH:NoMerge, Stats}}
 dunbarrowupgrade.esp
@@ -6519,6 +6541,7 @@ TamrielTravellers4000.esp
 >: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
 >: 'FCOM_TamrielTravelers.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
@@ -6533,6 +6556,7 @@ TamrielTravellersItemsUnscaled.esp
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
 : Shivering Isles expansion.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShiveringIsleTravellers Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
@@ -6621,7 +6645,9 @@ TIE+Frans NPC Inventory.esp
 FCOM_T.I.E.esp
 
 T.I.E4MODS.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 T.I.E4MODSOOO+FCOM.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 T.I.E4MODSFCOM+COBL.esp
 T.I.E4OOO+FCOM.esp
 T.I.E4FCOM+COBL.esp
@@ -7818,6 +7844,7 @@ Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 CV - Templar Fortress.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -8275,6 +8302,7 @@ SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
@@ -8840,6 +8868,7 @@ Muffin Display Rooms.esp
 Museum.esp
 Your_Personal_Museum.esp
 Your_Personal_Museum_Updated-9300.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 My Big House.esp
 My Dark Brotherhood Room.esp
 Mages_house.esp
@@ -9079,6 +9108,7 @@ UnseenExits.esp
 RC43 Christmas.esp
 rdHeavenlyHome.esp
 rebornaylieds.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
@@ -9108,6 +9138,7 @@ RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
 RomancingAhnassi.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NRB4+Romancing Ahnassi Patch.esp
 Romuska Fantasy Store.esp
 RosenrotManor01.esp
@@ -9122,6 +9153,8 @@ Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
 % {{BASH:NpcFaces}}
 ? Has a small landscape conflict with Unique Landcapes: Chorrol Hinterland.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also requires manual cleaning.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
 Rumare Castle.esp
@@ -9289,6 +9322,7 @@ SN_Skingrad_Villa.esp
 SYS Patch- Skingrad Villa.esp
 SOTES_Santres.esp
 Solace.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SolaceDV.esp
 CM SOLACE.esp
 Sonnengoldhof.esp
@@ -9317,6 +9351,7 @@ StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
 sunk ships.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shield of the Gods v0.82.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -9415,6 +9450,7 @@ TempleOfZealots.esp
 TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
@@ -9484,6 +9520,7 @@ The_Tower_of_the_Lich_King_1C.esp
 
 TheElderCouncil.esp
 TheElderCouncil_TempleOfTheOne.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
@@ -9493,6 +9530,7 @@ TEC_4ERA_Dialog_Filter.esp
 (DC) The Way of the Necromancer - Light.esp
 TheFeedBag.esp
 TheForgottenShields.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NRB4+ForgottonShields Patch.esp
 TheForgottenShields_delayer.esp
 TheForgottenShields v1.1 Delayer.esp
@@ -9505,6 +9543,7 @@ __thermae_CustomVisitor.esp
 __thermae_LLCustomizer.esp
 TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheUndercity.esp
 The UnderCroft v-04.esp
 The UnderCroft v-04a.esp
@@ -9516,6 +9555,7 @@ The Vertueux.esp
 The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 thievery - EE patch.esp
 TiansAyla_NNW.esp
 : OWC New Dimensions
@@ -9549,6 +9589,7 @@ TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
 % {{BASH:Graphics}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TR_Stirk Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge }}
 Stirk_Compatibility_Patch.esp
@@ -9627,6 +9668,7 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 
 Valenwood Improved.esp
 Valley_View_Estate.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valus Cottage.esp
 Vampire Hideaway.esp
 Vampire Tunnel System.esp
@@ -9645,6 +9687,7 @@ CV - Castle Dracula.esp
 Varlasel.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
 VaultsOfTheAyleids.esp
@@ -9658,12 +9701,14 @@ Verwen Brewery.esp
 
 VHBloodlines 1.2.esp
 % {{BASH:Actors.AIData, Actors.AIPackages}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VHBloodlines 1.2 Vwalk.esp
 ? Override merge animations - does not seem to work properly for VH Bloodlines.
 ? Mark Mergeable and deactivate
 OCC-Verona-Patch.esp
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp
@@ -9716,6 +9761,7 @@ wb_Erewhon_Cobl.esp
 wb_Erewhon_Cobl_Altar.esp
 wb_Erewhon_RR-LR_Patch.esp
 WeaponsOfTheNine.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WeaponsOfTheNine_delayer.esp
 WeaponsOfTheNine v2.3 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -9763,6 +9809,7 @@ Weye_Manor.esp
 WeyeHouse.esp
 Healer.esp
 Windfall.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Windfall Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Window Entrances 1.0.esp
@@ -9874,6 +9921,7 @@ JV-ArenaModification-0.9.esp
 Lyn-RealArenaFighters.esp
 ND_Arena_Reward_Staff.esp
 Visually Enhanced Arena.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
 fpsboost-arenanolights.esp
@@ -9891,6 +9939,7 @@ DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
 % {{BASH:NoMerge, Stats}}
@@ -9907,6 +9956,7 @@ maze-version 1,0.esp
 1SKHGBetaUpdate.esp
 
 sir_balin_mod.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ash's DB Kah'Lil Quest.esp
 Z's Skeleton Horse.esp
 
@@ -10144,6 +10194,7 @@ Castle_Knightstone.esp
 Midland.esp
 
 TOTF.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TOTF Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 OCC-TOTF-Patch.esp
@@ -10154,6 +10205,7 @@ TOTF Delayer.esp
 
 Ruined Tale 3.0.esp
 RTT.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather - Ruined Tail's Tale Patch.esp
 RTT RR Lake Rumare Patch.esp
 ? Obsolete. Use RTT-Weye Relocation Patch.esp instead.
@@ -10163,6 +10215,7 @@ OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
 Ruin.esp
 ? Upgrade to latest version of Ruined Tail's Tale.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
 ? Upgrade to latest version of Ruined Tail's Tale.
@@ -10185,6 +10238,7 @@ CUO_Bravil.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-Lost Spires-Patch.esp
 The Lost Spires_delayer.esp
 ? Old Version.
@@ -10220,6 +10274,7 @@ Ilithiel-DE.esp
 
 Ungarion1TheWelkyndSword.esp
 % {{BASH:Actors.Stats, Actors.Class, Actors.Spells, Invent, Scripts}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
@@ -10264,6 +10319,7 @@ Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
 House of Healing at Weye.esp
 Weye.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Healer WEYE_TICS Patch.esp
 
 LanternMonastery.esp
@@ -10425,6 +10481,7 @@ RimmenMMM.esp
 BeyondCyrodiil-Camps.esp
 BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 ElsweyrValenwoodImprovedPatch.esp
@@ -10833,6 +10890,7 @@ Amen'thalasWellHouse-ArriusCreek patch.esp
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VillageOfLily-xulPatch_AYAC patch.esp
 HeartoftheDead-ArriusCreek patch.esp
 ColdstoneTown-ArriusCreek patch.esp
@@ -11034,6 +11092,7 @@ LostSpiresImpeREALFortsPatch2.esp
 exhICMO.esp
 : BC/OC IC Market District Components.
 West Roads.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ULSO+WestRoads Patch.esp
 ? Outdated - Upgrade to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
@@ -11132,6 +11191,7 @@ Universitum Arcanorum.esp
 Universitum Arcanorum Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 PersonalPackGuars.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PersonalPackGuars White.esp
 ? Use only one PPG colour esp
 PersonalPackGuars Black.esp
@@ -12333,6 +12393,7 @@ Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
 % {{BASH:C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
@@ -12894,6 +12955,7 @@ Shadow Ranger.esp
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SupremeDialougeImmersion[The A-MQ].esp
 SupremeDialougeImmersion[A-O].esp
 
@@ -13474,6 +13536,7 @@ PJs Spell Compendium - No Requirements.esp
 ? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
 PJs Spell Compendium - Spell Requirements.esp
 ? Use only one 'PJs Spells - Cheap Spells.esp' or 'PJs Spell Compendium - No Requirements.esp' or 'PJs Spell Compendium - Spell Requirements.esp'
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PJs Telekinesis Spells.esp
 Paladin Spells.esp
 PerceptionV2_1.esp
@@ -16070,12 +16133,14 @@ Sher Ja Lion Companion.esp
 SnowAndHarukoCMPartners.esp
 % {{BASH:Hair, Eyes}}
 Sonia.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 % {{BASH:Hair, Eyes}}
 Sonia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 STEREOTYPES.esp
 Sephiroth Companion.esp
 Tyrael Companion.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tamara.esp
 % {{BASH:Hair, Eyes}}
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
@@ -17711,6 +17776,7 @@ Real Hunger, Cobl.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 
 StokerWolff.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StokerWolff 1.3.esp
 
 Viconia.esp
@@ -17733,6 +17799,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 UnderdarkSaga.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.

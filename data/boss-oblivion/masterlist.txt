@@ -996,6 +996,8 @@ All Natural.esp
 All Natural - SI.esp
 ? Required for All Natural SI support. Make sure this is active and not just imported into your Bashed Patch.
 % {{BASH:C.Climate}}
+All Natural - MMM Patch.esp
+% {{BASH:Scripts}}
 All Natural - Enhanced Weather.esp
 ? Obsolete. Update to latest version of All Natural and delete this.
 All Natural - Natural Weather.esp

@@ -672,7 +672,7 @@ Unofficial Shivering Isles Patch-MOBS.esp
 Unofficial Shivering Isles Patch-MOBS-FCOM.esp
 ? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 S.I.C.A.F.U.I.S.v1.2.esp
-% {{BASH:Actors.Stats, Invent, Stats}}
+% {{BASH:Actors.ACBS, Actors.Stats, Invent, Stats}}
 SM Plugin Refurbish - SI.esp
 " 'CDM-CGO Compatibility plugins'.
 Shivering Isles - No Starting Quest Popup.esp

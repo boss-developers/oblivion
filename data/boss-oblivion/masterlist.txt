@@ -4470,6 +4470,7 @@ Sword of the Rivan King.esp
 Sword-of-power.esp
 SwordOfTheGods.esp
 Swords of Thought.esp
+SylvanArmor.esp
 \EndGroup\\
 
 \BeginGroup\: Items T
@@ -5220,6 +5221,7 @@ R18PN - Bikini Re-Textured.esp
 R18PN - Dancer's Dress.esp
 R18PN - Eisen Platte Armor.esp
 R18PN - FuruFuru Armor.esp
+R18PN - Heilige Mutter Armor.esp
 R18PN - Lingeries.esp
 R18PN - Leere Armor.esp
 Leere Armor.esp
@@ -7123,6 +7125,7 @@ AkaviriStronghold_1C.esp
 " MannimarcoComplete.esp.(conflict of story) uncheck mod on the time of play of the addon
 " RenCorpseMod.esp (conflict with scripts) uncheck mod on the time of play of the addon
 " Unique landscapes.(conflict of locations) uncheck mods on the time of play of the addon
+7demonicweapons.esp
 
 .LuEmaNarfil Cave of Vampires.esp
 Cave of Vampires.esp
@@ -7458,6 +7461,7 @@ Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 BDBS - Assassin Tripwires Patch.esp
 BDBS - Chapel Memorial.esp
+BDBS - See You Sleep Patch.esp
 AbandonedHouse.esp
 ^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead.
 AbandonedHouseBC.esp
@@ -7809,6 +7813,7 @@ Deathtrap Dungeon.esp
 Dk offhand weapons.esp
 Dk second knight update.esp
 DeerLeap.esp
+Defenders of Cyrodiil.esp
 Del_New_Sheoth_Homes.esp
 Del_Skingrad_Garden.esp
 Demon_Bane.esp
@@ -8379,6 +8384,7 @@ JQ-AssassinQuest-NoMarkers.esp
 JQ&DM-ScriptedBackpacks.esp
 JQ-EasterEggHunt.esp
 JQ-Streams_Of_Silver.esp
+JQ-Studio.esp
 JQ-Return_of_Dagoth_Ur.esp
 coffeeshop.esp
 OC+Coffeshop Patch.esp
@@ -8520,6 +8526,7 @@ Legends - Zefaro Cottage.esp
 Legion Faction Mod.esp
 % {{BASH:Relations}}
 ? Warning: This mod deletes several important vanilla dialogue entries. They will need to be repaired via TES4Edit to avoid possible CTDs.
+LFScreenshootersAbyss.esp
 Lost Grove.esp
 Love Suite Room.esp
 Lem - Celestial Lagoon.esp
@@ -8624,6 +8631,8 @@ Mage'sSkyHouse.esp
 Mage'sSkyHouse_cobl.esp
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
+MSHaddon-Akatosh Mount Pad.esp
+MSHaddon-HTSCL.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
 ? Old name, update to v1.2+.
@@ -10873,7 +10882,11 @@ ImpeREAL Empire - Unique Forts - Clydesdale Horses - By Xtudo.esp
 ImpeREAL Empire - Unique Forts - Slofs Horses - By Xtudo.esp
 % {{BASH:Graphics, NoMerge}}
 ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp
-% {{BASH: Invent}
+% {{BASH: Invent}}
+? Obsolete - superseeded by 'ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp'.
+ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp
+% {BASH: Invent}}
+? Don't use with 'ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp'.
 ImpeREALForts+BrinaCross Patch.esp
 ImpeREALForts+LostSpires Patch.esp
 LostSpiresImpeREALFortsPatch2.esp
@@ -10925,6 +10938,8 @@ Duke Patricks - HammerBlade.esp
 
 Frostcrag Village.esp
 : Official Frostcrag Spire DLC
+Frostcrag Village Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 Fort Akatosh Redux.esp
 % {{BASH:Relations}}
 Fort Akatosh Redux Vwalk.esp

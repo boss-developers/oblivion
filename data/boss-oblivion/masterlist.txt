@@ -7067,7 +7067,7 @@ Roleplaying_Expansion.esp
 
 Suliin.esp
 Suliin V1.2.esp
-? Suggest 'cleaning' with TES4Edit. Contains dirty pathgrid and landscape edits.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quelldorf 1.5.esp
 " Suliin v1.2.
 ? Use Quelldorf or Quelldorf ohn Schiff but not both at the same time.
@@ -7195,13 +7195,8 @@ AkaviriStronghold_1C.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 7roads.esp
 % {{BASH:Actors.ACBS, Factions, Invent, Relations, Scripts}}
-? For play with 'knights.esp' use patch "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
-" Kvatch Rebuilt.(conflict of locations) uncheck mod on the time of play of the addon
-" HoarfrostCastle.esp.(conflict of locations) uncheck mod on the time of play of the addon
-" MidasSpells.esp.(conflict of locations) uncheck mod on the time of play of the addon
-" MannimarcoComplete.esp.(conflict of story) uncheck mod on the time of play of the addon
-" RenCorpseMod.esp (conflict with scripts) uncheck mod on the time of play of the addon
-" Unique landscapes.(conflict of locations) uncheck mods on the time of play of the addon
+? For compatibility with Knights of the Nine, get the patch: "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
+" Kvatch Rebuilt, Hoarfrost Castle, Midas Magic, Mannimarco Complete, Reneer's Corpse Mod, Unique landscapes.
 7demonicweapons.esp
 
 .LuEmaNarfil Cave of Vampires.esp
@@ -9702,6 +9697,7 @@ Verwen Brewery.esp
 VHBloodlines 1.2.esp
 % {{BASH:Actors.AIData, Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
 VHBloodlines 1.2 Vwalk.esp
 ? Override merge animations - does not seem to work properly for VH Bloodlines.
 ? Mark Mergeable and deactivate
@@ -17999,6 +17995,17 @@ Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 TamrielWorldspaceCompleteWorldMap.esp
 TWMP_Tamriel_Ingame_ Map.esp
+
+\EndGroup\\
+
+\BeginGroup\: TES4LODGen plugins
+\'''''''''''''''''''''''''''''''''
+\Need to also load dead last. These aren't activated though, so don't break the above group.
+
+KRLODToggleBurnt.esp
+? Always keep this plugin deactivated, apart from while generating LOD using TES4LODGen.
+KRLODToggleRestored.esp
+? Always keep this plugin deactivated, apart from while generating LOD using TES4LODGen.
 
 \EndGroup\\
 \EndGroup\\

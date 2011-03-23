@@ -2401,6 +2401,12 @@ Crowded Cities 30.esp
 Crowded Cities_Open.esp
 Crowded Cities for OCR.esp
 
+RealisticPopulation_Cheydinhal.esp
+RealisticPopulation_Anvil.esp
+RealisticPopulation_Bravil.esp 
+RealisticPopulation_Chorrol.esp
+RealisticPopulation_Leyawiin.esp
+
 Risk of Bandits in Cities.esp
 
 Crowded Roads.esp
@@ -6975,6 +6981,7 @@ John's Creature Mod.esp
 LBVermin.esp
 LBUndeadAdditions.esp
 LBWaterBeasts.esp
+Skeleton Diversity.esp
 ZUSwordFlameAtro.esp
 \EndGroup\\
 
@@ -9713,20 +9720,20 @@ VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp
 Verwen Brewery.esp
 
-VHBloodlines 1.2.esp
-% {{BASH:Actors.AIData, Actors.AIPackages}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
-VHBloodlines 1.2 Vwalk.esp
-? Override merge animations - does not seem to work properly for VH Bloodlines.
-? Mark Mergeable and deactivate
-OCC-Verona-Patch.esp
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp
+VHBloodlines 1.2.esp
+% {{BASH:Actors.AIData, Actors.AIPackages}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
+VHBloodlines 1.2 Vwalk.esp
+? Mark Mergeable and deactivate - Merge animations does not seem to work properly for the original version of VH Bloodlines.
+? Sensual Walks for Arthmoor's Verona House Bloodines SI Fixed contains bash tags to merge the animations, which work correctly on his version
+OCC-Verona-Patch.esp
 
 Apachii_Goddess_Store.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12245,6 +12252,7 @@ Andrews_No_Quest_Items-6729.esp
 No Quest Items.esp
 NoQuestItems.esp
 No quest items SI.esp
+No_Smiling.esp
 NoObsoleteEnemies.esp
 ? Highly likely to be incompatible with every overhaul out there.
 NoObsoleteLoot.esp
@@ -16414,6 +16422,8 @@ Mart's Monster Mod - Resized Races.esp
 Bigger_Dremora.esp
 % {{BASH:Body-M, Body-F}}
 Bigger_Dremora-2369.esp
+% {{BASH:Body-M, Body-F}}
+Bigger Nords & Orcs.esp
 % {{BASH:Body-M, Body-F}}
 Slof's Oblivion Better Beasts.esp
 % {{BASH:NpcFaces, R.Teeth, Body-M, Body-F}}

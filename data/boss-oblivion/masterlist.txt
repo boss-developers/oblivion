@@ -285,6 +285,7 @@ Diverse Magic Effects Resource.esm
 TESA Clutter.esm
 TOCP.esm
 Sheogorad.esm
+VipCxj_AirSystem.esm
 \EndGroup\\
 
 \BeginGroup\: Earliest mods
@@ -1635,6 +1636,7 @@ OCC-CoC-Patch.esp
 ClocksOfCyrodiil - ChorrolTextureChange.esp
 Better Clocks.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Better Clocks for Better Cities.esp
 
 ClothingIsArmor.esp
 
@@ -3238,6 +3240,7 @@ BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH:Invent}}
 BryntrollTheBoneArbitor.esp
+BSK Break Undies.esp
 Burningweapons.esp
 bustersword.esp
 Buster Sword R.esp
@@ -3355,6 +3358,7 @@ DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
 Dancers clothes.esp
 Dancing Shadow Rose Break Undies.esp
+DSR&BSKMergedSet.esp
 Dante's Scythe.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
@@ -3453,6 +3457,7 @@ DivineShields.esp
 DKAionProject.esp
 DMCDanteClothes.esp
 Dollparts_CorsetsoftheRose.esp
+Dollparts_RoseCorsets - Dark & Light.esp
 DLCRequestedCaps.esp
 DMACArmor.esp
 DMCWeapons.esp
@@ -3744,6 +3749,7 @@ Hentai_Compilation.esp
 Hentai_Lily_Angel'sWing.esp
 Hentai_LilyClothes.esp
 HentaiSchoolGirlCollection.esp
+HentaiSeraphimArmour.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 
@@ -4702,6 +4708,9 @@ vermillionandsilverthorn.esp
 Villain's Arsenal.esp
 volkoth.esp
 VSPTensaZangetsu.esp
+VipCxj_HighHeels.esp
+VipCxjHHTest.esp
+BisSP_Real_High_Heels.esp
 Viro's Kung Fu Set.esp
 Vvardenfell_Imports.esp
 OC+Imports Patch.esp
@@ -6455,7 +6464,7 @@ Mart's Monster Mod - Hairy Spiders Addon.esp
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH:Actors.AIPackages, Graphics, Scripts}}
-" Slof's Horses, Slof's Extra Horses if not using a Bashed Patch. 
+" Slof's Horses, Slof's Extra Horses if not using a Bashed Patch.
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 " MMM Gems & Gem Dust or MMMforOOO.
@@ -7300,6 +7309,8 @@ Alliria_CRP_IC.esp
 Along Came A Spider.esp
 alto angelos proveing ground.esp
 ALTshack02.esp
+Fedex01.esp
+Hammer.esp
 SKY.esp
 house.esp
 Xiamara_Zimnel_Chairs_AddOn.esp
@@ -7675,6 +7686,7 @@ SYS Patch-Bruma House For Sale.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 BurySvenjaSnowSong.esp
+Butcher.esp
 Buy A House Shivering Isles.esp
 Buyabletavern.esp
 BXX_Mines.esp
@@ -7927,6 +7939,7 @@ Dibella_priestess.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
 Dibella Temple Final.esp
+DibellasWatchBeta06.esp
 Display Rooms.esp
 Diverse Guards.esp
 
@@ -8263,6 +8276,7 @@ Hobbit Hole Revamped.esp
 SYS Patch Hobbit Hole Revamped.esp
 Holy Cathedral.esp
 Home_1.1a.esp
+Home Improvement - Imperial City Shack 1.0.esp
 Home in Bleakers Way.esp
 Horse Dreamland.esp
 House of Corpses.esp
@@ -8294,6 +8308,7 @@ Hunter's Haven File 1.esp
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 ICAU_Mages_bridge.esp
 ICEGHouse.esp
+ICEGHouse_cobl.esp
 icPlayerHome.esp
 SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -8873,6 +8888,7 @@ Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
 Milewood.esp
+Murderer.esp
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
@@ -9073,6 +9089,7 @@ Quest Nirnroot.esp
 
 \BeginGroup\: Quests R
 
+Raubritter.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
 Reaper's Coldstone Town.esp
@@ -9746,6 +9763,7 @@ VypersAstralStorage.esp
 
 Wasserheim.esp
 Woodelvendon.esp
+Wandering_Nazgul_0.79.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
@@ -11098,6 +11116,7 @@ ULSO+WestRoads Patch.esp
 WellspringVale+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
+xulImperialCitySewerExits.esp
 
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
@@ -13504,6 +13523,7 @@ SNxMarkers.esp
 MindRip.esp
 morespells.esp
 More Effective Enchantments.esp
+: OBSE v20+.
 MTC EagleEyesSpell 1.1[ENG].esp
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
@@ -13591,6 +13611,7 @@ SpellDeflection.esp
 Stalk'em SI.esp
 stickyfingers.esp
 StrongholdTeleport.esp
+SummonCreaturePackBeta.esp
 TeachSpell.esp
 Teleport.esp
 : OBSE.
@@ -13733,6 +13754,7 @@ MidasSpellTomes.esp
 % {{BASH:Relev}}
 Midas' Shortcut.esp
 MidasMagicCompanions.esp
+MidasMagicLazyFockerChest.esp
 MMC_Iphigenia.esp
 MMC_Iphigenia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -14822,6 +14844,8 @@ SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
 Specialanims.esp
+Steeltooth_Playeranimations.esp
+% PPBASH:Actors.Anims}}
 UChainBeast.esp
 zzEstrus.esp
 walklikesheo.esp
@@ -15038,6 +15062,8 @@ Soya 4 Hair Pack.esp
 % {{BASH:Hair}}
 Soya 4 Hair Pack - English.esp
 % {{BASH:Hair}}
+Beautiful People 2ch-Ed Merged RoseSims Hair Modules.esp
+% {{Bash:Hair}}
 BWs Argonian Hair.esp
 % {{BASH:Graphics, Hair}}
 CT-Argonian Headstyles.esp
@@ -15155,6 +15181,8 @@ Naruto's_Eyes_bY_Van_Groud.esp
 % {{BASH:Graphics, Hair, Eyes}}
 idkrrr_sarameyesNhairs4originalrace.esp
 % {{BASH:Graphics, Hair, Eyes}}
+VipCxj_HairEyeSet.esp
+% {{BASH:Hair, Eyes}}
 \EndGroup\\
 
 CM Partners.esp
@@ -16850,6 +16878,7 @@ Better Cities - Unique Landscape Chorrol Hinterland.esp
 Better Cities CHORROL - Werewolf.esp
 
 Better Cities BRUMA - Werewolf.esp
+Side's Bruma House (BC patch).esp
 
 Better Cities - Knightly Armory.esp
 

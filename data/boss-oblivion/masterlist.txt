@@ -17834,6 +17834,7 @@ Open Cities LR Road Record.esp
 % {{BASH: Deactivate, Roads}}
 ? Obsolete. Remove this and install Open Cities Reborn.
 Open Cities Reborn Road Record.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher, then delete this plugin.
 % {{BASH: Deactivate, Roads}}
 ? Use only one road record file.
 NRB4 Standard Road Record.esp

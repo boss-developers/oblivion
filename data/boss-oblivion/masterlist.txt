@@ -7874,6 +7874,8 @@ _DarkBrothershood.esp
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
+? Compatibility with other DB Sanctuary mods is unlikely due to the number of persistent references which have been deleted.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBSRebuiltCompleteFPS.esp
 Assassin Tripwires DBSR.esp
 DB-The Forgotten Sewers.esp

@@ -11279,17 +11279,17 @@ Open Cities + Cats & Rats for Francescos.esp
 ? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
 
 Open Cities New Sheoth.esp
-: Shivering Isles expansion.
+: Official Shivering Isles expansion.
 % {{BASH:Actors.AIPackages}}
 
 Open Cities Bartholm.esp
-: Bartholm.
+: Bartholm. "http://www.tesnexus.com/downloads/file.php?id=5022"
 
 Open Cities Anvil.esp
 Open Cities Bravil.esp
 
 Open Cities Bravil Blood&Mud.esp
-: Bravil Blood&Mud.
+: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 Open Cities Bruma.esp
 Open Cities Cheydinhal.esp
@@ -11302,14 +11302,14 @@ Open Cities Outer Districts.esp
 Open Cities Full.esp
 
 Open Cities Full + Bravil Blood&Mud.esp
-: Bravil Blood&Mud.
+: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 Open_Cities_Complete-Leyawiin_Reborn.esp
 Open Cities Full + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
-: Bravil Blood&Mud.
+: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 \EndGroup\\
 
 \BeginGroup\: Open Cities Reborn
@@ -11319,14 +11319,26 @@ Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 Crowded Cities for OCR.esp
 
 Open Cities Reborn - Anvil.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bravil.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bruma.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Cheydinhal.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Chorrol.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Leyawiin.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Skingrad.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn - Full Merge.esp
+? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+
+Open Cities Reborn.esp
+Open Cities Reborn + Bravil Blood&Mud.esp
+: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 \EndGroup\\
 

@@ -603,7 +603,7 @@ fixtext1C_04.esp
 \---
 
 Unofficial Oblivion Patch.esp
-? Use Standalone MOBS if using Frans or OMOBS if using FCOM\OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
 ? Recommend installing UOP Supplemental for additional fixes: "http://www.tesnexus.com/downloads/file.php?id=27710"
 % {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
 Unofficial Oblivion Patch DV.esp
@@ -2383,7 +2383,7 @@ moDem's City Life Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 Oblivion Alive.esp
-^ May be incompatible with BC. Untested.
+^ May be incompatible with Better Cities. Untested.
 Oblivion Alive Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -6431,7 +6431,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - More Passive Wildlife.esp
 <? Not recommended, has bugs.
 <Mart's Monster Mod - City Defences.esp
-<^ Incompatible with BC - City Defences.
+<^ Incompatible with Better Cities - City Defences.
 <Mart's Monster Mod - Curse of Hircine.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
@@ -6873,19 +6873,19 @@ un-leveled-shops.esp
 WAC - ItemLootFix4v1.0b.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For Vanilla and Fran(not Francesco's Optional New Creatures Add-On.esm) and WarCry
-? Use only one WAC - ItemLootFix esp
+? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bFran.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For Fran(Francesco's Optional New Creatures Add-On.esm)
-? Use only one WAC - ItemLootFix esp
+? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bOOO.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
-? For OOO
-? Use only one WAC - ItemLootFix esp
+: OOO.
+? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bMMM.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For MMM / OOO+MMM / FCOM
-? Use only one WAC - ItemLootFix esp
+? Use only one WAC - ItemLootFix plugin.
 WAC.esp
 WAC - OverSpawn.esp
 % {{BASH:Actors.Spells, Delev, Graphics, Invent, Relations, Relev}}
@@ -7479,7 +7479,7 @@ Asylum.esp
 Aundae.esp
 Aundae_OBSE_addon.esp
 Auriel's Books.esp
-" better cities - already included in BC IC Market District plugin.
+^ Incompatible with Better Cities IC Market District.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
@@ -7565,7 +7565,7 @@ BDBS - Assassin Tripwires Patch.esp
 BDBS - Chapel Memorial.esp
 BDBS - See You Sleep Patch.esp
 AbandonedHouse.esp
-^ Incompatible with BC, use 'AbandonedHouseBC.esp' instead.
+^ Incompatible with Better Cities, use 'AbandonedHouseBC.esp' instead.
 AbandonedHouseBC.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
@@ -8135,7 +8135,7 @@ GatewayRealm.esp
 GatewayRealm Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 GatewayRealmUL.esp
-? Needs TES4Edit cleaning.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GatewayRealmUL Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -8163,7 +8163,7 @@ goblinworld.esp
 Going Rogue.esp
 Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
-" Unique Lanscapes Lost Coast, The Heath, and Brena River.
+" Unique Landscapes Lost Coast, The Heath, and Brena River.
 GoldDaedricArmor.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
@@ -8232,10 +8232,10 @@ Hau'oli Paena.esp
 Haunted Abandoned Manor.esp
 HauntedHouse v1.3.esp
 % {{BASH:Invent}}
-? Version 1.5 is available.
+? Outdated. Update to version 1.5.
 HauntedHouse v1.4.esp
 % {{BASH:Invent}}
-? Version 1.5 is available.
+? Outdated. Update to version 1.5.
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8737,7 +8737,7 @@ DB Listeners Quarters [Darker].esp
 
 LOCH_New_Skingrad_Bridge.esp
 Locked Doors and Knocking v1.02.esp
-? Imcompatible with BC/probably other city altering mods.
+? Imcompatible with Better Cities, and probably other city altering mods.
 Lock Spells.esp
 Lobo_the_Wolf.esp
 Lobo_the_Wolf_v101.esp
@@ -9214,7 +9214,6 @@ SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
-? Or use the replacer esp in from the BC package (same name).
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
@@ -9996,7 +9995,7 @@ Lynges Thieves Highway.esp
 ^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway - OOO.esp
 ^ Not Better Cities compatible. Already included with Better Cities IC plugins.
-? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
+$ Delete 'Lynges Thieves Highway.esp and use this instead.
 \EndGroup\\
 
 \BeginGroup\: DLC 4
@@ -10389,7 +10388,7 @@ Well of Arcane Marking.esp
 \FCOM optional addon patches
 
 >Mart's Monster Mod - City Defences.esp
->^ Incompatible with BC - City Defences.
+>^ Incompatible with Better Cities - City Defences.
 
 FCOM_mightyumbra.esp
 : 'Mighty Umbra.esp'.
@@ -11110,7 +11109,7 @@ ImpeREALForts+LostSpires Patch.esp
 LostSpiresImpeREALFortsPatch2.esp
 
 exhICMO.esp
-: BC/OC IC Market District Components.
+: Better/Open Cities IC Market District Components.
 West Roads.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ULSO+WestRoads Patch.esp
@@ -16904,11 +16903,11 @@ Better Cities Full - CUO Leyawiin Patch.esp
 Better Cities Full B&M - CUO Leyawiin Patch.esp
 
 Better Cities - CUO Bruma Patch.esp
-? Only use one version of the BC - CUO Bruma Patch.
+? Only use one version of the Better Cities - CUO Bruma Patch.
 Better Cities Full - CUO Bruma Patch.esp
-? Only use one version of the BC - CUO Bruma Patch.
+? Only use one version of the Better Cities - CUO Bruma Patch.
 Better Cities Full B&M - CUO Bruma Patch.esp
-? Only use one version of the BC - CUO Bruma Patch.
+? Only use one version of the Better Cities - CUO Bruma Patch.
 
 BCSkingrad-SkingradOutskirts patch.esp
 % {{BASH:C.Water}}

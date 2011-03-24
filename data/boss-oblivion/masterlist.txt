@@ -2542,6 +2542,7 @@ FormID Finder.esp
 FormID Finder without Pluggy.esp
 ? Outdated. Update to version 4.
 FormID Finder4.esp
+FormIDReferenceBugFix.esp
 Forward Motion Blur.esp
 fwDropGold.esp
 
@@ -7157,6 +7158,7 @@ EM_CompInnsleeping.esp
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Ivellon2.esp
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

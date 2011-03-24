@@ -658,6 +658,10 @@ DLCShiveringIsles.esp
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
+FormIDReferenceBugFix.esp
+? Outdated. Included in Unofficial Shivering Isles Patch 1.4+
+FormID_Reference_Bug_Fix.esp
+? Outdated. Included in Unofficial Shivering Isles Patch 1.4+
 Unofficial Shivering Isles Patch.esp
 ? When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
@@ -2542,7 +2546,6 @@ FormID Finder.esp
 FormID Finder without Pluggy.esp
 ? Outdated. Update to version 4.
 FormID Finder4.esp
-FormIDReferenceBugFix.esp
 Forward Motion Blur.esp
 fwDropGold.esp
 

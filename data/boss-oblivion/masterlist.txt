@@ -154,7 +154,7 @@ Open Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
-? Check you are using v2+. If not, upgrade. v1 has a severe bug with the Mystic Emporium disappearing.
+? Check you are using v2+. If not, Update. v1 has a severe bug with the Mystic Emporium disappearing.
 A_Bloody_Mess.esm
 BathingMod_Base.esm
 BP EDIT.esm
@@ -327,16 +327,16 @@ SoVvM Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Oblivion_SI Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 TRoN.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TRoN 0-59-1b Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TRoN Rwalk.esp
-? Outdated, upgrade to Sensual Walks.
+? Outdated. Update to Sensual Walks.
 TRoN Swalk.esp
-? Outdated, upgrade to Sensual Walks.
+? Outdated. Update to Sensual Walks.
 TRoN Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 \Probably doesn't need to load this early but the authors recommend it.
@@ -406,7 +406,7 @@ Tamriel NPCs Revamped.esp
 % {{BASH:NpcFaces, NoMerge}}
 Oblivion_SI Vwalk Full TNR.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Cobl Races TNR.esp
 % {{BASH:NpcFaces, NoMerge}}
@@ -464,7 +464,7 @@ Beautiful_Women_Vampires_50 VWalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Beautiful Women Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated. Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated. Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 Beautiful_Women_Vampires Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Beautiful_Women_Revised.esp
@@ -627,7 +627,7 @@ Primate Rank Fix.esp
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
 Permanent Effects from Quest Items fix Merge.esp
-? Outdated. Upgrade to newest version of Permanent Effects from Quest Items fix.
+? Outdated. Update to newest version of Permanent Effects from Quest Items fix.
 Dion MS38 Package Fix.esp
 \EndGroup\\
 
@@ -718,7 +718,7 @@ Oblivion Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
 Oblivion_SI Vwalk Full UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated - update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 DLCShiveringIsles Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
 DLCShiveringIsles Vwalk DG_DS UOS.esp
@@ -730,7 +730,7 @@ TNR - ShiveringIsles no helms Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
 Oblivion_SI Vwalk Full TNR UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated - update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Beautiful_Women_NiceOnly Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
@@ -746,7 +746,7 @@ Beautiful_Women_NotSoNice_Bonus Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
 Beautiful Women Vwalk Full UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
+? Outdated - update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 Colourwheels Sexy Female NPCs Vwalk UOS.esp
 % {{BASH:Actors.Anims, NpcFaces, NoMerge}}
@@ -918,7 +918,7 @@ AWS-Water.esp
 
 Arthur_Natural_Weather_HDR_by_Max_Tael.esp
 Arthur_ Natural weather with HDR.esp
-? Outdated. Upgrade to latest version of Arthur Natural Environments.
+? Outdated. Update to latest version of Arthur Natural Environments.
 
 Natural Environments.esp
 Natural Weather.esp
@@ -944,13 +944,13 @@ Darker Nights for Nat Env.esp
 _darker_nights_for_nat_env.esp
 DMP - Darker Nights_NE.esp
 Natural_Weather_HDR+Darker_Nights_2.1.2_bugfree.esp
-? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+? Outdated. Update to Ryu Doppler's fixed Natural Weather.
 Natural_Weather_HDR_2.1.2_bugfree.esp
-? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+? Outdated. Update to Ryu Doppler's fixed Natural Weather.
 Natural_Weather_non-HDR_2.1.2_bugfree.esp
-? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+? Outdated. Update to Ryu Doppler's fixed Natural Weather.
 Natural_Weather_HDR_2.1.2_coloroverride.esp
-? Outdated. Upgrade to Ryu Doppler's fixed Natural Weather.
+? Outdated. Update to Ryu Doppler's fixed Natural Weather.
 
 Natural_Habitat_by_Max_Tael.esp
 NaturalHabitat.esp
@@ -990,11 +990,11 @@ EW_WeatherOrb.esp
 : Enhanced Weather.
 EnhancedWeather - Enhanced Seasons.esp
 : ScreenEffects.
-? Obsolete. Upgrade to the latest version of Enhanced Weather and install the standalone version of Enhanced Seasons.
+? Obsolete. Update to the latest version of Enhanced Weather and install the standalone version of Enhanced Seasons.
 EnhancedWeather - SI.esp
-? Outdated. Upgrade to the latest version of Enhanced Weather.
+? Obsolete. Update to the latest version of Enhanced Weather.
 EnhancedWeatherSIOnly.esp
-? Outdated. Upgrade to the latest version of Enhanced Weather.
+? Obsolete. Upgrade to the latest version of Enhanced Weather.
 EW-GTA2 Patch.esp
 ? Obsolete. Upgrade to the latest version of Enhanced Weather.
 
@@ -1077,7 +1077,7 @@ Enhanced Water v1.5 ND.esp
 % {{BASH:C.Water}}
 Enhanced Water v1.5 HD.esp
 % {{BASH:C.Water}}
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 Enhanced Water v2.0 ND.esp
 % {{BASH:C.Water}}
 Enhanced Water ND_1C.esp
@@ -1212,7 +1212,7 @@ Footstep Sound Fix.esp
 Quiet Feet Complete.esp
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
 QuietFeet Max.esp
-? Upgrade to v2.0, which does not require a plugin.
+? Update to v2.0, which does not require a plugin.
 % {{BASH:Sound}}
 QuietFeet HorseArmor.esp
 % {{BASH:Sound}}
@@ -1344,7 +1344,7 @@ Sunlit Interiors 1.31.esp
 
 aKALAmbientDungeonsBeta2.esp
 : 'ScreenEffects' and 'You Are Here'.
-? Outdated, incompatible with other ScreenEffects mods. Upgrade to latest version of Ambient Dungeons.
+? Outdated, incompatible with other ScreenEffects mods. Update to latest version of Ambient Dungeons.
 AmbientDungeons.esp
 : OBSE and 'You Are Here'. ScreenEffects for versions below 1.3.
 \EndGroup\\
@@ -1423,7 +1423,7 @@ Arena Posters Diversified -Better Cities.esp
 archrobe.esp
 % {{BASH:Graphics}}
 Automagic Bags 1.1.esp
-? Old, upgrade to V3+ and use 'Automagic Bags.esp' instead.
+? Outdated. Update to V3+ and use 'Automagic Bags.esp' instead.
 autosavertest.esp
 Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
@@ -1724,7 +1724,7 @@ dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
 Diverse Dungeons - Subtle Color v.1.04.esp
-? Outdated. Upgrade to v1.05+.
+? Outdated. Update to v1.05+.
 Diverse Dungeons - Subtle Color v.1.05.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
@@ -1947,7 +1947,7 @@ MERP-Bree House Interiors.esp
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
-? Outdated. Upgrade to version 2+.
+? Outdated. Update to version 2+.
 BetterMusicSystem(SI).esp
 
 Better Beggars.esp
@@ -2017,7 +2017,7 @@ personality_idles3b_nc.esp
 personality_idles4.esp
 Personality Idles 4 - Cleanned version.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Personality Idles - Modified version.esp
 % {{BASH:Actors.Anims}}
 personality_idles4_nopc.esp
@@ -2081,7 +2081,7 @@ Qarls_Harvest addon.esp
 Qarls_logs.esp
 TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
-? Outdated. Upgrade to V3+.
+? Outdated. Update to V3+.
 QQuix - Rock, rock, rock your ship - V3.esp
 
 \EndGroup\\
@@ -2194,15 +2194,15 @@ ShadsTent.esp
 Sheepherder's Vampirism Fix - OBSE.esp
 ? v0.9 is a testing version. Not much information on load order or any stability issues.
 Shield on Back RC5-Public.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 Shield on Back 3.1.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 ShieldOnBack_1C.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 ShieldOnBack_GOTY_1C.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 1HweaponOnBack.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 shiveringislesdoorusable.esp
 SINecropolis.esp
 ShowHideAmulet.esp
@@ -2221,7 +2221,7 @@ SoT_Holiday.esp
 Soul Gem Discharger.esp
 
 SPARTANVIsDiverseCityGuards05BETA.esp
-? Outdated. Upgrade to 'SPARTAN VIs Diverse City Guards v1 2.esp'.
+? Outdated. Update to 'SPARTAN VIs Diverse City Guards v1 2.esp'.
 SPARTAN VIs Diverse City Guards v1 2.esp
 % {{BASH:Invent}}
 Guard Torches.esp
@@ -2354,7 +2354,7 @@ Living Economy - SI.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 : Shivering Isles expansion.
 SI Living Economy.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Living Economy - Items.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cutthroat Merchants.esp
@@ -2461,13 +2461,13 @@ WAC - Crowded Roads Revisited Fix4v1.0b.esp
 
 travellers-new balance.esp
 travellers a.esp
-? Outdated. Upgrade to 'travellers-new balance.esp'.
+? Outdated. Update to 'travellers-new balance.esp'.
 travellers b.esp
-? Outdated. Upgrade to 'travellers-new balance.esp'.
+? Outdated. Update to 'travellers-new balance.esp'.
 travellers c.esp
-? Outdated. Upgrade to 'travellers-new balance.esp'.
+? Outdated. Update to 'travellers-new balance.esp'.
 travellers d.esp
-? Outdated. Upgrade to 'travellers-new balance.esp'.
+? Outdated. Update to 'travellers-new balance.esp'.
 travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -2496,7 +2496,7 @@ OCC-TVamp-Patch.esp
 Choices and Consequences.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 EQR_-_FCOM.esp
 
 C&C - The Blackwood Company.esp
@@ -2538,9 +2538,9 @@ Duke Patricks - Friendship Ring For Companion Detection.esp
 Enhanced Seasons.esp
 
 FormID Finder.esp
-? Outdated. Upgrade to version 4.
+? Outdated. Update to version 4.
 FormID Finder without Pluggy.esp
-? Outdated. Upgrade to version 4.
+? Outdated. Update to version 4.
 FormID Finder4.esp
 Forward Motion Blur.esp
 fwDropGold.esp
@@ -2688,10 +2688,10 @@ DBTAM.esp
 Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
-? Old, upgrade to V2a+.
+? Old, Update to V2a+.
 Expanded Hotkeys and Spell Delete V2.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
-? Old, upgrade to V2a+.
+? Old, Update to V2a+.
 Expanded Hotkeys and Spell Delete V2a.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Expanded Hotkeys Brief Equip Message.esp
@@ -2746,15 +2746,15 @@ Correctif Orrery.esp
 Correctif Orrery RP.esp
 DBOO - Orrey.esp
 DLCOrrery Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCOrrery Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCOrrery Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SM Plugin Refurbish - Orrery.esp
 " 'CDM-CGO Compatibility plugins'.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 NLF Orrery.esp
 Orrery_Rewards-9767.esp
 
@@ -2787,15 +2787,15 @@ Mehrunes_mobs.esp
 % {{BASH:NoMerge, Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 DLCMehrunesRazor Rwalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Swalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Vwalk UOP.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SM Plugin Refurbish - MehrunesRazor.esp
@@ -3684,9 +3684,9 @@ GothicGirls.esp
 Grigors_Grimoires.esp
 Griffon Fortress.esp
 Griffon Fortress 0.3.esp
-? Old, upgrade to version 0.5.
+? Outdated. Update to version 0.5.
 Griffon Fortress 0.4.esp
-? Old, upgrade to version 0.5.
+? Outdated. Update to version 0.5.
 Griffon Fortress 0.5.esp
 Griffon Fortress 6.9.esp
 Grommash.esp
@@ -4352,7 +4352,7 @@ Shields Of Antiquity.esp
 % {BASH:Invent}}
 Shivering Armor Variety.esp
 Shivering Armor Variety - Test.esp
-? Old, upgrade to the release version.
+? Outdated. Update to the release version.
 SCHIFFWHITEMAGEROBE.esp
 Shrouded Armor X.esp
 % {{BASH:Graphics}}
@@ -5571,15 +5571,15 @@ DLCThievesDen - Unofficial Patch - SSSB.esp
 Correctif ThievesDen - SSSB.esp
 DBOO - ThievesDen.esp
 DLCThievesDen Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 DLCThievesDen Rwalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Swalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Vwalk UOP.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SM Plugin Refurbish - ThievesDen.esp
@@ -5814,11 +5814,11 @@ OOO-ThiefGuild_Difficult.esp
 $ Don't use with the FULL version of OOO, already included.
 OOO-Container_Trap_Instant_Effects.esp
 OOO-Ayleid Coin Add-on.esp
->* Delete. Upgrade to latest version of OOO.
+>* Delete. Update to latest version of OOO.
 OOO132RC3Hotfixes.esp
->* Delete. Upgrade to latest version of OOO.
+>* Delete. Update to latest version of OOO.
 OOO132RC3MapMarkers.esp
->* Delete. Upgrade to latest version of OOO.
+>* Delete. Update to latest version of OOO.
 OOO-LightOfDawnFlamesWhenDrawnOBSE.esp
 ? Use only one LightOfDawn plugin.
 OOO-LightOfDawnAlwaysFlames.esp
@@ -5998,7 +5998,7 @@ $ For non-OOO users. Remove this and use 'ArmamentariumLL4OOO.esp'.
 Choices and Consequences - OOO.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR - OOO.esp
-? Obsolete. Upgrade to latest version.
+? Obsolete. Update to latest version.
 
 ArmamentariumLLVendors.esp
 ? Can be used with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
@@ -6058,7 +6058,7 @@ DBOO - Harvest[Containers].esp
 \EndGroup\\
 
 Hemingweys NPC Capes for OOO and FCOM.esp
-? Obselete if using MMM or FCOM. Upgrade to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
+? Obselete if using MMM or FCOM. Update to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
 $ If you are running only OOO, but not MMM or FCOM, keep this installed.
 
 OBSE-Storms & Sound SI.esp
@@ -6120,9 +6120,9 @@ FCOM_OscurosOverhaul.esp
 IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Choices and Consequences - MMM.esp
->? Obsolete. Remove this and upgrade to latest version.
+>? Obsolete. Remove this and update to latest version.
 >C&C&EQR - MMM.esp
->? Obsolete. Remove this and upgrade to latest version.
+>? Obsolete. Remove this and update to latest version.
 
 >Mart's Monster Mod - Blood Fix v3.esp
 >? Not needed in MMM 3.6beta3+. Already integrated.
@@ -6264,11 +6264,11 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - Less Bone Loot.esp
 >Mart's Monster Mod - Zombies for Body Meshes.esp
 >Mart's Monster Mod - Vindasel.esp
->? Obsolete. Upgrade to MMM 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+>? Obsolete. Update to MMM 3.7b3+ and use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 >Mart's Monster Mod - Safer Quest Locations.esp
 >Mart's Monster Mod - Foxes.esp
 >Mart's Monster Mod - Bats Addon.esp
->? Obsolete. Upgrade to MMM 3.6b3+ and use 'Dungeons of MMM.esp' instead.
+>? Obsolete. Update to MMM 3.6b3+ and use 'Dungeons of MMM.esp' instead.
 >Mart's Monster Mod - Dungeons of MMM.esp
 >Mart's Monster Mod - Curse of Hircine.esp
 >Mart's Monster Mod - More Reaver Variants.esp
@@ -6279,7 +6279,7 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >% {{BASH:Invent, Scripts, Stats}}
 Fletching Compilation.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
->* Obsolete. Remove this and upgrade to MMM 3.7+ and associated version of FCOM.
+>* Obsolete. Remove this and update to MMM 3.7+ and associated version of FCOM.
 >Mart's Monster Mod - Farm Animals.esp
 >Mart's Monster Mod - Diverse Haunted Head.esp
 >Mart's Monster Mod - Diverse WaterLife.esp
@@ -6328,16 +6328,16 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <% {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
 
 <Choices and Consequences - MMM.esp
-<? Obsolete. Remove this and upgrade to latest version.
+<? Obsolete. Remove this and update to latest version.
 <C&C&EQR - MMM.esp
-<? Obsolete. Remove this and upgrade to latest version.
+<? Obsolete. Remove this and update to latest version.
 <CurseOfHircine.esp
 CoH Werewolves Clothed.esp
 CoH Werewolves Mixed.esp
 CoH Spawn Rates Increased.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
-<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
+<? Obsolete. Remove this and update to MMM v3.6beta3+.
 <Mart's Monster Mod - Lesser Balrog Fix.esp
 <MMM - UberhulkParalyzeFix.esp
 <Mart's Monster Mod - GhostApparitionFix.esp
@@ -6348,17 +6348,17 @@ CoH Spawn Rates Increased.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
 <% {{BASH:Delev, Relev}}
 <Mart's Monster Mod - More Reavers.esp
-<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
+<? Obsolete. Remove this and update to MMM v3.6beta3+.
 <Mart's Monster Mod - Extra Reavers.esp
-<? Obsolete. Remove this and upgrade to MMM v3.6beta3+.
+<? Obsolete. Remove this and update to MMM v3.6beta3+.
 
 <Mart's Monster Mod - Diverse Imperial Armor.esp
 <$ Not compatible with OOO. Already included in OOO.
 <Mart's Monster Mod - Diverse Creature Skins.esp
 <$ Not compatible with OOO. Already included in OOO.
-<? Outdated. Upgrade to MMM 3.7+.
+<? Outdated. Update to MMM 3.7+.
 <Mart's Monster Mod - More Reaver Variants.esp
-<? Obsolete. Integrated into 'Mart's Monster Mod - Additional Enemy NPC Vars.esp'. Remove this and upgrade to MMM v3.6beta3+.
+<? Obsolete. Integrated into 'Mart's Monster Mod - Additional Enemy NPC Vars.esp'. Remove this and update to MMM v3.6beta3+.
 <Mart's Monster Mod - Gems & Gem Dust.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO.
 <Gems and Gem Dusts - MMM.esp
@@ -6388,7 +6388,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <$ Use 'Mart's Monster Mod for OOO - NoReaversInGates.esp' instead.
 <Mart's Monster Mod for OOO - NoReaversInGates.esp
 <Mart's Monster Mod - No Reaver Hounds.esp
-<? Outdated. Upgrade to MMM 3.6beta3+.
+<? Outdated. Update to MMM 3.6beta3+.
 <Mart's Monster Mod - No Carrion Rats.esp
 <Mart's Monster Mod - No Blood.esp
 <Mart's Monster Mod - No Bone Loot.esp
@@ -6414,15 +6414,15 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Spawn Rates Moderate.esp
 <Mart's Monster Mod - Spawn Rates - Reduced.esp
 <Mart's Monster Mod - Spawn Rates Reduced Reduced.esp
-<? Outdated. Upgrade to MMM 3.6beta3+.
+<? Outdated. Update to MMM 3.6beta3+.
 <Mart's Monster Mod - Spawn Rates - Reduced Reduced.esp
 <Mart's Monster Mod - Spawn Rates - Reduced Vanilla.esp
 <Mart's Monster Mod - Vindasel.esp
-<? Obsolete. Remove this and upgrade to 3.7b3+. Use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
+<? Obsolete. Remove this and update to 3.7b3+. Use 'Mart's Monster Mod - Safer Quest Locations.esp' instead.
 <Mart's Monster Mod - Safer Quest Locations.esp
 <Mart's Monster Mod - Foxes.esp
 <Mart's Monster Mod - Bats Addon.esp
-<? Obsolete. Remove this and upgrade to 3.6beta3+. Use 'Dungeons of MMM.esp' instead.
+<? Obsolete. Remove this and update to 3.6beta3+. Use 'Dungeons of MMM.esp' instead.
 <Mart's Monster Mod - Dungeons of MMM.esp
 <Mart's Monster Mod - More Wilderness Life.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
@@ -6436,7 +6436,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 <Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
-<? Obsolete. Remove this and upgrade to 3.7b3+. Use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
+<? Obsolete. Remove this and update to 3.7b3+. Use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
 <Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
 <Mart's Monster Mod - Diverse Haunted Head.esp
@@ -6464,9 +6464,9 @@ VASE - Vanilla Cyrodiil.esp
 VASE - Vanilla SI.esp
 
 Mart's Monster Mod - Boar's Addon.esp
-? Outdated. Upgrade to MMM 3.7b3+.
+? Outdated. Update to MMM 3.7b3+.
 Mart's Monster Mod - Hairy Spiders Addon.esp
-? Outdated. Upgrade to MMM 3.7b3+.
+? Outdated. Update to MMM 3.7b3+.
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH:Actors.AIPackages, Graphics, Scripts}}
@@ -6503,7 +6503,7 @@ OMOBS_MMM_H&C_Ammo.esp
 SubSpecies Variety Pack.esp
 SubSpecies Variety Pack #1 - Canines (full version).esp
 Spiders Addon.esp
-? Obsolete. Remove this and upgrade to MMM 3.7b1+.
+? Obsolete. Remove this and update to MMM 3.7b1+.
 
 FaunaOfTamriel.esp
 Creatures Alive v1.3.esp
@@ -6524,7 +6524,7 @@ Master-Crafting-1.1-MMM Greaves fix.esp
 
 Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 : 'Mart's Monster Mod - Looting NPCs & Creatures.esp'.
-? Obsolete. Remove this and upgrade to latest version.
+? Obsolete. Remove this and update to latest version.
 \EndGroup\\
 
 \BeginGroup\: OWC New Dimensions
@@ -6596,7 +6596,7 @@ Oblivion Alive Wanderer.esp
 FCOM_DiverseGuardUnity.esp
 % {{BASH:Actors.CombatStyle, Actors.Spells, Invent, Scripts}}
 Choices and Consequences - FCOM - Diverse Guards.esp
-? Obsolete. Upgrade to latest version and remove.
+? Obsolete. Update to latest version and remove.
 FCOM_BobsGuardUnity.esp
 : 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
@@ -6723,7 +6723,7 @@ TIE Cats.esp
 % {{BASH:Graphics}}
 
 Choices and Consequences - FCOM.esp
-? Obsolete. Upgrade to latest version and remove.
+? Obsolete. Update to latest version and remove.
 
 Dangerous_Overhaul_v0.2.esp
 % {{BASH:Relev}}
@@ -7826,7 +7826,7 @@ The Beautiful Market District.esp
 Clintmichs Beautiful Market District v1.3.esp
 ^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Elven Gardens District v1.0.esp
-? Outdated. Upgrade to v1.1+.
+? Outdated. Update to v1.1+.
 ^ Probably incompatible with Better Cities.
 Clintmichs Beautiful Elven Gardens District v1.1.esp
 ^ Probably incompatible with Better Cities.
@@ -7884,9 +7884,9 @@ DarelothFrontDoorFix.esp
 " Apachii's Goddess Store.
 Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
-? Upgrade to latest version.
+? Outdated. Update to latest version.
 Dark Brotherhood Outpost v3.esp
-? Upgrade to latest version.
+? Outdated. Update to latest version.
 Dark Brotherhood Outpost v3.1.esp
 Dark Brotherhood Sanctuaries.esp
 _DarkBrothershood.esp
@@ -7959,7 +7959,7 @@ delivery_job.esp
 delivery_job - OAG.esp
 Delivery Job - BC.esp
 ? Must deactivate delivery_job.esp if using it. This ESP replaces that file.
-? Obsolete: Now integrated with Better Cities 4.6+. Upgrade and delete this plugin.
+? Obsolete: Now integrated with Better Cities 4.6+. Update and delete this plugin.
 DJZ Archmage's Study.esp
 DJ Markov Manor.esp
 DKImprovementBruma_v1.0.esp
@@ -8018,8 +8018,8 @@ EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
 ElsweyrRiverhold.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
-? Do not use if using ElsweyrAnequina.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
+? Do not use if using ElsweyrAnequina.esp.
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 Emeraldsvale_01c.esp
@@ -8131,7 +8131,7 @@ G&J - Cruentus Veneficum.esp
 Gamblers_of_Cyrodiil.esp
 
 GatewayRealm.esp
-? Needs TES4Edit cleaning.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GatewayRealm Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 GatewayRealmUL.esp
@@ -8154,7 +8154,7 @@ Gianna.esp
 Gift of Kynareth.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gift of Kynareth_delayer.esp
-? Old Version.
+? Outdated. Update to the latest version of the delayer.
 Gift of Kynareth v2.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 GlowplugSilatari.esp
@@ -8183,7 +8183,7 @@ GTAesgaard.esp
 GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
-? Obsolete. Remove this and upgrade to the latest version of Gates To Aesgaard Episode 1.
+? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
 GTAesgaard_2.esp
 GtArus.esp
 GTAesgaard I v1.2 Delayer.esp
@@ -8192,9 +8192,9 @@ GTAesgaard II v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Gates To Aesgaard 2 Delayer.esp
 GTAesgaard 1and2 Delayer.esp
-? Old, update to latest version.
+? Outdated. Update to the latest version of the delayer.
 GTAesgaard I-II Delayer.esp
-? Depreciated.
+? Obsolete. Remove this.
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
@@ -8259,7 +8259,7 @@ Hentai Mania.esp
 >: FCOM_Hentai Mania.esp
 % {{BASH:Hair, Invent, Scripts, C.Owner}}
 Hentai ManiaC.esp
-? Cleaned version of Hentai Mania.esp use only one
+? Cleaned version of Hentai Mania.esp. Use only one.
 >: FCOM_Hentai Mania.esp and rename to Hentai Mania.esp
 Hentai Mania addon Break Undies.esp
 % {{BASH:Scripts, Stats}}
@@ -8474,7 +8474,7 @@ Improved Skingrad.esp
 " Open Better Cities Complete or Open Better Cities Skingrad components.
 
 IC Atmospheric Shops Mod.esp
-? If not using WB you may have to move this above some item mods (thereby loosing some changes from this) or lose some items from those mods.
+? If not using WB you may have to move this above some item mods (thereby losing some changes from this) or lose some items from those mods.
 IC DB Hideout.esp
 IC WF Lighthouse Fire + Smoke.esp
 Iceflame542's Enhanced Dungeons 1.esp
@@ -8502,7 +8502,7 @@ ImperialCemetery.esp
 ImperialCityHouse.esp
 ImriellesHousesSkingrad.esp
 Improved dungeons.esp
-? Upgrade to latest version, called "The Lost Treasures Of Cyrodiil"
+? Update to latest version, called "The Lost Treasures Of Cyrodiil".
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 In Sachen Ayleiden.esp
@@ -8546,8 +8546,7 @@ coffeeshop.esp
 OC+Coffeshop Patch.esp
 JQ-PizzaShop.esp
 Jade_Manor V1.26.esp
-? May have land tearing issues with another mod. Needs research.
-? Old, and has a bug with all shops staying closed, update to v1.3+.
+? Outdated. Update to v1.3+.
 Jade_Manor V1.30.esp
 JM_safehouse.esp
 JSRandomTasks.esp
@@ -8587,13 +8586,12 @@ KDQ - Rural Line Additions.esp
 KTVH - Walking In The Shoes.esp
 
 300_White Stallion+SB23.esp
-? Check for newer version.
+? Outdated. Update to v4+.
 ? Compatible with MD_SaddleBags Lite.
 300_White Stallion 4.esp
-? Consider updating to Feudal Empire ('Feudal Empire 300.esp') instead.
 Feudal Empire 300.esp
 % {{BASH:Invent, Graphics}}
-? Use instead of 300_White Stallion 4.esp
+" 300_White Stallion 4.esp
 300 Feudal Empire.esp
 % {{BASH:Invent, Graphics}}
 300_White Stallion 4 - OOO.esp
@@ -8612,12 +8610,12 @@ Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
 <: FCOM
 All Natural - Kvatch Rebuilt Weather Patch.esp
-? Obsolete as of All Natural v0.9.4. Safe to delete.
+? Obsolete. Remove this and install the 'Kvatch Rebuilt Weather Patch.esp' included in All Natural v0.9.4+.
 Kvatch Rebuilt Weather Patch.esp
 Kvatch Rebuilt Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Kvatch Rebuilt Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Kvatch Rebuilt Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KvatchRankFix.esp
@@ -8644,7 +8642,7 @@ EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
 Eiamod_delayer.esp
-? Old version
+? Outdated. Update to latest version.
 EiAmod v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 EiAmod Vwalk.esp
@@ -8671,7 +8669,7 @@ Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
 LakesideHome.esp
 Lakeview.esp
-? Cannot be used in combination with Shezrie's Villages.
+" Shezrie's Villages.
 Lakeview2.esp
 Lakeview2 DV.esp
 Lakewood Village Ver 2.0.esp
@@ -8724,7 +8722,7 @@ KragenirsDeathQuest-LetThePeopleDrink patch.esp
 Leyawiin Castle & Guilds Upgrade.esp
 Leyawiin Store Upgrade.esp
 LeyawiinPort-AlphaRelease.esp
-? Not Better Cities compatible. Already included in Better Cities Leyawiin.
+^ Not Better Cities compatible. Already included in Better Cities Leyawiin.
 Leyawin Player House for Sale.esp
 SYS Patch-Leyawiin Player House for Sale.esp
 
@@ -8744,7 +8742,6 @@ Lock Spells.esp
 Lobo_the_Wolf.esp
 Lobo_the_Wolf_v101.esp
 LordKain_Adash_World.esp
-? German mod.
 LordKain_Adash_World Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Lorekeep.esp
@@ -8757,12 +8754,12 @@ LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
 LostTreasures1.1.esp
 Lycanmoon.esp
-? Old, update to version 1.6+.
+? Outdated. Update to version 1.6+.
 Lycanmoon1.6b.esp
 Lycanthrope.esp
 ? Consider upgrading to Werewolf - Legends of the North.
 Lycanthrope v1.0.esp
-? Consider upgrading to Werewolf - Legends of the Nort
+? Consider upgrading to Werewolf - Legends of the North.
 Lycanthrope 2.esp
 ? Consider upgrading to Werewolf - Legends of the North.
 Lyn-AbsoluteFreedom.esp
@@ -8800,7 +8797,7 @@ MSHaddon-Akatosh Mount Pad.esp
 MSHaddon-HTSCL.esp
 Magic Orrery.esp
 Mag1cWind0w_The_Imperial_Water.esp
-? Old name, update to v1.2+.
+? Outdated. Update to v1.2+.
 The Imperial Water.esp
 ^ Use 'The Imperial Water - BETTER CITIES.esp' instead.
 The Imperial Water - BETTER CITIES.esp
@@ -8836,7 +8833,7 @@ Moorheim.esp
 MountainShack.esp
 MountainShack DV.esp
 MountainShackR12.esp
-? Old, Update to R121
+? Outdated. Update to R121+.
 MountainShackR121.esp
 SYS Patch-Abandoned Mountain Shack.esp
 MrPwner's Ambient Churches.esp
@@ -8954,7 +8951,6 @@ NocturneCallSteed.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
-? Make sure to be using at least version 0.85+
 Nou-Malatu.esp
 
 NNWAREAyleidDungeons_Series1EV.esp
@@ -8964,25 +8960,25 @@ NNWAEDungeons-Series2DV.esp
 NNWARE06-RhyeliaEmeroEV.esp
 NNWARE06-RhyeliaEmeroDV.esp
 NNWARE01EV-Sercen.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE02EV-Trumbe.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE03EV-Piukanda.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE04EV-Veyond.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE05EV-Bawn.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE01-Sercen.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE02-Trumbe.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE03-Piukanda.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE04-Veyond.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 NNWARE05-Bawn.esp
-? obselete, update to series 2+.
+? Obsolete. Update to series 2+.
 \EndGroup\\
 
 \BeginGroup\: Quests O
@@ -9015,7 +9011,7 @@ Orange_Road_Manor_ru.esp
 OrderCloudKnights.esp
 OrderCloudKnights v1.0 Delayer.esp
 Order of the Virtuous Blood Expanded v0.1.esp
-? Old, update to Order of the Virtuous Blood Expanded v0.3.esp.
+? Outdated. Update to 'Order of the Virtuous Blood Expanded v0.3.esp'.
 Order of the Virtuous Blood Expanded v0.3.esp
 OSE - Outlook.esp
 Overflow.esp
@@ -9027,9 +9023,9 @@ ThePaleAdventurer.esp
 ThePaleAdventurer_delayer.esp
 PagesofHistoryDemo.esp
 Pats Business Mod---Shop Version 1.6.esp
-? Old, update to version 2.1+.
+? Outdated. Update to version 2.1+.
 Pats Business Mod---Shop Version 2.0.esp
-? Old, update to version 2.1+
+? Outdated. Update to version 2.1+.
 Pats Business Mod.esp
 ^ Use the Better Cities version instead.
 Pats Business Mod BC.esp
@@ -9041,7 +9037,7 @@ photoroom.esp
 Pickman's Model.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
-? Old, update to version 2.
+? Outdated. Update to version 2+.
 Pine Lodge ver2.esp
 PinePeakLodge.esp
 Pinevale.esp
@@ -9120,7 +9116,7 @@ Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
 Ravenrock.esp
-? Shivering Isles.
+: Shivering Isles.
 RavenviewVillageVer2.0.esp
 Rangerhome01.esp
 SYS Patch RangerHome01.esp
@@ -9183,9 +9179,9 @@ RumarePriory.esp
 RumpleMod.esp
 \^^^^guessed name and position^^^\
 RumpleMod Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 RumpleMod Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 RumpleMod Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 RunedRobes.esp
@@ -9413,12 +9409,12 @@ Sylar_INNMergedCyrodillInnsRevised.esp
 Sylar_INNMergedCyrodillInnsRevised_COCPatch.esp
 Sylar_INNMergedCyrodillInnsRevised vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and upgrade to the latest version of Sensual Walks.
+? Redundant - Use the latest version of Inns Revised in Cyrodiil, which is Sensual Walks Ready, and update to the latest version of Sensual Walks.
 Sylar_INNMergedCyrodillInnsRevisedV1.1.esp
-? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil.
+? Outdated - Update to latest version of Inns Revised in Cyrodiil.
 Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to latest version of Inns Revised in Cyrodiil and Sensual Walks.
+? Outdated - Update to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 BetterInns + NewHomeOwners.esp
 BetterInns - ClocksOfCyrodiil PATCH.esp
 BetterInns - COBL PATCH.esp
@@ -9489,7 +9485,7 @@ The Brandy Maker.esp
 The Dragon Citadel.esp
 TheMountainLodge.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
-? Outdated. Upgrade to the latest version of The Ayleid Steps and remove this patch.
+? Outdated. Update to the latest version of The Ayleid Steps and remove this patch.
 Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 ? may be incompatible with AN/RL - to be confirmed.
 TGInheritEarlOfImbelsICHouse.esp
@@ -9713,7 +9709,7 @@ VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
 VaultsOfTheAyleids.esp
 VRIceOrcMod.esp
-: Elys USV or the dialogue will go by very fast.
+: Elys' Universal Silent Voice or the dialogue will go by very fast.
 Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
@@ -9722,7 +9718,6 @@ Verwen Brewery.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp
@@ -9757,11 +9752,11 @@ VOILA.esp
 VOILA - Soldiers of Empire.esp
 Vypers Arrow Spells-SI.esp
 ^ Incompatible with Better Cities.
-? Old, upgrade to V2+.
+? Outdated. Update to V2+.
 Vypers Arrow Spells-SI V2.esp
 Vypers Arrow Spells.esp
 ^ Incompatible with Better Cities.
-? Old, upgrade to V2+.
+? Outdated. Update to V2+.
 Vypers Arrow Spells-Vanilla V2.esp
 VypersAstralStorage.esp
 \EndGroup\\
@@ -9844,7 +9839,7 @@ Wretched Pit and Witherstone Caverns.esp
 Wtower.esp
 
 Cyrodill Travel Services.esp
-? Obsolete. Upgrade to latest version, then delete this file. It was a typo.
+? Obsolete. Update to latest version, then delete this file. It was a typo.
 Cyrodiil Travel Services.esp
 Cyrodiil Travel Services Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -9991,16 +9986,16 @@ Babarized Slof's Robe Trader Full.esp
 
 \Yay for inexplicable spelling variations! Maybe different versions. :(
 Lynges_Thieves_Highway.esp
-? Not Better Cities compatible. Already included with Better Cities IC plugins.
+^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges_Thieves_Highway-10256.esp
-? Not Better Cities compatible. Already included with Better Cities IC plugins.
+^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thieves Highway.esp
-? Not Better Cities compatible. Already included with Better Cities IC plugins.
+^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway.esp
-? Not Better Cities compatible. Already included with Better Cities IC plugins.
+^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway - OOO.esp
-? Not Better Cities compatible. Already included with Better Cities IC plugins.
+^ Not Better Cities compatible. Already included with Better Cities IC plugins.
 ? Delete 'Lynges Thieves Highway.esp and use this instead if also using OOO.
 \EndGroup\\
 
@@ -10033,9 +10028,9 @@ Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
 OCBruma+BrumaMGRestored Patch.esp
 BrumaMGRestored Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 BrumaMGRestored Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 BrumaMGRestored Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 BrumaMGRestored-Frostcrag.esp
@@ -10047,9 +10042,9 @@ FrostcragRebornCobl.esp
 DLCFrostcragCoblAddons.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCFrostcrag Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 DLCFrostcrag Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 DLCfrostcrag Reborn Vwalk.esp
@@ -10099,15 +10094,15 @@ Knights - Unofficial Patch.esp
 Correctif Knights.esp
 DBOO - Knights.esp
 Knights Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Knights Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Knights Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Knights Rwalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Knights Swalk UOP.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Knights Vwalk UOP.esp
 % {{BASH:Actors.Anims, NoMerge}}
 EVE_KnightsoftheNine.esp
@@ -10239,11 +10234,11 @@ RTT-Weye Relocation Patch.esp
 OCC-RTTv3 Patch.esp
 ? Works with RTT 3.0 only.
 Ruin.esp
-? Upgrade to latest version of Ruined Tail's Tale.
+? Update to latest version of Ruined Tail's Tale.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-RTT-Patch.esp
 ? Works with RTT v2.5 only.
-? Upgrade to latest version of Ruined Tail's Tale.
+? Update to latest version of Ruined Tail's Tale.
 RTT Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -10486,7 +10481,7 @@ ElsweyrAnequina v2 Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
 SYS Patch-Anequina Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
-? Obsolete. Upgrade to latest version and remove.
+? Obsolete. Update to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
 : OBSE v0018.
 ? Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
@@ -10545,16 +10540,16 @@ Vergayun Vwalk.esp
 Faregyl.esp
 % {{BASH:Actors.AIPackages, Factions, Relations}}
 Faregyl-FGRoad-Patch.esp
-? Obsolete. Upgrade Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
+? Obsolete. Update Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
 Faregyl+Anequina Patch.esp
 Faregyl Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 The Arsenal - Faregyl Patch.esp
 
 MagesCross.esp
@@ -10607,10 +10602,10 @@ Valhalla Asgardia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 MTCThievesGrotto.esp
-? Upgrade to v4.1.
+? Update to v4.1.
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.esp
-? Upgrade to v4.1.
+? Update to v4.1.
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
@@ -10697,7 +10692,7 @@ WAC-ULdarkforest-patch.esp
 Silverfish.esp
 
 xulBrenaRiverRavine02.esp
-? Obsolete beta. Need to upgrade to released version, then delete this.
+? Obsolete beta. Need to update to released version, then delete this.
 
 xulStendarrValley.esp
 Unique Landscapes - Stendarr Valley DV.esp
@@ -10751,9 +10746,9 @@ Trails of Cyrodiil - Colovian Highlands UL.esp
 xulChorrolHinterland.esp
 Unique Landscapes - ChorrolHinterland DV.esp
 xulChorrolHinterland Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulChorrolHinterland Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulChorrolHinterland Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
@@ -10785,11 +10780,11 @@ VeronaHouseBloodlines-LostCoast fix.esp
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
 Sousmarin-beaches fix.esp
-? Obsolete. Upgrade to UL:Lost Coast 1.6.3 or higher, then delete this patch.
+? Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 Castle_Almgard-V2.esp
 ? Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
 anvil bay+ul tweak.esp
-? Obsolete. Upgrade to UL:Lost Coast 1.6.3 or higher, then delete this patch.
+? Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 BrewHouse-LostCoast patch.esp
 SkingradMarket-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
@@ -10801,7 +10796,7 @@ SeawatchAbode-LostCoast patch.esp
 EaglesRest+LostCoast Patch.esp
 KragenirsDeathQuest-LostCoast patch.esp
 NNWARE1_Dungeon05ULPatch.esp
-? Obselete. Upgrade to NNWAREAyleidDungeons series 1+
+? Obselete. Update to NNWAREAyleidDungeons series 1+.
 Cybiades - UL Beaches of Cyrodiil Patch.esp
 ? If using this patch move Cybiades.esp in between this and Unique Landscapes - Beaches of Cyrodiil DV.esp - also do not use the prepatched version of the Cybiades esp.
 ForgottenTomb-LostCoast patch.esp
@@ -10843,13 +10838,13 @@ Ta22's 01Army.esp
 xulBravilBarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
 xulBravilBarrowfields Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulBravilBarrowfields Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulBravilBarrowfields Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 LostSpires-BravilBarrowfields patch.esp
-? Upgrade to Bravil Barrowfields 1.3. Then deactivate this patch.
+? Update to Bravil Barrowfields 1.3. Then deactivate this patch.
 TonaSimpleDressArmor-BravilBarrowfields patch.esp
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
@@ -10904,7 +10899,7 @@ Ravenview-Cloudtop-Patch.esp
 Mimics-CloudtopMountains patch.esp
 Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
-? Obsolete. Upgrade to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
+? Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 
 xulArriusCreek.esp
 % {{BASH:C.Water}}
@@ -10937,9 +10932,9 @@ xulRollingHills_EV.esp
 Unique Landscapes - Rolling Hills DV.esp
 ? Only use one UL Rolling Hills esp
 xulRollingHills_EV Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulRollingHills_EV Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulRollingHills_EV Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TreasureMapsCaptusDemus-RollingHills patch.esp
@@ -10978,9 +10973,9 @@ xulBrenaRiverRavine.esp
 Unique Landscapes - Brena River Ravine DV.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
 xulBrenaRiverRavine Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulBrenaRiverRavine Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulBrenaRiverRavine Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Brena River Ravine Daedric Shrine Ruins Patch.esp
@@ -10993,9 +10988,9 @@ NakedNord.esp
 xulImperialIsle.esp
 Unique Landscapes - Imperial Isle DV.esp
 xulImperialIsle Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulImperialIsle Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xulImperialIsle Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
@@ -11081,12 +11076,12 @@ EtInArkay-UniqueLandscapes Merged patch.esp
 DwarvenMines-UniqueLandscapes Merged patch.esp
 KragenirsDeathQuest-UniqueLandscapes Merged patch.esp
 xul Rwalk Full.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xul Swalk Full.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 xul Vwalk Full.esp
 % {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Upgrade to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
 TrailsOfCyrodiilCentral-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch DV.esp
@@ -11119,7 +11114,7 @@ exhICMO.esp
 West Roads.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ULSO+WestRoads Patch.esp
-? Outdated - Upgrade to latest version of West Roads and delete this patch.
+? Outdated - Update to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
 
 xleyawiinSwamp.esp
@@ -11154,7 +11149,7 @@ Miscarcand Expanded.esp
 bartholm.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bartholm-Panther River Patch.esp
-? Obsolete. Remove this and upgrade to the latest versions of Bartholm and UL Panther River.
+? Obsolete. Remove this and update to the latest versions of Bartholm and UL Panther River.
 bartholm - EE patch.esp
 Bartholm Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -11187,11 +11182,11 @@ Oblivion Gate Map Marker Remover.esp
 
 OTEP - Aleswell.esp
 VeronaHouseBloodlines-UL patches Merged.esp
-? Outdated. Upgrade the affected UL mods and then delete this patch.
+? Outdated. Update the affected UL mods and then delete this patch.
 
 JTICTunnel.esp
 Imperial City Waterfront Tunnel Entrance v2.1.esp
-? Upgrade to v3.0 or later.
+? Update to v3.0 or later.
 " Better Cities. Already included in Better Cities IC plugins.
 Imperial City Waterfront Tunnel Entrance v3.0.esp
 " Better Cities. Already included in Better Cities IC plugins.
@@ -11229,11 +11224,11 @@ Duke Patricks Sickness Alarm.esp
 
 Duke Patrick's Old Man on the Mountain.esp
 Duke Patricks Street Performer.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 Duke Patricks - Street Performer.esp
 
 Duke Patricks Dont Be A Soch.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 Duke Patricks - Dont Be A Soch.esp
 
 Duke Patrick's Health Alarm.esp
@@ -11253,7 +11248,7 @@ Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 % {{BASH:Sound}}
 
 Duke Patricks The Lady said NO.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 DukePatricksTheLadysaidNO.esp
 
 Skingrad outer district.esp
@@ -11295,14 +11290,14 @@ OBCBravilB&M-Barrowfields patch.esp
 \''''''''''''''''''''''''''''''''
 
 Open Cities.esp
-? Obsolete, unsupported. Please upgrade to version 3.0+.
+? Obsolete, unsupported. Please update to version 3.0+.
 
 Open Cities + Cats & Rats.esp
-? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
+? Obsolete. Please update Cats&Rats and Open Cities to latest versions.
 Open Cities + Cats & Rats for MMM.esp
-? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
+? Obsolete. Please update Cats&Rats and Open Cities to latest versions.
 Open Cities + Cats & Rats for Francescos.esp
-? Obsolete. Please upgrade Cats&Rats and Open Cities to latest versions.
+? Obsolete. Please update Cats&Rats and Open Cities to latest versions.
 
 Open Cities New Sheoth.esp
 : Official Shivering Isles expansion.
@@ -11345,22 +11340,22 @@ Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 Crowded Cities for OCR.esp
 
 Open Cities Reborn - Anvil.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bravil.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bruma.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Cheydinhal.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Chorrol.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Leyawiin.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Skingrad.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn - Full Merge.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn.esp
 Open Cities Reborn + Bravil Blood&Mud.esp
@@ -11393,7 +11388,7 @@ OCLR+ULBWForest Patch.esp
 OC+Cheydinhal Falls Patch.esp
 OC+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
-? Obsolete. Upgrade West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
+? Obsolete. Update West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
 Better Benirus Manor OC Patch.esp
 ? Not compatible with Open Cities Reborn.
 III-LeyawiinRebornPatch.esp
@@ -11867,7 +11862,7 @@ Druid_Cowl_proper.esp
 DS Less Predictable Respawn.esp
 Alchemy Pocket.esp
 DS Alchemy Pouch.esp
-? Old version upgrade to Portable Sorters
+? Outdated. Upgrade to Portable Sorters.
 Mage's Alchemy Pocket.esp
 DS Portable Sorters.esp
 : COBL.
@@ -12637,7 +12632,7 @@ SpellMenu.esp
 \BeginGroup\: SPT Diverse Guards
 SPTDiverseGuards-Core.esp
 SPTDiverseGuards.esp
-$ Probably not compatible with OOO. Upgrade to version 2.0+.
+$ Probably not compatible with OOO. Update to version 2.0+.
 SPTDiverseGuardsMRAll.esp
 ? Use 'SPTDiverseGuardsMRAll.esp' or 'SPTDiverseGuardsMRHuman.esp' but not both at the same time.
 SPTDiverseGuardsMRHuman.esp
@@ -13228,7 +13223,7 @@ PTNoRunningBowsSpells.esp
 ReducedBackwardsSpeed.esp
 StumbleRunningBackwards.esp
 Duke Patricks Running Backwards RISK.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 Duke Patricks - Running Backwards RISK.esp
 Addendum - Athletics.esp
 ReducedBackwardsRunningSpeed.esp
@@ -13240,7 +13235,7 @@ WPHealthRegen.esp
 Wounds Healed - 1.1.esp
 NoHealingDuringWait.esp
 Natural Hunger v2_0 by QF.esp
-? Old, upgrade to version 2.1.
+? Old, update to version 2.1.
 Natural Hunger v2_1 by QF.esp
 Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
@@ -13293,7 +13288,7 @@ TFE Beta 2 - vampire tweak and no message spam.esp
 Duke Patricks - Basic Hypothermia.esp
 CoH Hypothermia Patch.esp
 Duke Patricks Hydration and Water Harvesting.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 Duke Patricks - Hydration and Water Harvesting.esp
 
 Roughing It.esp
@@ -13345,9 +13340,9 @@ KINewVampires.esp
 LTDVampireOverhaul.esp
 PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
-? Old upgrade to 'Twillith vampirism.esp'.
+? Old update to 'Twillith vampirism.esp'.
 Twillith vampirism 1.71.esp
-? Old upgrade to 'Twillith vampirism.esp'.
+? Old update to 'Twillith vampirism.esp'.
 Twillith vampirism.esp
 vampire_without_disadvantages-7944.esp
 Vampirismless Vampires.esp
@@ -13406,7 +13401,7 @@ Vampire Aging Disabled 2 XYoung.esp
 Nekhanimal's Awesome Vampire Mod.esp
 NAVM GREETING fix.esp
 Duke Patricks Nosferatu Vampires.esp
-? Old. Upgrade to latest version.
+? Old. Update to latest version.
 % {{BASH:Sound}}
 Duke Patricks - Nosferatu Class Vampires.esp
 % {{BASH:Sound}}
@@ -14214,7 +14209,7 @@ FameAndInfamyAnnouncerNoStonesBountyDeduct.esp
 
 Enhanced Grabbing.esp
 Enhanced Grabbing - Debug.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 GrabCompanion.esp
 
 GrabLiveNPC_OBSE.esp
@@ -14239,9 +14234,9 @@ Locational Damage- Effects.esp
 Locational Damage- Accurate Armour Damage.esp
 
 Adrenaline-Fuelled Combat.esp
-? Outdated. Upgrade to v2+.
+? Outdated. Update to v2+.
 Adrenaline Fuelled Archery- Bow Sway.esp
-? Outdated. Upgrade to v2+.
+? Outdated. Update to v2+.
 
 AlliriaArmorRebalanced.esp
 
@@ -14382,13 +14377,13 @@ ptThrowingWeapons.esp
 CombatWarning.esp
 
 Deadly Reflex - Timed Block + Higher Damage.esp
-? Outdated. Upgrade to v5+.
+? Outdated. Update to v5+.
 Deadly Reflex - Timed Block no other changes.esp
-? Outdated. Upgrade to v5+.
+? Outdated. Update to v5+.
 DeadlyReflex - Timed Block + Very High Damage.esp
-? Outdated. Upgrade to v5+.
+? Outdated. Update to v5+.
 Mounted_Spellcasting Deadly Reflex Compatible.esp
-? Outdated. Upgrade to v5+.
+? Outdated. Update to v5+.
 
 Deadly Reflex 5 - Timed Block.esp
 ? Use no more than one Timed Block plugin.
@@ -14430,38 +14425,38 @@ kuerteeBattleFatigueAndInjuries.esp
 kuertee MMM OnLoadCS disabled hmf effects.esp
 
 Duke Patricks Near Miss Arrow Shot Alerts The Target.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - Near Miss Arrow Shot Alerts The Target.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - arrow shots alarm the targets.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - Near Miss Magic And Arrow Shots Alert The Target.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - Near Miss Magic And Arrows Alert The Target.esp
 
 Duke Patricks - Stat Based Bob And Weave.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks Bob and Weave Dodge GOLD Edition.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - Bob and Weave Dodge Mark II.esp
-? Outdated upgrade to latest version.
+? Outdated. Update to latest version.
 DocDodge.esp
 Double-tap dodge.esp
 : OBSE 19+.
 
 Duke Patricks - NPCs Now Bob Under Your Shots.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patrick's NPCs Now Bob Under Your Shots.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patrick's Vampires Bob Under Your Shots.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - All NPC Or Just Vampires Now Bob And Weave.esp
 Duke Patricks - Everyone Or Just Vampires Now Bob And Weave.esp
 
 Duke Patricks NPC Arrow Shots Can Miss Now.esp
-? Outdated. Upgrade to latest version ('Duke Patricks - Actors Can Miss Now.esp').
+? Outdated. Update to latest version ('Duke Patricks - Actors Can Miss Now.esp').
 Duke Patricks - NPC MAGIC and Arrows Can Miss Now.esp
-? Outdated. Upgrade to latest version ('Duke Patricks - Actors Can Miss Now.esp').
+? Outdated. Update to latest version ('Duke Patricks - Actors Can Miss Now.esp').
 Duke Patricks - Actors Can Miss Now.esp
 ? Causes CTD with companions. Use 'Duke Patricks - Friendship Ring For Companion Detection' to avoid this.
 
@@ -14475,9 +14470,9 @@ Duke Patricks Contagious Zombies.esp
 Duke Patricks - Basic Combat Geometry.esp
 
 Duke Patrick's Smash of the Titans.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patrick`s Smash of the Titans.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - Smash Of The Titans.esp
 SMCombatRegen.esp
 SpookyNPCAIModsMerge.esp
@@ -14899,11 +14894,11 @@ less_dungeon_effects-6330.esp
 
 
 Let There Be Darkness.esp
-? Obsolete. Upgrade to version 1.2+.
+? Obsolete. Update to version 1.2+.
 % {{BASH:C.Light, Deactivate}}
 Let There Be Darkness - Shivering Isles.esp
 : Shivering Isles.
-? Obsolete. Upgrade to version 1.2+.
+? Obsolete. Update to version 1.2+.
 % {{BASH:C.Light, Deactivate}}
 Let There Be Darkness - Cyrodiil.esp
 % {{BASH:C.Light, Deactivate}}
@@ -15158,7 +15153,7 @@ Capucine'sEyeSelection+NewHair.esp
 % {{BASH:Hair, Eyes}}
 Comprehensive Style Collection RM.esp
 % {{BASH:Hair, Eyes}}
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 CSC.esp
 % {{BASH:Hair, Eyes}}
 CSC RM.esp
@@ -16091,9 +16086,9 @@ Companion Maria.esp
 Companion Neeshka.esp
 % {{BASH:Hair}} for the Mystic Elf version.
 Companion Neeshka Rwalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Companion Neeshka Swalk.esp
-? Old, consider upgrading to Sensual Walks mod'.
+? Obsolete. Remove this and install Sensual Walks.
 Companion Neeshka Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 companion_deepelves.esp
@@ -16972,7 +16967,7 @@ Better Cities - Open Better Cities.esp
 \BeginGroup\: Obsolete BC files
 
 Better Cities IC Districts.esp
-? Obsolete. Remove this and upgrade to the latest version of Better Cities.
+? Obsolete. Remove this and update to the latest version of Better Cities.
 BCAnvil-LostCoast Fix.esp
 ? Obsolete. Remove this and update Better Cities to latest version.
 Better Cities - Unique Landscape Lost Coast.esp
@@ -17053,66 +17048,66 @@ Better Cities Full - LEYAWIIN No Flooding.esp
 ? Obsolete. Remove this and update Better Cities to latest version.
 
 Better Cities Full Patch.esp
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Full - B&M Edition FPS Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Skingrad Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Leyawiin Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Chorrol Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Cheydinhal Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Bruma Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Bravil Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Bravil - Blood & Mud Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities Anvil Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Imperial City Patch.esp
 ? Only use if using Better Imperial City.esp
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Temple Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Talos Plaza Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Prison Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Market Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Green Emperor Way Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Elven Gardens Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Arena Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Arcane University Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 Better Cities IC Arboretum Patch.esp
 ? Only use if using the separate Better Cities .esps
-? Outdated. Upgrade to latest version of Better Cities.
+? Outdated. Update to latest version of Better Cities.
 \EndGroup\\
 \EndGroup\\
 
@@ -17411,10 +17406,10 @@ spellstrip 1.0.esp
 \BeginGroup\: Shader replacers
 \''''''''''''''''
 Duke Patrick's magic you can believe in 4p5.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 % {{BASH:Sound}}
 Duke Patrick's magic you can believe in 5.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 % {{BASH:Sound}}
 Duke Patricks - Magic you can believe in.esp
 % {{BASH:Sound}}
@@ -17796,15 +17791,15 @@ NoScriptHitVisual.esp
 % {{BASH:Sound, Graphics}}
 Script Effect Silencer.esp
 Duke Patricks Script Effect Silencer.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks Script Effect Silencer Rev 2.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks Script Effect Silencer Silver Edition.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks Script Effect Silencer Gold Edition.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - BASIC Script Effect Silencer BETA.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 
@@ -17814,7 +17809,7 @@ UnnecessaryViolenceNormalSpeed.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 
 DeadlyReflex - Combat Moves.esp
-? Outdated. Upgrade to v5+.
+? Outdated. Update to v5+.
 DeadlyReflex 6 - Combat Moves.esp
 % {{BASH:Graphics}}
 : NifSE ("http://www.tesnexus.com/downloads/file.php?id=21292")
@@ -17862,7 +17857,7 @@ UnderdarkMap.esp
 Companion Compatibility.esp
 
 Open Cities Road Record.esp
-? Obsolete. Remove this and upgrade to Open Cities Classic 3.5+.
+? Obsolete. Remove this and update to Open Cities Classic 3.5+.
 % {{BASH: Deactivate, Roads}}
 Open Cities Classic Road Record.esp
 % {{BASH: Deactivate, Roads}}
@@ -17871,7 +17866,7 @@ Open Cities LR Road Record.esp
 % {{BASH: Deactivate, Roads}}
 ? Obsolete. Remove this and install Open Cities Reborn.
 Open Cities Reborn Road Record.esp
-? Obsolete. Upgrade to Open Cities Reborn 0.8.1 or higher, then delete this plugin.
+? Obsolete. Update to Open Cities Reborn 0.8.1 or higher, then delete this plugin.
 % {{BASH: Deactivate, Roads}}
 ? Use only one road record file.
 NRB4 Standard Road Record.esp
@@ -17880,7 +17875,7 @@ NRB4 Standard Road Record.esp
 ? Use only one road record file.
 NRB4 OCLR Road Record.esp
 % {{BASH: Deactivate, Roads}}
-? Obsolete. Remove this and upgrade to New Roads & Bridges 4.5.6+.
+? Obsolete. Remove this and update to New Roads & Bridges 4.5.6+.
 NRB4 OCReborn Road Record.esp
 % {{BASH: Deactivate, Roads}}
 : Open Cities Reborn.
@@ -17998,15 +17993,15 @@ Duke Patricks - Shield Charge.esp
 Duke Patricks - SCA Shield Tricks.esp
 
 Duke Patricks SCA Melee combat with NO RECOIL.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patrick's SCA style combat NO RECOIL Rev 6.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - SCA Melee Combat with NO RECOIL.esp
 
 Duke Patricks SCA Combat Archery.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 Duke Patricks - SCA Combat Archery.esp
-? Outdated. Upgrade to latest version.
+? Outdated. Update to latest version.
 SpookyArcheryMagicMeleeMerge.esp
 
 Duke Patrick's SCA Combat Archery patch for CnC.esp

@@ -1528,7 +1528,10 @@ Character_Changer-2826.esp
 Clintmichs Market District Merchants.esp
 crafting.esp
 CWar's Chest of Fun v1.4.esp
+
 007camera.esp
+Camera Redone.esp
+: OBSE 16+.
 ChaseCameraMod.esp
 ChaseCameraMod_1C.esp
 CET-Utility-Belt.esp
@@ -2060,6 +2063,7 @@ Poisonous Apple for poison fix.esp
 Portable Bedroll.esp
 Portable Campsite.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Camping.esp
 PotionMixer.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
@@ -5660,6 +5664,7 @@ LuckBasedLootForFrans.esp
 <FranDarkSeducerWeapFix.esp
 <% {{BASH:Delev, Relev}}
 <FranSeducerScriptFix.esp
+Francesco's Optional Skill Based Damage & Durability.esp
 
 Francesco's Boar Addon.esp
 Francesco's Boars Add-On.esp
@@ -9451,6 +9456,8 @@ Tavern-Goers 2 Vwalk.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
+Temple District Rebuild.esp
+? Don't use unless you've finished the main quest!
 Temple District Repaired.esp
 templars.esp
 templars v1.0 Delayer.esp
@@ -9722,6 +9729,7 @@ Verwen Brewery.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
+? Versions under 2.6: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide" or better yet update to the latest.
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp

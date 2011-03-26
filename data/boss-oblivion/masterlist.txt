@@ -2411,7 +2411,7 @@ Crowded Cities for OCR.esp
 
 RealisticPopulation_Cheydinhal.esp
 RealisticPopulation_Anvil.esp
-RealisticPopulation_Bravil.esp 
+RealisticPopulation_Bravil.esp
 RealisticPopulation_Chorrol.esp
 RealisticPopulation_Leyawiin.esp
 
@@ -6991,7 +6991,6 @@ LBVermin.esp
 LBUndeadAdditions.esp
 LBWaterBeasts.esp
 Skeleton Diversity.esp
-ZUSwordFlameAtro.esp
 \EndGroup\\
 
 Creature Restorations.esp
@@ -16504,6 +16503,11 @@ SkinMannequinCOBL-nosleep.esp
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
+ZUSwordFlameAtro.esp
+ZUSwordFlameAtro_Vanilla.esp
+ZUSwordFlameAtro_UOP.esp
+ZUSwordFlameAtro_OOO.esp
+ZUSwordFlameAtro_ZUSIO.esp
 ZUSIO-RatsInCrucible.esp
 
 ZUSIO-MMM SI-patch.esp

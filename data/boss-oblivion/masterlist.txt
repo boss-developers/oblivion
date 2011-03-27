@@ -11266,6 +11266,18 @@ DukePatricksTheLadysaidNO.esp
 Skingrad outer district.esp
 SPD-SailableRivers.esp
 ? Most likely incompatible with some ULs
+
+Salmo The Baker v2.0.esp
+Salmo The Baker v3.08.esp
+Salmo the Baker, Cobl.esp
+% {{BASH:C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
+? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Salmo WV, Cobl.esp
+? Version of Salmo the baker for Woodland Village.
+? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+BetterInns - Salmo the Baker, Cobl PATCH.esp
+
 \EndGroup\\
 
 \BeginGroup\: Open Better Cities
@@ -12434,16 +12446,6 @@ RuneDoomWell.esp
 Safer Roads v1.0.esp
 ? Don't use with MMM or FCOM - unkown with other overhauls
 Sagantor's Bloodlust.esp
-Salmo The Baker v2.0.esp
-Salmo The Baker v3.08.esp
-Salmo the Baker, Cobl.esp
-% {{BASH:C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
-? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Salmo WV, Cobl.esp
-? Version of Salmo the baker for Woodland Village.
-? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
-BetterInns - Salmo the Baker, Cobl PATCH.esp
 SA Social Alertness.esp
 SBDummyTraining.esp
 Scouter.esp

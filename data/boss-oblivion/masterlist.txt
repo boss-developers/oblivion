@@ -6896,9 +6896,21 @@ WAC - ItemLootFix4v1.0bMMM.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For MMM / OOO+MMM / FCOM
 ? Use only one WAC - ItemLootFix plugin.
+WAC OgrePatch.esp 
+% {{BASH:Graphics}}
 WAC.esp
+WAC v1 BulkyMonsters.esp 
+% {{BASH:Graphics}}
+WAC Giants Patch.esp
+% {{BASH:Graphics}}
+WAC GiantPatch plus.esp
+% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
+WAC BM plus.esp
+% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
 WAC - OverSpawn.esp
 % {{BASH:Actors.Spells, Delev, Graphics, Invent, Relations, Relev}}
+WAC MinotaurPatch plus.esp
+% {{BASH:Actors.ACBS,Actors.Anims,Actors.Spells,Graphics}}
 WAC - OverSpawn4v1.0bOWCND.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4OOO.esp
@@ -6920,6 +6932,8 @@ WAC - Companions.esp
 % {{BASH:Factions}}
 WAC - Horses.esp
 % {{BASH:Delev,Graphics,Names,Relev}}
+WAC HorsePath v1.esp 
+% {{BASH:Graphics}}
 WAC - TCOS.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Eyes, Delev, Graphics, Invent, NPC.Race, R.Teeth, Relev}}
 WAC - TCOS Invent only.esp

@@ -1148,6 +1148,7 @@ More Immersive Sounds.esp
 More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MIS New Sounds Optional Part.esp
 % {{BASH:Scripts}}
 Atmospheric Oblivion.esp
@@ -5713,7 +5714,6 @@ Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+COBL Luggage Patch.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
@@ -7268,7 +7268,6 @@ Epic_Dungeon.esp
 AdenseEpicDungeon.esp
 \ It's a bit like a merry-go-round. Yay for going back to a simple plugin name!
 ? Newest version has the same name as the original. Check that you're using at least v1.5.2.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AdenseEpicDungeon1_1.esp
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 AdenseEpicDungeon1_2.esp
@@ -7648,6 +7647,7 @@ BD&R - Deepgrave.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bjornheim.esp
 ? This ESP has critical errors and should not be used in an active game. Regular TES4Edit cleaning is not enough to repair it.
 Bjornheim_1C.esp
@@ -8256,6 +8256,7 @@ HauntedLairMod.esp
 Haven of the Mad.esp
 HazadirsArms.esp
 HauntedHouse.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
 hchouse408.esp
@@ -8592,7 +8593,7 @@ Kragenir's Death Quest.esp
 Kragenir's Death Quest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
-
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KTVH - Walking In The Shoes.esp
 
 300_White Stallion+SB23.esp
@@ -8832,6 +8833,7 @@ Mero Trading.esp
 TradeShip.esp
 MGB.esp
 Mimics!.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Miners n Pickaxes.esp
 MiniCyrodiil.esp
 Miniquest_Vampire.esp
@@ -8961,6 +8963,7 @@ NocturneCallSteed.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nou-Malatu.esp
 
 NNWAREAyleidDungeons_Series1EV.esp
@@ -9141,6 +9144,7 @@ RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -9149,6 +9153,7 @@ Region_Revive_-_Lake_Rumare_FuseSnailRacing_Patch.esp
 " If loaded after OOO.esp this cause OOO's lockbash feature to fail. To fix this simply load RL-LR before OOO.esp.
 RealmofRuun.esp
 Return Of Shadows.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Return Of Shadows Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Return of the Ayleids.esp
@@ -9360,6 +9365,7 @@ Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
 " 'Ayleid Wells'
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sbturm_Penthouse.esp
 sbtP_ad cobl.esp
 SRJclannfearWilson.esp
@@ -9406,6 +9412,7 @@ Stonewall Townhouse.esp
 Street Market.esp
 striders.esp
 SunderedKeep.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
@@ -9507,6 +9514,7 @@ The Black Sacrament.esp
 : OBSE
 The Crazy Scientist.esp
 The Crimson Queen.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Dark Trilogy.esp
 The Duelists.esp
 The Duelists Revolver.esp
@@ -10343,6 +10351,7 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH:C.Owner, Factions}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -10628,6 +10637,7 @@ Castle_Tirith Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 HeartoftheDead.esp
 % {{BASH:Hair}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HeartOftheDead Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 OC-HOD-Patch.esp

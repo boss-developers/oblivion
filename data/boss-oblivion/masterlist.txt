@@ -1115,7 +1115,7 @@ Enviroment.esp
 Real Water.esp
 realWaters.esp
 Realistic Water.esp
-% {{BASH:C.Water}}
+% {{BASH:C.Water, Graphics}}
 Wavy_Water.esp
 
 \EndGroup\\

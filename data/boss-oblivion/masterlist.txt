@@ -6959,11 +6959,14 @@ WAC - Gladiator.esp
 WAC - Magic.esp
 WAC - QuietFeet.esp
 
+
 WACESM_MiscItemsRebal.esp
 % {{BASH:Stats}}
 WACESM_Ingredients_Rebalance.esp
 % {{BASH:Stats}}
 WAC-OOO.esp
+WAC - Cat Crash Fix.esp
+% {{BASH:Actors.Skeleton, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul

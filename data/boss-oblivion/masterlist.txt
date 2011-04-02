@@ -6896,6 +6896,8 @@ WAC - ItemLootFix4v1.0bMMM.esp
 % {{BASH:Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? For MMM / OOO+MMM / FCOM
 ? Use only one WAC - ItemLootFix plugin.
+WAC - WeaponReachMOBS.esp
+% {{BASH:Stats}}
 WAC OgrePatch.esp 
 % {{BASH:Graphics}}
 WAC.esp

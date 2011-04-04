@@ -11363,26 +11363,39 @@ Open Cities New Sheoth.esp
 Open Cities Bartholm.esp
 : Bartholm. "http://www.tesnexus.com/downloads/file.php?id=5022"
 
+Open Cities Classic.esp
+
 Open Cities Anvil.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Bravil.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 
 Open Cities Bravil Blood&Mud.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 : Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 Open Cities Bruma.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Cheydinhal.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Chorrol.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Leyawiin.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Skingrad.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 Open Cities Outer Districts.esp
 Open Cities Full.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 
 Open Cities Full + Bravil Blood&Mud.esp
+? Obsolete, unsupported. Please update to version 4.0+.
 : Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 Open_Cities_Complete-Leyawiin_Reborn.esp
+? Obsolete, unsupported. Please update to Open Cities Reborn 0.9 or above.
 Open Cities Full + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
@@ -11415,8 +11428,6 @@ Open Cities Reborn - Full Merge.esp
 ? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn.esp
-Open Cities Reborn + Bravil Blood&Mud.esp
-: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
 
 \EndGroup\\
 

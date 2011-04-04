@@ -5597,7 +5597,6 @@ DLCThievesDen Vwalk UOP.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thievesden_mobs.esp
 % {{BASH:NoMerge, Stats}}
 dunbarrowupgrade.esp

@@ -6900,10 +6900,10 @@ WAC - ItemLootFix4v1.0bMMM.esp
 ? Use only one WAC - ItemLootFix plugin.
 WAC - WeaponReachMOBS.esp
 % {{BASH:Stats}}
-WAC OgrePatch.esp 
+WAC OgrePatch.esp
 % {{BASH:Graphics}}
 WAC.esp
-WAC v1 BulkyMonsters.esp 
+WAC v1 BulkyMonsters.esp
 % {{BASH:Graphics}}
 WAC Giants Patch.esp
 % {{BASH:Graphics}}
@@ -6936,7 +6936,7 @@ WAC - Companions.esp
 % {{BASH:Factions}}
 WAC - Horses.esp
 % {{BASH:Delev, Graphics, Names, Relev}}
-WAC HorsePath v1.esp 
+WAC HorsePath v1.esp
 % {{BASH:Graphics}}
 WAC - TCOS.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Eyes, Delev, Graphics, Invent, NPC.Race, R.Teeth, Relev}}

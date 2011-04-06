@@ -11416,8 +11416,9 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 NRB4+ClassBeginning Patch.esp
-OCLR+ULBWForest Patch.esp
-OC+Cheydinhal Falls Patch.esp
+OCR+ULBWForest Patch.esp
+OCC+Cheydinhal Falls Patch.esp
+OCR+Cheydinhal Falls Patch.esp
 OC+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
 ? Obsolete. Update West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.

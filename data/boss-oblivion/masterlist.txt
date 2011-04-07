@@ -5976,8 +5976,6 @@ Hemingweys Capes for FCOM_FrancescosNamedBosses.esp
 
 MALO - Clutter Replacer OOO.esp
 
-OCC-OOO-Patch.esp
-
 Oscuro's_Oblivion_Overhaul Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -11408,6 +11406,8 @@ OCC-ABE-LC-Land Patch.esp
 ? Obsolete. Delete this patch.
 OCC-ABE-Patch.esp
 ? Obsolete. Delete this patch.
+OCC-OOO-Patch.esp
+OCR + OOO Patch.esp
 OCC-Roads-Patch.esp
 ? Obsolete. Upgrade New Roads & Bridges and then delete this patch.
 OCC-ULCH-Patch.esp

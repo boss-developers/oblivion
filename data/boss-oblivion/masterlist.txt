@@ -1117,6 +1117,7 @@ realWaters.esp
 Realistic Water.esp
 % {{BASH:C.Water, Graphics}}
 Wavy_Water.esp
+OBGE Water and Shaders.esp
 
 \EndGroup\\
 
@@ -4243,6 +4244,7 @@ Ranger's Shroud Armor.esp
 Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
 Ravenous Blade.esp
+RavenousEleganceRoberts.esp
 RavenWearClothing.esp
 RavenWearArmor.esp
 raziel's crystal equipment.esp
@@ -4977,6 +4979,8 @@ Weapon Collection.esp
 \Stuff for use with body replacers.
 \VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 
+All Manly.esp
+% {{BASH:Graphics, NoMerge}}
 StockClothingArmor-forExnems.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
 StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
@@ -5151,6 +5155,7 @@ ktx_FlameAtronachArmor.esp
 Holy MythicDawn Armor.esp
 UFF Holy Mythic Dawn Armor.esp
 Arctic Gear Improved.esp
+Diannes UFF Daedric Casual Attire.esp
 Dragonbone Armor Set.esp
 UFF Dragonbone Armor Set.esp
 UFF Boots Collection.esp
@@ -5472,6 +5477,12 @@ WhistleTrainer.esp
 Zira My Horses Compilation.esp
 Zira's Monster Horse.esp
 Zira's Horse Stable.esp
+Zira's Horse Modpack - My Horses.esp
+Zira's Horse Modpack - Heavy Legion Horses.esp
+Zira's Horse Modpack - Friesian Horses.esp
+Zira's Horse Modpack - Shadowmere.esp
+Zira's Horse Modpack - Extra Horses.esp
+Zira's Horse Modpack - More Horses.esp
 Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
@@ -8462,6 +8473,7 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 " Better Cities Full or Better Cities Leyawiin components.
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 " Better Cities Full or Better Cities Skingrad components.
+ImpeREAL Shops - Restock empty Counters & Display Tables - Merged.esp
 
 Imperial Library.esp
 Imperial City Ranch.esp
@@ -8859,6 +8871,7 @@ Mod - IC Armory.esp
 MolagBalTreasury.esp
 Mondstein - female Companion.esp
 More Skingrad.esp
+MorrowOblivion_World Transport.esp
 MountainRetreat.esp
 MountainTower.esp
 SYS Patch-Mountain Tower.esp
@@ -12104,6 +12117,7 @@ ImmersiveWait Rus.esp
 ? Russian version?
 SleepRestAnyTime.esp
 ImprovedSoulgems.esp
+Improved Elixirs of Exploration.esp
 Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 cf_Improved_Barter_Gold.esp
@@ -14865,6 +14879,14 @@ Goma Pose 5.esp
 Goma Pose 6.esp
 Goma Pose 7.esp
 Goma Pose 8.esp
+Goma Pose 9.esp
+Goma Pose 10.esp
+Goma Pose 11.esp
+Goma Pose 12.esp
+Goma Pose 13.esp
+Goma Pose 14.esp
+Goma Pose 15.esp
+Goma Pose 16.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -17802,6 +17824,7 @@ Shining Creatures_DLCFrostcrag.esp
 Shining Creatures_OOO.esp
 % {{BASH:Invent}}
 \EndGroup\\
+FakeHDR_SM20_bettersun.esp
 
 \EndGroup\\
 

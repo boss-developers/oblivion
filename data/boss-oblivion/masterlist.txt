@@ -3835,6 +3835,8 @@ Jade Dishes.esp
 javrmb.esp
 javbmb.esp
 JBlades!.esp
+? Update to version 1.1+.
+JBlades!1.1.esp
 JBladesVol2.esp
 % {{BASH:Relev}}
 JBScimitar.esp
@@ -4690,6 +4692,7 @@ UFF & ROBERT Noviere's Gray Fox Armor.esp
 Underwear HGEC placed.esp
 Underworld Armor.esp
 Unenchanted Staves.esp
+Real Barenziah Uncensored.esp
 UnexpurgatedBarenziahv100.esp
 UnexpurgatedBarenziahPAv100.esp
 Unique Ebony Sets.esp
@@ -5305,6 +5308,7 @@ R18PN - Ayumi Set.esp
 R18PN - Bikini Re-Textured.esp
 R18PN - Dancer's Dress.esp
 R18PN - Eisen Platte Armor.esp
+R18PN - Fiona Armor.esp
 R18PN - FuruFuru Armor.esp
 R18PN - Heilige Mutter Armor.esp
 R18PN - Lingeries.esp
@@ -7906,6 +7910,9 @@ Dalls_Inheritance.esp
 Dalls_MolagBaal.esp
 Dalls_Merchant.esp
 Dalls Collection.esp
+DAMuseum.esp
+DAMuseumFRAN.esp
+DAMuseumMehrunesRazor.esp
 Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 DarelothFrontDoorFix.esp
@@ -8357,6 +8364,8 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
 ImperialCityApartment.esp
+Imperial City Manor.esp
+" Region Revive - Lake Rumare.
 Imperial City Temple Clean.esp
 Imperial City Townhouse.esp
 Imperial City Welcome Sign.esp
@@ -9474,12 +9483,6 @@ Aylied Steps - AN Real Lights patch.esp
 \Yes, that spelling error is correct.
 : The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
-Eyja_DV 1.0..esp
-eyja Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-Eyja Abriael Human Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-EyjaFaceFixed.esp
 The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
@@ -9582,6 +9585,7 @@ TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp
 TobesHouseRu.esp
+Toc Toc - The Raven.esp
 TolawaylAyleidCity_Quest.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
@@ -10159,6 +10163,7 @@ PONWindows.esp
 Consequences.esp
 Consequences_Knights.esp
 Consequences_Vile.esp
+DAMuseumKnights.esp
 
 EiAmod_Knights.esp
 Knights Essential.esp
@@ -10869,7 +10874,6 @@ Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 Blood Raven Lush Woodlands Patch.esp
-HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 
@@ -11416,6 +11420,7 @@ OCC-ULCH-Patch.esp
 ? Do not use with Open Cities Reborn.
 OCR+ULCH Patch.esp
 ? Do not use with Open Cities Classic.
+HoarfrostCastle-LushWoodlands patch.esp
 OCC-COBL-Wells.esp
 NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
@@ -11691,6 +11696,7 @@ bgProtectMortalNPCs.esp
 BHC Home Delivery.esp
 BIDA- Blade + Magic Damage.esp
 \quite a lot of other BIDA plugins - need to research
+Bigger_Bears-3733.esp
 Birthsigns Expanded.esp
 % {{BASH:Names}}
 ? May be a bit imbalanced when used with Race Balancing Project
@@ -12914,6 +12920,7 @@ vendorchest-fix Shivering Isles.esp
 vendorfreedom.esp
 % {{BASH:relev}}
 Vincente Valtieri Imperial.esp
+% {{BASH:Voice-M}}
 vn_goldweight.esp
 \EndGroup\\
 
@@ -13581,6 +13588,7 @@ Necronlittlemagicmod1.1.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
 OblivionGateTraveller.esp
+Oblivion Gate Closer Spell.esp
 Open_Very_Hard_Lock.esp
 Pants Be Gone 1.3 With Demoralize.esp
 ? Use only one Pants Be Gone 1.3 mod
@@ -14584,7 +14592,31 @@ Faster Level Up X50.esp
 Faster Level Up X100.esp
 Faster Skills x5.esp
 G_'s-Level-Slow.esp
-
+SlowerOblivion_x2.esp
+SlowerOblivion_x3.esp
+SlowerOblivion_x4.esp
+SlowerOblivion_x6.esp
+SlowerOblivion_x8.esp
+SlowerOblivion_x10.esp
+SlowerOblivion_x1_M.esp
+SlowerOblivion_x2_M.esp
+SlowerOblivion_x3_M.esp
+SlowerOblivion_x4_M.esp
+SlowerOblivion_x6_M.esp
+SlowerOblivion_x8_M.esp
+SlowerOblivion_x10_M.esp
+SlowerOblivion_x2_T.esp
+SlowerOblivion_x3_T.esp
+SlowerOblivion_x4_T.esp
+SlowerOblivion_x6_T.esp
+SlowerOblivion_x8_T.esp
+SlowerOblivion_x10_T.esp
+SlowerOblivion_x2_TM.esp
+SlowerOblivion_x3_TM.esp
+SlowerOblivion_x4_TM.esp
+SlowerOblivion_x6_TM.esp
+SlowerOblivion_x8_TM.esp
+SlowerOblivion_x10_TM.esp
 AttributeInfluenceSkill.esp
 Enchanting Skill.esp
 Rathe's Better Intelligence.esp
@@ -14802,6 +14834,7 @@ CTAddPose_osr3.esp
 CTAddPose_fujosi_eng.esp
 CTAddPose_Le01.esp
 CTAddPose_Le02.esp
+CTAddpose_Ordinary.esp
 CTAddPose_OTPair.esp
 CTAddPose_OTpair2.esp
 CTAddPose_ bondage_sex.esp
@@ -14861,6 +14894,7 @@ CT_prendre_pose.esp
 Pose Thumbnail Poses.esp
 
 geechan_SimplePose.esp
+NaRae Pose - 01.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
 Pose de Lain v1.4.esp
@@ -15600,6 +15634,12 @@ Wolven Anthros.esp
 eyja.esp
 % {{BASH:C.Water}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Eyja_DV 1.0..esp
+eyja Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Eyja Abriael Human Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+EyjaFaceFixed.esp
 
 Assassins Creed - Altair's Gear.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}

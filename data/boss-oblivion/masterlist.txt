@@ -6567,7 +6567,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Delev, Eyes, Graphics, Hair, Invent, Names, NPC.Race, R.Relations, Relev, Stats}}
+% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Delev, Eyes, Graphics, Hair, Invent, Names, NPC.Race, R.Relations, Relev, Scripts, Stats}}
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp

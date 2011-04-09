@@ -6936,9 +6936,9 @@ WAC GiantPatch plus.esp
 WAC BM plus.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
 WAC - OverSpawn.esp
-% {{BASH:Actors.Spells, Delev, Graphics, Invent, Relations, Relev}}
+% {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Relations, Relev}}
 WAC MinotaurPatch plus.esp
-% {{BASH:Actors.ACBS,Actors.Anims,Actors.Spells,Graphics}}
+% {{BASH:Actors.ACBS, Actors.Anims, Actors.Spells, Graphics}}
 WAC - OverSpawn4v1.0bOWCND.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4OOO.esp
@@ -10532,7 +10532,7 @@ BetterMusicSystem(Elsweyr).esp
 ElsweyrAnequina - Races HGEC-Robert.esp
 % {{BASH:R.Mouth, R.Teeth}}
 ElsweyrMinotaurPatch.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics, NoMerge}}
 ElsweyrAnequina Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 ElsweyrAnequina v2 Vwalk.esp
@@ -15411,7 +15411,7 @@ Lucha's Blood Witch.esp
 : HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 Lucha's Serpenta.esp
-% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth}}
+% {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth}}
 LycanRace.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 YX33A_batch_of_stuff.esp
@@ -15773,7 +15773,7 @@ opaquan.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 KHStrangers.esp
-% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth,Voice-M}}
+% {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
 X.Dea.Obscura.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}
 X.Demon.Race.esp

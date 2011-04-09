@@ -244,6 +244,7 @@ xeoracex117.esm
 Chanpon.esm
 Chocolate Elves.esm
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
+DTC-AdditionalRaces.esm
 Independent High Elf Body (Replace)(v1.1).esm
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 p2p'sAshDraconian.esm
@@ -7174,6 +7175,10 @@ CNME Bloodmoon v1.0.esp
 Morroblivion Improved Map Markers.esp
 Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Water Level Fix.esp
+Morroblivion_Chargen_And_Transport_Mod_v6.esp
+ChargenFix-Thermador.esp
+Ash&BlightStorms.esp
+
 SkingradBridgeLights.esp
 Newsheoth.esp
 palace lights.esp
@@ -7520,6 +7525,7 @@ AshTentMod.esp
 Assassin's Abode.esp
 Assassin's Hideout v1.1.esp
 Assassin Tripwires.esp
+AST_GoldenOakVilla.esp
 AStrangeCave.esp
 Asylum.esp
 Aundae.esp
@@ -8074,6 +8080,7 @@ ElsweyrRiverhold.esp
 ? Do not use if using ElsweyrAnequina.esp.
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
+EM_RedRoseManor.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
 EM_Packdonkeys.esp
@@ -9421,6 +9428,8 @@ StargateMod.esp
 Star's Rest.esp
 Star's Rest for Cobl.esp
 Star's Rest - Ayleid Well.esp
+Star's Rest - SYS Patch.esp
+Star's Rest - AN Patch.esp 
 Steve - Hitman.esp
 Steve - Hitman (Patched) Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -11645,6 +11654,7 @@ ANB_Item_Switchers.esp
 ANB_No_FastTravel.esp
 ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
+Anvil_MorningGlory_Mixed.esp
 APS Abundant Stones.esp
 Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
@@ -12189,6 +12199,7 @@ Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
 LearnScroll.esp
+Less Food.esp
 LessHealthfulRest.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
@@ -15345,6 +15356,8 @@ Dark Seducer Race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 DreamWalker.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
+DTC-AR-PluginElaborateEyesFix.esp
+% {{BASH:Eyes}}
 Golden Saint Race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 PlayableSheogorathMod.esp

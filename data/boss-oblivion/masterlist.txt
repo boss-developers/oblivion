@@ -1118,6 +1118,7 @@ Realistic Water.esp
 % {{BASH:C.Water, Graphics}}
 Wavy_Water.esp
 OBGE Water and Shaders.esp
+OBGE - Liquid Water.esp
 
 \EndGroup\\
 
@@ -1502,6 +1503,8 @@ Bosmer Meat Mandate.esp
 Bottledbloodv1.esp
 Brandy.esp
 $ Not compatible with OOO. OOO contains a similar mod.
+BAKAdventurerTorch.esp
+: OBSE 20+.
 bnmDLTIC-1-6.esp
 $ Not compatible with OOO. OOO contains a similar mod.
 nmDLTIC-1-6.esp
@@ -5284,7 +5287,7 @@ AT2 01-Shiki Armor Set v1_0.esp
 AT2 01-Shiki Armor Set.esp
 AT2 02-Shiki Armor Set.esp
 Chrome Amazon Armor.esp
-% {{BASH:Grpahics}}
+% {{BASH:Graphics}}
 Morrowind Scimitars for Oblivion.esp
 FF7 Swords 02 core apocalypse.esp
 " Open Cities.
@@ -5858,6 +5861,7 @@ OOOHangoverRemedy.esp
 OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH:Stats}}
+OOO-LightOfDawnFlamesWhenDrawnOBSE_1handed.esp
 \EndGroup\\
 
 \BeginGroup\: Post OOO
@@ -7583,6 +7587,7 @@ Battle4Morrowind.esp
 " anything that changes Legion Armor.
 BayOfMermaid.esp
 bazOOkasWatchTowers_v1.esp
+BearHunt.esp
 BecomeALichMod.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp
@@ -8025,6 +8030,7 @@ Druids Guild Mod.esp
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
+DSoSMalamath.esp
 DSPirateIsleBeta.esp
 ? Old, updated to latest version.
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
@@ -9095,8 +9101,14 @@ pythanis.esp
 
 \BeginGroup\: Quests Q
 
+Qaja'kar.esp
+: OBSE 12+.
 qNS3-inventrix.esp
 QOTW001-010.esp
+QOTW011.esp 
+QOTW012.esp
+QOTW013.esp 
+QOTW014.esp
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -9170,6 +9182,7 @@ Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
 RipsInTime I TheTimeRippers.esp
 Rise Of A Samurai.esp
+RisingSunForUpload6-3-2010.esp
 RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
@@ -12176,6 +12189,7 @@ Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
 LearnScroll.esp
+LessHealthfulRest.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 Lights.esp
@@ -13521,6 +13535,7 @@ Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
 Detect Item.esp
+Druid Mod.esp
 Duplicate_Item_Spell.esp
 DuplicateItemSpell.esp
 Elemental Horses.esp
@@ -13671,6 +13686,7 @@ Teleport.esp
 : OBSE.
 Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
+The Arcane Storage.esp
 
 SD Skill Diary rus.esp
 
@@ -14534,6 +14550,7 @@ MM_AllowAlchemy.esp
 MM_AlchemyPotions.esp
 MM_SneakMelee.esp
 PTActorsCare.esp
+PTArcheryRange.esp
 PTDamageFinal.esp
 PTDoorExploitBegone.esp
 PTLessKnockback.esp
@@ -15480,7 +15497,7 @@ Dremora Race Playable.esp
 Dremora Race with Tail.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 DremoraFemales.esp
-% {{BASH:Voices-F}}
+% {{BASH:Voice-F}}
 The Complete Dremora.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 TOCP - Playable Centaur.esp
@@ -15976,6 +15993,7 @@ Colourwheels Sexy Tifa.esp
 % {{BASH:NpcFaces}}
 CM ElizabethColourWheel.esp
 CM Dimon Lineage Elves Merged.esp
+Firefly101 Mythic Dawn Roads 15.esp
 MichaelCM.esp
 Poseidon_ii_s Super Sexy CM Companion Pack.esp
 ArnoldCM2.esp
@@ -17743,6 +17761,7 @@ Summon_Bear.esp
 Better Turn Undead Shader.esp
 Update 2.0 Visually Enchanted.esp
 VampNormalVision.esp
+VEE.esp
 Visually Enchanted 2.1 No Shock Particles.esp
 Visually Enchanted 2.1.esp
 Visually Enchanted.esp

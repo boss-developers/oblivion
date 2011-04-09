@@ -2912,6 +2912,7 @@ avarm.esp
 1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
 1SB_RavenousEleganceOutfit.esp
+: Biu's Adventuress Body (BAB).
 1SB Soulshade Sword.esp
 1SBSoulshadeSword_1C.esp
 1SB_TerryMalick_BallGownVariants.esp
@@ -2926,6 +2927,7 @@ avarm.esp
 1carbonblade.esp
 2masamune.esp
 4431-1.0-wz_Tripwire Test Plugin-TESSource.esp
+[Hwii]Lancer_Dread.esp
 \EndGroup\\
 
 \BeginGroup\: Items A
@@ -3373,6 +3375,7 @@ CasquetteCamisoleX117.esp
 
 \BeginGroup\: Items D
 
+D35DaedricLightArmour.esp
 Daedric Healer Robes.esp
 % {{BASH:Invent}}
 Daethic Armor.esp
@@ -4125,6 +4128,7 @@ Night Knight Armor.esp
 Nighteye Goggles.esp
 ninjacowl.esp
 NinjaMask_by_Vergel.esp
+Nitiren's Genji Armor2.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
 Noble Plate Armory.esp
@@ -4249,6 +4253,7 @@ Ranger's Shroud Armour - RSArmor.esp
 RSArmor.esp
 Ravenous Blade.esp
 RavenousEleganceRoberts.esp
+: Robert's Female Body v12
 RavenWearClothing.esp
 RavenWearArmor.esp
 raziel's crystal equipment.esp
@@ -4770,6 +4775,7 @@ Woodsman Armor.esp
 Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
+wrath.esp
 wrathofmagic.esp
 Wulfharths Fury.esp
 Wyverex's - Runes by DJ.esp
@@ -7175,6 +7181,7 @@ CNME Bloodmoon v1.0.esp
 Morroblivion Improved Map Markers.esp
 Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Water Level Fix.esp
+MorrowOblivion_World Transport.esp
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
 ChargenFix-Thermador.esp
 Ash&BlightStorms.esp
@@ -7454,6 +7461,8 @@ Anvil_MorningGloryBetterCities_Mixed.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 APSFortIronyBETA.esp
+APS Rare Stones.esp
+APS Abundant Stones.esp
 Aqvatika.esp
 Aqua_City_01.esp
 : Shivering Isles
@@ -8830,6 +8839,8 @@ The Imperial Water.esp
 The Imperial Water - BETTER CITIES.esp
 Magister Cogitation.esp
 MakTravellersInn.esp
+MapleoakRetreat.esp
+" UL Lush Woodlands.
 MarasTowerRu.esp
 Marion Estate.esp
 Markets of Cyrodiil HI.esp
@@ -9856,6 +9867,9 @@ Woodland Refuge.esp
 Woodland Rangers.esp
 Woodland-Rangers_DV.esp
 WoodNymph.esp
+Woodsman Home.esp
+? Outdated.  Delete and replace with Woodsman Home_1_2.esp.
+Woodsman Home_1_2.esp
 WOTFH_1.1.esp
 ? Old Version, update to version 1.3+
 WOTFH_1.2.esp
@@ -10553,6 +10567,7 @@ ElsweyrValenwoodImprovedPatch.esp
 : 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
 Elsweyr Valenwood Daedric Shrine Patch.esp
 : 'Daedric Shrine Ruins.esp', 'ElsweyrAnequina.esp', 'Valenwood Improved.esp', 'ElsweyrValenwoodImprovedPatch.esp'
+SLWA_Anequina_Patch.esp
 SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
 WAC - Elsweyr Anequina.esp
@@ -11344,6 +11359,8 @@ OBCBravil-Barrowfields patch.esp
 ? Use OBCBravil or OBCBravilB&M but not both at the same time.
 OBCBravilB&M-Barrowfields patch.esp
 ? Use OBCBravil or OBCBravilB&M but not both at the same time.
+BC+Vvardenfell Imports Patch.esp
+" UL Cheydinhal Falls.
 \EndGroup\\
 
 \BeginGroup\: Open Cities Classic
@@ -12199,6 +12216,7 @@ Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
 LearnScroll.esp
+Less Food.esp
 Less Food.esp
 LessHealthfulRest.esp
 Light Elven Weapons and Mithril Armor.esp
@@ -14945,6 +14963,7 @@ Pose Thumbnail Poses.esp
 
 geechan_SimplePose.esp
 NaRae Pose - 01.esp
+NaRae Pose - 01 Guide Book.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
 Pose de Lain v1.4.esp
@@ -15391,6 +15410,8 @@ Lucha's Blood Witcher.esp
 Lucha's Blood Witch.esp
 : HG EyeCandy Body OR TeamFF Fantasy Figures OR Robert's Female v12
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
+Lucha's Serpenta.esp
+% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth}}
 LycanRace.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 YX33A_batch_of_stuff.esp
@@ -15751,6 +15772,8 @@ Na'vi race.esp
 opaquan.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
+KHStrangers.esp
+% {{BASH:Eyes,Graphics,Hair,NpcFaces,R.Ears,R.Head,R.Mouth,R.Teeth,Voice-M}}
 X.Dea.Obscura.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}
 X.Demon.Race.esp

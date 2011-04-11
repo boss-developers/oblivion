@@ -2551,6 +2551,7 @@ DropLitTorchOBSE.esp
 DS Time Manager.esp
 Duke Patricks - Follow That Actor.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
+DynamicLeveledLists.esp
 
 Enhanced Seasons.esp
 
@@ -11115,6 +11116,7 @@ CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
 FrostcragReborn-Snowdale patch.esp
 OOO-Snowdale Patch.esp
+RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
@@ -11123,6 +11125,7 @@ OOOCliffsOfAnvilPatch.esp
 xulCliffsOfAnvil Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KragenirsDeathQuest-CliffsOfAnvil patch.esp
+MannimarcoResurrection-CliffsOfAnvil patch.esp
 MMMDungeons-CliffsOfAnvil patch.esp
 SideSailingShips-CliffsOfAnvil patch.esp
 

@@ -17,9 +17,9 @@
 
 \Masterlist variable setup. For BOSS v1.7+.
 \Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
-IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
-IF ("Better Cities Resources.esm") SET: BC
-IF ("FCOM_Convergence.esm") SET: FCOM
+ IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
+ IF ("Better Cities Resources.esm") SET: BC
+ IF ("FCOM_Convergence.esm") SET: FCOM
 
 \BeginGroup\: ESMs
 \----
@@ -6150,13 +6150,13 @@ Oscuro's Combat Behavior.esp
 
 FCOM_Convergence.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_ConvergenceNoFran.esp
 >* Outdated. Install FCOM version 0.9.9 or later.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_OscurosOverhaul.esp
 >? Only use when not using MMM.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Choices and Consequences - MMM.esp
 >? Obsolete. Remove this and update to latest version.
@@ -6178,31 +6178,31 @@ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >? Replaces both 'FCOM_ExnemRuneskulls.esp' and 'ExnemRuneskulls.esp'.
 >% {{BASH:Delev, Relev}}
 FCOM_EntropicOrderRebalance.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_EntropicOrderHardcore.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_RealSwords.esp
 % {{BASH:Delev, Relev}}
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
 FCOM_DurabilityAndDamage.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 FCOM_SpawnRatesReduced.esp
 % {{BASH:Delev, Relev}}
 ? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_SpawnRatesSlightlyReduced.esp
 % {{BASH:Delev, Relev}}
 ? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_SpawnRatesStronger.esp
 % {{BASH:Delev, Relev}}
 >? Use only one Spawn Rates plugin: Reduced, SlightlyReduced or Stronger.
 >? 'Stronger' is the same as 'Reduced' but spawns will be more powerful.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 FCOM_MoreWildernessLife.esp
 ? Delete. Use Mart's Monster Mod - More Wilderness Life.esp or Mart's Monster Mod - More Wilderness Life No Gates.esp instead
@@ -6217,35 +6217,35 @@ FCOM_MoreWildernessLife.esp
 >* Delete and use the 'FCOM_SaferRoads.esp'.
 FCOM_SaferRoads.esp
 % {{BASH:Delev, Relev}}
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - Less Rats.esp
 >* Delete and use 'FCOM_LessRats.esp'.
 FCOM_LessRats.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Spiders.esp
 >* Delete and use 'FCOM_NoSpiders.esp'.
 FCOM_NoSpiders.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Wyvern.esp
 >* Delete and use 'FCOM_NoWyverns.esp'.
 >Mart's_Monster Mod -No Wyvern.esp
 >* Delete and use 'FCOM_NoWyverns.esp'.
 FCOM_NoWyverns.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod - No Pests.esp
 >Mart's Monster Mod - No Swarms.esp
 >Mart's Monster Mod for OOO - NoReaversInGates.esp
 >* Delete. Use 'FCOM_NoReaversInGates.esp' instead.
 FCOM_NoReaversInGates.esp
 ? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_NoAdventurersInGates.esp
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 >Mart's Monster Mod for OOO - LessReaversInGates.esp
 >* Delete. Use FCOM_LessReaversInGates instead.
 FCOM_LessReaversInGates.esp
 ? Use either 'NoReaversInGates' or 'LessReaversInGates' but not both.
-IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >CurseOfHircine.esp
 \EndGroup\\

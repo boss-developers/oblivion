@@ -1964,6 +1964,7 @@ BetterMusicSystem.esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
 ? Outdated. Update to version 2+.
 BetterMusicSystem(SI).esp
+MusicaPrima0.55.esp
 
 Better Beggars.esp
 
@@ -10751,6 +10752,7 @@ CUO_Leyawiin.esp
 NibenRiverFix.esp
 
 xuldarkforest.esp
+% {{BASH:C.Music,C.Water}}
 Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 DBOO - UL DarkForest.esp

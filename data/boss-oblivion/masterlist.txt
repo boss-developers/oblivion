@@ -150,6 +150,8 @@ Underwear HGEC Normal.esm
 DremoraCompanion.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
+? WARNING: Use version 1.1 found here: http://www.tesnexus.com/downloads/file.php?id=15412
+? Later versions of the mod have critical failures which must be repaired by the author.
 Better Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
@@ -8647,6 +8649,8 @@ Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? WARNING: Use version 1.1 found here: http://www.tesnexus.com/downloads/file.php?id=15412
+? Later versions of the mod have critical failures which must be repaired by the author.
 OCC-KR-Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp

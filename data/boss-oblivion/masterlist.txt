@@ -8939,6 +8939,7 @@ Your_Personal_Museum_Updated-9300.esp
 My Big House.esp
 My Dark Brotherhood Room.esp
 Mages_house.esp
+Malamath.esp
 Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
@@ -9748,6 +9749,7 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 Valenwood Improved.esp
 Valley_View_Estate.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+OC+Valley View Patch.esp
 Valus Cottage.esp
 Vampire Hideaway.esp
 Vampire Tunnel System.esp
@@ -18073,7 +18075,8 @@ Harvest Containers Filter patch for mods.esp
 : Bashed Patch.
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter, C.Climate, Deactivate}}
-
+TIE Weapon + Armor Filter.esp
+% {{BASH:Filter, Stats, Deactivate}}
 LandMagicPatch.esp
 
 amGE_Races.esp

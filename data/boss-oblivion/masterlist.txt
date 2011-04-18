@@ -1838,6 +1838,7 @@ IngredientsInBulk.esp
 IngredientsDrawers.esp
 Item interchange - Extraction.esp
 % {{BASH:Filter, Deactivate}}
+: Bashed Patch.
 Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
@@ -15128,7 +15129,7 @@ FastTravelAllowed.esp
 
 Item interchange - Placement.esp
 >* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
-: recent version of Wrye Bash.
+: Bashed Patch.
 Item interchange - Placement for FCOM.esp
 % {{BASH:Delev, Filter, IIM, Invent, Relev, Deactivate}}
 : Bashed Patch.
@@ -18058,18 +18059,20 @@ NRB4 OCReborn Road Record.esp
 HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
 % {{BASH:Filter, Deactivate}}
-? Must be merged into the bashed patch in Wrye Bash.
+: Bashed Patch.
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Bashed Delayers E - MERGE ONLY.esp
 % {{BASH:Filter, Deactivate}}
-? Must be merged into the bashed patch in Wrye Bash.
+: Bashed Patch.
 Bashed Delayers NE - MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
-? Must be merged into the bashed patch in Wrye Bash.
+: Bashed Patch.
 CoreRandmonClothing4Npcs.esp
 % {{BASH:Filter, Invent, IIM, Deactivate}}
+: Bashed Patch.
 Cobl Filter Late MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
+: Bashed Patch.
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 OOO Harvest Containers Filter patch for mods.esp
@@ -18080,6 +18083,7 @@ Harvest Containers Filter patch for mods.esp
 : Bashed Patch.
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter, C.Climate, Deactivate}}
+: Bashed Patch.
 TIE Weapon + Armor Filter.esp
 % {{BASH:Filter, Stats, Deactivate}}
 LandMagicPatch.esp

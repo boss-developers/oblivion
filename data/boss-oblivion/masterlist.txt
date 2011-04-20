@@ -6020,7 +6020,7 @@ Oscuro's_Oblivion_Overhaul Vwalk.esp
 
 OMOBS.esp
 % {{BASH:NoMerge, Stats}}
-OMOBSSI.esp
+OMOBS_SI.esp
 % {{BASH:NoMerge, Stats}}
 OMOBS_Optionial Combat Settings.esp
 OMOBS Optional Combat Settings.esp
@@ -14542,6 +14542,7 @@ Deadly Reflex 6 - Timed Block and 250% damage.esp
 ? Use no more than one Timed Block plugin.
 Mounted_Spellcasting_Deadly_Reflex_Compatible.esp
 DRSplatter.esp
+? Remove this. Known to cause crashes and save game corruption.
 : OBGEv2.
 
 Deadly Reflex Bow Sway.esp

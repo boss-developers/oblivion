@@ -150,7 +150,6 @@ Underwear HGEC Normal.esm
 DremoraCompanion.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
-? WARNING: Use version 1.1 found here: http://www.tesnexus.com/downloads/file.php?id=15412
 Better Cities Resources.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
@@ -1665,6 +1664,7 @@ OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
 
 CityLights - ImperialCity.esp
+Clam Respawn.esp
 Cliff's Smokey Chimneys.esp
 Clothes Get Wet.esp
 Chapel Tithe.esp
@@ -2113,6 +2113,8 @@ RAEVWD Cities.esp
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
 Rats!.esp
+Respawning Containers.esp
+: Shivering Isles
 Resurrect book.esp
 Rex 1.21.esp
 RD-HeavensWrath-v1-1-Realistic.esp
@@ -2229,6 +2231,7 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Sigil_Stone_Spawner-3025.esp
+Silver and Gold Respawns.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
 SkeletonShaders.esp
@@ -3751,6 +3754,7 @@ HB Elven Sunbreaker Shortsword.esp
 HB Hammerfell Long Axe.esp
 HB Legacy Dwemer Weapons.esp
 HGECFighterDMB_BodyPiercings_2.esp
+head equipment for x117race.esp
 HeavenWill.esp
 Hel Borne's Boning Knife.esp
 Hel Borne's Blackiron Weapon Set.esp
@@ -4323,6 +4327,7 @@ RTBlackEveningDress10Personality.esp
 RXF91.esp
 Ryk_MiscGoods.esp
 Ryk_Sandals.esp
+Ryk_SimpleDress.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
 SorceressArmor.esp
@@ -8053,6 +8058,9 @@ DreamersIsland.esp
 DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
+DruidsTree.esp
+: Shivering Isles
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
@@ -8652,8 +8660,6 @@ Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? WARNING: Use version 1.1 found here: http://www.tesnexus.com/downloads/file.php?id=15412
-? Later versions of the mod have critical failures which must be repaired by the author.
 OCC-KR-Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
@@ -9839,6 +9845,9 @@ Wandering_Nazgul_0.79.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
+Waterfront Shack.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Requires special cleanup - has several NULL form deletions to remove.
 WaterlilyCottage1.esp
 WaterloggedTower.esp
 WaterSphere.esp
@@ -11350,6 +11359,8 @@ Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 BetterInns - Salmo the Baker, Cobl PATCH.esp
+
+Trees_In_Cities.esp
 
 \EndGroup\\
 
@@ -15261,6 +15272,8 @@ Cernasite - DragonEyes - GE.esp
 JCPeepers.esp
 % {{BASH:Eyes}}
 Koldorns Eye Mod.esp
+% {{BASH:Eyes}}
+MP Human Eyes Vanilla Makeover.esp
 % {{BASH:Eyes}}
 Cat_eyes.esp
 % {{BASH:Eyes}}

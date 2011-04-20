@@ -3609,6 +3609,7 @@ FB_Dark_Crusader_01.esp
 % {{BASH:Invent}}
 FB_Dark_Crusader_Dynamis.esp
 FB_Dark_Crusader_Longbow_01.esp
+FB_DC_Defender.esp
 FB_DC_Holy_Shadow_Buckler.esp
 FB_DC_Mega_Pack_OMOD.esp
 % {{BASH:Invent}}
@@ -10660,13 +10661,14 @@ Reaper's Bleaker's Way Village Revamp.esp
 NRB4+RBWR Patch.esp
 Reaper's Waterfront.esp
 ReclaimSancreTor.esp
-Sylix.esp
+
+SkoomaDeals.esp
 Split Expansion.esp
 Split Expansion Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 StalhrimVillage.esp
 StalhrimVillage - AN Patch.esp
-
+Sylix.esp
 Tales from Elsweyr 2_1.esp
 
 WaterfrontMarket.esp

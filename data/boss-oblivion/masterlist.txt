@@ -18243,14 +18243,4 @@ TWMP_Tamriel_Ingame_ Map.esp
 
 \EndGroup\\
 
-\BeginGroup\: TES4LODGen plugins
-\'''''''''''''''''''''''''''''''''
-\Need to also load dead last. These aren't activated though, so don't break the above group.
-
-KRLODToggleBurnt.esp
-? Always keep this plugin deactivated, apart from while generating LOD using TES4LODGen.
-KRLODToggleRestored.esp
-? Always keep this plugin deactivated, apart from while generating LOD using TES4LODGen.
-
-\EndGroup\\
 \EndGroup\\

@@ -8926,6 +8926,7 @@ mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
 " Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
 MTCGlarthirsHouse.esp

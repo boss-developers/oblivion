@@ -1017,6 +1017,7 @@ All Natural.esp
 All Natural - SI.esp
 ? Required for All Natural SI support. Make sure this is active and not just imported into your Bashed Patch.
 % {{BASH:C.Climate}}
+BreakingWindext.esp
 All Natural - MMM Patch.esp
 % {{BASH:Scripts}}
 All Natural - Enhanced Weather.esp
@@ -2377,6 +2378,9 @@ Zombie Replacer_cn.esp
 Piratelords Creature Balances.esp
 Piratelords Loot Fixes.esp
 Piratelords Trade Fixes.esp
+
+Alchemy_Economy_Fix.esp
+? Not needed if using option in Enhanced Economy.
 
 Living Economy.esp
 ? Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
@@ -3822,6 +3826,7 @@ Hadhafang.esp
 HolyRelics.esp
 homura.esp
 homura outfit HGEC.esp
+hori873 - The Great Atlas.esp
 Horse_Dung.esp
 HotApparatus.esp
 hrAchillesGear.esp
@@ -3886,6 +3891,7 @@ Jov'sMagesGloves.esp
 JPBooks_Vanilla+SI.esp
 morrowindJPbooks.esp
 JQ-Amulets.esp
+JQ-CameraNecklace.esp
 JQ-EldarArmour.esp
 JQ-TrekLirpa.esp
 JPainweaver.esp
@@ -4029,6 +4035,9 @@ m_DwemerEliteArmorWeps.esp
 Mace_of_Vareon.esp
 Mage Ward.esp
 M&BAxes.esp
+% {{BASH:Invent}}
+? make sure to load an overhaul or something after or manually rename the cells that this edits.
+M&BClubs&Hammers.esp
 % {{BASH:Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
 M&BShields.esp
@@ -4588,6 +4597,8 @@ SylvanArmor.esp
 talon.esp
 % {{BASH:Invent}}
 TadEC_Underwear01.esp
+Tail_Amulet_Converter.esp
+: OBSE v11 +.
 Talon of Akatosh Claymore.esp
 Talon of Akatosh Claymore v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -6564,6 +6575,8 @@ SubSpecies Variety Pack #1 - Canines (full version).esp
 Spiders Addon.esp
 ? Obsolete. Remove this and update to MMM 3.7b1+.
 
+Arachnophobia-2343.esp
+% {{BASH:Delev}}
 FaunaOfTamriel.esp
 Creatures Alive v1.3.esp
 Creature Diversity.esp
@@ -6571,6 +6584,8 @@ Creature Diversity.esp
 ReteroX_BEvilSkeletons.esp
 ReteroX_BBEvilSkeletons.esp
 Revenants.esp
+RTSNoZombies.esp
+% {{BASH:Delev}}
 Zombie Diversity.esp
 ? Consider using Creature Diversity.esp or MMM or Frans instead.
 
@@ -8124,6 +8139,7 @@ ElsweyrRiverhold.esp
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EM_RedRoseManor.esp
+EMRedRoseAddonCOBL.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
 EM_Packdonkeys.esp
@@ -8169,6 +8185,7 @@ Far Farm.esp
 Farleum V 1.2.esp
 FFM.esp
 FishermansCottage.esp
+FishermansCOBLaddon.esp
 fishing boat.esp
 TheForbiddenSecret.esp
 ForbiddenLands.esp
@@ -8280,6 +8297,7 @@ GP_Moretta_1C.esp
 GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 green market district.esp
+GreenGables.esp
 GTAesgaard.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_1.esp
@@ -8601,6 +8619,7 @@ Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
+jauOgreRide.esp
 JDNT_Brina Cross.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
@@ -12568,6 +12587,7 @@ RingOfWings_Wingless.esp
 RingRobeHGEC.esp
 Robes with Clothes Fix.esp
 Rock Remover - Shore.esp
+RTSOblivionNoCorpses.esp
 RTSWelkyndClstrTreasure.esp
 Rowboats.esp
 ? Removes border region limmitation too.
@@ -13697,6 +13717,7 @@ mass magic and spells.esp
 Meteor Shower.esp
 MrF - Spell Efficiency.esp
 Multiple Creature Summoning.esp
+Mytharis'sConjurationMod.esp
 Level Based Summon Cap.esp
 Necromancy for the Novitiate
 Necromancer's Power.esp
@@ -14665,6 +14686,8 @@ Vanilla_Oblivion_Skill_Rates.esp
 LRM_Generic.esp
 
 AttributePlusX_v1.1.esp
+Bonsai's Modified Skills.esp
+Bonsai's Modified Leveling.esp
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.

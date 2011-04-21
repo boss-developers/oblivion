@@ -974,13 +974,21 @@ Ls More Butterflies and Fireflies Not In Interiors 4.0 Halved.esp
 Ls More Butterflies and Fireflies Not In Interiors 4.0 Quarter.esp
 ? Old, update to version 5+.
 Ls More Butterflies and Fireflies 5.0.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies 5.0 Halved.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies 5.0 Quarter.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies Not In Interiors.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies Not In Interiors 5.0.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies Not In Interiors 5.0 Halved.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies Not In Interiors 5.0 Quarter.esp
+? use only one version of Ls More Butterflies and Fireflies.
 Ls More Butterflies and Fireflies Not In Interiors Without Fairies 5.0 Halved.esp
+? use only one version of Ls More Butterflies and Fireflies.
 
 Enhanced Night Sky.esp
 
@@ -4741,6 +4749,8 @@ vahi_clothes.esp
 VA_DaedricPriestessArmour.esp
 VA_DKWeaponSet.esp
 VA_FemmeDaedricHelmet.esp
+VA_GlamdringSword.esp 
+% {{BASH:Invent}}
 VA_HonamiDaito.esp
 VA_UniqueKatana1.esp
 VA_UniqueKatana1Replace.esp
@@ -7791,8 +7801,10 @@ Campus Village.esp
 Capsized Ship.esp
 Castello_gotico.esp
 CaveOfWishcraft 1_1.esp
+? Update to latest version (named 'Cave Of Wishcraft.esp').
 CaveOfWishcraft v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+Cave Of Wishcraft.esp
 Champion's Mansion.esp
 Chatham.esp
 Chichester Village.esp
@@ -8027,6 +8039,7 @@ DFDiveRockHome.esp
 Dibella_priestess.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
+SYS Patch-Dibella Temple-WLV.esp
 Dibella Temple Final.esp
 DibellasWatchBeta06.esp
 Display Rooms.esp
@@ -8061,6 +8074,7 @@ Druids Guild Mod.esp
 DruidsTree.esp
 : Shivering Isles
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
@@ -9179,6 +9193,8 @@ Reaper's Elsandore's Stoneway.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
 Reaper's Sexy Shower Everywhere.esp
+Reaper's The Necromancer's Tower.esp
+SYS Patch-The Necromancer Tower.esp
 Reaper's Tower V_1.esp
 Reaper_Tree_Home.esp
 SYS Patch-Reaper's Tree Home.esp
@@ -9708,6 +9724,7 @@ Treasure Maps Revenge Of The Nords.esp
 " UL mod(s).
 Treasuresofthedeep.esp
 : OOO.
+Trees_In_Cities.esp 
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
 Trolls Under Bridges.esp
@@ -12501,7 +12518,10 @@ Regional Legion Soldiers by Ionis.esp
 ReneerNPCSneakMod.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
+Respawning Containers.esp
 Respawning Ore Veins.esp
+Silver and Gold Respawns.esp
+Clam Respawn.esp
 Repair_Anytime-9384.esp
 real_tools.esp
 % {{BASH:Scripts}}
@@ -15282,6 +15302,8 @@ Cat_eyes.esp
 Cat_eyes_add.esp
 % {{BASH:Eyes}}
 DesuChan's Anime Eyes (Vanilla).esp
+% {{BASH:Eyes}}
+MP Human Eyes Vanilla Makeover.esp
 % {{BASH:Eyes}}
 Unique Eyes Selection - DV.esp
 % {{BASH:Eyes}}

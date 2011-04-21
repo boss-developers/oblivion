@@ -8093,6 +8093,7 @@ DruidsTree.esp
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
+DSoSCHotW.esp
 DSoSMalamath.esp
 ? Be sure to update to version 2.0. Version 1.x could break the Dark Brotherhood quest line.
 DSPirateIsleBeta.esp
@@ -9320,6 +9321,7 @@ SaveWaterEdgeEng.esp
 Sbturm_Penthouse.esp
 SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
+School Partners.esp
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
 Scorched Earth.esp
@@ -15670,6 +15672,9 @@ Beautiful People 2ch-Ed Disable One Eyed.esp
 Beautiful People 2ch-Ed Disable Saram Hair.esp
 Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NoMerge, NpcFaces}}
+Beautiful People 2ch-Ed ENG Dialog.esp
+Beautiful People 2ch-Ed ENG Race.esp
+x117Race ENG Race.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp

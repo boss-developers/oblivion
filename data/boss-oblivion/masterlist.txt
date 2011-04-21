@@ -10707,6 +10707,10 @@ Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
+WatersEdgeImproved.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Needs Wrye Bash "Remove World Orphans" fix.
+
 MTCThievesGrotto.esp
 ? Update to v4.1.
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.

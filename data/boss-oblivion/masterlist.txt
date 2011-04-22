@@ -11924,6 +11924,7 @@ Cobl Bookplacement.esp
 Colourwheels Sexy Wantedposter.esp
 Colourwheels Sexy Panty Shop HGEC.esp
 Colourwheels Sexy Imperial Legion.esp
+% {{BASH:Actors.ACBS, Invent, NpcFacesForceFullImport}}
 Colourwheels Sexy Imperial Legion Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Colourwheels Sexy Bank.esp
@@ -15294,6 +15295,8 @@ KDshorthair.esp
 % {{BASH:Hair}}
 Nords With Beards.esp
 % {{BASH:Hair}}
+Pada Jenggotan.esp
+: Nords With Beards.esp
 Saram_Corean_NPC_Hair_1_0.esp
 % {{BASH:Hair}}
 ZBRE.esp

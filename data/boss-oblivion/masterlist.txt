@@ -10749,7 +10749,7 @@ Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 HeartoftheDead.esp
-% {{BASH:Hair}}
+% {{BASH:Actors.AIPackages, Hair}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HeartOftheDead Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}

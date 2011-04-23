@@ -1306,6 +1306,9 @@ Real_Lights.esp
 _Real_Lights.esp
 ? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
 ? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
+RealLightsDV.esp
+? Breaks the Umbacano branch of The Collector quest, and causes save game bloating.
+? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
 
 All Natural - Real Lights.esp
 % {{BASH:Graphics, Scripts}}

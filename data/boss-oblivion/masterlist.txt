@@ -1933,6 +1933,7 @@ Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 MagesGuildPortalTowerV1.1.esp
 MagesGuildPortalTowerV1.2.esp
+Magicka.esp
 CParchmagetele.esp
 Medic!.esp
 MeosPotionReplacer.esp
@@ -1997,6 +1998,7 @@ My Voice Extender.esp
 
 \BeginGroup\: Base N
 
+Named Fighter's Guild Porters.esp
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
@@ -4308,6 +4310,7 @@ ring_of_feather.esp
 Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
+ROADMasterOutift.esp
 Robe Replacer2.esp
 % {{BASH:Graphics, Invent}}
 Rogue Sun's Blood Lust Dress.esp
@@ -11194,7 +11197,7 @@ SnowLineLodge-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
 Unique Landscapes - Cliffs Of Anvil DV.esp
-OOOCliffsOfAnvilPatch.esp
+OOOCliffsofAnvilPatch.esp
 xulCliffsOfAnvil Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KragenirsDeathQuest-CliffsOfAnvil patch.esp
@@ -18163,7 +18166,7 @@ All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH:Filter, C.Climate, Deactivate}}
 : Bashed Patch.
 TIE Weapon + Armor Filter.esp
-% {{BASH:Filter, Stats, Deactivate}}
+% {{BASH:Filter, Stats, NoMerge, Deactivate}}
 : Bashed Patch.
 LandMagicPatch.esp
 

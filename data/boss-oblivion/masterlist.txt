@@ -4763,7 +4763,7 @@ vahi_clothes.esp
 VA_DaedricPriestessArmour.esp
 VA_DKWeaponSet.esp
 VA_FemmeDaedricHelmet.esp
-VA_GlamdringSword.esp 
+VA_GlamdringSword.esp
 % {{BASH:Invent}}
 VA_HonamiDaito.esp
 VA_UniqueKatana1.esp
@@ -6608,7 +6608,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, Delev, Eyes, Graphics, Hair, Invent, Names, NPC.Race, R.ChangeSpells, R.Head, R.Relations, Relev, Scripts, Stats}}
+% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relev, Scripts, Stats}}
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
@@ -9749,7 +9749,7 @@ Treasure Maps Revenge Of The Nords.esp
 " UL mod(s).
 Treasuresofthedeep.esp
 : OOO.
-Trees_In_Cities.esp 
+Trees_In_Cities.esp
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
 Trolls Under Bridges.esp

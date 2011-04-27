@@ -8703,6 +8703,7 @@ Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
+OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
 Kvatch Rebuilt - OOO Compatibility.esp
 Kvatch Rebuilt - Leveled Guards - FCOM.esp
@@ -11567,9 +11568,11 @@ NRB4+ClassBeginning Patch.esp
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
 OCR+Cheydinhal Falls Patch.esp
-OC+ULSkingradOutskirts Patch.esp
+OCC+ULSkingradOutskirts Patch.esp
+OCR+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
 ? Obsolete. Update West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
+OCR + MTCRiverShack Patch.esp
 Better Benirus Manor OC Patch.esp
 ? Not compatible with Open Cities Reborn.
 III-LeyawiinRebornPatch.esp

@@ -8396,8 +8396,10 @@ Hentai Mania addon Break Undies.esp
 : Hentai Mania.esp
 Hentai Mania Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+OOO_Hentai Mania.esp
+% {{BASH:Factions, Graphics, Invent, Relations, Scripts, Stats}}
 FCOM_Hentai Mania.esp
-% {{BASH:Factions, Graphics, Relations, Scripts, Stats}}
+% {{BASH:Factions, Graphics, Invent, Relations, Scripts, Stats}}
 : Hentai Mania.esp and FCOM
 Hentai_mania_statuetki.esp
 ? Minor fix for Hentai Mania.esp

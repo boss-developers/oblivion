@@ -16952,7 +16952,9 @@ bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH:NpcFaces, NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
 OC+Integration Patch.esp
+OCR + Integration Patch.esp
 OCRAnvil+Integration Path Grid Fix.esp
+? Obsolete: Update to version 3.0 of the Open Cities Integration patch. Then delete this plugin.
 bgIntegrationEV Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 \EndGroup\\

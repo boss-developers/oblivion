@@ -356,6 +356,9 @@ xeoex.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics, NPC.Race, R.Ears, R.Head, R.Mouth, R.Teeth}}
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+xeosp++.esp
+xeosp++ Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 
 TNR - THE REDGUARDS.esp
 % {{BASH:NpcFaces, NoMerge}}
@@ -3643,6 +3646,7 @@ femaleorderrobe.esp
 FemaleArmorPack1.esp
 Female Helmet Replacer.esp
 % {{BASH:Graphics}}
+Female Outfits by Koutetsu.esp
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
@@ -4783,6 +4787,7 @@ Villain's Arsenal.esp
 volkoth.esp
 VSPTensaZangetsu.esp
 VipCxj_HighHeels.esp
+BisSP_RHH_2.esp
 VipCxjHHTest.esp
 BisSP_Real_High_Heels.esp
 Viro's Kung Fu Set.esp
@@ -10148,6 +10153,7 @@ DLCFrostcrag.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
+DSoSFrostCragRebornExteriorStairsFix.esp
 Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
@@ -14999,6 +15005,8 @@ The Versatile Adventurer.esp
 
 Mayu's Animation Overhaul.esp
 ? Highly recommended to use the MAO patcher in Wrye Bash version 275+.
+Mayu's Animation Overhaul Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 zzEDialog.esp
 
 Seph's new animations.esp
@@ -16336,6 +16344,7 @@ cssJaKhaiitMyr.esp
 ? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures.
 : Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 ViljainAleswell.esp
+ViljainRedRoseManor.esp
 \EndGroup\\
 Aliyah.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

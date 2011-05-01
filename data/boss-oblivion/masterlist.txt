@@ -2624,6 +2624,8 @@ NameThatHorse.esp
 : OBSE 17+, Pluggy 122+.
 No Recharge.esp
 : OBSE.
+Note to Self.esp
+: OBSE 0018+
 
 Oblivion Graphics Extender Support.esp
 
@@ -5535,10 +5537,14 @@ Zira's Monster Horse.esp
 Zira's Horse Stable.esp
 Zira's Horse Modpack - My Horses.esp
 Zira's Horse Modpack - Heavy Legion Horses.esp
+? Not compatible with Zira's Horse Modpack - Armored Legion Horses.esp
 Zira's Horse Modpack - Friesian Horses.esp
 Zira's Horse Modpack - Shadowmere.esp
 Zira's Horse Modpack - Extra Horses.esp
 Zira's Horse Modpack - More Horses.esp
+Zira's Horse Modpack - Armored Legion Horses.esp
+: Official Horse Armor DLC
+? Not compatible with Zira's Horse Modpack - Heavy Legion Horses.esp
 Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp

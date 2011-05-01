@@ -2535,7 +2535,6 @@ FF_Real_Thirst.esp
 " Vampire mods.
 
 Terran Vampires Beta.esp
-OCC-TVamp-Patch.esp
 
 Choices and Consequences.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11609,6 +11608,8 @@ OCR+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
 ? Obsolete. Update West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
 OCR + MTCRiverShack Patch.esp
+OCC-TVamp-Patch.esp
+OCR + Terran Vampires Patch.esp
 Better Benirus Manor OC Patch.esp
 ? Not compatible with Open Cities Reborn.
 III-LeyawiinRebornPatch.esp

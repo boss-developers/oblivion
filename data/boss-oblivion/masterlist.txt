@@ -8328,6 +8328,8 @@ Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
 GreatForestMarket.esp
+GreatForestMarket Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 Gaenor in Dementia.esp
 Gaenor2.esp
 GlimmeringCastle.esp
@@ -11283,6 +11285,10 @@ xulImperialCitySewerExits.esp
 BravilSeaDomes.esp
 BravilSeaDomesExpanded.esp
 SYS Patch Bravil Sea Domes.esp
+
+BrinaCrossVillage.esp
+BrinaCrossVillage Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 
 Castle_Seaview.esp
 Castle_Seaview v1.1 Delayer.esp

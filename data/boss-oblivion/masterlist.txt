@@ -14017,9 +14017,10 @@ Midas Reduced Costs Quarter.esp
 Midas Reduced Costs 3 Quarters.esp
 ? Use only one Reduced Costs module at a time
 Mart's Monster Mod - Midas Creature Ingredients.esp
-% {{BASH:Names}}
+% {{BASH:Actors.ACBS, Invent, Names}}
 AncientTowersMidasLab.esp
 FrostcragMidasLab.esp
+% {{BASH:Invent}}
 
 Mighty for Midas - Rational.esp
 MidasSpells_MM.esp

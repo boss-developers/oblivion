@@ -6992,6 +6992,8 @@ WAC GiantPatch plus.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
 WAC BM plus.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
+WAC - CAIF.esp
+WAC - CAIF_OOO.esp
 WAC - OverSpawn.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Relations, Relev}}
 WAC MinotaurPatch plus.esp

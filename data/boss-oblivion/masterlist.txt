@@ -6998,8 +6998,6 @@ WAC - OverSpawn.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Relations, Relev}}
 WAC MinotaurPatch plus.esp
 % {{BASH:Actors.ACBS, Actors.Anims, Actors.Spells, Graphics}}
-WAC - OverSpawn4v1.0bOWCND.esp
-% {{BASH:Delev, Relev}}
 WAC - OverSpawn4OOO.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4v1.0bFran.esp
@@ -7031,6 +7029,8 @@ WAC - TCOSFix.esp
 % {{BASH:Delev, Invent, Relev}}
 WAC - TCOSFix4v1.0b.esp
 % {{BASH:Delev, Invent, Relev}}
+WAC - OverSpawn4v1.0bOWCND.esp
+% {{BASH:Delev, Relev}}
 WAC - 8th Gate.esp
 WAC - Legion.esp
 % {{BASH:Graphics, Invent}}

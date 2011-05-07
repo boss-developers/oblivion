@@ -361,6 +361,7 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 xeosp++.esp
+% {{BASH:Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
 xeosp++ Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -7415,7 +7416,9 @@ Akaviri Imports MOBS.esp
 ? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
 AkaviriKojimaTravel.esp
 AkavirLegendsREs.esp
+% {{BASH:Graphics, Invent, Scripts}}
 AkavirLegends - Patch & Fix.esp
+% {{BASH:Graphics}}
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
@@ -8690,7 +8693,7 @@ Keys & Furniture Papers Box.esp
 KieranFleshRobes.esp
 KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
-KindredofCaine_eng.esp 
+KindredofCaine_eng.esp
 kingdomofAlmar.esp
 $ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
@@ -8822,7 +8825,7 @@ Lem - Zemus's Lair.esp
 Lenawiln_Cottagev2.11.esp
 Letter to Dana.esp
 bladesfactionmod.esp
-% {{BASH:Factions, Invent, Relations}}
+% {{BASH:Factions, Invent, Relations, Stats}}
 
 OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
@@ -10863,7 +10866,7 @@ CUO_Leyawiin.esp
 NibenRiverFix.esp
 
 xuldarkforest.esp
-% {{BASH:C.Music,C.Water}}
+% {{BASH:C.Music, C.Water}}
 Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 DBOO - UL DarkForest.esp
@@ -15451,7 +15454,7 @@ Comprehensive Style Collection RM.esp
 ? Outdated. Update to latest version.
 Cool Hair & Eyelashes.esp
 Cool Hair & Eyelashes for Cobl.esp
-% {{BASH:Hair,NpcFaces,R.Mouth}}
+% {{BASH:Hair, NpcFaces, R.Mouth}}
 CSC.esp
 % {{BASH:Hair, Eyes}}
 CSC RM.esp

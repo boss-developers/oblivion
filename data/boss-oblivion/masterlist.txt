@@ -361,7 +361,7 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 xeosp++.esp
-% {{BASH:Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
+% {{BASH:Body-F, Body-M, Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
 xeosp++ Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 

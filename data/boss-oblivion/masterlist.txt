@@ -291,6 +291,10 @@ VipCxj_AirSystem.esm
 
 \BeginGroup\: Earliest mods
 \-------------
+
+TestDuplicate.esp
+\This is a temporary addition for bug fixing purposes.
+
 rus_DotStudio_1.2_final.esp
 ? Translates Oblivion.esm into Russian.
 russian.esp
@@ -18355,6 +18359,9 @@ Duke Patricks - Fortress of Fear.esp
 Duke Patricks - Combat Magic II.esp
 
 \EndGroup\\
+
+TestDuplicate.esp
+\This is a temporary addition for bug fixing purposes.
 
 \BeginGroup\: Map Changes
 \''''''''''

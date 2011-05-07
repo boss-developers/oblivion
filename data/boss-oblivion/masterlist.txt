@@ -11618,7 +11618,9 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 NRB4+ClassBeginning Patch.esp
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
+% {{BASH:C.Water}}
 OCR+Cheydinhal Falls Patch.esp
+% {{BASH:C.Water}}
 OCC+ULSkingradOutskirts Patch.esp
 OCR+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp

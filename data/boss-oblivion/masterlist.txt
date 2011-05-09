@@ -8696,6 +8696,7 @@ KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
 KindredofCaine_eng.esp
 kingdomofAlmar.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
@@ -10486,7 +10487,7 @@ Lost Paladins of the Divines.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Origin of the Mages Guild.esp
-% {{BASH:Actors.AIPackages}}
+% {{BASH:Actors.AIPackages, Relations}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -10495,6 +10496,7 @@ The Mystery of the Dulan cult.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TheNecromancer.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
@@ -10859,11 +10861,16 @@ Rost3_Topal.esp
 \-----------------------
 
 Chorrol Jewelry Company.esp
+? Need to run TES4Edit "sort masters" function.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Bruma.esp
 % {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 : Kvatch Aftermath Bruma Features - disable them.
 CUO_Chorrol.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Leyawiin.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
@@ -11679,6 +11686,7 @@ AncientSource-ChorrolHinterland patch.esp
 ICTowerObservatory.esp
 
 FightersGuildContracts.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (JQ) Fighters Guild United.esp
 % {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp

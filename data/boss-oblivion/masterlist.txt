@@ -8753,6 +8753,9 @@ KvatchCastleMakeover.esp
 Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
+% {{BASH:Actors.AIPackages}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Requires special edit to repair an incorrect script override.
 
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
@@ -9404,6 +9407,8 @@ Shady Merchants.esp
 ShadySamFence.esp
 Sheogorad.esp
 Sheogoraths_Accords_of_Madness.esp
+% {{BASH:Actors.ACBS, Actors.Stats, Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp

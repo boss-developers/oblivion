@@ -1656,6 +1656,8 @@ CDM-Skip Purification.esp
 CFVBloodgrass.esp
 CDM - Uderfrykte Matron Fix.esp
 
+Clamrespawn.esp
+
 ClocksOfCyrodiil.esp
 ? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11337,6 +11339,10 @@ BrinaCrossVillage -- COBL.esp
 Brina Cross Village--Unique Forts Patch.esp
 
 Castle_Seaview.esp
+CSV_Farms.esp
+CSV_Farms_Road_Open_Cities.esp
+CSV_Farms_Road_Vanilla.esp
+CSV_Farms_Better_Cities.esp
 Castle_Seaview v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 CastleSeaview+LostCoast Patch DV.esp

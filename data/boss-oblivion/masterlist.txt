@@ -9566,6 +9566,9 @@ Street Market.esp
 striders.esp
 SunderedKeep.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SunderedKeep Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+
 Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
@@ -11007,6 +11010,7 @@ ShipwreckHome-LostCoast-SutchReborn patch.esp
 DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
+CountySutchOwlsCove-LostCoast patch.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
@@ -11378,6 +11382,19 @@ Bartholm Vwalk.esp
 
 Duke Patricks - HammerBlade.esp
 ? Small land tears if used with UL Lush Woodlands.
+
+ExtendedAleswellEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedAleswellEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+ExtendedBlankenmarchEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedBlankenmarchEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+ExtendedBleakerswayEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedBleakerswayEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 
 Frostcrag Village.esp
 : Official Frostcrag Spire DLC

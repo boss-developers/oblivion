@@ -7726,9 +7726,6 @@ Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 BF_FortRapture.esp
 Big Business.esp
-Billsburg.esp
-English Billsburg v1.5.esp
-English Billsburg_Rens_Hair_1.51.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
@@ -7792,8 +7789,6 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 BluWill1.esp
 BnKGreenBravil.esp
 Bonds Firebird V01.esp
-BogwaterDowns.esp
-Boqwater_Settlement_V103.esp
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
@@ -7843,7 +7838,6 @@ CaesarRanger.esp
 SYS Patch Caesar Ranger.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
-Campus Village.esp
 Capsized Ship.esp
 Castello_gotico.esp
 CaveOfWishcraft 1_1.esp
@@ -7853,10 +7847,8 @@ CaveOfWishcraft v1.1 Delayer.esp
 Cave Of Wishcraft.esp
 Champion's Mansion.esp
 Chatham.esp
-Chichester Village.esp
 Chorrol_Dungeon.esp
 ChristmasCottage.esp
-CityofSunevV058.esp
 Civilian Storage.esp
 Colossus_01.esp
 Colmir Manor.esp
@@ -8156,8 +8148,6 @@ DarkDale.esp
 Eagles Landing v1.esp
 Eagle'sNest.esp
 EaglesRest.esp
-EastbrinkBasic.esp
-EastbrinkCM.esp
 eden castle.esp
 Edgar's little secret.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
@@ -8166,9 +8156,6 @@ EirikWythringSpellmaker.esp
 EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
-ElsweyrRiverhold.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
-? Do not use if using ElsweyrAnequina.esp.
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EM_RedRoseManor.esp
@@ -8324,8 +8311,6 @@ GoldenCrest.esp
 GoldenCrest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 GoldenCrestBattlehornComp.esp
-Gottshaw.esp
-SRGottshaw0.9 Beta.esp
 GP_Moretta.esp
 GP_Moretta_1C.esp
 GPPaleGoblins.esp
@@ -8370,7 +8355,8 @@ Gypsy Wagon.esp
 
 hallofthemountainking.esp
 hackdirtabyss.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"Harvest [Flora] - DLCFrostcrag.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Harvest [Flora] - DLCFrostcrag.esp
 Halcyon House.esp
 Halcyon House - AN Patch.esp
 Halls of Fortitude.esp
@@ -8453,7 +8439,6 @@ House On The Bluff .V2.esp
 HomeInWeyeRu.esp
 Housewives v101.esp
 Hale Housing.esp
-HanstHolm village.esp
 HeartlandFarm.esp
 HeartofDarkness.esp
 Heroes of Cyrodiil.esp
@@ -8661,7 +8646,6 @@ Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
 jauOgreRide.esp
-JDNT_Brina Cross.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
 JolardHome.esp
@@ -8800,16 +8784,10 @@ Lair_of_the_Hydra_1C.esp
 
 _lpHameHighRoad.esp
 Land of Hyrule.esp
-Lake Canulus Village.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
 LakesideHome.esp
 LakesideHomeCOBLaddon.esp
-Lakeview.esp
-" Shezrie's Villages.
-Lakeview2.esp
-Lakeview2 DV.esp
-Lakewood Village Ver 2.0.esp
 Latexshop.esp
 Latexshop2.esp
 latexshopstore.esp
@@ -9039,7 +9017,6 @@ Malamath.esp
 Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
-Milewood.esp
 Murderer.esp
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
@@ -9083,6 +9060,7 @@ NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NewMGQuests.esp
 % {{BASH:Actors.AIPackages}}
 NibenayFortress.esp
@@ -9189,7 +9167,6 @@ Pine Lodge.esp
 ? Outdated. Update to version 2+.
 Pine Lodge ver2.esp
 PinePeakLodge.esp
-Pinevale.esp
 Pinewood.esp
 Pinnacle Citadel.esp
 Pit Trap.esp
@@ -9250,11 +9227,6 @@ Quest Nirnroot.esp
 Raubritter.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
-Reaper's Coldstone Town.esp
-" Heart of the Dead.
-? Update to latest version (9+), esp renamed.
-Reaper's Coldstone Town Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
 Reaper's The Dark Tower.esp
 " Heart of the Dead.
 Reaper's The Dark Tower Vwalk.esp
@@ -9346,7 +9318,6 @@ RumpleMod Swalk.esp
 RumpleMod Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 RunedRobes.esp
-runestone.esp
 RuneTower.esp
 RusticHome.esp
 SYS Patch Rustic Home.esp
@@ -9358,7 +9329,6 @@ Rayearth_1C.esp
 
 \BeginGroup\: Quests S
 
-SacredOak_Settlement.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 Saldaea.esp
@@ -9478,7 +9448,6 @@ SkoomaRefiningAddictionEnhanced.esp
 SK.esp
 SkyCastle.esp
 Skyrim Alive.esp
-Skye Village Final.esp
 Sky Haven.esp
 SkyrimObservatory.esp
 Skyship.esp
@@ -9502,10 +9471,6 @@ Snow Line Lodge.esp
 SN_Skingrad_Villa.esp
 SYS Patch- Skingrad Villa.esp
 SOTES_Santres.esp
-Solace.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-SolaceDV.esp
-CM SOLACE.esp
 Sonnengoldhof.esp
 SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
@@ -9541,8 +9506,6 @@ sinked ship.esp
 Sins_of_the_Dream.esp
 Sunburn.esp
 Sunken Fortress.esp
-Sutch Reborn.esp
-OOO-Sutch patch.esp
 sS-OrderOfAskarthe.esp
 sS-OrderOfAskarthe v0.6 Delayer.esp
 Sseths Resource Foundry.esp
@@ -9599,8 +9562,6 @@ Sheogorath`s Artifacts.esp
 
 tales of gratch.esp
 Talos Bridge.esp
-TalosBridgeGateHouse.esp
-? Requires a patch if used with UL Imperial Isle.
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -9887,7 +9848,6 @@ Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp
-Verwen Brewery.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
@@ -9915,13 +9875,7 @@ Apachii_Heroes_Store.esp
 Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
-Villages1.1.esp
-Villages1.1Male.esp
-Villages1.1Famale.esp
-Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp
-Village of Lily 2.0.esp
-Viking Village.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
@@ -9939,7 +9893,6 @@ VypersAstralStorage.esp
 \BeginGroup\: Quests W
 
 Wasserheim.esp
-Woodelvendon.esp
 Wandering_Nazgul_0.79.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
@@ -10391,10 +10344,7 @@ Cybiades Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Cybiades v2.1 Delayer
 
-Damarask.esp
 Castle_Knightstone.esp
-
-Midland.esp
 
 TOTF.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10441,6 +10391,7 @@ TOSlod_start.esp
 TOSlod_Built.esp
 
 CUO_Bravil.esp
+\Needs to be here for compatibility with Lost Spires
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
@@ -10526,6 +10477,7 @@ AFK_Weye - Oblivion XP Patch.esp
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
+
 House of Healing at Weye.esp
 Weye.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10557,17 +10509,6 @@ SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
 Shadowcrest_Vineyard_Guard.esp
-
-Shezrie's Villages.esp
-? Old version. Update to Shezrie's Towns and remove this.
-ShezriesVillagesCOBL.esp
-? Old version. Update to Shezrie's Towns and remove this.
-ShezriesTownsMaster.esp
-ShezriesTownsMaster Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-GoC_ShezriesTowns_Patch.esp
-SYS Patch-Shezrie's Towns.esp
-LostSpires+PellsGate Patch.esp
 
 Well of Arcane Marking.esp
 \EndGroup\\
@@ -10646,8 +10587,6 @@ FCC-IC-Talosplaza.esp
 FCC-Bruma.esp
 FCC-Cheydinhal.esp
 
-Wellspring Vale.esp
-
 Hammerfell_HighRock.esp
 Blackmarsh.esp
 Valenwood.esp
@@ -10721,43 +10660,12 @@ LetThePeopleDrink-NRB patch.esp
 
 Bridges For the Fools.esp
 
-Feldscar.esp
-Feldscar Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-
-Vergayun.esp
-Vergayun Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-
-Faregyl.esp
-% {{BASH:Actors.AIPackages, Factions, Relations}}
-Faregyl-FGRoad-Patch.esp
-? Obsolete. Update Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
-Faregyl+Anequina Patch.esp
-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
-Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
-The Arsenal - Faregyl Patch.esp
-
-MagesCross.esp
-Molapi.esp
-
 Bonds Crystal Isles an Adventure.esp
 Bonds Crystal Isles an Adventure Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 TVIcar.esp
 
-New Valen.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
-
-PTMudwater.esp
-Forgotten Realm PTMudwater Patch.esp
 Celestiel - EV.esp
 Academy.esp
 Rooftop Rewards cleaned.esp
@@ -10771,32 +10679,13 @@ FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
-Reaper's Bleaker's Way Village Revamp.esp
-NRB4+RBWR Patch.esp
-Reaper's Waterfront.esp
-ReclaimSancreTor.esp
-
 SkoomaDeals.esp
-Split Expansion.esp
-Split Expansion Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-StalhrimVillage.esp
-StalhrimVillage - AN Patch.esp
 Sylix.esp
 Tales from Elsweyr 2_1.esp
-
-WaterfrontMarket.esp
-^ Probably incompatible with Better Cities.
-WaterfrontMarketNoShack.esp
-^ Probably incompatible with Better Cities.
 
 Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-
-WatersEdgeImproved.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Needs Wrye Bash "Remove World Orphans" fix.
 
 MTCThievesGrotto.esp
 ? Update to v4.1.
@@ -10865,6 +10754,143 @@ TWMP_Castle_Dunkerlore.esp
 Rost3_Topal.esp
 \EndGroup\\
 
+\BeginGroup\: Towns and Villages
+\-------------------------------
+
+Billsburg.esp
+English Billsburg v1.5.esp
+English Billsburg_Rens_Hair_1.51.esp
+BogwaterDowns.esp
+Boqwater_Settlement_V103.esp
+
+Campus Village.esp
+Chichester Village.esp
+CityofSunevV058.esp
+
+Damarask.esp
+
+EastbrinkBasic.esp
+EastbrinkCM.esp
+ElsweyrRiverhold.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
+? Do not use if using ElsweyrAnequina.esp.
+ExtendedAleswellEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedAleswellEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+ExtendedBlankenmarchEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedBlankenmarchEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+ExtendedBleakerswayEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ExtendedBleakerswayEV Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+
+Faregyl.esp
+% {{BASH:Actors.AIPackages, Factions, Relations}}
+Faregyl-FGRoad-Patch.esp
+? Obsolete. Update Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
+Faregyl+Anequina Patch.esp
+Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+The Arsenal - Faregyl Patch.esp
+Feldscar.esp
+Feldscar Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+
+Gottshaw.esp
+SRGottshaw0.9 Beta.esp
+
+HanstHolm village.esp
+
+JDNT_Brina Cross.esp
+
+Lake Canulus Village.esp
+Lakeview.esp
+" Shezrie's Villages.
+Lakeview2.esp
+Lakeview2 DV.esp
+Lakewood Village Ver 2.0.esp
+
+MagesCross.esp
+Midland.esp
+Milewood.esp
+Molapi.esp
+
+New Valen.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+
+Pinevale.esp
+PTMudwater.esp
+Forgotten Realm PTMudwater Patch.esp
+
+Reaper's Bleaker's Way Village Revamp.esp
+NRB4+RBWR Patch.esp
+Reaper's Coldstone Town.esp
+" Heart of the Dead.
+? Update to latest version (9+), esp renamed.
+Reaper's Coldstone Town Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Reaper's Waterfront.esp
+runestone.esp
+
+SacredOak_Settlement.esp
+Shezrie's Villages.esp
+? Old version. Update to Shezrie's Towns and remove this.
+ShezriesVillagesCOBL.esp
+? Old version. Update to Shezrie's Towns and remove this.
+ShezriesTownsMaster.esp
+ShezriesTownsMaster Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+GoC_ShezriesTowns_Patch.esp
+SYS Patch-Shezrie's Towns.esp
+LostSpires+PellsGate Patch.esp
+Skye Village Final.esp
+Solace.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SolaceDV.esp
+CM SOLACE.esp
+Split Expansion.esp
+Split Expansion Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+StalhrimVillage.esp
+StalhrimVillage - AN Patch.esp
+Sutch Reborn.esp
+OOO-Sutch patch.esp
+
+TalosBridgeGateHouse.esp
+? Requires a patch if used with UL Imperial Isle.
+
+Vergayun.esp
+Vergayun Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Verwen Brewery.esp
+Village of Lily 2.0.esp
+Viking Village.esp
+Villages1.1.esp
+Villages1.1Male.esp
+Villages1.1Famale.esp
+Villages of Cyrodiil V1.51.esp
+
+WaterfrontMarket.esp
+^ Probably incompatible with Better Cities.
+WaterfrontMarketNoShack.esp
+^ Probably incompatible with Better Cities.
+WatersEdgeImproved.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Needs Wrye Bash "Remove World Orphans" fix.
+Wellspring Vale.esp
+Woodelvendon.esp
+
+\EndGroup\\
+
 \BeginGroup\: CUO Cities
 \-----------------------
 
@@ -10880,6 +10906,8 @@ CUO_Chorrol.esp
 CUO_Leyawiin.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
+
+ReclaimSancreTor.esp
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
@@ -11382,19 +11410,6 @@ Bartholm Vwalk.esp
 
 Duke Patricks - HammerBlade.esp
 ? Small land tears if used with UL Lush Woodlands.
-
-ExtendedAleswellEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedAleswellEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-ExtendedBlankenmarchEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedBlankenmarchEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-ExtendedBleakerswayEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedBleakerswayEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
 
 Frostcrag Village.esp
 : Official Frostcrag Spire DLC

@@ -10621,6 +10621,27 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+ElsweyrAnequina - SevereDesert.esp
+" ElsweyrAnequina - SevereDesert NoSpider.esp
+ElsweyrAnequina - SevereDesert NoSpider.esp
+" ElsweyrAnequina - SevereDesert.esp
+ElsweyrAnequina - NoSpider.esp
+" ElsweyrAnequina - IncreasedCreature.esp
+" ElsweyrAnequina - IncreasedCreature NoSpider.esp
+" ElsweyrAnequina - ModerateIncreasedCreature.esp
+" ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
+ElsweyrAnequina - IncreasedCreature.esp
+" ElsweyrAnequina - NoSpider.esp
+" ElsweyrAnequina - IncreasedCreature NoSpider.esp
+ElsweyrAnequina - IncreasedCreature NoSpider.esp
+" ElsweyrAnequina - NoSpider.esp
+" ElsweyrAnequina - IncreasedCreature.esp
+ElsweyrAnequina - ModerateIncreasedCreature.esp
+" ElsweyrAnequina - NoSpider.esp
+" ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
+ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
+" ElsweyrAnequina - NoSpider.esp
+" ElsweyrAnequina - ModerateIncreasedCreature.esp
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina - Races HGEC-Robert.esp

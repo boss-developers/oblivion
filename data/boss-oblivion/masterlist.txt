@@ -582,6 +582,7 @@ PRO64-BrumaFix.esp
 The Finger of the Mountain Fix.esp
 ? Probably included in UOP. Included in Quest Award Leveller.
 CaeliaDraconisFix.esp
+Imperial Prison Cell Door Fix.esp
 sulinus fix.esp
 sva_testFixBruma.esp
 Specular_Fix_1.1.esp
@@ -1686,6 +1687,7 @@ CLS-Sailboats.esp
 CLS-Sailboats-COBL.esp
 OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
+Storms & Sound - CLS-SailboatsEx.esp
 
 CityLights - ImperialCity.esp
 Clam Respawn.esp
@@ -1972,6 +1974,8 @@ More Drinks.esp
 $ Probably not compatible with OOO. Untested.
 more broadsheets.esp
 more_broadsheets.esp
+More Effective Enchantments.esp
+More Effective Enchantments SI.esp
 More Female Servants.esp
 More Poisened Food!0.3.esp
 More_Vegetables.esp
@@ -2865,6 +2869,8 @@ Book Jackets DLC.esp
 % {{BASH:Graphics, NoMerge}}
 GrimbotsSpellTomes.esp
 % {{BASH:Graphics, NoMerge}}
+Grimbots_Spell_Tomes.esp
+% {{BASH:Graphics, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Body replacers
@@ -2975,6 +2981,7 @@ avarm.esp
 A_Simple_Ring-8333.esp
 A Study of the Shemayle Book Series.esp
 AAbuiesdaqun.esp
+ABC.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 AC2Gear_RS.esp
@@ -3512,6 +3519,7 @@ DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
 DesuChan's Stealth Gear Complete.esp
+DesuChan's Store.esp
 DFSL Leathery 4.esp
 DFSLChina.esp
 DG Jewelry for All.esp
@@ -5754,6 +5762,7 @@ LuckBasedLootForFrans.esp
 <% {{BASH:Delev, Relev}}
 <FranSeducerScriptFix.esp
 Francesco's Optional Skill Based Damage & Durability.esp
+More Effective Enchantments Francescos.esp
 
 Francesco's Boar Addon.esp
 Francesco's Boars Add-On.esp
@@ -5851,9 +5860,11 @@ Oblivion WarCry.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >* Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
+More Effective Enchantments WarCry.esp
 Oblivion WarCry EV.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
+More Effective Enchantments WarCry EV.esp
 FCOM_WarCry.esp
 % {{BASH:Delev, Relev, Stats}}
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
@@ -5922,6 +5933,7 @@ OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
 MrSiikaRabbitsforOOO.esp
 " MMMforOOO/FCOM. Already integrated.
+More Effective Enchantments OOO.esp
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
@@ -6207,6 +6219,7 @@ Oscuro's Combat Behavior.esp
 
 FCOM_Convergence.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+More Effective Enchantments FCOM.esp
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_ConvergenceNoFran.esp
 >* Outdated. Install FCOM version 0.9.9 or later.
@@ -6394,6 +6407,7 @@ Fletching Compilation.esp
 Mart's Monster Mod.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+More Effective Enchantments MMM.esp
 Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
@@ -6411,6 +6425,7 @@ Mart's Monster Mod - COBL Races TNR.esp
 Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+More Effective Enchantments MMM4OOO.esp
 Mart's Monster Mod for OOO TNR Faces.esp
 % {{BASH:NpcFaces, NoMerge}}
 " COBL Races TNR.
@@ -6821,6 +6836,9 @@ TIE In - Sounds.esp
 
 TIE Cats.esp
 % {{BASH:Graphics}}
+
+Brasher's Oblivion Overhaul.esp
+% {{BASH:Delev,Relev}}
 
 Choices and Consequences - FCOM.esp
 ? Obsolete. Update to latest version and remove.
@@ -8127,6 +8145,7 @@ Dwarven Mines.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+Dwemer Ruins.esp
 
 Duke Patricks - Basic Combat Training.esp
 Duke Patricks - Bottle Shoot Archery Practice.esp
@@ -9448,6 +9467,7 @@ SK.esp
 SkyCastle.esp
 Skyrim Alive.esp
 Sky Haven.esp
+Skyrim Nord Tombs.esp
 SkyrimObservatory.esp
 Skyship.esp
 SYS Patch-Bond's Skyship.esp
@@ -9561,6 +9581,7 @@ Sheogorath`s Artifacts.esp
 
 tales of gratch.esp
 Talos Bridge.esp
+Storms & Sound - Talos Bridge Gatehouse.esp
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -9744,6 +9765,7 @@ Stirk_Compatibility_Patch.esp
 Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
 : TR_Stirk.
 FCOM_Stirk.esp
+Storms & Sound - Stirk.esp
 Transmutation.esp
 Trashdog's SPB Heavy AB Shop.esp
 TreasuresOfTyrV10.esp
@@ -10245,6 +10267,7 @@ MOBS_Knights.esp
 % {{BASH:Stats}}
 MOBS Knights.esp
 % {{BASH:NoMerge, Stats}}
+More Effective Enchantments Knights.esp
 Kot9 Rings.esp
 SM Plugin Refurbish - Knights.esp
 " 'CDM-CGO Compatibility plugins'.
@@ -10665,6 +10688,7 @@ Bonds Crystal Isles an Adventure Vwalk.esp
 
 TVIcar.esp
 
+Storms & Sound - PTMudwater.esp
 Celestiel - EV.esp
 Academy.esp
 Rooftop Rewards cleaned.esp
@@ -11390,6 +11414,7 @@ CastleSeaview+LostCoast Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
 " CastleSeaview+LostCoast Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
+Storms & Sound - Castle Seaview.esp
 SYS Patch-Castle Seaview.esp
 
 Castle_Wolfspike.esp

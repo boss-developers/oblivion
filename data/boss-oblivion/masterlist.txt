@@ -6219,7 +6219,6 @@ Oscuro's Combat Behavior.esp
 
 FCOM_Convergence.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-More Effective Enchantments FCOM.esp
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_ConvergenceNoFran.esp
 >* Outdated. Install FCOM version 0.9.9 or later.
@@ -6253,6 +6252,8 @@ FCOM_EntropicOrderHardcore.esp
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 FCOM_RealSwords.esp
 % {{BASH:Delev, Relev}}
+ IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+More Effective Enchantments FCOM.esp
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Mart's Monster Mod - Durability & Damage.esp

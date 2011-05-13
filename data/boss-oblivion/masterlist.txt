@@ -7035,6 +7035,10 @@ WAC - OverSpawn4v1.0bOOO.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4v1.0bFCOM.esp
 % {{BASH:Delev, Relev}}
+WAC - OverSpawn4v1.0bOWCND.esp
+% {{BASH:Delev, Relev}}
+WAC - OverSpawn4v1.0bOWCND ILF.esp
+% {{BASH:Delev, Relev}}
 WAC - BlackBootDungeon.esp
 WAC - Dead Knights.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Actors.AIData, Actors.AIPackages}}
@@ -7058,8 +7062,6 @@ WAC - TCOSFix.esp
 % {{BASH:Delev, Invent, Relev}}
 WAC - TCOSFix4v1.0b.esp
 % {{BASH:Delev, Invent, Relev}}
-WAC - OverSpawn4v1.0bOWCND.esp
-% {{BASH:Delev, Relev}}
 WAC - 8th Gate.esp
 WAC - Legion.esp
 % {{BASH:Graphics, Invent}}

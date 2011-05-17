@@ -2316,12 +2316,19 @@ Trainer_Book_DV.esp
 Treasure Hunt.esp
 TreasureHunt.esp
 TreasureChest.esp
-? Choose only one 'TreasureChest' ESP.
-TreasureChestNoGurdian.esp
-? Choose only one 'TreasureChest' ESP.
-TreasureChest_OOO.esp
-: Oscuro's Oblivion Overhaul.
-? Choose only one 'TreasureChest' ESP.
+TreasureChest - MMM.esp
+? For MMM or MMMforFran , do not use with TreasureChest - OOO/FCOM.esp.
+TreasureChest - OOO.esp
+? For OOO , do not use with TreasureChest - MMM/FCOM.esp.
+TreasureChest - FCOM.esp
+? For FCOM or MMMforOOO , do not use with TreasureChest - MMM/OOO.esp.
+TreasureChest - ALEX.esp
+: Cobl.
+? do not use with TreasureChest - ALEX for OOO.esp.
+TreasureChest - ALEX for OOO.esp
+: Cobl.
+? do not use with TreasureChest - ALEX.esp.
+Rare - LockPick_RepairHammer.esp
 Treleths_Pitchable_Tent.esp
 TurnoffLights.esp
 TreeDoorAddition.esp
@@ -2528,9 +2535,8 @@ travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 NPCsTravel.esp
-? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
-TamrielNPCsTravel.esp
-? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
+NPCsTravel - HTSCl.esp
+: HTSClight.esm.
 NPCsTravel - NoRandomNpc.esp
 
 Populated Prisons.esp
@@ -11009,6 +11015,7 @@ KvatchAftermath-EntiusGorge compatibility patch.esp
 DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
 TheNecromancer-EntiusGorge patch.esp
 SpiritsEdge-EntiusGorge patch.esp
+NPCsTravel - Unique Landscapes - Entius Gorge Patch.esp
 
 ULFallenLeafEverglade.esp
 ? Obsolete. Update to latest version, then delete.
@@ -11217,6 +11224,7 @@ OWCND - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
+NPCsTravel - Unique Landscapes - Arrius Creek Patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills esp
@@ -11263,6 +11271,7 @@ Valenwood Improved - River Ethe EV - Patch.esp
 WestRoads-RiverEthe patch.esp
 ? Obselete - update to West Roads version 1.3+.
 WineOverhaul-RiverEthe Patch.esp
+NPCsTravel - Unique Landscapes - River Ethe Patch.esp
 
 xulBrenaRiverRavine.esp
 Unique Landscapes - Brena River Ravine DV.esp

@@ -17582,13 +17582,50 @@ OCC-HTS-Patch.esp
 HTS_getwet.esp
 HTS with Cooking.esp
 HTSCl_base.esp
+% {{BASH:Invent}}
+: OBSE 19b+.
 HTSCl_cobl.esp
+: Cobl.
 HTSCl_mmm.esp
+% {{BASH:Graphics, Invent}}
+: Mart's Monster Mod.
 HTSCl_ooo.esp
+: Oscuro's Oblivion Overhaul.
 HTSCl_si.esp
+: Shivering Isles expansion.
 HTSCl_tent.esp
+HTSCl_bbc.esp
+% {{BASH:Graphics}}
+: Better Cities Resources.
+HTSCl_wac.esp
+% {{BASH:Graphics, Invent}}
+? Use either 'HTSCl_wac.esp' or 'HTSCl_wac_ItemLootFix.esp', not both.
+: Waalx Animals and Creatures
+HTSCl_wac_ItemLootFix.esp
+% {{BASH:Graphics, Invent}}
+? Use either 'HTSCl_wac.esp' or 'HTSCl_wac_ItemLootFix.esp', not both.
+: Waalx Animals and Creatures - ItemLootFix plugin.
+HTSCl_cuo.esp
+% {{BASH:Graphics}}
+? Use either 'HTSCl_cuo.esp' or 'HTSCl_cuo_inElderCouncil.esp', not both.
+: Cyrodiil Upgrade Overhaul.
+HTSCl_cuo_inElderCouncil.esp
+% {{BASH:Graphics}}
+? Use either 'HTSCl_cuo.esp' or 'HTSCl_cuo_inElderCouncil.esp', not both.
+: CUO, The Elder Council.
+HTSCl_elsweyr.esp
+: Elsweyr Deserts of Anequina.
 HTSCl_hud.esp
+: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
+HTSCl_UTY.esp
+HTSCl_UTY_patch.esp
+HTSCl_Pie_Modification.esp
+HTSCl_Juice_Modification.esp
+HTSCl_Washoku.esp
 HTSCl_rottenfood.esp
+HTSCl_rottenfood_patch.esp
+TSSoupHouse.esp
+HTSCl_withsoups.esp
 
 TheOubliette.esp
 Advance Avalon Project.esp

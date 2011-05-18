@@ -58,7 +58,7 @@ BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
 % {{BASH:Eyes, Graphics, Hair, R.Relations}}
 xeoex.esm
-% {{BASH:Body-F, Body-M, Eyes}}
+% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes}}
 Jog_X_Mod.esm
 piCore.esm
 Q-Core.esm
@@ -361,7 +361,7 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 xeosp++.esp
-% {{BASH:Body-F, Body-M, Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
+% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
 xeosp++ Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -1642,10 +1642,10 @@ SNR Dark brotherhood.esp
 % {{BASH:Hair, Eyes, Invent}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Dremorae UFF.esp
-% {{BASH:Hair, Eyes, Invent, Body-F, Voice-F}}
+% {{BASH:Hair, Eyes, Invent, Body-F, Body-Size-F, Voice-F}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Dremorae.esp
-% {{BASH:Hair, Eyes, Invent, Body-F, Voice-F}}
+% {{BASH:Hair, Eyes, Invent, Body-F, Body-Size-F, Voice-F}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Crowded Roads UFF.esp
 ? Make sure to install the additional mods (listed in the readme).
@@ -2895,26 +2895,26 @@ JuvenileMod.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
-% {{BASH:Body-M, Body-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
 Bab.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
 Bodybuilder Body.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
 MaleBodyReplacerV3.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 Male Body Replacer v 3.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 MaleBodyReplacerV4.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 Male Body Replacer.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 MaleBodyReplacer.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 MaleBodyReplacerV5Beta.esp
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F, Body-Size-F}}
 Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
@@ -6658,7 +6658,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
+% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
@@ -10678,7 +10678,7 @@ Elsweyr - Drinks Patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F, Body-Size-F}}
 Elsweyr plantations & co..esp
 : ElsweyrAnequina.esp
 Elsweyr plantations & co. Southland Plantation.esp
@@ -15584,11 +15584,11 @@ Cool Hair & Eyelashes for Cobl.esp
 CSC.esp
 % {{BASH:Hair, Eyes}}
 CSC RM.esp
-% {{BASH:Body-M, Hair, Eyes}}
+% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
 CSC RM CW.esp
-% {{BASH:Body-M, Hair, Eyes}}
+% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
 CSC RM CW EL.esp
-% {{BASH:Body-M, Hair, Eyes}}
+% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
 ElaborateEyes-RensBeautyPackFull.esp
 % {{BASH:Hair, Eyes}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
@@ -15853,7 +15853,7 @@ Elves Of Lineage II_1.esp
 Sotha Sil Race.esp
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears}}
 TFF_Races_Base.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Graphics}}
 Tolkien Elves.esp
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth}}
 Beautiful People.esp
@@ -15884,11 +15884,11 @@ x117Race ENG Race.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp
-% {{BASH:Body-M, Hair, Eyes, R.Relations}}
+% {{BASH:Body-M, Body-Size-M, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF.esp
-% {{BASH:Body-F, Hair, Eyes, R.Relations}}
+% {{BASH:Body-F, Body-Size-F, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
-% {{BASH:Body-F, Body-M, Hair, Eyes, R.Relations}}
+% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Merged Hair Modules.esp
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp
@@ -16039,7 +16039,7 @@ Ahtata_Khabaxi.esp
 ahtata dremora.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Ahtata Arquamer spike4hair.esp
-% {{BASH:NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-M}}
+% {{BASH:NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-Size-F, Body-M, Body-Size-M}}
 ? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
 Ahtata Arquamer female got hair.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
@@ -16100,13 +16100,13 @@ X.Races.Comp.esp
 Luchaire's Dryad Race for MMM.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Tabaxi_Race_Robert.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics, R.Relations}}
 Tabaxi_Race_BAB.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Graphics, R.Relations}}
 Tabaxi_Race_BAB_Robert.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-M, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Body-M, Body-Size-M, Graphics, R.Relations}}
 Mystic Dark Elf and Mystic Dunmer for MM.esp
-% {{BASH:NpcFaces, Hair, Eyes, Graphics, Body-F, Body-M, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Graphics, Body-F, Body-Size-F, Body-M, Body-Size-M, R.Relations}}
 Ren_Soya_KD's.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 BP Cosmetic Compilation.esp
@@ -16114,22 +16114,22 @@ BP Cosmetic Compilation.esp
 soyaenbp.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 Beautiful PeopleV22 - MaleReplacerV4.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
 BP + Robert's + BR + Hair Packs.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
 Beautiful People Robert - Hair merged.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
 BP_Roberts_BR_Hair.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
 _Ren_BeautyPack_full + Soya's hair.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}
 BP-Cosmetic Compilation-MaleBodyReplacer.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
 Additional Cosmetics for BP.esp
 TFF ROBERT Cosmetic Compilation.esp
-% {{BASH:NpcFaces, Graphics, Hair, Eyes, Body-M, Body-F, Graphics}}.
+% {{BASH:NpcFaces, Graphics, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics}}.
 TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, R.Teeth, Graphics, NoMerge}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, R.Teeth, Graphics, NoMerge}}
 BeautifulPeople2.2+TweakedGenericFacesLITE.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 BeautifulPeople2.2+TweakedGenericFaces.esp
@@ -16802,11 +16802,11 @@ xenia.esp
 SMChocolateElf.esp
 SMHighImperial.esp
 CMAll.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
 CMAllXenius.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
 CMAll2.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
 \EndGroup\\
 
 \BeginGroup\: Race Overrides
@@ -16814,9 +16814,9 @@ CMAll2.esp
 \
 \Includes birthsign mods.
 AMB.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 AMD.esp
-% {{BASH:Body-M}}
+% {{BASH:Body-M, Body-Size-M}}
 \BeginGroup\: COBL Races
 \''''''''''
 
@@ -16849,23 +16849,23 @@ Colourwheels Sexy Oblivion OverHaul.esp
 \'''''''''''''''''''''
 ArgonianBeautification-RaceSettings.esp
 BulkyNord.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-Size-M, Body-Size-F}}
 BulkyOrcs.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-Size-M, Body-Size-F}}
 EVE_KhajiitFix.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F, Body-Size-F}}
 Khajiit Fix.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F, Body-Size-F}}
 Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-M, Body-F, R.Relations}}
+% {{BASH:Body-Size-M, Body-Size-F, R.Relations}}
 Bigger_Dremora.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-Size-M, Body-Size-F}}
 Bigger_Dremora-2369.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-Size-M, Body-Size-F}}
 Bigger Nords & Orcs.esp
-% {{BASH:Body-M, Body-F}}
+% {{BASH:Body-Size-M, Body-Size-F}}
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces, R.Teeth, Body-M, Body-F}}
+% {{BASH:NpcFaces, R.Teeth, Body-M, Body-Size-M, Body-F, Body-Size-F}}
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces, R.Teeth}}
 EyelashesVanillaRaces.esp
@@ -16877,36 +16877,36 @@ EyelashesForVanillaRaces1.0.esp
 Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces, NoMerge}}
 Better Redguard v2.esp
-% {{BASH:NpcFaces, Body-F, Body-M, NoMerge}}
+% {{BASH:NpcFaces, Body-F, Body-Size-F, Body-M, Body-Size-M, NoMerge}}
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Dark Elves.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Dremora.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Redguards-Mergeable.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards-Mergeable Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Wood Elves Vanilla.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Wood Elves Vanilla Black Eyes.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Wood Elves COBL.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Redguard Guards.esp
-% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair, NpcFaces}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair, NpcFaces}}
 BigDunmerEars.esp
-% {{BASH:Body-M, Body-F, NpcFaces}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Smaller Elf ears.esp
-% {{BASH:Body-M, Body-F, NpcFaces}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Slof's Better Bodies.esp
-% {{BASH:Body-M, Body-F, Eyes, Graphics}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, Eyes, Graphics, R.Mouth, R.Teeth}}
 : Robert's Male (v3, v4 or v5) and Robert's Female
 " Other body mods other than Robert's
 " Slof's Oblivion Better Beasts.esp (included in this).
@@ -16915,9 +16915,9 @@ Slof's Better Bodies.esp
 ? Conflicts with Cobl Races Resource
 ? Conflicts with Luchairs HGEC body seam reducer
 Jjiinx_Long Ears.esp
-% {{BASH:Body-M, Body-F, NpcFaces}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp
-% {{BASH:Body-M, Body-F, NpcFaces}}
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 WhiskersAll.esp
 % {{BASH:R.Teeth}}
 MergedMouth.esp
@@ -16937,7 +16937,7 @@ SkinMannequinCOBL-nosleep.esp
 \BeginGroup\: ZU SI Overhaul
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
 ZUSwordFlameAtro.esp
 ZUSwordFlameAtro_Vanilla.esp
 ZUSwordFlameAtro_UOP.esp
@@ -17119,7 +17119,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
 % {{BASH:Body-M}}
 k_HOD_RBP_patch.esp
-% {{BASH:Body-F}}
+% {{BASH:Body-F, Body-Size-F}}
 \EndGroup\\
 
 \BeginGroup\: BG Integration quest
@@ -17157,7 +17157,7 @@ sr_race_balance_tweaks.esp
 Trap.esp
 % {{BASH:R.Attributes-F, R.Attributes-M, R.ChangeSpells, R.Description, R.Relations, R.Skills}}
 Cobl Races - Balanced.esp
-% {{BASH:Body-F, Body-M, Body-Size-F, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
 ? Do not use with Race Balancing Project.
 Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
@@ -18237,7 +18237,7 @@ FakeHDR_SM20_bettersun.esp
 \--------
 
 a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp
-% {{BASH:Body-F, Body-M, Graphics, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-F, Voice-M}}
+% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Graphics, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-F, Voice-M}}
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DeadlierDarkBrotherHood.esp

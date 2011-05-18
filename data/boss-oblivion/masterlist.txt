@@ -1417,6 +1417,7 @@ AmbientDungeons.esp
 
 \BeginGroup\: Base A
 
+UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
@@ -11444,8 +11445,11 @@ Brina Cross Village--Unique Forts Patch.esp
 Castle_Seaview.esp
 CSV_Farms.esp
 CSV_Farms_Road_Open_Cities.esp
+? Obselete, update to latest version.
 CSV_Farms_Road_Vanilla.esp
+? Obselete, update to latest version.
 CSV_Farms_Better_Cities.esp
+? Obselete, update to latest version.
 Castle_Seaview v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 CastleSeaview+LostCoast Patch DV.esp
@@ -17153,12 +17157,12 @@ sr_race_balance_tweaks.esp
 Trap.esp
 % {{BASH:R.Attributes-F, R.Attributes-M, R.ChangeSpells, R.Description, R.Relations, R.Skills}}
 Cobl Races - Balanced.esp
-% {{BASH:Body-F, Body-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+% {{BASH:Body-F, Body-M, Body-Size-F, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
 ? Do not use with Race Balancing Project.
 Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
 Diverse Races.esp
-% {{BASH:Body-F, Body-M}}
+% {{BASH:Body-Size-F, Body-Size-M}}
 Better_Berserk-2177.esp
 DBWBMR.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
@@ -17571,6 +17575,16 @@ Better Cities - Halcyon Island.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
+
+CSV_Farms_Better_Cities.esp
+? Use only one CSV Farms * Cities esp.
+: Better Cities.
+CSV_Farms_Open_Cities.esp
+? Use only one CSV Farms * Cities esp.
+: Open Cities.
+CSV_Farms_Open_Better_Cities.esp
+? Use only one CSV Farms * Cities esp.
+: Open Better Cities.
 
 Portrait Painter for Better Cities.esp
 
@@ -18368,6 +18382,37 @@ NRB4 OCLR Road Record.esp
 NRB4 OCReborn Road Record.esp
 % {{BASH: Deactivate, Roads}}
 : Open Cities Reborn.
+? Use only one road record file.
+CSV_Farms_Road_Vanilla.esp
+% {{BASH:Deactivate, Roads}}
+? Use only one road record file.
+CSVF_Road_Record_OC.esp
+% {{BASH:Deactivate, Roads}}
+: Open Cities.
+? Use only one road record file.
+CSVF_Road_Record_OC+RB.esp
+% {{BASH:Deactivate, Roads}}
+: Open Cities, New Roads+Bridges.
+? Use only one road record file.
+CSVF_Road_Record_BBC.esp
+% {{BASH:Deactivate, Roads}}
+: Better Cities.
+? Use only one road record file.
+CSVF_Road_Record_BBC+OC.esp
+% {{BASH:Deactivate, Roads}}
+: Open Better Cities.
+? Use only one road record file.
+CSVF_Road_Record_BBC+RB.esp
+% {{BASH:Deactivate, Roads}}
+: Better Cities, New Roads+Bridges.
+? Use only one road record file.
+CSVF_Road_Record_BBC+OC+RB.esp
+% {{BASH:Deactivate, Roads}}
+: Open Better Cities, New Roads+Bridges.
+? Use only one road record file.
+CSVF_Road_Record_RB.esp
+% {{BASH:Deactivate, Roads}}
+: New Roads+Bridges.
 ? Use only one road record file.
 
 HM2SummonCompatible.esp

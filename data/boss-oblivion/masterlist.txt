@@ -75,7 +75,6 @@ EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
 ? Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
-Open Cities Resources.esm
 Francesco's Leveled Creatures-Items Mod.esm
 % {{BASH:Invent, Delev, Relev, Actors.AIData, Actors.Stats, Stats}}
 Francesco's Optional New Items Add-On.esm
@@ -97,6 +96,7 @@ Cobl Main.esm
 Item interchange.esm
 ? Outdated. All functions are now handled by Cobl.esm. Update to the latest versions of 'Item Interchange' and Cobl.
 TamRes.esm
+Open Cities Resources.esm
 Qarls_Harvest.esm
 % {{BASH:Scripts}} and no need for OOO patch.
 Ulrim's Horses.esm

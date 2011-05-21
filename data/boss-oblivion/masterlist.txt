@@ -58,7 +58,7 @@ BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
 % {{BASH:Eyes, Graphics, Hair, R.Relations}}
 xeoex.esm
-% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes}}
+% {{BASH:Body-F, Body-M, Eyes}}
 Jog_X_Mod.esm
 piCore.esm
 Q-Core.esm
@@ -75,6 +75,7 @@ EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
 ? Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
+Open Cities Resources.esm
 Francesco's Leveled Creatures-Items Mod.esm
 % {{BASH:Invent, Delev, Relev, Actors.AIData, Actors.Stats, Stats}}
 Francesco's Optional New Items Add-On.esm
@@ -96,7 +97,6 @@ Cobl Main.esm
 Item interchange.esm
 ? Outdated. All functions are now handled by Cobl.esm. Update to the latest versions of 'Item Interchange' and Cobl.
 TamRes.esm
-Open Cities Resources.esm
 Qarls_Harvest.esm
 % {{BASH:Scripts}} and no need for OOO patch.
 Ulrim's Horses.esm
@@ -292,9 +292,6 @@ VipCxj_AirSystem.esm
 \BeginGroup\: Earliest mods
 \-------------
 
-TestDuplicate.esp
-\This is a temporary addition for bug fixing purposes.
-
 rus_DotStudio_1.2_final.esp
 ? Translates Oblivion.esm into Russian.
 russian.esp
@@ -361,7 +358,6 @@ xeoex.esp
 xeoex Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 xeosp++.esp
-% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes, Graphics, Hair, NPC.Race, NpcFaces}}
 xeosp++ Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -582,7 +578,6 @@ PRO64-BrumaFix.esp
 The Finger of the Mountain Fix.esp
 ? Probably included in UOP. Included in Quest Award Leveller.
 CaeliaDraconisFix.esp
-Imperial Prison Cell Door Fix.esp
 sulinus fix.esp
 sva_testFixBruma.esp
 Specular_Fix_1.1.esp
@@ -1417,7 +1412,6 @@ AmbientDungeons.esp
 
 \BeginGroup\: Base A
 
-UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
@@ -1642,10 +1636,10 @@ SNR Dark brotherhood.esp
 % {{BASH:Hair, Eyes, Invent}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Dremorae UFF.esp
-% {{BASH:Hair, Eyes, Invent, Body-F, Body-Size-F, Voice-F}}
+% {{BASH:Hair, Eyes, Invent, Body-F, Voice-F}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Dremorae.esp
-% {{BASH:Hair, Eyes, Invent, Body-F, Body-Size-F, Voice-F}}
+% {{BASH:Hair, Eyes, Invent, Body-F, Voice-F}}
 ? Make sure to install the additional mods (listed in the readme).
 SNR Crowded Roads UFF.esp
 ? Make sure to install the additional mods (listed in the readme).
@@ -1657,8 +1651,6 @@ CDM-Exploding Arrows.esp
 CDM-Skip Purification.esp
 CFVBloodgrass.esp
 CDM - Uderfrykte Matron Fix.esp
-
-Clamrespawn.esp
 
 ClocksOfCyrodiil.esp
 ? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
@@ -1688,7 +1680,6 @@ CLS-Sailboats.esp
 CLS-Sailboats-COBL.esp
 OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
-Storms & Sound - CLS-SailboatsEx.esp
 
 CityLights - ImperialCity.esp
 Clam Respawn.esp
@@ -1975,8 +1966,6 @@ More Drinks.esp
 $ Probably not compatible with OOO. Untested.
 more broadsheets.esp
 more_broadsheets.esp
-More Effective Enchantments.esp
-More Effective Enchantments SI.esp
 More Female Servants.esp
 More Poisened Food!0.3.esp
 More_Vegetables.esp
@@ -2317,19 +2306,12 @@ Trainer_Book_DV.esp
 Treasure Hunt.esp
 TreasureHunt.esp
 TreasureChest.esp
-TreasureChest - MMM.esp
-? For MMM or MMMforFran , do not use with TreasureChest - OOO/FCOM.esp.
-TreasureChest - OOO.esp
-? For OOO , do not use with TreasureChest - MMM/FCOM.esp.
-TreasureChest - FCOM.esp
-? For FCOM or MMMforOOO , do not use with TreasureChest - MMM/OOO.esp.
-TreasureChest - ALEX.esp
-: Cobl.
-? do not use with TreasureChest - ALEX for OOO.esp.
-TreasureChest - ALEX for OOO.esp
-: Cobl.
-? do not use with TreasureChest - ALEX.esp.
-Rare - LockPick_RepairHammer.esp
+? Choose only one 'TreasureChest' ESP.
+TreasureChestNoGurdian.esp
+? Choose only one 'TreasureChest' ESP.
+TreasureChest_OOO.esp
+: Oscuro's Oblivion Overhaul.
+? Choose only one 'TreasureChest' ESP.
 Treleths_Pitchable_Tent.esp
 TurnoffLights.esp
 TreeDoorAddition.esp
@@ -2536,8 +2518,9 @@ travellers-new balance Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 NPCsTravel.esp
-NPCsTravel - HTSCl.esp
-: HTSClight.esm.
+? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
+TamrielNPCsTravel.esp
+? Use either NPCsTravel.esp or TamrielNPCsTravel.esp but not both together.
 NPCsTravel - NoRandomNpc.esp
 
 Populated Prisons.esp
@@ -2599,7 +2582,6 @@ Duke Patricks - Friendship Ring For Companion Detection.esp
 DynamicLeveledLists.esp
 
 Enhanced Seasons.esp
-ExPCB.esp
 
 FormID Finder.esp
 ? Outdated. Update to version 4.
@@ -2877,8 +2859,6 @@ Book Jackets DLC.esp
 % {{BASH:Graphics, NoMerge}}
 GrimbotsSpellTomes.esp
 % {{BASH:Graphics, NoMerge}}
-Grimbots_Spell_Tomes.esp
-% {{BASH:Graphics, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Body replacers
@@ -2895,26 +2875,26 @@ JuvenileMod.esp
 EshmesBodiesV2.esp
 ExnemEyeCandy.esp
 EyeCandy Compilation.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
+% {{BASH:Body-M, Body-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
 Bab.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 Bodybuilder Body.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 MaleBodyReplacerV3.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 Male Body Replacer v 3.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 MaleBodyReplacerV4.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 Male Body Replacer.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 MaleBodyReplacer.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 MaleBodyReplacerV5Beta.esp
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
-% {{BASH:Body-F, Body-Size-F}}
+% {{BASH:Body-F}}
 Underworld Vampires.esp
 
 EVE_StockEquipmentReplacer.esp
@@ -2989,7 +2969,6 @@ avarm.esp
 A_Simple_Ring-8333.esp
 A Study of the Shemayle Book Series.esp
 AAbuiesdaqun.esp
-ABC.esp
 AC Stock Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
 AC2Gear_RS.esp
@@ -3360,8 +3339,6 @@ ClearGlassArmorSet.esp
 ClosedSteelHelmet.esp
 ClothGloves.esp
 % {{BASH:Invent}}
-Cloud Armor Compilation.esp
-% {{BASH:Invent, Stats}}
 CLS-ClassyClothesFactions.esp
 Christian's Claymore.esp
 Change Undies Everyday.esp
@@ -3529,7 +3506,6 @@ DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
 DesuChan's Stealth Gear Complete.esp
-DesuChan's Store.esp
 DFSL Leathery 4.esp
 DFSLChina.esp
 DG Jewelry for All.esp
@@ -4161,7 +4137,6 @@ naginata.esp
 Naruto items.esp
 Nature's_bounty.esp
 Natures_Arsenal.esp
-Nazrin-Clothes.esp
 Necessary Violence.esp
 Neckerchiefs v1.2.esp
 Neck Seam Concealers Expanded.esp
@@ -4344,7 +4319,6 @@ ring_of_feather.esp
 Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
-ROADCourtesan.esp
 ROADMasterOutift.esp
 Robe Replacer2.esp
 % {{BASH:Graphics, Invent}}
@@ -5647,7 +5621,6 @@ AncientTowers Vwalk.esp
 AncientTowersNoExnem.esp
 SYS Patch-Ancient Towers.esp
 ClassedBeginning.esp
-ClassedBeginning02.esp
 Goblin Realswords+Tribal Shields.esp
 % {{BASH:Graphics}}
 ? Only use this or Goblin Realswords.esp (or FCOM)
@@ -5686,7 +5659,7 @@ DLCThievesDen - Unofficial Patch.esp
 Correctif ThievesDen.esp
 Correctif ThievesDen RP.esp
 DLCThievesDen - Unofficial Patch - SSSB.esp
-? Obsolete. Upgrade to UOP Supplementals 3.3.4 or higher. Then delete this file and rebuild the bashed patch.
+? Not need for 'DLCThievesDen - Unofficial Patch.esp' v1.0.7+
 Correctif ThievesDen - SSSB.esp
 DBOO - ThievesDen.esp
 DLCThievesDen Rwalk.esp
@@ -5775,7 +5748,6 @@ LuckBasedLootForFrans.esp
 <% {{BASH:Delev, Relev}}
 <FranSeducerScriptFix.esp
 Francesco's Optional Skill Based Damage & Durability.esp
-More Effective Enchantments Francescos.esp
 
 Francesco's Boar Addon.esp
 Francesco's Boars Add-On.esp
@@ -5873,11 +5845,9 @@ Oblivion WarCry.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >* Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
-More Effective Enchantments WarCry.esp
 Oblivion WarCry EV.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
-More Effective Enchantments WarCry EV.esp
 FCOM_WarCry.esp
 % {{BASH:Delev, Relev, Stats}}
 ? Use either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp', not both.
@@ -5946,7 +5916,6 @@ OOO-LightOfDawnAlwaysFlames.esp
 ? Use only one LightOfDawn plugin.
 MrSiikaRabbitsforOOO.esp
 " MMMforOOO/FCOM. Already integrated.
-More Effective Enchantments OOO.esp
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
@@ -6266,8 +6235,6 @@ FCOM_EntropicOrderHardcore.esp
 FCOM_RealSwords.esp
 % {{BASH:Delev, Relev}}
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
-More Effective Enchantments FCOM.esp
- IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >Mart's Monster Mod - Durability & Damage.esp
 >* Delete and use 'FCOM_DurabilityAndDamage.esp'.
@@ -6421,7 +6388,6 @@ Fletching Compilation.esp
 Mart's Monster Mod.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-More Effective Enchantments MMM.esp
 Mart's Monster Mod for Fran.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
@@ -6439,7 +6405,6 @@ Mart's Monster Mod - COBL Races TNR.esp
 Mart's Monster Mod for OOO.esp
 >* Delete. Not needed with FCOM.
 % {{BASH:Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
-More Effective Enchantments MMM4OOO.esp
 Mart's Monster Mod for OOO TNR Faces.esp
 % {{BASH:NpcFaces, NoMerge}}
 " COBL Races TNR.
@@ -6660,7 +6625,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
+% {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
@@ -6851,9 +6816,6 @@ TIE In - Sounds.esp
 TIE Cats.esp
 % {{BASH:Graphics}}
 
-Brasher's Oblivion Overhaul.esp
-% {{BASH:Delev,Relev}}
-
 Choices and Consequences - FCOM.esp
 ? Obsolete. Update to latest version and remove.
 
@@ -7020,7 +6982,6 @@ WAC - ItemLootFix4v1.0bMMM.esp
 ? Use only one WAC - ItemLootFix plugin.
 WAC - WeaponReachMOBS.esp
 % {{BASH:Stats}}
-WAC - NoSCWeapons.esp
 WAC OgrePatch.esp
 % {{BASH:Graphics}}
 WAC.esp
@@ -7046,10 +7007,6 @@ WAC - OverSpawn4v1.0bOOO.esp
 % {{BASH:Delev, Relev}}
 WAC - OverSpawn4v1.0bFCOM.esp
 % {{BASH:Delev, Relev}}
-WAC - OverSpawn4v1.0bOWCND.esp
-% {{BASH:Delev, Relev}}
-WAC - OverSpawn4v1.0bOWCND ILF.esp
-% {{BASH:Delev, Relev}}
 WAC - BlackBootDungeon.esp
 WAC - Dead Knights.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Actors.AIData, Actors.AIPackages}}
@@ -7073,6 +7030,8 @@ WAC - TCOSFix.esp
 % {{BASH:Delev, Invent, Relev}}
 WAC - TCOSFix4v1.0b.esp
 % {{BASH:Delev, Invent, Relev}}
+WAC - OverSpawn4v1.0bOWCND.esp
+% {{BASH:Delev, Relev}}
 WAC - 8th Gate.esp
 WAC - Legion.esp
 % {{BASH:Graphics, Invent}}
@@ -7453,9 +7412,7 @@ Akaviri Imports MOBS.esp
 ? Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
 AkaviriKojimaTravel.esp
 AkavirLegendsREs.esp
-% {{BASH:Graphics, Invent, Scripts}}
 AkavirLegends - Patch & Fix.esp
-% {{BASH:Graphics}}
 Abandoned Mania Camp.esp
 Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
@@ -7760,6 +7717,9 @@ Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 BF_FortRapture.esp
 Big Business.esp
+Billsburg.esp
+English Billsburg v1.5.esp
+English Billsburg_Rens_Hair_1.51.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
@@ -7823,6 +7783,8 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 BluWill1.esp
 BnKGreenBravil.esp
 Bonds Firebird V01.esp
+BogwaterDowns.esp
+Boqwater_Settlement_V103.esp
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
@@ -7872,6 +7834,7 @@ CaesarRanger.esp
 SYS Patch Caesar Ranger.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
+Campus Village.esp
 Capsized Ship.esp
 Castello_gotico.esp
 CaveOfWishcraft 1_1.esp
@@ -7881,8 +7844,10 @@ CaveOfWishcraft v1.1 Delayer.esp
 Cave Of Wishcraft.esp
 Champion's Mansion.esp
 Chatham.esp
+Chichester Village.esp
 Chorrol_Dungeon.esp
 ChristmasCottage.esp
+CityofSunevV058.esp
 Civilian Storage.esp
 Colossus_01.esp
 Colmir Manor.esp
@@ -8161,7 +8126,6 @@ Dwarven Mines.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-Dwemer Ruins.esp
 
 Duke Patricks - Basic Combat Training.esp
 Duke Patricks - Bottle Shoot Archery Practice.esp
@@ -8183,6 +8147,8 @@ DarkDale.esp
 Eagles Landing v1.esp
 Eagle'sNest.esp
 EaglesRest.esp
+EastbrinkBasic.esp
+EastbrinkCM.esp
 eden castle.esp
 Edgar's little secret.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
@@ -8191,6 +8157,9 @@ EirikWythringSpellmaker.esp
 EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
+ElsweyrRiverhold.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
+? Do not use if using ElsweyrAnequina.esp.
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EM_RedRoseManor.esp
@@ -8241,7 +8210,6 @@ Farleum V 1.2.esp
 FFM.esp
 FishermansCottage.esp
 FishermansCOBLaddon.esp
-FishermansCottage-LostCoast patch.esp
 fishing boat.esp
 TheForbiddenSecret.esp
 ForbiddenLands.esp
@@ -8332,8 +8300,6 @@ Gift of Kynareth_delayer.esp
 ? Outdated. Update to the latest version of the delayer.
 Gift of Kynareth v2.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
-Giskards Tales From the Tomb.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
@@ -8348,6 +8314,8 @@ GoldenCrest.esp
 GoldenCrest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 GoldenCrestBattlehornComp.esp
+Gottshaw.esp
+SRGottshaw0.9 Beta.esp
 GP_Moretta.esp
 GP_Moretta_1C.esp
 GPPaleGoblins.esp
@@ -8392,7 +8360,7 @@ Gypsy Wagon.esp
 
 hallofthemountainking.esp
 hackdirtabyss.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"Harvest [Flora] - DLCFrostcrag.esp
 Halcyon House.esp
 Halcyon House - AN Patch.esp
 Halls of Fortitude.esp
@@ -8475,6 +8443,7 @@ House On The Bluff .V2.esp
 HomeInWeyeRu.esp
 Housewives v101.esp
 Hale Housing.esp
+HanstHolm village.esp
 HeartlandFarm.esp
 HeartofDarkness.esp
 Heroes of Cyrodiil.esp
@@ -8682,6 +8651,7 @@ Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
 Jason1_Pirate Ship.esp
 jauOgreRide.esp
+JDNT_Brina Cross.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
 JolardHome.esp
@@ -8717,9 +8687,8 @@ Keys & Furniture Papers Box.esp
 KieranFleshRobes.esp
 KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
-KindredofCaine_eng.esp
+KindredofCaine_eng.esp 
 kingdomofAlmar.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
@@ -8777,9 +8746,6 @@ KvatchCastleMakeover.esp
 Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
-% {{BASH:Actors.AIPackages}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Requires special edit to repair an incorrect script override.
 
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
@@ -8820,10 +8786,15 @@ Lair_of_the_Hydra_1C.esp
 
 _lpHameHighRoad.esp
 Land of Hyrule.esp
+Lake Canulus Village.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
 LakesideHome.esp
-LakesideHomeCOBLaddon.esp
+Lakeview.esp
+" Shezrie's Villages.
+Lakeview2.esp
+Lakeview2 DV.esp
+Lakewood Village Ver 2.0.esp
 Latexshop.esp
 Latexshop2.esp
 latexshopstore.esp
@@ -8848,7 +8819,7 @@ Lem - Zemus's Lair.esp
 Lenawiln_Cottagev2.11.esp
 Letter to Dana.esp
 bladesfactionmod.esp
-% {{BASH:Factions, Invent, Relations, Stats}}
+% {{BASH:Factions, Invent, Relations}}
 
 OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
@@ -9053,6 +9024,7 @@ Malamath.esp
 Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
+Milewood.esp
 Murderer.esp
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
@@ -9096,7 +9068,6 @@ NerZitar.esp
 New_Sheoth_Palace_LOD_fix-10076.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NEW SHEOTH PALACE LOD FIX-TESSource.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NewMGQuests.esp
 % {{BASH:Actors.AIPackages}}
 NibenayFortress.esp
@@ -9203,6 +9174,7 @@ Pine Lodge.esp
 ? Outdated. Update to version 2+.
 Pine Lodge ver2.esp
 PinePeakLodge.esp
+Pinevale.esp
 Pinewood.esp
 Pinnacle Citadel.esp
 Pit Trap.esp
@@ -9263,6 +9235,11 @@ Quest Nirnroot.esp
 Raubritter.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
+Reaper's Coldstone Town.esp
+" Heart of the Dead.
+? Update to latest version (9+), esp renamed.
+Reaper's Coldstone Town Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 Reaper's The Dark Tower.esp
 " Heart of the Dead.
 Reaper's The Dark Tower Vwalk.esp
@@ -9332,7 +9309,6 @@ Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
 RosethornHallCave.esp
 RoxeyCottage.esp
-RoxeyCottageCOBLaddon.esp
 RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
@@ -9354,6 +9330,7 @@ RumpleMod Swalk.esp
 RumpleMod Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 RunedRobes.esp
+runestone.esp
 RuneTower.esp
 RusticHome.esp
 SYS Patch Rustic Home.esp
@@ -9365,6 +9342,7 @@ Rayearth_1C.esp
 
 \BeginGroup\: Quests S
 
+SacredOak_Settlement.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 Saldaea.esp
@@ -9419,8 +9397,6 @@ Shady Merchants.esp
 ShadySamFence.esp
 Sheogorad.esp
 Sheogoraths_Accords_of_Madness.esp
-% {{BASH:Actors.ACBS, Actors.Stats, Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
@@ -9484,8 +9460,8 @@ SkoomaRefiningAddictionEnhanced.esp
 SK.esp
 SkyCastle.esp
 Skyrim Alive.esp
+Skye Village Final.esp
 Sky Haven.esp
-Skyrim Nord Tombs.esp
 SkyrimObservatory.esp
 Skyship.esp
 SYS Patch-Bond's Skyship.esp
@@ -9508,6 +9484,10 @@ Snow Line Lodge.esp
 SN_Skingrad_Villa.esp
 SYS Patch- Skingrad Villa.esp
 SOTES_Santres.esp
+Solace.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SolaceDV.esp
+CM SOLACE.esp
 Sonnengoldhof.esp
 SoulGemSeller.esp
 Sousmarin_manorV1.1.esp
@@ -9543,6 +9523,8 @@ sinked ship.esp
 Sins_of_the_Dream.esp
 Sunburn.esp
 Sunken Fortress.esp
+Sutch Reborn.esp
+OOO-Sutch patch.esp
 sS-OrderOfAskarthe.esp
 sS-OrderOfAskarthe v0.6 Delayer.esp
 Sseths Resource Foundry.esp
@@ -9566,9 +9548,6 @@ Street Market.esp
 striders.esp
 SunderedKeep.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-SunderedKeep Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-
 Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
@@ -9599,7 +9578,8 @@ Sheogorath`s Artifacts.esp
 
 tales of gratch.esp
 Talos Bridge.esp
-Storms & Sound - Talos Bridge Gatehouse.esp
+TalosBridgeGateHouse.esp
+? Requires a patch if used with UL Imperial Isle.
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -9783,7 +9763,6 @@ Stirk_Compatibility_Patch.esp
 Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
 : TR_Stirk.
 FCOM_Stirk.esp
-Storms & Sound - Stirk.esp
 Transmutation.esp
 Trashdog's SPB Heavy AB Shop.esp
 TreasuresOfTyrV10.esp
@@ -9887,6 +9866,7 @@ Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp
+Verwen Brewery.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH:Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
@@ -9914,7 +9894,13 @@ Apachii_Heroes_Store.esp
 Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
+Villages1.1.esp
+Villages1.1Male.esp
+Villages1.1Famale.esp
+Villages of Cyrodiil V1.51.esp
 VileLairRebuilt.esp
+Village of Lily 2.0.esp
+Viking Village.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
@@ -9932,6 +9918,7 @@ VypersAstralStorage.esp
 \BeginGroup\: Quests W
 
 Wasserheim.esp
+Woodelvendon.esp
 Wandering_Nazgul_0.79.esp
 WaterFallCave.esp
 Waterfall Cottage V1.4.esp
@@ -10285,7 +10272,6 @@ MOBS_Knights.esp
 % {{BASH:Stats}}
 MOBS Knights.esp
 % {{BASH:NoMerge, Stats}}
-More Effective Enchantments Knights.esp
 Kot9 Rings.esp
 SM Plugin Refurbish - Knights.esp
 " 'CDM-CGO Compatibility plugins'.
@@ -10384,7 +10370,10 @@ Cybiades Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Cybiades v2.1 Delayer
 
+Damarask.esp
 Castle_Knightstone.esp
+
+Midland.esp
 
 TOTF.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10431,7 +10420,6 @@ TOSlod_start.esp
 TOSlod_Built.esp
 
 CUO_Bravil.esp
-\Needs to be here for compatibility with Lost Spires
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
@@ -10486,7 +10474,7 @@ Lost Paladins of the Divines.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Origin of the Mages Guild.esp
-% {{BASH:Actors.AIPackages, Relations}}
+% {{BASH:Actors.AIPackages}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -10495,7 +10483,6 @@ The Mystery of the Dulan cult.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TheNecromancer.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
@@ -10517,7 +10504,6 @@ AFK_Weye - Oblivion XP Patch.esp
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
-
 House of Healing at Weye.esp
 Weye.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10549,6 +10535,17 @@ SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
 Shadowcrest_Vineyard_Guard.esp
+
+Shezrie's Villages.esp
+? Old version. Update to Shezrie's Towns and remove this.
+ShezriesVillagesCOBL.esp
+? Old version. Update to Shezrie's Towns and remove this.
+ShezriesTownsMaster.esp
+ShezriesTownsMaster Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+GoC_ShezriesTowns_Patch.esp
+SYS Patch-Shezrie's Towns.esp
+LostSpires+PellsGate Patch.esp
 
 Well of Arcane Marking.esp
 \EndGroup\\
@@ -10627,6 +10624,8 @@ FCC-IC-Talosplaza.esp
 FCC-Bruma.esp
 FCC-Cheydinhal.esp
 
+Wellspring Vale.esp
+
 Hammerfell_HighRock.esp
 Blackmarsh.esp
 Valenwood.esp
@@ -10638,27 +10637,6 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
-ElsweyrAnequina - SevereDesert.esp
-" ElsweyrAnequina - SevereDesert NoSpider.esp
-ElsweyrAnequina - SevereDesert NoSpider.esp
-" ElsweyrAnequina - SevereDesert.esp
-ElsweyrAnequina - NoSpider.esp
-" ElsweyrAnequina - IncreasedCreature.esp
-" ElsweyrAnequina - IncreasedCreature NoSpider.esp
-" ElsweyrAnequina - ModerateIncreasedCreature.esp
-" ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
-ElsweyrAnequina - IncreasedCreature.esp
-" ElsweyrAnequina - NoSpider.esp
-" ElsweyrAnequina - IncreasedCreature NoSpider.esp
-ElsweyrAnequina - IncreasedCreature NoSpider.esp
-" ElsweyrAnequina - NoSpider.esp
-" ElsweyrAnequina - IncreasedCreature.esp
-ElsweyrAnequina - ModerateIncreasedCreature.esp
-" ElsweyrAnequina - NoSpider.esp
-" ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
-ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
-" ElsweyrAnequina - NoSpider.esp
-" ElsweyrAnequina - ModerateIncreasedCreature.esp
 BetterMusicSystem(Elsweyr).esp
 : OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina - Races HGEC-Robert.esp
@@ -10680,7 +10658,7 @@ Elsweyr - Drinks Patch.esp
 ElsweyrAnequinaNoSpiders.esp
 % {{BASH:Delev}}
 ElsweyrAnequinaFemaleBody.esp
-% {{BASH:Body-F, Body-Size-F}}
+% {{BASH:Body-F}}
 Elsweyr plantations & co..esp
 : ElsweyrAnequina.esp
 Elsweyr plantations & co. Southland Plantation.esp
@@ -10702,7 +10680,6 @@ Elsweyr Valenwood Daedric Shrine Patch.esp
 SLWA_Anequina_Patch.esp
 SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
-ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
 : 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
 
@@ -10722,13 +10699,43 @@ LetThePeopleDrink-NRB patch.esp
 
 Bridges For the Fools.esp
 
+Feldscar.esp
+Feldscar Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+
+Vergayun.esp
+Vergayun Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+
+Faregyl.esp
+% {{BASH:Actors.AIPackages, Factions, Relations}}
+Faregyl-FGRoad-Patch.esp
+? Obsolete. Update Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
+Faregyl+Anequina Patch.esp
+Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+The Arsenal - Faregyl Patch.esp
+
+MagesCross.esp
+Molapi.esp
+
 Bonds Crystal Isles an Adventure.esp
 Bonds Crystal Isles an Adventure Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 TVIcar.esp
 
-Storms & Sound - PTMudwater.esp
+New Valen.esp
+? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+
+PTMudwater.esp
+Forgotten Realm PTMudwater Patch.esp
 Celestiel - EV.esp
 Academy.esp
 Rooftop Rewards cleaned.esp
@@ -10742,13 +10749,32 @@ FortAkatosh-VileLair patch.esp
 FortAkatosh-NewRoads&Bridges patch.esp
 FortAkatosh-MannimarcoResurrection-NewRoads&Bridges patch.esp
 
+Reaper's Bleaker's Way Village Revamp.esp
+NRB4+RBWR Patch.esp
+Reaper's Waterfront.esp
+ReclaimSancreTor.esp
+
 SkoomaDeals.esp
+Split Expansion.esp
+Split Expansion Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+StalhrimVillage.esp
+StalhrimVillage - AN Patch.esp
 Sylix.esp
 Tales from Elsweyr 2_1.esp
+
+WaterfrontMarket.esp
+^ Probably incompatible with Better Cities.
+WaterfrontMarketNoShack.esp
+^ Probably incompatible with Better Cities.
 
 Valhalla Asgardia.esp
 Valhalla Asgardia Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+
+WatersEdgeImproved.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Needs Wrye Bash "Remove World Orphans" fix.
 
 MTCThievesGrotto.esp
 ? Update to v4.1.
@@ -10801,10 +10827,6 @@ Better daedric shrine Pyriate.esp
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH:Hair, Invent, C.Owner, Actors.AIPackages}}
-Oblivifall - Losing My Religion Kvatch Rebuilt.esp
-Oblivifall - Losing My Religion KOTN.esp
-% {{BASH:Actors.AIPackages}}
-Oblivifall - Losing My Religion_HOTD_Patch.esp
 
 \BeginGroup\: Tamriel Worldspace Modding Project
 \-----------------------------------------------
@@ -10821,160 +10843,16 @@ TWMP_Castle_Dunkerlore.esp
 Rost3_Topal.esp
 \EndGroup\\
 
-\BeginGroup\: Towns and Villages
-\-------------------------------
-
-Billsburg.esp
-English Billsburg v1.5.esp
-English Billsburg_Rens_Hair_1.51.esp
-BogwaterDowns.esp
-Boqwater_Settlement_V103.esp
-
-Campus Village.esp
-Chichester Village.esp
-CityofSunevV058.esp
-
-Damarask.esp
-
-EastbrinkBasic.esp
-EastbrinkCM.esp
-ElsweyrRiverhold.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
-? Do not use if using ElsweyrAnequina.esp.
-ExtendedAleswellEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedAleswellEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-ExtendedBlankenmarchEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedBlankenmarchEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-ExtendedBleakerswayEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-ExtendedBleakerswayEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-
-Faregyl.esp
-% {{BASH:Actors.AIPackages, Factions, Relations}}
-Faregyl-FGRoad-Patch.esp
-? Obsolete. Update Faregyl Village to 1.0.10 and use Faregyl+Anequina Patch.esp with it. Then remove this plugin.
-Faregyl+Anequina Patch.esp
-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-Cyrodiil Travel-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
-Cyrodiil Travel-Feldscar-Vergayun-Faregyl Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
-The Arsenal - Faregyl Patch.esp
-Feldscar.esp
-Feldscar Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-
-Gottshaw.esp
-SRGottshaw0.9 Beta.esp
-
-HanstHolm village.esp
-
-JDNT_Brina Cross.esp
-
-Lake Canulus Village.esp
-Lakeview.esp
-" Shezrie's Villages.
-Lakeview2.esp
-Lakeview2 DV.esp
-Lakewood Village Ver 2.0.esp
-
-MagesCross.esp
-Midland.esp
-Milewood.esp
-Molapi.esp
-
-New Valen.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
-
-Pinevale.esp
-PTMudwater.esp
-Forgotten Realm PTMudwater Patch.esp
-
-Reaper's Bleaker's Way Village Revamp.esp
-NRB4+RBWR Patch.esp
-Reaper's Coldstone Town.esp
-" Heart of the Dead.
-? Update to latest version (9+), esp renamed.
-Reaper's Coldstone Town Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-Reaper's Waterfront.esp
-runestone.esp
-
-SacredOak_Settlement.esp
-Shezrie's Villages.esp
-? Old version. Update to Shezrie's Towns and remove this.
-ShezriesVillagesCOBL.esp
-? Old version. Update to Shezrie's Towns and remove this.
-ShezriesTownsMaster.esp
-ShezriesTownsMaster Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-GoC_ShezriesTowns_Patch.esp
-SYS Patch-Shezrie's Towns.esp
-LostSpires+PellsGate Patch.esp
-Skye Village Final.esp
-Solace.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-SolaceDV.esp
-CM SOLACE.esp
-Split Expansion.esp
-Split Expansion Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-StalhrimVillage.esp
-StalhrimVillage - AN Patch.esp
-Sutch Reborn.esp
-OOO-Sutch patch.esp
-
-TalosBridgeGateHouse.esp
-? Requires a patch if used with UL Imperial Isle.
-
-Vergayun.esp
-Vergayun Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-Verwen Brewery.esp
-Village of Lily 2.0.esp
-Viking Village.esp
-Villages1.1.esp
-Villages1.1Male.esp
-Villages1.1Famale.esp
-Villages of Cyrodiil V1.51.esp
-
-WaterfrontMarket.esp
-^ Probably incompatible with Better Cities.
-WaterfrontMarketNoShack.esp
-^ Probably incompatible with Better Cities.
-WatersEdgeImproved.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Needs Wrye Bash "Remove World Orphans" fix.
-Wellspring Vale.esp
-Woodelvendon.esp
-
-\EndGroup\\
-
 \BeginGroup\: CUO Cities
 \-----------------------
 
 Chorrol Jewelry Company.esp
-? Need to run TES4Edit "sort masters" function.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Bruma.esp
 % {{BASH:Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 : Kvatch Aftermath Bruma Features - disable them.
 CUO_Chorrol.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Leyawiin.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
-
-ReclaimSancreTor.esp
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''
@@ -10982,7 +10860,7 @@ ReclaimSancreTor.esp
 NibenRiverFix.esp
 
 xuldarkforest.esp
-% {{BASH:C.Music, C.Water}}
+% {{BASH:C.Music,C.Water}}
 Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 DBOO - UL DarkForest.esp
@@ -11018,7 +10896,6 @@ KvatchAftermath-EntiusGorge compatibility patch.esp
 DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
 TheNecromancer-EntiusGorge patch.esp
 SpiritsEdge-EntiusGorge patch.esp
-NPCsTravel - Unique Landscapes - Entius Gorge Patch.esp
 
 ULFallenLeafEverglade.esp
 ? Obsolete. Update to latest version, then delete.
@@ -11106,7 +10983,6 @@ ShipwreckHome-LostCoast-SutchReborn patch.esp
 DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
-CountySutchOwlsCove-LostCoast patch.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
@@ -11183,7 +11059,6 @@ DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
 Zedar-AncientYews patch.esp
-WaterlilyCottage-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
@@ -11227,7 +11102,6 @@ OWCND - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
-NPCsTravel - Unique Landscapes - Arrius Creek Patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills esp
@@ -11274,7 +11148,6 @@ Valenwood Improved - River Ethe EV - Patch.esp
 WestRoads-RiverEthe patch.esp
 ? Obselete - update to West Roads version 1.3+.
 WineOverhaul-RiverEthe Patch.esp
-NPCsTravel - Unique Landscapes - River Ethe Patch.esp
 
 xulBrenaRiverRavine.esp
 Unique Landscapes - Brena River Ravine DV.esp
@@ -11445,13 +11318,6 @@ BrinaCrossVillage -- COBL.esp
 Brina Cross Village--Unique Forts Patch.esp
 
 Castle_Seaview.esp
-CSV_Farms.esp
-CSV_Farms_Road_Open_Cities.esp
-? Obselete, update to latest version.
-CSV_Farms_Road_Vanilla.esp
-? Obselete, update to latest version.
-CSV_Farms_Better_Cities.esp
-? Obselete, update to latest version.
 Castle_Seaview v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 CastleSeaview+LostCoast Patch DV.esp
@@ -11460,7 +11326,6 @@ CastleSeaview+LostCoast Patch.esp
 EaglesRest+LostCoast+CastleSeaview Patch.esp
 " CastleSeaview+LostCoast Patch.esp
 CastleSeaview-SutchReborn-LostCoast patch.esp
-Storms & Sound - Castle Seaview.esp
 SYS Patch-Castle Seaview.esp
 
 Castle_Wolfspike.esp
@@ -11750,9 +11615,7 @@ NRB4+UL-II+LtPD+OCOD Patch.esp
 NRB4+ClassBeginning Patch.esp
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
-% {{BASH:C.Water}}
 OCR+Cheydinhal Falls Patch.esp
-% {{BASH:C.Water}}
 OCC+ULSkingradOutskirts Patch.esp
 OCR+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
@@ -11802,7 +11665,6 @@ AncientSource-ChorrolHinterland patch.esp
 ICTowerObservatory.esp
 
 FightersGuildContracts.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (JQ) Fighters Guild United.esp
 % {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp
@@ -13900,6 +13762,8 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
+More Effective Enchantments.esp
+: OBSE v20+.
 MTC EagleEyesSpell 1.1[ENG].esp
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
@@ -15582,15 +15446,15 @@ Comprehensive Style Collection RM.esp
 ? Outdated. Update to latest version.
 Cool Hair & Eyelashes.esp
 Cool Hair & Eyelashes for Cobl.esp
-% {{BASH:Hair, NpcFaces, R.Mouth}}
+% {{BASH:Hair,NpcFaces,R.Mouth}}
 CSC.esp
 % {{BASH:Hair, Eyes}}
 CSC RM.esp
-% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
+% {{BASH:Body-M, Hair, Eyes}}
 CSC RM CW.esp
-% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
+% {{BASH:Body-M, Hair, Eyes}}
 CSC RM CW EL.esp
-% {{BASH:Body-M, Body-Size-M, Hair, Eyes}}
+% {{BASH:Body-M, Hair, Eyes}}
 ElaborateEyes-RensBeautyPackFull.esp
 % {{BASH:Hair, Eyes}}
 ElaborateEyes-RensBeautyPackHairsOnly.esp
@@ -15855,7 +15719,7 @@ Elves Of Lineage II_1.esp
 Sotha Sil Race.esp
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears}}
 TFF_Races_Base.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Graphics}}
 Tolkien Elves.esp
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth}}
 Beautiful People.esp
@@ -15886,11 +15750,11 @@ x117Race ENG Race.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp
-% {{BASH:Body-M, Body-Size-M, Hair, Eyes, R.Relations}}
+% {{BASH:Body-M, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF.esp
-% {{BASH:Body-F, Body-Size-F, Hair, Eyes, R.Relations}}
+% {{BASH:Body-F, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
-% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Hair, Eyes, R.Relations}}
+% {{BASH:Body-F, Body-M, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Merged Hair Modules.esp
 Beautiful People 2ch-Ed Merged Eye Modules.esp
 Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp
@@ -16041,7 +15905,7 @@ Ahtata_Khabaxi.esp
 ahtata dremora.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Ahtata Arquamer spike4hair.esp
-% {{BASH:NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-Size-F, Body-M, Body-Size-M}}
+% {{BASH:NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-M}}
 ? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
 Ahtata Arquamer female got hair.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
@@ -16069,11 +15933,9 @@ Moogles.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Na'vi race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
-Nazrin-Race.esp
 opaquan.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
-Synx.esp
 KHStrangers.esp
 % {{BASH:Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
 X.Dea.Obscura.esp
@@ -16104,13 +15966,13 @@ X.Races.Comp.esp
 Luchaire's Dryad Race for MMM.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Tabaxi_Race_Robert.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics, R.Relations}}
 Tabaxi_Race_BAB.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Graphics, R.Relations}}
 Tabaxi_Race_BAB_Robert.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-Size-F, Body-M, Body-Size-M, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-F, Body-M, Graphics, R.Relations}}
 Mystic Dark Elf and Mystic Dunmer for MM.esp
-% {{BASH:NpcFaces, Hair, Eyes, Graphics, Body-F, Body-Size-F, Body-M, Body-Size-M, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Graphics, Body-F, Body-M, R.Relations}}
 Ren_Soya_KD's.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 BP Cosmetic Compilation.esp
@@ -16118,22 +15980,22 @@ BP Cosmetic Compilation.esp
 soyaenbp.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 Beautiful PeopleV22 - MaleReplacerV4.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
 BP + Robert's + BR + Hair Packs.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
 Beautiful People Robert - Hair merged.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
 BP_Roberts_BR_Hair.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
 _Ren_BeautyPack_full + Soya's hair.esp
 % {{BASH:NpcFaces, Hair, Eyes, Graphics}}
 BP-Cosmetic Compilation-MaleBodyReplacer.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Graphics}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Graphics}}
 Additional Cosmetics for BP.esp
 TFF ROBERT Cosmetic Compilation.esp
-% {{BASH:NpcFaces, Graphics, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics}}.
+% {{BASH:NpcFaces, Graphics, Hair, Eyes, Body-M, Body-F, Graphics}}.
 TFF & ROBERT & Slof's Better Beasts.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, R.Teeth, Graphics, NoMerge}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, R.Teeth, Graphics, NoMerge}}
 BeautifulPeople2.2+TweakedGenericFacesLITE.esp
 % {{BASH:NpcFaces, Hair, Eyes}}
 BeautifulPeople2.2+TweakedGenericFaces.esp
@@ -16806,11 +16668,11 @@ xenia.esp
 SMChocolateElf.esp
 SMHighImperial.esp
 CMAll.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
 CMAllXenius.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
 CMAll2.esp
-% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
+% {{BASH:NpcFaces, Hair, Eyes, Body-M, Body-F, Graphics, R.Relations}}
 \EndGroup\\
 
 \BeginGroup\: Race Overrides
@@ -16818,9 +16680,9 @@ CMAll2.esp
 \
 \Includes birthsign mods.
 AMB.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 AMD.esp
-% {{BASH:Body-M, Body-Size-M}}
+% {{BASH:Body-M}}
 \BeginGroup\: COBL Races
 \''''''''''
 
@@ -16853,23 +16715,23 @@ Colourwheels Sexy Oblivion OverHaul.esp
 \'''''''''''''''''''''
 ArgonianBeautification-RaceSettings.esp
 BulkyNord.esp
-% {{BASH:Body-Size-M, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 BulkyOrcs.esp
-% {{BASH:Body-Size-M, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 EVE_KhajiitFix.esp
-% {{BASH:Body-F, Body-Size-F}}
+% {{BASH:Body-F}}
 Khajiit Fix.esp
-% {{BASH:Body-F, Body-Size-F}}
+% {{BASH:Body-F}}
 Mart's Monster Mod - Resized Races.esp
-% {{BASH:Body-Size-M, Body-Size-F, R.Relations}}
+% {{BASH:Body-M, Body-F, R.Relations}}
 Bigger_Dremora.esp
-% {{BASH:Body-Size-M, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 Bigger_Dremora-2369.esp
-% {{BASH:Body-Size-M, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 Bigger Nords & Orcs.esp
-% {{BASH:Body-Size-M, Body-Size-F}}
+% {{BASH:Body-M, Body-F}}
 Slof's Oblivion Better Beasts.esp
-% {{BASH:NpcFaces, R.Teeth, Body-M, Body-Size-M, Body-F, Body-Size-F}}
+% {{BASH:NpcFaces, R.Teeth, Body-M, Body-F}}
 JJR'sWhiskers and Eyebrow.esp
 % {{BASH:NpcFaces, R.Teeth}}
 EyelashesVanillaRaces.esp
@@ -16881,36 +16743,36 @@ EyelashesForVanillaRaces1.0.esp
 Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH:NpcFaces, NoMerge}}
 Better Redguard v2.esp
-% {{BASH:NpcFaces, Body-F, Body-Size-F, Body-M, Body-Size-M, NoMerge}}
+% {{BASH:NpcFaces, Body-F, Body-M, NoMerge}}
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 Better Redguard v2 Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Dark Elves.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Dremora.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Redguards-Mergeable.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards-Mergeable Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Better Looking Wood Elves Vanilla.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Wood Elves Vanilla Black Eyes.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Better Looking Wood Elves COBL.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair}}
 Redguard Guards.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair, NpcFaces}}
+% {{BASH:Body-M, Body-F, R.Ears, R.Head, Hair, NpcFaces}}
 BigDunmerEars.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
+% {{BASH:Body-M, Body-F, NpcFaces}}
 Smaller Elf ears.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
+% {{BASH:Body-M, Body-F, NpcFaces}}
 Slof's Better Bodies.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, Eyes, Graphics, R.Mouth, R.Teeth}}
+% {{BASH:Body-M, Body-F, Eyes, Graphics}}
 : Robert's Male (v3, v4 or v5) and Robert's Female
 " Other body mods other than Robert's
 " Slof's Oblivion Better Beasts.esp (included in this).
@@ -16919,9 +16781,9 @@ Slof's Better Bodies.esp
 ? Conflicts with Cobl Races Resource
 ? Conflicts with Luchairs HGEC body seam reducer
 Jjiinx_Long Ears.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
+% {{BASH:Body-M, Body-F, NpcFaces}}
 Head06 Replacer.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
+% {{BASH:Body-M, Body-F, NpcFaces}}
 WhiskersAll.esp
 % {{BASH:R.Teeth}}
 MergedMouth.esp
@@ -16941,7 +16803,7 @@ SkinMannequinCOBL-nosleep.esp
 \BeginGroup\: ZU SI Overhaul
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
 ZUSwordFlameAtro.esp
 ZUSwordFlameAtro_Vanilla.esp
 ZUSwordFlameAtro_UOP.esp
@@ -17123,7 +16985,7 @@ bgBalancingDVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
 % {{BASH:Body-M}}
 k_HOD_RBP_patch.esp
-% {{BASH:Body-F, Body-Size-F}}
+% {{BASH:Body-F}}
 \EndGroup\\
 
 \BeginGroup\: BG Integration quest
@@ -17161,12 +17023,12 @@ sr_race_balance_tweaks.esp
 Trap.esp
 % {{BASH:R.Attributes-F, R.Attributes-M, R.ChangeSpells, R.Description, R.Relations, R.Skills}}
 Cobl Races - Balanced.esp
-% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+% {{BASH:Body-F, Body-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
 ? Do not use with Race Balancing Project.
 Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
 Diverse Races.esp
-% {{BASH:Body-Size-F, Body-Size-M}}
+% {{BASH:Body-F, Body-M}}
 Better_Berserk-2177.esp
 DBWBMR.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
@@ -17580,16 +17442,6 @@ GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
 
-CSV_Farms_Better_Cities.esp
-? Use only one CSV Farms * Cities esp.
-: Better Cities.
-CSV_Farms_Open_Cities.esp
-? Use only one CSV Farms * Cities esp.
-: Open Cities.
-CSV_Farms_Open_Better_Cities.esp
-? Use only one CSV Farms * Cities esp.
-: Open Better Cities.
-
 Portrait Painter for Better Cities.esp
 
 ROM Patch - Better Cities.esp
@@ -17600,50 +17452,13 @@ OCC-HTS-Patch.esp
 HTS_getwet.esp
 HTS with Cooking.esp
 HTSCl_base.esp
-% {{BASH:Invent}}
-: OBSE 19b+.
 HTSCl_cobl.esp
-: Cobl.
 HTSCl_mmm.esp
-% {{BASH:Graphics, Invent}}
-: Mart's Monster Mod.
 HTSCl_ooo.esp
-: Oscuro's Oblivion Overhaul.
 HTSCl_si.esp
-: Shivering Isles expansion.
 HTSCl_tent.esp
-HTSCl_bbc.esp
-% {{BASH:Graphics}}
-: Better Cities Resources.
-HTSCl_wac.esp
-% {{BASH:Graphics, Invent}}
-? Use either 'HTSCl_wac.esp' or 'HTSCl_wac_ItemLootFix.esp', not both.
-: Waalx Animals and Creatures
-HTSCl_wac_ItemLootFix.esp
-% {{BASH:Graphics, Invent}}
-? Use either 'HTSCl_wac.esp' or 'HTSCl_wac_ItemLootFix.esp', not both.
-: Waalx Animals and Creatures - ItemLootFix plugin.
-HTSCl_cuo.esp
-% {{BASH:Graphics}}
-? Use either 'HTSCl_cuo.esp' or 'HTSCl_cuo_inElderCouncil.esp', not both.
-: Cyrodiil Upgrade Overhaul.
-HTSCl_cuo_inElderCouncil.esp
-% {{BASH:Graphics}}
-? Use either 'HTSCl_cuo.esp' or 'HTSCl_cuo_inElderCouncil.esp', not both.
-: CUO, The Elder Council.
-HTSCl_elsweyr.esp
-: Elsweyr Deserts of Anequina.
 HTSCl_hud.esp
-: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
-HTSCl_UTY.esp
-HTSCl_UTY_patch.esp
-HTSCl_Pie_Modification.esp
-HTSCl_Juice_Modification.esp
-HTSCl_Washoku.esp
 HTSCl_rottenfood.esp
-HTSCl_rottenfood_patch.esp
-TSSoupHouse.esp
-HTSCl_withsoups.esp
 
 TheOubliette.esp
 Advance Avalon Project.esp
@@ -18241,7 +18056,7 @@ FakeHDR_SM20_bettersun.esp
 \--------
 
 a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp
-% {{BASH:Body-F, Body-Size-F, Body-M, Body-Size-M, Graphics, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-F, Voice-M}}
+% {{BASH:Body-F, Body-M, Graphics, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-F, Voice-M}}
 Biene Amelion Saved.esp
 CDM - Evening Lockdown.esp
 DeadlierDarkBrotherHood.esp
@@ -18386,37 +18201,6 @@ NRB4 OCLR Road Record.esp
 NRB4 OCReborn Road Record.esp
 % {{BASH: Deactivate, Roads}}
 : Open Cities Reborn.
-? Use only one road record file.
-CSV_Farms_Road_Vanilla.esp
-% {{BASH:Deactivate, Roads}}
-? Use only one road record file.
-CSVF_Road_Record_OC.esp
-% {{BASH:Deactivate, Roads}}
-: Open Cities.
-? Use only one road record file.
-CSVF_Road_Record_OC+RB.esp
-% {{BASH:Deactivate, Roads}}
-: Open Cities, New Roads+Bridges.
-? Use only one road record file.
-CSVF_Road_Record_BBC.esp
-% {{BASH:Deactivate, Roads}}
-: Better Cities.
-? Use only one road record file.
-CSVF_Road_Record_BBC+OC.esp
-% {{BASH:Deactivate, Roads}}
-: Open Better Cities.
-? Use only one road record file.
-CSVF_Road_Record_BBC+RB.esp
-% {{BASH:Deactivate, Roads}}
-: Better Cities, New Roads+Bridges.
-? Use only one road record file.
-CSVF_Road_Record_BBC+OC+RB.esp
-% {{BASH:Deactivate, Roads}}
-: Open Better Cities, New Roads+Bridges.
-? Use only one road record file.
-CSVF_Road_Record_RB.esp
-% {{BASH:Deactivate, Roads}}
-: New Roads+Bridges.
 ? Use only one road record file.
 
 HM2SummonCompatible.esp
@@ -18572,9 +18356,6 @@ Duke Patricks - Fortress of Fear.esp
 Duke Patricks - Combat Magic II.esp
 
 \EndGroup\\
-
-TestDuplicate.esp
-\This is a temporary addition for bug fixing purposes.
 
 \BeginGroup\: Map Changes
 \''''''''''

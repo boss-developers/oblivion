@@ -2919,6 +2919,8 @@ EVE_StockEquipmentReplacer.esp
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
 HGEC_special_armor_repl.esp
 % {{BASH:Graphics, NoMerge}}
+VORB_HGEC_special_armor_repl.esp
+% {{BASH:Graphics, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Items (armor and weapons)

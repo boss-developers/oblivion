@@ -103,7 +103,6 @@ Ulrim's Horses.esm
 armoryLab.esm
 DEJ Harvest - Flora.esm
 ? Obsolete. Update to 'Harvest [Flora]' v3.0.1+.
-? Outdated. Update to 'Harvest [Flora]' v3.0.1+.
 Harvest[Containers].esm
 Harvest[Containers] - Flat-Top Barrels Add-on.esm
 Harvest[Containers] - Havok Crates Add-on.esm
@@ -279,7 +278,6 @@ Sephiroth Companion.esm
 The Arsenal.esm
 TML_WieldableTorches_v10.esm
 ScreenEffects.esm
-Pose Compendium.esm
 Ayleid Power Stones.esm
 Diverse Magic Effects Resource.esm
 : OBSE 19+, OBME 1+.
@@ -5564,14 +5562,14 @@ Zira's Monster Horse.esp
 Zira's Horse Stable.esp
 Zira's Horse Modpack - My Horses.esp
 Zira's Horse Modpack - Heavy Legion Horses.esp
-? Not compatible with Zira's Horse Modpack - Armored Legion Horses.esp
+" Zira's Horse Modpack - Armored Legion Horses.esp
 Zira's Horse Modpack - Friesian Horses.esp
 Zira's Horse Modpack - Shadowmere.esp
 Zira's Horse Modpack - Extra Horses.esp
 Zira's Horse Modpack - More Horses.esp
 Zira's Horse Modpack - Armored Legion Horses.esp
 : Official Horse Armor DLC
-? Not compatible with Zira's Horse Modpack - Heavy Legion Horses.esp
+" Zira's Horse Modpack - Heavy Legion Horses.esp
 Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
@@ -7334,7 +7332,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 [Calsar] BetterWhiteStallionLodge.esp
 [Calsar] KOTN_Shrines.esp
 (SFL) Eagle's Reach.esp
-SFL) ICWF - Dock Expansion.esp
+(SFL) ICWF - Dock Expansion.esp
 (SFL) Knights of the Thorn Lodge.esp
 (SFL) Campus Village.esp
 
@@ -7745,8 +7743,11 @@ Better Benirus Manor for Cobl - Interior Only.esp
 Better Benirus Manor - Complete - AN-II Patch.esp
 ? Only use one BBM AN-II Patch.
 Better Benirus Manor for Cobl - Complete - AN-II Patch.esp
+? Only use one BBM AN-II Patch.
 Better Benirus Manor - Interior Only - AN-II Patch.esp
+? Only use one BBM AN-II Patch.
 Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp
+? Only use one BBM AN-II Patch.
 Better Benirus Manor - AN Patch - Natural.esp
 Better Benirus Manor - AN Patch - Bright.esp
 Better Benirus Manor - SYS Patch.esp
@@ -8919,7 +8920,7 @@ Lynges_Dark_Brotherhood_Assassins-8654.esp
 Lyn-GnollMountain.esp
 Lynges_Gnoll_Mountain.esp
 Lynges_Gnoll_Mountain-8117.esp
-Lynijasgift10.esp[
+Lynijasgift10.esp
 Lilarcor.esp
 \EndGroup\\
 
@@ -18463,7 +18464,7 @@ Wrye Morph Wearable.esp
 Wrye Morph-See You Sleep.esp
 ShowRaceMenu StatsFix.esp
 The Big Merger.esp
-% {{BASH: NpcFaces, Hair, eyes, Graphics, Names, Invent, Stats, Relations, Factions, Deflst, Delev, relev, Actors.ACBS, Actors.Stats, Deflst, Delev, Relev}}
+% {{BASH: NpcFaces, Hair, Eyes, Graphics, Names, Invent, Stats, Relations, Factions, Delev, Relev, Actors.ACBS, Actors.Stats}}
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch

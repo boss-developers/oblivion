@@ -2663,6 +2663,7 @@ PCB.esp
 
 Scathe.esp
 ScreenControls.esp
+Script Effect Icon Changer OBSE.esp
 SimpleHUDClock.esp
 : OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
 VipCxj_RadarSystem.esp
@@ -7335,6 +7336,11 @@ OCC-Ivellon-Patch.esp
 1079-Safe Archmage Storage-TESSource.esp
 
 Anvil Merchant Galley Houseboat v1.0.esp
+
+\This needs to load before Region Revive - Lake Rumare for the patch to work.
+TalosBridgeGateHouse.esp
+? Requires a patch if used with UL Imperial Isle.
+Storms & Sound - Talos Bridge Gatehouse.esp
 \EndGroup\\
 
 \BeginGroup\: Quests #
@@ -9213,6 +9219,9 @@ Pats Business Mod---Shop Version 2.0.esp
 Pats Business Mod.esp
 ^ Use the Better Cities version instead.
 Pats Business Mod BC.esp
+PearlFarm.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+IF (590DE30D|"PearlFarm.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 Peruggia's Passage.esp
@@ -9325,6 +9334,7 @@ Region Revive - Lake Rumare Vwalk.esp
 Region_Revive_-_Lake_Rumare_FuseSnailRacing_Patch.esp
 ? Patch for FuseSnailRacing.esp
 " If loaded after OOO.esp this cause OOO's lockbash feature to fail. To fix this simply load RL-LR before OOO.esp.
+wb_RRLR_TalosBridge_Patch.esp
 RealmofRuun.esp
 Return Of Shadows.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10097,6 +10107,7 @@ zzzSlaveMaster.esp
 75barena.esp
 % {{BASH:NpcFaces, Actors.Stats}}
 Arena Imersion Upgrade 1.1.esp
+Arena Lite.esp
 Arena Mod 1.2 Rus.esp
 Angel's Arena Loot en.esp
 ? Unlikely to work with other IC Arena mods
@@ -10546,6 +10557,7 @@ AFK_Weye - Oblivion XP Patch.esp
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
+Weye_Armory1.esp
 
 House of Healing at Weye.esp
 Weye.esp
@@ -10834,6 +10846,7 @@ Oblivifall - Losing My Religion KOTN.esp
 % {{BASH:Actors.AIPackages}}
 Oblivifall - Losing My Religion_HOTD_Patch.esp
 Oblivifall - Losing My Religion Blood&Mud.esp
+Oblivifall - Losing My Religion Sutch Reborn.esp
 
 \BeginGroup\: Tamriel Worldspace Modding Project
 \-----------------------------------------------
@@ -10962,11 +10975,6 @@ StalhrimVillage.esp
 StalhrimVillage - AN Patch.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
-
-TalosBridgeGateHouse.esp
-? Requires a patch if used with UL Imperial Isle.
-Storms & Sound - Talos Bridge Gatehouse.esp
-wb_RRLR_TalosBridge_Patch.esp
 
 Vergayun.esp
 Vergayun Vwalk.esp
@@ -12047,6 +12055,7 @@ Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
 Better_Amelion_Gear.esp
 Better_Blade_Equipment.esp
+Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
 Better Loot v1.0.esp
 % {{BASH:Delev}}
@@ -13478,37 +13487,52 @@ TIE In - BC-Anvil.esp
 \Must go after anything that alters the main quest.
 
 AlliriaRPS.esp
-Arks Tutorial Terminator.esp
 Alternative Beginnings.esp
 Alternative Start by Robert Evrae.esp
 % {{BASH:Relations, Invent}}
+Alternative Start v1.2.esp
+? Check you're using v1.26 or later.
+Alternative Start v1.26.esp
+AltStart.esp
+anb.esp
+Arks Tutorial Terminator.esp
+
+boh_dungeonbgone.esp
+
+CDM-New Start.esp
+Cliff_Roleplayingcharacter.esp
+CMF-New.esp
+
+dungeonbgone.esp
+
+Impossible begining.esp
+IOM - Main Quest.esp
+IOM - Kvatch.esp
+? Remember to disable this after starting the main quest and visiting Kvatch.
+
+Kobu's Skip Intro Mod.esp
+
+MQSDone.esp
+
+newstartV3.esp
+
+quickstart.esp
+Quickstart_DV.esp
+
 ROM Patch - Alternative Start.esp
 % {{BASH:Scripts}}
-Impossible begining.esp
+
 SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.
 SkipTutorialv2.esp
 SkipTutorialv2_1.esp
-Alternative Start v1.2.esp
-? Check you're using v1.26 or later.
-Alternative Start v1.26.esp
-anb.esp
-AltStart.esp
-quickstart.esp
-Quickstart_DV.esp
-newstartV3.esp
-Kobu's Skip Intro Mod.esp
-boh_dungeonbgone.esp
-dungeonbgone.esp
-CDM-New Start.esp
-CMF-New.esp
-Cliff_Roleplayingcharacter.esp
 StartChoices.esp
-MQSDone.esp
+
 TuStartingOptions_01.esp
 TuStartingOptions_02.esp
 TuStartingOptions_03.esp
+
 Vswe_Skip_Start_No_Videos.esp
 \EndGroup\\
 
@@ -17466,6 +17490,17 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
 % {{BASH:Actors.AIPackages}}
+
+Oblivifall - Losing My Religion BC Anvil.esp
+Oblivifall - Losing My Religion BC Bravil B&M.esp
+Oblivifall - Losing My Religion BC Bravil.esp
+Oblivifall - Losing My Religion BC Bruma.esp
+Oblivifall - Losing My Religion BC Cheydinhal.esp
+Oblivifall - Losing My Religion BC Chorrol.esp
+Oblivifall - Losing My Religion BC Full B&M.esp
+Oblivifall - Losing My Religion BC Full.esp
+Oblivifall - Losing My Religion BC Leyawiin.esp
+Oblivifall - Losing My Religion BC Skingrad.esp
 \EndGroup\\
 
 \BeginGroup\: Obsolete BC files
@@ -18356,6 +18391,7 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 ? Outdated. Update to latest version.
 Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
+Script Effect Icon Changer.esp
 
 UnnecessaryViolence.esp
 ? If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini.

@@ -3538,8 +3538,6 @@ Diano for DM Unenchanted.esp
 DivineShields.esp
 DKAionProject.esp
 DMCDanteClothes.esp
-Dollparts_CorsetsoftheRose.esp
-Dollparts_RoseCorsets - Dark & Light.esp
 DLCRequestedCaps.esp
 DMACArmor.esp
 DMCWeapons.esp
@@ -3548,6 +3546,7 @@ DMMagesGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
+Dollparts_CorsetsoftheRose.esp
 Dollparts_RoseCorsets - Dark & Light.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
@@ -5821,6 +5820,9 @@ Cobl Main RUS.esp
 Cobl Glue.esp
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
+? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
+OCC+COBL Luggage Patch.esp
+OCR+COBL Luggage Patch.esp 
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
 : Shivering Isles expansion.
@@ -8215,6 +8217,7 @@ Extended Chorrol Vwalk.esp
 Extended Skingrad.esp
 Extended Skingrad Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+Extended City Series.esp
 Extended City Series Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Extended NPCs Merge.esp
@@ -12482,7 +12485,6 @@ Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
 Less Annoying Oblivion.esp
 Leviathan Soulgems.esp
-? if using the abridged version (same name); make sure to be using the latest version (released in 2010) the earlier version had a malformed header tha could cause errors.
 Leviathan Soul Gems Abridged.esp
 % {{BASH:Graphics, NoMerge}}
 SoulgemSalvation.esp
@@ -15502,6 +15504,8 @@ Pada Jenggotan.esp
 Saram_Corean_NPC_Hair_1_0.esp
 % {{BASH:Hair}}
 ZBRE.esp
+% {{BASH:Hair}}
+ZBREATS.esp
 % {{BASH:Hair}}
 ZelsHairfixRenshairV1_5.esp
 % {{BASH:Hair}}

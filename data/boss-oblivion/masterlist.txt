@@ -1474,6 +1474,7 @@ AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
 AFK_PrayerIdles.esp
+Arena Ring.esp
 Arena_Ring_V2.esp
 All normal clothes buyable.esp
 SI Clothes.esp
@@ -2585,6 +2586,7 @@ CleanQuit.esp
 CBMS_V2.esp
 : OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin).
 CTEFastSaver.esp
+Custom Autosave.esp
 
 Damage Text v2.esp
 DarNifiedUI Config Addon.esp
@@ -5828,7 +5830,7 @@ Cobl Glue.esp
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
 OCC+COBL Luggage Patch.esp
-OCR+COBL Luggage Patch.esp 
+OCR+COBL Luggage Patch.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
 : Shivering Isles expansion.
@@ -8102,6 +8104,7 @@ Dk second knight update.esp
 DeerLeap.esp
 Defenders of Cyrodiil.esp
 Del_New_Sheoth_Homes.esp
+Del_Skingrad_Balcony.esp
 Del_Skingrad_Garden.esp
 Demon_Bane.esp
 Demon_Consort.esp
@@ -8367,6 +8370,7 @@ GPPaleGoblins.esp
 Grand Ayleid Maze.esp
 green market district.esp
 GreenGables.esp
+SYS Patch-Green Gables.esp
 GTAesgaard.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_1.esp
@@ -9012,7 +9016,9 @@ mrSiikas_ImperialCathedral.esp
 mrSiikas_TheEmperorsTomb.esp
 mrSiikas_TheEmperorsTomb_ImperialPalace.esp
 MushroomManor.esp
+SYS Patch-Mushroom Manor.esp
 MushroomManorCobl.esp
+SYS Patch-Mushroom Manor COBL.esp
 
 Malevolent.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9373,6 +9379,10 @@ RunedRobes.esp
 RuneTower.esp
 RusticHome.esp
 SYS Patch Rustic Home.esp
+Rustle House.esp
+Rustle House - AN Patch.esp
+% {{BASH:C.Climate}}
+Rustle House - SYS Patch.esp
 rusty.esp
 The Ranger's House.esp
 rayearth.esp
@@ -11193,6 +11203,7 @@ Blood Raven Lush Woodlands Patch.esp
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
+Rustle House - UL Patch.esp
 
 xulAncientYews.esp
 Unique Landscapes - AncientYews DV.esp
@@ -14257,6 +14268,7 @@ Disease Immunity (Oblivion + Shivering Isles).esp
 Jjiinx_Enhanced Diseases.esp
 Jjiinx_Enhanced Disease.esp
 Vector.esp
+TheTreatmentofDiseases.esp
 
 FingerOfTheMountain.esp
 sr_casting_hand.esp
@@ -14775,7 +14787,7 @@ Combat Fumbling.esp
 Better Sneak Attacks.esp
 GM's Deadly Archery.esp
 SamVimes's Feint Death.esp
-
+Weapon Requirements.esp
 ptThrowingKnives.esp
 ? Obsolete. Remove this and install Unnecessary Violence.
 ptThrowingWeapons.esp
@@ -15266,6 +15278,7 @@ handk.esp
 SeductiveIdle.esp
 SeductiveIdles.esp
 Idle Pose Replacer.esp
+Idle Stance Replacer.esp
 actors_in_charge.esp
 ActorsInMadness.esp
 ActorsInEmotions.esp

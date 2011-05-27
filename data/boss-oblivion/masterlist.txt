@@ -1171,11 +1171,13 @@ More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (F343D8EA|"MIS Low Wind.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MIS New Sounds Optional Part.esp
 % {{BASH:Scripts}}
 Atmospheric Oblivion.esp
 % {{BASH:Scripts}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (9A266EC1|"Atmospheric Oblivion.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
 Side's EAX Control.esp
@@ -1486,6 +1488,7 @@ Battlemage Friends.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (88936850|"Book Jackets Oblivion.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
 !Book Jackets Oblivion - PL.esp
@@ -7327,6 +7330,7 @@ EM_CompInnsleeping.esp
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (645E2C6D|"Ivellon.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ivellon2.esp
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible.
@@ -7631,6 +7635,7 @@ Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 Artifacts.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (66B9B580|"Artifacts.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Artifacts - EE patch.esp
@@ -7675,6 +7680,7 @@ AvaiRii_UnderwaterHome.esp
 AXIS.esp
 AyleidArrows.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (1B13049A|"AyleidArrows.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
 AyranUndercity.esp
 AzurasServices_de.esp
@@ -7806,6 +7812,7 @@ BladeSong.esp
 BladeSong v1.3 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 BladeSong - High Imperial Tess by Xtudo.esp
+CreditsVideoBladeSong.esp
 Blankenmarch Home.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
@@ -7823,6 +7830,7 @@ BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (C73A3567|"BHC_Expanded.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bjornheim.esp
 ? This ESP has critical errors and should not be used in an active game. Regular TES4Edit cleaning is not enough to repair it.
 Bjornheim_1C.esp
@@ -8379,6 +8387,7 @@ GreenGables.esp
 SYS Patch-Green Gables.esp
 GTAesgaard.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (94A96B7D|"GTAesgaard.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
@@ -8440,6 +8449,7 @@ HauntedHouse v1.4.esp
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (C61B8314|"Haunted_House_v1.5.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Haunted_House_v1.5 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 HauntedLairMod.esp
@@ -8448,6 +8458,7 @@ Haven of the Mad.esp
 HazadirsArms.esp
 HauntedHouse.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (2F2F9619|"HauntedHouse.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
 hchouse408.esp
@@ -8753,11 +8764,11 @@ Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 
 Kragenir's Death Quest.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kragenir's Death Quest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (A93FE8B0|"KDQ - Rural Line Additions.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KTVH - Walking In The Shoes.esp
 
 300_White Stallion+SB23.esp
@@ -9221,7 +9232,7 @@ Pats Business Mod.esp
 Pats Business Mod BC.esp
 PearlFarm.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-IF (590DE30D|"PearlFarm.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (590DE30D|"PearlFarm.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 Peruggia's Passage.esp
@@ -15950,9 +15961,6 @@ Beautiful People 2ch-Ed Disable One Eyed.esp
 Beautiful People 2ch-Ed Disable Saram Hair.esp
 Beautiful People 2ch-Ed Sheogorath Eye.esp
 % {{BASH:NoMerge, NpcFaces}}
-Beautiful People 2ch-Ed ENG Dialog.esp
-Beautiful People 2ch-Ed ENG Race.esp
-x117Race ENG Race.esp
 Beautiful People 2ch-Ed Vanilla Race.esp
 % {{BASH:Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Vanilla Race for RMV4.esp
@@ -15979,10 +15987,14 @@ Beautiful People 2ch-Ed MS Elves - Sc.esp
 % {{BASH:Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed MS Elves - NoSc.esp
 % {{BASH:Hair, Eyes, R.Relations}}
+Beautiful People 2ch-Ed ENG Dialog.esp
+Beautiful People 2ch-Ed ENG Race.esp
 ChanponSimpleDef.esp
+
 
 x117race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
+x117Race ENG Race.esp
 117NPCs.esp
 Lop-ears Elf.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}

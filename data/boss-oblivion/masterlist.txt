@@ -3671,6 +3671,7 @@ FemaleArmorPack1.esp
 Female Helmet Replacer.esp
 % {{BASH:Graphics}}
 Female Outfits by Koutetsu.esp
+" Better Abandoned House.
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH:Invent}}
@@ -9113,6 +9114,7 @@ Nine Divines Robes.esp
 : OBSE
 Nocturne.esp
 NocturneCallSteed.esp
+NoldaTheShipHome.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
@@ -10937,6 +10939,7 @@ OOO-Sutch patch.esp
 
 TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
+wb_RRLR_TalosBridge_Patch.esp
 
 Vergayun.esp
 Vergayun Vwalk.esp
@@ -11751,11 +11754,15 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 NRB4+ClassBeginning Patch.esp
+OCLR+ULBWForest Patch.esp
+? Outdated. Upgrade to Open Cities Reborn and use the corresponding patch.
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
 % {{BASH:C.Water}}
 OCR+Cheydinhal Falls Patch.esp
 % {{BASH:C.Water}}
+OC+ULSkingradOutskirts Patch.esp
+? Upgrade to Open Cities Classic or Open Cities Reborn and use the corresponding patch file.
 OCC+ULSkingradOutskirts Patch.esp
 OCR+ULSkingradOutskirts Patch.esp
 OC+ULSO+WestRoads Patch.esp
@@ -18589,6 +18596,16 @@ Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 TamrielWorldspaceCompleteWorldMap.esp
 TWMP_Tamriel_Ingame_ Map.esp
+
+\EndGroup\\
+
+\BeginGroup\: LOD Togglers
+\''''''''''
+\These are commented out because they should never be in the active load order, and having them as unknowns
+\brings more attention to them. Perhaps if BOSS gains the ability to see what is active then they can be uncommented.
+
+\KRLODToggleBurnt.esp
+\FRLODToggleBasic.esp
 
 \EndGroup\\
 

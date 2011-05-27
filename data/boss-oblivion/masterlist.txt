@@ -323,6 +323,8 @@ bookplacing.esp
 LightningReduced.esp
 Oblivion Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+CyrodiilUpgradeResourcePack Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 SoVvM Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Oblivion_SI Vwalk Full.esp
@@ -1145,6 +1147,7 @@ OBGE - Liquid Water.esp
 300_Combat Sounds.esp
 Better Bell Sounds.esp
 HBM.esp
+Idle Dialogue.esp
 Louder Nirnroot Sound.esp
 % {{BASH:Sound}}
 Louder Nirnroots.esp
@@ -4164,6 +4167,7 @@ Neckerchiefs v1.2.esp
 Neck Seam Concealers Expanded.esp
 NecroArmour.esp
 NemakkiArrows_1C.esp
+Neo-Amidala.esp
 New Frostmourne Sword by Jojjo v1_0.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New_Frostmourne_Sword_by_Jojjo_v1_0.esp
@@ -4336,6 +4340,7 @@ Reznod_Mannequin_1C.esp
 Reznod_Mannequin_HD[Eng].esp
 RF_Crimson.esp
 RGMsCheerleader.esp
+Rikku.esp
 Rindirs Staves.esp
 ring_of_feather.esp
 Ring of Sunwalker V1.35.esp
@@ -7461,6 +7466,7 @@ Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 AkerasHouseRu.esp
 A Qrazy Quest.esp
+Alexandriav3.esp
 Alexis_Magiergilde.esp
 Albae+Gefährten.esp
 AlchemistForHire.esp
@@ -7757,6 +7763,7 @@ Better Benirus Manor - SYS Patch.esp
 Better Rosethorn Hall.esp
 Better Rosethorn Hall - Cobl Patch.esp
 Better Shady Sam.esp
+Better Tiber Septim Suite.esp
 Best Defense.esp
 Better Elven Gardens.esp
 Better Elfen Gardens.esp
@@ -7768,6 +7775,7 @@ ElsweyrFaregylRoad.esp
 ? Do not use if using ElsweyrAnequina.esp.
 Black Horse Mail Box.esp
 AW_BHC_HomeDelivery.esp
+BlackfrostMine.esp
 Black ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
@@ -8242,6 +8250,7 @@ Fallen_Tower_ru.esp
 Fanacasecul.esp
 Far Farm.esp
 Farleum V 1.2.esp
+Felmoons Dawn V1.2.esp
 FFM.esp
 FishermansCottage.esp
 FishermansCOBLaddon.esp
@@ -8775,6 +8784,7 @@ Kvatch Rebuilt Swalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 Kvatch Rebuilt Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+Storms & Sound - Kvatch Rebuilt.esp
 KvatchRankFix.esp
 Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
@@ -9238,6 +9248,7 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
+Project Spartan.esp
 PT-AyleidSanctum-WithAltars.esp
 PursuitOfShade.esp
 pythanis.esp
@@ -9473,6 +9484,8 @@ ardah Vwalk.esp
 SYS Patch-Ardah.esp
 Silorn Manor.esp
 Silvercliff.esp
+Silvercliff Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 SilverSoul Hideaway_v1.1.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
@@ -9604,7 +9617,6 @@ Sheogorath`s Artifacts.esp
 
 tales of gratch.esp
 Talos Bridge.esp
-Storms & Sound - Talos Bridge Gatehouse.esp
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
 TamrielSnacks11-DV.esp
@@ -9709,6 +9721,8 @@ Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 The_Tower_of_the_Lich_King_1C.esp
 
 TheElderCouncil.esp
+TheElderCouncil Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 TheElderCouncil_TempleOfTheOne.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elder Council Plugin 1.1.esp
@@ -10733,7 +10747,6 @@ Bonds Crystal Isles an Adventure Vwalk.esp
 
 TVIcar.esp
 
-Storms & Sound - PTMudwater.esp
 Celestiel - EV.esp
 Academy.esp
 Rooftop Rewards cleaned.esp
@@ -10810,6 +10823,7 @@ Oblivifall - Losing My Religion Kvatch Rebuilt.esp
 Oblivifall - Losing My Religion KOTN.esp
 % {{BASH:Actors.AIPackages}}
 Oblivifall - Losing My Religion_HOTD_Patch.esp
+Oblivifall - Losing My Religion Blood&Mud.esp
 
 \BeginGroup\: Tamriel Worldspace Modding Project
 \-----------------------------------------------
@@ -10902,6 +10916,7 @@ New Valen.esp
 Pinevale.esp
 PTMudwater.esp
 Forgotten Realm PTMudwater Patch.esp
+Storms & Sound - PTMudwater.esp
 
 Reaper's Bleaker's Way Village Revamp.esp
 NRB4+RBWR Patch.esp
@@ -10923,6 +10938,7 @@ ShezriesTownsMaster Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 GoC_ShezriesTowns_Patch.esp
 SYS Patch-Shezrie's Towns.esp
+ShezriesTowns- Valenwood Patch.esp
 LostSpires+PellsGate Patch.esp
 Skye Village Final.esp
 Solace.esp
@@ -10939,6 +10955,7 @@ OOO-Sutch patch.esp
 
 TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
+Storms & Sound - Talos Bridge Gatehouse.esp
 wb_RRLR_TalosBridge_Patch.esp
 
 Vergayun.esp
@@ -11190,6 +11207,7 @@ xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
 Zedar-AncientYews patch.esp
 WaterlilyCottage-AncientYews patch.esp
+HentaiLovelyHouse2-AncientYews patch.esp
 
 xulAncientRedwoods.esp
 Unique Landscapes - Ancient Redwoods DV.esp
@@ -13134,34 +13152,34 @@ defaultstand.esp
 
 Storms & Sound - AFK_Weye.esp
 : AFK_Weye.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Amajor7 Imperial Furniture.esp
 : Amajor7 Imperial Furniture.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Imperial Furniture Renovated.esp
 : Imperial Furniture Renovated.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Bank of Cyrodiil.esp
 : Bank of Cyrodiil.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Bartholm.esp
 : Bartholm.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Blood&Mud.esp
 : Blood&Mud.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - The Lost Spires.esp
 : The Lost Spires.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Shezrie's Villages.esp
 : Shezrie's Villages.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 Storms & Sound - Better Cities.esp
 : Better Cities.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 ? Better Cities patch is based off Better Cities.esm and can load above all Better Cities esps.
 Storms & Sound Patches.esp
-? Using any of the Storms & Sound patches Storms & Sounds.esp. If using any other Storms & Sound file (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.), it must be renamed to Storms & Sound.esp.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
 ? This is a custom merge.
 
 SiC shippingInCyrodiil.esp
@@ -13817,6 +13835,7 @@ Active_Inventory_Spell_1.2.esp
 AddSpells.esp
 Advanced Magic.esp
 Advanced Mark & Recall.esp
+Adventurer's Spells.esp 
 Adventurer's Spells_ru.esp
 Alliria_CRP_Spells.esp
 Alter Weight Spells.esp
@@ -14006,7 +14025,7 @@ Teleport.esp
 Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
 The Arcane Storage.esp
-
+TheKillingMoon.esp
 SD Skill Diary rus.esp
 
 TelekineticDamage.esp
@@ -15073,6 +15092,7 @@ Oblivion XP - Journal Mod Patch.esp
 ? Edits "ObXPMiscScript" from version 4.1.5. Important: use this patch with that version only!
 CoH ObXP Patch.esp
 LoversOblivionXP.esp
+Oblivion XP Character Generation.esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -15705,6 +15725,8 @@ Half Orcs.esp
 Hidden_Elves.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 kaleen.esp
+% {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
+Kaleencolors.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 lady_of_the_lake.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
@@ -17973,6 +17995,7 @@ Detect Life Red Shader.esp
 Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
 EvenLessGreenLight.esp
+HVH_LifeDetect.esp
 Li-Glassphials.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
@@ -18373,6 +18396,13 @@ UnderdarkSaga Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 UnderdarkMap.esp
 Companion Compatibility.esp
+
+Sensual Walks.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Sensual Walks SI.esp
+% {{BASH:Actors.Anims, NoMerge}}
+Sensual Walks SI DS + GS.esp
+% {{BASH:Actors.Anims, NoMerge}}
 
 Open Cities Road Record.esp
 ? Obsolete. Remove this and update to Open Cities Classic 3.5+.

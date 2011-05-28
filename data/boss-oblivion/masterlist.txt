@@ -1302,6 +1302,7 @@ MIS Weather.esp
 
 Rainbows.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (71BDDEC0|"Rainbows.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Rainbows.esp
 \EndGroup\\
 
@@ -7265,6 +7266,7 @@ AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
 >: FCOM_KvatchAftermath.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (8997D4F1|"KvatchAftermath.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FCOM_KvatchAftermath.esp
 : KvatchAftermath.esp
 County Kvatch version 5.2.esp
@@ -8364,6 +8366,7 @@ Gift of Kynareth v2.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Giskards Tales From the Tomb.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (090F0F66|"Giskards Tales From the Tomb.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
@@ -8754,6 +8757,7 @@ kikaiNocturnalTorch.esp
 KindredofCaine_eng.esp
 kingdomofAlmar.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (72392FC9|"kingdomofAlmar.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
@@ -8790,6 +8794,7 @@ Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
@@ -8814,6 +8819,7 @@ kvatch essential.esp
 KvatchRising.esp
 % {{BASH:Actors.AIPackages}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (6C91CBEB|"KvatchRising.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Requires special edit to repair an incorrect script override.
 
 Gold Road Cottage - Classy.esp
@@ -9468,6 +9474,7 @@ Sheogorad.esp
 Sheogoraths_Accords_of_Madness.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Invent}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (C7AFC21D|"Sheogoraths_Accords_of_Madness.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
@@ -9752,10 +9759,13 @@ Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 The_Tower_of_the_Lich_King_1C.esp
 
 TheElderCouncil.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (763FC748|"TheElderCouncil.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheElderCouncil Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TheElderCouncil_TempleOfTheOne.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (5BEE0900|"TheElderCouncil_TempleOfTheOne.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
@@ -9827,6 +9837,7 @@ TR_Stirk_v0.9.esp
 TR_Stirk.esp
 % {{BASH:Graphics}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (BAEEF8CF|"TR_Stirk.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TR_Stirk Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge }}
 Stirk_Compatibility_Patch.esp
@@ -10484,9 +10495,11 @@ TOSlod_Built.esp
 CUO_Bravil.esp
 \Needs to be here for compatibility with Lost Spires
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (A1A0CAA2|"CUO_Bravil.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (8F8965FC|"The Lost Spires.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-Lost Spires-Patch.esp
 OCR + Lost Spires Patch.esp
 The Lost Spires_delayer.esp
@@ -10540,6 +10553,7 @@ Origin of the Mages Guild.esp
 % {{BASH:Actors.AIPackages, Relations}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (0440FF00|"Origin of the Mages Guild.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Mystery of the Dulan cult.esp
 >: 'FCOM_DulanCult.esp'.
@@ -10547,6 +10561,7 @@ The Mystery of the Dulan cult.esp
 
 TheNecromancer.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (06798B41|"TheNecromancer.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
@@ -10584,6 +10599,7 @@ MannimarcoComplete - ICS Patch.esp
 Mannimarco_resurrection.esp
 MannimarcoRevisited.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (E2BE41DA|"MannimarcoRevisited.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
 % {{BASH:NpcFaces}}
@@ -11019,11 +11035,14 @@ Chorrol Jewelry Company.esp
 CUO_Bruma.esp
 % {{BASH:Invent}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (79E62DCD|"CUO_Bruma.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 : Kvatch Aftermath Bruma Features - disable them.
 CUO_Chorrol.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (A7AF03A3|"CUO_Chorrol.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Leyawiin.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (FF5FEEE3|"CUO_Leyawiin.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 ReclaimSancreTor.esp
@@ -11861,6 +11880,7 @@ ICTowerObservatory.esp
 
 FightersGuildContracts.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (BB0D71D0|"FightersGuildContracts.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (JQ) Fighters Guild United.esp
 % {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp
@@ -11925,10 +11945,12 @@ Harvest [Flora].esp
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ //IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp

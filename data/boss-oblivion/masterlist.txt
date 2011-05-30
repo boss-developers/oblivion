@@ -3260,6 +3260,7 @@ Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Mirror.esp
 BlackSoulGemArmory.esp
 Blackwire.esp
+BlackwirePNI.esp
 Blade of Judgment2.esp
 Blade Of Woe Replacer.esp
 % {{BASH:Graphics}}
@@ -3543,6 +3544,7 @@ DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diano.esp
+DianoPNI.esp
 Diano2_UltraLite.esp
 Diano for DM Unenchanted.esp
 DivineShields.esp
@@ -4368,6 +4370,7 @@ Royal Shields.esp
 % {{BASH:Invent}}
 Royal Glass.esp
 % {{BASH:Invent}}
+RRJehanne.esp
 RRSeifuku.esp
 RRWeapos&Armors.esp
 Ruby Rose Armor.esp
@@ -4427,6 +4430,8 @@ ScimitarMod.esp
 Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
+SDHeartbreaker.esp
+SDHeartbreakerPNI.esp
 SedaArmor.esp
 Seductress Armour.esp
 semi_precious_stones.esp
@@ -4588,18 +4593,29 @@ Star Boi's Keyblades In-Game.esp
 Starsouls.esp
 stfClothesR v1.esp
 SG001_BunnyGirl.esp
+SG001_BunnyGirlPNI.esp
 SG002_Button.esp
 SG003_Slit.esp
+SG003_SlitPNI.esp
 SG004_Stargazer.esp
+SG004_StargazerPNI.esp
 SG005_DHuntress.esp
 SG006_Nabiya.esp
 SG007_Nobody.esp
+SG007_NobodyPNI.esp
 SG008_Gee.esp
+SG008_GeePNI.esp
+SG009_Bopeep.esp
 SG010_Attractive.esp
 SG011_Seductive.esp
+SG011_SeductivePNI.esp
+SG011_SeductiveBCitiesPNI.esp
 SG012_MoonLight_Suit.esp
 SG013_Nazca.esp
+SG013_NazcaPNI.esp
 SG014_SparkleSweetSummer.esp
+SG014_SparkleSweetSummerPNI.esp
+SG015_Leia.esp
 SG010 Compilation.esp
 " SG001_BunnyGirl.esp, SG002_Button.esp, SG003_Slit.esp, SG004_Stargazer.esp, SG005_DHuntress.esp, SG006_Nabiya.esp, SG007_Nobody.esp, SG008_Gee.esp, SG010_Attractive.esp, SG011_Seductive.esp, SG012_MoonLight_Suit.esp, SG013_Nazca.esp, SG014_SparkleSweetSummer.esp (Includes the contents of these esps).
 Shaun's Weapon Replacers.esp

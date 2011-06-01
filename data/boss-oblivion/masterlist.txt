@@ -6690,6 +6690,16 @@ OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
 % {{BASH:Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
+OWC - VanilaLevelUp.esp
+OWC - VanillaSkill.esp
+OWC - VanillaPotion.esp
+OWC - SignModel.esp
+OWC - SignModelwon.esp
+OWC - ArenaItems.esp
+OWC - VanillaRaceNPC.esp
+OWC - FenektoKhajiit.esp
+OWC - KelbQuenitoArgonian.esp
+OWC - NoHarvestFlora.esp
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp

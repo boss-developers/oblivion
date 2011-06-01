@@ -711,7 +711,9 @@ MOBS.esp
 MOBS SI.esp
 % {{BASH:NoMerge, Stats}}
 MOBS Optional Combat Settings.esp
+? Do not use with Frans or FCOM.
 MOBS SI Optional Combat Settings.esp
+? Do not use with Frans or FCOM.
 
 Dancer_Undress.esp
 PMVisibleMapMarkers-ShiveringIsles.esp
@@ -6124,7 +6126,10 @@ OMOBS.esp
 OMOBS_SI.esp
 % {{BASH:NoMerge, Stats}}
 OMOBS_Optionial Combat Settings.esp
+? Upgrade to latest version.
+? Do not use with OOO or FCOM.
 OMOBS Optional Combat Settings.esp
+? Do not use with OOO or FCOM.
 
 mg19obsefix.esp
 : OBSE

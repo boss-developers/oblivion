@@ -1062,6 +1062,7 @@ Weather Debug Spammer.esp
 Immersive Interiors.esp
 : All Natural - For the transparent windows and the ESM file.
 Immersive Interiors - Lights Addon.esp
+Immersive Prison sewer exit.esp
 
 ReneerInteriorsMod.esp
 
@@ -15433,7 +15434,7 @@ Immersive Caves.esp
 Immersive Caves Auto.esp
 % {{BASH:Names}}
 immersive_caves_auto.esp
-% {{BASH:Names}}
+% {{BASH:Names, Graphics}}
 immersive_caves_manual.esp
 Dark Dungeons.esp
 % {{BASH:C.Light, Deactivate}}

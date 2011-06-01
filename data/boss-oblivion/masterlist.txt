@@ -6693,12 +6693,19 @@ OWC - New Dimension.esp
 OWC - VanilaLevelUp.esp
 OWC - VanillaSkill.esp
 OWC - VanillaPotion.esp
+% {{BASH:Graphics, NoMerge}}
 OWC - SignModel.esp
+% {{BASH:Graphics}}
 OWC - SignModelwon.esp
+% {{BASH:Graphics}}
 OWC - ArenaItems.esp
+% {{BASH:Names}}
 OWC - VanillaRaceNPC.esp
+% {{BASH:NPC.Race}}
 OWC - FenektoKhajiit.esp
+% {{BASH:NPC.Race}}
 OWC - KelbQuenitoArgonian.esp
+% {{BASH:Names, NPC.Race}}
 OWC - NoHarvestFlora.esp
 OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp

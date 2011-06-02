@@ -17284,6 +17284,7 @@ OCRAnvil+Integration Path Grid Fix.esp
 ? Obsolete: Update to version 3.0 of the Open Cities Integration patch. Then delete this plugin.
 bgIntegrationEV Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+Silverfish&bgIntegrationPatch.esp
 \EndGroup\\
 
 \BeginGroup\: Other race/birthsign mods

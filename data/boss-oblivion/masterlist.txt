@@ -2655,6 +2655,8 @@ Note to Self.esp
 : OBSE 0018+
 
 Oblivion Graphics Extender Support.esp
+OBGE Controller.esp
+OBGE_SwitchDoF.esp
 
 P1DlookHereYou.esp
 P1DmenuEscape.esp
@@ -11244,14 +11246,19 @@ T-HMO.esp
 HM2_xuLC_Comp.esp
 \EndGroup\\
 
+\BeginGroup\: From2ch Lives
 From2ch Lives.esp
 : Beautiful People 2ch-Ed.esm
+F2L_FaceChange.esp
+Ta22's 01Army.esp
+117NPCs.esp
+From2ch Lives Boss.esp
+F2LHideRaces.esp
 From2ch Lives Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
-From2ch Lives Boss.esp
 F2LAddon.esp
 F2LAddon_Kasuga&Sisimaru.esp
-Ta22's 01Army.esp
+\EndGroup\\
 
 xulBravilBarrowfields.esp
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -14028,6 +14035,8 @@ M.O.E. - Lock Spells.esp
 M.O.E. - Mythic Dawn Powers.esp
 M.O.E. - Teleportation Magic and Icarian Flight.esp
 MadCompanionshipSpells.esp
+: OBSE 19+.
+MCS extension.esp
 Madgod Powers.esp
 Magus Lost Alteration Spells.esp
 Mark & Recall.esp
@@ -14182,6 +14191,7 @@ sr_enhanced_magic_system.esp
 SpellSinger.esp
 ZuzSetBody.esp
 SetBody.esp
+AutoSetBody.esp
 vn_boundapparatus.esp
 WoM Corpse Disposal.esp
 WoM-Corpse Disposal.esp
@@ -15015,6 +15025,8 @@ Ragna Parry V2.esp
 Smarter Ally Combat Positioning.esp
 Unequip Broken Armor.esp
 BFG's Enhanced Armory.esp
+humantouchNPC.esp
+: OBSE 19+.
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling
@@ -16056,7 +16068,7 @@ Beautiful People 2ch-Ed MS Elves - NoSc.esp
 Beautiful People 2ch-Ed ENG Dialog.esp
 Beautiful People 2ch-Ed ENG Race.esp
 ChanponSimpleDef.esp
-
+F2LAddon_MSElves.esp
 
 x117race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
@@ -16731,6 +16743,8 @@ GGValeria2_0.esp
 GG_Vincente.esp
 % {{BASH:Hair, Eyes}}
 GG_Vincente_Revived.esp
+% {{BASH:Hair, Eyes}}
+GG_J_Cytosine.esp
 % {{BASH:Hair, Eyes}}
 Grashnak.esp
 % {{BASH:Hair, Eyes}}

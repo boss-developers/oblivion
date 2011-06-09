@@ -3096,6 +3096,11 @@ armored coats.esp
 % {{BASH:Invent}}
 Armored Robes.esp
 Armor_skirts.esp
+% {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Armor_skirts_nonlvl.esp
+% {{BASH:Invent}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armor of the Dark Lord.esp
 ArmorOfTheFallen.esp
 Armory of the Silver Dragon.esp
@@ -3203,6 +3208,7 @@ ArmamentariumVendors.esp
 ArmamentariumStaffs.esp
 " newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium Fixes.esp
+Artica Helm - Jizzak Version.esp
 ARTICA RAZOR ICMS by_venom91.esp
 Arynns-Heavenly-Sword_hottest.esp
 ArynnsDrowQueen2.0.esp
@@ -3282,6 +3288,8 @@ Bloodrayne set.esp
 Bloodwine-6073.esp
 Blue and White.esp
 Blue Destinys Paladin Armor.esp
+Blue Destiny's Paladin Armor.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bluefire Claymore by Mr. V.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
@@ -3644,6 +3652,8 @@ Eltonbrand Easter Egg.esp
 ElvenPrincess.esp
 ElyndasLostDressesHGEC.esp
 Elwing.esp
+Emarion Equipment.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 ercGigerBattleclaws_EV.esp
@@ -4849,6 +4859,8 @@ Vampiria.esp
 VCTestRing.esp
 vermillionandsilverthorn.esp
 Villain's Arsenal.esp
+Vin Swords.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 volkoth.esp
 VSPTensaZangetsu.esp
 VipCxj_HighHeels.esp
@@ -9109,6 +9121,8 @@ MountainTower.esp
 SYS Patch-Mountain Tower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
 mr_Siikas_MerchantShip.esp
+mrSiikasBetterPorts_CorvetteExpansion.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 mrSiikasBetterPorts_LongshipExpansion.esp
 mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
@@ -12094,7 +12108,10 @@ ArgonianSwiftSwim - Leopard.esp
 Arkestar - Name Rat 1 - Potions.esp
 % {{BASH:Names}}
 Armor-Long -TESSource.esp
+Armoured Imperial Patrols - Aesthetic.esp
+% {{BASH:Graphics}}
 Armoured Imperial Patrols - Realism.esp
+% {{BASH:Graphics}}
 
 As Intended - OOO Boars & Imps.esp
 % {{BASH:Actors.Spells}}
@@ -15777,6 +15794,7 @@ CM Partners.esp
 \BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
+2 new races.esp
 300_Anthems_Enhanced_Races-7820.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 4 New Races for Rens-Beautiful People.esp

@@ -6850,7 +6850,7 @@ FCOM_VanillaItemReleveler.esp
 \''''''''''''''''''''''
 
 TIE.esp
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Invent, NpcFaces, Relations, Relev, Scripts, Stats}}
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Factions, Invent, NpcFaces, Relations, Relev, Scripts, Stats}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 TIE Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge }}
@@ -10374,7 +10374,7 @@ Ulrim's Horses - Vanilla.esp
 % {{BASH:Graphics}} for Slof's Horses compatibility.
 
 Knights.esp
-% {{BASH:Actors.AIPackages, Factions}}
+% {{BASH:Actors.AIPackages, Factions, Relations}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Knights - Book Jackets.esp
 % {{BASH:Graphics, NoMerge}}

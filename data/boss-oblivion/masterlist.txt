@@ -76,7 +76,7 @@ EnhancedWeatherSIOnly.esm
 ? Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
-% {{BASH:Invent, Delev, Relev, Actors.AIData, Actors.Stats, Stats}}
+% {{BASH:Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
 Francesco's Optional New Items Add-On.esm
 Francesco's Optional New Creatures Add-On.esm
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
@@ -612,12 +612,12 @@ fixtext1C_04.esp
 Unofficial Oblivion Patch.esp
 ? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
 ? Recommend installing UOP Supplemental for additional fixes: "http://www.tesnexus.com/downloads/file.php?id=27710"
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
 Unofficial Oblivion Patch DV.esp
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
-% {{BASH:Actors.ACBS,  Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
+% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 ? Recommend removing if using Wrye Bash. A tweak for this exists in "Tweak Settings".
@@ -1021,10 +1021,10 @@ EW-GTA2 Patch.esp
 
 All Natural.esp
 ? Required for All Natural. Make sure this is active and not just imported into your Bashed Patch.
-% {{BASH:C.Climate}}
+% {{BASH:C.Climate, MustBeActiveIfImported}}
 All Natural - SI.esp
 ? Required for All Natural SI support. Make sure this is active and not just imported into your Bashed Patch.
-% {{BASH:C.Climate}}
+% {{BASH:C.Climate, MustBeActiveIfImported}}
 BreakingWindext.esp
 All Natural - MMM Patch.esp
 % {{BASH:Scripts}}
@@ -1326,7 +1326,7 @@ RealLightsDV.esp
 ? Recommended to use All Natural's Real Lights implementation, as it doesn't suffer from this, fixes a huge number of bugs in the original, and can be used on its own.
 
 All Natural - Real Lights.esp
-% {{BASH:Graphics, Scripts}}
+% {{BASH:Graphics, MustBeActiveIfImported, Scripts}}
 ? Do not use with original Real Lights mod.
 
 LightsOut.esp
@@ -7818,6 +7818,7 @@ AbandonedHouseBC.esp
 Better Benirus Manor - Helping Hands.esp
 Better Benirus Manor v1.1.esp
 Better Benirus Manor.esp
+% {{BASH:C.Light}}
 Better Benirus Manor for COBL (Complete).esp
 Better Benirus Manor - Complete.esp
 Better Benirus Manor - Interior Only.esp
@@ -18648,7 +18649,7 @@ Harvest Containers Filter patch for mods.esp
 % {{BASH:Deactivate, Filter}}
 : Bashed Patch.
 All Natural - Indoor Weather Filter For Mods.esp
-% {{BASH:Filter, C.Climate, Deactivate}}
+% {{BASH:Filter, C.Climate, Deactivate, NoMerge}}
 : Bashed Patch.
 TIE Weapon + Armor Filter.esp
 % {{BASH:Filter, Stats, NoMerge, Deactivate}}

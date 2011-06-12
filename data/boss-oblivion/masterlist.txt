@@ -7647,7 +7647,8 @@ Anduril Reforged.esp
 Angelslayer.esp
 ANKRcottage.esp
 AnorielsCrossroadsManor1.2.esp
-
+AnavirsPool.esp
+ IF (3ADED84A|"AnavirsPool.esp") DIRTY: 115 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Anvill Abandoned House v1.esp
 AnvilBayExpansion.esp
 " Better Cities. Already included in Better Cities Anvil.
@@ -8247,6 +8248,8 @@ DKImprovementBruma_v1.0.esp
 DocksideCoffeeHouse.esp
 Don't Forget Nirn!.esp
 DopplersArmory.esp
+DoTheUnderdark.esp
+ IF (61246D9A|"DoTheUnderdark.esp") DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DMwardropemerged.esp
 Draelins Hidden Abode.esp
 DragonClawCastle.esp
@@ -8287,6 +8290,8 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
 DukeCity.esp
 Dungeo Forgotten Tower.esp
 Dungeo Forgotten Tower Reduced Spawns.esp
+dungeon.esp
+ IF (1937E82F|"dungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons of Blackwood.esp
 
 DarkDale.esp
@@ -8299,6 +8304,8 @@ Eagle'sNest.esp
 EaglesRest.esp
 eden castle.esp
 Edgar's little secret.esp
+Edhildils Underdark.esp
+ IF (1BCA0F29|"Edhildils Underdark.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Edolsian's Furnace, Kamal Volcano Caves.esp
 Egainjo Manor.esp
 EirikWythringSpellmaker.esp
@@ -8316,6 +8323,8 @@ The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Eska Cair.esp
+EverHaus3.esp
+ IF (10F16EB7|"EverHaus3.esp") DIRTY: 49 ITM, 22 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ever-rest Glade reborn.esp
 exhSIPalacelodge.esp
 Extended Imperial City.esp
@@ -9186,6 +9195,8 @@ Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
 Murderer.esp
+MvCQuellArkadiensEV.esp
+ IF (B9CE0619|"MvCQuellArkadiensEV.esp") DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
@@ -9197,6 +9208,8 @@ MyTentHome.esp
 
 \BeginGroup\: Quests N
 
+Nagrons Berg-Pagode.esp
+ IF (B0C916AC|"Nagrons Berg-Pagode.esp") DIRTY: 5 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nabu_Towers.esp
 Naheema_Home09.esp
 Naughty_Joana_01.esp
@@ -9777,6 +9790,8 @@ TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
 The Horror in the Village of Kuhn Dah.esp
+The Temple of Medusa.esp
+ IF (0CC093DE|"The Temple of Medusa.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
 The Treasure House.esp
 SYS Patch-Personal Treasure Vault.esp
@@ -10088,6 +10103,8 @@ VypersAstralStorage.esp
 
 \BeginGroup\: Quests W
 
+Watchtower.esp
+ IF (11D3867A|"Watchtower.esp") DIRTY: 8 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wasserheim.esp
 Wandering_Nazgul_0.79.esp
 WaterFallCave.esp
@@ -10129,6 +10146,8 @@ Winterhouse.esp
 Winter Palace.esp
 witcher2.esp
 : Shivering Isles+OBSE+HGEyeCandyBody+MaleBodyReplacer
+Witch's Throne.esp
+ IF (6F1BEFB0|"Witch's Throne.esp") DIRTY: 12 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 fix.esp
 Wizards_Eye_Tower-9776.esp
 wk_Tree House.esp

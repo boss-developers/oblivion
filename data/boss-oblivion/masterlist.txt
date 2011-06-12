@@ -1,19 +1,38 @@
-﻿\ Leading symbol code:
+﻿\ Masterlist Syntax Notes
 \
-\ \ A silent comment - will be ignored by the program.
-\ % A Bashed Patch suggestion for the mod above.
-\ ? A comment about the mod above.
-\ * Flags a critical mistake for FCOM installation in relation to the mod above.
-\ : An installation requirement (ie another mod or OBSE etc.).
-\ " A specific incompatibility.
-\ $ An OOO specific comment.
-\ ^ A Better Cities specific comment
+\ Although two syntaxes (MF1 & MF2) are available, only the most common parts of the more general syntax (MF1) is covered here.
+\ See http://code.google.com/p/better-oblivion-sorting-software/wiki/MasterlistFormatSyntax for full details.
 \
-\ > process this line only if FCOM is installed.
-\ < process this line only if FCOM isn't installed.
+\  * Use blank lines to separate mods that are grouped together or where it helps readability.
+\  * Use silent comments when you think something needs clarification to others reading the masterlist (such as when a mod looks like it is misspelled, but is correct).
+\  * Only make edits/additions you're confident about - otherwise discuss the issue on the official forum threads. 
+\  * If you're unsure on how to write something in the correct syntax, check the masterlists for examples, and don't be afraid to ask other committers for help.
+\  * When you include a web link in a message, enclose it in double quotes "", for example: www.example.org should be written "www.example.org".
+\  * When you list Bash Tags for a mod, separate them using ", " and not just ",". Eg. {{BASH: Graphics,NoMerge}} should be written {{BASH: Graphics, NoMerge}}. This improves readability in the BOSSlog and the masterlist itself.
+\  * Don't include any HTML formatting in messages. In particular, web links do not need to be formatted as HTML hyperlinks, as BOSS will do this automatically.
+\  * Don't duplicate lines using different syntaxes. A line only needs to be written in one syntax.
+\  * As the majority of BOSS users use versions that only support MF1, write in that where possible. 
 \
-\ Multiple remark/comment/bash/error lines allowed.
-\ Lines beginning with \ and blank lines are treated the same (ignored).
+\ Comment Type						Symbol	Description
+\ =====================================================================
+\ Silent comment					\		A silent comment, ignored by BOSS.
+\ General comment					?		A general comment for the mod above.
+\ Bash Tag suggestion				%		A Bash Tag suggestion for the mod above.
+\ Requirement						:		An installation requirement for the mod above.
+\ Incompatibility					"		A specific incompatibility for the mod above.
+\ OOO-specific comment				$		A comment that is only displayed if OOO is installed.
+\ Better Cities-specific comment	^		A comment that is only displayed if Better Cities is installed.
+\ Critical FCOM install error		>*		Prints an error message if FCOM is installed.
+\
+\ The symbol is followed by a space then the message string.
+\
+\ Conditional Type				Symbol	Description
+\ ===================================================================================
+\ FCOM-installed line			>		Only parses the line if FCOM is installed.
+\ FCOM-not-installed line		<		Only parses the line if FCOM is not installed.
+\
+\ Conditionals can be put before any mod or message line, and the line will only be processed if the conditional is true. 
+\ The critical FCOM install error message type already includes the FCOM-specific conditional, so you don't need to add another.
 
 \Masterlist variable setup. For BOSS v1.7+.
 \Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
@@ -7678,6 +7697,7 @@ Arena Girl.esp
 ArchersLodge.esp
 ? Update to version 1.1.
 ArchersLodge1.1.esp
+ IF (208C0818|"ArchersLodge1.1.esp") DIRTY: 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Archfall_house.esp
 Archmageexpanded.esp
 Arkay's Valour.esp
@@ -7774,6 +7794,7 @@ Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
+ IF (EB5BF385|"Bandit Hideouts.esp") DIRTY: 12 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BanditSlaveTrade.esp
 Barbada_Island.esp
 BaronOfWeyeENG.esp
@@ -8055,6 +8076,7 @@ Christmas Peaks.esp
 Cinderella Craft V2.0.esp
 Clover the lucky pig.esp
 cloudcity mod V1.1.esp
+ IF (D89C1AC6|"cloudcity mod V1.1.esp") DIRTY: 181 ITM, 50 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
@@ -8488,7 +8510,7 @@ Gypsy Wagon.esp
 
 hallofthemountainking.esp
 hackdirtabyss.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E8CA2F00|"hackdirtabyss.esp") DIRTY: 3 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Halcyon House.esp
 Halcyon House - AN Patch.esp
 Halls of Fortitude.esp
@@ -8562,6 +8584,7 @@ HobbitHole.esp
 Hobbit Hole Revamped.esp
 SYS Patch Hobbit Hole Revamped.esp
 Holy Cathedral.esp
+ IF (0B294E4F|"Holy Cathedral.esp") DIRTY: 104 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Home_1.1a.esp
 Home Improvement - Imperial City Shack 1.0.esp
 Home in Bleakers Way.esp
@@ -9039,8 +9062,10 @@ MadMagesTowerBASIC.esp
 ? Does not edit border region. See documentation. Use either 'MadMagesTower.esp' or 'MadMagesTowerBASIC.esp' but not both.
 ? Use 'MadMagesTowerBASIC-CloudtopMountains patch.esp' compatibility patch when using Unique Landscapes Cloudtop Mountain.
 Mad Mike's Crypts of Cyrodiil.esp
+ IF (560DE988|"Mad Mike's Crypts of Cyrodiil.esp") DIRTY: 16 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Madness' Hideout.esp
 Mage'sSkyHouse.esp
+ IF (CEC8800F|"Mage'sSkyHouse.esp") DIRTY: 79 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mage'sSkyHouse_cobl.esp
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
@@ -9077,7 +9102,7 @@ Mero Trading.esp
 TradeShip.esp
 MGB.esp
 Mimics!.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7F582015|"Mimics!.esp") DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Miners n Pickaxes.esp
 MiniCyrodiil.esp
 Miniquest_Vampire.esp
@@ -9130,7 +9155,7 @@ mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
 " Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
-? 94 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (47777B7D|"MTCRiverShackv1.2.esp") DIRTY: 94 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Also needds manual cleaning of a  deleted static record for 0008060C and one wild edit in CELL 0002FF46 (Bravil Skooma Den).
 00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
@@ -9148,6 +9173,7 @@ NPCs Alive - Orges.esp
 
 Muffin Display Rooms.esp
 Museum.esp
+ IF (E3CC13A8|"Museum.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Your_Personal_Museum.esp
 Your_Personal_Museum_Updated-9300.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9532,6 +9558,7 @@ Shads Water Bucket Plus.esp
 CMWaterskin.esp
 : OBSE 18+.
 ShadowfangKeep.esp
+ IF (A970802F|"ShadowfangKeep.esp") DIRTY: 313 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shadowmist Manor v1.1.esp
 Shady Sam Enhanced.esp
 Shady Sam Plus.esp
@@ -9610,6 +9637,7 @@ Skyrim Alive.esp
 Sky Haven.esp
 Skyrim Nord Tombs.esp
 SkyrimObservatory.esp
+ IF (5ADC0013|"SkyrimObservatory.esp") DIRTY: 14 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Skyship.esp
 SYS Patch-Bond's Skyship.esp
 SkullofMondain.esp
@@ -9762,13 +9790,14 @@ TempleOfZealots.esp
 TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
-? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B0311481|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
 \Yes, that spelling error is correct.
 : The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
+ IF (84B74D3F|"CDEP_FanaCeya.esp") DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
@@ -9848,6 +9877,7 @@ TheForgottenShields v1.1 Delayer.esp
 TheImperialNavy.esp
 TheMistRetreat1.3_Optimized.esp
 Thermae.esp
+ IF (AAD7EC09|"Thermae.esp") DIRTY: 21 ITM, 39 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 __thermae.esp
 __thermae_CustomVisitor.esp
 ? Old, update to latest version.
@@ -9962,6 +9992,7 @@ UndergroundLair.esp
 UnfathomedTower.esp
 UngarimsCaveNew.esp
 Unholy Cathedral.esp
+ IF (840C67F8|"Unholy Cathedral.esp") DIRTY: 431 ITM, 149 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Dungeons - Lichs Lair.esp
 Unique Dungeons - Lost Glory.esp
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
@@ -10735,6 +10766,7 @@ BrewHouse.esp
 
 MehrunesFel.esp
 Daedric Shrine Ruins.esp
+ IF (99BD9CB0|"Daedric Shrine Ruins.esp") DIRTY: 0 ITM, 753 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 " Asharnakibibi.esp, MehrunesFel.esp, Zergonipilamat.esp, MehrunesFel.esp
 Daedric Ruins House of Healing Patch.esp
 Gaelendryl.esp
@@ -10970,6 +11002,7 @@ Boqwater_Settlement_V103.esp
 
 Campus Village.esp
 Chichester Village.esp
+ IF (A5A89A38|"Chichester Village.esp") DIRTY: 72 ITM, 161 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CityofSunevV058.esp
 
 Damarask.esp
@@ -11080,6 +11113,7 @@ Verwen Brewery.esp
 Village of Lily 2.0.esp
 Viking Village.esp
 Villages1.1.esp
+ IF (71F17D9E|"Villages1.1.esp") DIRTY: 24 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Villages1.1Male.esp
 Villages1.1Famale.esp
 Villages of Cyrodiil V1.51.esp
@@ -11089,7 +11123,7 @@ WaterfrontMarket.esp
 WaterfrontMarketNoShack.esp
 ^ Probably incompatible with Better Cities.
 WatersEdgeImproved.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (53A73FA1|"WatersEdgeImproved.esp") DIRTY: 30 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs Wrye Bash "Remove World Orphans" fix.
 Wellspring Vale.esp
 Wellspring Vale COBL.esp

@@ -9223,6 +9223,12 @@ Northern Front.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nou-Malatu.esp
 
+NNWARE2.esp
+? Obsolete. Upgrade to the latest version and delete this.
+? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+NNWARE Series 1.esp
+? Obsolete. Upgrade to the latest version and delete this.
+? 20 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWAREAyleidDungeons_Series1EV.esp
 NNWAREAyleidDungeons_Series1DV.esp
 NNWAEDungeons-Series2EV.esp
@@ -10025,7 +10031,7 @@ OCC-Verona-Patch.esp
 OCR + Verona Patch.esp
 
 Apachii_Goddess_Store.esp
-? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6644E61D|"Apachii_Goddess_Store.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -10799,6 +10805,7 @@ ElsweyrAnequina Vwalk.esp
 ElsweyrAnequina v2 Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Reaper's Esmeralda's Desert Manor.esp
+ IF (DB57B73|"Reaper's Esmeralda's Desert Manor.esp") DIRTY: 48 ITM, 32 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch-Anequina Manor.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Update to latest version and remove.
@@ -17851,7 +17858,7 @@ TSSoupHouse.esp
 HTSCl_withsoups.esp
 
 TheOubliette.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2F16C1C5|"TheOubliette.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Advance Avalon Project.esp
 NRB4+Avalon Patch.esp
 \EndGroup\\

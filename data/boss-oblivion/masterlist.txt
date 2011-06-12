@@ -546,7 +546,7 @@ BlackScreenToggleFix.esp
 Allies for Bruma Fix.esp
 Arcana Restored.esp
 ? Obsolete. Remove this and use the latest version of the UOP instead.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Erthor_Fix-2593.esp
 ? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
@@ -804,7 +804,7 @@ MrSiikaRabbits.esp
 
 >Francesco's Optional Chance of Stronger Bosses.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
->? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+>? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >Francesco's Optional Chance of More Enemies.esp
 >Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
@@ -1136,7 +1136,7 @@ Real Water.esp
 realWaters.esp
 Realistic Water.esp
 % {{BASH:C.Water, Graphics}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wavy_Water.esp
 OBGE Water and Shaders.esp
 OBGE - Liquid Water.esp
@@ -1175,12 +1175,12 @@ More Immersive Sounds.esp
 More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
- IF (F343D8EA|"MIS Low Wind.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F343D8EA|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MIS New Sounds Optional Part.esp
 % {{BASH:Scripts}}
 Atmospheric Oblivion.esp
 % {{BASH:Scripts}}
- IF (9A266EC1|"Atmospheric Oblivion.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9A266EC1|"Atmospheric Oblivion.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Atmospheric Oblivion - AWS Patch.esp
 Distant Chapel Bells.esp
 Side's EAX Control.esp
@@ -1490,7 +1490,7 @@ SI Clothes.esp
 Battlemage Friends.esp
 Book Jackets Oblivion.esp
 % {{BASH:Graphics}}
- IF (88936850|"Book Jackets Oblivion.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (88936850|"Book Jackets Oblivion.esp") DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Book Jackets Oblivion - BP.esp
 % {{BASH:Graphics}}
 !Book Jackets Oblivion - PL.esp
@@ -2081,7 +2081,7 @@ P1DrobesOver.esp
 P1DanywhereSittable.esp
 SeeYouSleep.esp
 P1DseeYouSleep.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P1DseeYouSleep - Vampire Bedroll Anims.esp
 P1DlookAtShrines.esp
 Patron Deities.esp
@@ -2358,7 +2358,7 @@ VA_BetterGold.esp
 % {{BASH:Graphics}}
 VAs Better Gold with no Menu Icon.esp
 % {{BASH:Graphics}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AC_Gold_Coins.esp
 % {{BASH:Graphics}}
 Vampire Alchemy V1.1.esp
@@ -2502,7 +2502,7 @@ CrowdedRoadsAdvanced_LC_1C.esp
 CrowdedRoadsAdvanced_1C.esp
 Crowded Roads Revamped.esp
 Crowded Roads Revisited.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Revisited_ChorrolCheydinhal_5.esp
 Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
@@ -2549,7 +2549,7 @@ Populated Prisons.esp
 PCTM.esp
 
 Immersive Travelers.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
@@ -2804,7 +2804,7 @@ YetAnotherHotkeyMod.esp
 
 DLCHorseArmor.esp
 % {{BASH:Scripts}}
- IF (BAD48E5D|"DLCHorseArmor.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BAD48E5D|"DLCHorseArmor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCHorseArmor - Unofficial Patch.esp
 % {{BASH:C.Owner}}
 Marts Monster Mod - DLCHorseArmor+Slof.esp
@@ -2819,7 +2819,7 @@ Correctif HorseArmor.esp
 Correctif HorseArmor RP.esp
 DLCOrrery.esp
 % {{BASH:Actors.AIPackages}}
- IF (5BC59DB4|"DLCOrrery.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5BC59DB4|"DLCOrrery.esp") DIRTY: 11 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCOrrery - Unofficial Patch.esp
 Correctif Orrery.esp
 Correctif Orrery RP.esp
@@ -2838,7 +2838,7 @@ NLF Orrery.esp
 Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
- IF (74D2CA6F|"DLCVileLair.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (74D2CA6F|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCVileLair - Unofficial Patch.esp
 % {{BASH:Graphics}}
 Correctif VileLair.esp
@@ -2851,7 +2851,7 @@ Lair_mobs.esp
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
- IF (CB413740|"DLCMehrunesRazor.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CB413740|"DLCMehrunesRazor.esp") DIRTY: 21 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCMehrunesRazor - Unofficial Patch.esp
 % {{BASH:Delev, Invent, Relev}}
 LightningReduced - Razor.esp
@@ -2881,7 +2881,7 @@ SM Plugin Refurbish - MehrunesRazor.esp
 
 DLCSpellTomes.esp
 % {{BASH:Relev}}
- IF (312156F8|"DLCSpellTomes.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (312156F8|"DLCSpellTomes.esp") DIRTY: 40 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCSpellTomes - Unofficial Patch.esp
 " 'CDM-CGO Compatibility plugins'.
 Correctif SpellTomes.esp
@@ -5725,7 +5725,7 @@ Ranokoas Organized Potions.esp
 
 DLCThievesDen.esp
 % {{BASH:C.Name, C.Light, Actors.ACBS, Actors.AIPackages, Actors.Stats}}
- IF (05DB8CCC|"DLCThievesDen.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (05DB8CCC|"DLCThievesDen.esp") DIRTY: 5 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCThievesDen - Unofficial Patch.esp
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.Stats, C.Light, C.Music, C.Name, Delev, Relev}}
 Correctif ThievesDen.esp
@@ -5772,7 +5772,7 @@ Francesco's More Wilderness Life.esp
 >* Delete. Not compatible with FCOM.
 <Francesco's Optional Chance of Stronger Bosses.esp
 <Francesco's Optional Chance of Stronger Enemies.esp
-<? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+<? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional Dungeon Chest Loot.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Dungeon Chest Locks.esp
@@ -5867,7 +5867,7 @@ FCOM_TamrielicIngredients.esp
 Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -5902,7 +5902,7 @@ PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
 Bob's Armory OblivionRU.esp
 FCOM_BobsArmory.esp
@@ -6237,7 +6237,7 @@ $ If you are running only OOO, but not MMM or FCOM, keep this installed.
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 MALO - Clutter Replacer.esp
 MALO - Vendor Additions.esp
@@ -7319,7 +7319,7 @@ Quelldorf ohne Schiff1.5.esp
 AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
 >: FCOM_KvatchAftermath.esp
- IF (8997D4F1|"KvatchAftermath.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8997D4F1|"KvatchAftermath.esp") DIRTY: 5240 ITM, 390 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FCOM_KvatchAftermath.esp
 : KvatchAftermath.esp
 County Kvatch version 5.2.esp
@@ -7384,7 +7384,7 @@ EM_CompInnsleeping.esp
 
 Ivellon.esp
 $ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
- IF (645E2C6D|"Ivellon.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (645E2C6D|"Ivellon.esp") DIRTY: 9 ITM, 13 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ivellon2.esp
 Cyrodiil Border Regions 1.2.esp
 ? Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible.
@@ -7398,7 +7398,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 \This needs to load before Region Revive - Lake Rumare for the patch to work.
 TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound - Talos Bridge Gatehouse.esp
 \EndGroup\\
 
@@ -7427,7 +7427,7 @@ Storms & Sound - Talos Bridge Gatehouse.esp
 2HFluch.esp
 300_Darker_Cyrodiil Imperial City.esp
 300 Regal Imperial City 2.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
 AkaviriStronghold_1C.esp
@@ -7573,7 +7573,7 @@ AlchemistsCave-COBL.esp
 allinonebasement.esp
 allinonebasement_COBLnoCM.esp
 ? Use only one allinonebasement esp.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Alexandria.esp
 AleswellMerchant Cobl.esp
 AleswellMerchant Cobl SI.esp
@@ -7689,7 +7689,7 @@ Artefacts of the Ancestors.esp
 ? Also replaces some names with the German equivalents and contains wild edits. Requires manual cleaning.
 ArTheIceUnicorn.esp
 Artifacts.esp
- IF (66B9B580|"Artifacts.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (66B9B580|"Artifacts.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Artifacts Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Artifacts - EE patch.esp
@@ -7733,7 +7733,7 @@ Automagicon_Cobl.esp
 AvaiRii_UnderwaterHome.esp
 AXIS.esp
 AyleidArrows.esp
- IF (1B13049A|"AyleidArrows.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1B13049A|"AyleidArrows.esp") DIRTY: 32 ITM, 77 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
 AyranUndercity.esp
 AzurasServices_de.esp
@@ -7883,7 +7883,7 @@ BD&R - Deepgrave.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
- IF (C73A3567|"BHC_Expanded.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C73A3567|"BHC_Expanded.esp") DIRTY: 2 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bjornheim.esp
 ? This ESP has critical errors and should not be used in an active game. Regular TES4Edit cleaning is not enough to repair it.
 Bjornheim_1C.esp
@@ -7941,7 +7941,7 @@ Butcher.esp
 Buy A House Shivering Isles.esp
 Buyabletavern.esp
 BXX_Mines.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 40 ITM, 23 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BXX Tamriel Resource Exchange.esp
 : OBSE.
 \EndGroup\\
@@ -8010,7 +8010,7 @@ CastleHeiLi.esp
 CDEP.esp
 CDEP-UnderpallCave.esp
 % {{BASH:C.Light, C.Water}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 3 ITM, 246 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CDM-The Necromantic Experience.esp
 CDM-Necromancy.esp
 CDM-Necromancy-No-Undead-Association.esp
@@ -8102,7 +8102,7 @@ Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 CV - Templar Fortress.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 50 ITM, 892 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -8149,7 +8149,7 @@ DarkLair.esp
 DarkLight Mithril Armor.esp
 Darklore Manor_V2.esp
 DarknessHollows.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DarknessHollows Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 DarkstarTower.esp
@@ -8158,7 +8158,7 @@ Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
 ? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes' Lost Coast.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (DC) Sutch Reborn Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Sutch Reborn Spawn Patch.esp
@@ -8241,7 +8241,7 @@ DSPirateIsleBeta.esp
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 45 ITM, 0 UDR. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Dwemer Ruins.esp
@@ -8412,13 +8412,13 @@ GDSkingradCathedral.esp
 GGShivOBSEv1_1.esp
 Gianna.esp
 Gift of Kynareth.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gift of Kynareth_delayer.esp
 ? Outdated. Update to the latest version of the delayer.
 Gift of Kynareth v2.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Giskards Tales From the Tomb.esp
- IF (090F0F66|"Giskards Tales From the Tomb.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (090F0F66|"Giskards Tales From the Tomb.esp") DIRTY: 1 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
@@ -8441,13 +8441,13 @@ green market district.esp
 GreenGables.esp
 SYS Patch-Green Gables.esp
 GTAesgaard.esp
- IF (94A96B7D|"GTAesgaard.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (94A96B7D|"GTAesgaard.esp") DIRTY: 107 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
 ? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
 GTAesgaard_2.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GtArus.esp
 GTAesgaard I v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -8503,7 +8503,7 @@ HauntedHouse v1.4.esp
 ? Outdated. Update to version 1.5.
 Haunted_House_v1.5.esp
 % {{BASH:Invent}}
- IF (C61B8314|"Haunted_House_v1.5.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C61B8314|"Haunted_House_v1.5.esp") DIRTY: 13 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Haunted_House_v1.5 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 HauntedLairMod.esp
@@ -8511,7 +8511,7 @@ HauntedLairMod.esp
 Haven of the Mad.esp
 HazadirsArms.esp
 HauntedHouse.esp
- IF (2F2F9619|"HauntedHouse.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2F2F9619|"HauntedHouse.esp") DIRTY: 38 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
 hchouse408.esp
@@ -8591,7 +8591,7 @@ SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
 SB IC Palace Tower Light Mod v1.1 - Modified Version.esp
 SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
@@ -8806,7 +8806,7 @@ KieranFleshRobesShade.esp
 kikaiNocturnalTorch.esp
 KindredofCaine_eng.esp
 kingdomofAlmar.esp
- IF (72392FC9|"kingdomofAlmar.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (72392FC9|"kingdomofAlmar.esp") DIRTY: 177 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Requires the OOO compatibility patch 'kingdomofAlamar_OOO.esp' found here: "http://devnull.sweetdanger.net/mods/KingdomofAlmar_OOO.zip"
 kingdomofAlamar_OOO.esp
 Klarre Forestheart.esp
@@ -8820,7 +8820,7 @@ Kragenir's Death Quest.esp
 Kragenir's Death Quest Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
- IF (A93FE8B0|"KDQ - Rural Line Additions.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A93FE8B0|"KDQ - Rural Line Additions.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KTVH - Walking In The Shoes.esp
 
 300_White Stallion+SB23.esp
@@ -8844,7 +8844,7 @@ Burning Kvatch.esp
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH:Actors.AIPackages}}
- IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: 26 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
@@ -8868,7 +8868,7 @@ Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
 % {{BASH:Actors.AIPackages}}
- IF (6C91CBEB|"KvatchRising.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6C91CBEB|"KvatchRising.esp") DIRTY: 220 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Requires special edit to repair an incorrect script override.
 
 Gold Road Cottage - Classy.esp
@@ -8944,20 +8944,21 @@ OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also requires manual cleaning of a wild edit to the water height of cell (26, -42).
 GlenvarCastle Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SYS Patch Glenvar Castle.esp
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly-Cobl.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KragenirsDeathQuest-LetThePeopleDrink patch.esp
 
 Leyawiin Castle & Guilds Upgrade.esp
@@ -9120,7 +9121,8 @@ mrSiikas_BetterPorts_Seagulls.esp
 MTCRiverShackv1.2.esp
 " Better Cities Bravil. Already included as part of Better Cities.
 ? Needs compatibility patch when used with Unique Landscapes Bravil Barrowfields.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 94 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also needds manual cleaning of a  deleted static record for 0008060C and one wild edit in CELL 0002FF46 (Bravil Skooma Den).
 00MTCBravilHorses.esp
 MTCDarelothsHouse.esp
 MTCGlarthirsHouse.esp
@@ -9289,7 +9291,7 @@ Pats Business Mod.esp
 ^ Use the Better Cities version instead.
 Pats Business Mod BC.esp
 PearlFarm.esp
- IF (590DE30D|"PearlFarm.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (590DE30D|"PearlFarm.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
 Peruggia's Passage.esp
@@ -9437,10 +9439,9 @@ RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
 Ruins of Tarnesia.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 % {{BASH:NpcFaces}}
 ? Has a small landscape conflict with Unique Landcapes: Chorrol Hinterland.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 4440 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Also requires manual cleaning.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
@@ -9525,7 +9526,7 @@ ShadySamFence.esp
 Sheogorad.esp
 Sheogoraths_Accords_of_Madness.esp
 % {{BASH:Actors.ACBS, Actors.Stats, Invent}}
- IF (C7AFC21D|"Sheogoraths_Accords_of_Madness.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C7AFC21D|"Sheogoraths_Accords_of_Madness.esp") DIRTY: 98 ITM, 71 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
@@ -9643,7 +9644,7 @@ DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
 Stroti Tribute.esp
 sunk ships.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 135 ITM, 34 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shield of the Gods v0.82.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -9746,7 +9747,7 @@ TempleOfZealots.esp
 TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
@@ -9810,11 +9811,11 @@ Vibliribland-4492-The_Tower_of_the_Lich_King.esp
 The_Tower_of_the_Lich_King_1C.esp
 
 TheElderCouncil.esp
- IF (763FC748|"TheElderCouncil.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (763FC748|"TheElderCouncil.esp") DIRTY: 274 ITM, 192 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheElderCouncil Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TheElderCouncil_TempleOfTheOne.esp
- IF (5BEE0900|"TheElderCouncil_TempleOfTheOne.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5BEE0900|"TheElderCouncil_TempleOfTheOne.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elder Council Plugin 1.1.esp
 EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
@@ -9965,7 +9966,7 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 \BeginGroup\: Quests V
 
 Valenwood Improved.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 173 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valley_View_Estate.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Valley View Patch.esp
@@ -9987,7 +9988,7 @@ CV - Castle Dracula.esp
 Varlasel.esp
 Vassoul11.esp
 VaultsofCyrodiil.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 15 ITM, 58 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VaultsofCyrodiil_1C.esp
 VaultsofCyrodiilBC.esp
 VaultsOfTheAyleids.esp
@@ -10015,7 +10016,7 @@ OCC-Verona-Patch.esp
 OCR + Verona Patch.esp
 
 Apachii_Goddess_Store.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -10047,8 +10048,8 @@ WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
 Waterfront Shack.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Requires special cleanup - has several NULL form deletions to remove.
+? 1 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Requires manual cleaning - has 15 NULL form deletions to remove. See special instructions in cleaning guide.
 WaterlilyCottage1.esp
 WaterloggedTower.esp
 WaterSphere.esp
@@ -10129,7 +10130,7 @@ Cyrodiil Travel Services Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 FrbitTravel.esp
 Fairies.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 62 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
 \EndGroup\\
@@ -10239,7 +10240,7 @@ fpsboost-arenanolights.esp
 \-----
 
 DLCBattlehornCastle.esp
- IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
@@ -10291,7 +10292,7 @@ $ Delete 'Lynges Thieves Highway.esp and use this instead.
 
 DLCFrostcrag.esp
 % {{BASH:C.Name, C.Owner, Factions}}
- IF (2A7665FB|"DLCFrostcrag.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2A7665FB|"DLCFrostcrag.esp") DIRTY: 73 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
@@ -10366,7 +10367,7 @@ Ulrim's Horses - Vanilla.esp
 
 Knights.esp
 % {{BASH:Actors.AIPackages, Factions, Relations}}
- IF (F1F478FA|"Knights.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F1F478FA|"Knights.esp") DIRTY: 121 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Knights - Book Jackets.esp
 % {{BASH:Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -10485,7 +10486,7 @@ ROM Patch - Bobs Armory.esp
 
 Cybiades.esp
 ? Do not use the (same name) compatible esp for UL:Lost; Update to the latest UL:Lost Coast.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CybiadesDungeon.esp
 cybCrashFix.esp
 CybEasier.esp
@@ -10513,7 +10514,7 @@ TOTF Delayer.esp
 
 Ruined Tale 3.0.esp
 RTT.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 32 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather - Ruined Tail's Tale Patch.esp
 RTT RR Lake Rumare Patch.esp
 ? Obsolete. Use RTT-Weye Relocation Patch.esp instead.
@@ -10546,7 +10547,7 @@ TOSlod_Built.esp
 
 CUO_Bravil.esp
 \Needs to be here for compatibility with Lost Spires
- IF (A1A0CAA2|"CUO_Bravil.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A1A0CAA2|"CUO_Bravil.esp") DIRTY: 42 ITM, 729 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
  IF (5B6ADFB3|"The Lost Spires.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10561,6 +10562,7 @@ The Lost Spires Vwalk.esp
 
 SoT_TheOrderofNibenay.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Also requires manual cleaning of a number of wild path grid edits. 
 LostSpires_TheOrderofNibenay_patch.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs Wrye Bash's "Remove World Orphans" function run on it.
@@ -10592,30 +10594,30 @@ Ungarion1TheWelkyndSword.esp
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 36 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 Blood&Mud Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
 Lost Paladins of the Divines.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 6 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Origin of the Mages Guild.esp
 % {{BASH:Actors.AIPackages, Relations}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
- IF (0440FF00|"Origin of the Mages Guild.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (0440FF00|"Origin of the Mages Guild.esp") DIRTY: 173 ITM, 383 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Mystery of the Dulan cult.esp
 >: 'FCOM_DulanCult.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 4569 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TheNecromancer.esp
- IF (06798B41|"TheNecromancer.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (06798B41|"TheNecromancer.esp") DIRTY: 108 ITM, 178 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -10808,7 +10810,7 @@ RimmenMMM.esp
 BeyondCyrodiil-Camps.esp
 BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 224 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 ElsweyrValenwoodImprovedPatch.esp
@@ -11025,7 +11027,7 @@ Reaper's Coldstone Town.esp
 Reaper's Coldstone Town Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Reaper's Waterfront.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 14 ITM, 60 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 runestone.esp
 
 SacredOak_Settlement.esp
@@ -11084,12 +11086,12 @@ Chorrol Jewelry Company.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Bruma.esp
 % {{BASH:Invent}}
- IF (79E62DCD|"CUO_Bruma.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (79E62DCD|"CUO_Bruma.esp") DIRTY: 11 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 : Kvatch Aftermath Bruma Features - disable them.
 CUO_Chorrol.esp
- IF (A7AF03A3|"CUO_Chorrol.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A7AF03A3|"CUO_Chorrol.esp") DIRTY: 29 ITM, 468 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CUO_Leyawiin.esp
- IF (FF5FEEE3|"CUO_Leyawiin.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FF5FEEE3|"CUO_Leyawiin.esp") DIRTY: 47 ITM, 417 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 ReclaimSancreTor.esp
@@ -11340,7 +11342,7 @@ Amen'thalasWellHouse-ArriusCreek patch.esp
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
 ? Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VillageOfLily-xulPatch_AYAC patch.esp
 HeartoftheDead-ArriusCreek patch.esp
 ColdstoneTown-ArriusCreek patch.esp
@@ -11414,7 +11416,7 @@ Brena River Ravine Daedric Shrine Ruins Patch.esp
 Gaelendryll-BrenaRiver patch.esp
 Gaelendryll - UL Brena River - Daedric Shrine Patch.esp
 NakedNord.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Also requires manual cleaning, 1 wild edit.
 
 xulImperialIsle.esp
@@ -11551,7 +11553,7 @@ LostSpiresImpeREALFortsPatch2.esp
 exhICMO.esp
 : Better/Open Cities IC Market District Components.
 West Roads.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 5 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ULSO+WestRoads Patch.esp
 ? Outdated - Update to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
@@ -11602,7 +11604,7 @@ Miscarcand Expanded.esp
 " The Ruins of Miscarcand.esp
 
 bartholm.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 211 ITM, 553 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bartholm-Panther River Patch.esp
 ? Obsolete. Remove this and update to the latest versions of Bartholm and UL Panther River.
 bartholm - EE patch.esp
@@ -11717,7 +11719,7 @@ Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
 % {{BASH:C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
@@ -11933,7 +11935,7 @@ AncientSource-ChorrolHinterland patch.esp
 ICTowerObservatory.esp
 
 FightersGuildContracts.esp
- IF (BB0D71D0|"FightersGuildContracts.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BB0D71D0|"FightersGuildContracts.esp") DIRTY: 28 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (JQ) Fighters Guild United.esp
 % {{BASH:Invent}}
 JQ-Fighters_Guild_United.esp
@@ -12791,7 +12793,7 @@ OBF Enchant Fix.esp
 OBF Magic Penalty Fix.esp
 OBF Shop Fix.esp
 Oblivifall - Ambiant Dungeon SFX.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
@@ -13403,7 +13405,7 @@ vn_goldweight.esp
 
 Wayshrine_Redesign.esp
 Wayshrines Improved.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WeaponAndStaffSpecs.esp
 Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp
@@ -13454,7 +13456,7 @@ Lore Creatures.esp
 >* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
 lorecreatures.esp
 >* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 36 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LCE-addon.esp
 ? If not using monster overhaul mods, use 'Lore Creatures.esp'.
 
@@ -13500,7 +13502,7 @@ Border Removal.esp
 
 The Complete Ranger.esp
 Shadow Ranger.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
@@ -15267,7 +15269,7 @@ Legendary Abilities-Fortify Health MOJ.esp
 ? Use only one 'Legendary Abilities' mod module.
 Legendary Abilities-Reflect MOJ.esp
 ? Use only one 'Legendary Abilities' mod module.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Nanite's Legendary Alchemy.esp
 Grandmaster of Alchemy.esp
@@ -16569,7 +16571,7 @@ cssJaKhaiitMyr.esp
 
 \BeginGroup\: Vilja Companion
 1em_Vilja.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_Neck_Seam_Concealer.esp

@@ -2129,6 +2129,8 @@ MoreMoldyIngredients&Vegeteables.esp
 ? do not use 'Q - More and Moldy Ingredients v1.1.esp' and 'More_vegetables.esp' with this; this replaces those two esps.
 Q-Core - Icons.esp
 ? German version?
+Qarl's Harvest 1.1.esp
+? 8 ITM and 105 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Qarls_Harvest.esp
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
@@ -2137,6 +2139,7 @@ TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Outdated. Update to V3+.
 QQuix - Rock, rock, rock your ship - V3.esp
+? 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 \EndGroup\\
 
@@ -4205,7 +4208,9 @@ NexonsArmory.esp
 NexonsArmoryENG.esp
 NexonsArmoryGER.esp
 Nicoroshi Creations DW Light.esp
+ IF (3F5B9AB5|"Nicoroshi Creations DW Light.esp") DIRTY: 5 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nicoroshi Creations DW heavy.esp
+ IF (99B70AED|"Nicoroshi Creations DW heavy.esp") DIRTY: 1 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nico's Daes' Rakan Swords.esp
 Nico's  Daes' Rakan Swords.esp
 Nicos Dread Doomshard Bow.esp
@@ -5399,6 +5404,8 @@ A_Dremora_Armor_for_you-7602.esp
 Platinum Armor and Weapons.esp
 RobertsFemaleShirt07.esp
 UFF Collection.esp
+Dark Illusion Armour (HGEC Version).esp
+? 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Dragon Claw Sword And Shield.esp
 Pegasus Armor Set.esp
@@ -6169,7 +6176,7 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 $ For non-OOO users. Remove this and use 'ArmamentariumLL4OOO.esp'.
 Choices and Consequences - OOO.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 0 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR - OOO.esp
 ? Obsolete. Update to latest version.
 
@@ -6734,6 +6741,7 @@ OWC - TGPatch.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
 \EndGroup\\
+
 \BeginGroup\: Tamriel Travellers.
 \'''''''''''''''''''
 
@@ -7123,6 +7131,7 @@ WAC - Dead Knights Fix.esp
 % {{BASH:Relations}}
 WAC - Player Summons.esp
 WAC - Birds&Insects.esp
+? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Companions.esp
 % {{BASH:Factions}}
 WAC - Horses.esp
@@ -8149,7 +8158,7 @@ DarkLair.esp
 DarkLight Mithril Armor.esp
 Darklore Manor_V2.esp
 DarknessHollows.esp
-? 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A81A605C|"DarknessHollows.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DarknessHollows Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 DarkstarTower.esp
@@ -10315,6 +10324,7 @@ DLCFrostcrag_MysticEmporiumPatch.esp
 brumaguild.esp
 Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
+? 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCBruma+BrumaMGRestored Patch.esp
 BrumaMGRestored Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
@@ -10323,6 +10333,7 @@ BrumaMGRestored Swalk.esp
 BrumaMGRestored Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 BrumaMGRestored-Frostcrag.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Frostcrag Addon.esp
 FrostcragBetterFamiliars.esp
 Frostcrag For Busy People.esp
@@ -11074,6 +11085,8 @@ WatersEdgeImproved.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs Wrye Bash "Remove World Orphans" fix.
 Wellspring Vale.esp
+Wellspring Vale COBL.esp
+? 2 ITM, 134 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Woodelvendon.esp
 
 \EndGroup\\
@@ -12073,6 +12086,8 @@ AC's realistic priced clutter.esp
 Accessing TG after Heist 1.1-TESSource.esp
 Ace_TorchlightRadiusIncrease.esp
 Actual Oblivion Crisis.esp
+Addendum - Diabloblivion.esp
+ IF (D6814DD|"Addendum - Diabloblivion.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
 ANB_WeaponAddons_Enhanced.esp
@@ -12793,7 +12808,7 @@ OBF Enchant Fix.esp
 OBF Magic Penalty Fix.esp
 OBF Shop Fix.esp
 Oblivifall - Ambiant Dungeon SFX.esp
-? 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CBB991E4|"Oblivifall - Ambiant Dungeon SFX.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Closing Time.esp
 Oblivifall - Let's Talk!.esp
 Oblivifall - New Classes.esp
@@ -15403,6 +15418,7 @@ handk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 SeductiveIdle.esp
 SeductiveIdles.esp
+? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Idle Pose Replacer.esp
 Idle Stance Replacer.esp
 actors_in_charge.esp
@@ -16571,7 +16587,7 @@ cssJaKhaiitMyr.esp
 
 \BeginGroup\: Vilja Companion
 1em_Vilja.esp
-? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CBB991E4|"Oblivifall - Ambiant Dungeon SFX.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_Neck_Seam_Concealer.esp

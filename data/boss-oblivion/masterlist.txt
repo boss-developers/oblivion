@@ -13,20 +13,20 @@
 \  * Don't duplicate lines using different syntaxes. A line only needs to be written in one syntax.
 \  * As the majority of BOSS users use versions that only support MF1, write in that where possible. 
 \
-\ Comment Type						Symbol	Description
+\ Comment Type				Symbol		Description
 \ =====================================================================
-\ Silent comment					\		A silent comment, ignored by BOSS.
-\ General comment					?		A general comment for the mod above.
-\ Bash Tag suggestion				%		A Bash Tag suggestion for the mod above.
-\ Requirement						:		An installation requirement for the mod above.
-\ Incompatibility					"		A specific incompatibility for the mod above.
-\ OOO-specific comment				$		A comment that is only displayed if OOO is installed.
+\ Silent comment			\		A silent comment, ignored by BOSS.
+\ General comment			?		A general comment for the mod above.
+\ Bash Tag suggestion			%		A Bash Tag suggestion for the mod above.
+\ Requirement				:		An installation requirement for the mod above.
+\ Incompatibility			"		A specific incompatibility for the mod above.
+\ OOO-specific comment			$		A comment that is only displayed if OOO is installed.
 \ Better Cities-specific comment	^		A comment that is only displayed if Better Cities is installed.
 \ Critical FCOM install error		>*		Prints an error message if FCOM is installed.
 \
 \ The symbol is followed by a space then the message string.
 \
-\ Conditional Type				Symbol	Description
+\ Conditional Type			Symbol		Description
 \ ===================================================================================
 \ FCOM-installed line			>		Only parses the line if FCOM is installed.
 \ FCOM-not-installed line		<		Only parses the line if FCOM is not installed.

@@ -1685,7 +1685,7 @@ Clamrespawn.esp
 
 ClocksOfCyrodiil.esp
 ? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (06910C69|"ClocksOfCyrodiil.esp") DIRTY: 46 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ClocksOfCyrodiilBC.esp
 ? Deactivate CLocksOfCyrodiil.esp
 ? Obsolete. Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
@@ -9269,10 +9269,12 @@ NNWARE Series 1.esp
 ? Obsolete. Upgrade to the latest version and delete this.
 ? 20 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWAREAyleidDungeons_Series1EV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWAREAyleidDungeons_Series1DV.esp
 NNWAEDungeons-Series2EV.esp
 NNWAEDungeons-Series2DV.esp
 NNWARE06-RhyeliaEmeroEV.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWARE06-RhyeliaEmeroDV.esp
 NNWARE01EV-Sercen.esp
 ? Obsolete. Update to series 2+.
@@ -9946,7 +9948,7 @@ TR_Stirk_v0.9.esp
 ? Obsolete beta. Need to update to released version.
 TR_Stirk.esp
 % {{BASH:Graphics}}
- IF (BAEEF8CF|"TR_Stirk.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BAEEF8CF|"TR_Stirk.esp") DIRTY: 7 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TR_Stirk Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge }}
 Stirk_Compatibility_Patch.esp
@@ -10694,7 +10696,7 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH:C.Owner, Factions}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1FAC2B9A|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -10730,6 +10732,7 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
@@ -11626,7 +11629,7 @@ LostSpiresImpeREALFortsPatch2.esp
 exhICMO.esp
 : Better/Open Cities IC Market District Components.
 West Roads.esp
-? 5 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EDE05E56|"West Roads.esp") DIRTY: 5 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ULSO+WestRoads Patch.esp
 ? Outdated - Update to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp

@@ -823,7 +823,7 @@ MrSiikaRabbits.esp
 
 >Francesco's Optional Chance of Stronger Bosses.esp
 >Francesco's Optional Chance of Stronger Enemies.esp
->? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF ($FCOM) && IF (4F003DB0|"Francesco's Optional Chance of Stronger Enemies.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >Francesco's Optional Chance of More Enemies.esp
 >Francesco's Optional Leveled Quests-SI only.esp
 >Francesco's Optional Leveled Quests-SI-only.esp
@@ -1186,7 +1186,7 @@ Symphony of Violence.esp
 Echo_ChapelChant.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AmbientTownSounds.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+IF (130E1D68|"AmbientTownSounds.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ambient Inns, 0.1.esp
 MIS.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5798,7 +5798,7 @@ Francesco's More Wilderness Life.esp
 >* Delete. Not compatible with FCOM.
 <Francesco's Optional Chance of Stronger Bosses.esp
 <Francesco's Optional Chance of Stronger Enemies.esp
-<? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IFNOT ($FCOM) && IF (4F003DB0|"Francesco's Optional Chance of Stronger Enemies.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional Dungeon Chest Loot.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Dungeon Chest Locks.esp
@@ -10696,7 +10696,6 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH:C.Owner, Factions}}
- IF (1FAC2B9A|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp

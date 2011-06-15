@@ -4477,7 +4477,7 @@ SedaArmor.esp
 Seductress Armour.esp
 semi_precious_stones.esp
 SentientWeapon.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A4E3D11B|"SentientWeapon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
 Serentin Vampire Armors.esp
@@ -4947,7 +4947,7 @@ BleachOverhaul.esp
 GuardTrinkets.esp
 Thieves Arsenal.esp
 : OBSE.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2DE5B6D1|"Thieves Arsenal.esp") DIRTY: 368 ITM, 1216 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thieves_Arsenal_Patch_033010.esp
 Knock Out Arrows.esp
 Extinguish the Lights.esp
@@ -5928,6 +5928,7 @@ PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
+ IF (DE136AF6|"Bob's Armory Oblivion.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
 Bob's Armory OblivionRU.esp
@@ -6263,7 +6264,7 @@ $ If you are running only OOO, but not MMM or FCOM, keep this installed.
 OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
-? 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AB61AA5A|"OBSE-Storms & Sound SI.esp") DIRTY: 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 MALO - Clutter Replacer.esp
 MALO - Vendor Additions.esp
@@ -6781,7 +6782,7 @@ TamrielTravellers4000.esp
 >: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
 >: 'FCOM_TamrielTravelers.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2CB068DB|"TamrielTravellers4OOO.esp") DIRTY: 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
@@ -10091,7 +10092,7 @@ Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Apachii_Heroes_Store.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F3976680|"Apachii_Heroes_Store.esp") DIRTY: 2 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
@@ -10531,7 +10532,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
 ? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
-? Use version 1.01 "http://tesnexus.com/downloads/download.php?id=29355" for Bashed Patch
+? Recommended to use version 1.02 or greater: "http://www.tesnexus.com/downloads/file.php?id=19203"
 % {{BASH:Deactivate, Stats, NoMerge}}
 MOBS DLCs.esp
 % {{BASH:Stats, NoMerge}}

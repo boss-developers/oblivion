@@ -13,16 +13,16 @@
 \  * Don't duplicate lines using different syntaxes. A line only needs to be written in one syntax.
 \  * As the majority of BOSS users use versions that only support MF1, write in that where possible. 
 \
-\ Comment Type				Symbol		Description
+\ Comment Type                      Symbol      Description
 \ =====================================================================
-\ Silent comment			\		A silent comment, ignored by BOSS.
-\ General comment			?		A general comment for the mod above.
-\ Bash Tag suggestion			%		A Bash Tag suggestion for the mod above.
-\ Requirement				:		An installation requirement for the mod above.
-\ Incompatibility			"		A specific incompatibility for the mod above.
-\ OOO-specific comment			$		A comment that is only displayed if OOO is installed.
-\ Better Cities-specific comment	^		A comment that is only displayed if Better Cities is installed.
-\ Critical FCOM install error		>*		Prints an error message if FCOM is installed.
+\ Silent comment                    \           A silent comment, ignored by BOSS.
+\ General comment                   ?           A general comment for the mod above.
+\ Bash Tag suggestion               %           A Bash Tag suggestion for the mod above.
+\ Requirement                       :           An installation requirement for the mod above.
+\ Incompatibility                   "           A specific incompatibility for the mod above.
+\ OOO-specific comment              $           A comment that is only displayed if OOO is installed.
+\ Better Cities-specific comment    ^           A comment that is only displayed if Better Cities is installed.
+\ Critical FCOM install error       >*          Prints an error message if FCOM is installed.
 \
 \ The symbol is followed by a space then the message string.
 \
@@ -34,8 +34,7 @@
 \ Conditionals can be put before any mod or message line, and the line will only be processed if the conditional is true. 
 \ The critical FCOM install error message type already includes the FCOM-specific conditional, so you don't need to add another.
 
-\Masterlist variable setup. For BOSS v1.7+.
-\Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
+\ Masterlist variable setup for BOSS v1.7+.
  IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
  IF ("Better Cities Resources.esm") SET: BC
  IF ("FCOM_Convergence.esm") SET: FCOM
@@ -15527,7 +15526,7 @@ Stylish Jump.esp
 Slof's Sexy Anims.esp
 Specialanims.esp
 Steeltooth_Playeranimations.esp
-% PPBASH:Actors.Anims}}
+% {{BASH:Actors.Anims}}
 UChainBeast.esp
 zzEstrus.esp
 walklikesheo.esp
@@ -17288,7 +17287,7 @@ Lyn-Summon10.esp
 New Spell Icons - Final.esp
 Night_Eye_Toggle-2666.esp
 PMSneakySummonCompatibility.esp
-: BASH for proper use
+: Wrye Bash for proper use
 % {{BASH:IIM, Filter, Invent, Deactivate}}
 Shads Spellbook.esp
 Stealthier Magic.esp

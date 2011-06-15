@@ -7149,6 +7149,7 @@ WAC - Dead Knights.esp
 WAC - Dead Knights Fix.esp
 % {{BASH:Relations}}
 WAC - Player Summons.esp
+ IF (77FF1D67|"WAC - Player Summons.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Birds&Insects.esp
 ? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Companions.esp
@@ -9061,6 +9062,7 @@ Lilarcor.esp
 Mount Archon.esp
 Mara's Tower.esp
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
+ IF (2AA7F42A|"M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
 MadHouseV12.esp
 Mad Mages Manor.esp
@@ -9453,7 +9455,7 @@ RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
 ? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4D8FA617|"Region Revive - Lake Rumare.esp") DIRTY: 0 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -9935,11 +9937,16 @@ Topal Bay Camp.esp
 TQ1-loveletters.esp
 tq3-Blood-and-Gold.esp
 Trail  South East.esp
+ IF (4069ED03|"Trail  South East.esp") DIRTY: 109 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  WEST.esp
+ IF (4AC3EAB9|"Trail  WEST.esp") DIRTY: 160 ITM, 22 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  EAST.esp
+ IF (9682CAFF|"Trail  EAST.esp") DIRTY: 85 ITM, 37 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  Central.esp
+ IF (25B95DA0|"Trail  Central.esp") DIRTY: 112 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trails of Cyrodiil -  Colovian Highland Vanilla.esp
 Trails of Cyrodiil North Short Cut.esp
+ IF (B1DA95E5|"Trails of Cyrodiil North Short Cut.esp") DIRTY: 9 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TrainerFind.esp
 Tramps.esp
 % {{BASH:Relev}}
@@ -11237,6 +11244,7 @@ ThievesGrotto-ColovianHighlands patch.esp
 DwarvenMines-ColovianHighlands patch.esp
 OWC - ND UL Colovian Highlands Patch.esp
 Trails of Cyrodiil - Colovian Highlands UL.esp
+ IF (C5EBDE40|"Trails of Cyrodiil - Colovian Highlands UL.esp") DIRTY: 109 ITM, 64 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 xulChorrolHinterland.esp
 Unique Landscapes - ChorrolHinterland DV.esp
@@ -12733,6 +12741,7 @@ M.O.E. - Travel Services.esp
 M.O.E. - Lucien Lachance Rumors Fix.esp
 M.O.E. - Icons for Mythic Dawn Armour - Fix.esp
 M.O.E. - Lycanthropy and Lichcraft.esp
+ IF (412CBB2C|"M.O.E. - Lycanthropy and Lichcraft.esp") DIRTY: 61 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 M.O.E. - Realistic Prices, Realistic Weights, No Quest Items.esp
 ? May cause unexpected results with Living Economy, Fran's, OOO, MMM and/or FCOM.
 ? May cause some quest items to revert to vanilla stats when using overhaul mods. Will not remove quest status from non-vanilla quests.
@@ -12995,6 +13004,7 @@ ReneersTrainingMod.esp
 ReneerShipMod.esp
 ResizedPassivenQuiet.esp
 Respawning Varla & Welkynd Stones.esp
+ IF (49328AE8|"Respawning Varla & Welkynd Stones.esp") DIRTY: 0 ITM, 727 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Retros Fletching and Imbueing.esp
 ? May not be compatible with MMM crafting - untested.
 Retros Fletching and Imbueing 1.7.1_rus.esp
@@ -13008,6 +13018,7 @@ RTSOblivionNoCorpses.esp
 RTSWelkyndClstrTreasure.esp
 Rowboats.esp
 ? Removes border region limmitation too.
+ IF (4CFABD99|"Rowboats.esp") DIRTY: 3 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Leyawin Bridge.esp
 ? Part of the Rowboats mod.
 Rune Stones!.esp
@@ -13157,6 +13168,7 @@ sgLighterQuiversOOO.esp
 Shadowcrans Bag&Keychain merger.esp
 Sharp Axes.esp
 SetsunaDummyTraining.esp
+ IF (7718C0CE|"SetsunaDummyTraining.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sexual_Spriggan.esp
 ? obselete get Oblivion Sexualized Monsters.esm and OSM-All Genders.esp instead.
 Sexual_Minotaur.esp

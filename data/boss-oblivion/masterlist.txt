@@ -539,6 +539,8 @@ CSCP.esp
 Beautiful Amazon.esp
 : Oscuro's_Oblivion_Overhaul.esm, Beautiful People 2ch-Ed.esm
 % {{BASH:NpcFaces, NoMerge}}
+BeautifulJensine.esp
+% {{BASH:NpcFaces, NoMerge}}
 Prettier Vampire Faces.esp
 % {{BASH:NpcFaces, NoMerge}}
 \EndGroup\\
@@ -3256,6 +3258,7 @@ AxiomSpellTomesBeta1.esp
 
 BAB Cold Steel.esp
 BABnecklacesbykalikut.esp
+Bad Lady.esp
 Badmagic Chrome Dwarven.esp
 Badmagic Crusader.esp
 Badmagic Red Ebony - Ebony Strength.esp
@@ -3397,6 +3400,7 @@ Captain_Molly_HGEC.esp
 CarsomyrSword.esp
 Catsuit.esp
 CB Dark Enchantress.esp
+CB Elegant Dress.esp
 CB Gothic Mistress.esp
 CheatsBook.esp
 CheeseCutter.esp
@@ -3902,6 +3906,7 @@ HentaiSeraphimArmour.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 Hentai Recolours.esp
+Hentai Armors Retextured.esp
 
 HGEC Boots.esp
 HGEC Evening Dress.esp
@@ -4227,6 +4232,8 @@ Nazrin-Clothes.esp
 Necessary Violence.esp
 Neckerchiefs v1.2.esp
 Neck Seam Concealers Expanded.esp
+Neck Seam Concealers Expanded DD.esp
+Neck Seam Concealers Expanded LL Amulets Only SI.esp
 NecroArmour.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
@@ -4903,6 +4910,7 @@ BisSP_RHH_2.esp
 VipCxjHHTest.esp
 BisSP_Real_High_Heels.esp
 Viro's Kung Fu Set.esp
+VoidArmour.esp
 Vvardenfell_Imports.esp
 OC+Imports Patch.esp
 VypersStealthArmors.esp
@@ -5260,6 +5268,7 @@ DarkRoseSet.esp
 Diannes UFF Daedric Casual Attire.esp
 DFSLoutfits.esp
 DM Outlaw armor_EN.esp
+DM Outlaw armor_RU.esp
 DMRA Stock Clothing Replacer.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -5395,6 +5404,7 @@ R18PN - Fiona Armor.esp
 R18PN - FuruFuru Armor.esp
 R18PN - Heilige Mutter Armor.esp
 R18PN - Lingeries.esp
+R18PN - Lingeries Plus.esp
 R18PN - Lingeries UU Patch.esp
 R18PN - Leere Armor.esp
 R18PN - Mina Armor.esp
@@ -16618,6 +16628,7 @@ CM Legolas.esp
 CM Partner Autumn.esp
 CM Partner Kim Kardashian.esp
 CM PARTNER KITTY SNOW.esp
+CM Partner Kyrie.esp
 CM PARTNER LOLA.esp
 CM Partner May.esp
 CM PARTNER NICOLE.esp
@@ -16886,6 +16897,8 @@ DAEluna.esp
 % {{BASH:Hair, Eyes}}
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
 DAJadeTabaxi.esp
+% {{BASH:Hair, Eyes}}
+DAJadeWhite.esp
 % {{BASH:Hair, Eyes}}
 GGIlli.esp
 : OBSE 17+, Underdark: The Realm of Northdark.

@@ -680,7 +680,7 @@ Oblivion_Deutsch_v5_0.esp
 \---------------
 
 DLCShiveringIsles.esp
-? For russian version GOTY please move this esp before Unofficial Oblivion Patch.esp (for UOP quest fixes).
+? If using the russian GOTY edition, move this plugin before 'Unoffical Oblivion Patch.esp' to allow the UOP to make its quest fixes.
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH:Names}} or without Bash load it later.
@@ -689,7 +689,7 @@ FormIDReferenceBugFix.esp
 FormID_Reference_Bug_Fix.esp
 ? Outdated. Included in Unofficial Shivering Isles Patch 1.4+
 Unofficial Shivering Isles Patch.esp
-? When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
 % {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
@@ -1080,6 +1080,7 @@ Weather Debug Spammer.esp
 
 Immersive Interiors.esp
 : All Natural - For the transparent windows and the ESM file.
+% {{BASH: C.Water}}
 Immersive Interiors - Lights Addon.esp
 Immersive Prison sewer exit.esp
 
@@ -2931,19 +2932,21 @@ Grimbots_Spell_Tomes.esp
 \Load early.
 \Robert's Male Body Replacer has problems with race mods and patches are needed.
 
-Nude.esp
-Nude Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
-LeoGoBezerk_MakeItPorn_UA_v100.esp
-JuvenileMod.esp
-EshmesBodiesV2.esp
-ExnemEyeCandy.esp
-EyeCandy Compilation.esp
-% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
 Bab.esp
 % {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
 Bodybuilder Body.esp
 % {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F}}
+EVE_StockEquipmentReplacer.esp
+% {{BASH:Graphics, NoMerge}}
+? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
+EshmesBodiesV2.esp
+ExnemEyeCandy.esp
+EyeCandy Compilation.esp
+% {{BASH:Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
+HGEC_special_armor_repl.esp
+% {{BASH:Graphics, NoMerge}}
+JuvenileMod.esp
+LeoGoBezerk_MakeItPorn_UA_v100.esp
 MaleBodyReplacerV3.esp
 % {{BASH:Body-M, Body-Size-M}}
 Male Body Replacer v 3.esp
@@ -2955,17 +2958,14 @@ Male Body Replacer.esp
 MaleBodyReplacer.esp
 % {{BASH:Body-M, Body-Size-M}}
 MaleBodyReplacerV5Beta.esp
-TFF_Races_Base_RSM.esp
-TFF_FantasyFigures_Base.esp
 NordFemaleMuscles.esp
 % {{BASH:Body-F, Body-Size-F}}
+Nude.esp
+Nude Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
+TFF_Races_Base_RSM.esp
+TFF_FantasyFigures_Base.esp
 Underworld Vampires.esp
-
-EVE_StockEquipmentReplacer.esp
-% {{BASH:Graphics, NoMerge}}
-? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
-HGEC_special_armor_repl.esp
-% {{BASH:Graphics, NoMerge}}
 VORB_HGEC_special_armor_repl.esp
 % {{BASH:Graphics, NoMerge}}
 \EndGroup\\
@@ -3247,6 +3247,7 @@ Angeleron.esp
 Ageha Tortured Soul HGEC.esp
 AGEHA Tortured Souls.esp
 % {{BASH:Delev, Relev}}
+A Very Silly Slaughterfish Mod.esp
 AxiomSpellTomes1.esp
 AxiomSpellTomes2.esp
 AxiomSpellTomesBeta1.esp
@@ -3745,6 +3746,7 @@ FineWeapons.esp
 % {{BASH:Graphics}}
 FinGleamRing.esp
 FireCircle_1C.esp
+fishclub.esp
 flamberg.esp
 Flamboyant Hat_SI.esp
 Forestlight Armor.esp
@@ -5146,20 +5148,119 @@ Weapon Collection.esp
 \Stuff for use with body replacers.
 \VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH:Graphics}} to keep their new look.
 
+0FDemonSet.esp
+300_Brocade_Outfits.esp
+
+A_Dremora_Armor_for_you-7602.esp
+Accompt of the Delitescent.esp
 All Manly.esp
 % {{BASH:Graphics, NoMerge}}
-StockClothingArmor-forExnems.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
-StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
-LC-Compilation-Exnem.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
-LC-Legion-Exnem.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
-LC-Dragon-Exnem.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
-New Exnem Compatible Armors.esp
-% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+ANBMiniMicroBikini.esp
+Arctic Gear Improved.esp
+ares-Exnem.esp
+Armamentium female.esp
+% {{BASH:Graphics, NoMerge}}
+Armor-Clothing-Weapons Merger.esp
+% {{BASH:Graphics, Invent, Delev, Relev}}
+ArynnsDrowWitchHGEC.esp
+Arynns-Heavenly-Sword_HGEC-sexy.esp
+Arynns-Heavenly-Sword_Exnem-sexy.esp
+AT2 01-Shiki Armor Set v1_0.esp
+AT2 01-Shiki Armor Set.esp
+AT2 02-Shiki Armor Set.esp
+
+Babarized AleanneGlass.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized AlienSlofsClaws.esp
+Babarized ArchmageBattleArmour.esp
+Babarized ArmorOfGaia.esp
+Babarized ArynnsChest.esp
+Babarized AtronachsPrize.esp
+Babarized BlackLuster&SaintArmor.esp
+Babarized BladesCeremonialArmor.esp
+Babarized BraidedBattleDressSets.esp
+Babarized BrashLeatherArmors.esp
+Babarized CompleteMagePack.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized Cryos Ordinator Lite.esp
+Babarized DarkIllusionArmor.esp
+Babarized DeceiverArmour.esp
+Babarized DiverseImperialArmor.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized DreadweaveArmor.esp
+Babarized DunmerScaleMail.esp
+Babarized ElegantVests.esp
+Babarized EternalDragonArmor.esp
+Babarized ExnemShadowSilk.esp
+Babarized ExnemRogueOutfits.esp
+Babarized ExnemWarrior.esp
+Babarized FjotreidsArmor.esp
+Babarized ForestHeart.esp
+Babarized GCDrapedGowns.esp
+Babarized GlassArmorPack.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized HadesGoWaoHFSets.esp
+Babarized HalcyonArmor.esp
+Babarized KSitems.esp
+Babarized Loths.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized Loths2.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized MysticMage.esp
+Babarized NobleSets.esp
+Babarized RareTradeGoods.esp
+Babarized RegionalLegionSoldiers.esp
+% {{BASH:Graphics}} if using overhaul mods.
+Babarized RoseArmors.esp
+Babarized SatansDragonSkin.esp
+Babarized SatansElvenPrincess.esp
+Babarized SatansRogueSorceress.esp
+Babarized SauronArmorChest.esp
+Babarized SecuraOutfits.esp
+Babarized SinbloodWidowDress.esp
+Babarized SinsExpanded.esp
+Babarized SlofsAndRings.esp
+Babarized TemplarArmor.esp
+Babarized TownCeremonialArmors.esp
+Babarized VADaedricPriestessArmor.esp
+Babarized VellasArmor.esp
+Babarized WitchesFrock.esp
+Babarized WizardWear.esp
+BAB & RM Assassin Elite Armor.esp
+BABCeltic Witch Robes.esp
+Battle China Dress.esp
+BisPainBringerMale.esp
+Black Courtesan Dress.esp
+Blackmarsh_Witch_HGEC.esp
+Blackmarsh_Witch_HGEC_Clothing.esp
+BlackRogue.esp
+Blood Elves and Egyptian Armors for Exnems body.esp
+Blood Illusion and Arcania armors for Exnem's body.esp
+Blood Mage.esp
+Break_ESalor__and_LingerieSet.esp
+
+CrimsonEyeCandy.esp
+Crimson Eyecandy White.esp
+CB Classy Dress.esp
+Chrome Amazon Armor.esp
+% {{BASH:Graphics}}
+CDM-Assassin Robes Renamed.esp
+Colourwheels Sexy Stock Armor & Clothing Replacer.esp
+% {{BASH:Graphics}}
+Colourwheels Sexy SI Armor & Clothing Replacer.esp
+% {{BASH:Graphics}}
+
+Daedric Lord Armor.esp
+DarkFlameSwordAndShield_v10_FIXED_ESP.esp
+Dark Illusion Armour (HGEC Version).esp
+? 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+darkrosearmor.esp
+Dark Rose Armor.esp
+Dark Rose Armor Rus.esp
+DarkRoseSet.esp
+Diannes UFF Daedric Casual Attire.esp
+DFSLoutfits.esp
+DM Outlaw armor_EN.esp
 DMRA Stock Clothing Replacer.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -5174,10 +5275,198 @@ DMRA  Skimpy Armor Expanded.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Robe Skimpy Replacer.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
+Dollparts' Wild Flower Corsets of Cyrodiil.esp
+Dragonbone Armor Set.esp
+Dragon Claw Sword And Shield.esp
+Dragon Princess.esp
+Double Crimson HGEC.esp
+
+EC_BlackDeathWarrRetex.esp
+Elegance_HGEC.esp
+Elven Armours.esp
+Emerald armor for Exnem body.esp
+exhoffhandseries_1.0.esp
+Exnem_Assassin_Armor.esp
+Exnem_Chaindress1.esp
+ExnemEC_Rogue01.esp
+ExnemEC_Warrior01.esp
+Exnem Elven Warrior.esp
+ExnemEyeCandy_RTFem.esp
+Exnem_Goddess_Armor.esp
+Exnem_Golden_Assassin_Armor.esp
+Exnem Leather-Iron Warrior.esp
+Exnem Leather Iron Warrior.esp
+ExnemWarriorBikini.esp
+ExnemZorlackArmory.esp
+ExWearUndies.esp
+
+FB_DC_Mega_Pack_OMOD_BC1.esp
+FB_DC_Mega_Pack_OMOD_BC1_H.esp
+FF7 Swords 01 complete tsurugi.esp
+FF7 Swords 02 core apocalypse.esp
+" Open Cities.
+FF7 Swords 03 blade ogre nix.esp
+FF7 Swords 04 side rune.esp
+FF7 Swords 05 back butterfly.esp
+
+Gizmodian - Eclipse.esp
+GoddessArmor_Exnem.esp
+GreenNGold Amazon armor for Exnem body.esp
+Grim Reaper.esp
+Grim Reaper_1C.esp
+Grim's Necro Robe.esp
+Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
+
+HGEC_AmazonArmor.esp
+% {{BASH:Graphics}}
+HGEC_BodyGlove.esp
+HGEC_Companionmail.esp
+HGEC Dantes Clothes - EV.esp
 HGEC Glass Replacement.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
-Rinzei_UFFLeatherCorsetGown.esp
+HG Lady Shadow.esp
+HGEC Queen Of Nightfall Dress ENG.esp
+HGEC_Rogue01.esp
+% {{BASH:Graphics}}
+HGEC_SBBewitching.esp
+HGEC_SBVelvetRose.esp
+HGEC Underwear.esp
+HGECUndiesHCup.esp
+Holy MythicDawn Armor.esp
 
+Imperial Armor Replace.esp
+% {{BASH:Graphics}}
+Imperial_Palace_Armor-2474.esp
+% {{BASH:Graphics}}
+IndigoArmor.esp
+Ironless Skirt.esp
+ishmaelselvishmithril.esp
+
+Jade Armor v1.0.esp
+javbs.esp
+JB Catsuit Variants.esp
+JB Catsuit Weapons.esp
+
+kalikuts_.esp
+kalikuts_UFF_BraPanties.esp
+ktx_FlameAtronachArmor.esp
+kunoichi DM Enchanted.esp
+
+Lace outfits.esp
+Lady Elegance.esp
+Lady Fantasy.esp
+Lady Style.esp
+LC-Compilation-Exnem.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+LC-Legion-Exnem.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+LC-Dragon-Exnem.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+LeatherHunterArmour.esp
+Leere Armor.esp
+LichGear.esp
+
+Metal Fang.esp
+Mithril_Sorceress_armor.esp
+More_Shields.esp
+Morrowind Robes and Dresses for HGEC.esp
+Morrowind Scimitars for Oblivion.esp
+
+NamirasEmbraceArmour.esp
+necklacesbykalikut.esp
+New Exnem Compatible Armors.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+
+Opale armor for Exnem body.esp
+
+Pegasus Armor Set.esp
+Pirate Gear.esp
+Platinum Armor and Weapons.esp
+Priestess_of_Dibella_HGEC.esp
+
+R18PN 08 - FuruFuru Armor for HGEC v2.esp
+R18PN - Amy Armor Set.esp
+R18PN - Ayumi Set.esp
+R18PN - Bikini Re-Textured.esp
+R18PN - Bs Bondage.esp
+R18PN - Collection.esp
+R18PN - Dancer's Dress.esp
+R18PN - Eisen Platte Armor.esp
+R18PN - Fiona Armor.esp
+R18PN - FuruFuru Armor.esp
+R18PN - Heilige Mutter Armor.esp
+R18PN - Lingeries.esp
+R18PN - Lingeries UU Patch.esp
+R18PN - Leere Armor.esp
+R18PN - Mina Armor.esp
+R18PN - Mizugi set.esp
+R18PN - Perona armor.esp
+R18PN - Schatten lauf Amr.esp
+Red Dragon Armor.esp
+Rinzei_UFFLeatherCorsetGown.esp
+Robed Panty.esp
+Robert Adelina.esp
+Roberts Armamentium female.esp
+% {{BASH:Graphics, NoMerge}}
+Robert Blackluster.esp
+RobertsFemaleShirt07.esp
+Robert SinfulMage.esp
+Robert Sorcerer.esp
+RogueLeather.esp
+Rogue Mage & Scoundrel.esp
+Rosana_White_Version.esp
+Rosesilk.esp
+Ryk_AtholBrose.esp
+
+Sack of Pants.esp
+% {{BASH:Graphics}}
+Sack of PantsRU.esp
+% {{BASH:Graphics}}
+Sakura Outfit.esp
+SB TES4 Oblivion Crossbow Mod v8.5.esp
+SchwarzeKatzeArmor.esp
+SexyKunoichi.esp
+SexyLeather.esp
+SG015_Leia.esp
+shadow lord_normal.esp
+Shadowsilk-exnem.esp
+Shadowsilk-Roberts.esp
+ShadowWatcher_HGEC_v2.esp
+ShadowWatcher_HGEC_v2_b.esp
+SkeuomorphT3.esp
+Skeuomorph_LBD.esp
+Slof's Beefcake Armors.esp
+Slof's Brighter Arena Raiments.esp
+% {{BASH:Graphics}}
+Sorceressofthestorm.esp
+SPB Blue Dress.esp
+SPB Light Armor 2.esp
+StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+StockClothingArmor-forExnems.esp
+% {{BASH:Graphics, NoMerge}} if using overhaul mods.
+StockClothingArmorHGECnormalD.esp
+% {{BASH:Graphics}}
+StockClothingArmorHGECFighterD.esp
+% {{BASH:Graphics}}
+Swim Suit Retextured By DH13 Part 3.esp
+
+TFF_Armor_Base.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_Armor_OOO.esp
+% {{BASH:Graphics}}
+TFF_Clothing_Base.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_Clothing_SI.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_FantasyFigures_Armour_Fantasy.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_FantasyFigures_Armour_RealGlass.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_FantasyFigures_Clothing_Base.esp
+% {{BASH:Graphics}} if using overhaul mods.
+TFF_FantasyFigures_Clothing_SI.esp
+% {{BASH:Graphics}} if using overhaul mods.
 TGND.esp
 % {{BASH:Graphics, NoMerge}} if using overhaul mods.
 TGND_SI.esp
@@ -5185,346 +5474,70 @@ TGND_SI.esp
 TGND Accompt of the Delitescent.esp
 TGND Brigand's Gear.esp
 TGND_Corsets_of_the_Rose.esp
+TGND_EY_Vampirehunter.esp
+" EY_Vampirehunter.esp
+TGND Exnem Rogue Outfits.esp
 TGND Fantabulous Formal Dresses.esp
 TGND - Kogane's Ranger Armor.esp
 TGND_LeatherHunterArmour.esp
 TGND_Lingerie_Underwear.esp
-TGND_EY_Vampirehunter.esp
-" EY_Vampirehunter.esp
-TGND Exnem Rogue Outfits.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND_SwordDancer.esp
 TGND Warrior Skin.esp
-Underwear TGND.esp
-Ryk_AtholBrose.esp
+The Dragon Princess.esp
+tona_simple_dress-armor.esp
+TrawlolsCorinthianGladiator.esp
 
-UFF Armor of Gaia.esp
-UFF AtronachsPrize.esp
-UFF Badmagic Catsuits.esp
-UFF & ROBERT Assassin Elite Armor.esp
-UFF Blood Ice.esp
-UFF & RM Black Exnem Warrior Armor.esp
-UFF & ROBERT Cold Steel.esp
-UFF_CrimsonMidnight.esp
-UFF HS Amazon Armor.esp
-UFF Jewelry Collection.esp
-UFF Mage Skin.esp
-UFF Shirts with Suspenders.esp
-UFF Warrior Skin.esp
-BAB & RM Assassin Elite Armor.esp
-BABCeltic Witch Robes.esp
-Babarized Cryos Ordinator Lite.esp
-Babarized DiverseImperialArmor.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized DunmerScaleMail.esp
-Babarized GCDrapedGowns.esp
-Babarized EternalDragonArmor.esp
-Babarized BladesCeremonialArmor.esp
-Babarized TownCeremonialArmors.esp
-Babarized ArmorOfGaia.esp
-Babarized ForestHeart.esp
-Babarized RareTradeGoods.esp
-Babarized HadesGoWaoHFSets.esp
-Babarized SinsExpanded.esp
-Babarized VADaedricPriestessArmor.esp
-Babarized BraidedBattleDressSets.esp
-Babarized CompleteMagePack.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized SecuraOutfits.esp
-Babarized GlassArmorPack.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized SinbloodWidowDress.esp
-Babarized RoseArmors.esp
-Babarized AleanneGlass.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized Loths.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized Loths2.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized SlofsAndRings.esp
-Babarized KSitems.esp
-Babarized WitchesFrock.esp
-Babarized ElegantVests.esp
-Babarized VellasArmor.esp
-Babarized AtronachsPrize.esp
-Babarized DreadweaveArmor.esp
-Babarized ArynnsChest.esp
-Babarized RegionalLegionSoldiers.esp
-% {{BASH:Graphics}} if using overhaul mods.
-Babarized AlienSlofsClaws.esp
-Babarized NobleSets.esp
-Babarized DarkIllusionArmor.esp
-Babarized ExnemRogueOutfits.esp
-Babarized WizardWear.esp
-Babarized SatansDragonSkin.esp
-Babarized SatansElvenPrincess.esp
-Babarized FjotreidsArmor.esp
-Babarized SatansRogueSorceress.esp
-Babarized ExnemWarrior.esp
-Babarized BlackLuster&SaintArmor.esp
-Babarized SauronArmorChest.esp
-Babarized MysticMage.esp
-Babarized ExnemShadowSilk.esp
-Babarized HalcyonArmor.esp
-Babarized TemplarArmor.esp
-Babarized ArchmageBattleArmour.esp
-Babarized DeceiverArmour.esp
-Babarized BrashLeatherArmors.esp
-Blood Elves and Egyptian Armors for Exnems body.esp
-Blackmarsh_Witch_HGEC_Clothing.esp
-Exnem_Assassin_Armor.esp
-ExnemEC_Rogue01.esp
-ExnemEC_Warrior01.esp
-Exnem_Chaindress1.esp
-ExnemWarriorBikini.esp
-Blood Illusion and Arcania armors for Exnem's body.esp
-TFF_Armor_Base.esp
-% {{BASH:Graphics}} if using overhaul mods.
-TFF_Clothing_Base.esp
-% {{BASH:Graphics}} if using overhaul mods.
-TFF_FantasyFigures_Clothing_Base.esp
-% {{BASH:Graphics}} if using overhaul mods.
-TFF_FantasyFigures_Clothing_SI.esp
-% {{BASH:Graphics}} if using overhaul mods.
-TFF_Clothing_SI.esp
-% {{BASH:Graphics}} if using overhaul mods.
-kalikuts_UFF_BraPanties.esp
-ANBMiniMicroBikini.esp
-ExnemZorlackArmory.esp
-Exnem_Golden_Assassin_Armor.esp
-ExnemEyeCandy_RTFem.esp
-ExWearUndies.esp
-Sack of Pants.esp
-% {{BASH:Graphics}}
-Sack of PantsRU.esp
-% {{BASH:Graphics}}
-SkeuomorphT3.esp
-Skeuomorph_LBD.esp
-TFF_Armor_OOO.esp
-% {{BASH:Graphics}}
-TFF_FantasyFigures_Armour_RealGlass.esp
-% {{BASH:Graphics}} if using overhaul mods.
-TFF_FantasyFigures_Armour_Fantasy.esp
-% {{BASH:Graphics}} if using overhaul mods.
+UFF_1SBBewitching.esp
 UFF Amazon Armor.esp
 % {{BASH:Graphics}} if using overhaul mods.
-JB Catsuit Weapons.esp [Version 1.5.].
-RogueLeather.esp
-UFF RM Dark Rider Armor.esp
+UFF Armor of Gaia.esp
+UFF Armoru of HaesRU.esp
+UFF AtronachsPrize.esp
+UFF Badmagic Catsuits.esp
 UFF Black Courtesan Dress.esp
-javbs.esp
-BisPainBringerMale.esp
-UFF Rogue Outfit.esp
-UFF & ROBERT Dark Assassin Set.esp
-UFF & RM Black Templar Armor.esp
-UFF_1SBBewitching.esp
-ktx_FlameAtronachArmor.esp
-Holy MythicDawn Armor.esp
-UFF Holy Mythic Dawn Armor.esp
-Arctic Gear Improved.esp
-Diannes UFF Daedric Casual Attire.esp
-Dragonbone Armor Set.esp
-UFF Dragonbone Armor Set.esp
-UFF Boots Collection.esp
-Accompt of the Delitescent.esp
-UFF_Sorceress_outfit.esp
+UFF Blood Ice.esp
+UFF - Celtic Witch Robes.esp
+UFF Collection.esp
+UFF_CrimsonMidnight.esp
+UFF Elven Elite Armor.esp
+UFF God of War ArmorRU.esp
+UFF HS Amazon Armor.esp
+UFF_Jenées_Honor.esp
+UFF Jewelry Collection.esp
+UFF Lady Shadow.esp
+UFF Mage Skin.esp
+UFF RM Dark Rider Armor.esp
+UFF RM Ranger Armor.esp
 UFF & RM Assassin Elite Armor.esp
+UFF & RM Black Exnem Warrior Armor.esp
 UFF & RM Black Plate Armor.esp
+UFF & RM Black Templar Armor.esp
+UFF & RM Dark Daedric Armor.esp
+UFF & RM Elegant Vests.esp
+UFF & RM Extra Robe Pack.esp
 UFF & RM Gold and Silver Daedric Armor.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-UFF & RM Extra Robe Pack.esp
-UFF & RM Dark Daedric Armor.esp
-LichGear.esp
-LeatherHunterArmour.esp
-UFF Lady Shadow.esp
 UFF & RM Vermillion and Silverthorn Robes.esp
-UFF & RM Elegant Vests.esp
-UFF_Unrepetant_Archer.esp
-UFF_Jenées_Honor.esp
-IndigoArmor.esp
-Pirate Gear.esp
-tona_simple_dress-armor.esp
-UFF - Celtic Witch Robes.esp
-UFF Elven Elite Armor.esp
-UFF RM Ranger Armor.esp
-UFF Armoru of HaesRU.esp
-UFF God of War ArmorRU.esp
-kalikuts_.esp
-necklacesbykalikut.esp
-XiaNewAmuletsV1.esp
-Shadowsilk-Roberts.esp
-Robert Sorcerer.esp
-Elven Armours.esp
-Shadowsilk-exnem.esp
-Slof's Beefcake Armors.esp
-Black Courtesan Dress.esp
-NamirasEmbraceArmour.esp
-Rogue Mage & Scoundrel.esp
-StockClothingArmorHGECnormalD.esp
-% {{BASH:Graphics}}
-StockClothingArmorHGECFighterD.esp
-% {{BASH:Graphics}}
-HGEC_BodyGlove.esp
-HGEC_Rogue01.esp
-% {{BASH:Graphics}}
-HGEC_SBBewitching.esp
-HG Lady Shadow.esp
-Elegance_HGEC.esp
-Blackmarsh_Witch_HGEC.esp
-ShadowWatcher_HGEC_v2.esp
-ShadowWatcher_HGEC_v2_b.esp
-Swim Suit Retextured By DH13 Part 3.esp
-Robed Panty.esp
-Opale armor for Exnem body.esp
-GoddessArmor_Exnem.esp
-Exnem_Goddess_Armor.esp
-Emerald armor for Exnem body.esp
-300_Brocade_Outfits.esp
-CrimsonEyeCandy.esp
-Crimson Eyecandy White.esp
-Double Crimson HGEC.esp
-EC_BlackDeathWarrRetex.esp
-BlackRogue.esp
-darkrosearmor.esp
-Dark Rose Armor.esp
-Dark Rose Armor Rus.esp
-DarkRoseSet.esp
-DM Outlaw armor_EN.esp
-Dollparts' Wild Flower Corsets of Cyrodiil.esp
-Gizmodian - Eclipse.esp
-GreenNGold Amazon armor for Exnem body.esp
-JB Catsuit Variants.esp
-JB Catsuit Weapons.esp
-Mithril_Sorceress_armor.esp
-Priestess_of_Dibella_HGEC.esp
-Rosesilk.esp
-Sorceressofthestorm.esp
-Dragon Princess.esp
-The Dragon Princess.esp
-Vampiress Armors For Exnem Body.esp
-Volcano in the Twilight.esp
-HGEC Queen Of Nightfall Dress ENG.esp
-HGEC_SBVelvetRose.esp
-HGECUndiesHCup.esp
-HGEC Underwear.esp
-HGEC Dantes Clothes - EV.esp
-HGEC_AmazonArmor.esp
-% {{BASH:Graphics}}
-Sakura Outfit.esp
-Exnem Leather-Iron Warrior.esp
-Exnem Leather Iron Warrior.esp
-Ironless Skirt.esp
-SexyLeather.esp
-ares-Exnem.esp
-Armamentium female.esp
-% {{BASH:Graphics, NoMerge}}
-Roberts Armamentium female.esp
-% {{BASH:Graphics, NoMerge}}
-Robert Blackluster.esp
-Robert Adelina.esp
-Robert SinfulMage.esp
-Exnem Elven Warrior.esp
-Morrowind Robes and Dresses for HGEC.esp
-0FDemonSet.esp
-Imperial Armor Replace.esp
-% {{BASH:Graphics}}
-Daedric Lord Armor.esp
-ishmaelselvishmithril.esp
-Grim's Necro Robe.esp
-Jade Armor v1.0.esp
-A_Dremora_Armor_for_you-7602.esp
-Platinum Armor and Weapons.esp
-RobertsFemaleShirt07.esp
-UFF Collection.esp
-Dark Illusion Armour (HGEC Version).esp
-? 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-CB Classy Dress.esp
-DFSLoutfits.esp
-SPB Blue Dress.esp
-SPB Light Armor 2.esp
-
-Dragon Claw Sword And Shield.esp
-Pegasus Armor Set.esp
-Lace outfits.esp
-Imperial_Palace_Armor-2474.esp
-% {{BASH:Graphics}}
 UFF & RM Warrior Skin.esp
-Metal Fang.esp
-Rosana_White_Version.esp
+UFF & ROBERT Assassin Elite Armor.esp
+UFF & ROBERT Cold Steel.esp
+UFF & ROBERT Dark Assassin Set.esp
+UFF Rogue Outfit.esp
+UFF Shirts with Suspenders.esp
+UFF Warrior Skin.esp
+UFF Holy Mythic Dawn Armor.esp
+UFF Dragonbone Armor Set.esp
+UFF Boots Collection.esp
+UFF_Sorceress_outfit.esp
+UFF_Unrepetant_Archer.esp
+Underwear TGND.esp
 
-SchwarzeKatzeArmor.esp
-Red Dragon Armor.esp
-AT2 01-Shiki Armor Set v1_0.esp
-AT2 01-Shiki Armor Set.esp
-AT2 02-Shiki Armor Set.esp
-Chrome Amazon Armor.esp
-% {{BASH:Graphics}}
-Morrowind Scimitars for Oblivion.esp
-FF7 Swords 02 core apocalypse.esp
-" Open Cities.
-exhoffhandseries_1.0.esp
-Grim Reaper.esp
-Grim Reaper_1C.esp
-shadow lord_normal.esp
-A Very Silly Slaughterfish Mod.esp
-fishclub.esp
+Vampiress Armors For Exnem Body.esp
 Velveteen_Armor_HGEC.esp
-FF7 Swords 01 complete tsurugi.esp
-FF7 Swords 05 back butterfly.esp
-FF7 Swords 04 side rune.esp
-FF7 Swords 03 blade ogre nix.esp
+Volcano in the Twilight.esp
 
-Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
-SB TES4 Oblivion Crossbow Mod v8.5.esp
-More_Shields.esp
-DarkFlameSwordAndShield_v10_FIXED_ESP.esp
-Slof's Brighter Arena Raiments.esp
-% {{BASH:Graphics}}
-CDM-Assassin Robes Renamed.esp
-Battle China Dress.esp
-R18PN - Amy Armor Set.esp
-R18PN - Ayumi Set.esp
-R18PN - Bikini Re-Textured.esp
-R18PN - Dancer's Dress.esp
-R18PN - Eisen Platte Armor.esp
-R18PN - Fiona Armor.esp
-R18PN - FuruFuru Armor.esp
-R18PN - Heilige Mutter Armor.esp
-R18PN - Lingeries.esp
-R18PN - Leere Armor.esp
-Leere Armor.esp
-R18PN - Mina Armor.esp
-R18PN - Mizugi set.esp
-R18PN - Perona armor.esp
-R18PN - Bs Bondage.esp
-R18PN - Collection.esp
-R18PN - Schatten lauf Amr.esp
-R18PN 08 - FuruFuru Armor for HGEC v2.esp
-kunoichi DM Enchanted.esp
-SexyKunoichi.esp
-TrawlolsCorinthianGladiator.esp
-Break_ESalor__and_LingerieSet.esp
-R18PN - Lingeries UU Patch.esp
-
-Colourwheels Sexy Stock Armor & Clothing Replacer.esp
-% {{BASH:Graphics}}
-Colourwheels Sexy SI Armor & Clothing Replacer.esp
-% {{BASH:Graphics}}
-HGEC_Companionmail.esp
-FB_DC_Mega_Pack_OMOD_BC1.esp
-FB_DC_Mega_Pack_OMOD_BC1_H.esp
-
-ArynnsDrowWitchHGEC.esp
-Arynns-Heavenly-Sword_HGEC-sexy.esp
-Arynns-Heavenly-Sword_Exnem-sexy.esp
-
-Blood Mage.esp
-Lady Elegance.esp
-Lady Fantasy.esp
-Lady Style.esp
-SG015_Leia.esp
-Armor-Clothing-Weapons Merger.esp
-% {{BASH:Graphics, Invent, Delev, Relev}}
+XiaNewAmuletsV1.esp
 \EndGroup\\
 
 \BeginGroup\: Not For Free Armor
@@ -7432,7 +7445,7 @@ ShiveringIslesTransportationNetwork.esp
 EM_CompInnsleeping.esp
 
 Ivellon.esp
-$ Border regions must be turned off after this mod for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini, or use Wrye Bash bashed patch tweak.
+$ Border regions must be turned off for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
  IF (645E2C6D|"Ivellon.esp") DIRTY: 9 ITM, 13 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ivellon2.esp
 Cyrodiil Border Regions 1.2.esp
@@ -9475,7 +9488,7 @@ ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
-? If used with 'xulImperialIsle.esp', 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+? If used with UL: Imperial Isle, requires the patch 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
  IF (4D8FA617|"Region Revive - Lake Rumare.esp") DIRTY: 0 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp
@@ -9705,7 +9718,7 @@ sp_Market_Sewer_Hideout.esp
 Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
-" 'Ayleid Wells'
+" Ayleid Wells
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sbturm_Penthouse.esp
 sbtP_ad cobl.esp
@@ -10854,7 +10867,7 @@ The Lost Chapel.esp
 Tamriel.esp
 
 ElsweyrAnequina.esp
-? Border region restrictions must be turned off: use Wrye Bash tweak, hand edit .ini file or use no-border mod (not recommended).
+? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
 ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -11463,13 +11476,13 @@ Dschinni - UL Arrius Creek Patch DV.esp
 NPCsTravel - Unique Landscapes - Arrius Creek Patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
-? Only use one UL Rolling Hills esp
+? Only use one UL Rolling Hills plugin.
 Unique Landscapes - Rolling Hills DV - ohne Weizen.esp
-? Only use one UL Rolling Hills esp
+? Only use one UL Rolling Hills plugin.
 xulRollingHills_EV.esp
-? Only use one UL Rolling Hills esp
+? Only use one UL Rolling Hills plugin.
 Unique Landscapes - Rolling Hills DV.esp
-? Only use one UL Rolling Hills esp
+? Only use one UL Rolling Hills plugin.
 xulRollingHills_EV Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 xulRollingHills_EV Swalk.esp
@@ -11487,7 +11500,7 @@ KragenirsDeathQuest-RollingHills patch.esp
 CigarettesRollingHillsFix.esp
 RedcourtCastle-RollingHills patch.esp
 RedcourtCastle-UniqueLandscapes Merged patch.esp
-? Do not use with RedcourtCastle-RollingHills patch.esp or RedcourtCastle-AncientYews patch.esp
+? Do not use with RedcourtCastle-RollingHills patch.esp or RedcourtCastle-AncientYews patch.esp.
 
 xulPantherRiver.esp
 Unique Landscapes - Panther River DV.esp

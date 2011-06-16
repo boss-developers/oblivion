@@ -5961,7 +5961,6 @@ PoisonousIntent Cobl.esp
 Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
  IF (DE136AF6|"Bob's Armory Oblivion.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
 Bob's Armory OblivionRU.esp
 FCOM_BobsArmory.esp
@@ -8958,7 +8957,7 @@ EiAmod.esp
 : 'EtInArkay-ColovianHighlands patch.esp' compatibility patch if using Unique Landscapes Colovian Highlands.
 : 'EtInArkay-CheydinhalFalls patch.esp' if using UL Cheydinhal Falls
 : 'EtInArkay-AspenWood patch.esp' if using UL Aspen Wood
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (37ABD205|"EiAmod.esp") DIRTY: 0 ITM, 277 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EiAmod_ShiveringIsles.esp
 EiAmod_ChoicesandConsequences.esp
 EiA_delayer.esp
@@ -9721,7 +9720,6 @@ Specialty Containers.esp
 Spirit's Edge.esp
 " Ayleid Wells
  IF (3987C0D6|"Spirit's Edge.esp") DIRTY: 97 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sbturm_Penthouse.esp
 sbtP_ad cobl.esp
 SRJclannfearWilson.esp

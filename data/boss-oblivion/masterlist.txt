@@ -5925,7 +5925,7 @@ FCOM_TamrielicIngredients.esp
 Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
-? 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -7554,7 +7554,6 @@ Adele_blackSwanBoutique.esp
 Epic_Dungeon.esp
 AdenseEpicDungeon.esp
 ? Newest version has the same name as the original. Check that you're using at least v1.5.2.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AdenseEpicDungeon1_1.esp
 ? Old, update to latest version (plugin name is AdenseEpicDungeon).
 AdenseEpicDungeon1_2.esp
@@ -8522,7 +8521,7 @@ GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
 ? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
 GTAesgaard_2.esp
-? 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AB1F2934|"GTAesgaard_2.esp") DIRTY: 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GtArus.esp
 GTAesgaard I v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -9066,7 +9065,7 @@ Lorekeep.esp
 Lost Chapel.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (775DF108|"LostSwordOfTheAylied.esp") DIRTY: 29 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
@@ -9295,8 +9294,10 @@ NoldaTheShipHome.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 Northern Front.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Nou-Malatu.esp
+ IF (87B8FF17|"Northern Front.esp") DIRTY: 98 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (58BDBD48|"Northern Front.esp") DIRTY: 116 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E1E5FD88|"Northern Front.esp") DIRTY: 116 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ Nou-Malatu.esp
 
 NNWARE2.esp
 ? Obsolete. Upgrade to the latest version and delete this.
@@ -9499,7 +9500,7 @@ Region_Revive_-_Lake_Rumare_FuseSnailRacing_Patch.esp
 wb_RRLR_TalosBridge_Patch.esp
 RealmofRuun.esp
 Return Of Shadows.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6D97B636|"Return Of Shadows.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Return Of Shadows Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Return of the Ayleids.esp
@@ -9719,6 +9720,7 @@ Spear_of_Bitter_Mercy.esp
 Specialty Containers.esp
 Spirit's Edge.esp
 " Ayleid Wells
+ IF (3987C0D6|"Spirit's Edge.esp") DIRTY: 97 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sbturm_Penthouse.esp
 sbtP_ad cobl.esp
@@ -9767,7 +9769,7 @@ Stonewall Townhouse.esp
 Street Market.esp
 striders.esp
 SunderedKeep.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (70719F5B|"SunderedKeep.esp") DIRTY: 50 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SunderedKeep Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 
@@ -9868,7 +9870,6 @@ The Black Sacrament.esp
 : OBSE
 The Crazy Scientist.esp
 The Crimson Queen.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Dark Trilogy.esp
 The Duelists.esp
 The Duelists Revolver.esp
@@ -10112,8 +10113,9 @@ Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 Valenwood Improved Vampire Hunting Patch.esp
 VHBloodlines 1.2.esp
 % {{BASH:Actors.AIData, Actors.AIPackages}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
+ IF (4FBE3DC0|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8187F096|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VHBloodlines 1.2 Vwalk.esp
 ? Mark Mergeable and deactivate - Merge animations does not seem to work properly for the original version of VH Bloodlines.
 ? Sensual Walks for Arthmoor's Verona House Bloodines SI Fixed contains bash tags to merge the animations, which work correctly on his version
@@ -10221,7 +10223,7 @@ Weye_Manor.esp
 WeyeHouse.esp
 Healer.esp
 Windfall.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5C811264|"Windfall.esp") DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Windfall Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Window Entrances 1.0.esp
@@ -10625,7 +10627,7 @@ TOTF Delayer.esp
 
 Ruined Tale 3.0.esp
 RTT.esp
-? 32 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (65F14171|"RTT.esp") DIRTY: 32 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather - Ruined Tail's Tale Patch.esp
 RTT RR Lake Rumare Patch.esp
 ? Obsolete. Use RTT-Weye Relocation Patch.esp instead.
@@ -10996,7 +10998,6 @@ Castle_Tirith Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 HeartoftheDead.esp
 % {{BASH:Actors.AIPackages, Hair}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HeartOftheDead Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 OC-HOD-Patch.esp
@@ -11840,7 +11841,7 @@ Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
 % {{BASH:C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
-? 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E02E250D|"Salmo the Baker, Cobl.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Salmo WV, Cobl.esp
 ? Version of Salmo the baker for Woodland Village.
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
@@ -14422,7 +14423,7 @@ Diverse Effect Icons for SM.esp
 
 MidasSpells.esp
 % {{BASH:Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E39AF0AC|"MidasSpells.esp") DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
@@ -14949,6 +14950,7 @@ Can´t touch me!.esp
 cancelattack.esp
 Creature Damage Fix.esp
 Denock Arrows.esp
+DenockArrowToo.esp
 Combat Behavior 2.11b.esp
 Duke Patricks - Combat Archery.esp
 " MOBS Optional Combat Settings.esp.
@@ -15979,6 +15981,7 @@ Black Wizard Beard Races.esp
 Blonde Wizard Beard Races.esp
 Brown Wizard Beard Races.esp
 Red Wizard Beard Races.esp
+Fearabbits Bearded NPCs BETA.esp
 Brachyuran.esp
 Dark Seducer Race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}

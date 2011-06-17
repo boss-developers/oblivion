@@ -10079,7 +10079,6 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 \BeginGroup\: Quests V
 
 Valenwood Improved.esp
-? 173 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valley_View_Estate.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Valley View Patch.esp
@@ -11275,6 +11274,7 @@ TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
 Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
+Valenwood Improved - Fallenleaf Everglade DV - Patch.esp
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
@@ -11525,6 +11525,7 @@ ValleyViewEstate-RiverEthe patch.esp
 TrailsOfCyrodiil-RiverEthe patch.esp
 TrailsOfCyrodiil-RiverEthe patch DV.esp
 Valenwood Improved - River Ethe EV - Patch.esp
+Valenwood Improved - River Ethe DV - Patch.esp
 WestRoads-RiverEthe patch.esp
 ? Obselete - update to West Roads version 1.3+.
 WineOverhaul-RiverEthe Patch.esp
@@ -15182,6 +15183,10 @@ Unequip Broken Armor.esp
 BFG's Enhanced Armory.esp
 humantouchNPC.esp
 : OBSE 19+.
+
+Duke Patricks - Melee Combat NO RECOIL.esp
+% {{BASH: Sound, Graphics}}
+\ Load late because.
 \EndGroup\\
 
 \BeginGroup\: Skills, Attributes and Leveling

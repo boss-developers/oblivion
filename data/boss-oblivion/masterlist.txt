@@ -1469,6 +1469,8 @@ Adonnays Ranger CoatsRU.esp
 Adult Books.esp
 AdventurersAlchemy.esp
 AEVWD.esp
+aLHerobook01.esp
+? Obsolete. Delete and upgrade to Adult Books.
 AL_MonsterRevisited v1.0.esp
 % {{BASH:Factions, Invent, Relev}}
 Almost Everything VWD.esp
@@ -1977,7 +1979,6 @@ Ls Rentable Player Homes.esp
 MageGuild_simbol.esp
 Mage Guild Sorters v3.esp
 : COBL.
-Mage_Guild_Teleport.esp
 Mage_Guild_Teleport v1.1.esp
 MagesGuildPortalTowerV1.1.esp
 MagesGuildPortalTowerV1.2.esp
@@ -2307,6 +2308,7 @@ Silver and Gold Respawns.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
 SkeletonShaders.esp
+SkinMannequinVan.esp
 SkinMannequinVan-nosleep.esp
 SkinMannequinVan-sleep.esp
 Slof's Oblivion Pillow Book.esp
@@ -11629,6 +11631,7 @@ MMMDungeons-CliffsOfAnvil patch.esp
 SideSailingShips-CliffsOfAnvil patch.esp
 
 xulSilverfishRiverValley.esp
+Unique Landscapes - Silverfish River Valley DV.esp
 Lost Spires + Silverfish River Patch.esp
 
 NRB4+LtPD Patch.esp
@@ -12819,6 +12822,8 @@ GotNoClass.esp
 KnightClassAbility1.esp
 Way of the Wild.esp
 
+Mage_Guild_Teleport.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MagicArrows_1.0.esp
 Masters Alive.esp
 master_essentials.esp
@@ -17275,6 +17280,7 @@ pussyfur.esp
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH:NoMerge, NpcFaces}}
 Prettier Saints and Seducers.esp
+SkinMannequinCOBL.esp
 SkinMannequinCOBL-sleep.esp
 SkinMannequinCOBL-nosleep.esp
 \EndGroup\\

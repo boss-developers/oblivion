@@ -2309,7 +2309,9 @@ Doomstones Expanded.esp
 ShriekingBolete.esp
 SkeletonShaders.esp
 SkinMannequinVan.esp
+ IF (B3148F27|"SkinMannequinVan.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SkinMannequinVan-nosleep.esp
+ IF (65249775|"SkinMannequinVan-nosleep.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SkinMannequinVan-sleep.esp
 Slof's Oblivion Pillow Book.esp
 Slof's Oblivion Pillow BookRU.esp
@@ -2500,12 +2502,13 @@ Bards of Cyrodiil.esp
 Bard of Cyrodiil 2.0.esp
 
 Crowded Cities 15.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B9CC7C1A|"Crowded Cities 15.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Cities 15 Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 Crowded Cities 30.esp
-
+ IF (3A67E15D|"Crowded Cities 30.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Cities_Open.esp
+ IF (10A7FBA3|"Crowded Cities_Open.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 RealisticPopulation_Cheydinhal.esp
 RealisticPopulation_Anvil.esp
@@ -12823,7 +12826,7 @@ KnightClassAbility1.esp
 Way of the Wild.esp
 
 Mage_Guild_Teleport.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E5DFD452|"Mage_Guild_Teleport.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MagicArrows_1.0.esp
 Masters Alive.esp
 master_essentials.esp

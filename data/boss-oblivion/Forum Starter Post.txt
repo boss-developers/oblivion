@@ -45,14 +45,14 @@ Past Threads:
 
 Better Oblivion Sorting Software (BOSS) will re-order your mods to their correct positions, putting any mods it doesn't recognise after them, in the same order as they were before BOSS was run.
 
-BOSS is designed to assist in the installation and usage of mods, especially more complex mods such as FCOM, MMM and FOOK, and help mod users avoid serious conflicts. It is not a complete solution to load ordering issues, as there are far more mods out there (estimated at about 30,000 for Oblivion, and about 11,000 for Fallout 3) than BOSS knows about. To properly place mods BOSS doesn't know about, a good working knowledge of mod load ordering for the relevant game is still necessary, for which some research and documentation reading will go a long way.
+BOSS is designed to assist in the installation and usage of mods, especially more complex mods such as FCOM and MMM, and help mod users avoid serious conflicts. It is not a complete solution to load ordering issues, as there are far more mods out there (estimated at about 25,000 for Oblivion) than BOSS knows about. To properly place mods BOSS doesn't know about, a good working knowledge of mod load ordering for the relevant game is still necessary, for which some research and documentation reading will go a long way.
 
 
 [u]DOWNLOADS:[/u]
 
-[url="http://www.tesnexus.com/downloads/file.php?id=20516"]Better Oblivion Sorting Software on TES Nexus[/url]
+[url="http://www.tesnexus.com/downloads/file.php?id=20516"]Better Oblivion Sorting Software at TES Nexus[/url]
 
-There are no official mirrors at this time.
+BOSS is also available at [url="http://www.newvegasnexus.com/downloads/file.php?id=35999"]Fallout New Vegas Nexus[/url] and [url="http://www.fallout3nexus.com/downloads/file.php?id=10193"]Fallout 3 Nexus[/url]. All three sites have the same files.
 
 
 [u]INSTALLATION AND USE:[/u]
@@ -61,41 +61,48 @@ There are no official mirrors at this time.
 
 2. If upgrading from an earlier version of BOSS, delete all BOSS files and folders in your game's Data folder (including the BOSS folder, BOSS.exe, masterlist.txt, modlist.txt, modlist.old, BOSSlog.txt and any of BOSS's .bat files). If you have an edited masterlist, make sure to keep a backup so that your edits are not lost.
 
-3. Extract the BOSS archive you downloaded to your game's installation directory (ie. the one containing the Data folder and the game's executable, so one of "Oblivion", "Fallout 3", "Nehrim" or "fallout new vegas" depending on your game), so that there is now a BOSS folder alongside the Data folder and the game's executable.
+3. Extract the BOSS archive you downloaded to your game's installation directory (ie. the one containing the Data folder and Oblivion.exe, so "Oblivion", so that there is now a BOSS folder alongside the Data folder and Oblivion.exe.
 
 4. In the BOSS folder, run the "BOSS GUI.exe" and check the box for "Update Masterlist" under the "Sort Mods" run option, then click the "Run BOSS" button. This will download the latest masterlist from the Internet and then sort your mods.
 
 5. When running BOSS, you may run BOSS directly from the BOSS.exe to simply sort your mods, or you can use the GUI to choose how BOSS runs. Remember to update the masterlist via the GUI options regularly.
 
-Once BOSS has finished running, the output will be displayed automatically. Read any notes, errors if applicable, and make any relevant changes that are suggested by them. Wrye Bash/Flash will automatically import and apply Bash Tag suggestions from BOSS. Some Bash Tag suggestions can come with conditions and notes that require human intervention though, so read the suggestions makes thoroughly and adjust tags by hand in Wrye Bash/Flash if necessary.
+Once BOSS has finished running, the output will be displayed automatically. Read any notes, errors if applicable, and make any relevant changes that are suggested by them. Wrye Bash will automatically import and apply Bash Tag suggestions from BOSS. Some Bash Tag suggestions can come with conditions and notes that require human intervention though, so read the suggestions makes thoroughly and adjust tags by hand in Wrye Bash if necessary.
 
-You will need to reorder "unknown" mods by hand using OBMM/FOMM or Wrye Bash/Flash.
+You will need to reorder unrecognised mods by hand using OBMM or Wrye Bash.
 
 You can update your masterlist to the latest version by running the GUI and either selecting the "Update Masterlist Only" run option or checking the "Update Masterlist" box under the "Sort Mods" run option. This will replace your copy with the latest available online, and then run BOSS as normal using the updated masterlist. If you have an edited masterlist, using this updater will cause you to lose all your edits.
 
 
 [u]UNINSTALLATION:[/u]
 
-Delete the BOSS folder in your Oblivion folder (ie. the one containing the Data folder and Oblivion.exe).
+Delete the BOSS folder in your "Oblivion" folder (ie. the one containing the Data folder and Oblivion.exe).
 
 
 [u]CONTRIBUTIONS AND HELP:[/u]
 
-Questions, suggestions, unrecognized mods and general discussion takes place in BOSS's official threads for [url="http://www.bethsoft.com/bgsforums/index.php?showtopic=1195328"]Oblivion[/url], Nehrim, Fallout 3 and Fallout: New Vegas.
+General discussion, and the submission of questions, suggestions and unrecognised or unclean mods, takes place in BOSS's official threads for [url="http://www.bethsoft.com/bgsforums/index.php?showtopic=1195328"]Oblivion[/url], [url="http://forums.bethsoft.com/?showtopic=1132338"]Nehrim[/url], [url="http://forums.bethsoft.com/?showtopic=1175276"]Fallout 3[/url] and [url="http://forums.bethsoft.com/?showtopic=1173252"]Fallout: New Vegas[/url].
 
 User contribution of additions and corrections to the masterlist are vital to the upkeep of BOSS. Let us know what you know.
 
 Lists of unrecognized mods are welcome but the only way we can include them in the database in a timely way is if we get: 
 [list=1]
-[*]The ESP/ESM file name(s) and 
+[*] The ESP/ESM file name(s) and 
 [*] A link to where the description, download or readme can be found to read or download. 
 [*] A brief description of each mod will also help. Feel free to make load order suggestions.
+[/list]
+Lists of unclean mods are also very welcome, but for the report to be most useful we require:
+[list=1]
+[*] The ESP/ESM file name(s).
+[*] The number of records removed (the ITM count) as shown by TES4Edit (not the number of records processed).
+[*] The number of records undeleted (the UDR count) as shown by TES4Edit (not the number of records processed).
+[*] The CRC(s) of the unlcean ESP/ESM file name(s), as calculated by BOSS, Wrye Bash or 7-zip (other sources unverified to be correct). Make sure that the CRCs are of the uncleaned files, not the files after cleaning.
 [/list]
 
 
 [u]UPDATES:[/u]
 
-You can check if there are updates available for BOSS or its masterlists through the GUI's "Check For Updates" option, found in the "Help" menu. Updates to BOSS are published at the [url="http://www.tesnexus.com/downloads/file.php?id=20516"]TES Nexus[/url], Fallout 3 Nexus and New Vegas Nexus BOSS pages.
+You can check if there are updates available for BOSS or its masterlists through the GUI's "Check For Updates" option, found in the "Help" menu. Updates to BOSS are published at the [url="http://www.tesnexus.com/downloads/file.php?id=20516"]TES Nexus[/url], [url="http://www.fallout3nexus.com/downloads/file.php?id=10193"]Fallout 3 Nexus[/url] and [url="http://www.newvegasnexus.com/downloads/file.php?id=35999"]New Vegas Nexus[/url] BOSS pages.
 
 For those not using the masterlist updater, the latest masterlist is always on the Google Code repository.
 
@@ -212,4 +219,4 @@ Due to a 200 maximum post limit, a new "official" thread is created periodically
 
 You must register for free to post messages.
 
-[i]Documentation updated 10 June 2011[/i]
+[i]Documentation updated 17 June 2011[/i]

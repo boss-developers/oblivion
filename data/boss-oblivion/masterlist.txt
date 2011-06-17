@@ -801,6 +801,10 @@ Fra.esp
 ? BSA redirection hack. Usually refers to FraNewItems.BSA
 ? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
 ? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+Francesco.esp
+? Dummy file to load both Frans BSAs.
+? Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
+? This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 MMM.esp
 ? Dummy file to load the MMM .BSA.
 Oblivion.esp
@@ -7299,6 +7303,7 @@ Fran's Ore Refiner - SI only.esp
 ? Use only if you have SI, use only one Fran's Ore Refiner esp.
 Fran's Ore Refiner.esp
 ? Use only if you do not have SI, use only one Fran's Ore Refiner esp.
+Friendly Fire for Frans.esp
 
 GrayFoxOutfit.esp
 % {{BASH:Invent}}

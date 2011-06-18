@@ -12389,8 +12389,10 @@ Cliff_CountyNames.esp
 Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
 Cliff's Shacks Basements.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
+ IF (680BCBC2|"Cliff's Shacks Basements.esp") DIRTY: 31 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff's Shacks Basements-Radiant AI.esp
 ? Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
+ IF (C076FE76|"Cliff's Shacks Basements-Radiant AI.esp") DIRTY: 31 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff's Daggerfall Uriel Septim and Ocato.esp
 % {{BASH:NpcFaces, NoMerge}}
 CloudRulerTrainingRoom.esp
@@ -16574,6 +16576,9 @@ amQuests.esp
 CM Partners Beasts.esp
 ? CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners Belle.esp
+CM Partners Eileen.esp
+ IF (1583D677|"CM Partners Eileen.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B28EC8A6|"CM Partners Eileen.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partners 20 Pack.esp
 CM Partners Argonians by Howabominable.esp
 CM Partners Elves by Howabominable.esp
@@ -16636,8 +16641,13 @@ CM Tifa A.esp
 CMpartnerTifa.esp
 % {{BASH:Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth}}
 CM_Kailinda.esp
+ IF (41FCE7B5|"CM_Kailinda.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM_Kailinda Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+CM Emilia.esp
+ IF (DEB5D3C7|"CM Emilia.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+CM Rigel.esp
+ IF (DA4A2EB2|"CM Rigel.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Jessica.esp
 cm_Jo-han.esp
 CM July.esp
@@ -16709,6 +16719,8 @@ Terimer.esp
 % {{BASH:Hair, Eyes}}
 Three CM Partners.esp
 The Ice Queen.esp
+Siliane.esp
+ IF (436F457D|"Siliane.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 CompanionFergus.esp
 Companion Sales & Retail.esp

@@ -11575,8 +11575,9 @@ xulImperialIsle Vwalk.esp
 BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
 ? Obselete - update to version 2.2.1 of BladeOfTheHaunted.esp, then disable/remove this esp.
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
-FuseSnailRacing-ImperialIsle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
+FuseSnailRacing-ImperialIsle patch.esp
+? This patch results in land tears along the main road to the Imperial City when used with Imperial Isle v1.6.6+. An updated patch is planned.
 ImperialCitySuburbs-ImperialIsle patch.esp
 ? Don't use UL Imperial Isle Adense Epic Dungeon Patch.esp in conjunction with ImperialCitySuburbs-ImperialIsle patch.esp (causes land tears)
 ImperialManor-ImperialIsle patch.esp

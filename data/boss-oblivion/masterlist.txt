@@ -4242,7 +4242,18 @@ Necessary Violence.esp
 Neckerchiefs v1.2.esp
 Neck Seam Concealers Expanded.esp
 Neck Seam Concealers Expanded DD.esp
+Neck Seam Concealers Expanded LL Amulets Only.esp
+? Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
+% {{BASH: Relev}}
+Neck Seam Concealers Expanded LL Amulets & Tail Slot.esp
+? Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
+% {{BASH: Relev}}
 Neck Seam Concealers Expanded LL Amulets Only SI.esp
+? Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
+% {{BASH: Relev}}
+Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp
+? Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
+% {{BASH: Relev}}
 NecroArmour.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
@@ -4583,6 +4594,7 @@ Slof's Dark Assassin Armour.esp
 Slof's Dark Saint.esp
 Slof's Eyren Armours.esp
 Slof's Giger Armour.esp
+ IF (8B6D4ABC|"Slof's Giger Armour.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slof's Heartbreaker.esp
 Slof's Ice Warrior.esp
 Slof's Icebane Armour.esp
@@ -15797,6 +15809,8 @@ Useful Houses.esp
 
 All vanilla races and eyes unlocked (SI included).esp
 UnlockedHairs.esp
+Fiok Vanilla Hairs Fixed.esp 
+% {{BASH:Hair}}
 Custom Hairs for Vanilla Race.esp
 % {{BASH:Hair}}
 M.O.E. - Unlocked Hairstyles.esp
@@ -15873,6 +15887,10 @@ MP Human Eyes Vanilla Makeover.esp
 Unique Eyes Selection - DV.esp
 % {{BASH:Eyes}}
 Unique Eyes Selection - EV.esp
+% {{BASH:Eyes}}
+PA Eye Colors.esp
+% {{BASH:Eyes}}
+PA Eye Colors 2.esp
 % {{BASH:Eyes}}
 \EndGroup\\
 

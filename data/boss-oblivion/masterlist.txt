@@ -5933,6 +5933,8 @@ Fran-Ayleid Coin Add-on.esp
 
 No Seducers.esp
 ChestMenuFixes.esp
+FranHouseChestMenuFix.esp
+FranDungeonChestMenuFix.esp
 \EndGroup\\
 
 \BeginGroup\: OOO; FCOM optional and and related components; MMM and optional plungins.
@@ -15620,6 +15622,7 @@ Pose Thumbnail Poses.esp
 geechan_SimplePose.esp
 NaRae Pose - 01.esp
 NaRae Pose - 01 Guide Book.esp
+NoMaaM_BBB.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp
 Pose de Lain v1.4.esp

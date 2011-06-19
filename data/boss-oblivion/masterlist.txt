@@ -69,7 +69,6 @@ Skyrim.esm
 Cybiades.esm
 Windfall.esm
 MooCowVolcanicIslands.esm
-TamRes_LandscapeResource.esm
 MCVIVegetation.esm
 MathFunctions.esm
 BP-CosmeticLibraryBase-Public.esm
@@ -115,6 +114,7 @@ Cobl Main.esm
 Item interchange.esm
 ? Outdated. All functions are now handled by Cobl.esm. Update to the latest versions of 'Item Interchange' and Cobl.
 TamRes.esm
+TamRes_LandscapeResource.esm
 Open Cities Resources.esm
 Qarls_Harvest.esm
 % {{BASH:Scripts}} and no need for OOO patch.

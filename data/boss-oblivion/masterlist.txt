@@ -5635,7 +5635,7 @@ MD_Saddle_Bags_Lite_v2.esp
 MD_Saddle_Bags_Accessories.esp
 Slof's Horses Base.esp
 % {{BASH:Graphics}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (66C78539|"Slof's Horses Base.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slof's Horses Essential.esp
 % {{BASH:Graphics}}
 Slof's Horses HA Essential.esp
@@ -10768,7 +10768,7 @@ $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH:Hair}}
-? 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A93FE299|"HoarfrostCastle.esp") DIRTY: 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -16223,6 +16223,7 @@ LJD_HumanMIKA.esp
 Luchaire's Dryad Race.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 ? Use 'for MMM' version if using MMM/FCOM.
+The Forgotten.esp
 The Southlanders.esp
 % {{BASH:NpcFaces, Hair, Eyes, R.Relations}}
 Tabaxi_Race_Default.esp

@@ -99,7 +99,6 @@ Francesco's Optional New Items Add-On.esm
 Francesco's Optional New Creatures Add-On.esm
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
-MD_Saddle_Master.esm
 Children Of Rourken.esm
 Slof's Clouded Leopard.esm
 DASkeleton.esm
@@ -161,6 +160,7 @@ ArmamentariumFran.esm
 ArmamentariumEnchanted.esm
 ? Outdated, included in Armamentarium Complete.
 azsTHouse.esm
+MD_Saddle_Master.esm
 Artifacts.esm
 Hemingweys Capes Improved.esm
 Underwear HGEC Fighter.esm
@@ -5711,7 +5711,7 @@ Dude Wheres My Horse.esp
 Wheres My Horse.esp
 FF_Horse_Whistle.esp
 MD Saddlebags V3.0.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? This mod only adds the saddlebags to merchants once. To ensure they are added to merchants who have been reset, also use "MD Saddlebags v3 alternative trader script".
 MD_Saddlebag_Accessories.esp
 Call Steed 2.5+Saddlebags 0.91.esp
 CallSteed3.0a.esp

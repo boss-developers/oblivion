@@ -6876,7 +6876,7 @@ TamrielTravellersItemsUnscaled.esp
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
 : Shivering Isles expansion.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (36DD18E|"ShiveringIsleTravellers.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShiveringIsleTravellers Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp

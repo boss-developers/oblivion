@@ -7734,7 +7734,6 @@ AnvilBayExpansion.esp
 " Open Cities Reborn.
 AnvilBayMisteryHouse.esp
 IF (7BA6C2D6|"AnvilBayMisteryHouse.esp") DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Clothes Compilation 4Player_
 AnvilManor2.0.esp
 Anvil_Mazecave.esp
 Atropa.esp

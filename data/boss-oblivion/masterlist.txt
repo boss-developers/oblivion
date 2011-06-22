@@ -4587,6 +4587,7 @@ SK_Berserk_v0.6.esp
 sk_Katanas.esp
 Skooma_Water_Pipe.esp
 SkoomaPipeMod.esp
+Skyrim Banded Iron Shield.esp
 1662-1.21-Inebriation + Skooma addon-TESSource.esp
 OblivionSkoomaAddiction1.0.esp
 Slaveknight armor.esp
@@ -9424,6 +9425,8 @@ Overflow.esp
 ThePaleAdventurer.esp
 ThePaleAdventurer_delayer.esp
 PagesofHistoryDemo.esp
+Passwall Adventurers Club.esp
+ IF (11E6D7FE|"Passwall Adventurers Club.esp") DIRTY: 13 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Pats Business Mod---Shop Version 1.6.esp
 ? Outdated. Update to version 2.1+.
 Pats Business Mod---Shop Version 2.0.esp
@@ -10754,7 +10757,7 @@ Ungarion1TheWelkyndSword.esp
 Blood&Mud.esp
 % {{BASH:Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
-? 36 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (23A62955|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 Blood&Mud Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
@@ -15080,6 +15083,8 @@ mighty_bows_damage_bonus.esp
 mighty_bows_sneak_dmg_bonus.esp
 mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
+SilverBonus.esp
+: OBSE
 
 NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp

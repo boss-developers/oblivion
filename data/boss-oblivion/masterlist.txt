@@ -8904,6 +8904,7 @@ JQ-EasterEggHunt.esp
 JQ-Streams_Of_Silver.esp
 JQ-Studio.esp
 JQ-Return_of_Dagoth_Ur.esp
+JQ_The_Bear_Essentials_-_House_Quest.esp
 coffeeshop.esp
 OC+Coffeshop Patch.esp
 JQ-PizzaShop.esp
@@ -11729,6 +11730,7 @@ ImpeREALForts+LostSpires Patch.esp
 ImpeREAL Forts + Silverfish River Patch.esp
 ImpeREAL Forts + Lost Spires + Silverfish River Patch.esp
 LostSpiresImpeREALFortsPatch2.esp
+ImpeREALFortsHammerfellpatch.esp
 
 exhICMO.esp
 : Better/Open Cities IC Market District Components.
@@ -16919,6 +16921,8 @@ cssJaKhaiitMyr.esp
 1em_Vilja Not Essential Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_Bruse_as_Clydesdale_horse_by_Xtudo.esp
+% {{BASH:Graphics}}
+1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
 % {{BASH:Graphics}}
 1em_Vilja OOO FCOM Fix.esp
 % {{BASH:Factions, Relations, NoMerge}}

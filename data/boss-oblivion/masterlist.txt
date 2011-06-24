@@ -190,6 +190,7 @@ HelmetFOV.esm
 AkaviriKojima.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
+Old School Dungeons.esm
 NNWAEMaster.esm
 WhiteArmor.esm
 Wondrous Items.esm
@@ -1200,6 +1201,7 @@ lninroot.esp
 Louder Nirns.esp
 % {{BASH:Sound}}
 Symphony of Violence.esp
+% {{BASH:Sound}}
 Echo_ChapelChant.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AmbientTownSounds.esp
@@ -2209,6 +2211,7 @@ RealitySpectre'sBetterPotions.esp
 % {{BASH:Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
 
 RealWalk.esp
+% {{BASH: Actors.Anims}}
 Oblivion Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 Oblivion Swalk.esp
@@ -3475,6 +3478,7 @@ console codes.esp
 Corthian Akavir Clothing.esp
 Cowgirl_HGEC.esp
 cowlredux.esp
+% {{BASH: Graphics}}
 crazy_shadow-cats.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
@@ -6756,26 +6760,26 @@ Mart's Monster Mod - Hairy Spiders Addon.esp
 ? Outdated. Update to MMM 3.7b3+.
 Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
-% {{BASH:Actors.AIPackages, Graphics, Scripts}}
+% {{BASH: Actors.AIPackages, Graphics, Scripts, Names}}
 " Slof's Horses, Slof's Extra Horses if not using a Bashed Patch.
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 " MMM Gems & Gem Dust or MMMforOOO.
-% {{BASH:Delev}}
+% {{BASH: Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot.esp
 " MMM Gems & Gem Dust or MMMforOOO.
-% {{BASH:Delev}}
+% {{BASH: Delev}}
 Mart's Monster Mod - Diverse RuneSkull MMM Loot.esp
 : MMM and MMM Gems & Gem Dust.
-% {{BASH:Delev}}
+% {{BASH: Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot G&GD.esp
 : MMM and MMM Gems & Gem Dust.
-% {{BASH:Delev}}
+% {{BASH: Delev}}
 Mart's Monster Mod - Diverse RuneSkull OOO Loot.esp
 : Oscuro's Oblivion Overhaul.
 : MMMforOOO or FCOM.
 " MMM Gems & Gem Dust.
-% {{BASH:Delev}}
+% {{BASH: Delev}}
 Mart's Monster Mod - Diverse Runeskulls Loot OOO.esp
 : Oscuro's Oblivion Overhaul.
 : MMMforOOO or FCOM.
@@ -6961,12 +6965,12 @@ FCOM_VanillaItemReleveler.esp
 \''''''''''''''''''''''
 
 TIE.esp
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Factions, Invent, NpcFaces, Relations, Relev, Scripts, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Factions, Invent, NpcFaces, Relations, Relev, Scripts, Stats, Sound}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
 TIE Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge }}
+% {{BASH: Actors.Anims, NoMerge }}
 TIE+Frans NPC Inventory.esp
-% {{BASH:NoMerge}}
+% {{BASH: NoMerge}}
 FCOM_T.I.E.esp
 
 T.I.E4MODS.esp
@@ -7418,8 +7422,7 @@ Enhanced Quest Roleplaying - FCOM.esp
 Oblivifall - Something's Not Right.esp
 
 Roleplaying_Expansion.esp
-" 'Mysteries Of Atrene Camp.esp' and 'Kragenir's Death Quest.esp'.
-" (Landscape) 'xulCheydinhalFalls.esp'
+" 'Mysteries Of Atrene Camp.esp', 'Kragenir's Death Quest.esp' and 'xulCheydinhalFalls.esp'.
 
 Suliin.esp
 Suliin V1.2.esp
@@ -7729,6 +7732,7 @@ AncientSource.esp
 Anduril Reforged.esp
 Angelslayer.esp
 ANKRcottage.esp
+An Old School Dungeon.esp
 AnorielsCrossroadsManor1.2.esp
 AnavirsPool.esp
  IF (3ADED84A|"AnavirsPool.esp") DIRTY: 115 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10758,7 +10762,7 @@ The Soul of Ilithiel.esp
 Ilithiel-DE.esp
 
 Ungarion1TheWelkyndSword.esp
-% {{BASH:Actors.Stats, Actors.Class, Actors.Spells, Invent, Scripts}}
+% {{BASH: Actors.Stats, Actors.Class, Actors.Spells, Invent, Scripts}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Blood&Mud.esp
@@ -10766,14 +10770,15 @@ Blood&Mud.esp
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
  IF (23A62955|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
+% {{BASH: Actors.ACBS}}
 Blood&Mud Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 
 Lost Paladins of the Divines.esp
 ? 6 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Origin of the Mages Guild.esp
-% {{BASH:Actors.AIPackages, Relations}}
+% {{BASH: Actors.AIPackages, Relations}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
  IF (0440FF00|"Origin of the Mages Guild.esp") DIRTY: 173 ITM, 383 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -12186,6 +12191,7 @@ Harvest [Flora].esp
 ? Make sure you have v3.0.1 or later, which removes a CTD bug with the Harrada root.
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
+% {{BASH:Graphics, Scripts}}
  IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
@@ -13002,7 +13008,9 @@ Oblivifall - New Classes Regular Fonts.esp
 obliviousterrainreplacer.esp
 Ohgma Infinium OverHaul.esp
 OriginalLeather.esp
+% {{BASH: Names}}
 OriginalLeatherSI.esp
+% {{BASH: Names}}
 Orrery_Rewards.esp
 OS-foot-HORSE.esp
 \EndGroup\\
@@ -13034,7 +13042,9 @@ Respawnable NPC Mod.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
 PersuasionOverhaul_OOO.esp
+% {{BASH: Relations}}
 PersuasionOverhaul_MMM.esp
+% {{BASH: Relations}}
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 persuasioncompatable1.8.esp
@@ -13738,6 +13748,7 @@ Quest Award Leveller - Battlehorn Castle.esp
 Quest Award Leveller - Vile Lair.esp
 Quest Award Leveller - Mehrunes Razor.esp
 Quest Award Leveller - Knights of the Nine.esp
+% {{BASH: Scripts}}
 
 Quest Stacks - Black Bows and Vampire Dust.esp
 
@@ -14912,6 +14923,7 @@ M.O.E. - Realistic Law Enforcement - Part One.esp
 M.O.E. - Realistic Law Enforcement - Part Two.esp
 SM Bounty.esp
 CoblDeathFix.esp
+% {{BASH: Scripts}}
 BountyReductionOverTime.esp
 ? Use only one BountyReductionOverTime esp.
 BountyReductionOverTime_standard.esp
@@ -16830,6 +16842,8 @@ cssJaKhaiitMyr.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Argonian Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+1em_Vilja_as_Blood_Elf_by_Xtudo.esp
+? Choose only ONE customization for Vilja.
 1em_Vilja_as_Chocolate_Elf.esp
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Chocolate_Elf Vwalk.esp
@@ -17376,7 +17390,7 @@ SkinMannequinCOBL-nosleep.esp
 \BeginGroup\: ZU SI Overhaul
 \because I suspect that there will eventually be a fair slew of patches.
 ZUAmberMadnessOverhaul.esp
-% {{BASH:Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.RecordFlags, Delev, Factions, Graphics, Invent, Names, R.Head, R.Relations, Relations, Relev, Scripts, SpellStats, Stats}}
 ZUSwordFlameAtro.esp
 ZUSwordFlameAtro_Vanilla.esp
 ZUSwordFlameAtro_UOP.esp
@@ -17385,9 +17399,10 @@ ZUSwordFlameAtro_ZUSIO.esp
 ZUSIO-RatsInCrucible.esp
 
 ZUSIO-MMM SI-patch.esp
-% {{BASH:Factions}}
+% {{BASH: Factions}}
 ZUSIO-Map MarkerOverhaul SI-patch.esp
 ZUSIO-SM Plugin Refurbish SI-patch.esp
+% {{BASH: Scripts}}
 \EndGroup\\
 
 \BeginGroup\: L.A.M.E.
@@ -17395,13 +17410,13 @@ ZUSIO-SM Plugin Refurbish SI-patch.esp
 \Inserted here for RBP compatibility
 
 bgMagicDV.esp
-% {{BASH:Names, Delev, Relev}}
+% {{BASH: Names, Delev, Relev}}
 ? German version.
 bgMagicEV.esp
-% {{BASH:Names, Delev, Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
+% {{BASH: Names, Delev, Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
 bgMagicEV Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 bgMagicSpellTomes_for_WryeBash.esp
 % {{BASH:Relev}}
 bgMagicDVSpellTomes_for_WryeBash.esp
@@ -17805,13 +17820,14 @@ Better Cities Full B&M - CUO Bruma Patch.esp
 ? Only use one version of the Better Cities - CUO Bruma Patch.
 
 BCSkingrad-SkingradOutskirts patch.esp
-% {{BASH:C.Water}}
+% {{BASH: C.Water}}
 ? Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.
 Better Cities - Unique Landscape Skingrad Outskirts.esp
-% {{BASH:C.Water}}
+% {{BASH: C.Water}}
 Better Cities - Skyrim Nords.esp
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
+% {{BASH: Scripts}}
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 Better Cities - Werewolf-Legends.esp

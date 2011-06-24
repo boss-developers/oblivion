@@ -5619,9 +5619,9 @@ GizmodianSorceress.esp
 1SI_Horses.esp
 : Shivering Isles.
 a4sFlamingNightmare.esp
-% {{BASH:Graphics, Scripts, ScriptContents}}
+% {{BASH: Graphics, Scripts, ScriptContents}}
 a4sFlamingNightmare3.esp
-% {{BASH:Inventory,Graphics,Scripts}}
+% {{BASH: Inventory, Graphics, Scripts}}
 Athletics While Riding.esp
 : OBSE v18+.
 Shivering Isles Horse.esp
@@ -7879,6 +7879,7 @@ Divine Elegance Upgrade.esp
 
 Bandit Hideouts.esp
  IF (EB5BF385|"Bandit Hideouts.esp") DIRTY: 12 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+" Castle West Weald.
 BanditSlaveTrade.esp
 Barbada_Island.esp
 BaronOfWeyeENG.esp
@@ -9491,6 +9492,7 @@ pythanis.esp
 Qaja'kar.esp
 : OBSE 12+.
 qNS3-inventrix.esp
+? 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW001-010.esp
 QOTW011.esp
 QOTW012.esp
@@ -10025,6 +10027,7 @@ Tona's_ModsStore UU Patch.esp
 Topal Bay Camp.esp
 TQ1-loveletters.esp
 tq3-Blood-and-Gold.esp
+? 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  South East.esp
  IF (4069ED03|"Trail  South East.esp") DIRTY: 109 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  WEST.esp
@@ -13307,7 +13310,6 @@ Sigil Stones Unlevelled.esp
 SigilStonesUnlevelled.esp
 Sigil Stones Unlevelled - Adjusted.esp
 SigilStonesUnlevelled - Adjusted.esp
-SigilStonesUnlevelled - SSEE-OOO.esp
 
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
@@ -14447,7 +14449,6 @@ Diverse Effect Icons for MM.esp
 Diverse Effect Icons for MM-Reborn.esp
 cidnothumpMMversion.esp
 % {{BASH:Sound}}
-SSEE-MM.esp
 Recastable Summons - Mighty Magicka Version.esp
 \EndGroup\\
 
@@ -14638,6 +14639,8 @@ MagickOverlap.esp
 
 SSEE.esp
 SSEE-OOO.esp
+SSEE-MM.esp
+SigilStonesUnlevelled - SSEE-OOO.esp
 SigilStoneSelector-SSEE-OOO.esp
 SigilStoneSelector-SSEE.esp
 Useful_TK-10337.esp
@@ -16818,7 +16821,7 @@ cssJaKhaiitMyr.esp
 
 \BeginGroup\: Vilja Companion
 1em_Vilja.esp
- IF (CBB991E4|"Oblivifall - Ambiant Dungeon SFX.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CBB991E4|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
 1em_Vilja_Neck_Seam_Concealer.esp

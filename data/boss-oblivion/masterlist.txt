@@ -11096,7 +11096,11 @@ better daedric shrines Meridia.esp
 Better daedric shrines Clavicus.esp
 Better daedric shrines Vaermina.esp
 better daedric shrines Nocturnal.esp
+Better daedric shrines malacath.esp
+Better daedric shrines molag bal.esp
 Better daedric shrine Pyriate.esp
+Better daedric shrine Hircine.esp
+Better daedric shrine Azura.esp
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH: Hair, Invent, C.Owner, Actors.AIPackages}}
@@ -13630,7 +13634,7 @@ vn_goldweight.esp
 
 Wayshrine_Redesign.esp
 Wayshrines Improved.esp
-? 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A200A48|"Wayshrines Improved.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WeaponAndStaffSpecs.esp
 Wondrous_Inventory_v091.esp
 Wondrous Items.obse.esp

@@ -10728,7 +10728,7 @@ CUO_Bravil.esp
  IF (A1A0CAA2|"CUO_Bravil.esp") DIRTY: 42 ITM, 729 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
- IF (5B6ADFB3|"The Lost Spires.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5B6ADFB3|"The Lost Spires.esp") DIRTY: 165 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-Lost Spires-Patch.esp
 OCR + Lost Spires Patch.esp
 The Lost Spires_delayer.esp

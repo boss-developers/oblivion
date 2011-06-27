@@ -9112,6 +9112,8 @@ Lions Claw harbuor area.esp
 Listener's Room.esp
 Listener Quarters.esp
 DB Listeners Quarters [Darker].esp
+Litterbug.esp
+: Shivering Isles
 
 LOCH_New_Skingrad_Bridge.esp
 Locked Doors and Knocking v1.02.esp
@@ -11119,8 +11121,8 @@ Oblivifall - Losing My Religion Sutch Reborn.esp
 \BeginGroup\: Tamriel Worldspace Modding Project
 \-----------------------------------------------
 
-TWMP_Valenwood_Elsweyr.esp
 TWMP_Summerset.esp
+TWMP_Valenwood_Elsweyr.esp
 TWMP_Hammerfell.esp
 TWMP_HighRock.esp
 TWMP_Skyrim.esp

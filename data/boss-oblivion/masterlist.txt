@@ -17794,6 +17794,7 @@ BCBravil-Barrowfields.esp
 Better Cities - Unique Landscape Barrowfields.esp
 Better Cities B&M - Unique Landscape Barrowfields.esp
 BCBravil-Barrowfields patch.esp
+Better Cities Full - Unique Landscape Barrowfields.esp
 
 Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
@@ -17835,6 +17836,8 @@ BCCheydinhalFULLB&M-CheydinhalFalls patch.esp
 % {{BASH: C.Water}}
 ? Use only one BCCheydinhal*version*-CheydinhalFalls patch.esp
 Better Cities - Unique Landscape Cheydinhal Falls.esp
+% {{BASH: C.Water}}
+Better Cities Full - Unique Landscape Cheydinhal Falls.esp
 % {{BASH: C.Water}}
 
 Better Cities - CUO Leyawiin Patch.esp

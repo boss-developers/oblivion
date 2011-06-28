@@ -4563,7 +4563,7 @@ Shdw_Weapon Set_Thorgeir.esp
 Shdw_weapon pack01.esp
 Shdw_weapon pack02.esp
 Shields Of Antiquity.esp
-% {BASH: Invent}}
+% {{BASH: Invent}}
 Shivering Armor Variety.esp
 Shivering Armor Variety - Test.esp
 ? Outdated. Update to the release version.
@@ -9059,6 +9059,16 @@ Lair_of_the_Hydra_1C.esp
 \BeginGroup\: Quests L
 
 _lpHameHighRoad.esp
+Lady Stone Villa.esp
+? Use only one 'Lady Stone Villa' plugin.
+" Oscuro's Oblivion Overhaul
+ IF (3F125733|"Lady Stone Villa.esp") DIRTY: 6 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C5B26ABE|"Lady Stone Villa.esp") DIRTY: 22 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Lady Stone Villa ULCompatable.esp
+? Use only one 'Lady Stone Villa' plugin.
+" Oscuro's Oblivion Overhaul
+ IF (AEF9E69D|"Lady Stone Villa ULCompatable.esp") DIRTY: 3 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5D2B3929|"Lady Stone Villa ULCompatable.esp") DIRTY: 21 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Land of Hyrule.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
@@ -11769,7 +11779,7 @@ ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp
 % {{BASH: Invent}}
 ? Obsolete - superseeded by 'ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp'.
 ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp
-% {BASH: Invent}}
+% {{BASH: Invent}}
 ? Don't use with 'ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp'.
 ImpeREALForts+BrinaCross Patch.esp
 ImpeREALForts+LostSpires Patch.esp

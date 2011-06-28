@@ -12292,6 +12292,8 @@ Addendum - Diabloblivion.esp
  IF (D6814DD|"Addendum - Diabloblivion.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
+Amulets and Rings for everybody.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Invent, Stats}}
 ANB_WeaponAddons_Enhanced.esp
 ANBBobbingMotion.esp
 ANB_Item_Switchers.esp

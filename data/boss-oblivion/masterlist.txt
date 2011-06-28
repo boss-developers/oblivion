@@ -8236,6 +8236,15 @@ CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Cyrodiil Rebuild.esp
+% {{BASH: Actors.ACBS, Actors.AIPackages, Invent, Relations}}
+" AnvilBayExpansion.esp
+" Bravil Docks.esp
+" ImpeREAL Empire - Unique Castles - Bruma.esp
+" mrSiikas_ImperialCathedral.esp
+" xulChorrolHinterland.esp
+" Extended Cyrodiil - Apfelwacht extended 
+" *Better Cities CHORROL.esp
+ IF (A3178EEA|"Cyrodiil Rebuild.esp") DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Training Center.esp
 \EndGroup\\
 

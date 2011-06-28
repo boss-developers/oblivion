@@ -14081,22 +14081,22 @@ Ashes to Ashes.esp
 Ashes to Ashes & MMM - Compatibility Patch.esp
 
 MHE v2 Tail.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 MHE v2.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 MHE v2 - UFF&Robert Tail.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 MHE v2 - UFF&Robert.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 MHE v2 - Exnem&Robert Tail.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 MHE v2 - Exnem&Robert.esp
-% {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations, R.Ears, R.Teeth}}
+% {{BASH: Actors.ACBS, Actors.Stats, Eyes, Graphics, Hair, NPC.Race, NpcFaces, R.Ears, R.Relations, R.Teeth}}
 ? Use only one MHE v2 esp
 
 StarX Vanilla Vampires Revised.esp

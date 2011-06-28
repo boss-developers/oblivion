@@ -8235,6 +8235,7 @@ CV - Templar Fortress.esp
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+Cyrodiil Rebuild.esp
 Cyrodiil Training Center.esp
 \EndGroup\\
 
@@ -11432,6 +11433,7 @@ DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
 CountySutchOwlsCove-LostCoast patch.esp
+CRpatchForXULlostCoast.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
@@ -11483,6 +11485,7 @@ TonaSimpleDressArmor-BravilBarrowfields patch.esp
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
 ColdstoneTown-BravilBarrowfields patch.esp
+CRpatchForXULbravilBarrowfields.esp
 MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
@@ -11525,6 +11528,7 @@ xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 ? Obsolete if using Ancient Redwoods 1.6 or higher.
 PineLodge2-AncientRedwoods patch.esp
+CRpatchForXULancientRedwoods.esp
 
 xulCloudtopMountains.esp
 Unique Landscapes - Cloudtop Mountains DV.esp
@@ -11667,6 +11671,7 @@ TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch DV.esp
 CastleRavenpride-CheydinhalFalls patch.esp
+CRpatchForXULcheydinhalFalls.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Oblivion Collectible Cards UL Cheydinhal Falls Patch.esp
 Villages-CheydinhalFalls patch.esp
@@ -11688,6 +11693,7 @@ Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
+CRpatchForXULskingradOutskirts.esp
 
 xulSnowdale.esp
 Unique Landscapes - Snowdale DV.esp
@@ -11698,6 +11704,7 @@ FrostcragReborn-Snowdale patch.esp
 OOO-Snowdale Patch.esp
 RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
+CRpatchForXULsnowdale.esp
 
 xulCliffsOfAnvil.esp
 Unique Landscapes - Cliffs Of Anvil DV.esp

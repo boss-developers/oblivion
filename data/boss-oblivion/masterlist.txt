@@ -11120,17 +11120,29 @@ Dschinni Vwalk.esp
 \----------------------------
 
 Better daedric shrines Namira.esp
+ IF (77CE697E|"Better daedric shrines Namira.esp") DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines sanguine.esp
+ IF (2AFEA0AD|"Better daedric shrines sanguine.esp") DIRTY: 0 ITM, 56 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines Sheogorath.esp
+ IF (FFB0BBA8|"Better daedric shrines Sheogorath.esp") DIRTY: 3 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 better daedric shrines Meridia.esp
+ IF (A0C29155|"better daedric shrines Meridia.esp") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines Clavicus.esp
+ IF (1BE37CEA|"Better daedric shrines Clavicus.esp") DIRTY: 9 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines Vaermina.esp
+ IF (61154249|"Better daedric shrines Vaermina.esp") DIRTY: 117 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 better daedric shrines Nocturnal.esp
+ IF (D590B3C6|"better daedric shrines Nocturnal.esp") DIRTY: 10 ITM, 25 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines malacath.esp
+ IF (3075B59|"Better daedric shrines malacath.esp") DIRTY: 10 ITM, 25 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines molag bal.esp
+ IF (DF0548D3|"Better daedric shrines molag bal.esp") DIRTY: 15 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrine Pyriate.esp
+ IF (3A4A8659|"Better daedric shrine Pyriate.esp") DIRTY: 12 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrine Hircine.esp
+ IF (BB04D78A|"Better daedric shrine Hircine.esp") DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrine Azura.esp
+ IF (8EE4EA11|"Better daedric shrine Azura.esp") DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH: Hair, Invent, C.Owner, Actors.AIPackages}}

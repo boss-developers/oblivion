@@ -8993,7 +8993,7 @@ Kragenirs_WhiteStallion_Compat.esp
 Burning Kvatch.esp
 Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
-% {{BASH: Actors.AIPackages}}
+% {{BASH: Actors.AIPackages, Invent}}
  IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: 26 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp

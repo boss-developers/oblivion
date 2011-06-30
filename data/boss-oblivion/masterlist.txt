@@ -6830,7 +6830,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
-% {{BASH: Actors.ACBS, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OWC - New Dimension UOP.esp
 OWCND EnPath.esp
@@ -7216,6 +7216,7 @@ WAC - WeaponNoScriptMOBS.esp
 WAC OgrePatch.esp
 % {{BASH: Graphics}}
 WAC.esp
+% {{BASH: Graphics}}
 WAC v1 BulkyMonsters.esp
 % {{BASH: Graphics}}
 WAC Giants Patch.esp

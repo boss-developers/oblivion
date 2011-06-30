@@ -7829,6 +7829,8 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 Artifacts SoB Patch.esp
+dmra_bbb_artifacts.esp
+% {{BASH: Graphics, NoMerge}}
 AraenyaRealm.esp
 A Son's Revenge 2.0.esp
 AsarusTomb1.esp
@@ -10604,6 +10606,8 @@ Knights Vwalk UOP.esp
 % {{BASH: Actors.Anims, NoMerge}}
 EVE_KnightsoftheNine.esp
 % {{BASH: Graphics, NoMerge}}
+Knights_DMRA.esp
+% {{BASH: Graphics, NoMerge}}
 MOBS_Knights.esp
 % {{BASH: Stats}}
 MOBS Knights.esp
@@ -10644,6 +10648,7 @@ Mart's Monster Mod for OOO - Knights .esp
 TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 % {{BASH: Actors.AIPackages}}
+All Natural RL - DLC Patch.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp

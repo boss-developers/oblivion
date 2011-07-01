@@ -12119,6 +12119,7 @@ Open Cities Reborn - Full Merge.esp
 ? Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn.esp
+% {{BASH: C.Name}}
 
 \EndGroup\\
 

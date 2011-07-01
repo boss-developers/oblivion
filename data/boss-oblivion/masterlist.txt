@@ -7196,11 +7196,11 @@ un-leveled-shops.esp
 
 WAC - ItemLootFix4v1.0b.esp
 % {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
-? For Vanilla and Fran(not Francesco's Optional New Creatures Add-On.esm) and WarCry
+: Vanilla or Fran(not Francesco's Optional New Creatures Add-On.esm) or WarCry
 ? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bFran.esp
 % {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
-? For Fran(Francesco's Optional New Creatures Add-On.esm)
+: Fran(Francesco's Optional New Creatures Add-On.esm)
 ? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bOOO.esp
 % {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
@@ -7208,10 +7208,18 @@ WAC - ItemLootFix4v1.0bOOO.esp
 ? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bMMM.esp
 % {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
-? For MMM / OOO+MMM / FCOM
+: MMM or FCOM
+? Use only one WAC - ItemLootFix plugin.
+WAC - ItemLootFix4v1.0bMMMorFCOM.esp
+% {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
+: MMM or FCOM
 ? Use only one WAC - ItemLootFix plugin.
 WAC - ItemLootFix4v1.0bOWCND.esp
+% {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 : Oblivion Warcry New Dimension
+? Use only one WAC - ItemLootFix plugin.
+WAC - ItemLootFix4v1.0bVNT.esp
+% {{BASH: Actors.Stats, Actors.AIData, Delev, Factions, Invent, Relev, Stats, Relations}}
 ? Use only one WAC - ItemLootFix plugin.
 WAC - WeaponReachMOBS.esp
 % {{BASH: Stats}}

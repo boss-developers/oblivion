@@ -523,7 +523,7 @@ emperorface.esp
 % {{BASH: NpcFaces, NoMerge}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Absolutely_Sexy_MarketDistrict.esp
-% {{BASH: NpcFaces, Invent, NoMerge}}
+% {{BASH: NpcFaces, Invent}}
 YoungerNPCs.esp
 % {{BASH: NpcFaces, NoMerge}}
 LD_Patrick_Stewart_Sean_Bean.esp
@@ -544,6 +544,8 @@ BeautifulJensine.esp
 % {{BASH: NpcFaces, NoMerge}}
 Prettier Vampire Faces.esp
 % {{BASH: NpcFaces, NoMerge}}
+Better Faces.esp
+% {{BASH: NpcFaces}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes

@@ -9421,7 +9421,6 @@ NNWAREAyleidDungeons_Series1DV.esp
 NNWAEDungeons-Series2EV.esp
 NNWAEDungeons-Series2DV.esp
 NNWARE06-RhyeliaEmeroEV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWARE06-RhyeliaEmeroDV.esp
 NNWARE01EV-Sercen.esp
 ? Obsolete. Update to series 2+.
@@ -11156,7 +11155,7 @@ Better daedric shrines Clavicus.esp
 Better daedric shrines Vaermina.esp
  IF (61154249|"Better daedric shrines Vaermina.esp") DIRTY: 117 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 better daedric shrines Nocturnal.esp
- IF (D590B3C6|"better daedric shrines Nocturnal.esp") DIRTY: 10 ITM, 25 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D590B3C6|"better daedric shrines Nocturnal.esp") DIRTY: 5 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines malacath.esp
  IF (3075B59|"Better daedric shrines malacath.esp") DIRTY: 10 ITM, 25 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrines molag bal.esp

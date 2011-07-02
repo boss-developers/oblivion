@@ -94,9 +94,11 @@ EnhancedWeatherSIOnly.esm
 ? Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
-% {{BASH: Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
 Francesco's Optional New Items Add-On.esm
+{{BASH: Delev, Relev}}
 Francesco's Optional New Creatures Add-On.esm
+{{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev,Scripts}}
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
 Children Of Rourken.esm

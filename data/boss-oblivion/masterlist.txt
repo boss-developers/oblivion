@@ -4165,6 +4165,8 @@ LSBSkullWeapons.1.esp
 % {{BASH: Invent}}
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
+%{{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Invent, NPC.Class, Names, NpcFaces, Relev}}
+? 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LSB Skull Weapons (Clean).esp
 0FLeatherSuitV2.esp
 \EndGroup\\

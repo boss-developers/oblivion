@@ -7501,6 +7501,13 @@ Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Water Level Fix.esp
 MorrowOblivion_World Transport.esp
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
+? Obsolete. Upgrade to version 7+
+Morroblivion_Chargen_And_Transport_Mod_v7.esp
+MorrowOblivion_Eloth Soulgem Replacer.esp
+MorrowOblivion_Visual Overhaul Landscape & Grass.esp
+Creatures Revisited Undead.esp
+Creatures2.esp
+LandTexturesWithGrassPlusLOD.esp
 ChargenFix-Thermador.esp
 Ash&BlightStorms.esp
 
@@ -16590,6 +16597,8 @@ Ancient Elven Sorceress - DV.esp
 CapsAdmin.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 Classic Witcher.esp
+Classic Witcher RMBR.esp
+Lattamerv3.esp
 MGothic Breton Race.esp
 % {{BASH: NpcFaces, Hair, Eyes}}
 Moogles.esp
@@ -16598,8 +16607,10 @@ Na'vi race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Nazrin-Race.esp
 opaquan.esp
+Flan - Enayla Races for HEAD06.esp
 Sharingan and Uchiha Clan.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+SuccubusRace.esp
 Synx.esp
 % {{BASH: Hair, Eyes}}
 KHStrangers.esp

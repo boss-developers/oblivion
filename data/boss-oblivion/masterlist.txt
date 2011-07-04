@@ -1103,6 +1103,7 @@ Immersive Interiors.esp
 : All Natural - For the transparent windows and the ESM file.
 % {{BASH: C.Water}}
 Immersive Interiors - Lights Addon.esp
+? Obsolete. Update to the latest version of Immersive Interiors and delete this.
 
 ReneerInteriorsMod.esp
 
@@ -1728,7 +1729,6 @@ OCC-CoC-Patch.esp
 ClocksOfCyrodiil - ChorrolTextureChange.esp
 Better Clocks.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Better Clocks for Better Cities.esp
 
 ClothingIsArmor.esp
 
@@ -6889,7 +6889,7 @@ TamrielTravellers4OOO.esp
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
-% {{BASH: Filter, Delev, Relev, Deactivate}}
+% {{BASH: Filter, Delev, Relev, Deactivate, NoMerge}}
 TamrielTravellersItemsCobl.esp
 : COBL.
 TamrielTravellersItemsVendor.esp
@@ -8062,6 +8062,10 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 BluWill1.esp
 BnKGreenBravil.esp
 Bonds Firebird V01.esp
+BossPhaitCrab.esp
+? 12 ITM, unknown UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+BossPhaitDismal.esp
+? 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
@@ -9670,6 +9674,9 @@ RumpleMod Rwalk.esp
 RumpleMod Swalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 RumpleMod Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
+RumpleModSI.esp
+RumpleModSI Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 RunedRobes.esp
 RuneTower.esp
@@ -16833,6 +16840,8 @@ CM Frodo.esp
 CM Fireflys Combined Companions.esp
 CM Garrus.esp
 CM Illona.esp
+CMIsabell.esp
+: CM Partners Basic
 CM Tifa A.esp
 CMpartnerTifa.esp
 % {{BASH: Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth}}
@@ -17676,7 +17685,7 @@ bgBalancingEVLAMEGlue.esp
 bgBalancingDVLAMEGlue.esp
 : LAME and Shivering Isles.
 bgBalancingEVOptionalNPCDiversityLAME.esp
-
+% {{BASH: NpcFaces, NoMerge}}
 bgBalancingEVLAMEIntegration.esp
 
 bgHighElfSeamReducerFixEV.esp
@@ -18156,6 +18165,7 @@ Alternate Start Revamped.esp
 _burning_kvatch.esp
 DMP - Burning Kvatch.esp
 Better Cities - Halcyon Island.esp
+Better Clocks for Better Cities.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp

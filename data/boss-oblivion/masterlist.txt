@@ -7692,6 +7692,9 @@ Alexandriav3.esp
 Alexis_Magiergilde.esp
 Albae+Gefährten.esp
 AlchemistForHire.esp
+Ald-Khull.esp
+" Abandoned Village of Lily
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AL_Maverick.esp
 AL_Nightmare.esp
 AL_WildSpright.esp
@@ -8063,9 +8066,14 @@ BluWill1.esp
 BnKGreenBravil.esp
 Bonds Firebird V01.esp
 BossPhaitCrab.esp
+: OBSE 20+
 ? 12 ITM, unknown UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitDismal.esp
+: OBSE 20+
 ? 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+BossPhaitStygainHalls.esp
+: OBSE 20+
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
@@ -8346,6 +8354,9 @@ The Dead Knights.esp
 Deathtrap Dungeon.esp
 Dk offhand weapons.esp
 Dk second knight update.esp
+Deepwood Adventures.esp
+: OBSE, Elys Universal Silent Voice
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DeerLeap.esp
 Defenders of Cyrodiil.esp
 Del_New_Sheoth_Homes.esp
@@ -8730,6 +8741,7 @@ Hentai_mania_statuetki.esp
 HMO_ForHMC.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
+hantai mapbook.esp
 Hero Hill Redone.esp
 High Rock.esp
 HighwaymanHideway.esp
@@ -9115,6 +9127,9 @@ Latexshop2.esp
 latexshopstore.esp
 LE_search.esp
 Legends Baleful Eye.esp
+Legends - Baleful Eye.esp
+: OBSE 20+
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legends - Zefaro Cottage.esp
 : OBSE 18+, USV, HGEC or Exnem body.
 Legion Faction Mod.esp
@@ -9363,6 +9378,8 @@ mystery of mausoleum Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 MysticAcrhives.esp
 My Farm House.esp
+Mysterious Bear's Ramshackle Armory.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MyTentHome.esp
 \EndGroup\\
 
@@ -9569,6 +9586,7 @@ QOTW011.esp
 QOTW012.esp
 QOTW013.esp
 QOTW014.esp
+QOTW011-020.esp
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -9694,6 +9712,8 @@ Rayearth_1C.esp
 
 \BeginGroup\: Quests S
 
+Sacred Duty.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sakveed Manor.esp
 Salan's Cellar.esp
 Saldaea.esp
@@ -9963,6 +9983,9 @@ The Horror in the Village of Kuhn Dah.esp
 The Temple of Medusa.esp
  IF (0CC093DE|"The Temple of Medusa.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
+The Temple of The Sleeper.esp
+: Paladin Equipment, Dragonbone Reloaded
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Treasure House.esp
 TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp

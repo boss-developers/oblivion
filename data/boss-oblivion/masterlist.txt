@@ -3302,6 +3302,7 @@ $ Probably not compatible with OOO. Untested.
 Banes Steel Helm Replacer.esp
 % {{BASH: Graphics}}
 BarbarianShop.esp
+ IF (11B8BA44|"BarbarianShop.esp") DIRTY: 3 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bar Maid.esp
 BaronArmor.esp
 Battle Princess.esp
@@ -3349,6 +3350,7 @@ Blood Knight Armor.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bloodwine-6073.esp
+BLRollingPinEV.esp
 Blue and White.esp
 Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
@@ -4202,6 +4204,7 @@ Medieval leather armors.esp
 Midlander.esp
 Midlander_HGEC.esp
 MODArnTemplar.esp
+ IF (958A7C|"MODArnTemplar.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MODRoadRogue.esp
 moon.esp
 Morrigan Armor Set v1_0.esp
@@ -4450,12 +4453,14 @@ Raziel_Apperal.esp
 Raziel Training Dummy BETA.esp
 RDAyleidArmour.esp
 rdweaponpack1.esp
+Recolored Dresses.esp
 Redemption.esp
 RedgardWeaponsMod.esp
 ? Make sure to load an overhaul or something after or manually rename the cells that this edits.
 RedGlassGear.esp
 RenKnockOutArrow.esp
 Retma Dresses.esp
+ IF (2DF18C43|"Retma Dresses.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Reznod Mannequin.esp
 Reznod_Mannequin_1C.esp
 Reznod_Mannequin_HD[Eng].esp
@@ -6030,6 +6035,7 @@ Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
  IF (DE136AF6|"Bob's Armory Oblivion.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
+ IF (9D227096|"Cheat Bob's Armory Oblivion.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bob's Armory OblivionRU.esp
 FCOM_BobsArmory.esp
 : 'Bob's Armory Oblivion.esp'.
@@ -6176,6 +6182,7 @@ Hemingweys Capes Improved for OOO.esp
 % {{BASH: Invent, Scripts, Stats}}
 Hemingweys Capes Improved.esp
 % {{BASH: Invent, Stats}}
+ IF (397CB5DD|"Hemingweys Capes Improved.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hemingweys Capes Improved No Tail Capes Patch.esp
 \
 Hemingweys Capes Improved Merchants.esp
@@ -6889,7 +6896,7 @@ TamrielTravellers4OOO.esp
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
-% {{BASH: Filter, Delev, Relev, Deactivate, NoMerge}}
+% {{BASH: Filter, Delev, Relev, Deactivate}} and remove [NoMerge] tag.
 TamrielTravellersItemsCobl.esp
 : COBL.
 TamrielTravellersItemsVendor.esp
@@ -9844,6 +9851,8 @@ SkyrimObservatory.esp
 Skyship.esp
 SYS Patch-Bond's Skyship.esp
 SkullofMondain.esp
+Slappy's Wigs v1.0.esp
+ IF (71A3DAD3|"Slappy's Wigs v1.0.esp") DIRTY: 12 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slash n Smash.esp
 SleepyCatInn.esp
 Slimy Mudhole.esp
@@ -13083,6 +13092,7 @@ NirnrootPermPotions.esp
 NirnrootPlants.esp
 % {{BASH: Graphics}}
 Nirnroot Tweak.esp
+Nobody Loves Me.esp
 No_Essential_NPC-2076.esp
 NoFlicker_BrightTorch.esp
 NoFlicker_BrightTorch2.esp

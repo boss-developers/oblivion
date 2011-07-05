@@ -6893,7 +6893,7 @@ TamrielTravellersItemsNPC.esp
 TamrielTravellersItemsCobl.esp
 : COBL.
 TamrielTravellersItemsVendor.esp
-% {{BASH: Filter, Delev, Relev, Deactivate}}
+% {{BASH: Filter, Delev, Relev, Deactivate}} and remove [NoMerge] tag.
 TamrielTravellersItemsUnscaled.esp
 >* Delete. Not compatible with FCOM.
 ? Not overhaul mod compatible.

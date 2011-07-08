@@ -15951,11 +15951,11 @@ Let There Be Darkness All.esp
 % {{BASH: C.Light, Deactivate, Filter}}
 
 Cava Obscura - Cyrodiil.esp
-% {{BASH: C.Light, Deactivate}}
+% {{BASH: C.Light, Deactivate, NoMerge}}
 Cava Obscura - SI.esp
-% {{BASH: C.Light, Deactivate}}
+% {{BASH: C.Light, Deactivate, NoMerge}}
 Cava Obscura - Filter Patch For Mods.esp
-% {{BASH: C.Light, Deactivate, Filter}}
+% {{BASH: C.Light, Deactivate, Filter, NoMerge}}
 
 FastTravelAllowed.esp
 

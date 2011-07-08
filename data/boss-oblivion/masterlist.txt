@@ -3415,6 +3415,7 @@ BowOfShadow.esp
 BowOfShadows.esp
 Brigand's Gear.esp
 % {{BASH: Invent}}
+Brittainy's Finery Addon.esp
 BryntrollTheBoneArbitor.esp
 BSK Break Undies.esp
 Burningweapons.esp
@@ -5315,6 +5316,7 @@ Break_ESalor__and_LingerieSet.esp
 CrimsonEyeCandy.esp
 Crimson Eyecandy White.esp
 CB Classy Dress.esp
+CB Rogue Armor.esp
 Chrome Amazon Armor.esp
 % {{BASH: Graphics}}
 CDM-Assassin Robes Renamed.esp
@@ -14863,6 +14865,7 @@ CustomSpellIcons.esp
 CustomSpellIcons_Cobl.esp
 
 StealthyAbsorbsAndDrains.esp
+OBMEStealthyAbDr.esp
 OBSE-Zauberentfernung.esp
 \EndGroup\\
 
@@ -16573,6 +16576,9 @@ LittleElf.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Sun_&_Night_Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Vampire Race Reloaded.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+? May contain wild edits to vanilla vampire attributes.
 Vexend Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Voldemort.esp

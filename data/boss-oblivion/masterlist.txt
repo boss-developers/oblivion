@@ -7572,6 +7572,9 @@ TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
 ? 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound - Talos Bridge Gatehouse.esp
+
+\This needs to load before Impereal Empire - Unique Castles to prevent land tears.
+Trade and Commerce.esp
 \EndGroup\\
 
 \BeginGroup\: Quests #
@@ -16383,6 +16386,8 @@ Riflers Races.esp
 Sadran.esp
 Salutrian Elves.esp
 % {{BASH: NpcFaces, Eyes, Graphics, Hair, R.Attributes-F, R.Attributes-M, R.Description, R.Ears, R.Head, R.Mouth, R.Skills, R.Teeth}}
+Shrridan.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Slof's Playable Xivilai.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 " OOO, MMM or FCOM: Xivilai won't appear. Patch planned.

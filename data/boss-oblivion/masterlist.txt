@@ -2045,6 +2045,7 @@ MYR_AyleidExtensions.esp
 Maigrets House Cats.esp
 Maigrets Pet Fox.esp
 Maigrets Sable thePanther.esp
+Maigrets Twin Pixies.esp
 Summon Undead Mount by Nitocris.esp
 MERP-Bree House Interiors.esp
 
@@ -4638,6 +4639,7 @@ Slof's Claws.esp
 Slof's Dark Assassin Armour.esp
 Slof's Dark Saint.esp
 Slof's Eyren Armours.esp
+Slof's Gentlemen's Wear.esp
 Slof's Giger Armour.esp
  IF (8B6D4ABC|"Slof's Giger Armour.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slof's Heartbreaker.esp
@@ -10310,6 +10312,7 @@ Apachii_Heroes_Store.esp
 Apachii_Heroes_Store_DV.esp
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
+villamedici.esp
 VileLairRebuilt.esp
 
 VOILA.esp

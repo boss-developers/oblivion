@@ -7575,6 +7575,7 @@ Storms & Sound - Talos Bridge Gatehouse.esp
 
 \This needs to load before Impereal Empire - Unique Castles to prevent land tears.
 Trade and Commerce.esp
+ IF (DC6AFCCD|"Trade and Commerce.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Quests #

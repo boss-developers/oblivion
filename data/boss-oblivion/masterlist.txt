@@ -7786,7 +7786,7 @@ SYS Patch-Amen'thalas Well House.esp
 Amen'thalas - SYS Patch.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
-Ancient_Islands-4896.esp
+-4896.esp
 Ancient_Goblin_City-4843.esp
 Ancient_Goblin_City.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
@@ -7855,6 +7855,9 @@ Archfall_house.esp
 Archmageexpanded.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
+Arkshtrumz.esp
+% {{BASH: Actors.Spells, Graphics, Names, Relev}}
+? 23 ITM, 0 UDR: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armageddon.esp
 Armoured Arms Altered.esp
 Armoured Arms Redone.esp

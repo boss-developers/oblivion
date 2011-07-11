@@ -38,7 +38,7 @@
  IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
  IF ("Better Cities Resources.esm") SET: BC
  IF ("FCOM_Convergence.esm") SET: FCOM
- 
+
 \ Upgrade message for 1.7 users:
  IF (<1.8.0.0|"BOSS") GLOBAL WARN: You are using an outdated version of BOSS. An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
@@ -8311,7 +8311,7 @@ Cyrodiil Rebuild.esp
 " ImpeREAL Empire - Unique Castles - Bruma.esp
 " mrSiikas_ImperialCathedral.esp
 " xulChorrolHinterland.esp
-" Extended Cyrodiil - Apfelwacht extended 
+" Extended Cyrodiil - Apfelwacht extended
 " *Better Cities CHORROL.esp
  IF (A3178EEA|"Cyrodiil Rebuild.esp") DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Training Center.esp
@@ -16537,7 +16537,7 @@ IDKRRR_Moira_race.esp
 ChimerofLight_Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 CCC.esp
-{{BASH:Body-M,Eyes,Graphics,Hair,NpcFaces,R.Mouth,R.Teeth}}
+% {{BASH:Body-M,Eyes,Graphics,Hair,NpcFaces,R.Mouth,R.Teeth}}
 Energy - Beautiful Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 Demon Hunter.esp

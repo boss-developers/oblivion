@@ -16536,6 +16536,8 @@ IDKRRR_Moira_race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 ChimerofLight_Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+CCC.esp
+{{BASH:Body-M,Eyes,Graphics,Hair,NpcFaces,R.Mouth,R.Teeth}}
 Energy - Beautiful Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 Demon Hunter.esp

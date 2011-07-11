@@ -101,7 +101,7 @@ Francesco's Leveled Creatures-Items Mod.esm
 Francesco's Optional New Items Add-On.esm
 {{BASH: Delev, Relev}}
 Francesco's Optional New Creatures Add-On.esm
-{{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev,Scripts}}
+{{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev, Scripts}}
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
 Children Of Rourken.esm
@@ -10014,7 +10014,7 @@ The Kingdom of Shadow test1.esp
  IF (6E718D35|"The Kingdom of Shadow test1.esp") DIRTY: 1292 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (4C73C319|"The Kingdom of Shadow test1.esp") DIRTY: 1292 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Kingdom of Shadow test1 Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 The Temple of Medusa.esp
  IF (0CC093DE|"The Temple of Medusa.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
@@ -16537,7 +16537,7 @@ IDKRRR_Moira_race.esp
 ChimerofLight_Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 CCC.esp
-% {{BASH:Body-M,Eyes,Graphics,Hair,NpcFaces,R.Mouth,R.Teeth}}
+% {{BASH: Body-M, Eyes, Graphics, Hair, NpcFaces, R.Mouth, R.Teeth}}
 Energy - Beautiful Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 Demon Hunter.esp

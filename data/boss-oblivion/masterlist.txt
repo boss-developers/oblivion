@@ -17051,6 +17051,16 @@ cssJaKhaiitMyr.esp
  IF (CBB991E4|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+1em_Vilja OOO FCOM Fix.esp
+% {{BASH: Factions, Relations, NoMerge}}
+? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection.
+: Requires OOO (and is good for OOO / MMMforOOO / FCOM / etc.)
+1em_Vilja MMM Fix.esp
+% {{BASH: Factions, NoMerge}}
+1em_Vilja MMM FCOM Fix.esp
+% {{BASH: Factions, Relations, NoMerge}}
+? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures.
+: Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 1em_Vilja_Neck_Seam_Concealer.esp
 1em_Vilja_as_Argonian.esp
 ? Choose only ONE customization for Vilja.
@@ -17156,16 +17166,6 @@ cssJaKhaiitMyr.esp
 % {{BASH: Graphics}}
 1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
 % {{BASH: Graphics}}
-1em_Vilja OOO FCOM Fix.esp
-% {{BASH: Factions, Relations, NoMerge}}
-? Use this or "1em_Vilja MMM FCOM Fix.esp", but not both; The OOO Version offers less protection.
-: Requires OOO (and is good for OOO / MMMforOOO / FCOM / etc.)
-1em_Vilja MMM Fix.esp
-% {{BASH: Factions, NoMerge}}
-1em_Vilja MMM FCOM Fix.esp
-% {{BASH: Factions, Relations, NoMerge}}
-? Use this or "1em_Vilja OOO FCOM Fix.esp", but not both; The MMM Version offers more protection from certain Npc and Creatures.
-: Requires MMM ( and is good for MMM / MMMforFrans / etc. )
 ViljainAleswell.esp
 ViljainRedRoseManor.esp
 \EndGroup\\

@@ -1474,9 +1474,10 @@ AmbientDungeons.esp
 
 UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C8E00FE1|"AliveWaters.esp") DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+\The below CRC looks like a mistake.
+ IF (C8E00FE1|"AliveWaters - Koi Addon.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
 AliveWaters_nofish.esp
 MoreLive_AliveWatersRedone.esp
@@ -1923,6 +1924,7 @@ IngredientsDrawers.esp
 Item interchange - Extraction.esp
 % {{BASH: Filter, Deactivate}}
 : Bashed Patch.
+" Cobl. Already included in Cobl v1.72+.
 Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
@@ -2077,7 +2079,7 @@ Named Fighter's Guild Porters.esp
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7ECEFBDC|"New Potions by Tealpanda.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New Potions.esp
 % {{BASH: Graphics, NoMerge}}
 New_Potions_Fixed_Icons-25822.esp
@@ -2668,6 +2670,7 @@ DropLitTorchOBSE.esp
 DS Time Manager.esp
 Duke Patricks - Follow That Actor.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
+? Required if using any of Duke Patricks' mods with companion mods.
 DynamicLeveledLists.esp
 
 Enhanced Seasons.esp
@@ -2909,6 +2912,7 @@ Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
  IF (74D2CA6F|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+" 'Castle Dunkerlore', 'Kumiko Manor'
 DLCVileLair - Unofficial Patch.esp
 % {{BASH: Graphics}}
 Correctif VileLair.esp
@@ -6014,6 +6018,7 @@ Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
  IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BFECAEE3|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -7582,6 +7587,7 @@ Storms & Sound - Talos Bridge Gatehouse.esp
 \This needs to load before Impereal Empire - Unique Castles to prevent land tears.
 Trade and Commerce.esp
  IF (DC6AFCCD|"Trade and Commerce.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C5C1D187|"Trade and Commerce.esp") DIRTY: 17 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Quests #
@@ -10144,7 +10150,7 @@ The Vertueux.esp
 The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (50868802|"thievery.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 thievery - EE patch.esp
 TiansAyla_NNW.esp
 : OWC New Dimensions
@@ -10598,13 +10604,14 @@ $ Delete 'Lynges Thieves Highway.esp and use this instead.
 DLCFrostcrag.esp
 % {{BASH: C.Name, C.Owner, Factions}}
  IF (2A7665FB|"DLCFrostcrag.esp") DIRTY: 73 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9B056616|"DLCFrostcrag.esp") DIRTY: 3 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
 Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
-? Possible conflict with Frostcrag Reborn. Do not use both or land tearing will occur.
+? Do not use with Frostcrag Reborn to avoid land tearing.
 % {{BASH: Actors.ACBS, C.Name, C.Owner, Creatures.Blood}} and remove [C.Climate, C.Light] tags
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
@@ -10636,6 +10643,7 @@ FrostcragBetterFamiliars.esp
 Frostcrag For Busy People.esp
 Frostcrag Revisited Coblised.esp
 FrostcragRebornCobl.esp
+ IF (C9702E32|"FrostcragRebornCobl.esp") DIRTY: 0 ITM, 156 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragCoblAddons.esp
 The Wizard's Tower Recall spell.esp
 DLCFrostcrag Rwalk.esp
@@ -10906,6 +10914,7 @@ Blood&Mud.esp
 % {{BASH: Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
  IF (23A62955|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (84B95DF6|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 % {{BASH: Actors.ACBS}}
 Blood&Mud Vwalk.esp
@@ -12362,10 +12371,13 @@ NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 % {{BASH: Graphics, Scripts}}
  IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9DD13311|"Harvest [Flora] - Shivering Isles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
  IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+\The below CRC might be a mistake - it is identical to the Harvest Flora SI plugin's.
+ IF (9DD13311|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
@@ -12530,9 +12542,6 @@ BHC Home Delivery.esp
 BIDA- Blade + Magic Damage.esp
 \quite a lot of other BIDA plugins - need to research
 Bigger_Bears-3733.esp
-Birthsigns Expanded.esp
-% {{BASH: Names}}
-? May be a bit imbalanced when used with Race Balancing Project
 Birthsign Zero.esp
 BlackAzurasStar.esp
 BlackFineryWithAmulet.esp
@@ -12608,7 +12617,7 @@ clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
 % {{BASH: Names}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B0F1DE28|"Cliff_BetterLetters.esp") DIRTY: 8 ITM, 81 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff_BetterLetters_RU.esp
 % {{BASH: Names}}
 Cliff_RiskyInnBeds.esp
@@ -15410,7 +15419,7 @@ Duke Patricks - Actors Can Miss Now.esp
 ? Causes CTD with companions. Use 'Duke Patricks - Friendship Ring For Companion Detection' to avoid this.
 
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (63E23B2A|"Duke Patricks - Fresh Kills Now Alert The NPCs.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Duke Patrick's Zombie Flied 4p1.esp
 ? Obsolete. Remove this and install Duke Patrick's Combat Geometry.
@@ -15993,8 +16002,10 @@ Item interchange - Placement for Frostcrag Reborn.esp
 Item interchange - Placement for Frostcrag Spire Revisited.esp
 : Bashed Patch.
 Item interchange - Option, Ingredients in Bulk.esp
+? Use only one "Ingredients in Bulk" plugin.
 : Bashed Patch.
 Item interchange - Option, Ingredients in Bulk, reduced.esp
+? Use only one "Ingredients in Bulk" plugin.
 : Bashed Patch.
 Atmospheric Loading Screens - No Text.esp
 % {{BASH: Graphics}}
@@ -17820,6 +17831,10 @@ Cobl Races - Balanced.esp
 ? Do not use with Race Balancing Project.
 Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
+Birthsigns Expanded.esp
+\Loading here to work better with Cobl Races.
+% {{BASH: Names}}
+? May be a bit imbalanced when used with Race Balancing Project.
 Diverse Races.esp
 % {{BASH: Body-Size-F, Body-Size-M}}
 Better_Berserk-2177.esp

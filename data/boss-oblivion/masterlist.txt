@@ -10621,7 +10621,7 @@ brumaguild.esp
 BrumaGuildReconstructed.esp
 Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
-? 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2610B3EA|"BrumaMGRestored.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCBruma+BrumaMGRestored Patch.esp
 BrumaMGRestored Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
@@ -10630,7 +10630,7 @@ BrumaMGRestored Swalk.esp
 BrumaMGRestored Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 BrumaMGRestored-Frostcrag.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FB464AAF|"BrumaMGRestored-Frostcrag.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Frostcrag Addon.esp
 FrostcragBetterFamiliars.esp
 Frostcrag For Busy People.esp

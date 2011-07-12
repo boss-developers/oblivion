@@ -573,6 +573,7 @@ Black Screen Fix.esp
 BlackScreenToggleFix.esp
 
 Allies for Bruma Fix.esp
+Anvil visible castle.esp
 Arcana Restored.esp
 ? Obsolete. Remove this and use the latest version of the UOP instead.
 ? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -2357,6 +2358,7 @@ MW_booze.esp
 MW_Booze, Cobl.esp
 
 Status Bars.esp
+StolenFlagRemover.esp
 Street Gangs.esp
 Unsafe Streets.esp
 
@@ -2383,6 +2385,7 @@ Thingamajigs Broken Armor DD Edit.esp
 Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
 Timescale Options.esp
+ToggleShaders.esp
 Torch Arrows.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
@@ -2730,6 +2733,7 @@ OBGE_SwitchDoF.esp
 
 P1DlookHereYou.esp
 P1DmenuEscape.esp
+PCB.esp
 Purge Cell Buffers - Cell Change.esp
 Purge Cell Buffers - Loading.esp
 
@@ -2739,7 +2743,7 @@ QZ Easy Menus.esp
 
 RandomHairEnemy.esp
 RedDelPCB.esp
-PCB.esp
+RunOrWalk.esp
 
 Scathe.esp
 ScreenControls.esp
@@ -3746,6 +3750,8 @@ EY_BM_Armory.esp
 Eyren_AyleidWarrior.esp
 Excalibur2.esp
 Excessor Sword.esp
+Exploding Arrows.esp
+Exploding Arrows on top of Archers Paradox.esp
 Explosives.esp
 Extremly Wet Panties.esp
 \EndGroup\\
@@ -7847,6 +7853,8 @@ Arcane Services.esp
 Arcaca_Infinium.esp
 ArcaneSkyHouse.esp
 Arcane University Telescope.esp
+Archer Shop Ver. 4.2.esp
+: Shivering Isles
 Archery Shops 2.0 no LL.esp
 Archery Shops 2.0.esp
 Archery Shop.esp
@@ -10525,6 +10533,7 @@ Arena_BattlesV1.2DV.esp
 Arena Capacity Crowds.esp
 Arena_Capacity_Crowds-5845.esp
 Arena Rebuild.esp
+ArenaTrainer.esp
 arenaloot v1.1.esp
 Bigger Arena Specator Fights.esp
 Decent Arena Rewards 4X.esp
@@ -12072,6 +12081,9 @@ Duke Patrick's Health Alarm with RED DEATH.esp
 Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 ? Only use one 'Health Alarm' mod. Choose.
 % {{BASH: Sound}}
+Duke Patrick's Health Alarm RED DEATH and Heartbeat.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH: Sound}}
 
 Duke Patricks The Lady said NO.esp
 ? Old. Update to latest version.
@@ -13233,6 +13245,7 @@ PersuasionOverhaul_MMM.esp
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
 persuasioncompatable1.8.esp
+Piratelords Pice Adjustments.esp
 PTRetroactiveTraining.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
 Potable Pastiche.esp
@@ -13266,6 +13279,8 @@ Q - Gem Value Modifier - Realistic v1.1.esp
 
 RandomEncounters.esp
 RandomGatesDontReopen.esp
+Ranokoas Organized Potions Two.esp
+% {{BASH: Names, Deactivate, NoMerge}}
 Ranokoas Purchase Use Enchant Spellmake.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
@@ -14027,6 +14042,7 @@ SkipTutorialv2.esp
 SkipTutorialv2_1.esp
 StartChoices.esp
 
+TutOptionedStart.esp
 TuStartingOptions_01.esp
 TuStartingOptions_02.esp
 TuStartingOptions_03.esp
@@ -14377,6 +14393,7 @@ Alter Weight Spells.esp
 always protection.esp
 Apprentice Mystic.esp
 Arcane Calendar.esp
+Attribute_Spells_Fix-2433.esp
 Ayleid Chain Shock.esp
 Ayleid Expansion.esp
 ? Suspected of messing up your magicka multiplier.
@@ -14454,6 +14471,7 @@ MadCompanionshipSpells.esp
 : OBSE 19+.
 MCS extension.esp
 Madgod Powers.esp
+Magic Effects OBSE Tweaks.esp
 Magus Lost Alteration Spells.esp
 Mark & Recall.esp
 MarkRecall.esp
@@ -14573,6 +14591,9 @@ The Sixth Element.esp
 TigerpawsGateCloser.esp
 TimboeMultiMark & Recall.esp
 TimeManipulationSpells.esp
+training spells.esp
+\Turn the below into a checksum-based warning at some point. CRC = DD4985A
+? DO NOT USE. This plugin is corrupt. It may be fixed by loading it in the CS and truncating the file when prompted.
 Transmutation Spell.esp
 Tylaars Multimark.esp
 Unique Summons & Banish Flesh.esp
@@ -14960,6 +14981,7 @@ Harvest [Flora] - Patch.esp
 \BeginGroup\: Enchantment
 
 Compleat Enchanter easy.esp
+DS Staff Overhaul.esp
 Empower Enchantment.3.x.esp
 Enchantment Enhanced.esp
 Enchanting Enhanced.esp
@@ -14990,6 +15012,7 @@ Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Imperishable Varla Stones.esp
 Panzer_Kleidung_03.esp
+Portable Enchanting And Spellmaking Scroll.esp
 Spells and Enchanting at guilds.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Soolie'sBetterEnchantmentEffects.esp
@@ -15293,7 +15316,7 @@ mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
 SilverBonus.esp
 : OBSE
-
+Steady Zoom.esp
 NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp
 BetterBlocking.esp

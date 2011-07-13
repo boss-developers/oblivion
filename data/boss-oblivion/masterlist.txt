@@ -1475,10 +1475,9 @@ AmbientDungeons.esp
 
 UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
- IF (C8E00FE1|"AliveWaters.esp") DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (0717BF5A|"AliveWaters.esp") DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
-\The below CRC looks like a mistake.
- IF (C8E00FE1|"AliveWaters - Koi Addon.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (47A85077|"AliveWaters - Koi Addon.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
 AliveWaters_nofish.esp
 MoreLive_AliveWatersRedone.esp
@@ -1885,6 +1884,7 @@ Fundies.esp
 \BeginGroup\: Base G
 
 GoldnSilverBars.esp
+Gold Smelting .esp
 Goranga restaurant job.esp
 Gorangas traveling merchant.esp
 GP Tent.esp
@@ -1997,6 +1997,7 @@ skinfix.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH: Invent}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+L's Mounted Looting.esp
 Ls Rentable Player Homes.esp
 \EndGroup\\
 
@@ -2080,7 +2081,7 @@ Named Fighter's Guild Porters.esp
 NBB.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
- IF (7ECEFBDC|"New Potions by Tealpanda.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E5983547|"New Potions by Tealpanda.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New Potions.esp
 % {{BASH: Graphics, NoMerge}}
 New_Potions_Fixed_Icons-25822.esp
@@ -2121,6 +2122,8 @@ OSRCustom.esp
 Packhorses v1.esp
 paladin.esp
 Paradisebird_2.esp
+Passion Fruit.esp
+% {{BASH: Graphics}}
 passive_horses.esp
 910-passive wildlife-TESSource.esp
 personality_idles2.esp
@@ -2331,6 +2334,7 @@ ShowHideAmulet.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
+Sigil_Stone_Chest-5050.esp
 Sigil_Stone_Spawner-3025.esp
 Silver and Gold Respawns.esp
 Doomstones Expanded.esp
@@ -3311,6 +3315,10 @@ Badmagic Crusader.esp
 Badmagic Red Ebony - Ebony Strength.esp
 Badmagic's Rogue Set.esp
 Baedoona_recurve_bow.esp
+Bearclaw_Helm_Replacer.esp
+% {{BASH: Graphics}}
+Beautiful Arena Armor.esp
+% {{BASH: Graphics}}
 BagOfAlchemy_1C.esp
 Bamboo Armor.esp
 % {{BASH: Invent}}
@@ -3367,6 +3375,8 @@ Blood Knight Armor.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bloodwine-6073.esp
+Bloodworm_Helm_Replacer.esp
+% {{BASH: Graphics}}
 BLRollingPinEV.esp
 Blue and White.esp
 Blue Destinys Paladin Armor.esp
@@ -3487,6 +3497,7 @@ Collectible T-Shirts V1.1.esp
 Collectible_TShirts_V11.esp
 Collectible T-Shirts V2.1.esp
 Colonial Clothing.esp
+Colovian Fur Helm.esp
 ComicBookSuits.esp
 ComfortableClothing.esp
 ComfortableClothing_NoHiddenAmulets.esp
@@ -3735,6 +3746,8 @@ extavegant masks.esp
 Elfenwacht.esp
 Eltonbrand Easter Egg.esp
 ElvenPrincess.esp
+Elven Weapon Replacements.esp
+% {{BASH: Graphics}}
 ElyndasLostDressesHGEC.esp
 Elwing.esp
 Emarion Equipment.esp
@@ -5345,6 +5358,7 @@ Colourwheels Sexy SI Armor & Clothing Replacer.esp
 % {{BASH: Graphics}}
 
 Daedric Lord Armor.esp
+Daedric Lord-Classic Bound Armor.esp
 DarkFlameSwordAndShield_v10_FIXED_ESP.esp
 Dark Illusion Armour (HGEC Version).esp
 ? 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5468,6 +5482,9 @@ Mithril_Sorceress_armor.esp
 More_Shields.esp
 Morrowind Robes and Dresses for HGEC.esp
 Morrowind Scimitars for Oblivion.esp
+MW  Dremora Armor.esp
+% {{BASH: Graphics}}
+: Daedric Lord Armor
 
 NamirasEmbraceArmour.esp
 necklacesbykalikut.esp
@@ -5825,6 +5842,7 @@ Black and Daedric Unicorn's.esp
 Orion the Ox.esp
 Shadowfax-2838.esp
 SellHorses.esp
+Skeletal Shadowmare.esp
 Ride_Wild_Horses_2.0.esp
 % {{BASH: Actors.AIData}}
 Rund ums Pferd.esp
@@ -6027,7 +6045,6 @@ Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
  IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (BFECAEE3|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -6351,6 +6368,7 @@ Better Hunting for OOO.esp
 % {{BASH: Stats}}
 
 John's Leveled List Overhaul.esp
+ IF (1347A16B|"John's Leveled List Overhaul.esp") DIRTY: 4 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 John's Leveled List Overhaul - Cyrodillic Armors.esp
 John's Leveled List Overhaul - Vanilla Armours.esp
 ? Don't use with John's Leveled List Overhaul - Vanilla Complete.esp)
@@ -6897,6 +6915,7 @@ OWC - KelbQuenitoArgonian.esp
 OWC - ND Old Loadingscreens Patch.esp
 OWC - NoHarvestFlora.esp
 OWC - TGPatch.esp
+OWC - No Serial Killers.esp
 OWC ND-Spawn-reduced.esp
 OWC ND - Oblivion XP Patch.esp
 \EndGroup\\
@@ -9211,14 +9230,14 @@ SYS Patch Glenvar Castle.esp
 Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
-? 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9D730B18|"LetThePeopleDrink.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
-? 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AC6A3945|"LetThePeopleDrink-Cobl.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
-? 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2A1A281B|"LetThePeopleDrink-fountainonly.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly-Cobl.esp
-? 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3B07DA89|"LetThePeopleDrink-fountainonly-Cobl.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KragenirsDeathQuest-LetThePeopleDrink patch.esp
 
 Leyawiin Castle & Guilds Upgrade.esp
@@ -9544,6 +9563,7 @@ OlauronCastleEn.esp
 OlauronCastleRuGE.esp
 OldHideoutRu.esp
 OldSchoolDungeons.esp
+OldwolfLifeLikeStatues.esp
 Old Ship.esp
 OMPexample.esp
 One Stop Magic Shop.esp
@@ -10163,7 +10183,7 @@ The Vertueux.esp
 The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp
- IF (50868802|"thievery.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D5951BC9|"thievery.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 thievery - EE patch.esp
 TiansAyla_NNW.esp
 : OWC New Dimensions
@@ -10622,6 +10642,7 @@ DLCFrostcrag.esp
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
+ IF (D2621E65|"DSoSFrostCragRebornExteriorStairsFix.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
@@ -10928,7 +10949,6 @@ Blood&Mud.esp
 % {{BASH: Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
  IF (23A62955|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (84B95DF6|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 % {{BASH: Actors.ACBS}}
 Blood&Mud Vwalk.esp
@@ -12387,14 +12407,11 @@ Harvest [Flora].esp
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 % {{BASH: Graphics, Scripts}}
- IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (9DD13311|"Harvest [Flora] - Shivering Isles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
- IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-\The below CRC might be a mistake - it is identical to the Harvest Flora SI plugin's.
- IF (9DD13311|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
@@ -12523,6 +12540,8 @@ Auto Repair.esp
 AutoRun.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
+AXR Elixirs (No Testing Chest).esp
+AXR Elixirs.esp
 \EndGroup\\
 
 \BeginGroup\: overrides B
@@ -12634,7 +12653,7 @@ clean mjy castle free v.2.esp
 Clean Spellbook.esp
 Cliff_BetterLetters.esp
 % {{BASH: Names}}
- IF (B0F1DE28|"Cliff_BetterLetters.esp") DIRTY: 8 ITM, 81 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E8007318|"Cliff_BetterLetters.esp") DIRTY: 8 ITM, 81 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff_BetterLetters_RU.esp
 % {{BASH: Names}}
 Cliff_RiskyInnBeds.esp
@@ -13674,6 +13693,7 @@ SPTDiverseGuards-LeyawiinOCR-AllRaces-Patch.esp
 ssjDawnDuskHotkey.esp
 spMerchant.esp
 sr_alternate_armor_formula.esp
+Skillbased Thieves Guild Invitation_HARD.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
 defaultstand.esp
 
@@ -14086,6 +14106,7 @@ RH 1.5.5 - Original Alchemy Edition.esp
 RH 1.5.5 Original Alchemy Edition MMM Patch.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RH1.6 Beta2 - Classic.esp
+RealHungerEx.esp
 
 BathingMod.esp
 BathingMod_Bathrooms.esp
@@ -14214,6 +14235,7 @@ RealisticMagicForceHigh.esp
 RealisticMagicForceLow.esp
 Realistic Force and Magic.esp
 RealisticForceAndMagicForceMedium.esp
+HavokCollisionFix.esp
 Power Exhaustion.esp
 
 Ronyns_Realistic_and_Fun_Acrobatics-8494.esp
@@ -14925,6 +14947,7 @@ OBSE-Zauberentfernung.esp
 
 alchemybugfix.esp
 AT_Alchemy_Rules.esp
+Better Apparati.esp
 Poison_Apples_as_Poison_Ingredient-3514.esp
 Poisoned Apple Fix.esp
 ? Will probably break Dark Botherhood guild quest.
@@ -15447,7 +15470,7 @@ Duke Patricks - Actors Can Miss Now.esp
 ? Causes CTD with companions. Use 'Duke Patricks - Friendship Ring For Companion Detection' to avoid this.
 
 Duke Patricks - Fresh Kills Now Alert The NPCs.esp
- IF (63E23B2A|"Duke Patricks - Fresh Kills Now Alert The NPCs.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FB7500C0|"Duke Patricks - Fresh Kills Now Alert The NPCs.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Duke Patrick's Zombie Flied 4p1.esp
 ? Obsolete. Remove this and install Duke Patrick's Combat Geometry.
@@ -16652,6 +16675,8 @@ Altair_Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 XeniaRace.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Warcraftelf.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 WieraRace_EV.esp
 % {{BASH: NpcFaces, Hair, Eyes}}
 Wolven Anthros.esp
@@ -16931,6 +16956,7 @@ cmAbbeyAeryn.esp
 CM Alexander.esp
 % {{BASH: Hair, NpcFaces}}
 : Xenius' Deus Obscura race
+CM Audrey.esp
 cmBellenia.esp
 CM Boromir.esp
 % {{BASH: Graphics, NpcFaces}}
@@ -16996,9 +17022,12 @@ CM NOVA.esp
 CM SASHEIRA.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
+Cm TwinsMascFem.esp
+CM TwinsRoeCalihari.esp
 CMTorys.esp
 CM Vampire Golbert.esp
 CM Zhang.esp
+CM_Zheane.esp
 Colourwheels Sexy Tifa.esp
 % {{BASH: NpcFaces}}
 CM ElizabethColourWheel.esp
@@ -17519,6 +17548,9 @@ Cobl Races.esp
 ? Do not use with RBP.
 \EndGroup\\
 
+PlayAurMaz.esp
+% {{BASH: Body-F, Body-M, Hair, NpcFaces, R.Head}}
+
 \BeginGroup\: Race Balancing Project 1
 \''''''''''''''''''''''''
 
@@ -17534,6 +17566,7 @@ bgBalancingDVCore.esp
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
+
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}

@@ -7642,9 +7642,10 @@ AkaviriStronghold_1C.esp
 5573-1.0-Villa Nova, my private retreat-TESSource.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 7roads.esp
-% {{BASH: Actors.ACBS, Factions, Invent, Relations, Scripts}}
-? For compatibility with Knights of the Nine, get the patch: "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
+% {{BASH: Actors.ACBS, Actors.Stats, Factions, Graphics, Invent, Relations, Scripts, Sound}}
 " Kvatch Rebuilt, Hoarfrost Castle, Midas Magic, Mannimarco Complete, Reneer's Corpse Mod, Unique landscapes.
+? For compatibility with Knights of the Nine, get the patch: "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 7demonicweapons.esp
 
 .LuEmaNarfil Cave of Vampires.esp

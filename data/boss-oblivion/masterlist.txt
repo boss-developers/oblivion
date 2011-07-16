@@ -2012,6 +2012,7 @@ MagesGuildPortalTowerV1.2.esp
 Magicka.esp
 CParchmagetele.esp
 Medic!.esp
+Menu and Camera Toggler.esp
 MeosPotionReplacer.esp
 % {{BASH: Graphics}}
 merchant chest fix.esp
@@ -4241,6 +4242,7 @@ MasterSpells.esp
 Materia.esp
 mECB_Collection.esp
 Medieval leather armors.esp
+Medieval Swords.esp
 Midlander.esp
 Midlander_HGEC.esp
 MODArnTemplar.esp
@@ -8143,6 +8145,7 @@ Blitz's Dungeons & Realms- Molag Fel.esp
 BluWill1.esp
 BnKGreenBravil.esp
 Bonds Firebird V01.esp
+BossFightHunterV3.esp
 BossPhaitCrab.esp
 : OBSE 20+
 ? 12 ITM, unknown UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14563,6 +14566,7 @@ Nightmare.esp
 NollesMadnessPortalT2.esp
 OblivionGateTraveller.esp
 Oblivion Gate Closer Spell.esp
+Oblivion Gate Closer Spell V2.esp
 Open_Very_Hard_Lock.esp
 Pants Be Gone 1.3 With Demoralize.esp
 ? Use only one Pants Be Gone 1.3 mod
@@ -15552,6 +15556,7 @@ Druid.esp
 Vanilla_Oblivion_Skill_Rates.esp
 LRM_Generic.esp
 
+AdvancedMagicLeveling.esp
 AttributePlusX_v1.1.esp
 Bonsai's Modified Skills.esp
 Bonsai's Modified Leveling.esp

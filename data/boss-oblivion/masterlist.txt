@@ -2157,6 +2157,7 @@ P-Froggys Corpse Carry EV.esp
 : OBSE.
 P-Froggys First Person Body.esp
 P-Froggys Wall Climbing EV.esp
+P_Froggys_Wall_Climbing_EV.esp
 phinix_master_summon.esp
 Pirates Treasure.esp
 PlaceableHeadstonesV4.2.esp
@@ -3060,6 +3061,7 @@ avarm.esp
 1SBVampireOutfits.esp
 1SBFingerArmor.esp
 1SB_LucreziaNavarre outfit.esp
+1SB Necromancer staff.esp
 1SB_NightWeaveOutfit.esp
 1SB_WarhammerWingedStaff.esp
 1SB_RavenousEleganceOutfit.esp
@@ -3822,6 +3824,7 @@ flamberg.esp
 Flamboyant Hat_SI.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
+ForgedSteelDaggers_1C.esp
 FoxyGear-EV.esp
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
@@ -3848,6 +3851,7 @@ Garak's Staff Replacer Blood&Lightning.esp
 % {{BASH: Graphics}}
 Garak's Staff Replacer Fire&Ice.esp
 % {{BASH: Graphics}}
+GarrettsEquipment_by_SeventyFour.esp
 Gazerith's Spell Books V1.0.esp
 GC Draped Gowns.esp
 GC Gowns.esp
@@ -4430,6 +4434,7 @@ pale_rider's Paladin Equipment_enchanted_RU.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ParaClothes.esp
+ParalyzeArrow.esp
 Pauldron.esp
 Peasant_Gowns_HGEC.esp
 Pekka_Shields_Light.esp
@@ -4492,6 +4497,7 @@ Raziel_Apperal.esp
 Raziel Training Dummy BETA.esp
 RDAyleidArmour.esp
 rdweaponpack1.esp
+rdweaponpack1_1С.esp
 Recolored Dresses.esp
 Redemption.esp
 RedgardWeaponsMod.esp
@@ -4851,6 +4857,7 @@ TGG- Treasure Placement.esp
 The Adventurer's Guide.esp
 The Arsenal.esp
 The Arsenal - Leveled Lists.esp
+The_Bat.esp
 The Bow of Ash.esp
 The Bow of Blades.esp
 The Bow of Bones.esp
@@ -4881,6 +4888,7 @@ The Sword of Cyrodiil.esp
 The Sword of Truth.esp
 ThiefArmor.esp
 Throwable kunai.esp
+ThrowableKunai_1C.esp
 Thunderbird Armor.esp
 thunderfury.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
@@ -8587,6 +8595,7 @@ Fallen_Tower_ru.esp
 Fanacasecul.esp
 Far Farm.esp
 Farleum V 1.2.esp
+Faraggut_renewed.esp
 Felmoons Dawn V1.2.esp
 FFM.esp
 FishermansCottage.esp
@@ -9803,6 +9812,7 @@ Sbturm_Penthouse.esp
 SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
 School Partners.esp
+Skooma Lab
 Scribe Supplies.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Market District.
 Scorched Earth.esp
@@ -10423,6 +10433,7 @@ Whispers of Death Extended.esp
 White Gold Top.esp
 WhiteGoldTowerV19.esp
 White Tower v0.8.esp
+Why only apple.esp
 whiteRoseRiverFarm.esp
 WinterCabin.esp
 Winterhouse.esp
@@ -10513,11 +10524,11 @@ Zira's Clydesdale Horses.esp
 Zira's Battle Horse.esp
 Zira's Battle Horse Shop.esp
 Zira Horse Showjumping Track.esp
+zJuiceSqueezer.esp
 Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
 ChangeAbleWeapon.esp
-zzzChangeAbleWeapon.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
 zzzSlaveMaster.esp
@@ -12435,6 +12446,7 @@ RealisticFlora - DLCVileLair.esp
 WD's Auto Harvest.esp
 DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
+D2k-AutoHarvest.esp
 Diseased Corpses.esp
 ? If using HC decide which you want to have priority and move that one after the other (needs compatibility patch that is not currently available)
 % {{BASH: Scripts}}
@@ -13782,6 +13794,7 @@ Teleport Everywhere.esp
 : OBSE.
 Things Found Fence.esp
 % {{BASH: Actors.AIData}}
+Thieves Gulid Harded.esp
 Tombstone Epitaphs.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Toggleable Quantity Prompt.esp
@@ -13827,6 +13840,8 @@ Unlimited Rings - Shivering Isles.esp
 Unhide_amulets.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited_AmulRings_1C.esp
+? Use Wrye Bash Bashed Patch tweak instead.
+Unlimited Amulets 1.0_ru.esp & Unlimited Rings 1.0_ru.esp
 ? Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
@@ -13877,6 +13892,9 @@ X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
 zzzBookreadingEnhanced.esp
+zzzChangeAbleArmor.esp
+zzzChageAbleSpells.esp
+zzzChangeAbleWeapon.esp
 zzzDarkHelloTopic.esp
 zzzHuntingUnlimited.esp
 zzzLetMeGoAway.esp
@@ -14329,6 +14347,7 @@ Twillith vampirism 1.71.esp
 Twillith vampirism.esp
 vampire_without_disadvantages-7944.esp
 Vampirismless Vampires.esp
+Viampirism Overhaul 3.25.esp
 Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
 ? Older version. Consider using version 3 or later.
@@ -14605,7 +14624,9 @@ SpellDeflection.esp
 Stalk'em SI.esp
 stickyfingers.esp
 StrongholdTeleport.esp
+Summon Arrow.esp
 SummonCreaturePackBeta.esp
+Summon Shadowmere.esp
 TeachSpell.esp
 Teleport.esp
 : OBSE.

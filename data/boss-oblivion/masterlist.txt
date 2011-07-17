@@ -1201,6 +1201,7 @@ OBGE - Liquid Water Basic.esp
 Better Bell Sounds.esp
 HBM.esp
 Idle Dialogue.esp
+ IF (F3DDD964|"Idle Dialogue.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Louder Nirnroot Sound.esp
 % {{BASH: Sound}}
 Louder Nirnroots.esp
@@ -2441,6 +2442,8 @@ AC_Gold_Coins.esp
 Vampire Alchemy V1.1.esp
 % {{BASH: Invent}} or you really won't get much of the effects of this if you use any overhauls.
 Venom.esp
+VipCxj_AirSystem.esp
+: OBSE 20+, Coronerras Maximum Compatibility Skeletons, VipCxj's Plugin Collection v3
 Vows and Covenants.esp
 ? Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
@@ -11131,6 +11134,7 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
+ IF (54674372|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
 ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -13757,6 +13761,7 @@ Storms & Sound Patches.esp
 SiC shippingInCyrodiil.esp
 ShippingInCyrodiil-08.esp
 ShippingInCyrodiil_Normal_Lights_V1-1 - With Drawbridges.esp
+ShippingInCyrodiil_BC_NL_V1-1--With Drawbridges.esp
 ShippingInCyrodiil_BC_comp_V1-1.esp
 SkoomaTest.esp
 
@@ -16302,6 +16307,7 @@ VipCxj_HairEyeSet.esp
 \EndGroup\\
 
 CM Partners.esp
+
 \BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 
@@ -16353,6 +16359,8 @@ Blonde Wizard Beard Races.esp
 Brown Wizard Beard Races.esp
 Red Wizard Beard Races.esp
 Fearabbits Bearded NPCs BETA.esp
+Blood Elves.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Brachyuran.esp
 FFXIII_Race.esp
 Dark Seducer Race.esp

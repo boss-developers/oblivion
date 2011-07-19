@@ -9156,8 +9156,8 @@ Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
 % {{BASH: Actors.AIPackages}}
- IF (6C91CBEB|"KvatchRising.esp") DIRTY: 220 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Requires special edit to repair an incorrect script override.
+ IF (6C91CBEB|"KvatchRising.esp") DIRTY: 202 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Requires special edit to repair an incorrect script override. "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#KvatchRising.esp_Special_Cleaning_Instructions"
 
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.

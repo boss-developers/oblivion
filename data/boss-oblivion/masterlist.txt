@@ -1877,6 +1877,7 @@ Fish! - v1.1.esp
 Fishing in Cyrodiil.esp
 ? If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
 % {{BASH: Invent}}
+ IF (A2300D21|"Fishing in Cyrodiil.esp") DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Flamering.esp
 Foxfire Mushrooms.esp
 Fundies.esp
@@ -6883,6 +6884,7 @@ FaunaOfTamriel.esp
 Creatures Alive v1.3.esp
 Creature Diversity.esp
 % {{BASH: Relev}}
+ IF (DBB29BC1|"Creature Diversity.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ReteroX_BEvilSkeletons.esp
 ReteroX_BBEvilSkeletons.esp
 Revenants.esp
@@ -7951,6 +7953,7 @@ Asharnakibibi.esp
 Asharnakibibi 1_2.esp
 Ash'kale.esp
 Ash's Odd Jobs.esp
+Ash's Odd Jobs II.esp
 AshTentMod.esp
 Assassin's Abode.esp
 Assassin's Hideout v1.1.esp
@@ -8043,6 +8046,8 @@ Benirus' Past.esp
 Benirus_Servents.esp
 Better Dark Brotherhood Sanctuary.esp
 % {{BASH: Names, NpcFaces}}
+ IF (C208F695|"Better Dark Brotherhood Sanctuary.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (42C36BF9|"Better Dark Brotherhood Sanctuary.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
@@ -9239,8 +9244,7 @@ bladesfactionmod.esp
 OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Also requires manual cleaning of a wild edit to the water height of cell (26, -42).
+ IF (718904AC|"GlenvarCastle.esp") DIRTY: 38 ITM, 712 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also requires manual cleaning of a wild edit to the water height of cell (26, -42).
 GlenvarCastle Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SYS Patch Glenvar Castle.esp
@@ -10099,6 +10103,7 @@ TempleOfZealotsV2.esp
 The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
  IF (B0311481|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6669B5B6|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
@@ -10368,6 +10373,7 @@ VHBloodlines 1.2.esp
 ? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
  IF (4FBE3DC0|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (8187F096|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CE62618B|"VHBloodlines 1.2.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VHBloodlines 1.2 Vwalk.esp
 ? Mark Mergeable and deactivate - Merge animations does not seem to work properly for the original version of VH Bloodlines.
 ? Sensual Walks for Arthmoor's Verona House Bloodines SI Fixed contains bash tags to merge the animations, which work correctly on his version
@@ -10957,6 +10963,7 @@ Mighty Umbra.esp
 ? FCOM users might consider 'FCOM_MightyUmbra.esp'.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mighty Umbra - Vanilla OB.esp
+ IF (5EDC8746|"Mighty Umbra - Vanilla OB.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KORE- Blood Drinker Umbra.esp
 
 The Soul of Ilithiel.esp
@@ -10994,6 +11001,7 @@ $ Has some landscape issues with OOO.
 HoarfrostCastle.esp
 % {{BASH: Hair}}
  IF (A93FE299|"HoarfrostCastle.esp") DIRTY: 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F0AC781E|"HoarfrostCastle.esp") DIRTY: 12 ITM, 738 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -11436,6 +11444,7 @@ Shezrie's Villages.esp
 ShezriesVillagesCOBL.esp
 ? Old version. Update to Shezrie's Towns and remove this.
 ShezriesTownsMaster.esp
+ IF (1A77795D|"ShezriesTownsMaster.esp") DIRTY: 24 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShezriesTownsMaster Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 GoC_ShezriesTowns_Patch.esp
@@ -11909,6 +11918,7 @@ SnowLineLodge-Snowdale patch.esp
 CRpatchForXULsnowdale.esp
 
 xulCliffsOfAnvil.esp
+ IF (701EF543|"xulCliffsOfAnvil.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Cliffs Of Anvil DV.esp
 OOOCliffsofAnvilPatch.esp
 xulCliffsOfAnvil Vwalk.esp
@@ -12029,7 +12039,7 @@ Miscarcand Expanded.esp
 " The Ruins of Miscarcand.esp
 
 bartholm.esp
-? 211 ITM, 553 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7DE84455|"bartholm.esp") DIRTY: 211 ITM, 553 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bartholm-Panther River Patch.esp
 ? Obsolete. Remove this and update to the latest versions of Bartholm and UL Panther River.
 bartholm - EE patch.esp
@@ -12429,7 +12439,7 @@ Harvest [Flora].esp
 NoHFailure_HFlora.esp
 Harvest [Flora] - Shivering Isles.esp
 % {{BASH: Graphics, Scripts}}
- IF (05003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5003A29|"Harvest [Flora] - Shivering Isles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
@@ -13407,6 +13417,7 @@ Scouter.esp
 ScreamingMawHF.esp
 seorin's Artifact Fix.esp
 SecretsoftheAyleidsClosure.esp
+ IF (E9500749|"SecretsoftheAyleidsClosure.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Secure Guild Chest.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sexier Sheogorath.esp

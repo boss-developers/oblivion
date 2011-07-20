@@ -3059,6 +3059,7 @@ avarm.esp
 1AlexScorpionSneakingSuit.esp
 1AzuSeraphimSet.esp
 1BDSword [ENG].esp
+1c.esp
 1DemonSword.esp
 % {{BASH: Invent}}
 1DethWeapons.esp
@@ -5382,6 +5383,7 @@ darkrosearmor.esp
 Dark Rose Armor.esp
 Dark Rose Armor Rus.esp
 DarkRoseSet.esp
+DarkWindarmor1.esp
 Diannes UFF Daedric Casual Attire.esp
 DFSLoutfits.esp
 DM Outlaw armor_EN.esp
@@ -5457,6 +5459,7 @@ HGEC_Rogue01.esp
 % {{BASH: Graphics}}
 HGEC_SBBewitching.esp
 HGEC_SBVelvetRose.esp
+HGEC Sexy Rogue.esp
 HGEC Underwear.esp
 HGECUndiesHCup.esp
 Holy MythicDawn Armor.esp
@@ -5667,6 +5670,7 @@ Underwear TGND.esp
 
 Vampiress Armors For Exnem Body.esp
 Velveteen_Armor_HGEC.esp
+VGA_SaintSeducer.esp
 Volcano in the Twilight.esp
 
 XiaNewAmuletsV1.esp
@@ -6580,6 +6584,10 @@ FCOM_LessReaversInGates.esp
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
 
 >CurseOfHircine.esp
+>CoH Werewolves Clothed.esp
+>CoH Werewolves Mixed.esp
+>CoH Spawn Rates Increased.esp
+>CoH 1st Person Anims.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
@@ -6705,9 +6713,10 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <C&C&EQR - MMM.esp
 <? Obsolete. Remove this and update to latest version.
 <CurseOfHircine.esp
-CoH Werewolves Clothed.esp
-CoH Werewolves Mixed.esp
-CoH Spawn Rates Increased.esp
+<CoH Werewolves Clothed.esp
+<CoH Werewolves Mixed.esp
+<CoH Spawn Rates Increased.esp
+<CoH 1st Person Anims.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Obsolete. Remove this and update to MMM v3.6beta3+.
@@ -9847,6 +9856,7 @@ SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
 Sewer_Mansion.esp
 SFSpecialtyContainers.esp
+SFTempleRebuild.esp
 (SFL) Makeover - White Stallion Lodge.esp
 Shabah.esp
 Shads Shack.esp
@@ -12947,6 +12957,10 @@ GodStatues.esp
 GodStatues KOTN Edition.esp
 Gold Change II.esp
 % {{BASH: Names}}
+GoldCoinBagger.esp
+Golden Perch Inn.esp
+Golden Perch Inn - AN Patch.esp
+% {{BASH: C.Climate}}
 GoresNoTargetMagicGaining-Vanilla.esp
 GoresNoTargetMagicGaining-Fast.esp
 
@@ -18069,6 +18083,8 @@ Better Cities IC Waterfront FPS Patch.esp
 
 \BeginGroup\: BC Compatibility patches
 
+Better Cities Resources Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 Better Cities - All Natural.esp
 
 Better Cities Full Rwalk.esp

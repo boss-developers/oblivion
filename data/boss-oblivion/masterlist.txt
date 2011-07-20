@@ -1594,6 +1594,7 @@ bnmDLTIC-1-6.esp
 $ Not compatible with OOO. OOO contains a similar mod.
 nmDLTIC-1-6.esp
 $ Not compatible with OOO. OOO contains a similar mod.
+nmDLTIC-1-6fix.esp
 bDLTIC-1-6.esp
 DLTIC-1-6.esp
 Torch Hotkey.esp
@@ -4740,7 +4741,9 @@ SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
 SPB Belt Girl.esp
+SPB Belt Girl 2.esp
 SPB Boots Set.esp
+SPB E Suits.esp
 SPB Glass Girls.esp
 SPB GW Armors.esp
 SPB Mercenary Armors.esp
@@ -5859,6 +5862,7 @@ IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
 Black and Daedric Unicorn's.esp
+PlayerHorseInTowns.esp
 Orion the Ox.esp
 Shadowfax-2838.esp
 SellHorses.esp
@@ -8504,6 +8508,7 @@ DopplersArmory.esp
 DoTheUnderdark.esp
  IF (61246D9A|"DoTheUnderdark.esp") DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DMwardropemerged.esp
+DMwardropemergednoenchant.esp
 Draelins Hidden Abode.esp
 DragonClawCastle.esp
 DragonInvasion.esp
@@ -14201,6 +14206,7 @@ More Realistic Fatigue.esp
 More Realistic Encumbrance with Fatigue.esp
 More Capacity Encumbrance with Fatigue.esp
 NoEncumberance.esp
+Carrying Capacity x10.esp
 Carry_four_times_more_loot-7515.esp
 carry_more_mod.esp
 Carry More, (10).esp
@@ -15376,6 +15382,8 @@ More_Arrows_Recovered-2169.esp
 [Calsar] ArrowSpeedRealismSI.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 ArrowVelocity.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+change arrow speed x2.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp

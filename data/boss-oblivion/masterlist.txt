@@ -11339,7 +11339,7 @@ Better daedric shrine Azura.esp
  IF (8EE4EA11|"Better daedric shrine Azura.esp") DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
-% {{BASH: Hair, Invent, C.Owner, Actors.AIPackages}}
+% {{BASH: Hair, Invent, C.Name, C.Owner, Actors.AIPackages}}
 Oblivifall - Losing My Religion Kvatch Rebuilt.esp
 Oblivifall - Losing My Religion KOTN.esp
 % {{BASH: Actors.AIPackages}}

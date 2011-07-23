@@ -9331,6 +9331,7 @@ Lyn-AbsoluteFreedom.esp
 Lynges_Absolute_Freedom-9880.esp
 Lyn-AnvilAbandonedHouse.esp
 Lynges_Dark_Brotherhood_Assassins-8654.esp
+ IF (B5CD930F|"Lynges_Dark_Brotherhood_Assassins-8654.esp") DIRTY: 56 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lyn-GnollMountain.esp
 Lynges_Gnoll_Mountain.esp
 Lynges_Gnoll_Mountain-8117.esp
@@ -12313,11 +12314,11 @@ Open Cities Reborn.esp
 Crowded Cities for OCR.esp
 \ Needs to load after OCR plugins to prevent delinquent master warnings.
 
-Better Cities - Open Cities Reborn.esp
 ImpeREAL Empire - Unique Castles - All the Castles - OCC.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCR.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCR B&M.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCC B&M.esp
+Better Cities - Open Cities Reborn.esp
 Open Cities new script for city doors.esp
 OC+Bravil Docks Patch.esp
 ? Note - Be sure this is being used on Bravil Docks by Greg Simmonds. Will cause a CTD with the wrong file.
@@ -12692,6 +12693,7 @@ BuyLockpicks.esp
 CaesarOneWithNature.esp
 % {{BASH: Factions}}
 : CaesarRanger.esp
+CalyndStone.esp
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
 CoverYourself.esp

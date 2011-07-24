@@ -2123,6 +2123,7 @@ OAVO - Sound.esp
 OAVO - Miscellaneous.esp
 OAVO - Visual Enhancements.esp
 
+Oblivion Guidebook.esp
 Oblivion Cats v0.22b.esp
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
@@ -2809,6 +2810,8 @@ Xero's Fame Indicator.esp
 
 zzCCAO.esp
 zzCCAOPAAddOn.esp
+zzzItemGeneratingSystem.esp
+IF (A08A9ABE|"zzzItemGeneratingSystem.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 \EndGroup\\
 
@@ -8426,6 +8429,7 @@ Cyrodiil Training Center.esp
 
 Daedra's Bane.esp
 Daedric Quests Unleveled.esp
+Daemonengruft.esp
 NoDaedricQuestLevelLocks.esp
 Dairânath Avari - male Companion.esp
 Dalls_Skingrad.esp
@@ -9056,6 +9060,7 @@ ImaItemAll.esp
 ImaGHS.esp
 ImperialForts-FortNikel.esp
 Imperial City Boutique.esp
+Imperial City Bridges.esp
 Imperial City Miniature Model.esp
 ? May conflict with many mods that alter the IC palace.
 Imperial City Suburbs.esp
@@ -10137,6 +10142,7 @@ The Temple of The Sleeper.esp
 : Paladin Equipment, Dragonbone Reloaded
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Treasure House.esp
+The Tritons Of Cyrodiil.esp
 TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp
 Theryon.esp

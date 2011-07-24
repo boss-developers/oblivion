@@ -58,7 +58,7 @@ MiddleEarth.esm
 Underdark.esm
 TR_OoT_Main.esm
 Hammerfell.esm
- if (7D22F9DF|"Hammerfell.esm") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7D22F9DF|"Hammerfell.esm") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_2.esm
 Belas.esm
 ? Part of Chronicles of Reeb. Do not use. Has serious landscape issues due to editing the Tamriel worldspace. Uninstall and delete.
@@ -77,6 +77,7 @@ Windfall.esm
 MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 MathFunctions.esm
+Plugin Resources.esm
 BP-CosmeticLibraryBase-Public.esm
 BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
@@ -101,10 +102,10 @@ EnhancedWeatherSIOnly.esm
 All Natural Base.esm
 Francesco's Leveled Creatures-Items Mod.esm
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
- if (17F6FD1A|"Francesco's Leveled Creatures-Items Mod.esm") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (17F6FD1A|"Francesco's Leveled Creatures-Items Mod.esm") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional New Items Add-On.esm
 {{BASH: Delev, Relev}}
- if (DFD4FB97|"Francesco's Optional New Items Add-On.esm") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DFD4FB97|"Francesco's Optional New Items Add-On.esm") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional New Creatures Add-On.esm
 {{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev, Scripts}}
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
@@ -139,6 +140,7 @@ Tamriel's Glittering Geology.esm
 $ Not compatible with OOO. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
 % {{BASH: Actors.Spells, Graphics, Invent, Scripts, Stats, Relations}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 DarkDale.esm
 Mart's Monster Mod.esm
 % {{BASH: Actors.AIData, Actors.AIPackages, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
@@ -610,7 +612,7 @@ ArenaChampionHotfix.esp
 vampirescriptfix.esp
 object_placement.esp
 ? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
- if (E4858A00|"object_placement.esp") DIRTY: 12 ITM, 37 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E4858A00|"object_placement.esp") DIRTY: 12 ITM, 37 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PRO64-BrumaFix.esp
 The Finger of the Mountain Fix.esp
 ? Probably included in UOP. Included in Quest Award Leveller.
@@ -631,11 +633,11 @@ FastTravelDoubleFaceFix.esp
 AdventurersItemMod.esp
 ? If not using Bash this must be loaded after UOP but then you will lose a lot of fixes from UOP.
 % {{BASH: Invent, Relations}} needed so that it will work before UOP and still have the inventory changes from this.
- if (D32DAE95|"AdventurersItemMod.esp") DIRTY: 16 ITM, 126 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D32DAE95|"AdventurersItemMod.esp") DIRTY: 16 ITM, 126 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Self-Preservation v1.0.esp
 ? If not using Bash this must be loaded after UOP/OOO/MMM/FCOM/any NPC editing mod but you'll lose their NPC edits.
 % {{BASH: Scripts}}
- if (3BB14891|"Self-Preservation v1.0.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3BB14891|"Self-Preservation v1.0.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Traduccion Mejorada Oblivion Clan DLAN.esp
 % {{BASH: Names}} or without Bash load it later.
 fixterms1C_03.esp
@@ -671,6 +673,9 @@ Primate Rank Fix.esp
 % {{BASH: Factions}}
 Permanent Effects from Quest Items fix.esp
 ? Make sure you have version 1.1 or higher.
+: "Plugin Resources.esm"
+Permanent Effects from Quest Items fix - SI.esp
+: "Plugin Resources.esm"
 Permanent Effects from Quest Items fix Merge.esp
 ? Outdated. Update to newest version of Permanent Effects from Quest Items fix.
 Dion MS38 Package Fix.esp
@@ -731,6 +736,7 @@ S.I.C.A.F.U.I.S.v1.2.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Invent, Stats}}
 SM Plugin Refurbish - SI.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Shivering Isles - No Starting Quest Popup.esp
 Shivering Isles - Activation Popup.esp
 Shivering OOO.esp
@@ -1468,7 +1474,7 @@ AmbientDungeons.esp
 300_Lore Dialogue.esp
 ? May have a problem with Storms and Sounds.
 300_Lore_Dialogue_Updated.esp
- if (876DACA1|"300_Lore_Dialogue_Updated.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (876DACA1|"300_Lore_Dialogue_Updated.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Do NOT use with 300_Lore Dialogue.esp
 300_Random_Clutter.esp
 36Sermons-Miltiades.esp
@@ -1502,7 +1508,7 @@ Adonnays Ranger Coats.esp
 Adonnays Ranger CoatsRU.esp
 Adult Books.esp
 AdventurersAlchemy.esp
- if (8AA69408|"AdventurersAlchemy.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "
+ IF (8AA69408|"AdventurersAlchemy.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "
 AEVWD.esp
 aLHerobook01.esp
 ? Obsolete. Delete and upgrade to Adult Books.
@@ -1555,7 +1561,7 @@ SI Clothes.esp
 Battlemage Friends.esp
 Book Jackets Oblivion.esp
 % {{BASH: Graphics}}
- if (88936850|"Book Jackets Oblivion.esp") DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (88936850|"Book Jackets Oblivion.esp") DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Book Jackets Oblivion - BP.esp
 % {{BASH: Graphics}}
 !Book Jackets Oblivion - PL.esp
@@ -1754,7 +1760,7 @@ CLS-CMHotKeys-OBSE.esp
 CLS-Object Renamer-COBL.esp
 CLS-Object Renamer-OBSE.esp
 CLS-Sailboats.esp
- if (A1AE724A|"CLS-Sailboats.esp") DIRTY:12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A1AE724A|"CLS-Sailboats.esp") DIRTY:12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CLS-Sailboats-COBL.esp
 OCLR-Sailbot-Patch.esp
 OCLR-Sailboat-Patch.esp
@@ -1801,7 +1807,7 @@ Buyable Ayldeid Dishes.esp
 
 CT-Com's Torch Compendium.esp
 % {{BASH: Actors.AIData}}
- if (C3C7144B|"CT-Com's Torch Compendium.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C3C7144B|"CT-Com's Torch Compendium.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CT-Backpacks.esp
 Cyrodilic Brandy.esp
 % {{BASH: Graphics, Deactivate}}
@@ -2056,7 +2062,7 @@ More Effective Enchantments SI.esp
 More Female Servants.esp
 More Poisened Food!0.3.esp
 More_Vegetables.esp
- if (2EAEE466|"More_Vegetables.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2EAEE466|"More_Vegetables.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Morrowind Ingredients.esp
 movingpaintings.esp
 MoveQuestItems - OBSE.esp
@@ -2153,6 +2159,7 @@ Personality Idles 4 - Cleanned version.esp
 ? Outdated. Update to latest version.
 Personality Idles - Modified version.esp
 % {{BASH: Actors.Anims}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 personality_idles4_nopc.esp
 personality_idles_custom.esp
 \before P1DseeYouSleep... hopefully will work better
@@ -2922,6 +2929,7 @@ Mart's Monster Mod - DLCHorseArmor+Slofs .esp
 % {{BASH: Graphics}}
 SM Plugin Refurbish - HorseArmor.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Compatibility Patch - DLCHorseArmor.esp
 BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 Correctif HorseArmor.esp
@@ -2941,6 +2949,7 @@ DLCOrrery Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SM Plugin Refurbish - Orrery.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 C&C&EQR - SM Plugin Refurbish - Orrery.esp
 ? Obsolete. Update to latest version.
 NLF Orrery.esp
@@ -2955,6 +2964,7 @@ Correctif VileLair.esp
 Correctif VileLair RP.esp
 SM Plugin Refurbish - VileLair.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 NLF VileLair.esp
 Lair_mobs.esp
 % {{BASH: NoMerge, Stats}}
@@ -2988,6 +2998,7 @@ DLCMehrunesRazor Swalk UOP.esp
 DLCMehrunesRazor Vwalk UOP.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SM Plugin Refurbish - MehrunesRazor.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
 DLCSpellTomes.esp
 % {{BASH: Relev}}
@@ -5884,6 +5895,7 @@ Legion's Horses Armored With Slof's Horse Bases.esp
 % {{BASH: Graphics}} untested.
 MD Saddlebags v3.0 Alternative Trader Script.esp
 SBsaddlebags.esp
+sbSlof's.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
 AL_AuroranBattleSteed.esp
@@ -5973,6 +5985,7 @@ DLCThievesDen Vwalk UOP.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Thievesden_mobs.esp
 % {{BASH: NoMerge, Stats}}
 dunbarrowupgrade.esp
@@ -6154,6 +6167,7 @@ More Effective Enchantments WarCry.esp
 Oblivion WarCry EV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 More Effective Enchantments WarCry EV.esp
 FCOM_WarCry.esp
 % {{BASH: Delev, Relev, Stats}}
@@ -6178,6 +6192,7 @@ Free Levelling.esp
 
 Oscuro's_Oblivion_Overhaul.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -6406,6 +6421,7 @@ ArmamentariumLLVendors.esp
 ? Can be used with either 'ArmamentariumLL.esp' or 'ArmamentariumLL4OOO.esp'.
 ArmamentariumLLmagic.esp
 ArmamentariumArtifacts.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 Armamentarium SoB Patch.esp
@@ -6682,10 +6698,12 @@ FCOM_LessReaversInGates.esp
 >Mart's Monster Mod - Curse of Hircine.esp
 >Mart's Monster Mod - More Reaver Variants.esp
 >Mart's Monster Mod - Gems & Gem Dust.esp
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 >Gems and Gem Dusts - MMM.esp
 >? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO.
 >Mart's Monster Mod - Hunting & Crafting.esp
 >% {{BASH: Invent, Scripts, Stats}}
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Fletching Compilation.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Obsolete. Remove this and update to MMM 3.7+ and associated version of FCOM.
@@ -6773,10 +6791,12 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <? Obsolete. Integrated into 'Mart's Monster Mod - Additional Enemy NPC Vars.esp'. Remove this and update to MMM v3.6beta3+.
 <Mart's Monster Mod - Gems & Gem Dust.esp
 <? Will work with OOO 'light' but is not compatible with the 'full' installation of OOO.
+< DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 <Gems and Gem Dusts - MMM.esp
 MALO - Clutter Replacer MMM - GEM.esp
 MALO - Loot Tweaks MMM - GEM.esp
 <Mart's Monster Mod - Hunting & Crafting.esp
+< DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 MALO - Clutter Replacer MMM - HUNT.esp
 <Mart's Monster Mod - Looting NPCs & Creatures.esp
 <Mart's Monster Mod - Zombies for Body Meshes.esp
@@ -6844,6 +6864,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Not recommended, has bugs.
 <Mart's Monster Mod - City Defences.esp
 <^ Incompatible with Better Cities - City Defences.
+< DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 <Mart's Monster Mod - Curse of Hircine.esp
 <Mart's Monster Mod - Extra Wounding.esp
 <Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
@@ -7900,7 +7921,7 @@ AnvilBayExpansion.esp
 " Better Cities. Already included in Better Cities Anvil.
 " Open Cities Reborn.
 AnvilBayMisteryHouse.esp
- if (7BA6C2D6|"AnvilBayMisteryHouse.esp") DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7BA6C2D6|"AnvilBayMisteryHouse.esp") DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AnvilManor2.0.esp
 Anvil_Mazecave.esp
 Atropa.esp
@@ -10681,6 +10702,7 @@ DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
 SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Artificerens Battlehorn Coblized.esp
 Battlehorn_mobs.esp
 % {{BASH: NoMerge, Stats}}
@@ -10741,6 +10763,7 @@ Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp
 SM Plugin Refurbish - FrostCrag.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 AFK_Frostcrag.esp
 NLF FrostCrag.esp
 FrostcragAlchemySorter.esp
@@ -10845,6 +10868,7 @@ More Effective Enchantments Knights.esp
 Kot9 Rings.esp
 SM Plugin Refurbish - Knights.esp
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 SM Plugin Refurbish(Merged).esp
 : all DLCs and Shivering Isles to be installed and active.
 " 'CDM-CGO Compatibility plugins'.
@@ -11127,6 +11151,7 @@ Well of Arcane Marking.esp
 
 >Mart's Monster Mod - City Defences.esp
 >^ Incompatible with Better Cities - City Defences.
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
 FCOM_mightyumbra.esp
 : 'Mighty Umbra.esp'.
@@ -11857,6 +11882,7 @@ NPCsTravel - Unique Landscapes - Arrius Creek Patch.esp
 xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills plugin.
  IF (7518580E|"xulRollingHills_EV_withoutWheat.esp") DIRTY: 2 ITM, 282 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+xulRollingHills_EV_withoutWheat Vwalk.esp
 Unique Landscapes - Rolling Hills DV - ohne Weizen.esp
 ? Only use one UL Rolling Hills plugin.
 xulRollingHills_EV.esp
@@ -14844,6 +14870,7 @@ AgarVariedSpellSounds_SupremeMagicka.esp
 % {{BASH: Sound}}
 SupremeMagicka.esp
 % {{BASH: Names, Graphics}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 SM Ancestral Guardian.esp
 SM_ShiveringIsles.esp
 SM_DLCSpellTome.esp
@@ -15201,6 +15228,8 @@ CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
 crimesandpunshiment.esp
 Crime & Punishment Overhaul 1.1.esp
+Jail Break Routes.esp
+ IF (A547B997|"Jail Break Routes.esp") DIRTY: 40 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MerchantFriendsBuysStolen.esp
 MerchantsAlwaysBuyStolen.esp
 Merchants Buy Stolen Goods.esp
@@ -17376,6 +17405,7 @@ cssJaKhaiitMyr.esp
 ViljainAleswell.esp
 ViljainRedRoseManor.esp
 \EndGroup\\
+
 Aliyah.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
@@ -17679,6 +17709,13 @@ CMAllXenius.esp
 % {{BASH: NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
 CMAll2.esp
 % {{BASH: NpcFaces, Hair, Eyes, Body-M, Body-Size-M, Body-F, Body-Size-F, Graphics, R.Relations}}
+
+CR Drauger-is-There.esp
+Chaotic Characters.esp
+Tydantin Brothers.esp
+Inerion Tydantin.esp
+Heroes of RS and Azeroth.esp
+More Heroes of Azeroth.esp
 \EndGroup\\
 
 \BeginGroup\: Race Overrides

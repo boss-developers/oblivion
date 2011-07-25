@@ -7811,6 +7811,8 @@ AGC-TARDISoutside.esp
 AGC-TARDISinside.esp
 ? use either outside for vanilla or inside for open cities
 AHP.esp
+% {{BASH: Invent}}
+ IF (5796B117|"AHP.esp") DIRTY: 232 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Akaviri Imports.esp
 akaviriimports.esp
 Akaviri_Imports_Fixed_esp-4277.esp

@@ -2154,14 +2154,23 @@ personality_idles2.esp
 personality_idles3b.esp
 personality_idles3b_nc.esp
 personality_idles4.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Personality Idles 4 - Cleanned version.esp
 % {{BASH: Actors.Anims, NoMerge}}
 ? Outdated. Update to latest version.
 Personality Idles - Modified version.esp
 % {{BASH: Actors.Anims}}
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+personality_idles4_C.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+personality_idles4_nnpc_C.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+personality_idles4_nnpc.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 personality_idles4_nopc.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 personality_idles_custom.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 \before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
@@ -3156,6 +3165,8 @@ AK-47GR2.esp
 Akatsuki.esp
 Akavirdownloadpack1.1.esp
 % {{BASH: Invent}}
+Akaviri Elements Bow v1-2.esp
+ IF (44C40581|"Akaviri Elements Bow v1-2.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AkatoshHead.esp
 Akorithi's Jade Bow.esp
 alllll61-Saint Silver armor.esp
@@ -6993,7 +7004,10 @@ OWC - ND Old Loadingscreens Patch.esp
 OWC - NoHarvestFlora.esp
 OWC - TGPatch.esp
 OWC - No Serial Killers.esp
+OWC - NoSerialKillers.esp
+OWC - Spawn reduced.esp
 OWC ND-Spawn-reduced.esp
+OWC - LessDangerousWilderness.esp
 OWC ND - Oblivion XP Patch.esp
 \EndGroup\\
 

@@ -7826,6 +7826,7 @@ AGC-TARDISinside.esp
 ? use either outside for vanilla or inside for open cities
 AHP.esp
 % {{BASH: Invent}}
+" See You Sleep. Disable on time of game.
  IF (5796B117|"AHP.esp") DIRTY: 232 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Akaviri Imports.esp
 akaviriimports.esp

@@ -1678,6 +1678,7 @@ Complete Names - DV.esp
 % {{BASH: Names}}
 Rational Names, 2.esp
 % {{BASH: Names}}
+Console Spell.esp
 
 Countess Wear Gowns 1.1.esp
 
@@ -2775,6 +2776,8 @@ NameThatHorse.esp
 : OBSE 17+, Pluggy 122+.
 sycNiceToMeetYou.esp
 : OBSE 20+
+NPC Height Randomizer.esp
+: OBSE
 No Recharge.esp
 : OBSE.
 Note to Self.esp
@@ -5495,6 +5498,7 @@ FF7 Swords 02 core apocalypse.esp
 FF7 Swords 03 blade ogre nix.esp
 FF7 Swords 04 side rune.esp
 FF7 Swords 05 back butterfly.esp
+Forbidden.esp
 
 Gizmodian - Eclipse.esp
 GoddessArmor_Exnem.esp
@@ -12710,6 +12714,7 @@ Auto Potion.esp
 Auto Potion Homebrew.esp
 Auto Repair.esp
 AutoRun.esp
+Auto Update Leveled Items And Spells.esp
 Axebane_Hunters25.esp
 ? May break MMM Hunting and Crafting. Not fully tested.
 AXR Elixirs (No Testing Chest).esp
@@ -13960,7 +13965,7 @@ Things Found Fence.esp
 % {{BASH: Actors.AIData}}
 Thieves Gulid Harded.esp
 Tombstone Epitaphs.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (888FB064|"Tombstone Epitaphs.esp") DIRTY: 3 ITM, 587 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Toggleable Quantity Prompt.esp
 1293-No More -How Many- prompts-TESSource.esp
 ATakesAll.esp
@@ -16853,6 +16858,8 @@ Gothic Breton Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lattamer.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Lattamer Revised.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Chocolate Elves.esp
 : Hairs from Corean mod FULL 1.8
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
@@ -17127,6 +17134,7 @@ CM Partners Eileen.esp
  IF (B28EC8A6|"CM Partners Eileen.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partners 20 Pack.esp
 CM Partners Argonians by Howabominable.esp
+CM Partner Destara.esp
 CM Partners Elves by Howabominable.esp
 CM Partners Friska.esp
 CM Partners Humans by Howabominable.esp
@@ -17172,6 +17180,7 @@ CM Companion Jessica Alba.esp
 % {{BASH: Hair, Eyes}}
 CM Companion Megan Fox.esp
 % {{BASH: Hair, Eyes}}
+cmDrianna.esp
 CM Hoarfrost Castle Guard.esp
 CM_LoreleiU.esp
 % {{BASH: Hair, Eyes}}
@@ -17214,6 +17223,7 @@ CM Partner Kitty Snowflake Lola Nicole.esp
 CM Partner Sallah.esp
 CM Partner Sarija.esp
 CM Partner Sheela.esp
+CM recruits.esp
 CmRisingStars.esp
 cmSashaSonja.esp
 CM Yana.esp
@@ -17258,6 +17268,7 @@ AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH: Hair, Eyes}}
 BloodLady.esp
+Doll Partners.esp
 High_Imperial_Trio.esp
 % {{BASH: Hair, Eyes}}
 kgt_Aida.esp

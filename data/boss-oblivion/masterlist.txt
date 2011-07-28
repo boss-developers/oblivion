@@ -1985,6 +1985,13 @@ Kyoma's Thermometer.esp
 LIPTemplate.esp
 ? A modding esp - do not use in game, deactivate.
 
+LadyLis_dainties.esp
+ IF (B3EC8302|"LadyLis_dainties.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+LadyLiy_Leckerli.esp
+ IF (0B3CA457|"LadyLiy_Leckerli.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Gâteaux et sucreries.esp
+\French version of above. Keep them together for neatness.
+ IF (F4DEEC|"Gâteaux et sucreries.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 lantern.esp
 LCD.esp
 LCD MDMix.esp
@@ -2966,7 +2973,7 @@ Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
  IF (74D2CA6F|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-" 'Castle Dunkerlore', 'Kumiko Manor'
+" 'Kumiko Manor'
 DLCVileLair - Unofficial Patch.esp
 % {{BASH: Graphics}}
 Correctif VileLair.esp
@@ -8810,24 +8817,6 @@ Grand Ayleid Maze.esp
 green market district.esp
 GreenGables.esp
 SYS Patch-Green Gables.esp
-GTAesgaard.esp
- IF (94A96B7D|"GTAesgaard.esp") DIRTY: 107 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-GTAesgaard_1.esp
-GTAesgaard_delayer.esp
-Gates To Aesgaard Weather Patch.esp
-? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
-GTAesgaard_2.esp
- IF (AB1F2934|"GTAesgaard_2.esp") DIRTY: 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-GtArus.esp
-GTAesgaard I v1.2 Delayer.esp
-? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
-GTAesgaard II v1.1 Delayer.esp
-? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
-Gates To Aesgaard 2 Delayer.esp
-GTAesgaard 1and2 Delayer.esp
-? Outdated. Update to the latest version of the delayer.
-GTAesgaard I-II Delayer.esp
-? Obsolete. Remove this.
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
@@ -9654,6 +9643,26 @@ NNWARE04-Veyond.esp
 ? Obsolete. Update to series 2+.
 NNWARE05-Bawn.esp
 ? Obsolete. Update to series 2+.
+
+\GTAesgaard moved here to avoid land tears with the above set of mods.
+GTAesgaard.esp
+ IF (94A96B7D|"GTAesgaard.esp") DIRTY: 107 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+GTAesgaard_1.esp
+GTAesgaard_delayer.esp
+Gates To Aesgaard Weather Patch.esp
+? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
+GTAesgaard_2.esp
+ IF (AB1F2934|"GTAesgaard_2.esp") DIRTY: 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+GtArus.esp
+GTAesgaard I v1.2 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+GTAesgaard II v1.1 Delayer.esp
+? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+Gates To Aesgaard 2 Delayer.esp
+GTAesgaard 1and2 Delayer.esp
+? Outdated. Update to the latest version of the delayer.
+GTAesgaard I-II Delayer.esp
+? Obsolete. Remove this.
 \EndGroup\\
 
 \BeginGroup\: Quests O
@@ -10144,7 +10153,9 @@ tales of gratch.esp
 Talos Bridge.esp
 Tamriel Rare Traders.esp
 TamrielSnacks11-EV.esp
+ IF (36E6CBAA|"TamrielSnacks11-EV.esp") DIRTY: 20 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielSnacks11-DV.esp
+ IF (156F6CFE|"TamrielSnacks11-DV.esp") DIRTY: 20 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tanduff.esp
 Tantrivaylia.esp
 Tantrivaylia Vwalk.esp

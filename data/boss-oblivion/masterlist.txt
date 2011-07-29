@@ -1755,7 +1755,7 @@ OCC-CoC-Patch.esp
 ? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 ClocksOfCyrodiil - ChorrolTextureChange.esp
 Better Clocks.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EFEAA850|"Better Clocks.esp") DIRTY: 25 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 ClothingIsArmor.esp
 
@@ -1948,7 +1948,6 @@ IngredientsDrawers.esp
 Item interchange - Extraction.esp
 % {{BASH: Filter, Deactivate}}
 : Bashed Patch.
-" Cobl. Already included in Cobl v1.72+.
 Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
@@ -5852,7 +5851,7 @@ Essential Unicorn-TESSource.esp
 Imperial Horse Armor.esp
 Mounted_Steering.esp
 Mounted_Spellcasting.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D60BCB81|"Mounted_Spellcasting.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mounted_Trampling.esp
 HorseCommands.esp
 HorseCommandsv2.esp
@@ -9215,6 +9214,7 @@ Corpse_Kvatch.esp
 Kvatch Rebuilt.esp
 % {{BASH: Actors.AIPackages, Invent}}
  IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: 26 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (61F4A8B9|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
@@ -10636,6 +10636,7 @@ ZOMBIES! - 28 days and a bit V2.esp
 BankMod.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
+ IF (831EB9FA|"za_bankmod.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ZamokVOblakah2.esp
 Zayls Lost House.esp
 zDangerSense.esp

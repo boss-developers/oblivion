@@ -11572,6 +11572,7 @@ ShezriesVillagesCOBL.esp
 ? Old version. Update to Shezrie's Towns and remove this.
 ShezriesTownsMaster.esp
  IF (1A77795D|"ShezriesTownsMaster.esp") DIRTY: 24 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (67594659|"ShezriesTownsMaster.esp") DIRTY: 45 ITM, 87 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShezriesTownsMaster Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 GoC_ShezriesTowns_Patch.esp

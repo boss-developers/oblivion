@@ -12002,6 +12002,8 @@ Gaelendryll-BrenaRiver patch.esp
 Gaelendryll - UL Brena River - Daedric Shrine Patch.esp
 NakedNord.esp
  IF (AB1B9D3C|"NakedNord.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide" Also requires manual cleaning, 1 wild edit.
+OCC+NakedNord Patch.esp
+OCR+NakedNord Patch.esp
 xulImperialIsle.esp
  IF (9F8E4A43|"xulImperialIsle.esp") DIRTY: 19 ITM, 49 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Imperial Isle DV.esp
@@ -12465,6 +12467,8 @@ OCC-ABE-LC-Land Patch.esp
 ? Obsolete. Delete this patch.
 OCC-ABE-Patch.esp
 ? Obsolete. Delete this patch.
+Oblivifall - Losing My Religion OC.esp
+Oblivifall - Losing My Religion OC Reborn.esp
 OCC-OOO-Patch.esp
 OCR + OOO Patch.esp
 OCC-Roads-Patch.esp

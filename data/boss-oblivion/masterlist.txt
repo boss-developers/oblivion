@@ -1223,6 +1223,9 @@ Louder Nirnroots.esp
 % {{BASH: Sound}}
 Louder Nirnroot.esp
 % {{BASH: Sound}}
+Louder Nirnoot.esp
+\Yep, that is a typo.
+% {{BASH: Sound}}
 ln.esp
 % {{BASH: Sound}}
 lninroot.esp
@@ -3602,6 +3605,8 @@ Crystalline Sword.esp
 CrystalStaff.esp
 Crystal Weapons and Armor.esp
 CursedArmor.esp
+CV - Kilij.esp
+ IF (C4E017B|"CV - Kilij.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cy.esp
 CaptureBalls.esp
 Colourwheels Sexy Lingerie HGEC.esp
@@ -3777,6 +3782,7 @@ Dread Knight Armor.esp
 Dread Knight Weapons.esp
 druid_tomb.esp
 DS Mage's Belt.esp
+Dynasty.esp
 doofdillas_potions_recolored_unsorted_v0_2_1.esp
 % {{BASH: Graphics, Names}}
 ? Old, update to version 0.3.1+.
@@ -3870,6 +3876,7 @@ Female Helmet Replacer.esp
 % {{BASH: Graphics}}
 Female Outfits by Koutetsu.esp
 " Better Abandoned House.
+Ferretmyster Chrysamere.esp
 FEZA Vesta Set.esp
 Fighters Guild Scalemail Full.esp
 % {{BASH: Invent}}
@@ -5115,6 +5122,7 @@ WhiteRoseArmor_RW.esp
 White Monk Robes with Hoods by Cass v1.0.esp
 Wm-Portable-Coffins.esp
 SYS Patch-Portable Coffin.esp
+Wolf Pelt Armor.esp
 Wood Bows and Leather Armors.esp
 Woodsman Armor.esp
 Warglaive - EV.esp
@@ -5552,6 +5560,7 @@ Lady Fantasy.esp
 Lady Style.esp
 LC-Compilation-Exnem.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
+LCDynastyGold.esp
 LC-Legion-Exnem.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LC-Dragon-Exnem.esp
@@ -5624,6 +5633,7 @@ Sack of PantsRU.esp
 Sakura Outfit.esp
 SB TES4 Oblivion Crossbow Mod v8.5.esp
 SchwarzeKatzeArmor.esp
+Sexy Ghost Armor.esp
 SexyKunoichi.esp
 SexyLeather.esp
 SG015_Leia.esp
@@ -5889,6 +5899,7 @@ GP_Call Steed.esp
 Calm_Shadowmere.esp
 Leveled Shadowmere.esp
 Rideable_Wild_Horses.esp
+Rideable Frost Atronach.esp
 PSFastHorse.esp
 Horse Management.esp
 : OBSE v20b2+
@@ -6658,6 +6669,7 @@ FCOM_LessReaversInGates.esp
 >CoH Werewolves Mixed.esp
 >CoH Spawn Rates Increased.esp
 >CoH 1st Person Anims.esp
+>Curse of Hircine - Werewolf Hunters.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
@@ -6789,6 +6801,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <CoH Werewolves Mixed.esp
 <CoH Spawn Rates Increased.esp
 <CoH 1st Person Anims.esp
+<Curse of Hircine - Werewolf Hunters.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Obsolete. Remove this and update to MMM v3.6beta3+.
@@ -7952,6 +7965,7 @@ AnvilBayExpansion.esp
 " Open Cities Reborn.
 AnvilBayMisteryHouse.esp
  IF (7BA6C2D6|"AnvilBayMisteryHouse.esp") DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Anvil Docks Abode.esp
 AnvilManor2.0.esp
 Anvil_Mazecave.esp
 Atropa.esp
@@ -11135,6 +11149,7 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH: C.Owner, Factions}}
+ IF (E59E8D6E|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -13982,6 +13997,7 @@ TML_WieldableTorches_v10_Plug-in_LIGHT_dltic16b.esp
 tona_underwear.esp
 Tona Compilation.esp
 TorchesBlowOut.esp
+True Spellbreaker.esp
 TurretDisable.esp
 TweakAthleticsNoSpeed.esp
 \EndGroup\\

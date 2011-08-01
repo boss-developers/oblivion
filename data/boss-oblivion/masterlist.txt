@@ -1857,6 +1857,7 @@ Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 Doomstones.esp
 DragonStatuesv1.esp
+DrinksForSale.esp
 DropLPUI.esp
 Duke Patricks - Basic Alchemic Immersion.esp
 Duke Patricks - Minimalistic Hunger.esp
@@ -8425,6 +8426,7 @@ Comp_Cecilia.esp
 ConLoGnollkuppeMod.esp
 ? German mod.
 ConLoBattleGenMod.esp
+Council of Mages Reconvened.esp
 The Contented Prisoner V 2.esp
 TCP Silence remover.esp
 ? Silenced character fix for The Contented Prisoner V 2.
@@ -8942,6 +8944,7 @@ Home_1.1a.esp
 Home Improvement - Imperial City Shack 1.0.esp
 Home in Bleakers Way.esp
 Horse Dreamland.esp
+HouseFires.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
 HomeInWeyeRu.esp
@@ -10168,6 +10171,7 @@ BetterInns - ClocksOfCyrodiil PATCH.esp
 BetterInns - COBL PATCH.esp
 BetterInns - BHCExpanded PATCH.esp
 BetterInns - Harvest Containers PATCH.esp
+? If using Harvest Containers v0.99.14, this plugin will need its master changed using Wrye Bash or TES4Gecko to reference the correct plugin, the addition of the Graphics and Scripts tags, e.g. {{BASH: Graphics, Scripts}}, and the removal of the Filter tag.
 Sheogorath`s Artifacts.esp
 \EndGroup\\
 
@@ -14695,6 +14699,7 @@ Gather Ye Rosebuds.esp
 Healers.esp
 hilarity_121.esp
 hunters_performance.esp
+Illusion Magic Expansion.esp
 IllusionaryScript.esp
 Illusionary Summons.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -15514,6 +15519,7 @@ Duke Patricks - Combat Archery.esp
 Duke Patricks Basic Denock Arrows.esp
 " COBL. COBL includes a denock arrow feature.
 Duke Patricks - Double Arrow Nock Shot.esp
+Elemental Fist.esp
 Enhanced_Hand_to_hand-2329.esp
 Enchanted Hands.esp
 ArrowMania_English.esp
@@ -15540,6 +15546,7 @@ Archery Rebalance.esp
 realArchery_eng.esp
 WB Dynamic Weapon Speeds.esp
 I just hit you.esp
+Increased_Weapon_Perk_Chance-4558.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
 More_Arrows_Recovered-2169.esp

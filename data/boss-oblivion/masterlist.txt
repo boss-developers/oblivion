@@ -3939,6 +3939,7 @@ GizDredfireOB.esp
 Gizmodian Aurora Blade.esp
 Gizmodian - Copperthorn.esp
 Gizmodian - FF Ultima Blade.esp
+Gizmodian - Shards of Light.esp
 Gizmodian - Shell of the Artifice.esp
 Gizmodian - Shell of the ArtificeUFF.esp
 Gizmodian - Vicious Heart.esp
@@ -5437,6 +5438,7 @@ CrimsonEyeCandy.esp
 Crimson Eyecandy White.esp
 CB Classy Dress.esp
 CB Rogue Armor.esp
+CB Stylish Outfit.esp
 Chrome Amazon Armor.esp
 % {{BASH: Graphics}}
 CDM-Assassin Robes Renamed.esp
@@ -5642,6 +5644,7 @@ Shadowsilk-exnem.esp
 Shadowsilk-Roberts.esp
 ShadowWatcher_HGEC_v2.esp
 ShadowWatcher_HGEC_v2_b.esp
+Sin_nightmare.esp
 SkeuomorphT3.esp
 Skeuomorph_LBD.esp
 Slof's Beefcake Armors.esp
@@ -13336,6 +13339,8 @@ TI-MM v04d.esp
 More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
+Morroblivion item rebalance.esp
+% {{BASH: Stats}}
 movablebodies.esp
 MTC Stable Interiors.esp
 Music Controller.esp
@@ -15078,6 +15083,7 @@ Spells No Lighting.esp
 
 Friendlier Summons.esp
 ND_LongerSummons_x2.esp
+ND_LongerSummons_x3.esp
 cpp.esp
 cppCM.esp
 cppSI.esp
@@ -16043,6 +16049,7 @@ Seph's new animations.esp
 Fullbody Armour for Sephs Animations.esp
 
 BETA2_Strike_a_Pose_Character_Idle_Animations.esp
+Breathing Idle Animations.esp
 
 CTAddPose_v_1.esp
 CTAddPose_osr1.esp
@@ -17612,6 +17619,7 @@ Valtierro_B1.esp
 Valtierro_B1-NoCCRL.esp
 VampireCompanion.esp
 Vance.esp
+ZoeNeeshka.esp
 
 DAAanila.esp
 % {{BASH: Hair, Eyes}}

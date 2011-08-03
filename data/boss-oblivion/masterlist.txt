@@ -181,6 +181,7 @@ DremoraCompanion.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
 Better Cities Resources.esm
+Crystal Cave Tileset.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
@@ -3713,6 +3714,7 @@ Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
 Deathlilith.esp
+Dedicated.esp
 Defensive_staves_Basic.esp
 Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
@@ -4053,6 +4055,8 @@ HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 Hentai Recolours.esp
 Hentai Armors Retextured.esp
+Heretic Robe Replacer.esp
+% {{BASH: Graphics}}
 
 HGEC Boots.esp
 HGEC Evening Dress.esp
@@ -4935,6 +4939,7 @@ Tesw.esp
 TGG- Treasure Placement.esp
 The Adventurer's Guide.esp
 The Arsenal.esp
+The Arsenal - Ancient Ayleid Weaponry.esp
 The Arsenal - Leveled Lists.esp
 The_Bat.esp
 The Bow of Ash.esp
@@ -6147,7 +6152,7 @@ Cobl Main DE.esp
 Cobl Main RUS.esp
 Cobl Glue.esp
  IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
->? Make sure to install the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp' if using the latest version.
+>? If using Cobl 1.72 and a version of FCOM below 0.9.9, also use the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp'. If you are using UFCOM then use "OOO 1.32-Cobl.esp" instead of those patches.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
 OCC+COBL Luggage Patch.esp
@@ -6439,6 +6444,7 @@ OOO_Arena_Loot.esp
 OOO-Better_Priced_Clutter.esp
 % {{BASH: Stats}}
 OOO CheapWine Vanilla Effects.esp
+OOO-Inebriation_Remove.esp
 OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -8469,6 +8475,7 @@ Chinese Weapons.esp
 CompleteMagePack.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CryptofDecay.esp
+Crystal Cave Dungeon.esp
 CoinTrader.esp
 CoinTrader - SpellTomes.esp
 Colourwheels_sexy_school_uniforms.esp
@@ -8502,6 +8509,9 @@ Daedric Quests Unleveled.esp
 Daemonengruft.esp
  IF (D4C4B30F|"Daemonengruft.esp") DIRTY: 6 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NoDaedricQuestLevelLocks.esp
+DaggerfallResources02.esp
+: Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
+ IF (9FFFAA26|"DaggerfallResources02.esp") DIRTY: 16 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dairânath Avari - male Companion.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
@@ -8934,6 +8944,9 @@ Hentai mania OOO patch.esp
 hantai mapbook.esp
 Hero Hill Redone.esp
 High Rock.esp
+HighrockVillage.esp
+: Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
+ IF (D1E9F459|"HighrockVillage.esp") DIRTY: 0 ITM, 73 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HighwaymanHideway.esp
 HobbitHole.esp
 Hobbit Hole Revamped.esp
@@ -9830,6 +9843,7 @@ Reaper's Elsandore's Stoneway.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
 Reaper's Sexy Shower Everywhere.esp
+Reaper's Sorcerer's Shop.esp
 Reaper's The Necromancer's Tower.esp
 SYS Patch-The Necromancer Tower.esp
 Reaper's Tower V_1.esp
@@ -11488,12 +11502,18 @@ TWMP_Summerset.esp
 TWMP_Valenwood_Elsweyr.esp
 TWMP_Hammerfell.esp
 TWMP_HighRock.esp
+TWMP_ProvinceHighRock.esp
+: Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
+ IF (C429C648|"TWMP_ProvinceHighRock.esp") DIRTY: 98 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TWMP_Skyrim.esp
 TWMP_Morrowind.esp
 TWMP_ BlackMarsh.esp
 TWMP_BlackMarsh.esp
+TWMP_Azure_Palace.esp
+: Tamriel Heightmaps
 TWMP_Castle_Dunkerlore.esp
 TWMP_Thir River.esp
+ IF (52ECF190|"TWMP_Thir River.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Rost3_Topal.esp
 \EndGroup\\
 
@@ -13074,6 +13094,7 @@ AlmostNoRandomOBGates.esp
 Fewer Foes.ESP
 
 Finite Ammo.esp
+Firefly101 Daedra Attacks.esp
 First Person Messages.esp
 $ Not compatible with OOO. Already included in OOO.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13131,6 +13152,8 @@ GoresNoTargetMagicGaining-Fast.esp
 
 GP_Lockpicks.esp
 " MMM Hunting & Crafting.
+gq Chapel Altars become Wayshrines.esp
+% {{BASH: Scripts}}
 Great Gate Essential NPC's.esp
 Grummite Bows.esp
 GuardEquipAndStatFix.esp
@@ -13751,6 +13774,7 @@ Short Grass V2.esp
 Short Grass V3.esp
 Short_Grass-2044.esp
 
+SI-ArchmagesChestIngredients.esp
 Side's Backpacks.esp
 % {{BASH: Invent}}
 Side's Backpacks (COBL).esp
@@ -14258,6 +14282,7 @@ Alternative Start v1.2.esp
 ? Check you're using v1.26 or later.
 Alternative Start v1.26.esp
 AltStart.esp
+Alternative Start for Better Cities Fix.esp
 anb.esp
 Arks Tutorial Terminator.esp
 
@@ -14544,6 +14569,7 @@ KT_VampSightToggleNoEff.esp
 kuerteeSimpleVampirismExpanded.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
+LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
 PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
 ? Old update to 'Twillith vampirism.esp'.
@@ -15276,6 +15302,7 @@ Empower Enchantment.2.5x.esp
 Empower Enchantment.2x.esp
 Empower Enchantment.1.5.x.esp
 Imperishable Varla Stones.esp
+Oblivionized Enchants.esp
 Panzer_Kleidung_03.esp
 Portable Enchanting And Spellmaking Scroll.esp
 Spells and Enchanting at guilds.esp

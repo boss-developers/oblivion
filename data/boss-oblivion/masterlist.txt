@@ -2636,7 +2636,7 @@ Crowded Roads Revamped.esp
 Crowded Roads Revisited.esp
  IF (239802C4|"Crowded Roads Revisited.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Revisited Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads Revisited_ChorrolCheydinhal_5.esp
 Crowded Roads Revisited_GoldRoad_5.esp
 Crowded Roads Revisited_GreenRoad_5.esp
@@ -11973,7 +11973,7 @@ xulRollingHills_EV_withoutWheat.esp
 ? Only use one UL Rolling Hills plugin.
  IF (7518580E|"xulRollingHills_EV_withoutWheat.esp") DIRTY: 2 ITM, 282 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 xulRollingHills_EV_withoutWheat Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 Unique Landscapes - Rolling Hills DV - ohne Weizen.esp
 ? Only use one UL Rolling Hills plugin.
 xulRollingHills_EV.esp

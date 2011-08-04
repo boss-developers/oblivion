@@ -201,6 +201,7 @@ AFC v2 Core.esm
 Progress.esm
 HelmetFOV.esm
 AkaviriKojima.esm
+DibellasWatch.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
 Old School Dungeons.esm
@@ -1627,6 +1628,8 @@ BrighterTorches_v1.1.esp
 BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
 % {{BASH: Invent}}
+BTMoreEnemies.esp
+ IF (3BDE7DD3|"BTMoreEnemies.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Base C
@@ -8644,6 +8647,7 @@ DSoSMalamath.esp
 DSPirateIsleBeta.esp
 ? Old, updated to latest version.
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
+DWAnvilTransport.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
 ? 45 ITM, 0 UDR. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9455,6 +9459,8 @@ Mad Mike's Crypts of Cyrodiil.esp
 Madness' Hideout.esp
 Mage'sSkyHouse.esp
  IF (CEC8800F|"Mage'sSkyHouse.esp") DIRTY: 79 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Mages Guild Quests.esp
+: Shivering Isles
 Mage'sSkyHouse_cobl.esp
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
@@ -9811,6 +9817,7 @@ pythanis.esp
 
 Qaja'kar.esp
 : OBSE 12+.
+Qaja'kar Essential Bartenders.esp
 qNS3-inventrix.esp
 ? 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW001-010.esp
@@ -11161,6 +11168,8 @@ HoarfrostCastle.esp
 % {{BASH: Hair}}
  IF (A93FE299|"HoarfrostCastle.esp") DIRTY: 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (F0AC781E|"HoarfrostCastle.esp") DIRTY: 12 ITM, 738 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Hoarfrost Raid.esp
+ IF (0B0DD032|"Hoarfrost Raid.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -17318,7 +17327,9 @@ CM Dimon Lineage Elves Merged.esp
 Anna.esp
 Corla.esp
 Larina.esp
+MeganCM.esp
 Merina.esp
+RiverCM2.esp
 Sarah.esp
 Tralina.esp
 Yilandria.esp
@@ -17540,6 +17551,7 @@ Companion Neeshka Swalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 Companion Neeshka Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+AmidalaNeeshka2.esp
 companion_deepelves.esp
 companion_moonelves.esp
 companion_moonelves Vwalk.esp
@@ -19648,6 +19660,7 @@ Elsweyr Color Map.esp
 Colored Map for Elsweyr 1.1.esp
 TamrielWorldspaceCompleteWorldMap.esp
 TWMP_Tamriel_Ingame_ Map.esp
+DWIngameMap.esp
 
 \EndGroup\\
 

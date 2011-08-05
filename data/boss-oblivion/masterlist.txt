@@ -368,7 +368,7 @@ Oblivion_SI Vwalk Full.esp
 ? Outdated. Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches.
 
 TRoN.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8A09B1F1|"TRoN.esp") DIRTY: 9 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TRoN 0-59-1b Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TRoN Rwalk.esp
@@ -10538,7 +10538,7 @@ Versus Dark Brotherhood.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide" or better yet update to the latest.
+? Versions below 2.6 need TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Upgrade to the latest version.
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp
@@ -10676,7 +10676,7 @@ Cyrodiil Travel Services Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 FrbitTravel.esp
 Fairies.esp
-? 62 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CE62618B|"Fairies.esp") DIRTY: 62 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Portal Travel.esp
 MageGuildTravel.esp
 \EndGroup\\
@@ -11047,7 +11047,7 @@ ROM Patch - Bobs Armory.esp
 
 Cybiades.esp
 ? Do not use the (same name) compatible esp for UL:Lost; Update to the latest UL:Lost Coast.
-? 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A8970D81|"Cybiades.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CybiadesDungeon.esp
 cybCrashFix.esp
 CybEasier.esp
@@ -19438,7 +19438,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 UnderdarkSaga.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+IF (453742B9|"UnderdarkSaga.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.

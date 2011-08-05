@@ -60,6 +60,9 @@ TR_OoT_Main.esm
 Hammerfell.esm
  IF (7D22F9DF|"Hammerfell.esm") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_2.esm
+? This needs to load directly after Oblivion.esm to avoid lanscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
+DibellasWatch.esm
+? This needs to load directly after Oblivion.esm to avoid lanscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
 Belas.esm
 ? Part of Chronicles of Reeb. Do not use. Has serious landscape issues due to editing the Tamriel worldspace. Uninstall and delete.
 Zedar.esm
@@ -201,7 +204,6 @@ AFC v2 Core.esm
 Progress.esm
 HelmetFOV.esm
 AkaviriKojima.esm
-DibellasWatch.esm
 Fort Akatosh.esm
 Fort_Cooper.esm
 Old School Dungeons.esm
@@ -334,7 +336,7 @@ Essential_Merchants.esp
 % {{BASH: Actors.ACBS, NoMerge}}
 
 HrmnsOblivionScriptOptimizationv1.0.esp
-? May have a problem with Shivering Isles due to changed FormIDs causing a script to be written into cell data by mistake. A fixed edition (for Shivering Isles ONLY! is avaliable here: "http://tinyurl.com/kmgaxd"
+? Not recommended for use as there is no measureable performance improvement, and it breaks the Shivering Isles by changing some FormIDs, causing a scropt to be written into cell data.
 \This really does need to load this early.
 HrmnsOblivionScriptOptimizationv SI 1.0.esp
 
@@ -4148,6 +4150,7 @@ Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
 : OBSE
 JediLightsabersCollectionV1.3.esp
+JediLightsabersCollectionV1.5.esp
 Jewels Collection.esp
 JGAyleidRoyals.esp
 JG Elven.esp
@@ -8611,6 +8614,8 @@ DibellaTempleWillowLakeVillagev1.esp
 SYS Patch-Dibella Temple-WLV.esp
 Dibella Temple Final.esp
 DibellasWatchBeta06.esp
+DWAnvilTransport.esp
+ IF (FEF1B464|"DWAnvilTransport.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Display Rooms.esp
 Diverse Guards.esp
 
@@ -8656,7 +8661,6 @@ DSoSMalamath.esp
 DSPirateIsleBeta.esp
 ? Old, updated to latest version.
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
-DWAnvilTransport.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
 ? 45 ITM, 0 UDR. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9281,6 +9285,7 @@ Storms & Sound - Kvatch Rebuilt.esp
 KvatchRankFix.esp
 Kvatch Reclaimed.esp
 KvatchCastleMakeover.esp
+ IF (89D1C577|"KvatchCastleMakeover.esp") DIRTY: 1 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
@@ -9383,6 +9388,7 @@ LetThePeopleDrink.esp
  IF (9D730B18|"LetThePeopleDrink.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
+? This should be renamed to "LetThePeopleDrink.esp" to avoid breaking things.
  IF (AC6A3945|"LetThePeopleDrink-Cobl.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
  IF (2A1A281B|"LetThePeopleDrink-fountainonly.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10787,6 +10793,7 @@ DLCBattlehornCastle - Unofficial Patch.esp
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
+ IF (9E3F8559|"BattlehornCastleEnhanced.esp") DIRTY: 86 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". This mod requires additional manual cleaning before it can be automatically cleaned: in TES4Edit, the placed object with FormID 0x012EC4 (where x is the load position number, and should be 1 when cleaning) must be removed.
 SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
@@ -17333,6 +17340,7 @@ Colourwheels Sexy Tifa.esp
 % {{BASH: NpcFaces}}
 CM ElizabethColourWheel.esp
 CM Dimon Lineage Elves Merged.esp
+AngelinaCM2.esp
 Anna.esp
 Corla.esp
 Larina.esp

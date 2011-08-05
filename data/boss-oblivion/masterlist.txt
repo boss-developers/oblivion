@@ -3172,7 +3172,7 @@ Adonnays Classical Weaponry.esp
 Adonnays Classical WeaponryRU.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8A72E5F4|"Adonnays Elven Weaponry.esp") DIRTY: 4 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Adonnays Elven Weaponry for NPCs.esp
 Adonnays Elven Weaponry for NPCs - Vanilla placement.esp
 Adonnays Elven Longblades.esp

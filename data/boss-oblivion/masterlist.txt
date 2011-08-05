@@ -1331,12 +1331,6 @@ NoPlayerGroans.esp
 
 Sounds of Cyrodiil.esp
 % {{BASH:Sound}}
-Sounds of Cyrodiil - OC Reborn Patch.esp
-Sounds of Cyrodiil - KOTN Add-on.esp
-Sounds of Cyrodiil - Mehrune's Razor Add-On.esp
-Sounds of Cyrodiil - Thieves' Den Add-On.esp
-Sounds of Cyrodiil - HOTD Add-on.esp
-
 
 Storms & Sound.esp
 % {{BASH: C.Owner}}
@@ -3039,6 +3033,7 @@ DLCMehrunesRazor Vwalk UOP.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SM Plugin Refurbish - MehrunesRazor.esp
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+Sounds of Cyrodiil - Mehrune's Razor Add-On.esp
 
 DLCSpellTomes.esp
 % {{BASH: Relev}}
@@ -6049,6 +6044,7 @@ SM Plugin Refurbish - ThievesDen.esp
 Thievesden_mobs.esp
 % {{BASH: NoMerge, Stats}}
 dunbarrowupgrade.esp
+Sounds of Cyrodiil - Thieves' Den Add-On.esp
 \EndGroup\\
 
 \BeginGroup\: Overhauls
@@ -10997,6 +10993,7 @@ TIE In - Knights.esp
 OCC-KOTN-Patch.esp
 % {{BASH: Actors.AIPackages}}
 All Natural RL - DLC Patch.esp
+Sounds of Cyrodiil - KOTN Add-on.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
@@ -11476,6 +11473,7 @@ HeartOftheDeadv6.3 Delayer.esp
 HeartOfTheDeadv6.5 Delayer.esp
 ? Fine with HoTD V6.3-6.5.
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+Sounds of Cyrodiil - HOTD Add-on.esp
 
 Dschinni.esp
 ? There are incompatibilities with Servant of the Dawn.
@@ -12560,6 +12558,7 @@ DBOO - Open Cities Outer Districts.esp
 ? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 DBOO - OpenCitiesFull + Outer Districts.esp
 ? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
+Sounds of Cyrodiil - OC Reborn Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 5

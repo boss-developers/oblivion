@@ -2700,7 +2700,6 @@ FF_Real_Thirst.esp
 Terran Vampires Beta.esp
 
 Choices and Consequences.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR.esp
 ? Obsolete. Update to latest version.
 EQR_-_FCOM.esp
@@ -5492,6 +5491,8 @@ DMRA Stock Armor Skimpy.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 DMRA  Skimpy Armor Expanded.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
+DMRA Skimpy Clothing Replacer.esp
+% {{BASH: Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Robe Skimpy Replacer.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 Dollparts' Wild Flower Corsets of Cyrodiil.esp
@@ -6470,7 +6471,6 @@ ArmamentariumFixes.esp
 ArmamentariumLL.esp
 $ For non-OOO users. Remove this and use 'ArmamentariumLL4OOO.esp'.
 Choices and Consequences - OOO.esp
-? 0 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 C&C&EQR - OOO.esp
 ? Obsolete. Update to latest version.
 
@@ -8018,6 +8018,7 @@ ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane Services.esp
 : OBSE & SI
+ IF (15FFC768|"Arcane Services.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Arcaca_Infinium.esp
 ArcaneSkyHouse.esp
 Arcane University Telescope.esp
@@ -8613,6 +8614,8 @@ Dibella Temple Final.esp
 DibellasWatchBeta06.esp
 DWAnvilTransport.esp
  IF (FEF1B464|"DWAnvilTransport.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+DWAnvilTransport Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 Display Rooms.esp
 Diverse Guards.esp
 
@@ -9391,6 +9394,7 @@ LetThePeopleDrink-fountainonly.esp
  IF (2A1A281B|"LetThePeopleDrink-fountainonly.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly-Cobl.esp
  IF (3B07DA89|"LetThePeopleDrink-fountainonly-Cobl.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FC8A8B5F|"LetThePeopleDrink-fountainonly-Cobl.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KragenirsDeathQuest-LetThePeopleDrink patch.esp
 
 Leyawiin Castle & Guilds Upgrade.esp
@@ -9675,7 +9679,6 @@ NNWARE Series 1.esp
 ? Obsolete. Upgrade to the latest version and delete this.
 ? 20 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWAREAyleidDungeons_Series1EV.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NNWAREAyleidDungeons_Series1DV.esp
 NNWAEDungeons-Series2EV.esp
 NNWAEDungeons-Series2DV.esp
@@ -9983,7 +9986,6 @@ ScarletMonastery.esp
 School Partners.esp
 Skooma Lab
 Scribe Supplies.esp
-? Not Better Cities compatible. Already included in Better Cities IC Market District.
 Scorched Earth.esp
 Seawatch Abode.esp
 ? Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
@@ -10534,7 +10536,6 @@ Versus Dark Brotherhood.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
 % {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
-? Versions below 2.6 need TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Upgrade to the latest version.
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Valenwood Improved Vampire Hunting Patch.esp
@@ -10787,6 +10788,7 @@ fpsboost-arenanolights.esp
 DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
+ IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
@@ -10840,6 +10842,7 @@ DLCFrostcrag.esp
 % {{BASH: C.Name, C.Owner, Factions}}
  IF (2A7665FB|"DLCFrostcrag.esp") DIRTY: 73 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (9B056616|"DLCFrostcrag.esp") DIRTY: 3 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E3DACFFD|"DLCFrostcrag.esp") DIRTY: 0 ITM, 131 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
@@ -10961,6 +10964,7 @@ SM Plugin Refurbish - Knights.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 SM Plugin Refurbish(Merged).esp
+? The masters of this mod are not in the order that BOSS uses, which will cause it to be displayed with an orange checkbox in Wrye Bash. BOSS's order is correct, and the master order of the plugin can be altered using TES4Edit or TES4Gecko.
 : all DLCs and Shivering Isles to be installed and active.
 " 'CDM-CGO Compatibility plugins'.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
@@ -11203,6 +11207,8 @@ Adense AFK_Weye RR Rumare Patch Patcher.esp
 Weye_Armory1.esp
 
 House of Healing at Weye.esp
+House of Healing at Weye Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 Weye.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Healer WEYE_TICS Patch.esp
@@ -12094,6 +12100,7 @@ Blood&Mud-CheydinhalFalls patch.esp
 GiftOfKynareth-CheydinhalFalls patch.esp
 TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
+ IF (DCE9A024|"KvatchRebuilt-CheydinhalFalls patch.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KvatchRebuilt-CheydinhalFalls patch DV.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 CRpatchForXULcheydinhalFalls.esp
@@ -15330,6 +15337,7 @@ Imperishable Varla Stones.esp
 Oblivionized Enchants.esp
 Panzer_Kleidung_03.esp
 Portable Enchanting And Spellmaking Scroll.esp
+Reflect and Restore Enchanting.esp
 Spells and Enchanting at guilds.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Soolie'sBetterEnchantmentEffects.esp
@@ -16593,6 +16601,7 @@ AsianElves.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Avariel.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Ayleid Arcane Archer.esp
 Black Beard Races.esp
 Brown Beard Races.esp
 Blonde Beard Races.esp
@@ -16651,6 +16660,8 @@ Hidden_Elves.esp
 kaleen.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Kaleencolors.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+KaleencolorsP2.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 lady_of_the_lake.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
@@ -17364,6 +17375,7 @@ BloodLady.esp
 Doll Partners.esp
 High_Imperial_Trio.esp
 % {{BASH: Hair, Eyes}}
+KaleenCMAmelia.esp
 kgt_Aida.esp
 % {{BASH: Hair}}
 kgt_Avve.esp
@@ -18294,6 +18306,7 @@ Better Cities IC Talos Plaza.esp
 Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
+ IF (8687BBCC|"Better Imperial City.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Better Cities FPS Patches

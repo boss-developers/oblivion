@@ -1387,8 +1387,8 @@ Weather Inside.esp
 MIS Weather.esp
 
 Rainbows.esp
- IF (71BDDEC0|"Rainbows.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Rainbows.esp
+ IF (71BDDEC0|"Better Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Lighting
@@ -4963,6 +4963,7 @@ Tesw.esp
 TGG- Treasure Placement.esp
 The Adventurer's Guide.esp
 The Arsenal.esp
+ IF (4D20F120|"The Arsenal.esp") DIRTY: 15 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Arsenal - Ancient Ayleid Weaponry.esp
 The Arsenal - Leveled Lists.esp
 The_Bat.esp
@@ -9227,6 +9228,7 @@ JADImperialApartments03Temple.esp
 " Better Cities Temple District. Already included as part of Better Cities.
 Jagnot- Imperial City Library V1.3.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Talos District.
+ IF (FC58ACB0|"Jagnot- Imperial City Library V1.3.esp") DIRTY: 41 ITM, 171 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
@@ -9589,7 +9591,7 @@ MushroomManorCobl.esp
 SYS Patch-Mushroom Manor COBL.esp
 
 Malevolent.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (969EEDB3|"Malevolent.esp") DIRTY: 88 ITM, 65 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Malevolent Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 OCC-Malevolent-Patch.esp
@@ -10662,6 +10664,8 @@ BDBS - Whispered Warning Patch.esp
 Whispers of Death Extended.esp
 White Gold Top.esp
 WhiteGoldTowerV19.esp
+WSL_Redone.esp
+? 33 ITM, ? UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 White Tower v0.8.esp
 Why only apple.esp
 whiteRoseRiverFarm.esp
@@ -10693,7 +10697,7 @@ WOTFH_1.1.esp
 WOTFH_1.2.esp
 ? Old Version, update to version 1.3+
 WOTFH_1.3.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (76708A3D|"WOTFH_1.3.esp") DIRTY: 0 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Water's Edge Cottage.esp
 Waterfront_Shack-6733.esp
 Fort Weye.esp
@@ -11111,7 +11115,7 @@ Cybiades v2.1 Delayer
 Castle_Knightstone.esp
 
 TOTF.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (14BBA6EE|"TOTF.esp") DIRTY: 76 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TOTF Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 OCC-TOTF-Patch.esp
@@ -11223,7 +11227,7 @@ Origin of the Mages Guild.esp
 
 The Mystery of the Dulan cult.esp
 >: 'FCOM_DulanCult.esp'.
-? 4569 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (06845A1E|"The Mystery of the Dulan cult.esp") DIRTY: 4569 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TheNecromancer.esp
  IF (06798B41|"TheNecromancer.esp") DIRTY: 108 ITM, 178 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11264,11 +11268,11 @@ LanternMonastery.esp
 FiveLanterns-HoarfrostCastle patch.esp
 
 MannimarcoComplete.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E174D1FE|"MannimarcoComplete.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MannimarcoComplete - ICS Patch.esp
 Mannimarco_resurrection.esp
 MannimarcoRevisited.esp
- IF (E2BE41DA|"MannimarcoRevisited.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E2BE41DA|"MannimarcoRevisited.esp") DIRTY: 0 ITM, 261 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
 % {{BASH: NpcFaces}}

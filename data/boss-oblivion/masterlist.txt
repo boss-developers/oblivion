@@ -1160,6 +1160,18 @@ HAZdynamicSnow.esp
 \ or appropriate except for in some cases C.Water.
 \Possible dirty edits mean they should go before landscape changing mods.
 
+AdvancedWater.esp
+% {{BASH: C.Water}}
+Advanced_Water.esp
+% {{BASH: C.Water}}
+Advanced_Water_Modification-2734.esp
+Advanced_Water_Modification.esp
+Advanced Water Modification.esp
+Better Water.esp
+Better_Water-1830.esp
+BetterImperfectWater.esp
+Blue_Lagoon_Water-2032.esp
+Clear_Water-3763.esp
 Enhanced Water v1.5 ND.esp
 % {{BASH: C.Water}}
 Enhanced Water v1.5 HD.esp
@@ -1171,43 +1183,33 @@ Enhanced Water ND_1C.esp
 % {{BASH: C.Water}}
 Enhanced Water v2.0 HD.esp
 % {{BASH: C.Water}}
+Enhanced Water v2.0 HD - SI Addon.esp
+% {{BASH: C.Water}}
 Enhanced Water HD_1C.esp
 % {{BASH: C.Water}}
 Enhanced Water v2.0 HDMI.esp
 % {{BASH: C.Water}}
+Enviroment.esp
 Improved Water.esp
+LessFogUnderwater.esp
 NaturalWater.esp
 Natural_Water_by_Max_Tael.esp
 NEW WATER V3.esp
 NEW WATER V7.esp
 New Water Dungeon water& Lava.esp
-Better Water.esp
-SI Alexs better water.esp
-phinix-waterfix.esp
-UnderwaterVisibilityMod.esp
-Better_Water-1830.esp
-BetterImperfectWater.esp
-Blue_Lagoon_Water-2032.esp
-AdvancedWater.esp
-% {{BASH: C.Water}}
-Advanced_Water.esp
-% {{BASH: C.Water}}
-Advanced_Water_Modification-2734.esp
-Advanced_Water_Modification.esp
-Advanced Water Modification.esp
-Enhanced Water v2.0 HD - SI Addon.esp
-Clear_Water-3763.esp
-Underwater.esp
-Enviroment.esp
-Real Water.esp
-realWaters.esp
-Realistic Water.esp
-% {{BASH: C.Water, Graphics}}
-? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Wavy_Water.esp
 OBGE Water and Shaders.esp
 OBGE - Liquid Water.esp
 OBGE - Liquid Water Basic.esp
+phinix-waterfix.esp
+Realistic Water.esp
+% {{BASH: C.Water, Graphics}}
+? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Real Water.esp
+realWaters.esp
+SI Alexs better water.esp
+Underwater.esp
+UnderwaterVisibilityMod.esp
+Wavy_Water.esp
 
 \EndGroup\\
 
@@ -1635,6 +1637,7 @@ BPMerchantStorage.esp
 % {{BASH: Invent}}
 BTMoreEnemies.esp
  IF (3BDE7DD3|"BTMoreEnemies.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+BuyableTorch.esp
 \EndGroup\\
 
 \BeginGroup\: Base C
@@ -1789,6 +1792,7 @@ Clothes Get Wet.esp
 Chapel Tithe.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
+CorpsePreserver.esp
 
 CrimsonScarArmor.esp
 % {{BASH: Invent}}
@@ -1993,6 +1997,7 @@ KB - House of Wonders.esp
 Kill_Bruma_Statue.esp
 Kill_KvatchRebuilt_Statue.esp
 KF Chapel Shop.esp
+KORs Fox Figurines.esp
 Kyoma's Focus on Shrine.esp
 Kyoma's Thermometer.esp
 \EndGroup\\
@@ -2275,6 +2280,7 @@ Random Welkynd and Varla Stones and Stone Bricks.esp
 Rats!.esp
 RAZ's Dishes.esp
 RAZ's Fuds.esp
+Reaper's Adjustable Oil Lamp.esp
 Respawning Containers.esp
 : Shivering Isles
 Resurrect book.esp
@@ -2351,6 +2357,7 @@ Ryk_Onsen.esp
 
 Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
+SD.esp
 Sexual_SpiderDaedra.esp
 % {{BASH: Graphics, Deactivate}}
 ? Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
@@ -2449,6 +2456,7 @@ Thingamajigs Broken Armor DD Edit.esp
 Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
 Timescale Options.esp
+ToggleCrosshair.esp
 ToggleShaders.esp
 Torch Arrows.esp
 Trainer_Book.esp
@@ -2504,6 +2512,9 @@ VipCxj_AirSystem.esp
 Vows and Covenants.esp
 ? Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
+VWD-Chapels.esp
+VWD Extras.esp
+VWD-Tamriel v0.5.esp
 \EndGroup\\
 
 \BeginGroup\: Base W
@@ -2927,6 +2938,7 @@ Expanded Hotkeys Brief Equip Message.esp
 Hov's Hotkeys.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 HotkeyCasting.esp
+hotkeys_galore_6.esp
 Lem - Hotkey Cyclers.esp
 ? Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Uncommon Controls.esp
@@ -4504,6 +4516,7 @@ Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp
 Onechanbara Aya's Bikini.esp
+OrcLightArmor.esp
 ORM -Travelers' Cloaks.esp
 OS Artifacts.esp
 \EndGroup\\
@@ -5440,7 +5453,9 @@ Babarized WizardWear.esp
 BAB & RM Assassin Elite Armor.esp
 BABCeltic Witch Robes.esp
 Battle China Dress.esp
+Birdy.esp
 BisPainBringerMale.esp
+Bis_Pom.esp
 Black Courtesan Dress.esp
 Blackmarsh_Witch_HGEC.esp
 Blackmarsh_Witch_HGEC_Clothing.esp
@@ -5455,6 +5470,7 @@ Crimson Eyecandy White.esp
 CB Classy Dress.esp
 CB Rogue Armor.esp
 CB Stylish Outfit.esp
+Chloe.esp
 Chrome Amazon Armor.esp
 % {{BASH: Graphics}}
 CDM-Assassin Robes Renamed.esp
@@ -5472,8 +5488,10 @@ darkrosearmor.esp
 Dark Rose Armor.esp
 Dark Rose Armor Rus.esp
 DarkRoseSet.esp
+DarkSister_Cheydinhal.esp
 DarkWindarmor1.esp
 Diannes UFF Daedric Casual Attire.esp
+Diva.esp
 DFSLoutfits.esp
 DM Outlaw armor_EN.esp
 DM Outlaw armor_RU.esp
@@ -5522,12 +5540,14 @@ ExWearUndies.esp
 
 FB_DC_Mega_Pack_OMOD_BC1.esp
 FB_DC_Mega_Pack_OMOD_BC1_H.esp
+Fetish Rogue.esp
 FF7 Swords 01 complete tsurugi.esp
 FF7 Swords 02 core apocalypse.esp
 " Open Cities.
 FF7 Swords 03 blade ogre nix.esp
 FF7 Swords 04 side rune.esp
 FF7 Swords 05 back butterfly.esp
+Fingernails For HGEC.esp
 Forbidden.esp
 
 Gizmodian - Eclipse.esp
@@ -5538,6 +5558,8 @@ Grim Reaper_1C.esp
 Grim's Necro Robe.esp
 Growlfs_Hot_Clothes_And_Armor_4,0_Xmas_Edition-8400.esp
 
+Hana six.esp
+Hentai_Juliet_Uniform.esp
 HGEC_AmazonArmor.esp
 % {{BASH: Graphics}}
 HGEC_BodyGlove.esp
@@ -5569,6 +5591,7 @@ javbs.esp
 JB Catsuit Variants.esp
 JB Catsuit Weapons.esp
 
+KAIHIME.esp
 kalikuts_.esp
 kalikuts_UFF_BraPanties.esp
 ktx_FlameAtronachArmor.esp
@@ -5588,9 +5611,12 @@ LC-Dragon-Exnem.esp
 LeatherHunterArmour.esp
 Leere Armor.esp
 LichGear.esp
+LiLi six.esp
 
+MadokaMagicka.esp
 Metal Fang.esp
 Mithril_Sorceress_armor.esp
+Mondsteins Gothic Lolita Outfit.esp
 More_Shields.esp
 Morrowind Robes and Dresses for HGEC.esp
 Morrowind Scimitars for Oblivion.esp
@@ -5600,6 +5626,14 @@ MW  Dremora Armor.esp
 
 NamirasEmbraceArmour.esp
 necklacesbykalikut.esp
+Neo's 2NE1 Street Costumes.esp
+Neo's Gantz.esp
+Neo's Genie and Lupin.esp
+Neo's LandCH.esp
+Neo's Morrigan.esp
+Neo'sFelicia.esp
+Neo-Twilek Dancers.esp
+NoelCosplay.esp
 New Exnem Compatible Armors.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 
@@ -5632,6 +5666,8 @@ R18PN - Schatten lauf Amr.esp
 Red Dragon Armor.esp
 Red Samurai.esp
 Rinzei_UFFLeatherCorsetGown.esp
+Rockh00 InTheDark.esp
+Rockh00 Nouhime.esp
 Robed Panty.esp
 Robert Adelina.esp
 Roberts Armamentium female.esp
@@ -5679,6 +5715,7 @@ StockClothingArmorHGECnormalD.esp
 % {{BASH: Graphics}}
 StockClothingArmorHGECFighterD.esp
 % {{BASH: Graphics}}
+Sweet six.esp
 Swim Suit Retextured By DH13 Part 3.esp
 
 TFF_Armor_Base.esp
@@ -5769,6 +5806,8 @@ VGA_SaintSeducer.esp
 Volcano in the Twilight.esp
 
 XiaNewAmuletsV1.esp
+
+Zombie Slayer Armor.esp
 \EndGroup\\
 
 \BeginGroup\: Not For Free Armor
@@ -7183,9 +7222,9 @@ TIE+Frans NPC Inventory.esp
 FCOM_T.I.E.esp
 
 T.I.E4MODS.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2FD81EB9|"T.I.E4MODS.esp") DIRTY: 6 ITM, 392 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 T.I.E4MODSOOO+FCOM.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A7E5FB03|"T.I.E4MODSOOO+FCOM.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 T.I.E4MODSFCOM+COBL.esp
 T.I.E4OOO+FCOM.esp
 T.I.E4FCOM+COBL.esp
@@ -7638,7 +7677,7 @@ OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
 % {{BASH: Factions}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1D1C58B3|"Enhanced Quest Roleplaying.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
@@ -7908,6 +7947,7 @@ All New House.esp
 Vaernlor Manor.esp
 SYS Patch-Vaernlor Manor.esp
 Along Came A Spider.esp
+AlternateParadise.esp
 alto angelos proveing ground.esp
 ALTshack02.esp
 Fedex01.esp
@@ -8426,6 +8466,7 @@ Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
 Clamshell_Cottage_v1.5_COBL.esp
 ArCloudRulerArmoryExtended.esp
+Cliff Cottage.esp
 Cloudruler Guest Quarters.esp
 Chapel Sanctuary.esp
 cherydinhal_murder_quest-3185.esp
@@ -8616,10 +8657,12 @@ DWAnvilTransport.esp
  IF (FEF1B464|"DWAnvilTransport.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DWAnvilTransport Vwalk.esp
 % {{BASH:Actors.Anims, NoMerge}}
+DisplayHousejm.esp
 Display Rooms.esp
 Diverse Guards.esp
 
 Dive Rock Revisited.esp
+Dive Rock Throne.esp
 MeteorShowerDiveRock.esp
 
 SkingradHoleInTheWall_COBL_v6.esp
@@ -8711,6 +8754,7 @@ The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Eska Cair.esp
+Etherealspace.esp
 EverHaus3.esp
  IF (10F16EB7|"EverHaus3.esp") DIRTY: 49 ITM, 22 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ever-rest Glade reborn.esp
@@ -8872,6 +8916,7 @@ SYS Patch-Green Gables.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
+Great Forest Guardian Tower.esp
 GreatForestMarket.esp
 GreatForestMarket Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -9898,6 +9943,7 @@ Region_Revive_-_Lake_Rumare_FuseSnailRacing_Patch.esp
 ? Patch for FuseSnailRacing.esp
 " If loaded after OOO.esp this cause OOO's lockbash feature to fail. To fix this simply load RL-LR before OOO.esp.
 wb_RRLR_TalosBridge_Patch.esp
+Regions - Hammerfell.esp
 RealmofRuun.esp
 Return Of Shadows.esp
  IF (6D97B636|"Return Of Shadows.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10122,6 +10168,7 @@ SYS Patch- Skingrad Villa.esp
 SOTES_Santres.esp
 Sonnengoldhof.esp
 SoulGemSeller.esp
+soul gem transmutor.esp
 Sousmarin_manorV1.1.esp
 Southhelm Manor.esp
 sp_Market_Sewer_Hideout.esp
@@ -11235,7 +11282,7 @@ Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
 Shadowcrest_Vineyard_COBL.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9FD89158|"Shadowcrest_Vineyard_COBL.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
@@ -12741,6 +12788,7 @@ Ace_TorchlightRadiusIncrease.esp
 Actual Oblivion Crisis.esp
 Addendum - Diabloblivion.esp
  IF (D6814DD|"Addendum - Diabloblivion.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Akaviri__IMPROVED-6787.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
 Amulets and Rings for everybody.esp
@@ -12870,6 +12918,7 @@ Bow Damage Balanced.esp
 % {{BASH: Stats, Deactivate}}
 Brandon's Misc Rebalance.esp
 % {{BASH: Stats, Deactivate}}
+BringIt.esp
 
 BOO_BulletTime.esp
 Bullettimemod.esp
@@ -13074,6 +13123,7 @@ EnchantedArchMageRobeandHood.esp
 Enhanced Quest Items.esp
 EnemyFace3.esp
 % {{BASH: Actors.AIPackages, Actors.Spells, NpcFaces, Scripts}}
+Equivalent_Exchange.esp
 Essential_Trainers-8374.esp
 
 EVE_ShiveringIslesEasterEggs.esp
@@ -13110,6 +13160,7 @@ Factions DB v1.16.esp
 Factions Dark Brotherhood.esp
 faster-grass.esp
 Faster-trees.esp
+Fast Travel Expanded.esp
 FG_Merchant Inventory Realism V 1_5.esp
 % {{BASH: Invent}}
 FrbitchapelAltars.esp
@@ -13582,6 +13633,7 @@ RedBag - Dangerous Animals.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
 ReneerNPCSneakMod.esp
+repricedclutter.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
 Respawning Containers.esp
@@ -13657,6 +13709,7 @@ SecretsoftheAyleidsClosure.esp
  IF (E9500749|"SecretsoftheAyleidsClosure.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Secure Guild Chest.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SeptimsAreAnInventoryItem.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
@@ -13974,7 +14027,7 @@ SSS Specialization.esp
 4.SkillSpecialization.esp
 SSS Specialization Shaderless + Lvl 35 Trigger English.esp
 SSS Specialization Shaderless + Lvl 35 Trigger Castellano.esp
-
+Steel Weapons and Armor upgrade.esp
 Storms & Sound - AFK_Weye.esp
 : AFK_Weye.esp
 ? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
@@ -15319,6 +15372,7 @@ Enchantment and Spellmaking improvment.esp
 Enchantment and Spellmaking improvment - FCOM & SM.esp
 Enchantment Restore.esp
 EnchantingFreedomPlus.esp
+Energy - Runes.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
 MarcusTheEnchanter.esp
@@ -15395,6 +15449,7 @@ UOE-attack and hide harder v2.1.esp
 LFox No Trespassing.esp
 PTSneakPenalties.esp
 Resist Arrest Increases Bounty.esp
+SneakMultiplier.esp
 StealthOverhaul.esp
 Stealth Overhaul.esp
 StealthOverhaul, Cobl.esp
@@ -16147,6 +16202,7 @@ CTAddPose_Mfeth.esp
 CTAddPose_ASpose.esp
 CTAddPose_AttackPrep.esp
 CTAddPose_ryk0.esp
+CTAddPose_Chaos.esp
 
 Goma Pose 1.esp
 Goma Pose 2.esp
@@ -16189,6 +16245,7 @@ ActorsInEmotions.esp
 Animation and Poses.esp
 77_Umpa_Animation.esp
 77_Umpa_Disco.esp
+77_Umpa_Pose.esp
 77_Umpa_Sexy_walk.esp
 EFGAddPose.esp
 Chain it!.esp

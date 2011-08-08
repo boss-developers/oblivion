@@ -2734,6 +2734,8 @@ AutoEquip.esp
 : OBSE (version unknown, use latest to be safe).
 ? Contains a dirty edit to the GREETING Dialog Topic. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auto_Recharge.esp
+AutomaticPatrols.esp
+" DynamicLeveledLists.esp . Included
 
 BookTrackerOBSE.esp
 

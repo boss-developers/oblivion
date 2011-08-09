@@ -15094,6 +15094,7 @@ Diverse Effect Icons for SM.esp
 MidasSpells.esp
 % {{BASH: Invent}}
  IF (E39AF0AC|"MidasSpells.esp") DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+AK- Midas Spellswap.esp
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp

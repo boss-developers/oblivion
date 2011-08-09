@@ -7668,6 +7668,29 @@ slaughterfish addon.esp
 Smarter Bandits.esp
 \EndGroup\\
 
+\BeginGroup\: Morroblivion
+\----------------------
+\
+\New group for all morroblivion plugins, since they're increasing in number. 
+\No load order advice available AFAIK so put after overhauls but before overrides for now. If it doesn't work, group can be moved.
+
+Chairs_Stools_Benches.esp
+Morroblivion_Chargen_And_Transport_Mod_v6.esp
+? Obsolete. Upgrade to version 7+
+Morroblivion_Chargen_And_Transport_Mod_v7.esp
+Morroblivion Dungeon Interior Music.esp
+Morroblivion__-__Few_armor_fixes.esp
+Morroblivion Improved Map Markers.esp
+Morroblivion item rebalance.esp
+% {{BASH: Stats}}
+Morroblivion Water Level Fix.esp
+MorrowOblivion_Eloth Soulgem Replacer.esp
+MorrowOblivion_Visual Overhaul Landscape & Grass.esp
+MorrowOblivion_World Transport.esp
+Voice Overs V002.esp
+
+\EndGroup\\
+
 \BeginGroup\: Quests and Locations 1
 \----------------------
 \
@@ -7739,15 +7762,6 @@ BABFinal_AdventuressWaresShopPirate.esp
 
 CNME v1.4.esp
 CNME Bloodmoon v1.0.esp
-Morroblivion Improved Map Markers.esp
-Morroblivion__-__Few_armor_fixes.esp
-Morroblivion Water Level Fix.esp
-MorrowOblivion_World Transport.esp
-Morroblivion_Chargen_And_Transport_Mod_v6.esp
-? Obsolete. Upgrade to version 7+
-Morroblivion_Chargen_And_Transport_Mod_v7.esp
-MorrowOblivion_Eloth Soulgem Replacer.esp
-MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 Creatures Revisited Undead.esp
 Creatures2.esp
 LandTexturesWithGrassPlusLOD.esp
@@ -9616,7 +9630,6 @@ Mod - IC Armory.esp
 MolagBalTreasury.esp
 Mondstein - female Companion.esp
 More Skingrad.esp
-MorrowOblivion_World Transport.esp
 MountainRetreat.esp
 MountainTower.esp
 SYS Patch-Mountain Tower.esp
@@ -13470,8 +13483,6 @@ TI-MM v04d.esp
 More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
-Morroblivion item rebalance.esp
-% {{BASH: Stats}}
 movablebodies.esp
 MTC Stable Interiors.esp
 Music Controller.esp
@@ -19678,6 +19689,7 @@ Bashed Patch, Test.esp
 
 CybBPcompatibility.esp
 Creeper.esp
+ IF (8A4423BA|"Creeper.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Mart's Monster Mod - Diverse Runeskulls Loot beta Place After Bashed Patch.esp
 
@@ -19763,6 +19775,7 @@ Duke Patricks - Combat Magic II.esp
 \
 \any map changing files esp have to go dead last
 
+Ak- Morroblivion Maps HD.esp
 Hiboriamap.esp
 MWakeMap.esp
 MergedMaps.esp

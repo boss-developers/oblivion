@@ -1547,6 +1547,7 @@ archrobe.esp
 % {{BASH: Graphics}}
 Automagic Bags 1.1.esp
 ? Outdated. Update to V3+ and use 'Automagic Bags.esp' instead.
+AutomaticPatrols.esp
 autosavertest.esp
 Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
@@ -1913,6 +1914,7 @@ Female Lich.esp
 FileOne.esp
 Fish!.esp
 Fish! - v1.1.esp
+ IF (872545DE|"Fish! - v1.1.esp") DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Fishing in Cyrodiil.esp
 ? If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
 % {{BASH: Invent}}
@@ -2206,6 +2208,7 @@ P1DanywhereSittable.esp
 SeeYouSleep.esp
 P1DseeYouSleep.esp
  IF (A72D68F1|"P1DseeYouSleep.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (41C990C4|"P1DseeYouSleep.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P1DseeYouSleep - Vampire Bedroll Anims.esp
 P1DlookAtShrines.esp
 Patron Deities.esp
@@ -2699,7 +2702,7 @@ Populated Prisons.esp
 PCTM.esp
 
 Immersive Travelers.esp
-? 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D9D40901|"Immersive Travelers.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
@@ -4706,6 +4709,7 @@ Seductress Armour.esp
 semi_precious_stones.esp
 SentientWeapon.esp
  IF (A4E3D11B|"SentientWeapon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C078A0F2|"SentientWeapon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
 Serentin Vampire Armors.esp
@@ -5050,6 +5054,7 @@ mz_Shields.esp
 % {{BASH: Graphics, Deactivate}} when using overhaul mods.
 mz_Shields_SI.esp
 % {{BASH: Graphics, NoMerge}} when using overhaul mods.
+ IF (050C5ECE|"mz_Shields_SI.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Tona_ShadowWalker_v2.esp
 Town_Ceremonial_Armor.esp
@@ -8104,6 +8109,7 @@ Artefacts of the Ancestors.esp
 ArTheIceUnicorn.esp
 Artifacts.esp
  IF (66B9B580|"Artifacts.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3D5A25D1|"Artifacts.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Artifacts Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Artifacts - EE patch.esp
@@ -8307,6 +8313,7 @@ BD&R - Deepgrave.esp
 Laughing Maw & Deepgrave Merge.esp
 BHC_Expanded.esp
  IF (DF5B8901|"BHC_Expanded.esp") DIRTY: 2 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C73A3567|"BHC_Expanded.esp") DIRTY: 2 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bjornheim.esp
 ? This ESP has critical errors and should not be used in an active game. Regular TES4Edit cleaning is not enough to repair it.
 Bjornheim_1C.esp
@@ -8519,6 +8526,7 @@ Clintmichs Beautiful Talos Plaza District.esp
 ^ Probably incompatible with Better Cities.
 
 COR-Episode1 Secret of Enourk.esp
+ IF (156247AC|"COR-Episode1 Secret of Enourk.esp") DIRTY: 22 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Armor Expansion.esp
 CM_Minor_Quests_1.2.esp
 CMcamp.esp
@@ -9315,6 +9323,7 @@ Kvatch Rebuilt.esp
 % {{BASH: Actors.AIPackages, Invent}}
  IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: 26 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (61F4A8B9|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CC9713B1|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
@@ -9439,6 +9448,7 @@ LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
 ? This should be renamed to "LetThePeopleDrink.esp" to avoid breaking things.
  IF (AC6A3945|"LetThePeopleDrink-Cobl.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (0DA32EAD|"LetThePeopleDrink-Cobl.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
  IF (2A1A281B|"LetThePeopleDrink-fountainonly.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly-Cobl.esp
@@ -10488,6 +10498,7 @@ Treasure Maps_Boethia's Burden.esp
 " UL mod(s).
  IF (A30496FE|"Treasure Maps_Boethia's Burden.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 treasure maps captus demus.esp
+ IF (D0D3DA5C|"treasure maps captus demus.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasure Maps Meridias Womb.esp
 " UL mod(s).
  IF (100F394C|"Treasure Maps Meridias Womb.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10840,7 +10851,7 @@ fpsboost-arenanolights.esp
 DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
- IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records if DLCBattlehornCastle hasn't been cleaned or 1 ITM, 0 UDR records if DLCBattlehornCastle has been cleaned. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
@@ -11101,6 +11112,7 @@ ROM Patch - Bobs Armory.esp
 Cybiades.esp
 ? Do not use the (same name) compatible esp for UL:Lost; Update to the latest UL:Lost Coast.
  IF (A8970D81|"Cybiades.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B3592B2F|"Cybiades.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CybiadesDungeon.esp
 cybCrashFix.esp
 CybEasier.esp
@@ -11196,7 +11208,7 @@ GuardsofCyrodiilRedux - RRLRpatch.esp
 Mighty Umbra.esp
 % {{BASH: Graphics, Stats}}
 ? FCOM users might consider 'FCOM_MightyUmbra.esp'.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6D7692CD|"Mighty Umbra.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mighty Umbra - Vanilla OB.esp
  IF (5EDC8746|"Mighty Umbra - Vanilla OB.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KORE- Blood Drinker Umbra.esp
@@ -11225,6 +11237,7 @@ Origin of the Mages Guild.esp
 % {{BASH: Actors.AIPackages, Relations}}
 >: 'FCOM_OMG.esp' or 'FCOM_OMG' and 'FCOM_OMGSRT.esp'.
  IF (0440FF00|"Origin of the Mages Guild.esp") DIRTY: 173 ITM, 383 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D4A96591|"Origin of the Mages Guild.esp") DIRTY: 153 ITM, 119 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Mystery of the Dulan cult.esp
 >: 'FCOM_DulanCult.esp'.
@@ -12822,6 +12835,8 @@ Armoured Imperial Patrols - Aesthetic.esp
 % {{BASH: Graphics}}
 Armoured Imperial Patrols - Realism.esp
 % {{BASH: Graphics}}
+Armored Skeletons.esp
+Armored Skeletons (LL).esp
 
 As Intended - OOO Boars & Imps.esp
 % {{BASH: Actors.Spells}}
@@ -13229,6 +13244,7 @@ Goblin Tribal Shields.esp
 goblin_wars.esp
 GodStatues.esp
 GodStatues KOTN Edition.esp
+ IF (78810F96|"GodStatues KOTN Edition.esp") DIRTY: 35 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gold Change II.esp
 % {{BASH: Names}}
 GoldCoinBagger.esp
@@ -18077,6 +18093,7 @@ ZUSIO-RatsInCrucible.esp
 ZUSIO-MMM SI-patch.esp
 % {{BASH: Factions}}
 ZUSIO-Map MarkerOverhaul SI-patch.esp
+ IF (B66FCFAE|"ZUSIO-Map MarkerOverhaul SI-patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ZUSIO-SM Plugin Refurbish SI-patch.esp
 % {{BASH: Scripts}}
 \EndGroup\\

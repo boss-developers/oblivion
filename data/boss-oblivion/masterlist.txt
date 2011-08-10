@@ -2504,7 +2504,7 @@ VA_BetterGold.esp
 % {{BASH: Graphics}}
 VAs Better Gold with no Menu Icon.esp
 % {{BASH: Graphics}}
-? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C0A002B4|"VAs Better Gold with no Menu Icon.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AC_Gold_Coins.esp
 % {{BASH: Graphics}}
 Vampire Alchemy V1.1.esp
@@ -4077,6 +4077,7 @@ Hentai_Lily_Angel'sWing.esp
 Hentai_LilyClothes.esp
 HentaiSchoolGirlCollection.esp
 HentaiSeraphimArmour.esp
+Hentai_Seraphim_Blade.esp
 HentaiSummerFesta.esp
 Hentai_SnowFlower.esp
 Hentai Recolours.esp
@@ -5847,7 +5848,7 @@ GizmodianSorceress.esp
 1SI_Horses.esp
 : Shivering Isles.
 a4sFlamingNightmare.esp
-% {{BASH: Graphics, Scripts, ScriptContents}}
+% {{BASH: Graphics, Scripts}}
 a4sFlamingNightmare3.esp
 % {{BASH: Inventory, Graphics, Scripts}}
 Athletics While Riding.esp
@@ -6356,7 +6357,7 @@ OOO-LightOfDawnFlamesWhenDrawnOBSE_1handed.esp
 \''''''''
 
 a4sFlamingNightmare-OOO.esp
-% {{BASH: Graphics, Scripts, ScriptContents}}
+% {{BASH: Graphics, Scripts}}
 Vanilla House Prices for OOO.esp
 Boethia_OOO.esp
 
@@ -7104,6 +7105,7 @@ OWC - Spawn reduced.esp
 OWC ND-Spawn-reduced.esp
 OWC - LessDangerousWilderness.esp
 OWC ND - Oblivion XP Patch.esp
+OWC - Players Home.esp
 \EndGroup\\
 
 \BeginGroup\: Tamriel Travellers.
@@ -9561,7 +9563,7 @@ Mag1cWind0w_The_Imperial_Water.esp
 The Imperial Water.esp
 ^ Use 'The Imperial Water - BETTER CITIES.esp' instead.
 The Imperial Water - BETTER CITIES.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (73F25199|"The Imperial Water - BETTER CITIES.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Magister Cogitation.esp
 MakTravellersInn.esp
 Mansion of Champions.esp
@@ -9809,6 +9811,9 @@ Oblivion Wine Overhaul.esp
 Oblivion_NPC_Project1.esp
 OblivionNPCproject2.esp
 Wine Overhaul.esp
+OgramiradsUnmarkedPlaces.esp
+: Shivering Isles
+ IF (A738D15F|"OgramiradsUnmarkedPlaces.esp") DIRTY: 16 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Okaritemple.esp
 OlauronCastleEn.esp
 OlauronCastleRuGE.esp
@@ -14258,7 +14263,7 @@ TUR_GemDust.esp
 ? Similar to OOO and MMM Gems and Gem Dust - is almost certainly incompatible with those. Untested.
 
 Ayleid Wells.esp
-% {{BASH: Scripts, Scriptcontents}}
+% {{BASH: Scripts}}
 Ayelid Wells.esp
 % {{BASH: Scripts, Scriptcontents}}
 
@@ -14982,6 +14987,7 @@ Summon Shadowmere.esp
 TeachSpell.esp
 Teleport.esp
 : OBSE.
+teleportspell EV.esp
 Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
 The Arcane Storage.esp
@@ -15967,6 +15973,7 @@ Faster Level Up X25.esp
 Faster Level Up X50.esp
 Faster Level Up X100.esp
 Faster Skills x5.esp
+Faster Restoration.esp
 G_'s-Level-Slow.esp
 SlowerOblivion_x2.esp
 SlowerOblivion_x3.esp

@@ -332,6 +332,8 @@ russian.esp
 ZoGRus.esp
 ZoGRusScriptMessagebox.esp
 ZoGRusFactionNames.esp
+Oblivion_1C.esp
+Oblivion_1C_СorrectDirNames.esp
 Essential_Merchants.esp
 % {{BASH: Actors.ACBS, NoMerge}}
 
@@ -1527,6 +1529,7 @@ AdventurersAlchemy.esp
 AEVWD.esp
 aLHerobook01.esp
 ? Obsolete. Delete and upgrade to Adult Books.
+AL_monsters.esp
 AL_MonsterRevisited v1.0.esp
 % {{BASH: Factions, Invent, Relev}}
 Almost Everything VWD.esp
@@ -1539,6 +1542,8 @@ ANBPantherFigurine.esp
 Ancient_Artifacts.esp
 Anvil Dock Map Marker.esp
 ? Use UOP 3.2.0 or later instead.
+Anvil beach retexture.esp
+% {{BASH: Graphics}}
 Arabian Knight Fantasy Tent.esp
 Companion Tent.esp
 Arena Posters Diversified.esp
@@ -2453,6 +2458,7 @@ TeddyBears1.esp
 Teleport Arrows.esp
 % {{BASH: Invent}}
 TESA Clutter Test Cell.esp
+The_Student_Mod.esp
 The White Stallions.esp
 the secret black market.esp
 Thingamajigs Broken Armor DD Edit.esp
@@ -2629,6 +2635,7 @@ RealisticPopulation_Leyawiin.esp
 Risk of Bandits in Cities.esp
 
 Crowded Roads.esp
+Crowded Roads Rus.esp
 Crowded Roads Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads 7.esp
@@ -4282,6 +4289,7 @@ lam.esp
 Lamayo's Crescent Axe.esp
 Lamayo's Dragon Bow.esp
 LD - New Arrows.esp
+Legion BattleMage.esp
 Legion Shield Replacer.esp
 % {{BASH: Graphics}}
 Lera and Pizz ShiningWind.esp
@@ -13667,6 +13675,8 @@ Ranokoas Purchase Use Enchant Spellmake.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 RedBag - Friendly Animals.esp
 RedBag - Dangerous Animals.esp
+REDrinks.esp
+% {{BASH: Graphics}}
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
 ReneerNPCSneakMod.esp

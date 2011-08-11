@@ -6056,9 +6056,8 @@ SIRMS.esp
 The Last Queen Of The Ayleids.esp
 Weapon Expansion Pack for Oblivion Nthusiasts.esp
 % {{BASH: Delev, Graphics, Invent, Names, Relev, Scripts, Stats}}
-" Mithril and Orcish Weapon Sets v1 and v2
-" Fine Weapons
-" Rusty Items
+" Mithril and Orcish Weapon Sets v1 and v2, Fine Weapons, Rusty Items
+ IF (13F4CF76|"Weapon Expansion Pack for Oblivion Nthusiasts.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Only Name changing files
@@ -10069,6 +10068,7 @@ SaveWaterEdgeEng.esp
 Sbturm_Penthouse.esp
 SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
+ IF (B4B5DA1E|"ScarletMonastery.esp") DIRTY: 28 ITM, 255 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 School Partners.esp
 Skooma Lab
 Scribe Supplies.esp
@@ -17104,7 +17104,7 @@ Wolven Anthros.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 eyja.esp
 % {{BASH: C.Water}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9FBDE389|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eyja_DV 1.0..esp
 eyja Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}

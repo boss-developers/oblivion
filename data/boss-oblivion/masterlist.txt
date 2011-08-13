@@ -60,9 +60,9 @@ TR_OoT_Main.esm
 Hammerfell.esm
  IF (7D22F9DF|"Hammerfell.esm") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GTAesgaard_2.esm
-? This needs to load directly after Oblivion.esm to avoid lanscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
+? This needs to load directly after Oblivion.esm to avoid landscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
 DibellasWatch.esm
-? This needs to load directly after Oblivion.esm to avoid lanscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
+? This needs to load directly after Oblivion.esm to avoid landscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
 Belas.esm
 ? Part of Chronicles of Reeb. Do not use. Has serious landscape issues due to editing the Tamriel worldspace. Uninstall and delete.
 Zedar.esm

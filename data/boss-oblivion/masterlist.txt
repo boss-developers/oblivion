@@ -7595,6 +7595,8 @@ $ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
 % {{BASH: Invent}}
 CNRP FightersGuild4OOO.esp
 % {{BASH: Invent}}
+CNRP.esp
+% {{BASH: Invent, Graphics}}
 \EndGroup\\
 \BeginGroup\: Creatures - New
 \Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
@@ -15359,6 +15361,7 @@ Poison Maker.esp
 Potion 430.esp
 Poison Maker v1.08.esp
 Potion Mixer.esp
+PotionPurify_en.esp
 Potion_Unlimiter-1948.esp
 Alchemy Expansions - Essence Extracter.esp
 Alchemy Expansions - Poison Combiner.esp

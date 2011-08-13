@@ -1264,7 +1264,10 @@ Distant Chapel Bells.esp
 Side's EAX Control.esp
 Soundscaper.esp
 al-smm7.esp
+% {{BASH: Sound}}
 al-smm7-ru.esp
+% {{BASH: Sound}}
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PlaySpecial - OBSE and SoundCommands Required.esp
 PlaySpecial.esp
 PowerAttack Voicemod.esp
@@ -14258,6 +14261,8 @@ zzzChangeAbleWeapon.esp
 zzzDarkHelloTopic.esp
 zzzHuntingUnlimited.esp
 zzzLetMeGoAway.esp
+zzzNpcAIEnhanced.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 zzzOblivionTaxandBribe.esp
 zzzRoleyPlayingMarksman.esp
 zzzTrainingOthersMod.esp

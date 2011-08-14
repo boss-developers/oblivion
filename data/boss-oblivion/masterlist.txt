@@ -1531,7 +1531,7 @@ Adonnays Ranger Coats.esp
 Adonnays Ranger CoatsRU.esp
 Adult Books.esp
 AdventurersAlchemy.esp
- IF (8AA69408|"AdventurersAlchemy.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "
+ IF (8AA69408|"AdventurersAlchemy.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AEVWD.esp
 aLHerobook01.esp
 ? Obsolete. Delete and upgrade to Adult Books.
@@ -8137,8 +8137,7 @@ SYS Patch-Arrow Rest Lodge COBL.esp
 Artifacts of the Ancestors.esp
 ? this mod needs repairing with TES4Edit before it's usable.
 Artefacts of the Ancestors.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Also replaces some names with the German equivalents and contains wild edits. Requires manual cleaning.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#Artefacts_of_the_Ancestors.esp_Special_Cleaning_Instructions"
 ArTheIceUnicorn.esp
 Artifacts.esp
  IF (66B9B580|"Artifacts.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9339,7 +9338,7 @@ KTVH - Walking In The Shoes.esp
 ? Outdated. Update to v4+.
 ? Compatible with MD_SaddleBags Lite.
 300_White Stallion 4.esp
- IF (400BDFF6|"300_White Stallion 4.esp") DIRTY: 20 ITM, 139 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". See special cleaning instructions.
+ IF (400BDFF6|"300_White Stallion 4.esp") DIRTY: 20 ITM, 139 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#300_White_Stallion_4.esp_Special_Cleaning_Instructions"
 Feudal Empire 300.esp
 % {{BASH: Invent, Graphics}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". See special cleaning instructions.
@@ -9383,8 +9382,7 @@ Kvatch_Courtyard_Battle.esp
 kvatch essential.esp
 KvatchRising.esp
 % {{BASH: Actors.AIPackages}}
- IF (6C91CBEB|"KvatchRising.esp") DIRTY: 202 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Requires special edit to repair an incorrect script override. "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#KvatchRising.esp_Special_Cleaning_Instructions"
+ IF (6C91CBEB|"KvatchRising.esp") DIRTY: 202 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#KvatchRising.esp_Special_Cleaning_Instructions"
 
 Gold Road Cottage - Classy.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
@@ -9471,7 +9469,7 @@ bladesfactionmod.esp
 OldCrowInn.esp
 Fall Hair Wig Shop - EV.esp
 GlenvarCastle.esp
- IF (718904AC|"GlenvarCastle.esp") DIRTY: 38 ITM, 712 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also requires manual cleaning of a wild edit to the water height of cell (26, -42).
+ IF (718904AC|"GlenvarCastle.esp") DIRTY: 38 ITM, 712 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#GlenvarCastle.esp_Special_Cleaning_Instructions"
 GlenvarCastle Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 SYS Patch Glenvar Castle.esp
@@ -10691,8 +10689,7 @@ WaterFallCave.esp
 Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
 Waterfront Shack.esp
-? 1 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-? Requires manual cleaning - has 15 NULL form deletions to remove. See special instructions in cleaning guide.
+? 1 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#Waterfront_Shack.esp_Special_Cleaning_Instructions"
 WaterlilyCottage1.esp
 WaterloggedTower.esp
 WaterSphere.esp
@@ -10893,12 +10890,13 @@ fpsboost-arenanolights.esp
 DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
- IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records if DLCBattlehornCastle hasn't been cleaned or 1 ITM, 0 UDR records if DLCBattlehornCastle has been cleaned. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IFNOT (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E2C5754C|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
- IF (9E3F8559|"BattlehornCastleEnhanced.esp") DIRTY: 86 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". This mod requires additional manual cleaning before it can be automatically cleaned: in TES4Edit, the placed object with FormID 0x012EC4 (where x is the load position number, and should be 1 when cleaning) must be removed.
+ IF (9E3F8559|"BattlehornCastleEnhanced.esp") DIRTY: 86 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#BattlehornCastleEnhanced.esp_Special_Cleaning_Instructions"
 SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
@@ -12166,7 +12164,7 @@ Brena River Ravine Daedric Shrine Ruins Patch.esp
 Gaelendryll-BrenaRiver patch.esp
 Gaelendryll - UL Brena River - Daedric Shrine Patch.esp
 NakedNord.esp
- IF (AB1B9D3C|"NakedNord.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide" Also requires manual cleaning, 1 wild edit.
+ IF (AB1B9D3C|"NakedNord.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC+NakedNord Patch.esp
 OCR+NakedNord Patch.esp
 xulImperialIsle.esp

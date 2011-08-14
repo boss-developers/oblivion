@@ -391,6 +391,9 @@ Underdark v1.1 Delayer.esp
 \
 \Bash and deactivate to keep new faces with NPC altering mods later.
 
+Better Looking NPC.esp
+% {{BASH: NpcFaces, NoMerge}}
+
 xeoex.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics, NPC.Race, R.Ears, R.Head, R.Mouth, R.Teeth}}
 xeoex Vwalk.esp
@@ -3034,6 +3037,7 @@ DLCMehrunesRazor.esp
  IF (CB413740|"DLCMehrunesRazor.esp") DIRTY: 21 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCMehrunesRazor - Unofficial Patch.esp
 % {{BASH: Delev, Invent, Relev}}
+ IF (17517FA6|"DLCMehrunesRazor - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LightningReduced - Razor.esp
 YX33A Razor Edit.esp
 Correctif MehrunesRazor.esp
@@ -5046,6 +5050,7 @@ trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
 TRSAssassinBoots.esp
+True Skullcrusher.esp
 TS3_Arcanery.esp
 TTB.esp
 Tyrael Armor.esp
@@ -8423,6 +8428,8 @@ CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
 Capsized Ship.esp
 Castello_gotico.esp
+Castlevania.esp
+ IF (99857FBF|"Castlevania.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CaveOfWishcraft 1_1.esp
 ? Update to latest version (named 'Cave Of Wishcraft.esp').
 CaveOfWishcraft v1.1 Delayer.esp
@@ -9913,6 +9920,8 @@ Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
 Project Spartan.esp
 PT-AyleidSanctum-WithAltars.esp
+Punk Stevo - Brutal Underground.esp
+ IF (DFB2260B|"Punk Stevo - Brutal Underground.esp") DIRTY: 9 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PursuitOfShade.esp
 pythanis.esp
 \EndGroup\\
@@ -10007,6 +10016,7 @@ RisingSunForUpload6-3-2010.esp
 RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
+ROADZeldaRemake - Addon.esp
 RomancingAhnassi.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NRB4+Romancing Ahnassi Patch.esp
@@ -10884,6 +10894,7 @@ DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
  IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records if DLCBattlehornCastle hasn't been cleaned or 1 ITM, 0 UDR records if DLCBattlehornCastle has been cleaned. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E2C5754C|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
@@ -13878,6 +13889,7 @@ PAPlayer1200Eng.esp
 Pose Compendium.esp
 \EndGroup\\
 
+Sheath2HandOnHip.esp
 ShinySeptims_Septimus.esp
 % {{BASH: Graphics}}
 ShinySeptims_Trajanus.esp
@@ -14210,6 +14222,7 @@ Unlimited Amulets 1.0_ru.esp
 Unlimited Rings 1.0_ru.esp
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
+ IF (757F1F42|"undercover.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 upperGothicClutter.esp
 % {{BASH: Graphics}}
 UV Vanilla Quest Fixes.esp
@@ -19732,9 +19745,12 @@ LoversAnimObjectsPriority.esp
 Voice_Fix.esp
 
 Vanilla Weapon Stat Override.esp
+% {{BASH: NoMerge, Stats}}
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Vanilla Weapon Stat Override - SI.esp
+% {{BASH: NoMerge, Stats}}
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+
 
 \BeginGroup\: Unavailable/Obsolete Duke Patrick's Mods
 \''''''''''''''''''''''''''''''''''''''

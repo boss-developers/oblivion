@@ -107,10 +107,10 @@ Francesco's Leveled Creatures-Items Mod.esm
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
  IF (17F6FD1A|"Francesco's Leveled Creatures-Items Mod.esm") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional New Items Add-On.esm
-{{BASH: Delev, Relev}}
+% {{BASH: Delev, Relev}}
  IF (DFD4FB97|"Francesco's Optional New Items Add-On.esm") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional New Creatures Add-On.esm
-{{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev, Scripts}}
+% {{BASH: Actors.AIPackages, Delev, Factions, Invent, Relations, Relev, Scripts}}
 >* Delete. Not compatible with FCOM. Already integrated into FCOM.
 battlemagearmor2-0Base.esm
 Children Of Rourken.esm
@@ -18080,9 +18080,9 @@ Better Looking Dark Elves.esp
 Better Looking Dremora.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards.esp
-{{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
+% {{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
 Better Looking Redguards v2.esp
-{{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
+% {{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
 Better Looking Redguards Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Better Looking Redguards-Mergeable.esp

@@ -9565,6 +9565,8 @@ MadMagesTowerBASIC.esp
 Mad Mike's Crypts of Cyrodiil.esp
  IF (560DE988|"Mad Mike's Crypts of Cyrodiil.esp") DIRTY: 16 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Madness' Hideout.esp
+Mafreseli.esp
+ IF (D235E598|"Mafreseli.esp") DIRTY: 12 ITM, 172 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mage'sSkyHouse.esp
  IF (CEC8800F|"Mage'sSkyHouse.esp") DIRTY: 79 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mages Guild Quests.esp
@@ -18442,6 +18444,8 @@ Better Imperial City.esp
 \BeginGroup\: Better Cities FPS Patches
 
 Better Cities Full FPS Patch.esp
+Better Cities Full - B&M Edition FPS Patch.esp
+? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Skingrad FPS Patch.esp
 ? Only use if using the separate Better Cities .esps
 Better Cities Leyawiin FPS Patch.esp
@@ -18730,8 +18734,6 @@ Better Cities Full Patch.esp
 Better Cities Full - B&M Edition Patch.esp
 ? Only use if using Better Cities Full - B&M Edition.esp
 ? Outdated. Update to latest version of Better Cities.
-Better Cities Full - B&M Edition FPS Patch.esp
-? Only use if using Better Cities Full - B&M Edition.esp
 Better Cities Skingrad Patch.esp
 ? Only use if using the separate Better Cities .esps
 ? Outdated. Update to latest version of Better Cities.

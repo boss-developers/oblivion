@@ -6288,6 +6288,7 @@ Oblivion WarCry.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
 >* Delete. Use 'Oblivion WarCry EV.esp' instead.
 ? German version.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 More Effective Enchantments WarCry.esp
 Oblivion WarCry EV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
@@ -6656,6 +6657,7 @@ Oscuro's Combat Behavior.esp
 FCOM_Convergence.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 FCOM_ConvergenceNoFran.esp
 >* Outdated. Install FCOM version 0.9.9 or later.
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
@@ -11092,6 +11094,7 @@ SM Plugin Refurbish(Merged).esp
 ? The masters of this mod are not in the order that BOSS uses, which will cause it to be displayed with an orange checkbox in Wrye Bash. BOSS's order is correct, and the master order of the plugin can be altered using TES4Edit or TES4Gecko.
 : all DLCs and Shivering Isles to be installed and active.
 " 'CDM-CGO Compatibility plugins'.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
@@ -18050,11 +18053,13 @@ bgBalancingEVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? Do not use with COBL Races.
 % {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? German version.
 ? Do not use with COBL Races
 % {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
 \EndGroup\\
@@ -18182,24 +18187,34 @@ ZUSIO-SM Plugin Refurbish SI-patch.esp
 bgMagicDV.esp
 % {{BASH: Names, Delev, Relev}}
 ? German version.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEV.esp
 % {{BASH: Names, Delev, Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEV Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 bgMagicSpellTomes_for_WryeBash.esp
 % {{BASH: Relev}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVSpellTomes_for_WryeBash.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicItemSigil.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVItemSigil.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEVStartspells.esp
 bgMagicDVStartspells.esp
 bgMagicBonus.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVBonus.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEVAddEnVar.esp
 % {{BASH: Relev}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVAddEnVar.esp
 % {{BASH: Relev}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEVPaperChase.esp
 bgMagicDVSchnitzeljagd.esp
 bgMagicAlchemy.esp
@@ -18272,6 +18287,7 @@ bgBalancingEVOptionalNPCDiversity, Vanilla.esp
 bgBalancingEVOptionalNPCDiversity, TNR Merge.esp
 ? Use only one 'OptionalNPCDiversity' file.
 % {{BASH: NpcFaces, NoMerge}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
 bgBalancingEVOptionalHalvedMagicka.esp
 bgBalancingEVOptionalWeaker.esp
@@ -18322,23 +18338,30 @@ bgBalancingOptionalFranAddition.esp
 >* Delete. Not compatible with FCOM. Use 'bgBalancingEVOptionalFCOMAdditions.esp' instead.
 
 bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
 bgBalancingEVLAMEAddition.esp
 : LAME and Shivering Isles.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVLAMEAddition.esp
 : LAME and Shivering Isles.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingEVLAMEGlue.esp
 : LAME and Shivering Isles.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVLAMEGlue.esp
 : LAME and Shivering Isles.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingEVOptionalNPCDiversityLAME.esp
 % {{BASH: NpcFaces, NoMerge}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingEVLAMEIntegration.esp
 
 bgHighElfSeamReducerFixEV.esp
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
 % {{BASH: Body-M}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
 : Shivering Isles and Luchaire's Body Seam Reducer.
 % {{BASH: Body-M}}
@@ -18350,6 +18373,7 @@ k_HOD_RBP_patch.esp
 \''''''''''''''''''''
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function. It is safe to undelete records, but do not do anything other than that.
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH: NpcFaces, NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
@@ -19193,14 +19217,18 @@ BadderNuclearFireFX.esp
 BetterExplosions.esp
 bgMagicEVShader.esp
 % {{BASH: NoMerge, Graphics}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVShader.esp
 % {{BASH: NoMerge, Graphics}}
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicShaderLifeDetect.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 kuertee bgMagicEVShader default drain effects.esp
 kuerteeDetectLifeEffectNightEyeShader.esp
 : OBSE.
 : OBSE Night Eye Shader Switcher.
 bgMagicLightningbolt.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 BNewShockBoltEffects20.esp
 BNewShockFunnelEffects20.esp
 BNewShockEffects.esp

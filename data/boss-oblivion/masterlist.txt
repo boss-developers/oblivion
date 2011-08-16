@@ -1209,7 +1209,7 @@ OBGE - Liquid Water Basic.esp
 phinix-waterfix.esp
 Realistic Water.esp
 % {{BASH: C.Water, Graphics}}
- IF (8E5496A|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4B04A062|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Real Water.esp
 realWaters.esp
 SI Alexs better water.esp
@@ -1258,7 +1258,8 @@ More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
  IF (F343D8EA|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (89E76742|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F343D83A|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+\The above are suspiciously similar. The first was obtained by WrinklyNinja and is definitely correct.
 MIS New Sounds Optional Part.esp
 % {{BASH: Scripts}}
 Atmospheric Oblivion.esp
@@ -1371,7 +1372,7 @@ EW-Storms & Sound SI.esp
 OBSE-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
- IF (699CD657|"OBSE-Storms & Sound.esp") DIRTY: 46 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5A07EB4E|"OBSE-Storms & Sound.esp") DIRTY: 46 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Stormier storms.esp
 Storms.esp
@@ -4889,6 +4890,7 @@ StahlArmor.esp
 Stained Glass Equipment.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
+StarX Witcher Gear.esp
 stfClothesR v1.esp
 SG001_BunnyGirl.esp
 SG001_BunnyGirlPNI.esp
@@ -7151,7 +7153,6 @@ TamrielTravellers4000.esp
 TamrielTravellers4OOO.esp
 >: 'FCOM_TamrielTravelers.esp'.
  IF (2CB068DB|"TamrielTravellers4OOO.esp") DIRTY: 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (67444B36|"TamrielTravellers4OOO.esp") DIRTY: 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
@@ -9239,7 +9240,7 @@ ICEGHouse_cobl.esp
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
 Dirtier Waterfront.esp
- IF (FEA1DCCE|"Dirtier Waterfront.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CB542F9D|"Dirtier Waterfront.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AdensesBetterWaterfront.esp
 ICSewerDBsanctuary.esp
 IdiBegaj1.00.esp
@@ -9536,7 +9537,6 @@ Lost Chapel.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
  IF (775DF108|"LostSwordOfTheAylied.esp") DIRTY: 29 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (F890144E|"LostSwordOfTheAylied.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
@@ -9950,7 +9950,7 @@ Qaja'kar.esp
 : OBSE 12+.
 Qaja'kar Essential Bartenders.esp
 qNS3-inventrix.esp
- IF (B0C38F50|"qNS3-inventrix.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8C3473FA|"qNS3-inventrix.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW001-010.esp
 QOTW011.esp
 QOTW012.esp
@@ -10393,7 +10393,7 @@ The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
  IF (B0311481|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (6669B5B6|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (5BF74798|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6669B5B6|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
@@ -10401,7 +10401,7 @@ Aylied Steps - AN Real Lights patch.esp
 : The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
  IF (84B74D3F|"CDEP_FanaCeya.esp") DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (2B8C6CCC|"CDEP_FanaCeya.esp") DIRTY: 21 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (84B74DEF|"CDEP_FanaCeya.esp") DIRTY: 21 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
@@ -10520,7 +10520,7 @@ Tona's_ModsStore UU Patch.esp
 Topal Bay Camp.esp
 TQ1-loveletters.esp
 tq3-Blood-and-Gold.esp
- IF (6FB8C0BD|"tq3-Blood-and-Gold.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2153825C|"tq3-Blood-and-Gold.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  South East.esp
  IF (4069ED03|"Trail  South East.esp") DIRTY: 109 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trail  WEST.esp
@@ -11465,7 +11465,7 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
- IF (54674372|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -11527,7 +11527,7 @@ Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 ElsweyrValenwoodImprovedPatch.esp
 : 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
- IF (CB734DC1|"ElsweyrValenwoodImprovedPatch.esp") DIRTY: 104 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F2EA526B|"ElsweyrValenwoodImprovedPatch.esp") DIRTY: 104 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elsweyr Valenwood Daedric Shrine Patch.esp
 : 'Daedric Shrine Ruins.esp', 'ElsweyrAnequina.esp', 'Valenwood Improved.esp', 'ElsweyrValenwoodImprovedPatch.esp'
 SLWA_Anequina_Patch.esp
@@ -12392,7 +12392,7 @@ SYS Patch Castle Wolfspike V2.esp
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
- IF (4A8F6CD8|"The Ruins of Miscarcand.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9B8C026E|"The Ruins of Miscarcand.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Miscarcand Expanded.esp
 " The Ruins of Miscarcand.esp
 
@@ -14325,7 +14325,7 @@ Ayleid Wells.esp
 % {{BASH: Scripts}}
 Ayelid Wells.esp
 % {{BASH: Scripts}}
- IF (57D9BD6C|"Ayelid Wells.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FBAF5F4|"Ayelid Wells.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Lore Creatures.esp
 >* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
@@ -14378,7 +14378,7 @@ Border Removal.esp
 
 The Complete Ranger.esp
 Shadow Ranger.esp
- IF (79B3D157|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1F8FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
@@ -15635,7 +15635,7 @@ No psychic guards harder fix.esp
 Regional-Bounty-Decreasing-v1.2.esp
 RenGuardOverhaul.esp
 % {{BASH: Actors.AIData}}
- IF (304497F5|"RenGuardOverhaul.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (54286FE0|"RenGuardOverhaul.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 RenGuardOverhaulShiveringIsles.esp
 ? Obsolete. Remove this and update to v2.08+.
 SPTDiverseGuards-RGO-Patch.esp

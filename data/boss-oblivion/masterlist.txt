@@ -7575,6 +7575,8 @@ WAC - Cat Crash Fix.esp
 
 \BeginGroup\: Post Overhaul
 \'''''''''''''
+AFK_Tweaks.esp
+% {{BASH: Actors.ACBS, Hair, Invent}}
 beardy.esp
 % {{BASH: NpcFaces}}
 \BeginGroup\: CNRP

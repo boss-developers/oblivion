@@ -2184,8 +2184,10 @@ OAVO - Visual Enhancements.esp
 
 Oblivion Guidebook.esp
 Oblivion Cats v0.22b.esp
+ IF (1CE8A9DD|"Oblivion Cats v0.22b.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
+ IF (AC9752E5|"Oblivion Collectible Cards.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OblivionOnline.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
@@ -5751,6 +5753,7 @@ StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 StockClothingArmor-forExnems.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
+ IF (97BD3C1A|"StockClothingArmor-forExnems.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StockClothingArmorHGECnormalD.esp
 % {{BASH: Graphics}}
 StockClothingArmorHGECFighterD.esp
@@ -6233,6 +6236,7 @@ MMM_Runeskull_Rebalance_BETA2.esp
 Slof's Oblivion Robe Trader.esp
 % {{BASH: Graphics}}
 >: 'FCOM_SlofsRobeTrader.esp'.
+ IF (2613C2F9|"Slof's Oblivion Robe Trader.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Morrowind Ingredients_Combo.esp
 Tamrielic_Ingredients_cOMbo.esp
@@ -6244,6 +6248,7 @@ Cobl Main RUS.esp
 Cobl Glue.esp
  IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (EAB63159|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9FA7EEF9|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? If using Cobl 1.72 and a version of FCOM below 0.9.9, also use the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp'. If you are using UFCOM then use "OOO 1.32-Cobl.esp" instead of those patches.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -6664,7 +6669,7 @@ Oscuro's Combat Behavior.esp
 
 >Mart's Monster Mod - Additional Enemy NPC Vars.esp
 >? Can increase the chances of a CTD in a heavily modded game due to increased processor load.
-
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 FCOM_Convergence.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
  IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
@@ -6730,6 +6735,7 @@ FCOM_MoreWildernessLife.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 >Mart's Monster Mod - More Wilderness Life No Gates.esp
 >? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 >Mart's Monster Mod - More Passive Wildlife.esp
 >? Not recommended, has bugs.
 
@@ -6914,6 +6920,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 
 <Mart's Monster Mod - Additional Enemy NPC Vars.esp
 <? Can increase the chances of a CTD in a heavily modded game.
+< DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 <Mart's Monster Mod - Diverse Runeskulls.esp
 <? Do not use Exnem's original Runeskulls mod - Diverse Runeskulls replaces it.
 <% {{BASH: Delev, Relev}}
@@ -7000,6 +7007,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
 <Mart's Monster Mod - More Wilderness Life No Gates.esp
 <? Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
+< DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 <Mart's Monster Mod - More Passive Wildlife.esp
 <? Not recommended, has bugs.
 <Mart's Monster Mod - City Defences.esp
@@ -7859,6 +7867,7 @@ Storms & Sound - Talos Bridge Gatehouse.esp
 Trade and Commerce.esp
  IF (DC6AFCCD|"Trade and Commerce.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (C5C1D187|"Trade and Commerce.esp") DIRTY: 17 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (955A7549|"Trade and Commerce.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Quests #
@@ -8077,6 +8086,7 @@ Ancient_Goblin_City.esp
 5547-2.0 Final-Ancient Goblin City-TESSource.esp
 Vibliribland-4843-Ancient_Goblin_City.esp
 Ancient Ruins - Ayleid Edition.esp
+ IF (F3161932|"Ancient Ruins - Ayleid Edition.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AncientSource.esp
 Anduril Reforged.esp
 Angelslayer.esp
@@ -9503,6 +9513,7 @@ Fall Hair Wig Shop - EV - Glenvar Castle Patch.esp
 
 LetThePeopleDrink.esp
  IF (9D730B18|"LetThePeopleDrink.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AC6A3945|"LetThePeopleDrink.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
 ? This should be renamed to "LetThePeopleDrink.esp" to avoid breaking things.
@@ -10691,6 +10702,7 @@ OCR + Verona Patch.esp
 
 Apachii_Goddess_Store.esp
  IF (6644E61D|"Apachii_Goddess_Store.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6633E61D|"Apachii_Goddess_Store.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp
 Apachii_Goddess_Store Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -10983,6 +10995,7 @@ DLCFrostcrag.esp
  IF (2A7665FB|"DLCFrostcrag.esp") DIRTY: 73 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (9B056616|"DLCFrostcrag.esp") DIRTY: 3 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E3DACFFD|"DLCFrostcrag.esp") DIRTY: 0 ITM, 131 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (641C4EC0|"DLCFrostcrag.esp") DIRTY: 0 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCFrostcragReborn.esp
 ? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
@@ -11304,6 +11317,7 @@ Blood&Mud.esp
 % {{BASH: Hair, NpcFaces}}
 >: 'FCOM_WelkyndSwordBlood&Mud.esp' or 'FCOM_Blood&Mud.esp'.
  IF (23A62955|"Blood&Mud.esp") DIRTY: 35 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A960D6D3|"Blood&Mud.esp") DIRTY: 36 ITM, 401 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Blood&Mud - EE patch.esp
 % {{BASH: Actors.ACBS}}
 Blood&Mud Vwalk.esp
@@ -11343,6 +11357,7 @@ HoarfrostCastle Vwalk.esp
 AFK_Weye.esp
 % {{BASH: C.Owner, Factions}}
  IF (E59E8D6E|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (564FD290|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -12345,6 +12360,7 @@ ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp
 ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp
 % {{BASH: Invent}}
 ? Don't use with 'ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp'.
+ IF (58328D81|"ImpeREAL Empire - Unique Forts - OOO FCOM patch by Xtudo.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREALForts+BrinaCross Patch.esp
 ImpeREALForts+LostSpires Patch.esp
 ImpeREAL Forts + Silverfish River Patch.esp
@@ -12822,6 +12838,7 @@ Harvest [Flora] - DLCFrostcrag.esp
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
+ IF (963ADDCE|"Pitcher Plant and Lily Ingredients.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DEJ Harvest - Flora.esp
 ? Outdated. Update to 'Harvest [Flora]' v3.0.1+.
 DEJ Harvest - Flora - CPU.esp
@@ -13687,6 +13704,7 @@ P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Respawnable NPC Mod.esp
 Panzer_Kleidung.esp
 PersuasionOverhaul.esp
+ IF (8948EEF4|"PersuasionOverhaul.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PersuasionOverhaul_OOO.esp
 % {{BASH: Relations}}
 PersuasionOverhaul_MMM.esp
@@ -14765,6 +14783,7 @@ KT_VampSightToggleNoEff.esp
 kuerteeSimpleVampirismExpanded.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
+ IF (BC307C34|"LTDVampireOverhaul.esp") DIRTY: 53 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
 PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
@@ -17372,6 +17391,7 @@ CM Partners Special NPCs Vwalk.esp
 CM Partners NPC.esp
 % {{BASH: Hair, Eyes}}
 ? Use only one Essential or NotEssential version esp
+ IF (ACB522AC|"CM Partners NPC.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partners NPC Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 CM Partners NPC NE.esp
@@ -17395,6 +17415,7 @@ CM Partners Marker NPCs Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 CM Partners Extra NPCs.esp
 % {{BASH: Hair, Eyes}}
+ IF (9EBE1E58|"CM Partners Extra NPCs.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partners Extra NPCs Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 CM Partners Auto Loot add-on.esp

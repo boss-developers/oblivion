@@ -5959,6 +5959,7 @@ DLCHorseArmor+Accessories.esp
 % {{BASH: Graphics}}
 Shadow Steed.esp
 " DLC Horse Armour.
+ IF (EDDAB6DB|"Shadow Steed.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TJ_HorseNames.esp
 % May need {{BASH: Names}} . Untested.
 Essential Unicorn-TESSource.esp
@@ -10416,7 +10417,6 @@ The Archer's Paradox Upgrades.esp
 The Ayleid Steps.esp
  IF (B0311481|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (6669B5B6|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (6669B5B6|"The Ayleid Steps.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Aylied Steps - AN Real Lights patch.esp
@@ -10424,7 +10424,6 @@ Aylied Steps - AN Real Lights patch.esp
 : The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
  IF (84B74D3F|"CDEP_FanaCeya.esp") DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (84B74DEF|"CDEP_FanaCeya.esp") DIRTY: 21 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
@@ -11493,7 +11492,7 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
- IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 0 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -12422,7 +12421,7 @@ SYS Patch Castle Wolfspike V2.esp
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
- IF (9B8C026E|"The Ruins of Miscarcand.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9B8C026E|"The Ruins of Miscarcand.esp") DIRTY: 10 ITM, 1910 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Miscarcand Expanded.esp
 " The Ruins of Miscarcand.esp
 
@@ -14357,7 +14356,7 @@ Ayleid Wells.esp
 % {{BASH: Scripts}}
 Ayelid Wells.esp
 % {{BASH: Scripts}}
- IF (FBAF5F4|"Ayelid Wells.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (62C163D8|"Ayelid Wells.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Lore Creatures.esp
 >* Use 'LCE-addon.esp' instead if using MMM/Frans etc.
@@ -14410,7 +14409,7 @@ Border Removal.esp
 
 The Complete Ranger.esp
 Shadow Ranger.esp
- IF (1F8FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1F83FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
@@ -15669,6 +15668,7 @@ Regional-Bounty-Decreasing-v1.2.esp
 RenGuardOverhaul.esp
 % {{BASH: Actors.AIData}}
  IF (54286FE0|"RenGuardOverhaul.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (B736932B|"RenGuardOverhaul.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 RenGuardOverhaulShiveringIsles.esp
 ? Obsolete. Remove this and update to v2.08+.
 SPTDiverseGuards-RGO-Patch.esp

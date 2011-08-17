@@ -19814,6 +19814,7 @@ Bashed Patch, Warrior.esp
 Bashed Patch, Thief.esp
 Bashed Patch, Mage.esp
 Bashed Patch, Test.esp
+REGEX: Bashed Patch, .+\.esp
 \EndGroup\\
 
 \BeginGroup\: Post Bashed Patch

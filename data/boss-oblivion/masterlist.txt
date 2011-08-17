@@ -1209,7 +1209,9 @@ OBGE - Liquid Water Basic.esp
 phinix-waterfix.esp
 Realistic Water.esp
 % {{BASH: C.Water, Graphics}}
+ IF (B049E8E|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (4B04A062|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EAF3B550|"Realistic Water.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Real Water.esp
 realWaters.esp
 SI Alexs better water.esp
@@ -1258,8 +1260,6 @@ More Immersive Sound.esp
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
  IF (F343D8EA|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (F343D83A|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-\The above are suspiciously similar. The first was obtained by WrinklyNinja and is definitely correct.
 MIS New Sounds Optional Part.esp
 % {{BASH: Scripts}}
 Atmospheric Oblivion.esp
@@ -1348,27 +1348,36 @@ Sounds of Cyrodiil.esp
 Storms & Sound.esp
 % {{BASH: C.Owner}}
 ? Use only one Storms and Sound mod file.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2DBAAA1A|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
+ IF (9A124534|"Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AWS-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
+ IF (6E7BFAB6|"AWS-Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AWS-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
+ IF (993A2165|"AWS-Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NW-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
+ IF (AC2CE763|"NW-Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NW Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 NW-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
+ IF (6761AAF1|"NW-Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ANW-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
+ IF (C23EEEE9|"ANW-Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ANW-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
+ IF (30E0955F|"ANW-Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EW-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
+ IF (C439BDBB|"EW-Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EW-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
+ IF (AACF47E6|"EW-Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OBSE-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
@@ -7138,10 +7147,12 @@ OWC - Players Home.esp
 TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
 >* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
+ IF (EB4A4D83|"TamrielTravellers.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellers4MMM.esp
 >* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
+ IF (C0CECFEA|"TamrielTravellers4MMM.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers4MMM Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Travellers4MMMHostileFactions.esp
@@ -9240,7 +9251,7 @@ ICEGHouse_cobl.esp
 ICEXPAND.esp
 ICEXPANDWaterfront.esp
 Dirtier Waterfront.esp
- IF (CB542F9D|"Dirtier Waterfront.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CB542F9D|"Dirtier Waterfront.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AdensesBetterWaterfront.esp
 ICSewerDBsanctuary.esp
 IdiBegaj1.00.esp
@@ -9536,7 +9547,8 @@ Lorekeep.esp
 Lost Chapel.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
- IF (775DF108|"LostSwordOfTheAylied.esp") DIRTY: 29 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DD4B7009|"LostSwordOfTheAylied.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (775DF108|"LostSwordOfTheAylied.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
@@ -10561,7 +10573,6 @@ Treasure Maps Blood Ransom.esp
 Treasure Maps_Boethia's Burden.esp
 " UL mod(s).
  IF (A30496FE|"Treasure Maps_Boethia's Burden.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (66513509|"Treasure Maps_Boethia's Burden.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 treasure maps captus demus.esp
  IF (D0D3DA5C|"treasure maps captus demus.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasure Maps Meridias Womb.esp
@@ -11083,6 +11094,8 @@ EVE_KnightsoftheNine.esp
 % {{BASH: Graphics, NoMerge}}
 Knights_DMRA.esp
 % {{BASH: Graphics, NoMerge}}
+Knights_MOBS.esp
+% {{BASH: Stats}}
 MOBS_Knights.esp
 % {{BASH: Stats}}
 MOBS Knights.esp
@@ -11146,7 +11159,7 @@ Knights Essential.esp
 Knights Companion Quarters.esp
 
 DLC_MOBS.esp
-? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, or Thievesden_mobs.esp if using this as this includes all those.
+? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, Knights_MOBS.esp or Thievesden_mobs.esp if using this as this includes all those.
 ? Recommended to use version 1.02 or greater: "http://www.tesnexus.com/downloads/file.php?id=19203"
 % {{BASH: Deactivate, Stats, NoMerge}}
 MOBS DLCs.esp
@@ -11878,6 +11891,7 @@ Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
 FranMWL-TheHeath patch.esp
 MMMMWL-TheHeath patch.esp
+ IF (1E56F9FE|"MMMMWL-TheHeath patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NewHaven-TheHeath patch.esp
 SutchReborn-TheHeath patch.esp
 xulHeathCreatureAddon.esp

@@ -1,4 +1,4 @@
-﻿\ Masterlist Syntax Notes
+﻿r\ Masterlist Syntax Notes
 \
 \ Although two syntaxes (MF1 & MF2) are available, only the most common parts of the more general syntax (MF1) is covered here.
 \ See http://code.google.com/p/better-oblivion-sorting-software/wiki/MasterlistFormatSyntax for full details.
@@ -3128,6 +3128,8 @@ Male Body Replacer.esp
 MaleBodyReplacer.esp
 % {{BASH: Body-M, Body-Size-M}}
 MaleBodyReplacerV5Beta.esp
+MaleBodyReplacerV5.esp
+% {{BASH: Body-M, Body-Size-M}}
 NordFemaleMuscles.esp
 % {{BASH: Body-F, Body-Size-F}}
 Nude.esp
@@ -12101,6 +12103,7 @@ xulAncientYews 20x8 fix.esp
 Zedar-AncientYews patch.esp
 WaterlilyCottage-AncientYews patch.esp
 HentaiLovelyHouse2-AncientYews patch.esp
+HauntedHouseQuest-AncientYews patch.esp
 
 xulAncientRedwoods.esp
  IF (6387135|"xulAncientRedwoods.esp") DIRTY: 361 ITM, 734 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -19279,6 +19282,7 @@ Detect Life Yellow Shader.esp
 DS Flaming Arrows.esp
 EvenLessGreenLight.esp
 HVH_LifeDetect.esp
+Lem - Lighter Fire Effect.esp
 Li-Glassphials.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp

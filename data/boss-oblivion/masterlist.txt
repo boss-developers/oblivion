@@ -1208,7 +1208,6 @@ OBGE - Liquid Water.esp
 OBGE - Liquid Water Basic.esp
 phinix-waterfix.esp
 Realistic Water.esp
-% {{BASH: C.Water, Graphics}}
  IF (B049E8E|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (4B04A062|"Realistic Water.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (EAF3B550|"Realistic Water.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

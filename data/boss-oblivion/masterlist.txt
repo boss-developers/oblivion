@@ -18895,7 +18895,6 @@ Cyrodiil Rebuild.esp
 " Extended Cyrodiil - Apfelwacht extended
 " *Better Cities CHORROL.esp
 ? For Better Cities and Unique Landscapes use esp included in Cyrodiil Rebuild archive.
-? Move xulSkingradOutskirts.esp and Better Cities SKINGRAD.esp once after this esp
  IF ("xulSkingradOutskirts.esp") WARN: Move xulSkingradOutskirts.esp once after this esp
  IF ("Better Cities SKINGRAD.esp") WARN: Move Better Cities SKINGRAD.esp once after this esp
  IF (A3178EEA|"Cyrodiil Rebuild.esp") DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -8630,16 +8630,6 @@ CV - Templar Fortress.esp
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
-Cyrodiil Rebuild.esp
-% {{BASH: Actors.ACBS, Actors.AIPackages, Invent, Relations}}
-" AnvilBayExpansion.esp
-" Bravil Docks.esp
-" ImpeREAL Empire - Unique Castles - Bruma.esp
-" mrSiikas_ImperialCathedral.esp
-" xulChorrolHinterland.esp
-" Extended Cyrodiil - Apfelwacht extended
-" *Better Cities CHORROL.esp
- IF (A3178EEA|"Cyrodiil Rebuild.esp") DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil Training Center.esp
 \EndGroup\\
 
@@ -12021,7 +12011,6 @@ DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
 CountySutchOwlsCove-LostCoast patch.esp
-CRpatchForXULlostCoast.esp
 
 \BeginGroup\: HM2
 HentaiMania2.esp
@@ -12074,7 +12063,6 @@ TonaSimpleDressArmor-BravilBarrowfields patch.esp
 Suliin-BravilBarrowfields patch.esp
 BravilDocks-Barrowfields patch.esp
 ColdstoneTown-BravilBarrowfields patch.esp
-CRpatchForXULbravilBarrowfields.esp
 MTCRiverShack-BravilBarrowfields patch.esp
 ShiveringStore-BravilBarrowfields patch.esp
 EtInArkay-BravilBarrowfields patch.esp
@@ -12121,7 +12109,6 @@ xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
 ? Obsolete if using Ancient Redwoods 1.6 or higher.
 PineLodge2-AncientRedwoods patch.esp
-CRpatchForXULancientRedwoods.esp
 
 xulCloudtopMountains.esp
  IF (FAB16618|"xulCloudtopMountains.esp") DIRTY: 0 ITM, 4984 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12276,7 +12263,6 @@ KvatchRebuilt-CheydinhalFalls patch.esp
  IF (DCE9A024|"KvatchRebuilt-CheydinhalFalls patch.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KvatchRebuilt-CheydinhalFalls patch DV.esp
 CastleRavenpride-CheydinhalFalls patch.esp
-CRpatchForXULcheydinhalFalls.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
 Oblivion Collectible Cards UL Cheydinhal Falls Patch.esp
 Villages-CheydinhalFalls patch.esp
@@ -12298,7 +12284,6 @@ Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
-CRpatchForXULskingradOutskirts.esp
 
 xulSnowdale.esp
 Unique Landscapes - Snowdale DV.esp
@@ -12309,7 +12294,6 @@ FrostcragReborn-Snowdale patch.esp
 OOO-Snowdale Patch.esp
 RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
-CRpatchForXULsnowdale.esp
 
 xulCliffsOfAnvil.esp
  IF (701EF543|"xulCliffsOfAnvil.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

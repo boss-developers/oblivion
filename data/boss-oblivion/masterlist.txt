@@ -2546,6 +2546,7 @@ Vows and Covenants.esp
 VvardenfellIngredRedone.esp
 VWD-Chapels.esp
 VWD Extras.esp
+VWD-Extras.esp
 VWD-Tamriel v0.5.esp
 \EndGroup\\
 
@@ -3050,6 +3051,8 @@ SM Plugin Refurbish - VileLair.esp
 NLF VileLair.esp
 Lair_mobs.esp
 % {{BASH: NoMerge, Stats}}
+VileLair_MOBS.esp
+% {{BASH: Deactivate, NoMerge, Stats}}
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
@@ -3067,6 +3070,9 @@ MOBS MehrunesRazor.esp
 % {{BASH: Stats}}
 Mehrunes_mobs.esp
 % {{BASH: NoMerge, Stats}}
+MehrunesRazor_MOBS.esp
+: "DLCMehrunesRazor - Unofficial Patch.esp"
+% {{BASH: Deactivate, NoMerge, Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
@@ -6132,8 +6138,8 @@ DLCThievesDen Vwalk UOP.esp
 SM Plugin Refurbish - ThievesDen.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
-Thievesden_mobs.esp
-% {{BASH: NoMerge, Stats}}
+ThievesDen_MOBS.esp
+% {{BASH: Deactivate, NoMerge, Stats}}
 dunbarrowupgrade.esp
 Sounds of Cyrodiil - Thieves' Den Add-On.esp
 \EndGroup\\
@@ -9590,6 +9596,7 @@ Lilarcor.esp
 
 Mount Archon.esp
 Mara's Tower.esp
+Mariel's Treasure Hunt.esp
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
  IF (2AA7F42A|"M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
@@ -10595,6 +10602,7 @@ Treasure Maps Revenge Of The Nords.esp
  IF (41E287B2|"Treasure Maps Revenge Of The Nords.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasuresofthedeep.esp
 : OOO.
+TreasureTrailsPart1.esp
 Trees_In_Cities.esp
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
@@ -10948,8 +10956,8 @@ SM Plugin Refurbish - Battlehorn.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Artificerens Battlehorn Coblized.esp
-Battlehorn_mobs.esp
-% {{BASH: NoMerge, Stats}}
+BattleHorn_MOBS.esp
+% {{BASH: Deactivate, NoMerge, Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
 \EndGroup\\
@@ -11107,7 +11115,7 @@ EVE_KnightsoftheNine.esp
 Knights_DMRA.esp
 % {{BASH: Graphics, NoMerge}}
 Knights_MOBS.esp
-% {{BASH: Stats}}
+% {{BASH: Deactivate, NoMerge, Stats}}
 MOBS_Knights.esp
 % {{BASH: Stats}}
 MOBS Knights.esp
@@ -11171,9 +11179,9 @@ Knights Essential.esp
 Knights Companion Quarters.esp
 
 DLC_MOBS.esp
-? Don't use Battlehorn_mobs.esp, Lair_mobs.esp, Mehrunes_mobs.esp, Knights_MOBS.esp or Thievesden_mobs.esp if using this as this includes all those.
+? Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
 ? Recommended to use version 1.02 or greater: "http://www.tesnexus.com/downloads/file.php?id=19203"
-% {{BASH: Deactivate, Stats, NoMerge}}
+% {{BASH: Deactivate, Filter, Stats, NoMerge}}
 MOBS DLCs.esp
 % {{BASH: Stats, NoMerge}}
 
@@ -15752,6 +15760,7 @@ AR's Hand to Hand - 30.esp
 AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
+Arrows Extra Damage.esp
 AutoOffhand.esp
 Can´t touch me!.esp
 

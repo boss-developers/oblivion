@@ -18885,8 +18885,6 @@ GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
 
-TreeHomeIntLight-ChorrolHinterland patch.esp
-
 Cyrodiil Rebuild.esp
 % {{BASH: Actors.ACBS, Actors.AIPackages, Invent, Relations}}
 " AnvilBayExpansion.esp

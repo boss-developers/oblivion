@@ -2293,6 +2293,8 @@ QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Outdated. Update to V3+.
 QQuix - Rock, rock, rock your ship - V3.esp
 ? 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+QuickEquipSwap.esp
+:OBSE
 
 \EndGroup\\
 
@@ -2670,10 +2672,11 @@ Crowded Cities 30 Vwalk.esp
 Crowded Roads 23 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads Advanced.esp
+ IF (E51BD6C2|"Crowded Roads Advanced less crowded.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Advanced Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads Advanced less crowded.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CBA77FF|"Crowded Roads Advanced less crowded.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Advanced less crowded Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 CrowdedRoadsAdvanced_LC_1C.esp
@@ -8987,6 +8990,7 @@ GoldDaedricArmor.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
 GoldenCrest.esp
+ IF (AA4EEB02|"GoldenCrest.esp") DIRTY: 157 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GoldenCrest Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 GoldenCrestBattlehornComp.esp
@@ -9089,6 +9093,7 @@ Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 hantai mapbook.esp
 Hero Hill Redone.esp
+Highcross House.esp
 High Rock.esp
 HighrockVillage.esp
 : Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
@@ -17574,6 +17579,7 @@ AsharasCMBeasts.esp
 AsharasCMPartners.esp
 % {{BASH: Hair, Eyes}}
 BloodLady.esp
+Classic Witcher Companions.esp
 Doll Partners.esp
 High_Imperial_Trio.esp
 % {{BASH: Hair, Eyes}}

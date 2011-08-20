@@ -18901,6 +18901,37 @@ GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp
 
+TreeHomeIntLight-ChorrolHinterland patch.esp
+
+Cyrodiil Rebuild.esp
+% {{BASH: Actors.ACBS, Actors.AIPackages, Invent, Relations}}
+" AnvilBayExpansion.esp
+" Bravil Docks.esp
+" ImpeREAL Empire - Unique Castles - Bruma.esp
+" mrSiikas_ImperialCathedral.esp
+" xulChorrolHinterland.esp Included in Cyrodiil Rebuild.esp
+" Extended Cyrodiil - Apfelwacht extended
+" *Better Cities CHORROL.esp
+? For Better Cities and Unique Landscapes use esp included in Cyrodiil Rebuild archive.
+? Move xulSkingradOutskirts.esp and Better Cities SKINGRAD.esp once after this esp
+ IF ("xulSkingradOutskirts.esp") WARN: Move xulSkingradOutskirts.esp once after this esp
+ IF ("Better Cities SKINGRAD.esp") WARN: Move Better Cities SKINGRAD.esp once after this esp
+ IF (A3178EEA|"Cyrodiil Rebuild.esp") DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+CRpatchForXULlostCoast.esp
+CRpatchForXULbravilBarrowfields.esp
+CRpatchForXULancientRedwoods.esp
+CRpatchForXULcheydinhalFalls.esp
+CRpatchForXULskingradOutskirts.esp
+? For both Unique Landscapes and Better Cities use CRpatchForBSandULskingrad.esp instead
+CRpatchForXULsnowdale.esp
+CRpatchForBCskingrad.esp
+? For both Unique Landscapes and Better Cities use CRpatchForBSandULskingrad.esp instead
+CRpatchForBCbravil.esp
+CRpatchForBCanvil.esp
+CRpatchForBCcheydinhal.esp
+CRpatchForBCleyawiin.esp
+CRpatchForBSandULskingrad.esp
+
 CSV_Farms_Better_Cities.esp
 ? Use only one CSV Farms * Cities esp.
 : Better Cities.

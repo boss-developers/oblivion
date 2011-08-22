@@ -9103,6 +9103,8 @@ HighrockVillage.esp
  IF (D1E9F459|"HighrockVillage.esp") DIRTY: 0 ITM, 73 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HighwaymanHideway.esp
 Highwood.esp
+Highwood-SYS-Patch.esp
+: P1DseeYourSleep.esp, Highwood.esp
 Highwood-Cobl-Support.esp
 : Cobl Main.esm, Highwood.esp
 Highwood-OOO-Patch.esp

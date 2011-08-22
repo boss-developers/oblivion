@@ -185,6 +185,7 @@ SewerExpansion.esm
 Kvatch Rebuilt.esm
 Better Cities Resources.esm
 Crystal Cave Tileset.esm
+Obsidian Interior Castle Tileset.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
 bookplacing.esm
@@ -1289,6 +1290,7 @@ Elves Of Lineage II Female Anime Voice.esp
 Diverse Voices (Vanilla).esp
 Diverse Voices.esp
 
+Oblivion Sound Sets.esp
 PCSounds.esp
 PCSoundAlgernon.esp
 PCSoundAnnah.esp
@@ -2836,13 +2838,15 @@ MUTE.esp
 MyPersonalArmy.esp
 
 NameThatHorse.esp
-: OBSE 17+, Pluggy 122+.
+: OBSE v0017+, Pluggy 122+.
 sycNiceToMeetYou.esp
-: OBSE 20+
+: OBSE v0020+
 NPC Height Randomizer.esp
 : OBSE
+NoHelmet.esp
+: OBSE v0020+
 No Recharge.esp
-: OBSE.
+: OBSE
 Note to Self.esp
 : OBSE 0018+
 
@@ -4176,6 +4180,7 @@ Insanity's Scarves.esp
 IP_Magerobes.esp
 % {{BASH: Graphics}}
 IrohaClothes.esp
+Iron Maiden Set.esp
 IvyArmor_Black.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
@@ -8265,6 +8270,7 @@ Banes Anvil Merchant Upgrade.esp
 Banes Chorrol Store Upgrade.esp
 Banes Fallen Angel Sanctuary.esp
 Banes Lair of the Witchking.esp
+Banu v1.4.esp
 Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
 
@@ -9096,6 +9102,11 @@ HighrockVillage.esp
 : Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
  IF (D1E9F459|"HighrockVillage.esp") DIRTY: 0 ITM, 73 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HighwaymanHideway.esp
+Highwood.esp
+Highwood-Cobl-Support.esp
+: Cobl Main.esm, Highwood.esp
+Highwood-OOO-Patch.esp
+: Oscuro's_Oblivion_Overhaul.esm, Oscuro's_Oblivion_Overhaul.esp, Highwood.esp
 HobbitHole.esp
 Hobbit Hole Revamped.esp
 SYS Patch Hobbit Hole Revamped.esp
@@ -9465,6 +9476,7 @@ Lair_of_the_Hydra_1C.esp
 \BeginGroup\: Quests L
 
 _lpHameHighRoad.esp
+Labyrinth of the Lost.esp
 Lady Stone Villa.esp
 ? Use only one 'Lady Stone Villa' plugin.
 " Oscuro's Oblivion Overhaul
@@ -10195,6 +10207,7 @@ Secret of the Hidden Sun.esp
 Secret of the Hidden Sun (COBL).esp
 Secret of the Hidden Sun (BathingMod).esp
 Secret of the Hidden Sun (BloodyMess).esp
+SI Defending The Realm.esp
 Side's Bravil House.esp
 Side's Bravil House (COBL).esp
 Side's Bravil House (BathingMod).esp
@@ -10331,6 +10344,7 @@ Street Market.esp
 striders.esp
 stWorldMonsters.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Stygian Castle.esp
 SunderedKeep.esp
  IF (70719F5B|"SunderedKeep.esp") DIRTY: 50 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SunderedKeep Vwalk.esp
@@ -14005,6 +14019,7 @@ Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Sinderion Fix.esp
 Size of rats more normal.esp
+Skill Perk Descriptions.esp
 Skill Perk Descriptions Enhancement.esp
 $ Conflicts with OOO's changes to skill perks and their descriptions.
 SkillSpecialization.esp
@@ -17074,6 +17089,12 @@ Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp
 % {{BASH: Body-F, Body-Size-F, Body-M, Body-Size-M, Hair, Eyes, R.Relations}}
 Beautiful People 2ch-Ed Merged Hair Modules.esp
 Beautiful People 2ch-Ed Merged Eye Modules.esp
+Beautiful People 2ch-Ed Merged Eye Modules No One-Eyed.esp
+? Only use one 'No ...' plugin.
+Beautiful People 2ch-Ed Merged Eye Modules No Glow-Eyes.esp
+? Only use one 'No ...' plugin.
+Beautiful People 2ch-Ed Merged Eye Modules No Glow-Eyes & One-Eyed.esp
+? Only use one 'No ...' plugin.
 Beautiful People 2ch-Ed Merged SKSRENs Hair Modules.esp
 Beautiful People 2ch-Ed Merged RoseSims Hair Modules.esp
 x117 Merged SKSRENs Hair Modules.esp

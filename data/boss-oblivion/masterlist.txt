@@ -19831,6 +19831,7 @@ Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 Oscuro's_Oblivion_Overhaul - Harvest Containers - SI.esp
 % {{BASH: Deactivate, Filter, Graphics, Invent, Scripts}}
+ IFNOT ("Bashed Patch, 0.esp") ERROR: DELETE. Bashed Patch is required!
 OOO Harvest Containers Filter patch for mods.esp
 % {{BASH: Deactivate, Filter}}
  IFNOT ("Bashed Patch, 0.esp") ERROR: DELETE. Bashed Patch is required!

@@ -292,6 +292,7 @@ CustomSpellIcons.esm
 Extended Game Mechanics.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
+Demolish System - Core.esm
 PMSneakySummons.esm
 CLS-SneakyFeet.esm
 Pose Compendium.esm
@@ -2772,7 +2773,7 @@ AutoEquip.esp
 ? Contains a dirty edit to the GREETING Dialog Topic. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auto_Recharge.esp
 AutomaticPatrols.esp
-" DynamicLeveledLists.esp . Included
+ IF ("DynamicLeveledLists.esp") ERROR: DELETE. Included in Dynamic Leveled Lists mod
 
 BookTrackerOBSE.esp
 
@@ -2785,6 +2786,12 @@ Custom Autosave.esp
 Damage Text v2.esp
 DarNifiedUI Config Addon.esp
 : OBSE v19+, Pluggy v125b+ or ConScribe v9.0+ and DarNified UI or DarkUI'd DarN.
+Demolish System - Aerial Combos.esp
+Demolish System - Extend Attacks.esp
+Demolish System - Flash Effects.esp
+Demolish System - Special Moves.esp
+Demolish Plugin - HUD Display.esp
+: Pluggy
 Display Stats.esp
 DropLitTorchOBSE.esp
 DS Time Manager.esp

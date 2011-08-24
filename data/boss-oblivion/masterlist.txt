@@ -548,8 +548,6 @@ Absolutely_Sexy_MarketDistrict.esp
 % {{BASH: NpcFaces, Invent}}
 YoungerNPCs.esp
 % {{BASH: NpcFaces, NoMerge}}
-LD_Patrick_Stewart_Sean_Bean.esp
-% {{BASH: NpcFaces}}
 Colourwheels Sexy Female NPCs.esp
 % {{BASH: Actors.Anims, NpcFaces}}
 Colourwheels Sexy Female NPCs Vwalk.esp
@@ -568,6 +566,8 @@ Prettier Vampire Faces.esp
 % {{BASH: NpcFaces, NoMerge}}
 Better Faces.esp
 % {{BASH: NpcFaces}}
+LD_Patrick_Stewart_Sean_Bean.esp
+% {{BASH: NPC.Race, NpcFaces}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes

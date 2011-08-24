@@ -2858,6 +2858,7 @@ Note to Self.esp
 
 Oblivion Graphics Extender Support.esp
 OBGE Controller.esp
+OBGEv3 Controller.esp
 OBGE_SwitchDoF.esp
 
 P1DlookHereYou.esp
@@ -9695,6 +9696,7 @@ MountainShackR13.esp
 SYS Patch-Abandoned Mountain Shack.esp
 MrPwner's Ambient Churches.esp
 MrPwner's Ambient Inn's.esp
+MrPwner's Marihuana Mod.esp
 mrSiikas_ImperialCathedral.esp
 " Anything that modifies the Chorrol cathedral interior or exterior.
 mrSiikas_TheEmperorsTomb.esp
@@ -16373,6 +16375,8 @@ CTAddPose_AttackPrep.esp
 CTAddPose_ryk0.esp
 CTAddPose_Chaos.esp
 
+DanceSyncEng.esp
+
 Goma Pose 1.esp
 Goma Pose 2.esp
 Goma Pose 3.esp
@@ -16413,6 +16417,7 @@ ActorsInMadness.esp
 ActorsInEmotions.esp
 Animation and Poses.esp
 77_Umpa_Animation.esp
+77_Umpa_Arts.esp
 77_Umpa_Disco.esp
 77_Umpa_Pose.esp
 77_Umpa_Sexy_walk.esp
@@ -16458,6 +16463,9 @@ Animation - Growlfs Body Resizing Mod.esp
 SP1stPLegs.esp
 
 KamiCAS.esp
+
+xxJump.esp
+ IF (6F92CD7C|"xxJump.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Semi-final overrides

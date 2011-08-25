@@ -2157,6 +2157,7 @@ My Voice Extender.esp
 
 Named Fighter's Guild Porters.esp
 NBB.esp
+Necromancer Mount.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
  IF (E5983547|"New Potions by Tealpanda.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -3508,6 +3509,7 @@ BlackGlovesRus.esp
 ? Only Use one BlackGlovesX.esp, this one does NPC changes
 ? Only Use this for Russion version.
 Blackhand Courtesan.esp
+Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Mirror.esp
@@ -12106,6 +12108,7 @@ Tales Elsweyr Anq Bravil Barrowfields Patch.esp
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
 BravilBridgeCottage + Barrowfields Patch.esp
+NicVBetterBeggars-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
  IF (FA59EB15|"xulLushWoodlands.esp") DIRTY: 52 ITM, 940 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12134,6 +12137,7 @@ Zedar-AncientYews patch.esp
 WaterlilyCottage-AncientYews patch.esp
 HentaiLovelyHouse2-AncientYews patch.esp
 HauntedHouseQuest-AncientYews patch.esp
+OblivionCollectibleCards-AncientYews patch.esp
 
 xulAncientRedwoods.esp
  IF (6387135|"xulAncientRedwoods.esp") DIRTY: 361 ITM, 734 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12270,7 +12274,6 @@ BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
-? This patch results in land tears along the main road to the Imperial City when used with Imperial Isle v1.6.6+. An updated patch is planned.
 ImperialCitySuburbs-ImperialIsle patch.esp
 ? Don't use UL Imperial Isle Adense Epic Dungeon Patch.esp in conjunction with ImperialCitySuburbs-ImperialIsle patch.esp (causes land tears)
 ImperialManor-ImperialIsle patch.esp
@@ -12346,6 +12349,7 @@ xulSilverfishRiverValley.esp
 Unique Landscapes - Silverfish River Valley DV.esp
 Lost Spires + Silverfish River Patch.esp
 GuardsOfCyrodiilRedux-SilverfishRiverValley patch.esp
+BanditHideouts-SilverfishRiverValley patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp

@@ -2913,6 +2913,7 @@ zzCCAO.esp
 zzCCAOPAAddOn.esp
 zzzItemGeneratingSystem.esp
 IF (A08A9ABE|"zzzItemGeneratingSystem.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+zzzIngameBrowserOnSysDialog.esp
 
 \EndGroup\\
 
@@ -13941,6 +13942,7 @@ LoversBorn.esp
 : Beautiful People 2ch-Ed.esm
 : the meshes from 'DskRing' mods, but not the ESPs.
 LoversBrothel.esp
+LoversBackup.esp
 LoversFOV.esp
 >* Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev38 and newer.
 LoversHelpRapeVPlayer.esp
@@ -13952,6 +13954,8 @@ LoversAfterVoice.esp
 >* Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev38 and newer.
 LoversMpc.esp
 ? Obsolete. Use mpc.esm version 1.2.3 or later.
+LoversPower.esp
+LoversSoundVolumeDown.esp
 LoversStopCombat.esp
 >* Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev38 and newer.
 LoversStopCombatEx.esp

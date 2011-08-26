@@ -3888,6 +3888,7 @@ EagleSword.esp
 Echo_MysticShield.esp
 EckoSword.esp
 Edhildils Savior Bikini Armor.esp
+EleidonsWard.esp
 ElegantVests.esp
 Elegant Vests.esp
 ElementalWeapons.esp
@@ -4239,6 +4240,7 @@ JQ-TrekLirpa.esp
 JPainweaver.esp
 JSSoulCrystals_01.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
+JTP_SkeletonHammer.esp
 JWolfBlade.esp
 jy-Akaviri Helmets.esp
 \EndGroup\\
@@ -7186,7 +7188,7 @@ OWC - Players Home.esp
 TamrielTravellerAdvScript.esp
 TamrielTravellers.esp
 >* Delete. 'Use TamrielTravellers4OOO.esp' and 'FCOM_TamrielTravelers.esp' instead.
- IF (EB4A4D83|"TamrielTravellers.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EB4A4D83|"TamrielTravellers.esp") DIRTY: 38 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellers4MMM.esp
@@ -14578,6 +14580,8 @@ TuStartingOptions_01.esp
 TuStartingOptions_02.esp
 TuStartingOptions_03.esp
 
+Upbringing.esp
+
 Vswe_Skip_Start_No_Videos.esp
 \EndGroup\\
 
@@ -16038,6 +16042,7 @@ Phitt's Phighting Phixes.esp
 : OBSE 17+
 Ragna Parry V2.esp
 Smarter Ally Combat Positioning.esp
+The Art of Battle.esp
 Unequip Broken Armor.esp
 BFG's Enhanced Armory.esp
 " 'Unequip Broken Armor', 'Enhanced Hotkeys'

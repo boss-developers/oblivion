@@ -1593,6 +1593,7 @@ AFC v2 Locational Damage.esp
 AFK_PrayerIdles.esp
 Arena Ring.esp
 Arena_Ring_V2.esp
+ArrowAutoEquipper.esp
 All normal clothes buyable.esp
 SI Clothes.esp
 \EndGroup\\
@@ -17321,6 +17322,8 @@ Sharingan and Uchiha Clan.esp
 SuccubusRace.esp
 Synx.esp
 % {{BASH: Hair, Eyes}}
+Wiedergaenger Race.esp
+ IF (6F1B67D5|"Wiedergaenger Race.esp") DIRTY: 30 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KHStrangers.esp
 % {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
 X.Dea.Obscura.esp

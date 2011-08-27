@@ -41,11 +41,13 @@
 
 \ Upgrade message for 1.7 users:
  IF (<1.8.0.0|"BOSS") GLOBAL WARN: You are using an outdated version of BOSS. An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
+ 
+\ This is the commented out version info test. It should still be displayed in the BOSSlog, just not under Oblivion.esm.
+\ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 
 \BeginGroup\: ESMs
 \----
 Oblivion.esm
-? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Oblivion_1.1.esm
 ? A modding esm - do not use in game, deactivate.
 Oblivion_SI.esm
@@ -9208,6 +9210,7 @@ ImpeREAL City Unique Districts - Arboretum.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+ IF (DF183339|"ImpeREAL City Unique Districts - All the Districts - Merged.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
@@ -9459,6 +9462,7 @@ Gold Road Cottage - Classy.esp
 Gold Road Cottage - Rugged.esp
 ? Use only one 'Gold Road Cottage - X.esp'.
 Gold Road Cottage & Kvatch Rebuilt Patch.esp
+Gold Road Cottage Kvatch Rebuilt Patch.esp
 
 EiAmod.esp
 : 'EiAmod_ShiveringIsles.esp' compatibility patch if using Shivering Isles.
@@ -12418,6 +12422,8 @@ ULSO+WestRoads Patch.esp
 ? Outdated - Update to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
 Oblivifall - Losing My Religion West Roads Patch.esp
+IF (1B777711|"Oblivifall - Losing My Religion West Roads Patch.esp") SAY: Needs Wrye Bash's "Remove World Orphans" fix.
+ IF (1489007C|"Oblivifall - Losing My Religion West Roads Patch.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Kvatch Rebuilt West Roads Patch.esp
 
 xleyawiinSwamp.esp
@@ -13270,6 +13276,7 @@ Dwemer_Rename.esp
 ? If using Wrye Bash use the Bashed Patch Tweak instead and delete.
 DMRA Replacer OOO Collection.esp
 % {{BASH: Graphics, NpcFaces, Hair, Eyes, Invent, Stats, Actors.Stats, Actors.ACBS}}
+Dynamic Torches.esp
 \EndGroup\\
 
 \BeginGroup\: overrides E
@@ -15028,6 +15035,12 @@ SNxMarkers.esp
 MindRip.esp
 morespells.esp
 MTC EagleEyesSpell 1.1[ENG].esp
+Mysterious Bear's Power Animals- Transparent.esp
+ IF (6386DDCF|"Mysterious Bear's Power Animals- Transparent.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Mysterious Bear's Power Animals - Translucent.esp
+ IF (3813B26C|"Mysterious Bear's Power Animals - Translucent.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Mysterious Bear's Power Animals - Opaque.esp
+ IF (26A014E9|"Mysterious Bear's Power Animals - Opaque.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P-Froggys Magic Spells.esp
 P-Froggys Spells.esp
 1854-1.0-Nevycat Bound Items-TESSource.esp
@@ -18478,6 +18491,8 @@ k_HOD_RBP_patch.esp
 bgIntegrationEV.esp
 : LAME, Shivering Isles and Race Balancing Project.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function. It is safe to undelete records, but do not do anything other than that.
+bgIntegrationIntegratedEV.esp
+bgIntegrationEV - Stock Dailog, Integrated!.esp
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH: NpcFaces, NoMerge}}
 bgIntegrationEV - Unique Clothes.esp

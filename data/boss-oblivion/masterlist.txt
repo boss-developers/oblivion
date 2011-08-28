@@ -8758,6 +8758,10 @@ DibellaTempleWillowLakeVillagev1.esp
 SYS Patch-Dibella Temple-WLV.esp
 Dibella Temple Final.esp
 DibellasWatchBeta06.esp
+DibellasWatchAdditions.esp
+ IF (6D051C88|"DibellasWatchAdditions.esp") DIRTY: 0 ITM, 40 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+DibellasWatchAdditions Vwalk.esp
+% {{BASH:Actors.Anims, NoMerge}}
 DWAnvilTransport.esp
  IF (FEF1B464|"DWAnvilTransport.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DWAnvilTransport Vwalk.esp
@@ -10083,6 +10087,7 @@ Regions - Hammerfell.esp
 RealmofRuun.esp
 Return Of Shadows.esp
  IF (6D97B636|"Return Of Shadows.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E29749D7|"Return Of Shadows.esp") DIRTY: 5 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Return Of Shadows Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Return of the Ayleids.esp
@@ -11401,6 +11406,7 @@ AFK_Weye.esp
 % {{BASH: C.Owner, Factions}}
  IF (E59E8D6E|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (564FD290|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8C632F0D|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AFK_Weye Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -19566,6 +19572,7 @@ GW71_Life_Detect.esp
 Alt LifeDetected.esp
 HeatVision.esp
 Magic Projectile Variants.esp
+Morrowind Enchantment Shaders.esp
 New Frost Damage cloud3.esp
 New Disintegration Effect.esp
 New_NightEye_Toggle.esp

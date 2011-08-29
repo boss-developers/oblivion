@@ -179,6 +179,7 @@ ArmamentariumEnchanted.esm
 azsTHouse.esm
 MD_Saddle_Master.esm
 Artifacts.esm
+Genzel and Frostcraig Armory.esm
 Hemingweys Capes Improved.esm
 Underwear HGEC Fighter.esm
 Underwear HGEC Normal.esm
@@ -953,6 +954,8 @@ LoadingScreenQuotes.esp
 \''''''''''''''''''''''''''
 \
 \Unlikely to be affected by anything but sound mods.
+
+Always Foggy.esp
 
 Oblivion_Audio_and_Visual_Overhaul_1st_esp.esp
 Oblivion_Audio_and_Visual_Overhaul_2nd_esp.esp
@@ -4018,6 +4021,9 @@ GC Gowns.esp
 GCBloodgown.esp
 GemSword.esp
 genji Armor.esp
+Genzel and Frostcraig Armory Buyable.esp
+Genzel and Frostcraig Armory Hidden.esp
+Genzel and Frostcraig Armory Enchanted.esp
 Ghogiels Armor.esp
 GhostArmor.esp
 Ghost_Headache.esp
@@ -5056,6 +5062,7 @@ The Bow of Thorns.esp
 The Butcher.esp
 The Doomed King.esp
 The Dragon Bow.esp
+The Eltonbrand Remade.esp
 TheFatherSword.esp
 Conan Swords - Atlantean 2Hand Fur Scabbard.esp
 ? TheFatherSword.esp and 1.4TheAtlanteanSword mods included
@@ -5104,6 +5111,7 @@ trfjEmpireLongsword.esp
 trfjSpiderGreatsword.esp
 trfjSolarisStaff.esp
 TRSAssassinBoots.esp
+True Rings of Lore.esp
 True Skullcrusher.esp
 TS3_Arcanery.esp
 TTB.esp
@@ -11408,9 +11416,9 @@ HoarfrostCastle Vwalk.esp
 
 AFK_Weye.esp
 % {{BASH: C.Owner, Factions}}
- IF (E59E8D6E|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (564FD290|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (8C632F0D|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E59E8D6E|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. These records are non-damaging leftovers created by the CS and do not need to be cleaned.
+ IF (564FD290|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. These records are non-damaging leftovers created by the CS and do not need to be cleaned.
+ IF (8C632F0D|"AFK_Weye.esp") DIRTY: 35 ITM, 0 UDR records. These records are non-damaging leftovers created by the CS and do not need to be cleaned.
 AFK_Weye Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AFK_Weye - Oblivion XP Patch.esp
@@ -13693,6 +13701,8 @@ NoWindSI.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
+No Troll Regen.esp
+No Troll Regen - Regen + Shady Sam Fire Arrows.esp
 No Wait Regenerate.esp
 : OBSE.
 NoWorthlessItems.esp
@@ -13885,6 +13895,7 @@ Sagantor's Bloodlust.esp
 SA Social Alertness.esp
 SBDummyTraining.esp
 Scouter.esp
+Screaming Mandrakes.esp
 ScreamingMawHF.esp
 seorin's Artifact Fix.esp
 SecretsoftheAyleidsClosure.esp
@@ -14588,6 +14599,7 @@ Quickstart_DV.esp
 ROM Patch - Alternative Start.esp
 % {{BASH: Scripts}}
 
+Skip the Tutorial Dungeon.esp
 SkipTutor.esp
 Skip Tutorial.esp
 ? Old, update to version 2+.

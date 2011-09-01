@@ -12068,6 +12068,7 @@ SkingradMarket-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
 ? Also use Sutch reborn Lighthouse Fix UL.esp.
 Sutch reborn Lighthouse Fix UL.esp
+ IF (C591AFC5|"Sutch reborn Lighthouse Fix UL.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VeronaHouse-SutchReborn patch.esp
 OOO-UL-Sutch patch.esp
 SeawatchAbode-LostCoast patch.esp
@@ -12409,6 +12410,8 @@ xul Swalk Full.esp
 xul Vwalk Full.esp
 % {{BASH: Actors.Anims, NoMerge}}
 ? Outdated - Update to the latest version of Sensual Walks and use Wrye Bash to merge the Sensual Walks patches
+OblivionCollectibleCards-UniqueLandscapes Merged patch.esp
+: Oblivion Collectable Cards, UL: Snowdale, UL: Ancient Yews, UL: Cheydinhal Falls
 TrailsOfCyrodiilCentral-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch DV.esp

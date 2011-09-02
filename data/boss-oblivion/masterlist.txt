@@ -2642,7 +2642,7 @@ moDem's City Life - BP Compat Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 moDem's City Life.esp
 ? May cause crashes in the IC Market district. May have been fixed. Needs verification.
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (88D5A5EE|"moDem's City Life.esp") DIRTY: 286 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 moDem's City Life Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 
@@ -2925,7 +2925,7 @@ Xero's Fame Indicator.esp
 zzCCAO.esp
 zzCCAOPAAddOn.esp
 zzzItemGeneratingSystem.esp
-IF (A08A9ABE|"zzzItemGeneratingSystem.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A08A9ABE|"zzzItemGeneratingSystem.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 zzzIngameBrowserOnSysDialog.esp
 
 \EndGroup\\
@@ -3611,6 +3611,7 @@ BrivasArmor.esp
 brotherhood.esp
 BW Armory.esp
 BWisteria.esp
+ByakuyaKatana.esp
 \EndGroup\\
 
 \BeginGroup\: Items C
@@ -4035,6 +4036,7 @@ Ghost_Headache.esp
 Ghost Rider Helmet.esp
 Ghost Ring.esp
 GHSamuraiArmor.esp
+Giniro_No_Oni.esp
 GizBladeset01OB.esp
 GizDredfireOB.esp
 Gizmodian Aurora Blade.esp
@@ -12454,7 +12456,7 @@ ULSO+WestRoads Patch.esp
 ? Outdated - Update to latest version of West Roads and delete this patch.
 WellspringVale+WestRoads Patch.esp
 Oblivifall - Losing My Religion West Roads Patch.esp
-IF (1B777711|"Oblivifall - Losing My Religion West Roads Patch.esp") SAY: Needs Wrye Bash's "Remove World Orphans" fix.
+ IF (1B777711|"Oblivifall - Losing My Religion West Roads Patch.esp") SAY: Needs Wrye Bash's "Remove World Orphans" fix.
  IF (1489007C|"Oblivifall - Losing My Religion West Roads Patch.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Kvatch Rebuilt West Roads Patch.esp
 
@@ -19862,7 +19864,7 @@ Real Hunger, Cobl.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 
 StokerWolff.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (52AFA081|"StokerWolff.esp") DIRTY: 11 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StokerWolff 1.3.esp
 
 Viconia.esp
@@ -19885,7 +19887,7 @@ ViconiaChapterTwo Swalk.esp
 ViconiaChapterTwo Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 UnderdarkSaga.esp
-IF (453742B9|"UnderdarkSaga.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (453742B9|"UnderdarkSaga.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.

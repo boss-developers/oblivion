@@ -1418,6 +1418,7 @@ Weather Inside.esp
 MIS Weather.esp
 
 Rainbows.esp
+Rainbows_1C.esp
 Better Rainbows.esp
  IF (71BDDEC0|"Better Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\

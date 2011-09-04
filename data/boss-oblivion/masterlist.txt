@@ -6320,7 +6320,7 @@ Cobl Si.esp
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 Cobl Tweaks.esp
->* Delete. Already included in 'FCOM_COBL.esp' or latest "MMM_Cobl.esp".
+>* Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
 COBL-FransCre.esp
 >* Delete. Not compatible with FCOM.
 : COBL and Fran's.
@@ -11504,8 +11504,10 @@ FCOM_Knights.esp
 FCOM_WelkyndSwordBlood&Mud.esp
 : 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
 FCOM_Ruin.esp
+: 'Ruin.esp'
 FCOM_SlofsHorses.esp
 % {{BASH: Graphics}}
+: 'Slof's Horses Base.esp'
 FCOM_SlofsRobeTrader.esp
 % {{BASH: Delev, Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.

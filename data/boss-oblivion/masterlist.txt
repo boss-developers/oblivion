@@ -11488,34 +11488,37 @@ Well of Arcane Marking.esp
 \
 \FCOM optional addon patches
 
->Mart's Monster Mod - City Defences.esp
->^ Incompatible with Better Cities - City Defences.
-> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+ IF ($FCOM) MOD: Mart's Monster Mod - City Defences.esp
+ IF ($BC) WARN: Incompatible with Better Cities - City Defences.
+ IF ($FCOM) DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
-FCOM_mightyumbra.esp
-: 'Mighty Umbra.esp'.
+FCOM_MightyUmbra.esp
+ IFNOT ($FCOM && "Mighty Umbra.esp") ERROR: Required FCOM and Mighty Umbra.esp
 FCOM_Blood&Mud.esp
-: 'Blood&Mud.esp'.
+ IFNOT ($FCOM && "Blood&Mud.esp") ERROR: Required FCOM and Blood&Mud.esp
 FCOM_Knights.esp
 % {{BASH: Delev, Factions, Relations, Relev}}
-: DLC 'Knights.esp'.
+ IFNOT ($FCOM && "Knights.esp") ERROR: Required FCOM and DLC 'Knights.esp'
 FCOM_WelkyndSwordBlood&Mud.esp
-: 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
-FCOM_ruin.esp
+ IFNOT ($FCOM && "Ungarion1TheWelkyndSword.esp" && "Blood&Mud.esp") ERROR: Required FCOM and Ungarion1TheWelkyndSword.esp and Blood&Mud.esp
+FCOM_Ruin.esp
+ IFNOT ($FCOM && "Ruin.esp") ERROR: Required FCOM and Ruin.esp
 FCOM_SlofsHorses.esp
 % {{BASH: Graphics}}
-FCOM_slofsrobetrader.esp
+ IFNOT ($FCOM && "SlofsHorses.esp") ERROR: Required FCOM and SlofsHorses.esp
+FCOM_SlofsRobeTrader.esp
 % {{BASH: Delev, Relev}}
-: 'Slof's Oblivion Robe Trader.esp'.
+ IFNOT ($FCOM && "Slof's Oblivion Robe Trader.esp") ERROR: Required FCOM and Slof's Oblivion Robe Trader.esp
 FCOM_OMG.esp
 % {{BASH: Relations, Actors.AIPackages}}
-: 'Origin of the Mages Guild.esp'.
-? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
+ IFNOT ($FCOM && "Origin of the Mages Guild.esp") ERROR: Required FCOM and Origin of the Mages Guild.esp
+ IF ($FCOM && "Origin of the Mages Guild.esp" && "Slof's Oblivion Robe Trader.esp") WARN: Use FCOM_OMGSRT.esp as well.
 FCOM_OMGSRT.esp
-: both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
+ IF ($FCOM && "Origin of the Mages Guild.esp" && "Slof's Oblivion Robe Trader.esp") ERROR: Required FCOM and Origin of the Mages Guild.esp and Slof's Oblivion Robe Trader
 FCOM_DulanCult.esp
-: 'The Mystery of the Dulan cult.esp'.
+ IF ($FCOM && "The Mystery of the Dulan cult.esp") ERROR: Required FCOM and The Mystery of the Dulan cult.esp
 Origin of the Mages Guild OOO Patch.esp
+ IFNOT ($OOO && "Origin of the Mages Guild.esp") ERROR: Required Oscuro's Oblivion Overhaul and Origin of the Mages Guild
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 4

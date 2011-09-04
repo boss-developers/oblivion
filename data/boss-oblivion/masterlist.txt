@@ -6273,7 +6273,7 @@ FranDungeonChestMenuFix.esp
 \'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 KDCircletsOOOOptimized - NPC Equip.esp
- IF ($FCOM) WARN: Has bugs. Use Loot version or a patch or 'FCOM_KDCircletsOOOOptimizedNPCEquip.esp'
+? Has bugs. Use Loot version or a patch or 'FCOM_KDCircletsOOOOptimizedNPCEquip.esp' if using FCOM.
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 FCOM_KDCircletsOOOOptimizedNPCEquip.esp
@@ -6319,7 +6319,7 @@ Cobl Si.esp
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 Cobl Tweaks.esp
->* Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
+>* Delete. Already included in 'FCOM_COBL.esp' or latest "MMM_Cobl.esp".
 COBL-FransCre.esp
 >* Delete. Not compatible with FCOM.
 : COBL and Fran's.
@@ -11488,37 +11488,34 @@ Well of Arcane Marking.esp
 \
 \FCOM optional addon patches
 
- IF ($FCOM) MOD: Mart's Monster Mod - City Defences.esp
- IF ($BC) WARN: Incompatible with Better Cities - City Defences.
- IF ($FCOM) DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+>Mart's Monster Mod - City Defences.esp
+>^ Incompatible with Better Cities - City Defences.
+> DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
-FCOM_MightyUmbra.esp
- IFNOT ($FCOM && "Mighty Umbra.esp") ERROR: Required FCOM and Mighty Umbra.esp
+FCOM_mightyumbra.esp
+: 'Mighty Umbra.esp'.
 FCOM_Blood&Mud.esp
- IFNOT ($FCOM && "Blood&Mud.esp") ERROR: Required FCOM and Blood&Mud.esp
+: 'Blood&Mud.esp'.
 FCOM_Knights.esp
 % {{BASH: Delev, Factions, Relations, Relev}}
- IFNOT ($FCOM && "Knights.esp") ERROR: Required FCOM and DLC 'Knights.esp'
+: DLC 'Knights.esp'.
 FCOM_WelkyndSwordBlood&Mud.esp
- IFNOT ($FCOM && "Ungarion1TheWelkyndSword.esp" && "Blood&Mud.esp") ERROR: Required FCOM and Ungarion1TheWelkyndSword.esp and Blood&Mud.esp
-FCOM_Ruin.esp
- IFNOT ($FCOM && "Ruin.esp") ERROR: Required FCOM and Ruin.esp
+: 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
+FCOM_ruin.esp
 FCOM_SlofsHorses.esp
 % {{BASH: Graphics}}
- IFNOT ($FCOM && "SlofsHorses.esp") ERROR: Required FCOM and SlofsHorses.esp
-FCOM_SlofsRobeTrader.esp
+FCOM_slofsrobetrader.esp
 % {{BASH: Delev, Relev}}
- IFNOT ($FCOM && "Slof's Oblivion Robe Trader.esp") ERROR: Required FCOM and Slof's Oblivion Robe Trader.esp
+: 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
 % {{BASH: Relations, Actors.AIPackages}}
- IFNOT ($FCOM && "Origin of the Mages Guild.esp") ERROR: Required FCOM and Origin of the Mages Guild.esp
- IF ($FCOM && "Origin of the Mages Guild.esp" && "Slof's Oblivion Robe Trader.esp") WARN: Use FCOM_OMGSRT.esp as well.
+: 'Origin of the Mages Guild.esp'.
+? If using both Origin of the Mage's Guild and Slof's Oblivion Robe trader, use 'FCOM_OMGSRT.esp' as well.
 FCOM_OMGSRT.esp
- IF ($FCOM && "Origin of the Mages Guild.esp" && "Slof's Oblivion Robe Trader.esp") ERROR: Required FCOM and Origin of the Mages Guild.esp and Slof's Oblivion Robe Trader
+: both 'Origin of the Mages Guild.esp' and 'Slof's Oblivion Robe Trader.esp'.
 FCOM_DulanCult.esp
- IF ($FCOM && "The Mystery of the Dulan cult.esp") ERROR: Required FCOM and The Mystery of the Dulan cult.esp
+: 'The Mystery of the Dulan cult.esp'.
 Origin of the Mages Guild OOO Patch.esp
- IFNOT ($OOO && "Origin of the Mages Guild.esp") ERROR: Required Oscuro's Oblivion Overhaul and Origin of the Mages Guild
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 4

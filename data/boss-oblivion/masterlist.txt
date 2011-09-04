@@ -6273,7 +6273,7 @@ FranDungeonChestMenuFix.esp
 \'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 KDCircletsOOOOptimized - NPC Equip.esp
-? Has bugs. Use Loot version or a patch or 'FCOM_KDCircletsOOOOptimizedNPCEquip.esp' if using FCOM.
+ IF ($FCOM) WARN: Has bugs. Use Loot version or a patch or 'FCOM_KDCircletsOOOOptimizedNPCEquip.esp'
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 
 FCOM_KDCircletsOOOOptimizedNPCEquip.esp
@@ -6319,7 +6319,7 @@ Cobl Si.esp
 FF_Real_Thirst, Cobl.esp
 ? Don't use with vampire mods.
 Cobl Tweaks.esp
->* Delete. Already included in 'FCOM_COBL.esp' or latest "MMM_Cobl.esp".
+>* Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
 COBL-FransCre.esp
 >* Delete. Not compatible with FCOM.
 : COBL and Fran's.

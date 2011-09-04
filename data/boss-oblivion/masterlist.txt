@@ -1167,6 +1167,7 @@ No wind.esp
 
 PTAutumnTrees.esp
 HAZdynamicSnow.esp
+Dynamic Snow Accumulation - Better Cities Bruma by Xtudo.esp
 \EndGroup\\
 
 \BeginGroup\: Water and lava tweaks
@@ -8662,6 +8663,7 @@ CMcamp.esp
 Crescent Island.esp
 Cropsford Cottage.esp
 CropsfordErmitage.esp
+Cross-dressing.esp
 CRT Guest Quarters.esp
 CS_PaperParched.esp
 CastawayIsles.esp
@@ -11492,7 +11494,7 @@ Well of Arcane Marking.esp
 >^ Incompatible with Better Cities - City Defences.
 > DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
-FCOM_mightyumbra.esp
+FCOM_MightyUmbra.esp
 : 'Mighty Umbra.esp'.
 FCOM_Blood&Mud.esp
 : 'Blood&Mud.esp'.
@@ -11501,10 +11503,10 @@ FCOM_Knights.esp
 : DLC 'Knights.esp'.
 FCOM_WelkyndSwordBlood&Mud.esp
 : 'Ungarion1TheWelkyndSword.esp' and 'Blood&Mud.esp'.
-FCOM_ruin.esp
+FCOM_Ruin.esp
 FCOM_SlofsHorses.esp
 % {{BASH: Graphics}}
-FCOM_slofsrobetrader.esp
+FCOM_SlofsRobeTrader.esp
 % {{BASH: Delev, Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp

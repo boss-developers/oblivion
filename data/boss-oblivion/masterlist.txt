@@ -8875,6 +8875,7 @@ Dungeo Forgotten Tower Reduced Spawns.esp
 dungeon.esp
  IF (1937E82F|"dungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons of Blackwood.esp
+[Keias]Dungeon Of Chaos.esp
 
 DarkDale.esp
 \EndGroup\\

@@ -489,6 +489,8 @@ Younger Hotter NPC's v1.0 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 YoungerHotterNPCwithPussies.esp
 % {{BASH: NpcFaces, NoMerge}}
+YH Orcs v1.esp
+% {{BASH: NpcFaces, NoMerge}}
 Ren's hair on Young Hot NPCs.esp
 % {{BASH: NpcFaces, Hair}}
 Ren's hair on Young Hot NPCs Vwalk.esp
@@ -2693,7 +2695,7 @@ Crowded Cities 30 Vwalk.esp
 Crowded Roads 23 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads Advanced.esp
- IF (E51BD6C2|"Crowded Roads Advanced less crowded.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E51BD6C2|"Crowded Roads Advanced.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Roads Advanced Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Crowded Roads Advanced less crowded.esp
@@ -3074,6 +3076,7 @@ DLCVileLair - Unofficial Patch.esp
 % {{BASH: Graphics}}
 Correctif VileLair.esp
 Correctif VileLair RP.esp
+DLCVileLair - Vampire.esp
 SM Plugin Refurbish - VileLair.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
@@ -3282,6 +3285,7 @@ Akaviri Elements Bow v1-2.esp
  IF (44C40581|"Akaviri Elements Bow v1-2.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AkatoshHead.esp
 Akorithi's Jade Bow.esp
+AlfheimrV2.esp
 alllll61-Saint Silver armor.esp
 Saint_Silver_Armor.esp
 alllll61s-Templar armors beta 0.9.esp
@@ -3828,6 +3832,7 @@ DFSLChina.esp
 DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
+Diannes Priestly Robe.esp
 Diano.esp
 DianoPNI.esp
 Diano2_UltraLite.esp
@@ -4703,7 +4708,9 @@ Retma Dresses.esp
 Reznod Mannequin.esp
 Reznod_Mannequin_1C.esp
 Reznod_Mannequin_HD[Eng].esp
+RF_AtholBrose.esp
 RF_Crimson.esp
+RGMsCarvedLeatherAndSilkRobesMale.esp
 RGMsCheerleader.esp
 Rikku.esp
 Rindirs Staves.esp
@@ -4712,6 +4719,7 @@ Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
 ROADCourtesan.esp
+ROADForestElfRangerOutfit.esp
 ROADMasterOutift.esp
 ROADZeldaRemake.esp
 Robe Replacer2.esp
@@ -4790,6 +4798,7 @@ SDHeartbreaker.esp
 SDHeartbreakerPNI.esp
 SedaArmor.esp
 Seductress Armour.esp
+Seirei_No_Hitokiri.esp
 semi_precious_stones.esp
 SentientWeapon.esp
  IF (A4E3D11B|"SentientWeapon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7537,6 +7546,9 @@ Diverse Imperial Armor v1.1.esp
 
 Plate Armor Plus - Woman's Move Edition.esp
 Plate Armor Plus - OOO_FCOM_version.esp
+
+TGND - OOO.esp
+% {{BASH: Graphics, NoMerge}}
 \EndGroup\\
 
 Adventurers_1.0.esp
@@ -11584,7 +11596,7 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
- IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 0 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp

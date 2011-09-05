@@ -1354,7 +1354,7 @@ NoPlayerGrunts.esp
 NoPlayerGroans.esp
 
 Sounds of Cyrodiil.esp
-% {{BASH:Sound}}
+% {{BASH: Sound}}
 
 Storms & Sound.esp
 % {{BASH: C.Owner}}
@@ -2313,7 +2313,7 @@ QQuix - Rock, rock, rock your ship - V2.0.esp
 QQuix - Rock, rock, rock your ship - V3.esp
 ? 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QuickEquipSwap.esp
-:OBSE
+: OBSE
 
 \EndGroup\\
 
@@ -8789,11 +8789,11 @@ DibellasWatchBeta06.esp
 DibellasWatchAdditions.esp
  IF (6D051C88|"DibellasWatchAdditions.esp") DIRTY: 0 ITM, 40 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DibellasWatchAdditions Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 DWAnvilTransport.esp
  IF (FEF1B464|"DWAnvilTransport.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DWAnvilTransport Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 DisplayHousejm.esp
 Display Rooms.esp
 Diverse Guards.esp
@@ -8811,6 +8811,7 @@ Delivery Job - BC.esp
 ? Obsolete: Now integrated with Better Cities 4.6+. Update and delete this plugin.
 DJZ Archmage's Study.esp
 DJ Markov Manor.esp
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DKImprovementBruma_v1.0.esp
 DocksideCoffeeHouse.esp
 Don't Forget Nirn!.esp
@@ -8822,6 +8823,8 @@ DMwardropemergednoenchant.esp
 Draelins Hidden Abode.esp
 DragonClawCastle.esp
 DragonInvasion.esp
+% {{BASH: Actors.ACBS, Actors.Stats, SpellStats}}
+: Akatosh Mount By Saiden Storm.esp
 DragonHouse.esp
 DragonSlayer.esp
 DreamersIsland.esp
@@ -8831,7 +8834,6 @@ Druids Guild Mod.esp
 DruidsTree.esp
 : Shivering Isles
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
@@ -9386,6 +9388,7 @@ jauOgreRide.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
 JolardHome.esp
+% {{BASH: Actors.ACBS, Actors.Stats}}
 JQ-AssassinQuest.esp
  IF (936A0C19|"JQ-AssassinQuest.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 JQ-AssassinQuest-NoMarkers.esp
@@ -10506,6 +10509,7 @@ CDEP_FanaCeya.esp
 The Beast of Legend.esp
 The Brandy Maker.esp
 The Dragon Citadel.esp
+% {{BASH: SpellStats}}
 TheMountainLodge.esp
 All Natural - Real Lights - The Ayleid Steps Patch.esp
 ? Outdated. Update to the latest version of The Ayleid Steps and remove this patch.
@@ -11453,7 +11457,7 @@ Weye_Armory1.esp
 
 House of Healing at Weye.esp
 House of Healing at Weye Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 Weye.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Healer WEYE_TICS Patch.esp

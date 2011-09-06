@@ -4530,7 +4530,9 @@ NecroArmour.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
 New Frostmourne Sword by Jojjo v1_0.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (770A8BD4|"New Frostmourne Sword by Jojjo v1_0.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E4C84842|"New Frostmourne Sword by Jojjo v1_0.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AF56FD5C|"New Frostmourne Sword by Jojjo v1_0.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 New_Frostmourne_Sword_by_Jojjo_v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp

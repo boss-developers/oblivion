@@ -2386,8 +2386,11 @@ ReneerDialogMod.esp
 ReneerVariedNPCsMod.esp
 Reset the Blood Decal Variable.esp
 
+Reznod Mannequin.esp
 Reznod_Mannequin.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Reznod_Mannequin_1C.esp
+Reznod_Mannequin_HD[Eng].esp
+
 rwr mannequins.esp
 Practice_Dummy0.9.5.esp
 
@@ -4707,9 +4710,6 @@ RedGlassGear.esp
 RenKnockOutArrow.esp
 Retma Dresses.esp
  IF (2DF18C43|"Retma Dresses.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Reznod Mannequin.esp
-Reznod_Mannequin_1C.esp
-Reznod_Mannequin_HD[Eng].esp
 RF_AtholBrose.esp
 RF_Crimson.esp
 RGMsCarvedLeatherAndSilkRobesMale.esp

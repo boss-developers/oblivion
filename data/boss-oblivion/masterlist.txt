@@ -41,7 +41,7 @@
 
 \ Upgrade message for 1.7 users:
  IF (<1.8.0.0|"BOSS") GLOBAL WARN: You are using an outdated version of BOSS. An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
- 
+
 \ This is the commented out version info test. It should still be displayed in the BOSSlog, just not under Oblivion.esm.
 \ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 
@@ -4935,6 +4935,7 @@ SoulCalibur1h.esp
 SoulCalibur2h.esp
 SoulDrinker.esp
 SoulReaverWraith.esp
+[Keias]SoulRing.esp
 Soulshade Dragonslayer Sword.esp
 Spell Breaker Replacer.esp
 SpeedBuster Collection.esp
@@ -7794,7 +7795,7 @@ Smarter Bandits.esp
 \BeginGroup\: Morroblivion
 \----------------------
 \
-\New group for all morroblivion plugins, since they're increasing in number. 
+\New group for all morroblivion plugins, since they're increasing in number.
 \No load order advice available AFAIK so put after overhauls but before overrides for now. If it doesn't work, group can be moved.
 
 Chairs_Stools_Benches.esp
@@ -13982,13 +13983,13 @@ BU Kemen.esp
 BUotcave.esp
 zzBreakUndiesAddonMotionChanger.esp
 TamagoPlayerHUD.esp
-TamagoBreak.esp  
-TamagoNews.esp      
-TamagoShop.esp      
-TamagoTopic.esp    
+TamagoBreak.esp
+TamagoNews.esp
+TamagoShop.esp
+TamagoTopic.esp
 TamagoConfide.esp
 LoversTamagoClub.esp
-LoversEncounter.esp 
+LoversEncounter.esp
 HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp

@@ -19937,6 +19937,7 @@ UnnecessaryViolence.esp
 ? If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini.
 UnnecessaryViolenceNormalSpeed.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
+UVII.esp
 
 DeadlyReflex - Combat Moves.esp
 ? Outdated. Update to v5+.

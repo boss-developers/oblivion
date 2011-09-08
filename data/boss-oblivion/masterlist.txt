@@ -12426,6 +12426,7 @@ Unique Landscapes - Silverfish River Valley DV.esp
 Lost Spires + Silverfish River Patch.esp
 GuardsOfCyrodiilRedux-SilverfishRiverValley patch.esp
 BanditHideouts-SilverfishRiverValley patch.esp
+Eastbrink-SliverfishRiverValley patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -13796,6 +13797,8 @@ omg-shadows-v1-all-activated.esp
 % {{BASH: C.Name}}
 OriginalLeatherSI.esp
 % {{BASH: Names}}
+ORM-TamriellicGlassCORE.esp
+% {{BASH: Graphics, NoMerge}}
 Orrery_Rewards.esp
 OS-foot-HORSE.esp
 \EndGroup\\

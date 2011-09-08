@@ -1640,6 +1640,7 @@ bgShaderStandAloneEV.esp
 Black Screen Sneak Fix.esp
 Black Sheep.esp
 BlackMarket.esp
+BlackMarket_1C.esp
 Blackpowder_bombs v04.esp
 BoH.esp
 Books-Battlespire.esp
@@ -1859,6 +1860,9 @@ Cryptic White Rose Ayleid Dining Set.esp
 Cryptic's Buyable Ayleid Dining Sets.esp
 % {{BASH: Invent}}
 ? Can be used alongside one 'Cryptic's X X X Dining Set' plugin.
+CrypticsBuyableAyleidDiningSets_1C.esp
+% {{BASH: Invent}}
+? Can be used alongside one 'Cryptic's X X X Dining Set' plugin.
 
 Buyable Ayldeid Dishes.esp
 % {{BASH: Invent}}
@@ -1899,6 +1903,7 @@ Oblivion_Deutsch_v3_1.esp
 DBCEndOfMayTeaser.esp
 Defensive Katana Store v1.0.esp
 Decoration Pillows.esp
+DecorationPillows_1C.esp
 dist_trees_x1_5.esp
 DistantRuins.esp
 Diverse Dungeons - No Color v.1.04.esp
@@ -1965,6 +1970,7 @@ Fundies.esp
 \BeginGroup\: Base G
 
 GoldnSilverBars.esp
+GoldnSilverBars_1C.esp
 Gold Smelting .esp
 Goranga restaurant job.esp
 Gorangas traveling merchant.esp
@@ -2096,6 +2102,7 @@ MageGuild_simbol.esp
 Mage Guild Sorters v3.esp
 : COBL.
 Mage_Guild_Teleport v1.1.esp
+Mage_Guild_Teleport_1C.esp
 MagesGuildPortalTowerV1.1.esp
 MagesGuildPortalTowerV1.2.esp
 Magicka.esp
@@ -2120,6 +2127,8 @@ Moist - Gate Room.esp
 Morrowindbooks.esp
 Morrowind Jewelry.esp
 More_Animals.esp
+" Mart's Monster Mod. Included in MMM.
+More_Animals_1C.esp
 " Mart's Monster Mod. Included in MMM.
 more_classes.esp
 More Drinks.esp
@@ -2514,6 +2523,7 @@ Timescale Options.esp
 TimeControl.esp
 ToggleCrosshair.esp
 ToggleShaders.esp
+Torch.esp
 Torch Arrows.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
@@ -3314,6 +3324,7 @@ ancient_blades_armor.esp
 AncientDragonSword.esp
 Ancient Silver Armor.esp
 Ancient Silver Elven Armor.esp
+Anekdot_1C.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
 Arc de Legolas.esp
@@ -4196,6 +4207,7 @@ homura outfit HGEC.esp
 hori873 - The Great Atlas.esp
 Horse_Dung.esp
 HotApparatus.esp
+HourGlass_1C.esp
 hrAchillesGear.esp
 \EndGroup\\
 
@@ -4660,6 +4672,7 @@ Playable GS DS Armor.esp
 PlayableEmpclothes.esp
 lootableSIArmor.esp
 PMCurioCeremonialRapier.esp
+Poeti-Derzati1.esp
 PocketGuideEmpire.esp
 Poison Arrows RUS.esp
 polearms_1.0.7_EV.esp
@@ -7895,6 +7908,7 @@ Ash&BlightStorms.esp
 
 SkingradBridgeLights.esp
 Newsheoth.esp
+NewSheoth_1C.esp
 palace lights.esp
 
 Castle Ravenpride.esp
@@ -7963,6 +7977,7 @@ Trade and Commerce.esp
 ? Use only one 00RBScribeSupplies mod at a time.
 00RBScribeSupplies02, read summary.esp
 ? Use only one 00RBScribeSupplies mod at a time.
+1AssasinsCreedShop.esp
 101_Anvil Cottage v2 Spartan Plain.esp
 101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
@@ -8056,6 +8071,7 @@ adTH-druidsdomain.esp
 Adventurers farm.esp
 Adventurers Guild.esp
 A Family Problem.esp
+AG_Wegschreine.esp
 AGC-TARDISoutside.esp
 ? use either outside for vanilla or inside for open cities
 AGC-TARDISinside.esp
@@ -8351,6 +8367,7 @@ Battle4Morrowind.esp
 Battle Between Two Forts.esp
 BayOfMermaid.esp
 bazOOkasWatchTowers_v1.esp
+Beach House.esp
 BearHunt.esp
 BecomeALichMod.esp
 Beginners_Dungeon.esp
@@ -8516,6 +8533,7 @@ BrotherhoodRenewed.esp
 BrotherhoodRenewed - Oblivion XP Patch.esp
 : OBSE, Oblivion XP
 Bruma Farm Updated.esp
+Bruma House.esp
 Bruma House For Sale.esp
 SYS Patch-Bruma House For Sale.esp
 Bruma Hunting Lodge.esp
@@ -8539,6 +8557,7 @@ Casa Bella Vista.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
 Capsized Ship.esp
+Cartographer.esp
 Castello_gotico.esp
 Castlevania.esp
  IF (99857FBF|"Castlevania.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8859,6 +8878,7 @@ DSoSMalamath.esp
 DSPirateIsleBeta.esp
 ? Old, updated to latest version.
 aaaJNF-&-DS-Pirate-Isles-Beta.esp
+Dunmer's Inn.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
 ? 45 ITM, 0 UDR. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8910,6 +8930,7 @@ The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Eska Cair.esp
+EstateInterior.esp
 Etherealspace.esp
 EverHaus3.esp
  IF (10F16EB7|"EverHaus3.esp") DIRTY: 49 ITM, 22 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9056,9 +9077,11 @@ Going Rogue.esp
 Gold Coast's Hillsborough Estate.esp
 ? Probably incompatible with Better Cities Anvil and most other mods that change Anvil.
 " Unique Landscapes Lost Coast, The Heath, and Brena River.
+Gold Haus.esp
 GoldDaedricArmor.esp
 goldenarrowarcheryshop.esp
 goldenarrowarcheryshopfixedprices.esp
+GoldenArrow_1C.esp
 GoldenCrest.esp
  IF (AA4EEB02|"GoldenCrest.esp") DIRTY: 157 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GoldenCrest Vwalk.esp
@@ -9087,6 +9110,7 @@ GwedenBrothel.esp
 GwedenExpansion.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
+GuilesHuntsmansLodge.esp
 Gypsy Wagon.esp
 \EndGroup\\
 
@@ -9212,6 +9236,7 @@ Hunter's Haven File 1.esp
 \BeginGroup\: Quests I
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
+IC Island Estate v1.1.esp
 ICAU_Mages_bridge.esp
 ICEGHouse.esp
 ICEGHouse_cobl.esp
@@ -9423,6 +9448,7 @@ Jade_Manor V1.26.esp
 Jade_Manor V1.30.esp
 JM_safehouse.esp
 JSRandomTasks.esp
+JulianNirnroots_v2.1.esp
 JupiterManor.esp
 \EndGroup\\
 
@@ -9451,7 +9477,7 @@ Knights abode.esp
 " New Roads and Bridges; Landscape problems reported.
 Knights of the Thorn Lodge.esp
 Kriegerburg.esp
-
+Kynareth Beach Area.esp
 Kragenir's Death Quest.esp
 Kragenir's Death Quest Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -9561,6 +9587,7 @@ Lady Stone Villa ULCompatable.esp
  IF (AEF9E69D|"Lady Stone Villa ULCompatable.esp") DIRTY: 3 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (5D2B3929|"Lady Stone Villa ULCompatable.esp") DIRTY: 21 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Land of Hyrule.esp
+Landscape house Final48C.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
 LakesideHome.esp
@@ -10234,6 +10261,7 @@ Secrets.esp
 Secrets_Of_Mertvitel.esp
 SecretsOfMertvitel.esp
 Secrets of Mortum.esp
+SecretStorage.esp
 SenTineL's Legendary Weapons And Armors 1.0.esp
 ? Update to latest version, latest version doesn't have version number in name.
 SenTineL's Legendary Weapons And Armors.esp
@@ -10481,6 +10509,8 @@ tchos' breakfast food.esp
 TelValus1pt1c.esp
 Temple District Rebuild.esp
 ? Don't use unless you've finished the main quest!
+Temple District Rebuild_1C.esp
+? Don't use unless you've finished the main quest!
 Temple District Repaired.esp
 templars.esp
 templars v1.0 Delayer.esp
@@ -10503,6 +10533,7 @@ The Temple of The Sleeper.esp
 The Treasure House.esp
 The Tritons Of Cyrodiil.esp
 TheOldHero.esp
+TheOldTreeHouse_1C.esp
 TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp
 Theryon.esp
@@ -10776,6 +10807,8 @@ Vassoul11.esp
 VaultsofCyrodiil.esp
 ? 15 ITM, 58 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VaultsofCyrodiil_1C.esp
+VaultsofCyrodiil_1С.esp
+\Don't duplicate
 VaultsofCyrodiilBC.esp
 VaultsOfTheAyleids.esp
 VRIceOrcMod.esp
@@ -13470,6 +13503,8 @@ GodStatues KOTN Edition.esp
  IF (78810F96|"GodStatues KOTN Edition.esp") DIRTY: 35 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gold Change II.esp
 % {{BASH: Names}}
+GoldItems_1C.esp
+% {{BASH: Stats}}
 GoldCoinBagger.esp
 Golden Perch Inn.esp
 Golden Perch Inn - AN Patch.esp
@@ -15182,6 +15217,7 @@ SNxMarkers.esp
 : OBSE.
 MindRip.esp
 morespells.esp
+MTC EagleEyesSpell.esp
 MTC EagleEyesSpell 1.1[ENG].esp
 Mysterious Bear's Power Animals- Transparent.esp
  IF (6386DDCF|"Mysterious Bear's Power Animals- Transparent.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -17830,6 +17866,7 @@ Three CM Partners.esp
 The Ice Queen.esp
 Siliane.esp
  IF (436F457D|"Siliane.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WPCompCats.esp
 
 CompanionFergus.esp
 Companion Sales & Retail.esp

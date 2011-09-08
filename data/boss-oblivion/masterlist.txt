@@ -16569,11 +16569,17 @@ LainPoseMOD.esp
 LainPoseMODv1.4.esp
 
 SW01.esp
+% {{BASH: Actors.Anims, NoMerge}}
 ? Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SW01Plus.esp
+% {{BASH: Actors.Anims, NoMerge}}
 ? Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SW01Minus.esp
+% {{BASH: Actors.Anims, NoMerge}}
 SexyPlOneHand.esp
+% {{BASH: Actors.Anims, NoMerge}}
 handk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 HAZeatanimations.esp

@@ -347,7 +347,7 @@ Essential_Merchants.esp
 % {{BASH: Actors.ACBS, NoMerge}}
 
 HrmnsOblivionScriptOptimizationv1.0.esp
-? Not recommended for use as there is no measureable performance improvement, and it breaks the Shivering Isles by changing some FormIDs, causing a scropt to be written into cell data.
+? Not recommended for use as there is no measureable performance improvement, and it breaks the Shivering Isles by changing some FormIDs, causing a script to be written into cell data.
 \This really does need to load this early.
 HrmnsOblivionScriptOptimizationv SI 1.0.esp
 

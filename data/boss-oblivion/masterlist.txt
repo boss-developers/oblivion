@@ -5867,6 +5867,8 @@ TGND.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 TGND_SI.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
+Armentarium TGND.esp
+% {{BASH: Graphics, NoMerge}}
 TGND Accompt of the Delitescent.esp
 TGND Brigand's Gear.esp
 TGND_Corsets_of_the_Rose.esp
@@ -9895,7 +9897,7 @@ NewSheothManor.esp
 NNICTunnel.esp
 
 Nascosto Isles 3.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D6D26C08|"Nascosto Isles 3.esp") DIRTY: 156 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 All Natural - Nascosto Isles Weather Patch.esp
 
 NerZitar.esp
@@ -10420,7 +10422,7 @@ DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
 Stroti Tribute.esp
 sunk ships.esp
-? 135 ITM, 34 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E238F1EC|"sunk ships.esp") DIRTY: 126 ITM, 34 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shield of the Gods v0.82.esp
 Ship Wrack.esp
 sinked ship.esp
@@ -11956,6 +11958,7 @@ ShezriesTownsMaster Vwalk.esp
 GoC_ShezriesTowns_Patch.esp
 SYS Patch-Shezrie's Towns.esp
 ShezriesTowns- Valenwood Patch.esp
+ShezriesTowns-Valenwood Patch.esp
 LostSpires+PellsGate Patch.esp
 Skye Village Final.esp
 Solace.esp
@@ -17536,6 +17539,7 @@ Synx.esp
 % {{BASH: Hair, Eyes}}
 Wiedergaenger Race.esp
  IF (6F1B67D5|"Wiedergaenger Race.esp") DIRTY: 30 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Wiedergaenger Race Patch.esp
 KHStrangers.esp
 % {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
 X.Dea.Obscura.esp

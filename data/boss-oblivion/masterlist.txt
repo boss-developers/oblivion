@@ -1170,6 +1170,7 @@ No wind.esp
 PTAutumnTrees.esp
 HAZdynamicSnow.esp
 Dynamic Snow Accumulation - Better Cities Bruma by Xtudo.esp
+Sunnier Weather.esp
 \EndGroup\\
 
 \BeginGroup\: Water and lava tweaks
@@ -5184,6 +5185,7 @@ Travelers' Cloaks.esp
 Tsuguri.esp
 TT-EquipableBeards.esp
 TT-EquipableBeardsLEVELEDLIST.esp
+% {{BASH: Delev}}
 Twin Hooks.esp
 Tyrael Mage Armor.esp
 
@@ -10843,6 +10845,7 @@ VHBloodlines 1.2.esp
 VHBloodlines 1.2 Vwalk.esp
 ? Mark Mergeable and deactivate - Merge animations does not seem to work properly for the original version of VH Bloodlines.
 ? Sensual Walks for Arthmoor's Verona House Bloodines SI Fixed contains bash tags to merge the animations, which work correctly on his version
+Vampire Hunting Bloodlines Patch.esp
 OCC-Verona-Patch.esp
 OCR + Verona Patch.esp
 
@@ -18183,6 +18186,8 @@ Valtierro_B1.esp
 Valtierro_B1-NoCCRL.esp
 VampireCompanion.esp
 Vance.esp
+Wolf Companions -TcS-.esp
+ IF (C9B5E3A|"Wolf Companions -TcS-.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ZoeNeeshka.esp
 
 DAAanila.esp

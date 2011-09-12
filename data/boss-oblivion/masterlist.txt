@@ -587,6 +587,8 @@ LD_Patrick_Stewart_Sean_Bean.esp
 \UOP v3.0.1 or later should be used to fix buggy vanilla quests rather than these -
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
+OblivionMsg.esp
+
 AtiAAFix.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 AtiAAFix_1C.esp
@@ -708,8 +710,6 @@ Dion MS38 Package Fix.esp
 
 Arena-Ansage-Fix.esp
 Oblivion_1C_BrowsPatch_Rus.esp
-OblivionMsg.esp
-% {{BASH: Names}}
 Obl-IM.esp
 % {{BASH: Names, Stats, Relev, Delev, Invent, Sound, Factions, Graphics}}
 Obl-IM_SI.esp
@@ -725,7 +725,7 @@ Oblivion_Deutsch_v5_0.esp
 \---------------
 
 DLCShiveringIsles.esp
-? If using the russian GOTY edition, move this plugin before 'Unoffical Oblivion Patch.esp' to allow the UOP to make its quest fixes.
+? If using the russian GOTY edition, move this plugin before 'Unoffical Oblivion Patch.esp' to allow the UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ")
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH: Names}} or without Bash load it later.

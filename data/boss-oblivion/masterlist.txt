@@ -8628,6 +8628,8 @@ Castle_Tirith Addon 1-Mechalo's Quest.esp
 Castle_Veyond.esp
 Castle Volengrad.esp
 CastleHeiLi.esp
+CastleLegacy_V2.esp
+ IF (80CEF8A7|"CastleLegacy_V2.esp") dirty: 0 ITM, 241 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CDEP.esp
 CDEP-UnderpallCave.esp
 % {{BASH: C.Light, C.Water}}

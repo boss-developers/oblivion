@@ -18379,7 +18379,7 @@ AMD.esp
 
 Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
-: bgBalancingEVCore.esp
+" bgBalancingEVCore.esp
 \EndGroup\\
 
 PlayAurMaz.esp
@@ -18748,7 +18748,7 @@ Trap.esp
 % {{BASH: R.Attributes-F, R.Attributes-M, R.ChangeSpells, R.Description, R.Relations, R.Skills}}
 Cobl Races - Balanced.esp
 % {{BASH: Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
-: bgBalancingEVCore.esp
+" bgBalancingEVCore.esp
 Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
 Birthsigns Expanded.esp

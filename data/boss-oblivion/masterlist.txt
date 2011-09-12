@@ -588,6 +588,7 @@ LD_Patrick_Stewart_Sean_Bean.esp
 \ - some fixes I can't find in documentation but am fairly sure UOP would have picked them up.
 
 OblivionMsg.esp
+% {{BASH Names}}
 
 AtiAAFix.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.

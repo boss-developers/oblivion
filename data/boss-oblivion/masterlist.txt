@@ -9345,6 +9345,7 @@ ImpeREAL City Unique Districts - Lightless - Waterfront.esp
 " Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - Lightless - Let The People Drink Compatible Version - All the Districts - Merged.esp
 " Better Cities Full or Better Cities IC components.
+ImpeREAL City Unique Districts Fix.esp
 ImpeREAL Empire - Unique Castles - All The Castles - Merged.esp
 " Better Cities.
 ImpeREAL Empire - Unique Castles - Anvil.esp
@@ -11708,7 +11709,6 @@ RimmenMMM.esp
 BeyondCyrodiil-Camps.esp
 BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
-? 0 ITM, 224 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 ElsweyrValenwoodImprovedPatch.esp
@@ -11943,7 +11943,7 @@ New Valen.esp
 
 Pinevale.esp
 PTMudwater.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (822438DC|"PTMudwater.esp") DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Forgotten Realm PTMudwater Patch.esp
 Storms & Sound - PTMudwater.esp
 

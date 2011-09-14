@@ -11783,6 +11783,7 @@ MTCThievesGrottoV4.esp
 ? Update to v4.1.
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1.esp
+ IF (941BAFD5|"MTCThievesGrottoV4.1.esp") DIRTY: 38 ITM, 61 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}

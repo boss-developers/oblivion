@@ -576,6 +576,9 @@ Prettier Vampire Faces.esp
 % {{BASH: NpcFaces, NoMerge}}
 Better Faces.esp
 % {{BASH: NpcFaces}}
+BPFace_Oblivion.esp
+% {{BASH: Actors.ACBS, NPC.Race, NoMerge, NpcFaces}}
+: Beautiful People 2ch-Ed.esm and x117race.esm
 LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH: NPC.Race, NpcFaces}}
 \EndGroup\\
@@ -17393,6 +17396,9 @@ Lop-ears Elf.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 RANs_WildTabaxi_101.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+BPRace_Oblivion.esp
+% {{BASH: NPC.Race, NoMerge}}
+: Beautiful People 2ch-Ed.esm and x117race.esm
 
 IDKRRR_C_race.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}

@@ -11661,7 +11661,6 @@ SummersetLandscapes.esp
 The Lost Chapel.esp
 
 Tamriel.esp
-AK- Morroblivion in Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
@@ -11872,6 +11871,7 @@ TWMP_ProvinceHighRock.esp
  IF (C429C648|"TWMP_ProvinceHighRock.esp") DIRTY: 98 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TWMP_Skyrim.esp
 TWMP_Morrowind.esp
+AK- Morroblivion in Tamriel.esp
 TWMP_ BlackMarsh.esp
 TWMP_BlackMarsh.esp
 TWMP_Azure_Palace.esp

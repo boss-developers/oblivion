@@ -7833,11 +7833,13 @@ Chairs_Stools_Benches.esp
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
 ? Obsolete. Upgrade to version 7+
 Morroblivion_Chargen_And_Transport_Mod_v7.esp
+Morroblivion Conversation.esp
 Morroblivion Dungeon Interior Music.esp
 Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Improved Map Markers.esp
 Morroblivion item rebalance.esp
 % {{BASH: Stats}}
+MorroblivionTreeReplacer.esp
 Morroblivion Water Level Fix.esp
 MorrowOblivion_Eloth Soulgem Replacer.esp
 MorrowOblivion_Visual Overhaul Landscape & Grass.esp
@@ -11659,6 +11661,7 @@ SummersetLandscapes.esp
 The Lost Chapel.esp
 
 Tamriel.esp
+AK- Morroblivion in Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
@@ -12825,6 +12828,7 @@ Open Cities Full + Leyawiin Reborn.esp
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 : Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
+Open Cities Classic B&M Additions.esp
 \EndGroup\\
 
 \BeginGroup\: Open Cities Reborn

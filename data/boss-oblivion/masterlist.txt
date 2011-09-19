@@ -1451,6 +1451,8 @@ All Natural - Real Lights.esp
 % {{BASH: Graphics, MustBeActiveIfImported, Scripts}}
 ? Do not use with original Real Lights mod.
 
+Real Lights IC light overhaul compatibility.esp
+
 LightsOut.esp
 LightsOut - DV.esp
 10Interior_Light.esp
@@ -6884,6 +6886,7 @@ FCOM_LessReaversInGates.esp
 >CoH Spawn Rates Increased.esp
 >CoH 1st Person Anims.esp
 >Curse of Hircine - Werewolf Hunters.esp
+>CurseOfHircine - Symphony of Night.esp 
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
@@ -7016,6 +7019,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <CoH Spawn Rates Increased.esp
 <CoH 1st Person Anims.esp
 <Curse of Hircine - Werewolf Hunters.esp
+<CurseOfHircine - Symphony of Night.esp 
 
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Obsolete. Remove this and update to MMM v3.6beta3+.
@@ -8541,6 +8545,7 @@ Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
+Bleak Falls Cave.esp
 Break Into the Arcane University.esp
 Brew Houses of Cyrodiil.esp
 Brew Houses of Cyrodiil_comp.esp
@@ -14948,6 +14953,7 @@ Addendum - Athletics.esp
 ReducedBackwardsRunningSpeed.esp
 reduced_nofran.esp
 
+AdvancedHealthRegen.esp
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
 WPHealthRegen.esp
@@ -19038,6 +19044,8 @@ Better Cities - COBL.esp
 Better Cities - Dwemer Subway.esp
 Better Cities - Unique Landscape Imperial Isle.esp
 Better Cities - Vvardenfell Imports.esp
+
+Better Cities IC Lighting Overhaul.esp
 
 Better Cities and IC Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.

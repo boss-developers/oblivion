@@ -1368,6 +1368,17 @@ Storms & Sound.esp
 % {{BASH: C.Owner}}
 ? Use only one Storms and Sound mod file.
  IF (2DBAAA1A|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AC2CE763|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C439BDBB|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C439BDBB|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C23EEEE9|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5A07EB4E|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AB61AA5A|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9A124534|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (30E0955F|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (993A2165|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AACF47E6|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6761AAF1|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
  IF (9A124534|"Storms & Sound SI.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -1400,7 +1411,11 @@ EW-Storms & Sound SI.esp
 OBSE-Storms & Sound.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
- IF (5A07EB4E|"OBSE-Storms & Sound.esp") DIRTY: 46 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5A07EB4E|"OBSE-Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+OBSE-Storms & Sound SI.esp
+? Use only one Storms and Sound mod file.
+? This one is compatible with all weather mods.
+ IF (AB61AA5A|"OBSE-Storms & Sound SI.esp") DIRTY: 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Stormier storms.esp
 Storms.esp
@@ -6728,11 +6743,6 @@ DBOO - Harvest[Containers].esp
 Hemingweys NPC Capes for OOO and FCOM.esp
 ? Obselete if using MMM or FCOM. Update to latest version and use 'Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp' instead.
 $ If you are running only OOO, but not MMM or FCOM, keep this installed.
-
-OBSE-Storms & Sound SI.esp
-? Use only one Storms and Sound mod file.
-? This one is compatible with all weather mods.
- IF (AB61AA5A|"OBSE-Storms & Sound SI.esp") DIRTY: 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 MALO - Clutter Replacer.esp
 MALO - Vendor Additions.esp
@@ -14433,34 +14443,34 @@ SSS Specialization Shaderless + Lvl 35 Trigger Castellano.esp
 Steel Weapons and Armor upgrade.esp
 Storms & Sound - AFK_Weye.esp
 : AFK_Weye.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Amajor7 Imperial Furniture.esp
 : Amajor7 Imperial Furniture.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Imperial Furniture Renovated.esp
 : Imperial Furniture Renovated.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Bank of Cyrodiil.esp
 : Bank of Cyrodiil.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Bartholm.esp
 : Bartholm.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Blood&Mud.esp
 : Blood&Mud.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - The Lost Spires.esp
 : The Lost Spires.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Shezrie's Villages.esp
 : Shezrie's Villages.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 Storms & Sound - Better Cities.esp
 : Better Cities.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 ? Better Cities patch is based off Better Cities.esm and can load above all Better Cities esps.
 Storms & Sound Patches.esp
-? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sounds.esp".
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 ? This is a custom merge.
 
 SiC shippingInCyrodiil.esp

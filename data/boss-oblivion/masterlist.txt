@@ -12231,6 +12231,7 @@ HentaiMania2_Merged_Nightmare Vwalk.esp
 T-HMO.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HM2_xuLC_Comp.esp
+HM2_xulLC_Patch.esp
 \EndGroup\\
 
 \BeginGroup\: From2ch Lives
@@ -12478,6 +12479,7 @@ Lakewood+AspenWood Patch.esp
 EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+HM2_xulAspW_Patch.esp
 
 xulSkingradOutskirts.esp
 Unique Landscapes - Skingrad Outskirts DV.esp
@@ -15557,6 +15559,7 @@ Mart's Monster Mod - Midas Creature Ingredients.esp
 AncientTowersMidasLab.esp
 FrostcragMidasLab.esp
 % {{BASH: Invent}}
+HM2_MIdas_Patch.esp
 
 Mighty for Midas - Rational.esp
 MidasSpells_MM.esp

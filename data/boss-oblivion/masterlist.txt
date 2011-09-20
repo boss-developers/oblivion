@@ -1651,6 +1651,7 @@ aaaBorsBedrolls.esp
 7lbsBedrolls-OBSE.esp
 BorsBedrolls.esp
 Bedrollsanyone.esp
+Bedrollsanyone DV.esp
 
 BEER! for Oblivion.esp
 $ Probably not compatible with OOO. Untested.
@@ -15172,6 +15173,7 @@ Slower Potion Effects.esp
 
 \BeginGroup\: General Spells
 
+[Leshik] - Mark & Recall Spells.esp
 Academy 1.02.esp
 Acidon_EnchantmentFixes.esp
 Active_Inventory_Spell_1.2.esp

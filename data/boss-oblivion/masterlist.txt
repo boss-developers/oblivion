@@ -2432,6 +2432,7 @@ Practice_Dummy0.9.5.esp
 RingofNightEye.esp
 Rings of Infiltration.esp
 : OBSE 16+.
+RioMod.esp
 RK9s Dogs Demo.esp
 RMShieldOnBack.esp
 RoadSigns.esp
@@ -10799,6 +10800,7 @@ TOTW.esp
 TOTWfurn.esp
 TOTWcamp.esp
 Tunnels of Tamriel.esp
+TWBathByNaratzul.esp
 Twin Myths Of The Dawn.esp
 \EndGroup\\
 
@@ -13405,6 +13407,7 @@ DDJailShackles.esp
 DD_JailShackles.esp
 Deadly Clutter.esp
 Deadly Clutter_update.esp
+DecorationAssistent.esp
 Decorator Assistant.esp
 ? Check version is 1.1 or later.
 DecoratorAssistant v1.1.esp

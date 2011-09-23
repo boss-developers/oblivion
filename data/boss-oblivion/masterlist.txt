@@ -37,8 +37,9 @@
 \ Masterlist variable setup for BOSS v1.7+.
  IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
  IF ("Better Cities Resources.esm") SET: BC
- IF ("FCOM_Convergence.esm") SET: FCOM
-
+ IF ("FCOM_Convergence.esm") || IF ("FCOM_Convergence.esm.ghost") SET: FCOM
+\ The second check is a hack until BOSS 1.9's release.
+ 
 \ Upgrade message for 1.7 users:
  IF (<1.8.0.0|"BOSS") GLOBAL WARN: You are using an outdated version of BOSS. An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
@@ -16958,6 +16959,8 @@ Useful Houses.esp
 Vanilla_Race_Overhaul.esp
 % {{BASH: Body-F, Body-M, R.Mouth, R.Teeth}}
 All vanilla races and eyes unlocked (SI included).esp
+Cazy Hairs.esp
+% {{BASH: Hair}}
 UnlockedHairs.esp
 Fiok Vanilla Hairs Fixed.esp
 % {{BASH: Hair}}
@@ -17173,6 +17176,8 @@ Blood Elves.esp
 Brachyuran.esp
 FFXIII_Race.esp
 Dark Seducer Race.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Demoness.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DreamWalker.esp
 % {{BASH: NpcFaces, Hair, Eyes}}

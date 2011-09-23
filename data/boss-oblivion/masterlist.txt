@@ -11390,6 +11390,8 @@ ROM Patch - Armamentarium.esp
 % {{BASH: Stats}}
 ROM Patch - Bobs Armory.esp
 % {{BASH: Stats}}
+ROMu.esp
+{{BASH: Actors.ACBS, Actors.Stats, Body-Size-F, Body-Size-M, Delev, Factions, Graphics, Invent, R.ChangeSpells, R.Relations, Relations, Relev, Scripts, Stats}}
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 3

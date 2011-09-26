@@ -3267,6 +3267,7 @@ avarm.esp
 % {{BASH: Invent}}
 1DethWeapons.esp
 1Elven.esp
+1SB_ElvenWizard.esp
 1SBVampireOutfits.esp
 1SBFingerArmor.esp
 1SB_LucreziaNavarre outfit.esp
@@ -4804,7 +4805,8 @@ Running4Cover's Welkynd Weapons - For Sale.esp
 RustyItems.esp
 % {{BASH: Graphics}}
 RTFemaleReplacerV12.esp
-% {{BASH: Graphics}} - De-activate
+% {{BASH: Graphics, NoMerge}}
+? Robert's Female Body v. 1.2 users to make sure they download the "Rough Leather Shoes" fix ("http://tesnexus.com/downloads/file.php?id=28975")
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
 ? Only have one ringwraith armor esp active at once.
@@ -4922,6 +4924,7 @@ OblivionSkoomaAddiction1.0.esp
 SkySteelNL.esp
 Slaveknight armor.esp
 slayersword.esp
+Slinky Dress.esp
 Slitterblade - Talon of the Wood.esp
 SedaArmorL.esp
 Slof and Tanya's Fleshbeast Armor.esp
@@ -6699,7 +6702,6 @@ ArmamentariumArtifacts.esp
 ArmamentariumLLArmaVendor.esp
 ? Do not use with ArmamentariumLL4OOO.esp or ArmamentariumLLVendors.esp
 Armamentarium SoB Patch.esp
-
 Adonnays Elven Weaponry for NPCs - Armamentarium piggyback.esp
 
 Asylum_patch_OOO.esp
@@ -7602,6 +7604,17 @@ EVE_StockEquipmentReplacer4MMM.esp
 
 Diverse Imperial Armor v1.1.esp
 " MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
+
+DiverseDremoraFemales.esp
+% {{BASH: Actors.ACBS, Actors.Stats, NpcFaces, Voice-F}}
+DiverseDremoraArmorOOO.esp
+% {{BASH: NoMerge, Graphics}}
+DiverseDremoraArmorMMM.esp
+% {{BASH: NoMerge, Graphics}}
+DiverseDremoraArmorMMMforOOO.esp
+% {{BASH: NoMerge, Graphics}}
+DiverseDremoraArmorFCOM.esp
+% {{BASH: NoMerge, Graphics}}
 
 Plate Armor Plus - Woman's Move Edition.esp
 Plate Armor Plus - OOO_FCOM_version.esp
@@ -10429,6 +10442,7 @@ Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
 SN_Shivering_Shack.esp
+SMSynx.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
 Sno_DB 1.0_Blade of Woe Replacer.esp
@@ -12288,6 +12302,7 @@ TrailsOfCyrodiil-BravilBarrowfields patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
 BravilBridgeCottage + Barrowfields Patch.esp
 NicVBetterBeggars-BravilBarrowfields patch.esp
+GoldenCrest-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
  IF (FA59EB15|"xulLushWoodlands.esp") DIRTY: 52 ITM, 940 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12340,6 +12355,7 @@ Mimics-CloudtopMountains patch.esp
 Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
 ? Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
+GoldenCrest-CloudtopMountains patch.esp 
 
 xulArriusCreek.esp
 % {{BASH: C.Water}}
@@ -12509,6 +12525,7 @@ ApachiiHeroesStore-Snowdale patch.esp
 CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
 FrostcragReborn-Snowdale patch.esp
+GoldenCrest-Snowdale patch.esp
 OblivionCollectibleCards-Snowdale patch.esp
 OOO-Snowdale Patch.esp
 RealSwordsNord-Snowdale patch.esp
@@ -13812,6 +13829,7 @@ More_Training-1908.esp
 MoreTraining.esp
 movablebodies.esp
 MTC Stable Interiors.esp
+Muggrug's Sub tropical south.esp
 Music Controller.esp
 MYR_AyleidKing.esp
 MQ Consideration.esp
@@ -15681,6 +15699,7 @@ StealthierMagic.esp
 sr_spell_deletion.esp
 Spellbooks.esp
 Wizard'sSpellBook.esp
+ IF (1A8F35F2|"Wizard'sSpellBook.esp") DIRTY: 31 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 arcanevelocity200.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -17384,6 +17403,7 @@ Elves Of Lineage II.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Elves Of Lineage II_1.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Elves Of Lineage II Female Anime Voice.esp
 Sotha Sil Race.esp
 % {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Ears}}
 TFF_Races_Base.esp
@@ -18455,6 +18475,9 @@ AMD.esp
 Cobl Races.esp
 % {{BASH: Eyes, Hair, R.Relations, Voice-M, Voice-F, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
 " bgBalancingEVCore.esp
+DiverseDremoraCoblRacesCosmetics.esp
+: Cobl and Cobl Races Cosmetics Resources
+% {{BASH: Eyes, Hair}}
 \EndGroup\\
 
 PlayAurMaz.esp
@@ -18476,6 +18499,9 @@ bgBalancingDVCore.esp
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
+DiverseDremoraRBPCosmetics.esp
+: BgBalancingCoreEv.esp
+% {{BASH: Eyes, Hair}}
 \EndGroup\\
 
 Zinni's New Tail.esp
@@ -19111,6 +19137,7 @@ Oblivifall - Losing My Religion BC Full B&M.esp
 Oblivifall - Losing My Religion BC Full.esp
 Oblivifall - Losing My Religion BC Leyawiin.esp
 Oblivifall - Losing My Religion BC Skingrad.esp
+SMChorrol - BC Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Obsolete BC files

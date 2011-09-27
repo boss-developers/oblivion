@@ -6908,7 +6908,8 @@ FCOM_LessReaversInGates.esp
 >CoH Spawn Rates Increased.esp
 >CoH 1st Person Anims.esp
 >Curse of Hircine - Werewolf Hunters.esp
->CurseOfHircine - Symphony of Night.esp 
+>CurseOfHircine - Symphony of Night.esp
+>CoH Unarmored.esp
 \EndGroup\\
 
 \BeginGroup\: FCOM/MMM optionals 2.
@@ -7042,6 +7043,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <CoH 1st Person Anims.esp
 <Curse of Hircine - Werewolf Hunters.esp
 <CurseOfHircine - Symphony of Night.esp 
+<CoH Unarmored.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
 <? Obsolete. Remove this and update to MMM v3.6beta3+.

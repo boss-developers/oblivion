@@ -10176,6 +10176,7 @@ QQUix Conceptuals - Anvil Docks Beta.esp
 QQuix Conceptual - NPC ACE - Anvil Docks - Beta 0.1.esp
 Quest for Hope's Fire.esp
 Quest Nirnroot.esp
+Quest-Related Dungeons Marked.esp
 \EndGroup\\
 
 \BeginGroup\: Quests R
@@ -11094,10 +11095,12 @@ Angel's Arena Loot rus.esp
 ? Unlikely to work with other IC Arena mods
 24hourArena.esp
 24HrArenaAliveV2.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BB54D108|"24HrArenaAliveV2.esp") DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 24HrArenaAliveV2Towers.esp
+ IF (363CD1F4|"24HrArenaAliveV2Towers.esp") DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 24HrArenaAliveV2Light.esp
 24HrArenaAliveLow.esp
+ IF (7009ADAE|"24HrArenaAliveLow.esp") DIRTY: 4 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Add_Arena_Robes-5411.esp
 ArenaAlive_DV_2.0.esp
 Arena Blacksmith.esp
@@ -12133,7 +12136,7 @@ Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
 FranMWL-TheHeath patch.esp
 MMMMWL-TheHeath patch.esp
- IF (1E56F9FE|"MMMMWL-TheHeath patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (427B1939|"MMMMWL-TheHeath patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NewHaven-TheHeath patch.esp
 SutchReborn-TheHeath patch.esp
 xulHeathCreatureAddon.esp
@@ -19295,6 +19298,7 @@ _burning_kvatch.esp
 DMP - Burning Kvatch.esp
 Better Cities - Halcyon Island.esp
 Better Clocks for Better Cities.esp
+Better Clocks T&C compatability patch.esp
 GrowPlants-ChorrolHinterland patch.esp
 TreeHome-ChorrolHinterland patch.esp
 TreeHomeIntLight-ChorrolHinterland patch.esp

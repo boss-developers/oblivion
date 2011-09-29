@@ -3225,6 +3225,9 @@ Nude Vwalk.esp
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
 Underworld Vampires.esp
+VORB_no_mods.esp
+% {{BASH: Actors.Skeleton, NoMerge}}
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 VORB_HGEC_special_armor_repl.esp
 % {{BASH: Graphics, NoMerge}}
 \EndGroup\\

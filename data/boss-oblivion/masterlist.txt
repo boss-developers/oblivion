@@ -20275,6 +20275,10 @@ Harvest Containers Filter patch for mods.esp
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH: Filter, C.Climate, Deactivate, NoMerge}}
 : Bashed Patch.
+Storms & Sound - Filter Patch.esp
+% {{BASH: Filter}}
+: Bashed Patch.
+? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 TIE Weapon + Armor Filter.esp
 % {{BASH: Filter, Stats, NoMerge, Deactivate}}
 : Bashed Patch.

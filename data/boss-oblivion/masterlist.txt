@@ -1997,7 +1997,7 @@ Fundies.esp
 \BeginGroup\: Base G
 
 Gold is now Gold.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
 GoldnSilverBars.esp
 GoldnSilverBars_1C.esp
 Gold Smelting .esp
@@ -2594,14 +2594,14 @@ Unlimited.esp
 \BeginGroup\: Base V
 
 BetterGold Rus.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
 VA_BetterGold.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
 VAs Better Gold with no Menu Icon.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
  IF (C0A002B4|"VAs Better Gold with no Menu Icon.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AC_Gold_Coins.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
 Vampire Alchemy V1.1.esp
 % {{BASH: Invent}} or you really won't get much of the effects of this if you use any overhauls.
 Venom.esp

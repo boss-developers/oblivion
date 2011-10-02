@@ -1996,6 +1996,8 @@ Fundies.esp
 
 \BeginGroup\: Base G
 
+Gold is now Gold.esp
+% {{BASH: Graphics}}
 GoldnSilverBars.esp
 GoldnSilverBars_1C.esp
 Gold Smelting .esp
@@ -2537,6 +2539,7 @@ SSCheatTools.esp
 \BeginGroup\: Base T
 
 Tamriel VWD v0.5.esp
+Tamerelic Lore book volume 2.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 Teleport Arrows.esp
@@ -3025,6 +3028,7 @@ ShadowbanishMap.esp
 ShowDaedricShrines.esp
 ShrineMarkers.esp
 StoneMarkers.esp
+Unmarked places map markers.esp
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
 Wayshrine Map Markers.esp
@@ -3355,6 +3359,7 @@ ArmorHeroOfKvatch.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
 Ayleid Artifacts.esp
+Ayleid Crown of Miscarcand.esp
 Ayleid Kings Armor.esp
 Ancient Aylied elven armors.esp
 ancient_blades_armor.esp
@@ -3660,6 +3665,7 @@ Boots of Blinding Speed.esp
 Bow of Quel'Thalas.esp
 BowOfShadow.esp
 BowOfShadows.esp
+Bow of Shadows.esp
 Brigand's Gear.esp
 % {{BASH: Invent}}
 Brittainy's Finery Addon.esp
@@ -3784,11 +3790,13 @@ CasquetteCamisoleX117.esp
 \BeginGroup\: Items D
 
 D35DaedricLightArmour.esp
+Daedric Face of Terror.esp
 Daedric Healer Robes.esp
 % {{BASH: Invent}}
 Daethic Armor.esp
 Dagger Master.esp
 dagger_o_a.esp
+Dagger of Symmachus.esp
 DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
 Dancers clothes.esp
@@ -3962,6 +3970,7 @@ Dungeon Explorer.esp
 \BeginGroup\: Items E
 
 EagleSword.esp
+Ebony Mail.esp
 Echo_MysticShield.esp
 EckoSword.esp
 Edhildils Savior Bikini Armor.esp
@@ -4459,6 +4468,7 @@ LootableLichHelm_Lt.esp
 % {{BASH: Invent}}
 LootableLichHelm_Hvy.esp
 % {{BASH: Invent}}
+Lords Mail.esp
 Lost_Akiviri_Armor.esp
 LSBSkullWeapons.1.esp
 % {{BASH: Invent}}
@@ -4493,6 +4503,7 @@ Mage Leather Armor.esp
 MagicElvenCapes1a.esp
 maidarmorRetexKABOPAN.esp
 MaleSweaterMod.esp
+Marara's Ring.esp
 Marine Bunny.esp
 Masks.esp
 MasterSpells.esp
@@ -4500,6 +4511,7 @@ Materia.esp
 mECB_Collection.esp
 Medieval leather armors.esp
 Medieval Swords.esp
+Mephala Artifacts.esp
 Midlander.esp
 Midlander_HGEC.esp
 MODArnTemplar.esp
@@ -4777,6 +4789,7 @@ RGMsCheerleader.esp
 Rikku.esp
 Rindirs Staves.esp
 ring_of_feather.esp
+Ring of Sanguine Red Wisdom.esp
 Ring of Sunwalker V1.35.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
@@ -5027,6 +5040,7 @@ SPARTAN VIs Ordinator Lite.esp
 spirit_bast.esp
 Spirit Blade.esp
 SpiritswordF_alfa.esp
+Staff of Hasedoki Tomb.esp
 Staff of Portals.esp
 StahlArmor.esp
 Stained Glass Equipment.esp
@@ -5126,6 +5140,7 @@ tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
 Teklanika's Reforged Items.esp
+Ten Pace Boots.esp
 Tenko_Cloth.esp
 TestShuriken.esp
 Tesw.esp
@@ -9044,6 +9059,8 @@ Farleum V 1.2.esp
 Faraggut_renewed.esp
 Felmoons Dawn V1.2.esp
 FFM.esp
+Fists of Randagulf.esp
+Fists of Randagulf Patch.esp
 FishermansCottage.esp
 FishermansCOBLaddon.esp
 FishermansCottage-LostCoast patch.esp
@@ -10187,6 +10204,7 @@ Quest-Related Dungeons Marked.esp
 \BeginGroup\: Quests R
 
 Raubritter.esp
+Really Boring Dungeon.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
 Reaper's The Dark Tower.esp
@@ -12778,6 +12796,12 @@ Duke Patricks - Health Alarm RED DEATH with heartbeat.esp
 Duke Patrick's Health Alarm RED DEATH and Heartbeat.esp
 ? Only use one 'Health Alarm' mod. Choose.
 % {{BASH: Sound}}
+Duke Patrick's Health Alarm RED DEATH NO Heartbeat.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH: Sound}}
+Duke Patrick's Health Alarm RED DEATH and Heartbeat.esp
+? Only use one 'Health Alarm' mod. Choose.
+% {{BASH: Sound}}
 
 Duke Patricks The Lady said NO.esp
 ? Old. Update to latest version.
@@ -13476,6 +13500,12 @@ Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
 Dremora Heart Collector.esp
 Dremora Mod 1.00.esp
+Dremora Sigil Lords.esp
+: Mod Daedric Lord Armor
+Better Dremora Mages.esp
+Dremora Armor by me.esp
+Dremora Churl Addon.esp
+Dremora Churl Addon #2.esp
 Drop Lit Torches Weight.esp
 DropLitTorchesClean.esp
 DropLitTorchesCleanJP.esp

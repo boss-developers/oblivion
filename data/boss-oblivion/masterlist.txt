@@ -308,6 +308,8 @@ Sexdarkness.esm
 UnnecessaryViolence.esm
 ShieldOnBack.esm
 UndiesUnderneath.esm
+ModsEquipmentEnemy.esm
+Adjustment.esm
 StarX Vampire Deaths.esm
 SuperMarioblivion.esm
 MALO - MAIN.esm
@@ -1947,6 +1949,7 @@ Duke Patricks - Basic Alchemic Immersion.esp
 Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
 Duke Patricks - Who Goes There.esp
+DungeonBoss.esp
 DWnifSEtest.esp
 DZ_Hide_Grass.esp
 DoF AutoToggle.esp
@@ -2868,6 +2871,8 @@ Duke Patricks - Safe Save.esp
 Enhanced Seasons.esp
 ExPCB.esp
 
+ForgeEquipment.esp
+DungeonBoss-FE.esp
 FormID Finder.esp
 ? Outdated. Update to version 4.
 FormID Finder without Pluggy.esp
@@ -3703,7 +3708,6 @@ CET_Crossbow.esp
 CET_DwemerPrecisionBow_v2.esp
 CG - Necessity Pack.esp
 % {{BASH: Actors.AIData, Invent}}
-
 ClassyClothingCompendium.esp
 Classic Books.esp
 Classic-Wizard-Robes-UL.esp
@@ -3721,6 +3725,7 @@ Change Undies Everyday.esp
 Chapel Shop.esp
 Charon's Call by Nicoroshi.esp
 ChunliClothes.esp
+Claymore Sheath.esp
 CM_Better Wine.esp
 % {{BASH: Graphics, Deactivate}}
 CM_Better Wine_SI.esp
@@ -4211,6 +4216,7 @@ Hemingweys NPC Capes.esp
 Hentai_Apple.esp
 Hentai_Cerenity.esp
 Hentai_CerenityArmor.esp
+HentaiCelestialArmor.esp
 HentaiChinaDress.esp
 HentaiDarkLilith.esp
 Hentai DarkSisterhoodArmor.esp
@@ -5873,6 +5879,7 @@ RogueLeather.esp
 Rogue Mage & Scoundrel.esp
 Rosana_White_Version.esp
 Rosesilk.esp
+Ryk_Angelika.esp
 Ryk_AtholBrose.esp
 
 Sack of Pants.esp
@@ -13526,6 +13533,8 @@ Dwemer_Rename.esp
 ? If using Wrye Bash use the Bashed Patch Tweak instead and delete.
 DMRA Replacer OOO Collection.esp
 % {{BASH: Graphics, NpcFaces, Hair, Eyes, Invent, Stats, Actors.Stats, Actors.ACBS}}
+Dwarven-S.esp
+% {{BASH: Graphics, NoMerge}}
 Dynamic Torches.esp
 \EndGroup\\
 
@@ -14256,6 +14265,18 @@ LoversCreature.esp
 LoversCreatureExtender.esp
 LoversGroup1.esp
 Lovers with PK Extender.esp
+LoversCreature_SexualOrgans.esp
+% {{BASH: Graphics, NoMerge}}
+LoversCreature_SexualOrgans_Scale.esp
+% {{BASH: Graphics, NoMerge}}
+LoversCreature_SexualOrgans_Dogs.esp
+% {{BASH: Graphics, NoMerge}}
+LoversCreature_SexualOrgans_NPCs.esp
+% {{BASH: Graphics, NoMerge}}
+: NPCsTravel.esp
+LoversCreature_SexualOrgans_TT.esp
+% {{BASH: Graphics, NoMerge}}
+: TamrielTravellers.esp
 FUQ Land.esp
 ? Old, update to LoversCharactors.esp
 LoversCharactors.esp
@@ -15385,6 +15406,11 @@ Madgod_Powers.esp
 ME_WAR_SUMMONS.esp
 Mannimarco's Grasp.esp
 mass magic and spells.esp
+MEE-AnyLCNPCs.esp
+MEE-FileMagic.esp
+MEE-AdJustPatch.esp
+DungeonBoss-MEE.esp
+DungeonBoss-MEE-FE.esp
 Meteor Shower.esp
 MrF - Spell Efficiency.esp
 Multiple Creature Summoning.esp
@@ -16620,6 +16646,7 @@ Uncapped Blivvy HM.esp
 UnlimitedTraining+x5traincost.esp
 UnlimitedTraining.esp
 
+Legendary Skills.esp
 Toaster's Legendary Skills.esp
 ? Use this plugin instead of 'Toaster's Legendary Skills & Stats.esp' if you have any problems with the stats.
 Toaster's Legendary Skills & Stats.esp
@@ -18709,7 +18736,8 @@ bgMagicEVAddEnVarNoSI.esp
 bgMagicEVNoSorting.esp
 bgMagicEVStartspellsNoSorting.esp
 bgAddEnVarStandAloneEV.esp
-
+LoversCreature_SexualOrgans_LAME.esp
+% {{BASH: Graphics, NoMerge}}
 VC - LAME VASE twinkle tweak.esp
 
 \EndGroup\\

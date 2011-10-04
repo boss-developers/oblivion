@@ -333,6 +333,7 @@ Diverse Magic Effects Resource.esm
 TESA Clutter.esm
 TOCP.esm
 Sheogorad.esm
+RealisticLeveling.esm
 VipCxj_AirSystem.esm
 \EndGroup\\
 
@@ -2346,7 +2347,7 @@ Q-Core - Icons.esp
 Qarl's Harvest 1.1.esp
 ? 8 ITM and 105 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Qarls_Harvest.esp
- IF (31844E23|"Qarls_Harvest.esp") DIRTY: 105 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (31844E23|"Qarls_Harvest.esp") DIRTY: 8 ITM, 105 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Qarls_Harvest addon.esp
 ? Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
 Qarls_logs.esp
@@ -13298,6 +13299,7 @@ Better Skooma.esp
 Better Staff of Worms.esp
 Better_Gem_Pricing-7112.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
+BetterLCBedsAndLCDarkFloors.esp
 BFG's Open All the Gates.esp
 bgProtectMortalNPCs.esp
 BHC Home Delivery.esp
@@ -19191,6 +19193,7 @@ Better Cities - Unique Landscape Imperial Isle.esp
 Better Cities - Vvardenfell Imports.esp
 
 Better Cities IC Lighting Overhaul.esp
+Better Clocks-Better Cities IC Light Overhaul.esp
 
 Better Cities and IC Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.

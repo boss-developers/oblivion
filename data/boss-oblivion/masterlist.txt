@@ -9017,6 +9017,7 @@ Elfengesang.esp
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EM_RedRoseManor.esp
+ IF (4A696D9|"EM_RedRoseManor.esp") DIRTY: 44 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EMRedRoseAddonCOBL.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
@@ -18219,6 +18220,7 @@ cssJaKhaiitMyr.esp
 % {{BASH: Graphics}}
 ViljainAleswell.esp
 ViljainRedRoseManor.esp
+ IF (1A496E57|"ViljainRedRoseManor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 Aliyah.esp
@@ -20196,6 +20198,7 @@ UnnecessaryViolence.esp
 UnnecessaryViolenceNormalSpeed.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 UVII.esp
+ IF (3144EC1B|"UVII.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 DeadlyReflex - Combat Moves.esp
 ? Outdated. Update to v5+.

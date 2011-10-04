@@ -14278,6 +14278,8 @@ LoversCreature_SexualOrgans_Scale.esp
 % {{BASH: Graphics, NoMerge}}
 LoversCreature_SexualOrgans_Dogs.esp
 % {{BASH: Graphics, NoMerge}}
+LoversCreature_SexualOrgans_UOPS.esp
+% {{BASH: Graphics, NoMerge}}
 LoversCreature_SexualOrgans_NPCs.esp
 % {{BASH: Graphics, NoMerge}}
 : NPCsTravel.esp
@@ -14316,6 +14318,7 @@ LoversMB.esp
 LoversLight.esp
 LoversTrueCrime.esp
 LoversTrueCrimeEx.esp
+LoversSlaveTrader.esp
 LoversStupidNpc.esp
 LoversSurrender.esp
 LoversHVirus.esp

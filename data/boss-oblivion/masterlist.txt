@@ -18009,6 +18009,8 @@ cm_Demetra.esp
 CM_Dragonchixx.esp
 cm_Hillary_shamikka.esp
 CM Partner Fiona.esp
+REGEX: CM Partner .+\.esp
+\ Test record. This record sort all unrecognised esp named 'CM Partner XXXX.esp' to this position.
 CM DESTINY M.esp
 CM Embla.esp
 CM NIKA SB.esp

@@ -4645,6 +4645,7 @@ ninjacowl.esp
 NinjaMask_by_Vergel.esp
 Nitiren's Genji Armor2.esp
 NN_ArwenBloodRedDress.esp
+NN_OverlordMinionArmor.esp
 NN_OverlordSteelArmor.esp
 Noble_and_Peasant_Hats.esp
 Noble Battlemage Armor.esp
@@ -17727,6 +17728,7 @@ Moogles.esp
 Na'vi race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Nazrin-Race.esp
+Neo_Ahrum_race.esp
 opaquan.esp
 Flan - Enayla Races for HEAD06.esp
 Sharingan and Uchiha Clan.esp
@@ -17983,8 +17985,11 @@ cm_Jo-han.esp
 CM July.esp
 CM Legolas.esp
 % {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
+CM Partner Alice.esp
+CM Partner Anais.esp
 CM Partner Autumn.esp
 CM Partner Kim Kardashian.esp
+CM Partner Kirina.esp
 CM PARTNER KITTY SNOW.esp
 CM Partner Kyrie.esp
 CM PARTNER LOLA.esp
@@ -17994,6 +17999,7 @@ CM Partner Kitty Snowflake Lola Nicole.esp
 CM Partner Sallah.esp
 CM Partner Sarija.esp
 CM Partner Sheela.esp
+CM Partner Yuna.esp
 CM recruits.esp
 CmRisingStars.esp
 cmSashaSonja.esp

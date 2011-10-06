@@ -13765,6 +13765,10 @@ Jarol's NPC Leveled Equipment.esp
 Jerall-Pass.esp
 ? German mod.
 Jerall View Inn upgrade.esp
+Jhaerik's Dungeon Fog Remover.esp
+ IF (FA68A64E|"Jhaerik's Dungeon Fog Remover.esp") DIRTY: 0 ITM, 1523 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Jhaerik's Dungeon Fog Remover Lite.esp 
+ IF (51999419|"Jhaerik's Dungeon Fog Remover Lite.esp ") DIRTY: 0 ITM, 464 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 JQ-Backpacks.esp
 JQ-Bandages.esp
 JQ-DisplayPedestals.esp

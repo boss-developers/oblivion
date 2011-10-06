@@ -12834,7 +12834,7 @@ SPD-SailableRivers.esp
 Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
-% {{BASH: C.Owner, Names, Invent, Factions, Actors.Stats, NPC.class, Actors.AIData, Actors.AIPackages, Graphics}}
+% {{BASH: C.Owner, Names, Invent, Factions, Actors.Stats, NPC.Class, Actors.AIData, Actors.AIPackages, Graphics}}
 ? MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
  IF (E02E250D|"Salmo the Baker, Cobl.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Salmo WV, Cobl.esp
@@ -18341,7 +18341,7 @@ Nec Character Eva-Remake.esp
 Olga.esp
 % {{BASH: Hair, Eyes}}
 OrenCM.esp
-% {{BASH: Graphics, Hair, NPCFaces}}
+% {{BASH: Graphics, Hair, NpcFaces}}
 PetsOfChorrol.esp
 % {{BASH: Hair, Eyes}}
 Ramy Enfant.esp
@@ -18650,9 +18650,9 @@ Better Looking Dark Elves.esp
 Better Looking Dremora.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, R.Ears, R.Head, Hair}}
 Better Looking Redguards.esp
-% {{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
+% {{BASH: Body-M, Body-F, Hair, NpcFaces, R.Ears, R.Head, R.Relations}}
 Better Looking Redguards v2.esp
-% {{BASH: Body-M, Body-F, Hair, NPCFaces, R.Ears, R.Head, R.Relations}}
+% {{BASH: Body-M, Body-F, Hair, NpcFaces, R.Ears, R.Head, R.Relations}}
 Better Looking Redguards Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Better Looking Redguards-Mergeable.esp

@@ -11762,7 +11762,7 @@ ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
  IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unofficial Elsweyr Anequina Patch.esp
-% {{BASH:Actors.AIData, Actors.AIPackages, C.Light, C.Owner, Factions, Invent, Names}}
+% {{BASH: Actors.AIData, Actors.AIPackages, C.Light, C.Owner, Factions, Invent, Names}}
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -18041,6 +18041,7 @@ Colourwheels Sexy Tifa.esp
 % {{BASH: NpcFaces}}
 CM ElizabethColourWheel.esp
 CM Dimon Lineage Elves Merged.esp
+DN13CMP_-_Little_Ladies&Lords.esp
 AngelinaCM2.esp
 Anna.esp
 Corla.esp

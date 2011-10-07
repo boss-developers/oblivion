@@ -7429,6 +7429,9 @@ FCOM_VanillaItemReleveler.esp
 \BeginGroup\: Overhaul compatibility
 \''''''''''''''''''''''
 
+\Not misplaced. Please don't move.
+WAC - ItemLootFix4v1.0bTIE.esp
+
 TIE.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Factions, Invent, NpcFaces, Relations, Relev, Scripts, Stats}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.

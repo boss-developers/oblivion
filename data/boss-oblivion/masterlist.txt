@@ -11573,7 +11573,7 @@ The Soul of Ilithiel.esp
 Ilithiel-DE.esp
 
 Ungarion1TheWelkyndSword.esp
-% {{BASH: Actors.Stats, Actors.Class, Actors.Spells, Invent, Scripts}}
+% {{BASH: Actors.Stats, Actors.Spells, Invent, Scripts}}
  IF (E8E6D2AC|"Ungarion1TheWelkyndSword.esp") DIRTY: 5 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Blood&Mud.esp

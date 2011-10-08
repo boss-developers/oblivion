@@ -675,6 +675,8 @@ fixterms1C_03.esp
 % {{BASH: Names}}
 fixtext1C_04.esp
 % {{BASH: Names}}
+Bow_Reach_Fix.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 \EndGroup\\
 
 \BeginGroup\: UOP
@@ -889,6 +891,8 @@ MrSiikaRabbits.esp
 >: Shivering Isles expansion.
 >% {{BASH: Actors.ACBS, Actors.Stats}}
 >Francesco's Dark Seducer Weapons Patch.esp
+>% {{BASH: Delev, Relev}}
+>Francescos Dark Seducer Weapons Patch.esp
 >% {{BASH: Delev, Relev}}
 >FranDarkSeducerWeapFix.esp
 >% {{BASH: Delev, Relev}}
@@ -6356,6 +6360,8 @@ Francesco's No Reduced Backwards Running.esp
 LuckBasedLootForFrans.esp
 >* Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 <Francesco's Dark Seducer Weapons Patch.esp
+<% {{BASH: Delev, Relev}}
+<Francescos Dark Seducer Weapons Patch.esp
 <% {{BASH: Delev, Relev}}
 <FranDarkSeducerWeapFix.esp
 <% {{BASH: Delev, Relev}}

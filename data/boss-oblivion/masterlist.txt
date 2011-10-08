@@ -11407,10 +11407,9 @@ M.O.E. - Main Quest Delayer.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 QuietFeet.esp
-? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above 
-? Use Wrye Bash Bashed Patch tweak instead where possible.
-Knights.esp.
+? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Mart's Monster Mod - Knights of the Nine Patch.esp
 >* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}

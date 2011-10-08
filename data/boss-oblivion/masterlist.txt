@@ -1356,13 +1356,17 @@ RWTavernTemple.esp
 
 Hear-Me-Not.esp
 Footstep Sound Fix.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Quiet Feet Complete.esp
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 QuietFeet Max.esp
 ? Update to v2.0, which does not require a plugin.
 % {{BASH: Sound}}
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 QuietFeet HorseArmor.esp
 % {{BASH: Sound}}
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 Silent Player Voice.esp
 ElzMoreVoice.esp
 ElzMoreVoice-For Companion.esp
@@ -7773,6 +7777,7 @@ WAC - Gladiator.esp
 % {{BASH: Actors.AIPackages, Delev, Graphics, Invent, Relev, Stats}}
 WAC - Magic.esp
 WAC - QuietFeet.esp
+? Use Wrye Bash Bashed Patch tweak instead where possible.
 
 WACESM_MiscItemsRebal.esp
 % {{BASH: Stats}}
@@ -11402,7 +11407,9 @@ M.O.E. - Main Quest Delayer.esp
 Vanua Map Marker.esp
 Ulrim's Horses - Knights patch.esp
 QuietFeet.esp
-? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
+? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above 
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+Knights.esp.
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
 Mart's Monster Mod - Knights of the Nine Patch.esp
 >* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.

@@ -1725,6 +1725,7 @@ Cats & Rats.esp
 % {{BASH: Scripts}}
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 Carcernus Prison.esp
+CDM - Name That Home.esp
 ChapelsOfCyrodiilLOD.esp
 CharGenAmulet.esp
 Character_Changer-2826.esp
@@ -2383,6 +2384,7 @@ RAZ's Dishes.esp
 RAZ's Fuds.esp
 Real World Time.esp
 Reaper's Adjustable Oil Lamp.esp
+Remove QuestItem OBSE.esp
 Respawning Containers.esp
 : Shivering Isles
 Resurrect book.esp
@@ -2665,6 +2667,9 @@ Zombie Replacer_en.esp
 % {{BASH: Graphics, NoMerge}}
 Zombie Replacer_cn.esp
 % {{BASH: Graphics, NoMerge}}
+zzzArrowCreatingMod.esp
+zzzJewellerMod.esp
+zzzPortableCampFire.esp
 \EndGroup\\
 
 \BeginGroup\: Base Late
@@ -2873,6 +2878,7 @@ Demolish Plugin - HUD Display.esp
 Display Stats.esp
 DropLitTorchOBSE.esp
 DS Time Manager.esp
+DS Time Manager_rus.esp
 Duke Patricks - Follow That Actor.esp
 Duke Patricks - Friendship Ring For Companion Detection.esp
 ? Required if using any of Duke Patricks' mods with companion mods.
@@ -5113,6 +5119,8 @@ StarX Katanas.esp
 StarX Witch Hunter Armor.esp
 StarX Witcher Based Outfit.esp
 Stealth Armor.esp
+sting.esp
+% {{BASH: Invent}} Not tested
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -9351,6 +9359,7 @@ Hunter's Haven File 1.esp
 \BeginGroup\: Quests I
 
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
+IC_House_1_0.esp
 IC Island Estate v1.1.esp
 ICAU_Mages_bridge.esp
 ICEGHouse.esp
@@ -11128,6 +11137,7 @@ Zyrtos' Cheydinhal Garden.esp
 Zyrtos' Perfect Cheydinhal Nirnroot Garden.esp
 Cheydinhal Nirnroot Growth Spur.esp
 ChangeAbleWeapon.esp
+zzzBanditFaction.esp
 zzzDeerHunter.esp
 zzzMyMine.esp
 zzzSlaveMaster.esp
@@ -14762,6 +14772,7 @@ kuerteeDeathHasPenalties.esp
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
+zzzArenaBFGCR.esp
 zzzBookreadingEnhanced.esp
 zzzChangeAbleArmor.esp
 zzzChageAbleSpells.esp

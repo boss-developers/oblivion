@@ -2058,6 +2058,8 @@ Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
+Insanity's Beverage Replacer.esp
+% {{BASH: Graphics, NoMerge}}
 IshNightEyeToggle.esp
 InfiniteArrows.esp
 \EndGroup\\
@@ -4576,6 +4578,7 @@ MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morrigan God-like Armor.esp
 Morniel_SpecialItem.esp
+Moon and Star Reborn.esp 
 MotoDualGoldbrandEbony.esp
 : OBSE
  IF (9F9B8D08|"MotoDualGoldbrandEbony.esp") DIRTY: 216 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7660,6 +7663,8 @@ EVE_StockEquipmentReplacer4MMM.esp
 Diverse Imperial Armor v1.1.esp
 " MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
 
+DiverseDremoraArmor.esp
+% {{BASH: NoMerge, Graphics}}
 DiverseDremoraFemales.esp
 % {{BASH: Actors.ACBS, Actors.Stats, NpcFaces, Voice-F}}
 DiverseDremoraArmorOOO.esp
@@ -14017,6 +14022,7 @@ Oblivifall - New Classes.esp
 % {{BASH: R.Description}}
 Oblivifall - New Classes Regular Fonts.esp
 % {{BASH: R.Description}}
+Oblivion Unleveled.esp
 obliviousterrainreplacer.esp
 Ohgma Infinium OverHaul.esp
 OriginalLeather.esp
@@ -14198,6 +14204,7 @@ Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
 ? German version.
 Sexy Dark Seducer & Golden Saint Armour.esp
+SHRINE REQUIREMENTS LEVEL 2.esp
 SoulGemCreation_ru.esp
 
 \BeginGroup\: Sexual Stuff

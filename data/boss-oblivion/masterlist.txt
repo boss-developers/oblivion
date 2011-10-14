@@ -1649,6 +1649,7 @@ SI Clothes.esp
 \BeginGroup\: Base B
 
 Battlemage Friends.esp
+BBB Better Bouncing Bread Loafs.esp
 Book Jackets Oblivion.esp
 % {{BASH: Graphics}}
  IF (88936850|"Book Jackets Oblivion.esp") DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11469,6 +11470,9 @@ MOBS DLCs.esp
 Dragon Templar.esp
 : Knights of the Nine
 RavDCPOD.esp
+
+Knights Unleveled.esp
+
 \EndGroup\\
 
 \BeginGroup\: ROM
@@ -14171,6 +14175,7 @@ ReteroX_OBEvilSkeletons.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
 RingRobeHGEC.esp
+RMDailyIncomeV2.esp
 Robes with Clothes Fix.esp
 Rock Remover - Shore.esp
 RTSOblivionNoCorpses.esp

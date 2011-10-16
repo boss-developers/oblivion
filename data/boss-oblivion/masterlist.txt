@@ -12634,6 +12634,8 @@ GuardsOfCyrodiilRedux-SilverfishRiverValley patch.esp
 BanditHideouts-SilverfishRiverValley patch.esp
 Eastbrink-SliverfishRiverValley patch.esp
 
+xulJerallGlacier.esp
+
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
  IF (3E7CA082|"NRB4+UL-II+LtPD Patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

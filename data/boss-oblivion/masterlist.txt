@@ -8563,6 +8563,7 @@ Black_ocean.esp
 : Shivering Isles
 : Knights.esp or download patch from home page of 'Black Ocean' mod
 Black Rock Home.esp
+Blackclaw.esp
 Blackscar Citadel.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 BladeOfTheHaunted.esp
@@ -9718,6 +9719,7 @@ Lady Stone Villa ULCompatable.esp
 " Oscuro's Oblivion Overhaul
  IF (AEF9E69D|"Lady Stone Villa ULCompatable.esp") DIRTY: 3 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (5D2B3929|"Lady Stone Villa ULCompatable.esp") DIRTY: 21 ITM, 1830 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+LadyLis_Isles_Loft_RC4-RUS.esp
 Land of Hyrule.esp
 Landscape house Final48C.esp
 Lake Rumare Cottage.esp
@@ -9862,6 +9864,7 @@ Mage'sSkyHouse.esp
 Mages Guild Quests.esp
 : Shivering Isles
 Mage'sSkyHouse_cobl.esp
+Malus-Pumila Mansion.esp
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
 MSHaddon-Akatosh Mount Pad.esp

@@ -15005,7 +15005,7 @@ Skip Tutorial.esp
 ? Old, update to version 2+.
 SkipTutorialv2.esp
 SkipTutorialv2_1.esp
-Skip\s{0,1}Tutorial.*\.esp
+REGEX: Skip\s{0,1}Tutorial.*\.esp
 StartChoices.esp
 
 TutOptionedStart.esp

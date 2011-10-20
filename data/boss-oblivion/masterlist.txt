@@ -11880,6 +11880,7 @@ Skyrim.esp
 Improved Imperial Infrastructure.esp
 
 ReclaimSancreTor.esp
+% {{BASH: Actors.AIPackages, Factions, Relations}}
 
 road+bridges.esp
  IF (CA103402|"road+bridges.esp") DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12450,6 +12451,7 @@ Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
 ? Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 GoldenCrest-CloudtopMountains patch.esp 
+RST+Cloudtop Mountains.esp
 
 xulArriusCreek.esp
 % {{BASH: C.Water}}
@@ -12613,6 +12615,7 @@ Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
+RST+Skingrad Outskirts.esp
 
 xulSnowdale.esp
 Unique Landscapes - Snowdale DV.esp

@@ -11303,6 +11303,7 @@ DLCFrostcrag - Unofficial Patch.esp
 % {{BASH: Actors.ACBS, C.Name, C.Owner, Creatures.Blood}} and remove [C.Climate, C.Light] tags
 DLCFrostcrag Disannoyed.esp
 Frostcrag Reborn.esp
+DLCFrostcrag Reborn.esp
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp

@@ -11879,6 +11879,8 @@ Skyrim.esp
 
 Improved Imperial Infrastructure.esp
 
+ReclaimSancreTor.esp
+
 road+bridges.esp
  IF (CA103402|"road+bridges.esp") DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hemingweys Capes for NRB.esp
@@ -12189,8 +12191,6 @@ CUO_Chorrol.esp
 CUO_Leyawiin.esp
  IF (FF5FEEE3|"CUO_Leyawiin.esp") DIRTY: 47 ITM, 417 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
-
-ReclaimSancreTor.esp
 
 \BeginGroup\: Unique Landscapes and Compatibility Patches
 \'''''''''''''''''''''''''''''''''''''''''''

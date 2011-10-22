@@ -12601,7 +12601,6 @@ Villages-CheydinhalFalls patch.esp
 Villges-CheydinhalFalls patch.esp
 EtInArkay-CheydinhalFalls patch.esp
 RedHeadedGang-CheydinhalFalls patch.esp
-RST+Cheydinhal Falls.esp
 TrailsOfCyrodiil-CheydinhalFalls patch.esp
 
 xulAspenWood.esp
@@ -13065,8 +13064,10 @@ OCLR+ULBWForest Patch.esp
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
 % {{BASH: C.Water}}
+RST+OCR Patch.esp
 OCR+Cheydinhal Falls Patch.esp
 % {{BASH: C.Water}}
+RST+Cheydinhal Falls.esp
 OC+ULSkingradOutskirts Patch.esp
 ? Upgrade to Open Cities Classic or Open Cities Reborn and use the corresponding patch file.
 OCC+ULSkingradOutskirts Patch.esp
@@ -13086,7 +13087,6 @@ DBOO - Open Cities Outer Districts.esp
 DBOO - OpenCitiesFull + Outer Districts.esp
 ? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 Sounds of Cyrodiil - OC Reborn Patch.esp
-RST+OCR Patch.esp
 RST+OCC Patch.esp
 \EndGroup\\
 

@@ -210,6 +210,7 @@ No Lights Flicker.esm
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Ambidextrie.esm
 AFC v2 Core.esm
+Fundament.esm
 Progress.esm
 HelmetFOV.esm
 AkaviriKojima.esm
@@ -586,6 +587,8 @@ BPFace_Oblivion.esp
 : Beautiful People 2ch-Ed.esm and x117race.esm
 LD_Patrick_Stewart_Sean_Bean.esp
 % {{BASH: NPC.Race, NpcFaces}}
+TolkieneElderElf.esp
+% {{BASH: NpcFaces, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Vanilla fixes
@@ -1981,6 +1984,7 @@ Enhanced Key Functionality.esp
 ? Only use one EKF esp.
 Enhanced Key Functionality [Shivering Isles].esp
 ? Only use one EKF esp.
+EquipmentConvertor.esp
 ES4_Alchemists Reference.esp
 Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
@@ -2010,6 +2014,7 @@ Fundies.esp
 
 \BeginGroup\: Base G
 
+GauntletMagicDestruction - 1.2.esp
 Gold is now Gold.esp
 % {{BASH: Graphics, NoMerge}}
 GoldnSilverBars.esp
@@ -2061,6 +2066,8 @@ Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
 Insanity's Beverage Replacer.esp
 % {{BASH: Graphics, NoMerge}}
+Inscription Profession.esp
+ IF (CC8DFD00|"Inscription Profession.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IshNightEyeToggle.esp
 InfiniteArrows.esp
 \EndGroup\\
@@ -2128,6 +2135,7 @@ Security Rebalance-Traps and Bash Locks.esp
 Lyn-CitySigns.esp
 Lyn-DarkBrotherhoodAssassins.esp
 Morag Tong Assassins(V1.3).esp
+? 54 ITM, 0 UDR Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
 LostTelvanniCodex.esp
@@ -3249,6 +3257,7 @@ Male Body Replacer.esp
 MaleBodyReplacer.esp
 % {{BASH: Body-M, Body-Size-M}}
 MaleBodyReplacerV5Beta.esp
+% {{BASH: Body-M, Body-Size-M}}
 MaleBodyReplacerV5.esp
 % {{BASH: Body-M, Body-Size-M}}
 NordFemaleMuscles.esp
@@ -3706,6 +3715,7 @@ Burningweapons.esp
 bustersword.esp
 Buster Sword R.esp
 BrivasArmor.esp
+? 11 ITM 0 UDR  records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 brotherhood.esp
 BW Armory.esp
 BWisteria.esp
@@ -4007,6 +4017,7 @@ Edhildils Savior Bikini Armor.esp
 EleidonsWard.esp
 ElegantVests.esp
 Elegant Vests.esp
+Elemental_Hell.esp
 ElementalWeapons.esp
 elgrande_newclothing.esp
 Emperor's Heavy War Armor.esp
@@ -4122,6 +4133,8 @@ Garak's Staff Replacer Artefacts.esp
 Garak's Staff Replacer Blood&Lightning.esp
 % {{BASH: Graphics}}
 Garak's Staff Replacer Fire&Ice.esp
+% {{BASH: Graphics}}
+Garak's Staff Replacer Grab, Hold&Decay.esp
 % {{BASH: Graphics}}
 garo.esp
 GarrettsEquipment_by_SeventyFour.esp
@@ -4772,6 +4785,7 @@ polearms_1.0.7_EV.esp
 Polearms.esp
 Poleweaponsv1.1.esp
 PortableAltars.esp
+PoseBooks.esp
 Potion Belt.esp
 ? Avoid using Potion Belt and KD Circlets at the same time. Character can wear belt or circlet, not both.
 PerditionsEdge.esp
@@ -5186,6 +5200,7 @@ The Arsenal.esp
  IF (4D20F120|"The Arsenal.esp") DIRTY: 15 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Arsenal - Ancient Ayleid Weaponry.esp
 The Arsenal - Leveled Lists.esp
+The Arsenal - Mercenary Weaponry.esp
 The_Bat.esp
 The Bow of Ash.esp
 The Bow of Blades.esp
@@ -5406,6 +5421,7 @@ XiaValentinesDayGift07.esp
 Zatoichi.esp
 % {{BASH: Invent}}
 ZMP NoError.esp
+zzzSoulGemEnhancedRestoreWeaponsCharge.esp
 \EndGroup\\
 
 \BeginGroup\: Items Late
@@ -7599,6 +7615,7 @@ SentientWeapon - OOO & MOBS.esp
 StockClothingArmor-forExnems - OOO Patch.esp
 TBoB - OOO Patch.esp
 zCats & Rats.esp
+ IF (99F45386|"zCats & Rats.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 OC+Cats&Rats Patch.esp
 OOOPekImperialHorseArmor.esp
@@ -8435,6 +8452,7 @@ Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AuriCloudRulerAddons.esp
+ IF (3BCDEE6F|"AuriCloudRulerAddons.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Aus's Alchemy Helper!.esp
 Automagicon.esp
 ? Use the Cobl version or the non-Cobl version, not both.
@@ -8443,6 +8461,7 @@ Automagicon_Cobl.esp
 : Cobl
 AvaiRii_UnderwaterHome.esp
 AXIS.esp
+APRAxisPatch.esp
 AyleidArrows.esp
  IF (1B13049A|"AyleidArrows.esp") DIRTY: 32 ITM, 77 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
@@ -8502,7 +8521,7 @@ BecomeALichMod.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp
 Beautiful Watch.esp
-$ May conflict with OOO/FCOM.
+Beautiful Watch Horse.esp
 BeldaElysium.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1209-Beneath The Wall-TESSource.esp
@@ -10287,6 +10306,7 @@ RavenviewVillageVer2.0.esp
 Rangerhome01.esp
 SYS Patch RangerHome01.esp
 Ranokoas City Stealth Exits.esp
+? 78 ITM 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UnseenExits.esp
 RC43 Christmas.esp
 rdHeavenlyHome.esp
@@ -10756,6 +10776,7 @@ The_Dragon_Citadel-6178.esp
 The_Dragon_Citadel.esp
 Vibliribland-6178-The_Dragon_Citadel.esp
 TLC2.esp
+ IF (8AC7051F|"TLC2.esp") DIRTY: 113 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TOSP - Loading Screens.esp
 Dragon Citadel & Tower of the Lich King.esp
 
@@ -11001,6 +11022,8 @@ Apachii_Goddess_Store Vwalk.esp
 Apachii_Heroes_Store.esp
  IF (F3976680|"Apachii_Heroes_Store.esp") DIRTY: 2 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Heroes_Store_DV.esp
+Apachii_Wigs_MaleFemale.esp
+ IF (38AD5735|"Apachii_Wigs_MaleFemale.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
 villamedici.esp
@@ -11473,6 +11496,7 @@ DAMuseumKnights.esp
 EiAmod_Knights.esp
 Knights Essential.esp
 Knights Companion Quarters.esp
+Also DBSQR - Knights of the Nine.esp
 
 DLC_MOBS.esp
 ? Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
@@ -11737,7 +11761,6 @@ FCOM_Ruin.esp
 : 'Ruin.esp'
 FCOM_SlofsHorses.esp
 % {{BASH: Graphics}}
-: 'Slof's Horses Base.esp'
 FCOM_SlofsRobeTrader.esp
 % {{BASH: Delev, Relev}}
 : 'Slof's Oblivion Robe Trader.esp'.
@@ -11883,7 +11906,11 @@ Skyrim.esp
 Improved Imperial Infrastructure.esp
 
 ReclaimSancreTor.esp
+ IF (A92BCD32|"ReclaimSancreTor.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7D6378B9|"ReclaimSancreTor.esp") DIRTY: 356 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 % {{BASH: Actors.AIPackages, Factions, Relations}}
+ReclaimSancreTor Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 
 road+bridges.esp
  IF (CA103402|"road+bridges.esp") DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12781,6 +12808,7 @@ Frostcrag Village.esp
 : Official Frostcrag Spire DLC
 Frostcrag Village Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+DLCFrostcrag Reborn - Frostcrag Village Patch.esp
 Fort Akatosh Redux.esp
 % {{BASH: Relations}}
 Fort Akatosh Redux Vwalk.esp
@@ -12829,6 +12857,7 @@ TheNecromancer-Moriarcis patch.esp
 300 Arcane University.esp
 Reaper's Arcane University.esp
 Universitum Arcanorum.esp
+ IF (9BDBB795|"Universitum Arcanorum.esp") DIRTY: 121 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Universitum Arcanorum Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 PersonalPackGuars.esp
@@ -13155,6 +13184,7 @@ RedBag - Imperial City Pack.esp
 
 Better Cities - House price patch.esp
 Blue Destiny's Armor.esp
+OWC - Players Home.esp
 
 \EndGroup\\
 \EndGroup\\
@@ -13351,7 +13381,7 @@ Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
 Better dungeons.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4908CB39|"Better dungeons.esp") DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Loot v1.0.esp
 % {{BASH: Delev}}
 $ Will totally FUBAR OOO's item scaling.
@@ -14131,6 +14161,7 @@ QuestItemFlagRemover.esp
 QuestItemMessage.esp
 Q - Gem Value Modifier - Realistic v1.1.esp
 % {{BASH: Stats}}
+QuiltsandWoolBlankets.esp 
 \EndGroup\\
 
 \BeginGroup\: overrides R
@@ -14474,6 +14505,12 @@ Sigil Stones Unlevelled.esp
 SigilStonesUnlevelled.esp
 Sigil Stones Unlevelled - Adjusted.esp
 SigilStonesUnlevelled - Adjusted.esp
+SigilStonesUnlevelled - Alternate - SSEE.esp
+SigilStonesUnlevelled - Alternate - SSEE-MM.esp
+SigilStonesUnlevelled - Alternate - SSEE-OOO.esp
+SigilStonesUnlevelled - SSEE.esp
+SigilStonesUnlevelled - SSEE-MM.esp
+SigilStonesUnlevelled - SSEE-OOO.esp
 
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
@@ -15817,6 +15854,7 @@ AudaciousMagery.esp
 
 LeveledMagicka.esp
 FearsomeMagicka.esp
+ IF (4105F024|"FearsomeMagicka.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Pestilent Afflictions.esp
 Pestilent_Afflictions-DV.esp
 Pestilent Afflictions1.5-DV.esp
@@ -16535,6 +16573,8 @@ AdvancedMagicLeveling.esp
 AttributePlusX_v1.1.esp
 Bonsai's Modified Skills.esp
 Bonsai's Modified Leveling.esp
+Bundlement.esp
+" Progress*.esp
 CDM-Character Generation Overhaul.esp
 CDM-CGO Core.esp
 \Core is possibley an outdated file.
@@ -19904,6 +19944,7 @@ a4sEWVE_SoulTrap.esp
 % {{BASH: Graphics, NoMerge}}
 AznarsLifeDetect.esp
 AznarsLifeDection-3052.esp
+Aznars Life Dection.esp
 LifeDetect Shader HQ.esp
 LifeDetect Shader LQ.esp
 LifeDetectReduced.esp

@@ -41,7 +41,7 @@
 \ The second check is a hack until BOSS 1.9's release.
  
 \ Upgrade message for 1.7 users:
- IF (<1.8.0.0|"BOSS") GLOBAL WARN: You are using an outdated version of BOSS. An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
+ IF (<1.8.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
 \ This is the commented out version info test. It should still be displayed in the BOSSlog, just not under Oblivion.esm.
 \ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
@@ -5144,7 +5144,7 @@ StarX Witch Hunter Armor.esp
 StarX Witcher Based Outfit.esp
 Stealth Armor.esp
 sting.esp
-% {{BASH: Invent}} Not tested
+% {{BASH: Invent}} Not tested.
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -6615,9 +6615,9 @@ Alluring Potion Bottles v3.esp
 % {{BASH: Graphics}}
 ? Must stay activated for the BSA to load.
 Alluring Wine Bottles.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, MustBeActiveIfImported}}
 Alluring Potion Bottles v3OOO.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, MustBeActiveIfImported}}
 
 AMC-OOO.esp
 DBOO.esp
@@ -6755,6 +6755,7 @@ OOO-Inebriation_Remove.esp
 OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
+Oscuro's_Oblivion_Overhaul - DropLitTorchOBSE.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
 % {{BASH: Graphics}}
 AGEHA Tortured Souls OOO.esp
@@ -7354,7 +7355,6 @@ OWC - Spawn reduced.esp
 OWC ND-Spawn-reduced.esp
 OWC - LessDangerousWilderness.esp
 OWC ND - Oblivion XP Patch.esp
-OWC - Players Home.esp
 \EndGroup\\
 
 \BeginGroup\: Tamriel Travellers.
@@ -8380,6 +8380,7 @@ Archer Shop Ver. 4.2.esp
 Archery Shops 2.0 no LL.esp
 Archery Shops 2.0.esp
 Archery Shop.esp
+ArcheryShop_02.esp
 Arboretum Bathhouse.esp
 Arboretum Bathhouse Variety.esp
 Areala.esp
@@ -8452,7 +8453,7 @@ Auriel's_Retreat.esp
 Auriel's_Retreat Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AuriCloudRulerAddons.esp
- IF (3BCDEE6F|"AuriCloudRulerAddons.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3BCDEE6F|"AuriCloudRulerAddons.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also contains a wild edit, see special cleaning instructions: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide#AuriCloudRulerAddons.esp_Special_Cleaning_Instructions".
 Aus's Alchemy Helper!.esp
 Automagicon.esp
 ? Use the Cobl version or the non-Cobl version, not both.
@@ -8574,6 +8575,7 @@ Better Elven Gardens.esp
 Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 BF_FortRapture.esp
+BF_Vincents.esp
 Big Business.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
@@ -9344,6 +9346,7 @@ Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 hantai mapbook.esp
 Hero Hill Redone.esp
+HiddenTreasures.esp
 Highcross House.esp
 High Rock.esp
 HighrockVillage.esp
@@ -12858,6 +12861,7 @@ TheNecromancer-Moriarcis patch.esp
 Reaper's Arcane University.esp
 Universitum Arcanorum.esp
  IF (9BDBB795|"Universitum Arcanorum.esp") DIRTY: 121 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D41DC29C|"Universitum Arcanorum.esp") DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Universitum Arcanorum Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 PersonalPackGuars.esp
@@ -13394,6 +13398,7 @@ Better Skooma.esp
 Better Staff of Worms.esp
 Better_Gem_Pricing-7112.esp
 ? May not work with Living Economy as LE scripts tend to overwrite pricing mods.
+Better_Wraiths_v1.esp
 BetterLCBedsAndLCDarkFloors.esp
 BFG's Open All the Gates.esp
 bgProtectMortalNPCs.esp
@@ -13959,6 +13964,7 @@ Mage_Guild_Teleport.esp
  IF (E5DFD452|"Mage_Guild_Teleport.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MagicArrows_1.0.esp
 MancarCamoranReplacer.esp
+ManKarCamoranReplacerEng.esp
 Masters Alive.esp
 master_essentials.esp
 Madhs working training dolls.esp
@@ -13975,6 +13981,7 @@ MIEO-ae.esp
 MMDrink100Potions.esp
 MM_TorchLight80.esp
 more books teach.esp
+More (Generic) Potions.esp
 more rewarding loot list.esp
 book_stat_hacks.esp
 moremerchantmoneyv1.1.esp
@@ -16734,6 +16741,7 @@ ProgressMercantile.esp
 Progress - RacialAdvancement.esp
 JCN_AV Uncap.esp
 Sneaking Detection Recalibrated.esp
+SDR Compatibility Patches.esp
 
 PureImmersion.esp
 piHealth5x.esp
@@ -18738,6 +18746,8 @@ EVE_KhajiitFix.esp
 % {{BASH: Body-F, Body-Size-F}}
 Khajiit Fix.esp
 % {{BASH: Body-F, Body-Size-F}}
+khajiittextfix.esp
+% {{BASH: Body-F, Body-Size-F}}
 Mart's Monster Mod - Resized Races.esp
 % {{BASH: Body-Size-M, Body-Size-F, R.Relations}}
 Bigger_Dremora.esp
@@ -18791,13 +18801,8 @@ Smaller Elf ears.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Slof's Better Bodies.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, Eyes, Graphics, R.Mouth, R.Teeth}}
-: Robert's Male (v3, v4 or v5) and Robert's Female
-" Other body mods other than Robert's
-" Slof's Oblivion Better Beasts.esp (included in this).
-? Conflicts with Improved Facial Textures
-? Conflicts with Facial Textures by Enayla
-? Conflicts with Cobl Races Resource
-? Conflicts with Luchairs HGEC body seam reducer
+: Robert's Male (v3, v4 or v5) and Robert's Female body mods.
+" Non-Robert's body mods, Slof's Oblivion Better Beasts.esp (included in this), Improved Facial Textures, Facial Textures by Enayla, Cobl Races Resource and Luchairs HGEC body seam reducer.
 Jjiinx_Long Ears.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp
@@ -19073,7 +19078,6 @@ Cobl Balanced Races - MMR Patch.esp
 Cobl Races Ren Names Fix.esp
 Birthsigns Expanded.esp
 \Loading here to work better with Cobl Races.
-% {{BASH: Names}}
 ? May be a bit imbalanced when used with Race Balancing Project.
 Diverse Races.esp
 % {{BASH: Body-Size-F, Body-Size-M}}
@@ -19610,6 +19614,9 @@ HTSCl_rottenfood.esp
 HTSCl_rottenfood_patch.esp
 TSSoupHouse.esp
 HTSCl_withsoups.esp
+
+OWC - Players Home.esp
+\Loaded here to avoid compatibility issues with Better Cities.
 
 TheOubliette.esp
  IF (2F16C1C5|"TheOubliette.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

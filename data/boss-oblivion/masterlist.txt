@@ -11912,6 +11912,7 @@ Improved Imperial Infrastructure.esp
 ReclaimSancreTor.esp
  IF (A92BCD32|"ReclaimSancreTor.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (7D6378B9|"ReclaimSancreTor.esp") DIRTY: 356 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D18D5D53|"ReclaimSancreTor.esp") DIRTY: 309 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 % {{BASH: Actors.AIPackages, Factions, Relations}}
 ReclaimSancreTor Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -12026,6 +12027,8 @@ Better daedric shrine Hircine.esp
  IF (BB04D78A|"Better daedric shrine Hircine.esp") DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better daedric shrine Azura.esp
  IF (8EE4EA11|"Better daedric shrine Azura.esp") DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Better daedric shrines full.esp
+ IF (5B2AC7E3|"Better daedric shrines full.esp") DIRTY: 35 ITM, 158 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HammerfellBorders.esp
 Oblivifall - Losing My Religion.esp
 % {{BASH: Hair, Invent, C.Name, C.Owner, Actors.AIPackages}}
@@ -13386,6 +13389,7 @@ Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
 Better dungeons.esp
  IF (4908CB39|"Better dungeons.esp") DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (ADC761D9|"Better dungeons.esp") DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Loot v1.0.esp
 % {{BASH: Delev}}
 $ Will totally FUBAR OOO's item scaling.
@@ -19338,6 +19342,7 @@ Better Cities - Vvardenfell Imports.esp
 
 Better Cities IC Lighting Overhaul.esp
 Better Clocks-Better Cities IC Light Overhaul.esp
+Better Clocks for Better Cities 2_0.esp
 
 Better Cities and IC Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.

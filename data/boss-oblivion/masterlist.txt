@@ -8275,7 +8275,7 @@ SYS Patch for Enchanted Druid Treehome.esp
 Adventures Gear.esp
 SYS Patch-Adventures Gear.esp
 AK_corpses_collector.esp
-AkaviriKojima.esp
+
 AlchemistsCave.esp
 AlchemistsCave-COBL.esp
  IF (5838B616|"AlchemistsCave-COBL.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10965,6 +10965,7 @@ Ushnar's Re-Skinned Hound-Wolf.esp
 \BeginGroup\: Quests V
 
 Valenwood Improved.esp
+AkaviriKojima.esp
 Valley_View_Estate.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Valley View Patch.esp

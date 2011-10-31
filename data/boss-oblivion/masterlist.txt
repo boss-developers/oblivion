@@ -694,6 +694,8 @@ Unofficial Oblivion Patch DV.esp
 Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
+UOPS Additional Changes.esp
+% {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, NPC.Class, Relev, Stats}}
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
 ? Recommend removing if using Wrye Bash. A tweak for this exists in "Tweak Settings".
@@ -3300,7 +3302,6 @@ avarm.esp
 % {{BASH: Invent}}
 0FHuntress.esp
 0FPetroBootsHGEC.esp
-
 100%ChameleonMod.esp
 1.4TheAtlanteanSword.esp
 1.4TheAtlanteanSword_leather.esp
@@ -3323,6 +3324,7 @@ avarm.esp
 1SB_WarhammerWingedStaff.esp
 1SB_RavenousEleganceOutfit.esp
 : Biu's Adventuress Body (BAB).
+1SB_SisterNightfallOutfit.esp
 1SB Soulshade Sword.esp
 1SBSoulshadeSword_1C.esp
 1SB_TerryMalick_BallGownVariants.esp

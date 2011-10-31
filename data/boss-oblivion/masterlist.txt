@@ -11798,6 +11798,8 @@ Daedric Shrine Ruins.esp
  IF (99BD9CB0|"Daedric Shrine Ruins.esp") DIRTY: 0 ITM, 753 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 " Asharnakibibi.esp, MehrunesFel.esp, Zergonipilamat.esp, MehrunesFel.esp
 Daedric Ruins House of Healing Patch.esp
+DarkBrotherhoodChronicles.esp
+% {{BASH: Actors.AIPackages}}
 Gaelendryl.esp
  IF (795872CA|"Gaelendryl.esp") DIRTY: 49 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 

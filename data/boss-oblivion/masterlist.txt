@@ -16993,6 +16993,8 @@ OSR_pose.esp
 aaa_animations.esp
 DMC Stylish - Specialanims.esp
 % {{BASH: Actors.Anims}}
+jhul_animations_specialanims.esp
+% {{BASH: Actors.Anims, NoMerge}}
 MrMuhs Sheogorath-Anims EV.esp
 Pose Compendium.esp
 SexyWitchPoses.esp

@@ -3411,6 +3411,7 @@ Ancient Silver Elven Armor.esp
 Anekdot_1C.esp
 AngelicArmor.esp
 AoC Armoury of Conan.esp
+AQ_DarkNights.esp
 Arc de Legolas.esp
 Arcelas Black Hand Armor.esp
 ArenaEyeCandyArmor.esp
@@ -3596,6 +3597,7 @@ Banes Guilds United.esp
 $ Probably not compatible with OOO. Untested.
 Banes Steel Helm Replacer.esp
 % {{BASH: Graphics}}
+BarbarianArmor.esp
 BarbarianShop.esp
  IF (11B8BA44|"BarbarianShop.esp") DIRTY: 3 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bar Maid.esp
@@ -3635,6 +3637,7 @@ Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Mirror.esp
+BlackSeraphim.esp
 BlackSoulGemArmory.esp
 Blackwire.esp
 BlackwirePNI.esp
@@ -3795,6 +3798,7 @@ cowlredux.esp
 crazy_shadow-cats.esp
 Crimson Scar Armor.esp
 Crossbows of Cyrodiil.esp
+crowbar_full.esp
 CSR - Golden Saint.esp
 % {{BASH: Graphics, Stats}}
 ChainHoods.esp
@@ -3828,6 +3832,7 @@ Colourwheels Sexy Clothing Collection.esp
 ColourWheel_Uniforms_v1.5.esp
 chainmailsdezi.esp
 CasquetteCamisoleX117.esp
+Cute Lily Armor.esp
 \EndGroup\\
 
 \BeginGroup\: Items D
@@ -3934,6 +3939,7 @@ DesuChan's Macabre Dancer.esp
 DesuChan's Stealth Gear Complete.esp
 DesuChan's Store.esp
 DFSL Leathery 4.esp
+DFSL Stylish.esp
 DFSLChina.esp
 DG Jewelry for All.esp
 DHAyleidShield.esp
@@ -4204,9 +4210,10 @@ Griffon Fortress 0.4.esp
 Griffon Fortress 0.5.esp
 Griffon Fortress 6.9.esp
 Grommash.esp
+Growlfs Animated Hair.esp
 Growlfs Hot Clothes.esp
 % {{BASH: Graphics}}
-Growlfs Animated Hair.esp
+Growlfs Royo Adaptations.esp
 GruntsSigilStones.esp
 % {{BASH: Invent}}
 GrayFoxArmor.esp
@@ -8684,6 +8691,8 @@ HackdirtCaverns.esp
 \Needs to load here to avoid messing up path grids for ABR.
 HackdirtTheDeepOnes.esp
 ? Revamp of the older mod HackdirtCaverns.esp, do not use both at the same time.
+DeepHackdairt.esp
+" HackdirtTheDeepOnes.esp and HackdirtCaverns.esp
 
 BrotherhoodRenewed.esp
 % {{BASH: Actors.AIPackages, Factions}}
@@ -13824,6 +13833,7 @@ haz_ctx_REMOVE.esp
 haz_spawn_oblivion_gates.esp
 HelmetFOV.esp
 HelmetFOV-OBSE.esp
+Herberge zum Brina Kreuz extended 1.1.esp
 HexRattCampnstyle.esp
 HideHelms.esp
 Higher Thieves' Guild Fence Amounts.esp
@@ -17808,6 +17818,7 @@ eyja.esp
 % {{BASH: C.Water}}
  IF (9FBDE389|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eyja_DV 1.0..esp
+eyja_rus.esp
 eyja Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Eyja Abriael Human Vwalk.esp
@@ -18401,6 +18412,8 @@ Companion_Ab_Human.esp
 Companion_Ab_Human_2.esp
 Companion_Ab_Human_3.esp
 Companion_Ab_Human_4.esp
+Companion-Hilda.esp
+" Companion Neeshka.esp
 Companion Maria.esp
 Companion Neeshka.esp
 % {{BASH: Hair}} for the Mystic Elf version.
@@ -19872,6 +19885,10 @@ Time-2hr-realtime.esp
 ? Use only one Respawn or Timescale mod
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 TF_timemod1-10.esp
+? Timescale mod
+? Use only one Respawn or Timescale mod
+? Use Wrye Bash Bashed Patch tweak instead where possible.
+TF_timemod1-20.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
 ? Use Wrye Bash Bashed Patch tweak instead where possible.

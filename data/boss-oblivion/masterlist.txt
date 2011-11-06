@@ -3385,6 +3385,7 @@ alllll61-Saint Silver armor.esp
 Saint_Silver_Armor.esp
 alllll61s-Templar armors beta 0.9.esp
 Alhemy.esp
+% {{BASH: Actors.AIData, Invent}}
 Alchemy Book.esp
 Alchemist's Tome.esp
 ? If using Wrye Bash use the bashed patch tweak instead.

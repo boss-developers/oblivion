@@ -82,6 +82,7 @@ Cybiades.esm
 Windfall.esm
 MooCowVolcanicIslands.esm
 MCVIVegetation.esm
+CastleWestWeald.esm
 MathFunctions.esm
 Plugin Resources.esm
 BP-CosmeticLibraryBase-Public.esm
@@ -1989,6 +1990,7 @@ EquipmentConvertor.esp
 ES4_Alchemists Reference.esp
 Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
+Even Oddities.esp
 Exploding_Arrows_free_ru.esp
 Extended Death Camera.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
@@ -2406,6 +2408,7 @@ RD-TimeKeeper-v1-3-2minUpdate.esp
 RD-TimeKeeper-v1-3-5minUpdate.esp
 RD-TimeKeeper-v1-3-ConstantUpdate.esp
 Realistic Physics.esp
+RealisticPhysics-Medium.esp
 RealitySpectre'sBetterPotions.esp
 % {{BASH: Graphics}}, if not using Wrye Bash this may have to be moved down after any overhauls to take proper effect.
  IF (E8944779|"RealitySpectre'sBetterPotions.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8457,8 +8460,6 @@ Assassin Tripwires.esp
 AST_GoldenOakVilla.esp
 AStrangeCave.esp
 Asylum.esp
-Aundae.esp
-Aundae_OBSE_addon.esp
 Auriel's Books.esp
 ^ Incompatible with Better Cities IC Market District.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8553,6 +8554,8 @@ Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
+BeyondTheRealmsOfDeath.esp
+ IF (CD2C8BD8|"BeyondTheRealmsOfDeath.esp") DIRTY: 244 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BDBS - Assassin Tripwires Patch.esp
 BDBS - Chapel Memorial.esp
 BDBS - See You Sleep Patch.esp
@@ -8721,6 +8724,8 @@ BXX Tamriel Resource Exchange.esp
 CaesarHealer.esp
 CaesarRanger.esp
 SYS Patch Caesar Ranger.esp
+Cadbury_Castle.esp
+Cardac.esp
 Casa Bella Vista.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
@@ -9147,6 +9152,7 @@ Farleum V 1.2.esp
 Faraggut_renewed.esp
 Felmoons Dawn V1.2.esp
 FFM.esp
+Fighters Guild Quests.esp
 Fists of Randagulf.esp
 Fists of Randagulf Patch.esp
 FishermansCottage.esp
@@ -10261,6 +10267,7 @@ Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
 Project Spartan.esp
+PT-AyleidSanctum.esp
 PT-AyleidSanctum-WithAltars.esp
 Punk Stevo - Brutal Underground.esp
  IF (DFB2260B|"Punk Stevo - Brutal Underground.esp") DIRTY: 9 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10705,6 +10712,10 @@ templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+TheHole.esp
+ IF (D8CE5984|"TheHole.esp") DIRTY: 57 ITM, 165 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+TheHolePt2.esp
+ IF (F880F95E|"TheHolePt2.esp") DIRTY: 4 ITM, 141 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Horror in the Village of Kuhn Dah.esp
 The Hoser Hut Bar Fights.esp
 % {{BASH: Actors.AIData, Actors.AIPackages}}
@@ -11633,6 +11644,11 @@ The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 
+Aundae.esp
+\Needs to load here for compatibility with The Lost Spires.
+Aundae_OBSE_addon.esp
+\Needs to load here for compatibility with The Lost Spires.
+
 SoT_TheOrderofNibenay.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Also requires manual cleaning of a number of wild path grid edits.
@@ -12482,6 +12498,7 @@ WaterlilyCottage-AncientYews patch.esp
 HentaiLovelyHouse2-AncientYews patch.esp
 HauntedHouseQuest-AncientYews patch.esp
 OblivionCollectibleCards-AncientYews patch.esp
+MillstoneCOBL-AncientYews patch.esp
 
 xulAncientRedwoods.esp
  IF (6387135|"xulAncientRedwoods.esp") DIRTY: 361 ITM, 734 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13085,6 +13102,9 @@ Open Cities Reborn B&M Additions.esp
 Crowded Cities for OCR.esp
 \ Needs to load after OCR plugins to prevent delinquent master warnings.
 
+OCR-East Wind.esp
+OCR-Flags Removed.esp
+
 ImpeREAL Empire - Unique Castles - All the Castles - OCC.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCR.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCR B&M.esp
@@ -13408,6 +13428,7 @@ BetterCoins.esp
 Better dungeons.esp
  IF (4908CB39|"Better dungeons.esp") DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (ADC761D9|"Better dungeons.esp") DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Betterleveledlists.esp
 Better Loot v1.0.esp
 % {{BASH: Delev}}
 $ Will totally FUBAR OOO's item scaling.
@@ -13674,6 +13695,9 @@ E0ThievesGuildFence-Medium.esp
 E0ThievesGuildFence-High.esp
 ecatSmartBookshelf.esp
 Elys Invest More.esp
+em_extrabedLeyaw.esp
+em_extrabedChey.esp
+em_extrabedBravil.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Enhanced Quest Items.esp
@@ -14191,7 +14215,7 @@ QuestItemFlagRemover.esp
 QuestItemMessage.esp
 Q - Gem Value Modifier - Realistic v1.1.esp
 % {{BASH: Stats}}
-QuiltsandWoolBlankets.esp 
+QuiltsAndWoolBlankets.esp
 \EndGroup\\
 
 \BeginGroup\: overrides R
@@ -14253,6 +14277,7 @@ ReneersTrainingMod.esp
 ReneerShipMod.esp
 ResizedPassivenQuiet.esp
 Respawning Varla & Welkynd Stones.esp
+% {{BASH: Scripts}}
  IF (49328AE8|"Respawning Varla & Welkynd Stones.esp") DIRTY: 0 ITM, 727 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Retros Fletching and Imbueing.esp
 ? May not be compatible with MMM crafting - untested.
@@ -15117,7 +15142,8 @@ RealHungerv1.4.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
 RealHungerv1.4_NO_MMM.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
-
+Real Hunger v1.4 no_MMM.esp
+? Realistic hunger mods and vampire mods may conflict seriously.
 
 RH 1.5.5 - Original Alchemy Edition.esp
 ? Realistic hunger mods and vampire mods may conflict seriously.
@@ -15382,6 +15408,7 @@ $ May have problems with OOO.
 M.O.E. - Vampire Players Scarier.esp
 Scorn's Vampirism 2.esp
 VampireExperience1.0.esp
+VampirismTweak.esp
 Better Blood Potions for Vampires.esp
 AznarsVampireShortCraving.esp
 Addendum - Vampires.esp
@@ -15474,6 +15501,7 @@ Darkness Unleashed - Bone Magick.esp
 Darkness Unleashed.esp
 Darkness Unleashed - Blood Magick.esp
 DeathKightSpells v1_3.esp
+Deflect.esp
 Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
@@ -15626,6 +15654,7 @@ Resurrection-5159.esp
 Resurrection_v_1_0.esp
 The Resurrect Spell v1.2.esp
 ThreeSpells.esp
+turnundeadrestoration.esp
 ReviveEssentials.esp
 SetEssentialActors.esp
 Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
@@ -16295,6 +16324,7 @@ Duke Patrick's Lockpick challange Manual.esp
 \
 \Overrides 'overhauls'.
 
+QDX Respawning Arrows.esp
 Attack Failure Chance v2.esp
 
 bgCombatMessage.esp
@@ -18393,6 +18423,7 @@ cssJaKhaiitMyr.esp
 ViljainAleswell.esp
 ViljainRedRoseManor.esp
  IF (1A496E57|"ViljainRedRoseManor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Vsleepinjail.esp
 \EndGroup\\
 
 Aliyah.esp
@@ -19114,6 +19145,7 @@ DBWBMR.esp
 ? Only use one willpower equals magicka resistance/weakness type mod at once.
 ArgonianFeets.esp
 % {{BASH: Invent}}
+NecromancerAndPaladinSigns.esp
 ScriptedArgonianFeet.esp
 SC_Drow Race - Skin Tone.esp
 SC_Drow Race Addon - Magic & Armor.esp

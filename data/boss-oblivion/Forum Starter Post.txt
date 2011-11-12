@@ -38,7 +38,7 @@ Past Threads:
 
 [b]Features:[/b]
 [b][list]
-[*]Correctly positions over 12,100 mods and counting, including all the mod files found in such popular mods as FCOM, OOO, MMM, Better Cities, Open Cities, Race Balancing Project and many other large mods.
+[*]Correctly positions over 13,000 TES IV: Oblivion mod plugins and counting.
 [*]Provides a large number of usage notes for many mods, including requirements, incompatibilities, updates and bug warnings.
 [*]Provides detection and warning of installation mistakes for some popular mods, such as FCOM.
 [*]Displays the version number of mods when it is available.
@@ -58,7 +58,7 @@ BOSS is designed to assist in the installation and usage of mods, especially mor
 
 [url=http://www.tesnexus.com/downloads/file.php?id=20516]Better Oblivion Sorting Software at TES Nexus[/url]
 
-BOSS is also available at [url=http://www.newvegasnexus.com/downloads/file.php?id=35999]Fallout New Vegas Nexus[/url] and [url=http://www.fallout3nexus.com/downloads/file.php?id=10193]Fallout 3 Nexus[/url]. All three sites have the same files.
+BOSS is also available at [url=http://www.skyrimnexus.com/downloads/file.php?id=6]Skyrim Nexus[/url], [url=http://www.newvegasnexus.com/downloads/file.php?id=35999]Fallout New Vegas Nexus[/url] and [url=http://www.fallout3nexus.com/downloads/file.php?id=10193]Fallout 3 Nexus[/url]. All three sites have the same files.
 
 
 [u]INSTALLATION AND USE:[/u]
@@ -92,13 +92,13 @@ General discussion, and the submission of questions, suggestions and unrecognise
 User contribution of additions and corrections to the masterlist are vital to the upkeep of BOSS. Let us know what you know.
 
 Lists of unrecognized mods are welcome but the only way we can include them in the database in a timely way is if we get: 
-[list=1]
+[list]
 [*] The ESP/ESM file name(s) and 
 [*] A link to where the description, download or readme can be found to read or download. 
 [*] A brief description of each mod will also help. Feel free to make load order suggestions.
 [/list]
 Lists of unclean mods are also very welcome, but for the report to be most useful we require:
-[list=1]
+[list]
 [*] The ESP/ESM file name(s).
 [*] The number of records removed (the ITM count) as shown by TES4Edit (not the number of records processed).
 [*] The number of records undeleted (the UDR count) as shown by TES4Edit (not the number of records processed).
@@ -132,13 +132,11 @@ For load order information:
 Some people have gone out of their way and provided continuing, expert and detailed help - thank you very much! In addition to the above, the following are credited with additional non-load-order-related support:
 
 [list]
-[*] Wrye and the rest of the Wrye Bash Team: For implementing the importing of BOSS's Bashed Patch tag suggestions and general support for BOSS into Wrye Bash.
-[*] The Beta Testing & Analysis Guild at TESAlliance: For extensive testing and giving feedback on v1.6 prior to release.
-[*] Surazal: For extensive testing and feedback during development of v1.6, and for providing the inspiration for many features through his BOSS Masterlist Manager macro for Microsoft Word.
-[*] myk002: For extensive code contributions and testing during development of v1.6+.
-[*] Hickory: For testing and feedback on v1.7+ prior to release, and providing the icon used by the BOSS and GUI executables.
-[*] andalaybay: For testing and feedback on v1.7+ prior to release.
-[*] Telyn: For testing and feedback on v1.8 prior to release.
+[*] Wrye and the rest of the Wrye Bash Team: For implementing the importing of BOSS's Bashed Patch tag suggestions and general support for BOSS into [url=http://tesnexus.com/downloads/file.php?id=22368]Wrye Bash[/url].
+[*] Surazal: For extensive testing of v1.6+ prior to release and for providing the inspiration for many features through his BOSS Masterlist Manager macro for Microsoft Word.
+[*] myk002: For extensive testing and code contributions during development of v1.6+.
+[*] Hickory: For extensive testing and for providing the icon used by the BOSS and GUI executables.
+[*] The following, for testing and feedback on v1.6+ prior to release: The Beta Testing & Analysis Guild at [url=http://tesalliance.org/forums/]TES Alliance; andalaybay; Telyn; saebel; Dubiousness; Ysne58
 [/list]
 
 The BOSS programs are written in C/C++ and make use of the BOOST, libcurl, wxWidgets and UTF8-CPP libraries. Without them, the majority of BOSS's features would probably never have been implemented.
@@ -194,6 +192,15 @@ Since June 2009, BOSS has been a collaborative project on Google Code using the 
 [*] Psymon [i](Bethesda Softworks only)[/i]
 [/list]
 
+[b]TES V: Skyrim Masterlist Developers[/b]
+[list]
+[*] AliTheLord
+[*] Arthmoor
+[*] Torrello
+[*] Vaisellias [i](Vasellias on Nexus)[/i]
+[*] ZiggyX200
+[/list]
+
 [b]Source Code Developers:[/b]
 [list]
 [*] AliTheLord
@@ -228,4 +235,4 @@ Due to a 200 maximum post limit, a new "official" thread is created periodically
 
 You must register for free to post messages.
 
-[i]Documentation updated 17 June 2011[/i]
+[i]Documentation updated 11 November 2011[/i]

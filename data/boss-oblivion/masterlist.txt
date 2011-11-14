@@ -40,8 +40,8 @@
  IF ("FCOM_Convergence.esm") || IF ("FCOM_Convergence.esm.ghost") SET: FCOM
 \ The second check is a hack until BOSS 1.9's release.
  
-\ Upgrade message for 1.7 users:
- IF (<1.8.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.8) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
+\ Upgrade message for 1.7+ users:
+ IF (<1.9.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.9) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.skyrimnexus.com/downloads/file.php?id=6", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
 \ This is the commented out version info test. It should still be displayed in the BOSSlog, just not under Oblivion.esm.
 \ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$

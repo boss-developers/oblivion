@@ -16795,7 +16795,9 @@ ProgressMercantile.esp
 Progress - RacialAdvancement.esp
 JCN_AV Uncap.esp
 Sneaking Detection Recalibrated.esp
+ IF (=4.0|"Sneaking Detection Recalibrated.esp") && IFNOT ("AddActorValues.dll") REQ: "AddActorValues.dll"
 SDR Compatibility Patches.esp
+ IF (=4.0|"Sneaking Detection Recalibrated.esp") SAY: Deprecated. Do not use with v4.0 of Sneaking Detection Recalibrated.
 
 PureImmersion.esp
 piHealth5x.esp
@@ -16823,6 +16825,10 @@ Oblivion XP - Journal Mod Patch.esp
 CoH ObXP Patch.esp
 LoversOblivionXP.esp
 Oblivion XP Character Generation.esp
+
+\These two need to load after Oblivion XP.esp.
+SDR Perks And Patches - Nehrim.esp
+SDR Perks And Patches - Oblivion.esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp

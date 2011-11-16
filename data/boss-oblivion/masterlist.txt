@@ -12723,6 +12723,8 @@ Eastbrink-SliverfishRiverValley patch.esp
 
 xulJerallGlacier.esp
 
+xulTheEasternPeaks.esp
+
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
  IF (3E7CA082|"NRB4+UL-II+LtPD Patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12776,6 +12778,7 @@ ImpeREAL Forts + Silverfish River Patch.esp
 ImpeREAL Forts + Lost Spires + Silverfish River Patch.esp
 LostSpiresImpeREALFortsPatch2.esp
 ImpeREALFortsHammerfellpatch.esp
+RST+Unique Forts Patch.esp
 
 UL II Immersive Prison Sewer exit.esp
  IF (26B755F4|"UL II Immersive Prison Sewer exit.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13222,6 +13225,8 @@ KS - Imperial FPS Boost.esp
 ^ Probably incompatible with Better Cities.
 KS - Kvatch FPS Boost.esp
 ^ Probably incompatible with Better Cities.
+
+Imperial City Redux 1.esp
 
 RedBag - Imperial City Pack.esp
 

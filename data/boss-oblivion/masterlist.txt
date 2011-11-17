@@ -3131,10 +3131,6 @@ DLCHorseArmor.esp
  IF (BAD48E5D|"DLCHorseArmor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCHorseArmor - Unofficial Patch.esp
 % {{BASH: C.Owner}}
-Marts Monster Mod - DLCHorseArmor+Slof.esp
-% {{BASH: Graphics}}
-Mart's Monster Mod - DLCHorseArmor+Slofs .esp
-% {{BASH: Graphics}}
 SM Plugin Refurbish - HorseArmor.esp
 " 'CDM-CGO Compatibility plugins'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
@@ -5510,6 +5506,23 @@ RealSwords - Breton HI.esp
 : Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
 % {{BASH: Invent}} if using overhaul mods (except FCOM).
 
+RealSwords - Dunmer LO-NPC.esp
+>* Delete. Use FCOM_RealSwords instead.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH: Invent}} if using overhaul mods (except FCOM).
+RealSwords - Dunmer LO.esp
+>* Delete. Use FCOM_RealSwords instead.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH: Invent}} if using overhaul mods (except FCOM).
+RealSwords - Dunmer HI-NPC.esp
+>* Delete. Use FCOM_RealSwords instead.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH: Invent}} if using overhaul mods (except FCOM).
+RealSwords - Dunmer HI.esp
+>* Delete. Use FCOM_RealSwords instead.
+: Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
+% {{BASH: Invent}} if using overhaul mods (except FCOM).
+
 RealSwords - Goblin.esp
 >* Delete. Use FCOM_RealSwords instead.
 : Wrye Bash for compatibility with overhaul mods like OOO/MMM/Fran's.
@@ -7278,6 +7291,10 @@ Mart's Monster Mod - Durzog Addon.esp
 Mart's Monster Mod - Slof Horses Complete.esp
 % {{BASH: Actors.AIPackages, Graphics, Scripts, Names}}
 " Slof's Horses, Slof's Extra Horses if not using a Bashed Patch.
+Marts Monster Mod - DLCHorseArmor+Slof.esp
+% {{BASH: Graphics}}
+Mart's Monster Mod - DLCHorseArmor+Slofs .esp
+% {{BASH: Graphics}}
 
 Mart's Monster Mod - Diverse RuneSkull Loot.esp
 " MMM Gems & Gem Dust or MMMforOOO.
@@ -8466,6 +8483,7 @@ Auriel's Books.esp
 ^ Incompatible with Better Cities IC Market District.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat.esp
+ IF (CB6EF46D|"Auriel's_Retreat.esp") DIRTY: 2875 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AuriCloudRulerAddons.esp
@@ -10863,6 +10881,7 @@ ThemeParkFinal.esp
 thievery.esp
  IF (D5951BC9|"thievery.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 thievery - EE patch.esp
+ReclaimSancreTor-ThieveryInTheImperialCity patch.esp
 TiansAyla_NNW.esp
 : OWC New Dimensions
 TiredVampireShipRu.esp
@@ -13226,6 +13245,8 @@ KS - Imperial FPS Boost.esp
 KS - Kvatch FPS Boost.esp
 ^ Probably incompatible with Better Cities.
 
+Imperial City Redux.esp
+ IF (C6D93343|"Imperial City Redux.esp") DIRTY: 789 ITM, 2758 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Imperial City Redux 1.esp
 
 RedBag - Imperial City Pack.esp
@@ -16371,6 +16392,7 @@ AR's Hand to Hand - 34.esp
 Armorer's Advantage.esp
 arrow damage 1_5.esp
 Arrows Extra Damage.esp
+% {{BASH: Stats}}
 AutoOffhand.esp
 Can´t touch me!.esp
 

@@ -2339,6 +2339,9 @@ PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
 PlayerSayStuff.esp
+pmRealTimeInteractions.esp
+: OBSE, MenuQue
+ IF (94805075|"pmRealTimeInteractions.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PMVisibleMapMarkersSI.esp
 Poisonous_Food-9719.esp
 Posters.esp
@@ -14220,6 +14223,12 @@ persuasioncompatable1.8.esp
 Piratelords Pice Adjustments.esp
 PTRetroactiveTraining.esp
 PhysTaps Teaser Imperial Arena_Merchants Inn.esp
+pmNPCServices.esp
+: "Real-time Interactions"
+pmPersuasionOverhaul.esp
+: "Real-time Interactions"
+pmRepairRecharge.esp
+: "Real-time Interactions"
 Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
 Potions Recolored.esp

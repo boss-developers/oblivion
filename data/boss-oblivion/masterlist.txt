@@ -8552,6 +8552,8 @@ BayOfMermaid.esp
 bazOOkasWatchTowers_v1.esp
 Beach House.esp
 BearHunt.esp
+BeastHeadInn.esp
+ IF (FC965CD1|"BeastHeadInn.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BecomeALichMod.esp
 Beginners_Dungeon.esp
 Beginners_Dungeon-7741.esp

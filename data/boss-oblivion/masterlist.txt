@@ -4350,6 +4350,7 @@ IvyArmor_Full.esp
 IvyArmor_Purple.esp
 IvyArmor_Arena.esp
 IvyArmor_Arena_Hcup.esp
+IW-HolyAvenger.esp
 \EndGroup\\
 
 \BeginGroup\: Items J
@@ -5207,6 +5208,7 @@ tda_WitchKingHelm.esp
 Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
 Teklanika's Reforged Items.esp
+Templar Cape.esp
 Ten Pace Boots.esp
 Tenko_Cloth.esp
 TestShuriken.esp
@@ -8986,6 +8988,8 @@ Sutch Reborn Spawn Patch.esp
 (DC) County Sutch - New Haven.esp
 ? it's replace (DC) Sutch Reborn.esp
 (DC) County Sutch - Owls Cove.esp
+(DC) County Sutch - Brina Cross.esp
+(DC) Ruined Eldin Bridge.esp
 
 The Dead Knights.esp
 Deathtrap Dungeon.esp
@@ -13386,6 +13390,7 @@ ANB_Item_Switchers.esp
 ANB_No_FastTravel.esp
 ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
+Animal_Resize_and_Attitude_Adjustment-3385.esp
 Anvil_MorningGlory_Mixed.esp
 APS Abundant Stones.esp
 Arena No Raiment.esp
@@ -14267,6 +14272,8 @@ Ranokoas Organized Potions Two.esp
 % {{BASH: Names, Deactivate, NoMerge}}
 Ranokoas Purchase Use Enchant Spellmake.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
+Realistic_Armor_Weights-2194.esp
+% {{BASH: Stats}}
 realistic_weapon_weights-3534.esp
 % {{BASH: Stats}}
 RedBag - Friendly Animals.esp
@@ -14755,6 +14762,8 @@ SPTDiverseGuards-LeyawiinOCR-AllRaces-Patch.esp
 \EndGroup\\
 ssjDawnDuskHotkey.esp
 spMerchant.esp
+SPTDiverseBandits.esp
+% {{BASH: Relev}}
 sr_alternate_armor_formula.esp
 Skillbased Thieves Guild Invitation_HARD.esp
 Skillbased Thieves Guild Invitation_HARDER.esp
@@ -15607,6 +15616,9 @@ MindRip.esp
 morespells.esp
 MTC EagleEyesSpell.esp
 MTC EagleEyesSpell 1.1[ENG].esp
+Mysterious Bear's Epic Necromancy + EM.esp
+ IF (A8E08203|"Mysterious Bear's Epic Necromancy + EM.esp") DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (0AB56ABA|"Mysterious Bear's Epic Necromancy + EM.esp") DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysterious Bear's Power Animals- Transparent.esp
  IF (6386DDCF|"Mysterious Bear's Power Animals- Transparent.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysterious Bear's Power Animals - Translucent.esp
@@ -17812,6 +17824,7 @@ IDKRRR_KFME4rev.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 IDKRRR_Moira_race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+IDKRRR_C_race_Female_Anime_Voice_CMV.bsa.esp
 ChimerofLight_Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 CCC.esp
@@ -19166,6 +19179,7 @@ Silverfish&bgIntegrationPatch.esp
 Appler's Passive Birthsigns.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
+Birthsigns Changed.esp
 Birthsigns Revamped.esp
 Blademan's Better Birthsigns.esp
 Blademan's New Birthsigns - Part A.esp

@@ -43,7 +43,6 @@
 \ Upgrade message for 1.7+ users:
  IF (<1.9.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.9) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.skyrimnexus.com/downloads/file.php?id=6", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
-\ This is the commented out version info test. It should still be displayed in the BOSSlog, just not under Oblivion.esm.
 \ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 
 \BeginGroup\: ESMs
@@ -11326,6 +11325,7 @@ DLCBattlehornCastle - Unofficial Patch.esp
  IFNOT (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E2C5754C|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+DLCBattlehornCastle_Expanded.esp
 DBOO - BattlehornCastle.esp
 DBOO - BattlehornCastle NO UOMP.esp
 BattlehornCastleEnhanced.esp
@@ -12812,6 +12812,7 @@ RST+Unique Forts Patch.esp
 
 UL II Immersive Prison Sewer exit.esp
  IF (26B755F4|"UL II Immersive Prison Sewer exit.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+UL Imperial Isle Prison Sewer Exit.esp
 
 exhICMO.esp
 : Better/Open Cities IC Market District Components.

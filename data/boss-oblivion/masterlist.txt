@@ -12039,6 +12039,10 @@ MTCThievesGrottoV4.1.esp
 ? Use 'ThievesGrotto-ColovianHighlands patch.esp' if using UL Colovian Highlands.
 MTCThievesGrottoV4.1 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+Aspirias Fluch.esp
+" The Unique Landscapes mods.
+ IF (46503B81|"Aspirias Fluch.esp") DIRTY: 16 ITM, 132 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+AspiriasReich.esp
 Castle_Tirith.esp
 Castle_Tirith Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}

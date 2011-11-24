@@ -9444,6 +9444,7 @@ Hunter's Haven File 1.esp
 
 \BeginGroup\: Quests I
 
+IBOC1.6BETA.esp
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
 IC_House_1_0.esp
 IC Island Estate v1.1.esp
@@ -10317,6 +10318,7 @@ QOTW013.esp
 QOTW014.esp
 QOTW011-020.esp
 QOTW Season One.esp
+ IF (315470CB|"QOTW Season One.esp") DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -12526,6 +12528,7 @@ Verwen Brewery UL Ancient Yews Compatable.esp
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
 BetterDaedricShrineVaermina-AncientYews patch.esp
+BetterDaedricShrinesFull-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
@@ -12631,6 +12634,7 @@ xulRiverEthe.esp
  IF (D3959EE4|"xulRiverEthe.esp") DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - River Ethe DV.esp
 BetterDaedricShrinesMeridia-RiverEthe.esp
+BetterDaedricShrinesFull-RiverEthe patch.esp
 BlackMarshHall-RiverEthe patch.esp
 ValleyViewEstate-RiverEthe patch.esp
 ? Update patch version to 1.1.1.
@@ -19745,6 +19749,9 @@ HTSCl_rottenfood.esp
 HTSCl_rottenfood_patch.esp
 TSSoupHouse.esp
 HTSCl_withsoups.esp
+
+IBOC-Better Citties Patch.esp
+\Citties is how it is spelled in the plugin.
 
 OWC - Players Home.esp
 \Loaded here to avoid compatibility issues with Better Cities.

@@ -505,7 +505,7 @@ Younger  Women's_1C Gold.esp
 % {{BASH: NpcFaces, NoMerge}}
 Beautiful_Women_NiceOnly.esp
 % {{BASH: NpcFaces, NoMerge}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2C6E9200|"Beautiful_Women_NiceOnly.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Beautiful_Women_DB_Addon.esp
 % {{BASH: NpcFaces, NoMerge}}
 Beautiful_Women_SI.esp
@@ -559,7 +559,7 @@ Handsome_Gents_Revised_SI.esp
 % {{BASH: NpcFaces, NoMerge}}
 emperorface.esp
 % {{BASH: NpcFaces, NoMerge}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AA25A555|"emperorface.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Absolutely_Sexy_MarketDistrict.esp
 % {{BASH: NpcFaces, Invent}}
 YoungerNPCs.esp
@@ -617,7 +617,8 @@ Allies for Bruma Fix.esp
 Anvil visible castle.esp
 Arcana Restored.esp
 ? Obsolete. Remove this and use the latest version of the UOP instead.
-? 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (69D1D5E0|"Arcana Restored.esp") DIRTY: 1 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C954DEB3|"Arcana Restored.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Erthor_Fix-2593.esp
 ? Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
@@ -2138,8 +2139,12 @@ $ Not compatible with OOO. Already included in OOO.
 Security Rebalance-Traps and Bash Locks.esp
 Lyn-CitySigns.esp
 Lyn-DarkBrotherhoodAssassins.esp
+Morag Tong Assassins v1-1.esp
+ IF (EBABFCE8|"Morag Tong Assassins v1-1.esp") DIRTY: 56 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Morag Tong Assassins(V1.2).esp
+ IF (EE106B87|"Morag Tong Assassins(V1.2).esp") DIRTY: 54 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Morag Tong Assassins(V1.3).esp
-? 54 ITM, 0 UDR Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6D3B25D4|"Morag Tong Assassins(V1.3).esp") DIRTY: 54 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
 LostTelvanniCodex.esp
@@ -2148,7 +2153,7 @@ Luchaire's Neck Seam Concealer.esp
 skinfix.esp
 Lyn-StoriesFromTheSeaMod.esp
 % {{BASH: Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (182A6977|"Lyn-StoriesFromTheSeaMod.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 L's Mounted Looting.esp
 Ls Rentable Player Homes.esp
 \EndGroup\\
@@ -2348,11 +2353,12 @@ Pitchable_Tent_anywhere.esp
 Poisonous Apple for poison fix.esp
 Portable Bedroll.esp
 Portable Campsite.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EDD4B869|"Portable Campsite.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Camping.esp
 PotionMixer.esp
 P1DseeYouSleep - Portable Campsite.esp
 Portable Campsite - Quickstart.esp
+ IF (FE300F35|"Portable Campsite - Quickstart.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P1dSeeYouSleep - Portable Campsite - Quickstart.esp
 Faction_Rank_Fix-5862.esp
 PrivateQuarters.esp
@@ -2382,8 +2388,13 @@ Qarls_logs.esp
 TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
 ? Outdated. Update to V3+.
+ IF (275D6C94|"QQuix - Rock, rock, rock your ship - V2.0.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DD45007E|"QQuix - Rock, rock, rock your ship - V2.0.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QQuix - Rock, rock, rock your ship - V3.esp
-? 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2E1085A5|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DA6F223C|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E4A111C4|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2AE99607|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QuickEquipSwap.esp
 : OBSE
 
@@ -2708,7 +2719,7 @@ Living Economy - SI.esp
 SI Living Economy.esp
 ? Outdated. Update to latest version.
 Living Economy - Items.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1F0A2AB8|"Living Economy - Items.esp") DIRTY: 10 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cutthroat Merchants.esp
 Cyrodiil Economic Overhaul.esp
 
@@ -2870,8 +2881,8 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 
 ANBToggleGrab.esp
 AutoEquip.esp
-: OBSE (version unknown, use latest to be safe).
-? Contains a dirty edit to the GREETING Dialog Topic. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+: OBSE
+ IF (A0675EA6|"AutoEquip.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auto_Recharge.esp
 AutomaticPatrols.esp
  IF ("DynamicLeveledLists.esp") ERROR: DELETE. Included in Dynamic Leveled Lists mod
@@ -3060,7 +3071,7 @@ BeyondCyrodiilMarkers.esp
 Guild Map Markers.esp
 HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1664DA76|"HouseMapMarkersOnlyBought.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 JQ-PortableSigns.esp
 MapMarkers.esp
 MapMarkers_1C.esp
@@ -3451,10 +3462,10 @@ armored coats.esp
 Armored Robes.esp
 Armor_skirts.esp
 % {{BASH: Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (148628BC|"Armor_skirts.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armor_skirts_nonlvl.esp
 % {{BASH: Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BDD952BE|"Armor_skirts_nonlvl.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armor of the Dark Lord.esp
 ArmorOfTheFallen.esp
 Armory of the Silver Dragon.esp
@@ -3464,7 +3475,7 @@ Armure du Seigneur Noir.esp
 ArynnsDemonatrixHGEC.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AB73F59D|"MODAssassinsCreed2_Revisited.esp") DIRTY: 3 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Female Assassins Creed - Altair's Gear - EV.esp
 Female Assassins Creed - Altair's Gear - DV.esp
 AC2-Revisited_DV.esp
@@ -3725,7 +3736,7 @@ Burningweapons.esp
 bustersword.esp
 Buster Sword R.esp
 BrivasArmor.esp
-? 11 ITM 0 UDR  records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5B43D642|"BrivasArmor.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 brotherhood.esp
 BW Armory.esp
 BWisteria.esp
@@ -3923,7 +3934,7 @@ Dark Katana.esp
 % {{BASH: Invent}}
 DarkLeatherArmor.esp
 % {{BASH: Invent}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F67F213E|"DarkLeatherArmor.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dark Mithril Armour.esp
 % {{BASH: Invent}}
 DarkMonkRobe.esp
@@ -8722,6 +8733,7 @@ HackdirtCaverns.esp
 \Needs to load here to avoid messing up path grids for ABR.
 HackdirtTheDeepOnes.esp
 ? Revamp of the older mod HackdirtCaverns.esp, do not use both at the same time.
+ IF (9294634B|"HackdirtTheDeepOnes.esp") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DeepHackdairt.esp
 " HackdirtTheDeepOnes.esp and HackdirtCaverns.esp
 
@@ -12529,6 +12541,7 @@ Verwen Brewery UL Ancient Yews Compatable.esp
 SentientWeaponII-AncientYews patch.esp
 ZSkeletonHorse-AncientYews patch.esp
 BetterDaedricShrineVaermina-AncientYews patch.esp
+BetterDaedricShrinesVaermina-AncientYews patch.esp
 BetterDaedricShrinesFull-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
@@ -12635,6 +12648,7 @@ xulRiverEthe.esp
  IF (D3959EE4|"xulRiverEthe.esp") DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - River Ethe DV.esp
 BetterDaedricShrinesMeridia-RiverEthe.esp
+BetterDaedricShrinesMeridia-RiverEthe patch.esp 
 BetterDaedricShrinesFull-RiverEthe patch.esp
 BlackMarshHall-RiverEthe patch.esp
 ValleyViewEstate-RiverEthe patch.esp
@@ -12763,6 +12777,7 @@ Eastbrink-SliverfishRiverValley patch.esp
 xulJerallGlacier.esp
 
 xulTheEasternPeaks.esp
+Eastern Peaks - Dwemer Ruins Patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -12774,6 +12789,7 @@ ULII-Roads-Patch.esp
 LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
+BetterDaedricShrinesFull-UniqueLandscapes patch.esp
 EtInArkay-UniqueLandscapes Merged patch.esp
 DwarvenMines-UniqueLandscapes Merged patch.esp
 GoldenCrest-UniqueLandscapes Merged patch.esp
@@ -13523,6 +13539,7 @@ Enchanted Portable Tent for Cobl.esp
 Enchanted Portable Tent - AN Patch.esp
 Enchanted Portable Tent - See You Sleep Patch.esp
 Enchanted Portable Tent - SYS Patch.esp
+Enchanted Portable Tent - Alt Hotkey Patch.esp
 Bonds Big Portable Tent.esp
 SYS Patch-Bond's Big Portable Tent.esp
 phinix_portable_tent.esp

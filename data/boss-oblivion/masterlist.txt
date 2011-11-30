@@ -9435,6 +9435,7 @@ Horse Dreamland.esp
 HouseFires.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
+House Valranis.esp
 HomeInWeyeRu.esp
 Housewives v101.esp
 Hale Housing.esp
@@ -20551,6 +20552,7 @@ ViconiaChapterTwo Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 UnderdarkSaga.esp
  IF (453742B9|"UnderdarkSaga.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ViconiaTweaks.esp
 UdarkSagaFFF.esp
 UnderdarkSaga v1.2 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.

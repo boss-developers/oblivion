@@ -7854,7 +7854,7 @@ WAC - Dead Knights Fix.esp
 WAC - Player Summons.esp
  IF (77FF1D67|"WAC - Player Summons.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Birds&Insects.esp
-? 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (34E5DAEC|"WAC - Birds&Insects.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Companions.esp
 % {{BASH: Factions}}
 WAC - Horses.esp
@@ -11425,6 +11425,8 @@ DLCFrostcrag - Unofficial Patch.esp
 DLCFrostcrag Disannoyed.esp
 Frostcrag Reborn.esp
 DLCFrostcrag Reborn.esp
+? Outdated. Upgrade to the latest version of Frostcrag Reborn De-Isolated.
+DLCFrostcragReborn.esp
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp
@@ -15526,6 +15528,9 @@ BloodIsEverything.esp
 BIE.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
+Vampire Power.esp
+Vampire Power - Light of Day.esp
+Vampire Power - Hindaril.esp
 Nekhanimal's Awesome Vampire Mod.esp
 NAVM GREETING fix.esp
 Duke Patricks Nosferatu Vampires.esp

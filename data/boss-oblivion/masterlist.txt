@@ -4061,7 +4061,7 @@ Elven Weapon Replacements.esp
 ElyndasLostDressesHGEC.esp
 Elwing.esp
 Emarion Equipment.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A71070B4|"Emarion Equipment.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 ercGigerBattleclaws_EV.esp
@@ -4447,7 +4447,7 @@ KitRae Exotic Dual Remake.esp
 kitsune.esp
 Knight of Order Armor.esp
 Knight of Skeleton.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (79E857E0|"Knight of Skeleton.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 KnightSlayerSet2.esp
 Kodachi Swords.esp
 KohdiBladesofAnkewan.esp
@@ -4546,11 +4546,13 @@ Lost_Akiviri_Armor.esp
 LSBSkullWeapons.1.esp
 % {{BASH: Invent}}
  IF (ADCE83E6|"LSBSkullWeapons.1.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CDB7D4E1|"LSBSkullWeapons.1.esp") DIRTY: 2406 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
 %{{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Invent, NPC.Class, Names, NpcFaces, Relev}}
 ? 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LSB Skull Weapons (Clean).esp
+ IF (19B24219|"LSB Skull Weapons (Clean).esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 0FLeatherSuitV2.esp
 \EndGroup\\
 
@@ -4593,7 +4595,8 @@ MODRoadRogue.esp
 moon.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AA6DD529|"Morrigan Swords Axes and Shield by Jojjo v1_1.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (AA6DD529|"Morrigan Swords Axes and Shield by Jojjo v1_1.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MotherSword.esp
 LACR_MoonshadowBlade_V1.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
@@ -4781,9 +4784,18 @@ pale_rider's DragonhunterReloaded.esp
 pale_rider's Hats.esp
 pale_rider's Nordic Warrior Armor.esp
 pale_rider's Paladin Equipment_enchanted_eng.esp
+ IF (A277829D|"pale_rider's Paladin Equipment_enchanted_eng.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2E665F07|"pale_rider's Paladin Equipment_enchanted_eng.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+pale_rider's Paladin Equipment_enchanted_ger.esp
+ IF (E3CF4E28|"pale_rider's Paladin Equipment_enchanted_ger.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6283824C|"pale_rider's Paladin Equipment_enchanted_ger.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 pale_rider's Paladin Equipment_enchanted_RU.esp
 pale_rider's Paladin Equipment_unenchanted_eng.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2F89323|"pale_rider's Paladin Equipment_unenchanted_eng.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D2F29B7A|"pale_rider's Paladin Equipment_unenchanted_eng.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+pale_rider's Paladin Equipment_unenchanted_ger.esp
+ IF (99E1B373|"pale_rider's Paladin Equipment_unenchanted_ger.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D66CA2FA|"pale_rider's Paladin Equipment_unenchanted_ger.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ParaClothes.esp
 ParalyzeArrow.esp
 Pauldron.esp
@@ -4793,7 +4805,9 @@ Pekka_Shields_Heavy.esp
 PEDress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (88C21554|"PhoenixEquipment.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+PhoenixWithoutArmorflame.esp
+ IF (4AA60013|"PhoenixWithoutArmorflame.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PinkGlassArmor.esp
 % {{BASH: Graphics}}
 Piratelords Recharging Enchantments.esp
@@ -4938,7 +4952,7 @@ Sang_Noir.esp
 Santa Babe.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F496AE96|"Sauron_Armor_Chest.esp") DIRTY: 5 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Scarves!.esp
 Scholomance armor.esp
 Schwertleite Armor.esp
@@ -5211,11 +5225,11 @@ Taokaka am.esp
 tda_Armoury_BETA.esp
 tda_Armoury Beta v1_2.esp
 tda_Armoury.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E1B7E45F|"tda_Armoury.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 tda_PHModv1.2.esp
 tda_ScytheModv1.2.esp
 tda_WitchKingHelm.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (744A186B|"tda_WitchKingHelm.esp") DIRTY: 4 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
 Teklanika's Reforged Items.esp
@@ -5393,7 +5407,6 @@ VCTestRing.esp
 vermillionandsilverthorn.esp
 Villain's Arsenal.esp
 Vin Swords.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 volkoth.esp
 VSPTensaZangetsu.esp
 RFHighHeels HGEC Vipcxj.esp
@@ -5418,7 +5431,7 @@ WarriorsRobe.esp
 Western Armor.esp
 Westwind_Rogue_HGEC.esp
 witchkingsword.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (65F472B4|"witchkingsword.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WizardWear.esp
 Wyrmfang.esp
 White Leather Armor.esp
@@ -6082,7 +6095,7 @@ UFF & RM Dark Daedric Armor.esp
 UFF & RM Elegant Vests.esp
 UFF & RM Extra Robe Pack.esp
 UFF & RM Gold and Silver Daedric Armor.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9DFB019|"UFF & RM Gold and Silver Daedric Armor.esp") DIRTY: 10 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 UFF & RM Vermillion and Silverthorn Robes.esp
 UFF & RM Warrior Skin.esp
 UFF & ROBERT Assassin Elite Armor.esp
@@ -7378,7 +7391,7 @@ OWC - Mannequin.esp
 OWC - Seaworld.esp
 OWC - New Dimension.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6450282|"OWC - New Dimension.esp") DIRTY: 198 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OWC - New Dimension UOP.esp
 OWCND EnPath.esp
 OWC - VanilaLevelUp.esp

@@ -11413,8 +11413,6 @@ DLCFrostcrag.esp
  IF (9B056616|"DLCFrostcrag.esp") DIRTY: 3 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E3DACFFD|"DLCFrostcrag.esp") DIRTY: 0 ITM, 131 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (641C4EC0|"DLCFrostcrag.esp") DIRTY: 0 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-DLCFrostcragReborn.esp
-? Dummy esp for use with The Ayleid Steps.
 DSoSFrostCragRebornExteriorStairsFix.esp
  IF (D2621E65|"DSoSFrostCragRebornExteriorStairsFix.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kvatch Rebuilt_Frostcrag Reborn.esp
@@ -11427,6 +11425,7 @@ Frostcrag Reborn.esp
 DLCFrostcrag Reborn.esp
 ? Outdated. Upgrade to the latest version of Frostcrag Reborn De-Isolated.
 DLCFrostcragReborn.esp
+? If dummy esp for use with The Ayleid Steps consider updraging to Frostcrag Reborn De-Isolated.
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp

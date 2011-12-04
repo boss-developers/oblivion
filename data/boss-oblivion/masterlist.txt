@@ -15462,6 +15462,7 @@ KINewVampires.esp
 LTDVampireOverhaul.esp
  IF (BC307C34|"LTDVampireOverhaul.esp") DIRTY: 53 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
+MIVs Vampire Overhaul RUS.esp
 PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
 ? Old update to 'Twillith vampirism.esp'.

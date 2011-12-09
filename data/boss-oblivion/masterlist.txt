@@ -101,6 +101,8 @@ Uncommon GUI.esm
 Skingrad24Vars.esm
 IWRRetrofittedMaster.esm
 Improved Leveling System.esm
+Oblivion Common Alternate Start.esm
+Oblivion Common Alternative Start- No CG.esm
 Natural Interiors.esm
 AWS-Core.esm
 EnhancedWeather.esm
@@ -1633,6 +1635,7 @@ Ayleid Coin Add-on.esp
 ? Do not use with OOO, COBL, MMM G&GD - included. If using Fran use 'Fran-Ayleid Coin Add-on.esp' instead.
 Ayleid Loot EXtension.esp
 % {{BASH: Invent}}
+ IF (=2.11|"Ayleid Loot EXtension.esp") REQ: Cobl
 Ayleid Loot EXtension - OOO Dungeons.esp
 Azura's Soul-ob.esp
 Amulet of Magicka.esp
@@ -1703,6 +1706,7 @@ Bosmer Meat Mandate.esp
 Bottledbloodv1.esp
 Brandy.esp
 $ Not compatible with OOO. OOO contains a similar mod.
+BRG Food And Ingredients.esp
 BAKAdventurerTorch.esp
 : OBSE 20+.
 bnmDLTIC-1-6.esp
@@ -7413,6 +7417,7 @@ OWC - KelbQuenitoArgonian.esp
 % {{BASH: Names, NPC.Race}}
 OWC - ND Old Loadingscreens Patch.esp
 OWC - NoHarvestFlora.esp
+OWC-ND No Harvest.esp
 OWC - TGPatch.esp
 OWC - No Serial Killers.esp
 OWC - NoSerialKillers.esp
@@ -7889,6 +7894,14 @@ WACESM_Ingredients_Rebalance.esp
 WAC-OOO.esp
 WAC - Cat Crash Fix.esp
 % {{BASH: Actors.Skeleton, NoMerge}}
+
+WAC - Female Armor Refine-No Low Body.esp
+% {{BASH: Graphics}}
+ IF (24FF137B|"WAC - Female Armor Refine-No Low Body.esp") DIRTY: 87 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WAC - Female Armor Refine.esp
+% {{BASH: Graphics}}
+ IF (87D74399|"WAC - Female Armor Refine.esp") DIRTY: 40 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -8946,7 +8959,7 @@ Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
 CV - Templar Fortress.esp
-? 50 ITM, 892 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (44E1671|"CV - Templar Fortress.esp") DIRTY: 50 ITM, 892 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CyrilliansStaff.esp
 CyrilliansStaff v1.0 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -10610,6 +10623,7 @@ Skingrad_House_Basement_Addon-4110.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
+: "Cobl Main.esm", OBSE, Elys Universal Silent Voice, Shivering Isles
 Skingrad Market - MoC 1.0.esp
 SkoomaRefiningAddictionEnhanced.esp
 SK.esp
@@ -10804,6 +10818,7 @@ TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp
 Theryon.esp
 Templar Fighters Guild.esp
+ IF (43631980|"Templar Fighters Guild.esp") DIRTY: 12 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CHEAT - TempleofNirn.esp
 Temple_Of_Zealots.esp
 ? Check out version 2
@@ -11981,6 +11996,7 @@ ElsweyrAnequinaNoSpiders.esp
 ElsweyrAnequinaFemaleBody.esp
 % {{BASH: Body-F, Body-Size-F}}
 Elsweyr plantations & co..esp
+ IF (38EFADEA|"Elsweyr plantations & co..esp") DIRTY: 0 ITM, 137 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 : ElsweyrAnequina.esp
 Elsweyr plantations & co. Southland Plantation.esp
 : ElsweyrAnequina.esp
@@ -12001,6 +12017,7 @@ Elsweyr Valenwood Daedric Shrine Patch.esp
 SLWA_Anequina_Patch.esp
 SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
+ IF (594A8E9B|"Walkabout.esp") DIRTY: 27 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
 : 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
@@ -12013,12 +12030,15 @@ ReclaimSancreTor.esp
  IF (A92BCD32|"ReclaimSancreTor.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (7D6378B9|"ReclaimSancreTor.esp") DIRTY: 356 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (D18D5D53|"ReclaimSancreTor.esp") DIRTY: 309 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D7E41ACB|"ReclaimSancreTor.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 % {{BASH: Actors.AIPackages, Factions, Relations}}
 ReclaimSancreTor Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 
 road+bridges.esp
  IF (CA103402|"road+bridges.esp") DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Fighters Guild Quests - Roads and Bridges Patch.esp
+
 Hemingweys Capes for NRB.esp
 NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
@@ -12141,6 +12161,7 @@ Oblivifall - Losing My Religion KOTN.esp
 % {{BASH: Actors.AIPackages}}
 Oblivifall - Losing My Religion_HOTD_Patch.esp
 Oblivifall - Losing My Religion Blood&Mud.esp
+ IF (128C5F11|"Oblivifall - Losing My Religion Blood&Mud.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Sutch Reborn.esp
 
 \BeginGroup\: Tamriel Worldspace Modding Project
@@ -12406,6 +12427,7 @@ Hammerfell-ColovianHighlands patch.esp
 ThievesGrotto-ColovianHighlands patch.esp
 DwarvenMines-ColovianHighlands patch.esp
 OWC - ND UL Colovian Highlands Patch.esp
+ IF (CBD9DCFD|"OWC - ND UL Colovian Highlands Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trails of Cyrodiil - Colovian Highlands UL.esp
  IF (C5EBDE40|"Trails of Cyrodiil - Colovian Highlands UL.esp") DIRTY: 109 ITM, 64 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -12474,6 +12496,7 @@ ArcaneRising-LostCoast patch.esp
 ShipwreckHome-LostCoast-SutchReborn patch.esp
 DwarvenMines-LostCoast patch.esp
 WAC - xulBCLostCoast.esp
+ IF (905F14AF|"WAC - xulBCLostCoast.esp") DIRTY: 2 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hammerfell+UL Lost Coast Patch.esp
 CountySutchOwlsCove-LostCoast patch.esp
 
@@ -12618,6 +12641,7 @@ CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
 OWCND - UL Arrius Creek Patch.esp
+ IF (7EC34CF0|"OWCND - UL Arrius Creek Patch.esp") DIRTY: 13 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dschinni - UL Arrius Creek Patch.esp
 Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
@@ -12773,11 +12797,13 @@ OblivionCollectibleCards-Snowdale patch.esp
 OOO-Snowdale Patch.esp
 RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
+GatesToAesgaardEp2-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
  IF (701EF543|"xulCliffsOfAnvil.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Cliffs Of Anvil DV.esp
 OOOCliffsofAnvilPatch.esp
+OOO-CliffsOfAnvil patch.esp
 xulCliffsOfAnvil Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 KragenirsDeathQuest-CliffsOfAnvil patch.esp
@@ -12794,6 +12820,9 @@ BanditHideouts-SilverfishRiverValley patch.esp
 Eastbrink-SliverfishRiverValley patch.esp
 
 xulJerallGlacier.esp
+OOO-JerallGlacier patch.esp
+GatesToAesgaardEp1-JerallGlacier patch.esp
+CurseofHircine-JerallGlacier patch.esp
 
 xulTheEasternPeaks.esp
 Eastern Peaks - Dwemer Ruins Patch.esp
@@ -12869,6 +12898,7 @@ Oblivifall - Losing My Religion West Roads Patch.esp
  IF (1B777711|"Oblivifall - Losing My Religion West Roads Patch.esp") SAY: Needs Wrye Bash's "Remove World Orphans" fix.
  IF (1489007C|"Oblivifall - Losing My Religion West Roads Patch.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Kvatch Rebuilt West Roads Patch.esp
+ IF (EDF95E8A|"Oblivifall - Losing My Religion Kvatch Rebuilt West Roads Patch.esp") SAY: Needs Wrye Bash's "Remove World Orphans" fix.
 
 xleyawiinSwamp.esp
 xulImperialCitySewerExits.esp
@@ -13242,6 +13272,7 @@ DBOO - Open Cities Outer Districts.esp
 DBOO - OpenCitiesFull + Outer Districts.esp
 ? Use only one 'DBOO - OpenCitiesFull.esp' or 'DBOO - Open Cities Outer Districts.esp' or 'DBOO - OpenCitiesFull + Outer Districts.esp'
 Sounds of Cyrodiil - OC Reborn Patch.esp
+ IF (408C9E1F|"Sounds of Cyrodiil - OC Reborn Patch.esp") DIRTY: 1 ITM, 35 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 RST+OCC Patch.esp
 OCC+DBC Patch.esp
 OCR+DBC Patch.esp
@@ -13513,6 +13544,7 @@ Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
 Better dungeons.esp
+% {{BASH: C.Water}}
  IF (4908CB39|"Better dungeons.esp") DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (ADC761D9|"Better dungeons.esp") DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Betterleveledlists.esp
@@ -15190,6 +15222,9 @@ Kobu's Skip Intro Mod.esp
 MQSDone.esp
 
 newstartV3.esp
+
+OCAS-Example.esp
+OCAS-Player Override.esp
 
 quickstart.esp
 Quickstart_DV.esp
@@ -17077,6 +17112,8 @@ CTAddPose_AttackPrep.esp
 CTAddPose_ryk0.esp
 CTAddPose_Chaos.esp
 
+EC's Auto-Standing Idle.esp
+
 DanceSyncEng.esp
 
 Goma Pose 1.esp
@@ -17120,6 +17157,7 @@ HAZeatanimations.esp
 SeductiveIdle.esp
 SeductiveIdles.esp
 ? 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SeductiveIdlesgloomfrostcustom.esp
 Idle Pose Replacer.esp
 Idle Stance Replacer.esp
 actors_in_charge.esp
@@ -17998,9 +18036,6 @@ Ahtata_Khabaxi.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 ahtata dremora.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
-Ahtata Arquamer spike4hair.esp
-% {{BASH: NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-Size-F, Body-M, Body-Size-M}}
-? a report that this only works after the bashed patch has been recieved, so if it doesn't work try moving it down.
 Ahtata Arquamer female got hair.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 ahtata Ork.esp
@@ -18907,6 +18942,7 @@ DiverseDremoraRBPCosmetics.esp
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}
+CWRaceFix.esp
 \EndGroup\\
 
 \BeginGroup\: Body and head changes
@@ -19217,6 +19253,7 @@ bgIntegrationEV - Stock Dailog, Integrated!.esp
 bgIntegrationEV - Alternative NPC Faces by LazyMonk.esp
 % {{BASH: NpcFaces, NoMerge}}
 bgIntegrationEV - Unique Clothes.esp
+bgIntegrationEV+-+COBL.esp
 OC+Integration Patch.esp
 OCR + Integration Patch.esp
 OCRAnvil+Integration Path Grid Fix.esp
@@ -19381,6 +19418,8 @@ Better Cities IC Waterfront FPS Patch.esp
 Better Cities Resources Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Better Cities - All Natural.esp
+
+Better Cities - Dark Brotherhood Chronicles.esp
 
 Better Cities Full Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
@@ -20734,6 +20773,10 @@ Creeper.esp
 DynamicLeveledLists.esp
 
 Mart's Monster Mod - Diverse Runeskulls Loot beta Place After Bashed Patch.esp
+
+Ahtata Arquamer spike4hair.esp
+% {{BASH: NpcFaces, Hair, Eyes, R.Relations, Body-F, Body-Size-F, Body-M, Body-Size-M}}
+\ Received confirmation that this must load after Bashed Patch.
 
 no_mouse_wheel.esp
 LoversIdleForceReset.esp

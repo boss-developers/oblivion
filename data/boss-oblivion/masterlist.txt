@@ -3088,6 +3088,7 @@ Order_Obelisk_Mark.esp
 ShadowbanishMap.esp
 ShowDaedricShrines.esp
 ShrineMarkers.esp
+Single City Map Markers.esp
 StoneMarkers.esp
 TWMP_MapMarkers_HighRock.esp
 Unmarked places map markers.esp
@@ -6241,6 +6242,7 @@ TJ_HorseNames.esp
 % May need {{BASH: Names}} . Untested.
 Essential Unicorn-TESSource.esp
 Imperial Horse Armor.esp
+Mount Interaction.esp
 Mounted_Steering.esp
 Mounted_Spellcasting.esp
  IF (D60BCB81|"Mounted_Spellcasting.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11664,7 +11666,7 @@ CybHardest.esp
 ? only use one Cybiades difficulty plugin
 Cybiades Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
-Cybiades v2.1 Delayer
+Cybiades v2.1 Delayer.esp
 
 Castle_Knightstone.esp
 
@@ -15229,7 +15231,9 @@ MQSDone.esp
 newstartV3.esp
 
 OCAS-Example.esp
+OCAS- Example.esp
 OCAS-Player Override.esp
+OCAS- Player Override.esp
 
 quickstart.esp
 Quickstart_DV.esp
@@ -15661,6 +15665,7 @@ Nighteye Glasses.obse.esp
 ForecastersWill.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
+grmblf Weather Spell.esp
 Healers.esp
 hilarity_121.esp
 hunters_performance.esp

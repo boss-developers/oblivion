@@ -1887,6 +1887,7 @@ CorpsePreserver.esp
 CrimsonScarArmor.esp
 % {{BASH: Invent}}
 crfo.esp
+CrownJewels.esp
 Cryptic Festive Ayleid Dining Set.esp
 % {{BASH: Names, Graphics, Stats}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5952,6 +5953,7 @@ Neo-Twilek Dancers.esp
 NoelCosplay.esp
 New Exnem Compatible Armors.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
+N_Undies.esp
 
 Opale armor for Exnem body.esp
 
@@ -6022,6 +6024,7 @@ Skeuomorph_LBD.esp
 Slof's Beefcake Armors.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH: Graphics}}
+Slofs Elaborate Robe Exnemized - EV.esp
 Sorceressofthestorm.esp
 SPB Blue Dress.esp
 SPB Light Armor 2.esp
@@ -7717,6 +7720,7 @@ OOO-No_Clutter_Ownership.esp
 
 OOOLivingEconomyWornRebalance.esp
 
+No Ghostly Apparition.esp
 NpcwithJobsCreatures4MMM.esp
 NpcwithJobsCreatures4000.esp
 
@@ -12830,6 +12834,8 @@ xulJerallGlacier.esp
 OOO-JerallGlacier patch.esp
 GatesToAesgaardEp1-JerallGlacier patch.esp
 CurseofHircine-JerallGlacier patch.esp
+AyleidRuinsExpanded-JerallGlacier patch.esp
+BlackrockMountain-JerallGlacier patch.esp
 
 xulTheEasternPeaks.esp
 Eastern Peaks - Dwemer Ruins Patch.esp
@@ -13452,6 +13458,10 @@ lTrainingseinheiten erhalten.esp
 2375-0.1-Less Random Oblivion gates-TESSource.esp
 300_Test.esp
 3_small_changes_1C.esp
+354_Improved_Marobel_horse_immortal.esp
+IF ("355_Improved_Maborel_horse.esp") SAY: Use only one of the Improved Marobels Horse plugins.
+355_Improved_Maborel_horse.esp
+IF ("354_Improved_Marobel_horse_immortal.esp") SAY:  Use only one of the Improved Marobels Horse plugins.
 \EndGroup\\
 
 \BeginGroup\: overrides A
@@ -15675,6 +15685,8 @@ Illusionary Summons.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp
+IshMountedCombatSpellsOnSelf.esp
+: OBSE
 JADPolymorphSpellv3.esp
 Jhaeriks 10x Duration Conjuration Mod 1.1.esp
 Lockpicking Spells.esp
@@ -16192,6 +16204,8 @@ Potion 430.esp
 Poison Maker v1.08.esp
 Potion Mixer.esp
 PotionPurify_en.esp
+Potion_Sorter-2081.esp
+% {{BASH: Names}}
 Potion_Unlimiter-1948.esp
 Alchemy Expansions - Essence Extracter.esp
 Alchemy Expansions - Poison Combiner.esp

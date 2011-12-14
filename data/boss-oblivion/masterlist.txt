@@ -8305,6 +8305,7 @@ adTH-druidsdomain.esp
 : COBL and Shivering Isles
 Adventurers farm.esp
 Adventurers Guild.esp
+Aetheric Cuteblade.esp
 A Family Problem.esp
 AG_Wegschreine.esp
 AGC-TARDISoutside.esp
@@ -10132,6 +10133,10 @@ My Farm House.esp
 Mysterious Bear's Ramshackle Armory.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MyTentHome.esp
+Myths and Legends.esp
+? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
+mythsandlegends.esp
+? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 \EndGroup\\
 
 \BeginGroup\: Quests N
@@ -10915,6 +10920,7 @@ EmperorMod.esp
 TEC-OC_or_OBC_patch.esp
 TEC_4ERA_Dialog_Filter.esp
 
+(DC)The Legend of San Kor.esp
 (DC) The Pride of Wolfs Gate.esp
 (DC) The Way of the Necromancer - Light.esp
 TheFeedBag.esp
@@ -12460,11 +12466,6 @@ WeynonRetreat-ChorrolHinterland-Patch.esp
 TrailsOfCyrodiil-ChorrolHinterland patch.esp
 HoarfrostCastle-ChorrolHinterland patch.esp
 WAC-ULchorrolhinterland-patch.esp
-
-Myths and Legends.esp
-? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
-mythsandlegends.esp
-? May cause NPCs to generate the message "The ghosts mouth moves but you cannot hear what he says."
 
 xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6.3 or later.

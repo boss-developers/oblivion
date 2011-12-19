@@ -188,6 +188,7 @@ Hemingweys Capes Improved.esm
 Underwear HGEC Fighter.esm
 Underwear HGEC Normal.esm
 DremoraCompanion.esm
+Romance Air.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
 Better Cities Resources.esm
@@ -2919,6 +2920,7 @@ Duke Patricks - Friendship Ring For Companion Detection.esp
 ? Required if using any of Duke Patricks' mods with companion mods.
 Duke Patricks - Philosophers Stone Artifacts.esp
 Duke Patricks - Safe Save.esp
+DW_ARES.esp
 
 Enhanced Seasons.esp
 ExPCB.esp
@@ -6192,6 +6194,7 @@ Slof's Horses HA Essential.esp
 % {{BASH: Graphics}}
 Slof's Extra Horses.esp
 % {{BASH: Graphics}}
+ IF (8BA333FA|"Slof's Extra Horses.esp") DIRTY: 28 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Slof's Black Unicorn.esp
 % {{BASH: Graphics}}
 Slof's Nightmare.esp
@@ -6204,6 +6207,7 @@ HS-Horse-Unico.esp
 Tyler's Horses.esp
 HRMHorseArmor.esp
 % {{BASH: Graphics}}
+ IF (452EB6FF|"HRMHorseArmor.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HRMHorseArmorSlofsHorsesPatch.esp
 % {{BASH: Graphics}}
 HRMHorseArmorSlofsHorsesPatch20.esp
@@ -6915,6 +6919,7 @@ MALO - Loot Tweaks FRAN.esp
 
 MTCDirtierBandits.esp
 % {{BASH: Invent}}
+ IF (2AB190D0|"MTCDirtierBandits.esp") DIRTY: 0 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 DB Conspiracy.esp
 The Arsenal - Leveled Lists for OOO.esp
@@ -8185,7 +8190,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 \This needs to load before Region Revive - Lake Rumare for the patch to work.
 TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
-? 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FE72B2A8|"TalosBridgeGateHouse.esp") DIRTY: 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound - Talos Bridge Gatehouse.esp
 
 \This needs to load before Impereal Empire - Unique Castles to prevent land tears.
@@ -8221,7 +8226,7 @@ Trade and Commerce.esp
 2HFluch.esp
 300_Darker_Cyrodiil Imperial City.esp
 300 Regal Imperial City 2.esp
-? 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DC6A280E|"300 Regal Imperial City 2.esp") DIRTY: 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
 AkaviriStronghold_1C.esp
@@ -8306,6 +8311,7 @@ adTH-druidsdomain.esp
 Adventurers farm.esp
 Adventurers Guild.esp
 Aetheric Cuteblade.esp
+ IF (2AB190D0|"Aetheric Cuteblade.esp") DIRTY: 420 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 A Family Problem.esp
 AG_Wegschreine.esp
 AGC-TARDISoutside.esp
@@ -8410,6 +8416,7 @@ SYS Patch-Amen'thalas Well House.esp
 Amen'thalas - SYS Patch.esp
 AmVampireRing.esp
 AM's University Cosmetics 1.2.esp
+Ancient Dwemer Ruin.esp
 Ancient_Islands-4896.esp
 Ancient_Goblin_City-4843.esp
 Ancient_Goblin_City.esp
@@ -9248,6 +9255,7 @@ Forgotten Tower.esp
 Fort BlackBlade.esp
 Fort Colovia.esp
 Fort Ferrion.esp
+ IF (C346CFFD|"Fort Ferrion.esp") DIRTY: 4430 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Fort_Larsus.esp
 Fort_Walastar.esp
 Fort Wildeye.esp
@@ -10391,6 +10399,9 @@ Quest-Related Dungeons Marked.esp
 
 \BeginGroup\: Quests R
 
+RA Objects.esp
+RA ADD GRV.esp
+RA Chain Add-on.esp
 Raubritter.esp
 Really Boring Dungeon.esp
 Reaper's A Friendly Back-Up.esp
@@ -12837,8 +12848,12 @@ GatesToAesgaardEp1-JerallGlacier patch.esp
 CurseofHircine-JerallGlacier patch.esp
 AyleidRuinsExpanded-JerallGlacier patch.esp
 BlackrockMountain-JerallGlacier patch.esp
+AncientDwemerRuins-JerallGlacier patch.esp
+FortFerrion-JerallGlacier patch.esp
 
 xulTheEasternPeaks.esp
+xulTheEasternPeaks Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 Eastern Peaks - Dwemer Ruins Patch.esp
 
 NRB4+LtPD Patch.esp
@@ -16300,6 +16315,7 @@ Reflect and Restore Enchanting.esp
 Spells and Enchanting at guilds.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Soolie'sBetterEnchantmentEffects.esp
+ IF (850A32B5|"Soolie'sBetterEnchantmentEffects.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Staffcraft.esp
 svaReEnch_1C.esp
 \EndGroup\\

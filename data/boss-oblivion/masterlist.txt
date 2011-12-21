@@ -2830,6 +2830,7 @@ Crowded Roads Revisited_GoldRoad_40.esp
 Crowded Roads Revisited_GreenRoad_40.esp
 Crowded Roads Revisited_YellowRoad_40.esp
 WAC - Crowded Roads Revisited.esp
+ IF (E49CCD66|"WAC - Crowded Roads Revisited.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Crowded Roads Revisited Fix4v1.0b.esp
 % {{BASH: Delev, Relev}}
 
@@ -7839,6 +7840,7 @@ WAC OgrePatch.esp
 % {{BASH: Graphics}}
 WAC.esp
 % {{BASH: Graphics}}
+ IF (C8D70EC3|"WAC.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC v1 BulkyMonsters.esp
 % {{BASH: Graphics}}
 WAC Giants Patch.esp
@@ -7851,6 +7853,7 @@ WAC - CAIF.esp
 WAC - CAIF_OOO.esp
 WAC - OverSpawn.esp
 % {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Relations, Relev}}
+ IF (030C2196|"WAC - OverSpawn.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC MinotaurPatch plus.esp
 % {{BASH: Actors.ACBS, Actors.Anims, Actors.Spells, Graphics}}
 WAC - OverSpawn4OOO.esp
@@ -7868,18 +7871,21 @@ WAC - OverSpawn4v1.0bOWCND ILF.esp
 WAC - OverSpawn4v1.0bTIE.esp
 % {{BASH: Delev, Relev}}
 WAC - BlackBootDungeon.esp
+ IF (7C253683|"WAC - BlackBootDungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Dead Knights.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Actors.AIData, Actors.AIPackages}}
 WAC - Dead Knights Fix.esp
 % {{BASH: Relations}}
 WAC - Player Summons.esp
  IF (77FF1D67|"WAC - Player Summons.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (EA321AD6|"WAC - Player Summons.esp") DIRTY: 30 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Birds&Insects.esp
  IF (34E5DAEC|"WAC - Birds&Insects.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Companions.esp
 % {{BASH: Factions}}
 WAC - Horses.esp
 % {{BASH: Delev, Graphics, Names, Relev}}
+ IF (1ABE5A11|"WAC - Horses.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC HorsePath v1.esp
 % {{BASH: Graphics}}
 WAC - TCOS.esp
@@ -7900,6 +7906,7 @@ WAC - Legion_FemaleFix.esp
 WAC - Gladiator.esp
 % {{BASH: Actors.AIPackages, Delev, Graphics, Invent, Relev, Stats}}
 WAC - Magic.esp
+ IF (290989F0|"WAC - Magic.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - QuietFeet.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 
@@ -8190,7 +8197,7 @@ Anvil Merchant Galley Houseboat v1.0.esp
 \This needs to load before Region Revive - Lake Rumare for the patch to work.
 TalosBridgeGateHouse.esp
 ? Requires a patch if used with UL Imperial Isle.
- IF (FE72B2A8|"TalosBridgeGateHouse.esp") DIRTY: 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DF00178C|"TalosBridgeGateHouse.esp") DIRTY: 15 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Storms & Sound - Talos Bridge Gatehouse.esp
 
 \This needs to load before Impereal Empire - Unique Castles to prevent land tears.
@@ -8226,7 +8233,7 @@ Trade and Commerce.esp
 2HFluch.esp
 300_Darker_Cyrodiil Imperial City.esp
 300 Regal Imperial City 2.esp
- IF (DC6A280E|"300 Regal Imperial City 2.esp") DIRTY: 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (7AC8F55B|"300 Regal Imperial City 2.esp") DIRTY: 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 300_Regal_Imperial_City.esp
 300_Akaviri_Stronghold.esp
 AkaviriStronghold_1C.esp
@@ -10839,6 +10846,8 @@ The Treasure House.esp
 The Tritons Of Cyrodiil.esp
 The Well of Lost Souls.esp
 TheGoldenTower.esp
+Thieves Highway Anvil (Eng).esp
+Thieves Highway Anvil (Rus).esp
 TheOldHero.esp
 TheOldTreeHouse_1C.esp
 TheWellOfMinlorada.esp
@@ -12046,6 +12055,7 @@ SLWA_Anequina_Patch.esp
 SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
  IF (594A8E9B|"Walkabout.esp") DIRTY: 27 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (379F2A1B|"Walkabout.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
 : 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
@@ -12477,6 +12487,7 @@ WeynonRetreat-ChorrolHinterland-Patch.esp
 TrailsOfCyrodiil-ChorrolHinterland patch.esp
 HoarfrostCastle-ChorrolHinterland patch.esp
 WAC-ULchorrolhinterland-patch.esp
+ IF (D31BDFEF|"WAC-ULchorrolhinterland-patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 xulBeachesOfCyrodiilLostCoast.esp
 ? Make sure version is 1.6.3 or later.
@@ -15964,6 +15975,7 @@ SupremeMagicka.esp
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 SM Ancestral Guardian.esp
 SM_ShiveringIsles.esp
+ IF (FA560808|"SM_ShiveringIsles.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SM_DLCSpellTome.esp
 SM_OOO.esp
 SM_MMM.esp
@@ -20767,6 +20779,7 @@ amGE_Races.esp
 AOBrokenVoicesFix.esp
 MQ05Commentaries.esp
 WAC - NoMapMarker.esp
+ IF (9BD8F9C2|"WAC - NoMapMarker.esp") DIRTY: 16 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Slof's Manly Stride.esp
 Wrye Morph, X6.esp

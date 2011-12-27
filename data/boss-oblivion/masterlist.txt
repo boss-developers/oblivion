@@ -649,7 +649,7 @@ ArenaChampionHotfix.esp
 ? Obsolete. Remove this. Bug fixed in the 1.2 official patch.
 vampirescriptfix.esp
 object_placement.esp
-? Overlaps slightly with UOP, load whichever you want to have an effect on conflicting items last.
+? Obsolete. Remove this and use the UOP instead.
  IF (E4858A00|"object_placement.esp") DIRTY: 12 ITM, 37 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PRO64-BrumaFix.esp
 The Finger of the Mountain Fix.esp
@@ -8994,6 +8994,7 @@ Cyrodiil Training Center.esp
 
 \BeginGroup\: Quests D
 
+Daedric Armor of Darkness.esp
 Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 Daemonengruft.esp
@@ -9935,6 +9936,7 @@ LeyawiinPort-AlphaRelease.esp
 Leyawin Player House for Sale.esp
 SYS Patch-Leyawiin Player House for Sale.esp
 
+Light Daedric Armour v-1.0.esp
 Lindenshadow Grange.esp
 Lindenshadow Grange Non UL Lush Woodlands Patch.esp
 LirialsRetreatRu.esp
@@ -12424,9 +12426,11 @@ xulTheHeath.esp
  IF (64C34F7D|"xulTheHeath.esp") DIRTY: 25 ITM, 704 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - The Heath - with Creatures DV.esp
 FCOM MWL-TheHeath patch.esp
+? Obsolete. Make sure you are using the latest version of FCOM and remove this plugin.
 FranMWL-TheHeath patch.esp
 MMMMWL-TheHeath patch.esp
  IF (427B1939|"MMMMWL-TheHeath patch.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Obsolete. Make sure you are using the latest version of MMM and remove this plugin.
 NewHaven-TheHeath patch.esp
 SutchReborn-TheHeath patch.esp
 xulHeathCreatureAddon.esp
@@ -12706,8 +12710,10 @@ BeldaElysium-RollingHills patch.esp
 BeldaElysium-RollingHillsW patch.esp
 goldenarchery-rollinghills fix.esp
 FCOM MWL-RollingHills patch.esp
+? Obsolete. Make sure you are using the latest version of FCOM and remove this plugin.
 MMMMWL-RollingHills patch.esp
  IF (C3F43D05|"MMMMWL-RollingHills patch.esp") DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? Obsolete. Make sure you are using the latest version of MMM and remove this plugin.
 KragenirsDeathQuest-RollingHills patch.esp
 CigarettesRollingHillsFix.esp
 RedcourtCastle-RollingHills patch.esp
@@ -12866,6 +12872,7 @@ xulTheEasternPeaks.esp
 xulTheEasternPeaks Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Eastern Peaks - Dwemer Ruins Patch.esp
+MannimarcoResurrection-EasternPeaks patch.esp
 
 NRB4+LtPD Patch.esp
 NRB4+UL-II+LtPD Patch.esp
@@ -14204,6 +14211,7 @@ TI-MM v04d.esp
 More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
+More Valuable Gems.esp
 movablebodies.esp
 MTC Stable Interiors.esp
 Muggrug's Sub tropical south.esp
@@ -17230,6 +17238,7 @@ Pose Thumbnail Poses.esp
 geechan_SimplePose.esp
 NaRae Pose - 01.esp
 NaRae Pose - 01 Guide Book.esp
+NaRae Pose - 02.esp
 NoMaaM_BBB.esp
 shinyEmotions.esp
 Pose Thumbnail Poses 1.1.esp

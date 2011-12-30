@@ -5040,6 +5040,7 @@ SkoomaPipeMod.esp
 Skyglassswrd.esp
 Skyrim Banded Iron Shield.esp
 Skyrim Dragonborn's Helm.esp
+Skyrim Ingredients.esp
 Skyswordsshield.esp
 1662-1.21-Inebriation + Skooma addon-TESSource.esp
 OblivionSkoomaAddiction1.0.esp
@@ -5202,6 +5203,8 @@ StarX Witcher Based Outfit.esp
 Stealth Armor.esp
 sting.esp
 % {{BASH: Invent}} Not tested.
+strotisNewFood.esp
+ IF (833600D6|"strotisNewFood.esp") DIRTY: 31 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
@@ -7639,6 +7642,8 @@ TIE Cats.esp
 Brasher's Oblivion Overhaul.esp
 % {{BASH: Delev, Relev}}
 
+Oblivion Intensity.esp
+
 Choices and Consequences - FCOM.esp
 ? Obsolete. Update to latest version and remove.
 
@@ -7925,6 +7930,12 @@ WAC - Female Armor Refine.esp
 % {{BASH: Graphics}}
  IF (87D74399|"WAC - Female Armor Refine.esp") DIRTY: 40 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
+WAC - HGEC Equipment Replacer.esp
+% {{BASH: Graphics}}
+WAC - Legion_FemaleFix.esp
+WAC-TestingMarauderArmor.esp
+
+WAC - Races RM-HGEC patch by Xtudo.esp
 \EndGroup\\
 
 \BeginGroup\: Post Overhaul
@@ -10044,6 +10055,7 @@ MathmoraCottage.esp
 Maze of Fog.esp
 MDRisheren.esp
 ME_MERCENARIES.esp
+Mehrunes Maze.esp
 Mein Elfengarten-Bezirk Haus V. 2.0 mit Dachgarten.esp
 ? Use only one Mein Elfengarten-Bezirk Haus V. 2.0 * esp
 Mein Elfengarten-Bezirk Haus V. 2.0 OHNE Dachgarten.esp
@@ -11230,6 +11242,7 @@ WSL_Redone.esp
 White Tower v0.8.esp
 Why only apple.esp
 whiteRoseRiverFarm.esp
+Will-o-the-Wisp Companion.esp
 WinterCabin.esp
 Winterhouse.esp
 Winter Palace.esp
@@ -19392,6 +19405,7 @@ Patch Naked NPCs.esp
 \BeginGroup\: Main BC Esps
 Better Cities - Full City Defences.esp
 Better Cities Full.esp
+% {{BASH: C.Water}}
 Better Cities Full - B&M Edition.esp
 Better Cities - Skingrad City Defences.esp
 Better Cities SKINGRAD.esp
@@ -19418,6 +19432,7 @@ Better Cities - VWD of the IC.esp
 \BeginGroup\: BC IC
 
 Better Cities IC Arboretum.esp
+% {{BASH: C.Water}}
 Better Cities IC Arcane University.esp
 Better Cities IC Arena.esp
 Better Cities IC Elven Gardens.esp
@@ -19626,6 +19641,7 @@ Better Cities and IC Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 
 Better Cities - No LEYAWIIN Flooding.esp
+% {{BASH: C.Water}}
 Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
 % {{BASH: Actors.AIPackages}}

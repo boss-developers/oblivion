@@ -12438,6 +12438,7 @@ WindspearTower-StendarrValley compatibility patch.esp
 xulTheHeath.esp
  IF (64C34F7D|"xulTheHeath.esp") DIRTY: 25 ITM, 704 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - The Heath - with Creatures DV.esp
+DarkBrotherhoodChronicles-TheHeath patch.esp
 FCOM MWL-TheHeath patch.esp
 ? Obsolete. Make sure you are using the latest version of FCOM and remove this plugin.
 FranMWL-TheHeath patch.esp
@@ -12497,6 +12498,7 @@ xulChorrolHinterland Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 VeronaHouseBloodlines-ChorrolHinterland fix.esp
 ? Obsolete. Delete.
+DarkBrotherhoodChronicles-ChorrolHinterland patch.esp
 TheOrderofNibenay-Chorrol Hinterland patch.esp
 MOEVampireClanRaelu-ChorrolHinterland patch.esp
 ? Obsolete. Delete.
@@ -12621,6 +12623,7 @@ Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
 Blood Raven Lush Woodlands Patch.esp
+DarkBrotherhoodChronicles-LushWoodlands patch.esp
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
 ? Obsolete if using Lush Woodlands 1.3 or higher.
@@ -12637,6 +12640,7 @@ ZSkeletonHorse-AncientYews patch.esp
 BetterDaedricShrineVaermina-AncientYews patch.esp
 BetterDaedricShrinesVaermina-AncientYews patch.esp
 BetterDaedricShrinesFull-AncientYews patch.esp
+DarkBrotherhoodChronicles-AncientYews patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
 ? Obsolete, update to latest AY and delete.
@@ -12900,6 +12904,7 @@ LtPD+NRB4+UL-II Patch.esp
 ? Obsolete. Patch needs to be updated, then delete this file.
 
 BetterDaedricShrinesFull-UniqueLandscapes patch.esp
+DarkBrotherhoodChronicles-UniqueLandscapes Merged patch.esp
 EtInArkay-UniqueLandscapes Merged patch.esp
 DwarvenMines-UniqueLandscapes Merged patch.esp
 GoldenCrest-UniqueLandscapes Merged patch.esp

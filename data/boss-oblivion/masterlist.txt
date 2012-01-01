@@ -41,7 +41,7 @@
 \ The second check is a hack until BOSS 1.9's release.
  
 \ Upgrade message for 1.7+ users:
- IF (<1.9.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.9) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.skyrimnexus.com/downloads/file.php?id=6", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
+ IF (<1.9.1.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.9.1) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.skyrimnexus.com/downloads/file.php?id=6", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
 \ ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 

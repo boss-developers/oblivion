@@ -1000,15 +1000,15 @@ darker nights for shivering isles.esp
 " weather overhauls that affect SI.
 
 fog.esp
-" weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods.
 RedBag - Fog.esp
-" weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods.
 PW_MorrowindFog.esp
-" weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods.
 sdn LOD Fog Full.esp
-" weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods.
 sdn LOD Fog Lite.esp
-" weather mods. Consider using Streamline's StreamSight feature instead.
+" weather mods.
 
 Lem - Modified Weather.esp
 
@@ -9250,6 +9250,8 @@ EyeOfNirn.esp
 
 \BeginGroup\: Quests F
 
+_Faithless_EV.esp
+? 99 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FalamirTheMerchant.esp
 FallenTower.esp
 Fallen_Heroes.esp
@@ -9284,6 +9286,8 @@ FarmersStrikeBack.esp
 OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
 FF_WaldnirsWoods.esp
+FHSW.esp
+? 422 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Fighting Chance.esp
 FishermanRock_Hideout.esp
 FiveBlindMiceBeta.esp
@@ -9696,6 +9700,8 @@ ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 In Sachen Ayleiden.esp
 Insanity's Pet Shop.esp
+Insomonias Ruins.esp
+? 1862 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Isiak's fate.esp
 Island.esp
 Island Lighthouse.esp
@@ -9720,6 +9726,8 @@ Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
 Jagnot- Split Homes.esp
+Jail Break Escape Routes.esp
+? 1 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Jason1_Pirate Ship.esp
 jauOgreRide.esp
 Jeral View Chalet.esp
@@ -10406,6 +10414,8 @@ QOTW012.esp
 QOTW013.esp
 QOTW014.esp
 QOTW011-020.esp
+QOTW021.esp
+? 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW Season One.esp
  IF (315470CB|"QOTW Season One.esp") DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest.esp
@@ -10566,7 +10576,7 @@ SYS Patch Sbturm Penthouse.esp
 ScarletMonastery.esp
  IF (B4B5DA1E|"ScarletMonastery.esp") DIRTY: 28 ITM, 255 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 School Partners.esp
-Skooma Lab
+Skooma Lab.esp
 Scribe Supplies.esp
 Scorched Earth.esp
 Seawatch Abode.esp
@@ -10680,6 +10690,8 @@ SK.esp
 SkyCastle.esp
 Skyrim Alive.esp
 Sky Haven.esp
+Skyrim Draugr Canyon.esp
+? 0 ITM, 73 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Skyrim Nord Tombs.esp
 SkyrimObservatory.esp
  IF (5ADC0013|"SkyrimObservatory.esp") DIRTY: 14 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10852,6 +10864,8 @@ The Kingdom of Shadow test1.esp
  IF (94C3C6B|"The Kingdom of Shadow test1.esp") DIRTY: 1360 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Kingdom of Shadow test1 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+TheReturnOfTheDarkBrotherhood.esp
+? 10 ITM, 76 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Medusa.esp
  IF (0CC093DE|"The Temple of Medusa.esp") DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
@@ -12219,6 +12233,11 @@ Oblivifall - Losing My Religion Blood&Mud.esp
  IF (128C5F11|"Oblivifall - Losing My Religion Blood&Mud.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Sutch Reborn.esp
 
+Unique Forts Fort Strand.esp
+? 4 ITM, 35 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Unique Forts Gold Coast.esp
+? 39 ITM, 217 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+
 \BeginGroup\: Tamriel Worldspace Modding Project
 \-----------------------------------------------
 
@@ -13077,11 +13096,6 @@ TheNecromancer-Moriarcis patch.esp
 
 300 Arcane University.esp
 Reaper's Arcane University.esp
-Universitum Arcanorum.esp
- IF (9BDBB795|"Universitum Arcanorum.esp") DIRTY: 121 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (D41DC29C|"Universitum Arcanorum.esp") DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Universitum Arcanorum Vwalk.esp
-% {{BASH: Actors.Anims, NoMerge}}
 PersonalPackGuars.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PersonalPackGuars White.esp
@@ -13150,6 +13164,7 @@ BetterInns - Salmo the Baker, Cobl PATCH.esp
 
 Sutch Village.esp
 LostCoast + SutchVillage Patch.esp
+Sutch Village Mehrunes Maze Patch.esp
 
 Trees_In_Cities.esp
 
@@ -13774,6 +13789,8 @@ CT-YABM.esp
 CT-YABM - No Idle.esp
 ? Use 'CT-YABM.esp' or 'CT-YABM - No Idle.esp' but not both at the same time.
 Cultural Secrets.esp
+Cyrodiil City Guards.esp
+? 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 \BeginGroup\: CUO
 
@@ -14428,6 +14445,7 @@ Ranokoas Purchase Use Enchant Spellmake.esp
 Ranokoas Purchase Use Enchant Spellmake - Alternate Version.esp
 Realistic_Armor_Weights-2194.esp
 % {{BASH: Stats}}
+Realistic Hatred.esp
 realistic_weapon_weights-3534.esp
 % {{BASH: Stats}}
 RedBag - Friendly Animals.esp
@@ -19928,6 +19946,13 @@ TheOubliette.esp
  IF (2F16C1C5|"TheOubliette.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Advance Avalon Project.esp
 NRB4+Avalon Patch.esp
+
+\The below loads here to avoid compatibility issues with Better Cities.
+Universitum Arcanorum.esp
+ IF (9BDBB795|"Universitum Arcanorum.esp") DIRTY: 121 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D41DC29C|"Universitum Arcanorum.esp") DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Universitum Arcanorum Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Message suppression/changing overrides

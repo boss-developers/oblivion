@@ -10504,8 +10504,9 @@ RisingSunForUpload6-3-2010.esp
 RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
-\Риверсайд.esp
+REGEX: Риверсайд\.esp
 \The above plugin causes crashes. See Google Code issue 131 for progress in fixing. The plugin should not be uncommented until that issue has been fixed.
+\No crashes with REGEX
 ROADZeldaRemake - Addon.esp
 RomancingAhnassi.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

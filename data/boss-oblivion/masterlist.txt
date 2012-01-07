@@ -1294,6 +1294,7 @@ MIS.esp
  IF (BCA36827|"MIS.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 More Immersive Sounds.esp
 More Immersive Sound.esp
+? Make sure you are using More Immersive Sounds Edited to benefit from bug fixes.
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
  IF (F343D8EA|"MIS Low Wind.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -1386,6 +1387,7 @@ NoPlayerGroans.esp
 
 Sounds of Cyrodiil.esp
 % {{BASH: Sound}}
+" "More Immersive Sound", "Ambient Town Sounds", "Oblivifall - Ambient Dungeon SFX".
 
 Storms & Sound.esp
 % {{BASH: C.Owner}}
@@ -9204,6 +9206,8 @@ EirikWythringSpellmaker.esp
 EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
+Elven Baths.esp
+ IF (B14D2EA1|"Elven Baths.esp") DIRTY: 5 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EM_RedRoseManor.esp
@@ -11502,7 +11506,6 @@ DSoSFrostCragRebornExteriorStairsFix.esp
 Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
-? Do not use with Frostcrag Reborn to avoid land tearing.
 % {{BASH: Actors.ACBS, C.Name, C.Owner, Creatures.Blood}} and remove [C.Climate, C.Light] tags
 DLCFrostcrag Disannoyed.esp
 Frostcrag Reborn.esp
@@ -14132,6 +14135,7 @@ JQ-DisplayPedestals.esp
 
 \BeginGroup\: overrides K
 
+KartPassive_Beasts.esp
 KeyBox.esp
 kikaibookbelts-amulet.esp
 kikaibookbelts-tail.esp

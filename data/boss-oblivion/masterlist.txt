@@ -7927,9 +7927,9 @@ WAC-OOO.esp
 WAC - Cat Crash Fix.esp
 % {{BASH: Actors.Skeleton, NoMerge}}
 
-WAC - Female Armor Refine-No Low Body.esp
+WAC - Female Armor Refine -No Low Body.esp
 % {{BASH: Graphics}}
- IF (24FF137B|"WAC - Female Armor Refine-No Low Body.esp") DIRTY: 87 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (24FF137B|"WAC - Female Armor Refine -No Low Body.esp") DIRTY: 87 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Female Armor Refine.esp
 % {{BASH: Graphics}}
  IF (87D74399|"WAC - Female Armor Refine.esp") DIRTY: 40 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10590,6 +10590,7 @@ SecludedGladeCottage.esp
 % {{BASH: Invent}}
 Secret Hideout.esp
 Secrets.esp
+ IF (16DFAB8C|"Secrets.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Secrets_Of_Mertvitel.esp
 SecretsOfMertvitel.esp
 Secrets of Mortum.esp

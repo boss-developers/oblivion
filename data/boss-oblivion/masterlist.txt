@@ -9985,6 +9985,7 @@ LordKain_Adash_World Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Lorekeep.esp
 Lost Chapel.esp
+Lost_Happ.esp
 LostGod.esp
 LostSwordOfTheAylied.esp
  IF (DD4B7009|"LostSwordOfTheAylied.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -356,8 +356,8 @@ Essential_Merchants.esp
 % {{BASH: Actors.ACBS, NoMerge}}
 
 HrmnsOblivionScriptOptimizationv1.0.esp
- IF (82FC20B8|"HrmnsOblivionScriptOptimizationv1.0.esp") WARN: Breaks the Shivering Isles by changing some FormIDs, causing a script to be written into cell data. A fixed version can be found here: http://www.tesnexus.com/downloads/file.php?id=31757
-? Not recommended for use as there is no measureable performance improvement.
+ IF (82FC20B8|"HrmnsOblivionScriptOptimizationv1.0.esp") SAY: Not recommended for use as there is no measureable performance improvement, and it breaks the Shivering Isles by changing some FormIDs, causing a script to be written into cell data.
+ IF (FEED7422|"HrmnsOblivionScriptOptimizationv1.0.esp") SAY: Not recommended for use as there is no measureable performance improvement.
 \This really does need to load this early.
 HrmnsOblivionScriptOptimizationv SI 1.0.esp
 ? Not recommended for use as there is no measureable performance improvement.
@@ -4142,6 +4142,9 @@ FireCircle_1C.esp
 fishclub.esp
 flamberg.esp
 Flamboyant Hat_SI.esp
+FLY Armor and Clothing - Non-replacers.esp
+ IF (B0FDF6F|"FLY Armor and Clothing - Non-replacers.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+FLY Armor and Clothing - NR Leveled Lists.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
 ForgedSteelDaggers_1C.esp
@@ -9903,8 +9906,6 @@ Land of Hyrule.esp
 Landscape house Final48C.esp
 Lake Rumare Cottage.esp
 LakeHouseV1.1.esp
-LakesideHome.esp
-LakesideHomeCOBLaddon.esp
 Latexshop.esp
 Latexshop2.esp
 latexshopstore.esp
@@ -10445,6 +10446,7 @@ RA Objects.esp
 RA ADD GRV.esp
 RA Chain Add-on.esp
 Raubritter.esp
+Rascals Rest Cave.esp
 Really Boring Dungeon.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
@@ -10952,6 +10954,7 @@ The Reluctant Ranger REVAMPED.esp
 " Better Cities.
 The Power of the North.esp
 The Retreat.esp
+The Retreat-AN compatible.esp
 TheSiegeofMalat.esp
 The Siren's Deception.esp
 The Spirit Of The Wolf.esp
@@ -11129,6 +11132,7 @@ Unique Dungeons - Lichs Lair.esp
  IF (7BF67082|"Unique Dungeons - Lichs Lair.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Dungeons - Lost Glory.esp
  IF (1CD53035|"Unique Dungeons - Lost Glory.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (166EFDC3|"Unique Dungeons - Lost Glory.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
 Ushnars Skinned Hound.esp
 Ushnar's Re-Skinned Hound.esp
@@ -12083,6 +12087,7 @@ RimmenAN.esp
 % {{BASH: Filter, C.Climate, Deactivate}}
 RimmenMMM.esp
 BeyondCyrodiil-Camps.esp
+ IF (B2C02B53|"BeyondCyrodiil-Camps.esp") DIRTY: 224 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BeyondCyrodiil&Valenheightmap patch.esp
 Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
@@ -17313,6 +17318,7 @@ Slof's Sexy Anims.esp
 Specialanims.esp
 Steeltooth_Playeranimations.esp
 % {{BASH: Actors.Anims}}
+TmeppExtendedAcro.esp
 UChainBeast.esp
 zzEstrus.esp
 walklikesheo.esp
@@ -18686,10 +18692,21 @@ cssJaKhaiitMyr.esp
 % {{BASH: Graphics}}
 1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
 % {{BASH: Graphics}}
+
+\These have to load here for master order in ViljainLakeside.esp to match.
+LakesideHome.esp
+ IF (12A14EDA|"LakesideHome.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+LakesideHomeCOBLaddon.esp
+
 ViljainAleswell.esp
+ViljainLakeside.esp
+ IF (649D8691|"ViljainLakeside.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ViljainRedRoseManor.esp
  IF (1A496E57|"ViljainRedRoseManor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Vsleepinjail.esp
+
+
+
 \EndGroup\\
 
 Aliyah.esp
@@ -19573,6 +19590,7 @@ Better Cities - Brew House.esp
 Better Cities - Ruined Tail's Tale.esp
 " Ruined Tail's Tale v2.5.
 : Ruined Tail's Tale v3+.
+RTT_Unofficial_Patch.esp
 Better Cities - Anvil Bay Expansion.esp
 
 Better Cities - CUO Chorrol Patch.esp

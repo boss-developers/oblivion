@@ -9166,6 +9166,8 @@ Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
 Improved IC Shack.esp
 DSoSCHotW.esp
+DSoSFortNocturnaSuppressio.esp
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 DSoSMalamath.esp
 ? Be sure to update to version 2.0. Version 1.x could break the Dark Brotherhood quest line.
 DSPirateIsleBeta.esp
@@ -13644,6 +13646,8 @@ BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
 Better_Amelion_Gear.esp
+betterArena.esp
+ IF (94EC8C40|"betterArena.esp") DIRTY: 30 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
@@ -19616,6 +19620,10 @@ Side's Bruma House (BC patch).esp
 Better Cities - Knightly Armory.esp
 Better Cities - Knights of the Nine.esp
 
+\ These three load here to prevent land tears with UL Cheydinhal Falls.
+Better Cities IC Lighting Overhaul.esp
+Better Clocks-Better Cities IC Light Overhaul.esp
+Better Clocks for Better Cities 2_0.esp
 
 Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
@@ -19686,10 +19694,6 @@ Better Cities - COBL.esp
 Better Cities - Dwemer Subway.esp
 Better Cities - Unique Landscape Imperial Isle.esp
 Better Cities - Vvardenfell Imports.esp
-
-Better Cities IC Lighting Overhaul.esp
-Better Clocks-Better Cities IC Light Overhaul.esp
-Better Clocks for Better Cities 2_0.esp
 
 Better Cities and IC Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.

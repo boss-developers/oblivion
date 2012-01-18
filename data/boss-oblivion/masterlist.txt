@@ -2512,20 +2512,6 @@ Sexual_SpiderDaedra.esp
 ? Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
 OSM-All Genders.esp
 % {{BASH: Graphics, Invent, Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
-Nude Humanlike Spriggan.esp
-" Oblivion Sexualized Monsters (OSM)
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Humanlike Spriggan Tweaked.esp
-" Oblivion Sexualized Monsters (OSM)
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Humanlike Spriggan HGEC B.esp
-" Oblivion Sexualized Monsters (OSM)
-: HGEC Body replacer
-? USE ONE 'nude * Spriggan.esp' ONLY
-Nude Male Spriggan.esp
-" Oblivion Sexualized Monsters (OSM)
-: Robert Male Body v5
-? USE ONE 'nude * Spriggan.esp' ONLY
 Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -4539,6 +4525,7 @@ LD - New Arrows.esp
 Legion BattleMage.esp
 Legion Shield Replacer.esp
 % {{BASH: Graphics}}
+LEM Retextured Glass Weapons.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
 Leveled Weapons.esp
@@ -5797,6 +5784,8 @@ BlackRogue.esp
 Blood Elves and Egyptian Armors for Exnems body.esp
 Blood Illusion and Arcania armors for Exnem's body.esp
 Blood Mage.esp
+Bloodrayne Armor.esp
+ IF (1E5AE2EF|"Bloodrayne Armor.esp") DIRTY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Break_ESalor__and_LingerieSet.esp
 
 CrimsonEyeCandy.esp
@@ -7524,7 +7513,7 @@ Choices and Consequences - FCOM - Diverse Guards.esp
 FCOM_BobsGuardUnity.esp
 : 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
-% {{BASH: Factions, Graphics, Invent, Relev}}
+% {{BASH: Factions, Graphics, Invent, Relev, Actors.Skeleton}}
 : Shivering Isles expansion.
 FCOM_ArcheryArmamentarium.esp
 : the Armamentarium Complete mod.
@@ -9194,6 +9183,8 @@ Dungeo Forgotten Tower.esp
 Dungeo Forgotten Tower Reduced Spawns.esp
 dungeon.esp
  IF (1937E82F|"dungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Dungeons.esp
+ IF (D799716C|"Dungeons.esp") DIRTY: 62 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons of Blackwood.esp
 [Keias]Dungeon Of Chaos.esp
 
@@ -11024,6 +11015,8 @@ thievery - EE patch.esp
 ReclaimSancreTor-ThieveryInTheImperialCity patch.esp
 TiansAyla_NNW.esp
 : OWC New Dimensions
+TinyHouse.esp
+COBLaddonTinyHouse.esp
 TiredVampireShipRu.esp
 TML The Box.esp
 To Feed an Empire - Wickmere Farm.esp
@@ -12818,6 +12811,7 @@ NakedNord.esp
  IF (AB1B9D3C|"NakedNord.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC+NakedNord Patch.esp
 OCR+NakedNord Patch.esp
+
 xulImperialIsle.esp
  IF (9F8E4A43|"xulImperialIsle.esp") DIRTY: 19 ITM, 49 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Imperial Isle DV.esp
@@ -12844,6 +12838,7 @@ LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
 ? Do not use - has technical issues. Download the correct patch here: "http://www.tesnexus.com/downloads/file.php?id=20218"
 TalosGatehouse + ULImperialIsle.esp
 wb_TBG_RR-LR_UL-II_patch.esp
+ULPatchTinyHouse.esp
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
@@ -12851,6 +12846,7 @@ CastleDunkerlore-BlackwoodForest patch.esp
 UnholyChatedral-BlackwoodForest patch.esp
 
 xulCheydinhalFalls.esp
+% {{BASH: C.Water}}
 Unique Landscapes - Cheydinhal Falls DV.esp
 Blood&Mud-CheydinhalFalls patch.esp
 GiftOfKynareth-CheydinhalFalls patch.esp
@@ -13648,6 +13644,7 @@ Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
 Better_Amelion_Gear.esp
 betterArena.esp
+% {{BASH: C. Water}}
  IF (94EC8C40|"betterArena.esp") DIRTY: 30 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
@@ -14347,6 +14344,22 @@ NPC Water-Sink.esp
 NPC Static Level.esp
 ? Almost certainly not compatible with Fran's, MMM, OOO or FCOM.
 npcjump.esp
+
+\Must load after Knights - Unofficial Patch.esp
+Nude Humanlike Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan Tweaked.esp
+" Oblivion Sexualized Monsters (OSM)
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Humanlike Spriggan HGEC B.esp
+" Oblivion Sexualized Monsters (OSM)
+: HGEC Body replacer
+? USE ONE 'nude * Spriggan.esp' ONLY
+Nude Male Spriggan.esp
+" Oblivion Sexualized Monsters (OSM)
+: Robert Male Body v5
+? USE ONE 'nude * Spriggan.esp' ONLY
 \EndGroup\\
 
 \BeginGroup\: overrides O
@@ -16395,6 +16408,7 @@ Imperishable Varla Stones.esp
 Oblivionized Enchants.esp
 Panzer_Kleidung_03.esp
 Portable Enchanting And Spellmaking Scroll.esp
+Recharge Enchantments GP.esp
 Reflect and Restore Enchanting.esp
 Spells and Enchanting at guilds.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -19626,6 +19640,8 @@ Better Cities IC Lighting Overhaul.esp
 Better Clocks-Better Cities IC Light Overhaul.esp
 Better Clocks for Better Cities 2_0.esp
 
+TrailsOfCyrodiil-BC patch.esp
+
 Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
 % {{BASH: C.Water}}
@@ -19666,7 +19682,6 @@ Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 Better Cities - Werewolf-Legends.esp
-TrailsOfCyrodiil-BC patch.esp
 
 
 Better Imperial City Rwalk.esp

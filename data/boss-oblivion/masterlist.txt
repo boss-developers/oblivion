@@ -7391,6 +7391,7 @@ Creatures Alive v1.3.esp
 Creature Diversity.esp
 % {{BASH: Relev}}
  IF (DBB29BC1|"Creature Diversity.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Creature Diversity - arachnophobia.esp
 ReteroX_BEvilSkeletons.esp
 ReteroX_BBEvilSkeletons.esp
 Revenants.esp
@@ -16409,6 +16410,7 @@ Imperishable Varla Stones.esp
 Oblivionized Enchants.esp
 Panzer_Kleidung_03.esp
 Portable Enchanting And Spellmaking Scroll.esp
+Real Time Lockpicking Minigames.esp
 Recharge Enchantments GP.esp
 Reflect and Restore Enchanting.esp
 Spells and Enchanting at guilds.esp

@@ -2752,7 +2752,7 @@ Bards of Cyrodiil.esp
 % {{BASH: Relations}}
 Bard of Cyrodiil 2.0.esp
 
-Crowded Cities 15.esp
+IFNOT (273CD554|"Crowded Cities 15.esp") MOD: Crowded Cities 15.esp
  IF (B9CC7C1A|"Crowded Cities 15.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Crowded Cities 15 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -5438,6 +5438,8 @@ VypersStealthArmors.esp
 
 \BeginGroup\: Items W
 
+wands.esp
+ IF (BA110E01|"wands.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wands!.esp
 WarriorBandages_V2.0.esp
 WarriorBandages_OOO_V2.0.esp
@@ -6028,6 +6030,7 @@ ShadowWatcher_HGEC_v2_b.esp
 Sin_nightmare.esp
 SkeuomorphT3.esp
 Skeuomorph_LBD.esp
+slinky kunoichi.esp
 Slof's Beefcake Armors.esp
 Slof's Brighter Arena Raiments.esp
 % {{BASH: Graphics}}
@@ -10017,6 +10020,7 @@ Lilarcor.esp
 
 \BeginGroup\: Quests M
 
+MABlueMoonCottage.esp
 Mount Archon.esp
 Mara's Tower.esp
 Mariel's Treasure Hunt.esp
@@ -11520,7 +11524,7 @@ Frostcrag Reborn.esp
 DLCFrostcrag Reborn.esp
 ? Outdated. Upgrade to the latest version of Frostcrag Reborn De-Isolated.
 DLCFrostcragReborn.esp
-? If dummy esp for use with The Ayleid Steps consider updraging to Frostcrag Reborn De-Isolated.
+? If dummy esp for use with The Ayleid Steps consider upgrading to Frostcrag Reborn De-Isolated.
 OCOD+FrostcragSpire Patch.esp
 Correctif Frostcrag.esp
 Correctif Frostcrag RP.esp
@@ -12841,6 +12845,8 @@ LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
 TalosGatehouse + ULImperialIsle.esp
 wb_TBG_RR-LR_UL-II_patch.esp
 ULPatchTinyHouse.esp
+ImpIsle Walkabout XUL.esp
+ IF (4062E31E|"ImpIsle Walkabout XUL.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
@@ -13311,8 +13317,9 @@ Open Cities Reborn B&M Additions.esp
 \BeginGroup\: Open Cities Patches
 \''''''''''''''''''''''''''''''''
 
+\ These need to load after OCR plugins to prevent delinquent master warnings.
 Crowded Cities for OCR.esp
-\ Needs to load after OCR plugins to prevent delinquent master warnings.
+IF (273CD554|"Crowded Cities 15.esp") MOD: Crowded Cities 15.esp
 
 OCR-East Wind.esp
 OCR-Flags Removed.esp
@@ -13364,6 +13371,7 @@ OC+ULSO+WestRoads Patch.esp
 OCR + MTCRiverShack Patch.esp
 OCC-TVamp-Patch.esp
 OCR + Terran Vampires Patch.esp
+OCR+ThievesGrotto Patch.esp
 Better Benirus Manor OC Patch.esp
 ? Not compatible with Open Cities Reborn.
 III-LeyawiinRebornPatch.esp
@@ -16446,6 +16454,8 @@ More Realistic Sneaking - Sleepkill Dagger.esp
 More Realistic Sneaking 1.9 - Sleepkill Dagger.esp
 More Realistic Sneaking - Sneak Attack Modifiers.esp
 More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
+pmLockpicking.esp
+: Real-Time Interactions
 Sneak Effectiveness Enhancement.esp
 Realistic Sneak for NPCs.esp
 Stalk'em.esp
@@ -17254,6 +17264,8 @@ CTAddPose_ASpose.esp
 CTAddPose_AttackPrep.esp
 CTAddPose_ryk0.esp
 CTAddPose_Chaos.esp
+CTAddpose_Pinups.esp
+CTAddpose_Pinups_2.esp
 
 EC's Auto-Standing Idle.esp
 

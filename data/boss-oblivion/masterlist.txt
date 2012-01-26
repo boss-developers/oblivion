@@ -12818,6 +12818,9 @@ NakedNord.esp
 OCC+NakedNord Patch.esp
 OCR+NakedNord Patch.esp
 
+ImpIsle Walkabout  XUL.esp
+ IF (4062E31E|"ImpIsle Walkabout  XUL.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+
 xulImperialIsle.esp
  IF (9F8E4A43|"xulImperialIsle.esp") DIRTY: 19 ITM, 49 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Imperial Isle DV.esp
@@ -12845,8 +12848,6 @@ LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
 TalosGatehouse + ULImperialIsle.esp
 wb_TBG_RR-LR_UL-II_patch.esp
 ULPatchTinyHouse.esp
-ImpIsle Walkabout XUL.esp
- IF (4062E31E|"ImpIsle Walkabout XUL.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp

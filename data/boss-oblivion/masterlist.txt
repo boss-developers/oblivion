@@ -4526,6 +4526,7 @@ LD - New Arrows.esp
 Legion BattleMage.esp
 Legion Shield Replacer.esp
 % {{BASH: Graphics}}
+leia.esp
 LEM Retextured Glass Weapons.esp
 Lera and Pizz ShiningWind.esp
 Lera's PirateSet.esp
@@ -12070,6 +12071,8 @@ ElsweyrAnequina v2 Vwalk.esp
 Reaper's Esmeralda's Desert Manor.esp
  IF (DB57B73|"Reaper's Esmeralda's Desert Manor.esp") DIRTY: 48 ITM, 32 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch-Anequina Manor.esp
+Reaper's Esmeralda's Desert Manor NoTail Scarf.esp
+Reaper's Esmeralda's Desert Manor Quickfix.esp
 ElsweyrC&CBlackwoodPatch.esp
 ? Obsolete. Update to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
@@ -16403,6 +16406,7 @@ Enchantment and Spellmaking improvment - FCOM & SM.esp
 Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Energy - Runes.esp
+FundamentEnchantingAddons.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
 MarcusTheEnchanter.esp
@@ -18161,6 +18165,7 @@ Wolven Anthros.esp
 eyja.esp
 % {{BASH: C.Water}}
  IF (9FBDE389|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C2EB9EAE|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eyja_DV 1.0..esp
 eyja_rus.esp
 eyja Vwalk.esp

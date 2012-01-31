@@ -2877,6 +2877,7 @@ kuerteeIgnoringTheMainQuestHasConsequences.esp
 \These mods don't need to go anywhere, they're fully scripted, so load them early, out of the way of the more placement-critical sections near the bottom of the masterlist.
 
 ANBToggleGrab.esp
+Ash control.esp
 AutoEquip.esp
 : OBSE
  IF (A0675EA6|"AutoEquip.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -1588,6 +1588,8 @@ AmbientDungeons.esp
 
 \BeginGroup\: Base A
 
+AddActorValues_example.esp
+? demo mod, illustrates how to use the basic features of AddActorValues. Not need for use.
 UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
  IF (0717BF5A|"AliveWaters.esp") DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9230,6 +9232,7 @@ Epic Dark Brotherhood.esp
 Eska Cair.esp
 EstateInterior.esp
 Etherealspace.esp
+EtherwalkerRus.esp
 EverHaus3.esp
  IF (10F16EB7|"EverHaus3.esp") DIRTY: 49 ITM, 22 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ever-rest Glade reborn.esp
@@ -13754,6 +13757,7 @@ CaesarOneWithNature.esp
 % {{BASH: Factions}}
 : CaesarRanger.esp
 CalyndStone.esp
+Camoran.esp
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
 CoverYourself.esp

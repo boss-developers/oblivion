@@ -6197,6 +6197,7 @@ MD_Saddle_Bags.esp
 MD_Saddle_Bags_v2.esp
 MD_Saddle_Bags_Lite_v2.esp
 MD_Saddle_Bags_Accessories.esp
+SaddleBag.esp
 Slof's Horses Base.esp
 % {{BASH: Graphics}}
  IF (66C78539|"Slof's Horses Base.esp") DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7576,6 +7577,10 @@ FCOM_VanillaItemReleveler.esp
 WAC - ItemLootFix4v1.0bTIE.esp
 % {{BASH: Delev, Invent, Relev, Stats}}
 
+\Should load before TIE.
+AFK_Tweaks.esp
+% {{BASH: Actors.ACBS, Hair, Invent}}
+
 TIE.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Spells, Actors.Stats, C.RecordFlags, Delev, Factions, Invent, NpcFaces, Relations, Relev, Scripts, Stats}}
 : compatibility mods to work with OOO, MMM, Fran's or other large overhaul mods.
@@ -7949,8 +7954,6 @@ WAC - Races RM-HGEC patch by Xtudo.esp
 
 \BeginGroup\: Post Overhaul
 \'''''''''''''
-AFK_Tweaks.esp
-% {{BASH: Actors.ACBS, Hair, Invent}}
 beardy.esp
 % {{BASH: NpcFaces}}
 \BeginGroup\: CNRP
@@ -9197,6 +9200,7 @@ Dungeons.esp
  IF (D799716C|"Dungeons.esp") DIRTY: 62 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons of Blackwood.esp
 [Keias]Dungeon Of Chaos.esp
+ IF (34D47392|"[Keias]Dungeon Of Chaos.esp") DIRTY: 25 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 DarkDale.esp
 \EndGroup\\
@@ -9396,6 +9400,7 @@ GoldenCrest.esp
 GoldenCrest Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 GoldenCrestBattlehornComp.esp
+Gottshaw Village.esp
 GP_Moretta.esp
 GP_Moretta_1C.esp
 GPPaleGoblins.esp
@@ -12135,7 +12140,6 @@ ReclaimSancreTor Vwalk.esp
 road+bridges.esp
  IF (CA103402|"road+bridges.esp") DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Fighters Guild Quests - Roads and Bridges Patch.esp
-
 Hemingweys Capes for NRB.esp
 NRB4+Vineyard Patch.esp
 NRB4+AranMathi Patch.esp
@@ -12149,6 +12153,7 @@ Battle Between Two Forts Roads and Bridges Patch.esp
 Immersive Prison sewer exit.esp
  IF (D607A66|"Immersive Prison sewer exit.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NRBsewer exit.esp
+Northern Front - road+bridges - compatibility .esp
 
 Bridges For the Fools.esp
 
@@ -13796,6 +13801,7 @@ Cliff's Daggerfall Uriel Septim and Ocato.esp
 CloudRulerTrainingRoom.esp
 Cobl Hmm.esp
 Cobl Bookplacement.esp
+Colored Lower Class Beds Resource.esp
 Colourwheels Sexy Wantedposter.esp
 Colourwheels Sexy Panty Shop HGEC.esp
 Colourwheels Sexy Imperial Legion.esp
@@ -16418,6 +16424,7 @@ Energy - Runes.esp
 FundamentEnchantingAddons.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
+kuerteeMagickaBasedEnchantmentLimits.esp
 MarcusTheEnchanter.esp
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp

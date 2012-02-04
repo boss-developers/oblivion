@@ -20284,11 +20284,7 @@ Time-2hr-realtime.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
-TF_timemod1-10.esp
-? Timescale mod
-? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
-TF_timemod1-20.esp
+REGEX: TF_timemod1-\d\d?.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
 ? Use Wrye Bash Bashed Patch tweak instead where possible.

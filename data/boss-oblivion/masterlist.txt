@@ -5943,6 +5943,8 @@ LC-Dragon-Exnem.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LeatherHunterArmour.esp
 Leere Armor.esp
+LexMiscClothesII.esp
+% {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LichGear.esp
 LiLi six.esp
 
@@ -11133,6 +11135,7 @@ TOTWcamp.esp
 Tunnels of Tamriel.esp
 TWBathByNaratzul.esp
 Twin Myths Of The Dawn.esp
+TxG_NationalMuseum_.esp
 \EndGroup\\
 
 \BeginGroup\: Quests U
@@ -12350,6 +12353,8 @@ Feldscar Vwalk.esp
 
 Gottshaw.esp
 Gottshaw Village.esp
+Gottshaw Village Vwalk.esp
+% {{BASH: Actors.Anims, NoMerge}}
 SRGottshaw0.9 Beta.esp
 
 HanstHolm village.esp
@@ -16525,6 +16530,8 @@ Skeleton Key Revised.esp
 Speedy Looting OBSE.esp
 Speedy Looting - Harvest [Containers].esp
 Speedy Looting - Harvest [Containers] - Player Home Add-on.esp
+Speedy Looting - Harvest [Containers] - Flat-Top Barrels Add-on.esp
+Speedy Looting - Harvest [Containers] - Havok Crates Add-on.esp
 Speedy Looting - OOO.esp
 Speedy Looting - wd purse of wonders.esp
 
@@ -20398,6 +20405,8 @@ kuertee bgMagicEVShader default drain effects.esp
 kuerteeDetectLifeEffectNightEyeShader.esp
 : OBSE.
 : OBSE Night Eye Shader Switcher.
+kuerteeDetectLifeEffect.esp
+kuerteeNightEyeShader.esp
 bgMagicLightningbolt.esp
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 BNewShockBoltEffects20.esp
@@ -20771,6 +20780,7 @@ UnnecessaryViolenceNormalSpeed.esp
 \issue was reported that loading earlier caused lag in scripts - needs verification.
 UVII.esp
  IF (3144EC1B|"UVII.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+UVIICSInGame.esp
 
 DeadlyReflex - Combat Moves.esp
 ? Outdated. Update to v5+.

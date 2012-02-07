@@ -18451,7 +18451,6 @@ CM_Blackie_the_Fence.esp
 CM Pellena Trader Twins.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
-
 A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 A CM Partner - Sah.esp
@@ -18525,6 +18524,8 @@ CM Partner Sallah.esp
 CM Partner Sarija.esp
 CM Partner Sheela.esp
 CM Partner Yuna.esp
+CM Partner Fiona.esp
+REGEX: CM Partners? .+\.esp
 CM recruits.esp
 CmRisingStars.esp
 cmSashaSonja.esp
@@ -18532,9 +18533,6 @@ CM Yana.esp
 cm_Demetra.esp
 CM_Dragonchixx.esp
 cm_Hillary_shamikka.esp
-CM Partner Fiona.esp
-REGEX: CM Partners{0,1} .+\.esp
-\ Test record. This record sort all unrecognised esp named 'CM Partner XXXX.esp' to this position.
 CM DESTINY M.esp
 CM Embla.esp
 CM NIKA SB.esp

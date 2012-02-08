@@ -14890,6 +14890,7 @@ Soulgem Magic.esp
 : OBSE 18+.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
+
 \BeginGroup\: SPT Diverse Guards
 SPTDiverseGuards-Core.esp
 SPTDiverseGuards.esp
@@ -15005,6 +15006,7 @@ SPTDiverseGuards-LeyawiinOCC-AllRaces-Patch.esp
 SPTDiverseGuards-LeyawiinOCR-AllRaces.esp
 SPTDiverseGuards-LeyawiinOCR-AllRaces-Patch.esp
 \EndGroup\\
+
 ssjDawnDuskHotkey.esp
 spMerchant.esp
 SPTDiverseBandits.esp

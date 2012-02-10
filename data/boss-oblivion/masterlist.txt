@@ -9330,6 +9330,7 @@ Forgrum's Travelogue v2.1 Beta.esp
 ? Do not use. This mod is confirmed to break a number of vanilla quests. Delete immediately.
 Fort Baltsine.esp
 Fort_Cooper.esp
+Fort Dreftin.esp
 Fort Falkenshire.esp
 Fort Krakatus.esp
 Fort_FerrionV11.esp
@@ -10535,7 +10536,7 @@ RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
 MOD: Риверсайд.esp
-\The above plugin causes crashes unless preceded by MOD: or REGEX:. See Google Code issue 131 for progress in fixing. The plugin should not have its prefix removed until that issue has been fixed.
+\The above plugin causes crashes if the MOD: prefix is removed, so don't. See Google Code issue 131 for details.
 ROADZeldaRemake - Addon.esp
 RomancingAhnassi.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

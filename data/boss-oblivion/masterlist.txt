@@ -1257,6 +1257,8 @@ realWaters.esp
 SI Alexs better water.esp
 Skyrimized Water v1 HD eng.esp
 % {{BASH: C.Water}}
+Skyrimized Water HD BLUE eng.esp
+% {{BASH: C.Water}}
 Underwater.esp
 UnderwaterVisibilityMod.esp
 Wavy_Water.esp
@@ -9430,6 +9432,7 @@ Gaenor2.esp
 GlimmeringCastle.esp
 Guards.esp
 GwedenBrothel.esp
+ IF (1433B9E8|"GwedenBrothel.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GwedenExpansion.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp

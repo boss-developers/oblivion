@@ -39,7 +39,7 @@
  IF ("Better Cities Resources.esm") SET: BC
  IF ("FCOM_Convergence.esm") SET: FCOM
 \ The second check is a hack until BOSS 1.9's release.
- 
+
 \ Upgrade message for 1.7+ users:
  IF (<1.9.1.0|"BOSS") GLOBAL WARN: An update for BOSS (v1.9.1) has been released. Download it at "http://www.tesnexus.com/downloads/file.php?id=20516", "http://www.skyrimnexus.com/downloads/file.php?id=6", "http://www.fallout3nexus.com/downloads/file.php?id=10193" or "http://www.newvegasnexus.com/downloads/file.php?id=35999"
 
@@ -4649,7 +4649,7 @@ MODMassClothes.esp
 mordSithArmorAndAgiel.esp
 Morrigan God-like Armor.esp
 Morniel_SpecialItem.esp
-Moon and Star Reborn.esp 
+Moon and Star Reborn.esp
 MotoDualGoldbrandEbony.esp
 : OBSE
  IF (9F9B8D08|"MotoDualGoldbrandEbony.esp") DIRTY: 216 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7218,7 +7218,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
 <CoH Spawn Rates Increased.esp
 <CoH 1st Person Anims.esp
 <Curse of Hircine - Werewolf Hunters.esp
-<CurseOfHircine - Symphony of Night.esp 
+<CurseOfHircine - Symphony of Night.esp
 <CoH Unarmored.esp
 
 <Mart's Monster Mod - Blood Fix v3.esp
@@ -7457,7 +7457,7 @@ OWC-ND No Harvest.esp
 OWC - TGPatch.esp
 OWC - No Serial Killers.esp
 OWC - NoSerialKillers.esp
-OWC - NoWindowLights.esp 
+OWC - NoWindowLights.esp
 OWC - Spawn reduced.esp
 OWC ND-Spawn-reduced.esp
 OWC - LessDangerousWilderness.esp
@@ -8357,7 +8357,8 @@ AGC-TARDISinside.esp
 ? use either outside for vanilla or inside for open cities
 AHP.esp
 % {{BASH: Invent}}
-" See You Sleep. Disable on time of game.
+IF ("TOTF.esp") INC: TOTF.esp Disable on time of game. Enable only after complete quests AHP.esp
+" See You Sleep. Disable on time of game. Enable only after complete quests AHP.esp
  IF (5796B117|"AHP.esp") DIRTY: 232 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Akaviri Imports.esp
 akaviriimports.esp
@@ -8905,6 +8906,7 @@ Castle_Dunkerlore_V1.esp
 Castle Dragulia.esp
 Castle_Highrock.esp
  IF (5822A5FD|"Castle_Highrock.esp") dirty: 38 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF ("TheNecromancer.esp") INC: TheNecromancer.esp
 Castle Redwort.esp
 Castle Tirith and Tirith Town.esp
 Castle Tirith and Tirith Town Vwalk.esp
@@ -10136,6 +10138,7 @@ SYS Patch-Mushroom Manor COBL.esp
 
 Malevolent.esp
  IF (969EEDB3|"Malevolent.esp") DIRTY: 88 ITM, 65 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ SAY: Recommended to use after you complete the main quest of Oblivion
 Malevolent Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 OCC-Malevolent-Patch.esp
@@ -10955,6 +10958,7 @@ The Dark Trilogy.esp
 The Duelists.esp
 The Duelists Revolver.esp
 TheForgottenRealm.esp
+SAY: Possible CTDs. Enable only on time of game in TheForgottenRealm.esp
 The Gate of Haraldur 12.esp
 The Haven Of Weye.esp
 The_Honor_of_Assassins.esp
@@ -11226,6 +11230,7 @@ OCC-Verona-Patch.esp
 OCR + Verona Patch.esp
 
 Apachii_Goddess_Store.esp
+ SAY Recommended to enable only after you save game in IC Waterfront District
  IF (6644E61D|"Apachii_Goddess_Store.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (6633E61D|"Apachii_Goddess_Store.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp
@@ -12737,7 +12742,7 @@ Mimics-CloudtopMountains patch.esp
 Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
 ? Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
-GoldenCrest-CloudtopMountains patch.esp 
+GoldenCrest-CloudtopMountains patch.esp
 RST+Cloudtop Mountains.esp
 
 xulArriusCreek.esp
@@ -12813,7 +12818,7 @@ xulRiverEthe.esp
  IF (D3959EE4|"xulRiverEthe.esp") DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - River Ethe DV.esp
 BetterDaedricShrinesMeridia-RiverEthe.esp
-BetterDaedricShrinesMeridia-RiverEthe patch.esp 
+BetterDaedricShrinesMeridia-RiverEthe patch.esp
 BetterDaedricShrinesFull-RiverEthe patch.esp
 BlackMarshHall-RiverEthe patch.esp
 ValleyViewEstate-RiverEthe patch.esp
@@ -14179,8 +14184,8 @@ Jerall-Pass.esp
 Jerall View Inn upgrade.esp
 Jhaerik's Dungeon Fog Remover.esp
  IF (FA68A64E|"Jhaerik's Dungeon Fog Remover.esp") DIRTY: 0 ITM, 1523 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Jhaerik's Dungeon Fog Remover Lite.esp 
- IF (51999419|"Jhaerik's Dungeon Fog Remover Lite.esp ") DIRTY: 0 ITM, 464 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Jhaerik's Dungeon Fog Remover Lite.esp
+ IF (51999419|"Jhaerik's Dungeon Fog Remover Lite.esp") DIRTY: 0 ITM, 464 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 JQ-Backpacks.esp
 JQ-Bandages.esp
 JQ-DisplayPedestals.esp
@@ -15670,6 +15675,7 @@ LTDVampireOverhaul.esp
  IF (BC307C34|"LTDVampireOverhaul.esp") DIRTY: 53 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
 MIVs Vampire Overhaul RUS.esp
+ IF ("Unholy Darkness.esp") INC: Unholy Darkness.esp
 PxVampireFaceReset.esp
 Twillith vampirism 1.7.esp
 ? Old update to 'Twillith vampirism.esp'.
@@ -18834,6 +18840,7 @@ SRJsleepCommandForCSR.esp
 DM_LucienCompanion.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
+SAY: Turn away from all plug-ins affecting sleep.
 % {{BASH: Hair, Eyes}}
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eluna.esp

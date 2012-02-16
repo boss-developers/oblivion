@@ -8900,6 +8900,7 @@ CastleInTheMountain.esp
  IF (466D7AF7|"CastleInTheMountain.esp") DIRTY: 10 ITM, 47 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CastleWestWeald.esp
 CaveOfLostSouls V1.esp
+ IF (62E7808B|"CaveOfLostSouls V1.esp") DIRTY: 54 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CaveOfTheLostBattlemages.esp
 CaveMagrand.esp
 Chateau_Domrose_V.1.2.1-Fr.esp

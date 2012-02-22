@@ -3687,6 +3687,7 @@ Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bluefire Claymore by Mr. V.esp
+Blue-Glass-Extra-Set.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
 Binoculars.esp
@@ -4371,6 +4372,7 @@ Imperial Legion Scout Armour.esp
 impguardpalkey.esp
 Insanity's Kill Bill Katanas.esp
 % {{BASH: Invent}}
+Insanity's Blue Glass Armor.esp
 Insanity's Scarves.esp
 IP_Magerobes.esp
 % {{BASH: Graphics}}
@@ -8587,6 +8589,8 @@ AST_GoldenOakVilla.esp
 AStrangeCave.esp
 Asylum.esp
 Atah wizard home.esp
+ATW_Castle_Vet_v1.3.esp
+ IF (AB48455D|"ATW_Castle_Vet_v1.3.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's Books.esp
 ^ Incompatible with Better Cities IC Market District.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

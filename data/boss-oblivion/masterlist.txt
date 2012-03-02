@@ -3042,6 +3042,7 @@ Vacuity.esp
 
 Xero's Fame Indicator.esp
 
+zzzActiveQuestInfo.esp
 zzCCAO.esp
 zzCCAOPAAddOn.esp
 zzzItemGeneratingSystem.esp
@@ -16369,6 +16370,7 @@ CustomSpellIcons_Cobl.esp
 StealthyAbsorbsAndDrains.esp
 OBMEStealthyAbDr.esp
 OBSE-Zauberentfernung.esp
+zzzTelekinesMaster.esp
 \EndGroup\\
 
 \BeginGroup\: Alchemy

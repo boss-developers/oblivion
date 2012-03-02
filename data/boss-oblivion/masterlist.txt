@@ -1584,6 +1584,7 @@ AmbientDungeons.esp
 ? May have a problem with Storms and Sounds.
 300_Lore_Dialogue_Updated.esp
  IF (876DACA1|"300_Lore_Dialogue_Updated.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (366C8D97|"300_Lore_Dialogue_Updated.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Do NOT use with 300_Lore Dialogue.esp
 300_Random_Clutter.esp
 36Sermons-Miltiades.esp
@@ -1606,6 +1607,7 @@ AliveWaters - Koi Addon.esp
  IF (47A85077|"AliveWaters - Koi Addon.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
 AliveWaters_nofish.esp
+ IF (7618B1DB|"AliveWaters_nofish.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MoreLive_AliveWatersRedone.esp
 MoreLive_AliveWatersRedone_Koi.esp
 MoreLive_AliveWatersRedone_Slaughterfish.esp
@@ -1748,7 +1750,7 @@ BuyableTorch.esp
 \BeginGroup\: Base C
 
 Cobl Bookjackets.esp
-% {{BASH: Graphics}}
+% {{BASH: Graphics, NoMerge}}
 Cats & Rats.esp
 % {{BASH: Scripts}}
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
@@ -3885,6 +3887,7 @@ DarkBrotherhoodPoison.esp
 Dark Rider Armor.esp
 Dark Sorceress.esp
 DarkSaintUFF.esp
+DarkSeducerGoldenSaintArmor.esp
 UFF Dark Saint Armor.esp
 DarkWoods_Weapons_Armor.esp
 Dauphni Clothing.esp
@@ -4378,6 +4381,7 @@ IP_Magerobes.esp
 % {{BASH: Graphics}}
 IrohaClothes.esp
 Iron Maiden Set.esp
+ISEmpireSwords.esp
 IvyArmor_Black.esp
 IvyArmor_Full.esp
 IvyArmor_Purple.esp
@@ -4589,6 +4593,7 @@ LSB Skull Weapons (Clean).esp
 m_DwemerEliteArmorWeps.esp
 Mace_of_Vareon.esp
 Mage Ward.esp
+MakotoOutfit.esp
 M&BAxes.esp
 % {{BASH: Invent}}
 ? make sure to load an overhaul or something after or manually rename the cells that this edits.
@@ -5044,6 +5049,7 @@ $ Not compatible with OOO. Already included in OOO.
 Sinblood's Widow Dress.esp
 Sinbloods_Nightweave_HGEC.esp
 Sinblood Collection.esp
+Sinnocence.esp
 Sister_of_Eisen_BAB.esp
 Sister_of_Eisen_HGEC.esp
 ShaiyaOutfit.esp
@@ -5310,6 +5316,7 @@ The Sword of Cyrodiil.esp
 The Sword of Skyrim.esp
 The Sword of Truth.esp
 ThiefArmor.esp
+Throne Armor.esp
 Throwable kunai.esp
 ThrowableKunai_1C.esp
 THShadowArmor.esp
@@ -6756,6 +6763,7 @@ Hemingweys Capes Improved.esp
 Hemingweys Capes Improved No Tail Capes Patch.esp
 \
 Hemingweys Capes Improved Merchants.esp
+ IF (FD2BF13D|"Hemingweys Capes Improved Merchants.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \
 Hemingweys FCOM Boss Chest Cape Loot.esp
 % {{BASH: Invent}}
@@ -10826,6 +10834,7 @@ Stonewall Shields.esp
 Stonewall Townhouse.esp
 Street Market.esp
 striders.esp
+strotisAyleidClutter.esp
 stWorldMonsters.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Stygian Castle.esp
@@ -12289,6 +12298,7 @@ Oblivifall - Losing My Religion_HOTD_Patch.esp
 Oblivifall - Losing My Religion Blood&Mud.esp
  IF (128C5F11|"Oblivifall - Losing My Religion Blood&Mud.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Sutch Reborn.esp
+Oblivifall - Female Armors.esp
 
 Unique Forts Fort Strand.esp
 ? 4 ITM, 35 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -17146,6 +17156,10 @@ Sneaking Detection Recalibrated.esp
  IF (=4.0|"Sneaking Detection Recalibrated.esp") && IFNOT ("AddActorValues.dll") REQ: "AddActorValues.dll"
 SDR Compatibility Patches.esp
  IF (=4.0|"Sneaking Detection Recalibrated.esp") SAY: Deprecated. Do not use with v4.0 of Sneaking Detection Recalibrated.
+SDR_Core.esp
+ REQ: "SDR_obse.dll", "AddActorValues.dll", "OBSE"
+SDR_NPC Behavior.esp
+" SM Combat Hide, which is included in this plugin.
 
 PureImmersion.esp
 piHealth5x.esp
@@ -17176,7 +17190,11 @@ Oblivion XP Character Generation.esp
 
 \These two need to load after Oblivion XP.esp.
 SDR Perks And Patches - Nehrim.esp
+ERROR: Use the Oblivion version.
+SDR_Perks And Patches (Nehrim).esp
+ERROR: Use the Oblivion version.
 SDR Perks And Patches - Oblivion.esp
+SDR_Perks And Patches (Oblvion).esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -19486,6 +19504,8 @@ OCRAnvil+Integration Path Grid Fix.esp
 bgIntegrationEV Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Silverfish&bgIntegrationPatch.esp
+Integration faces revamped.esp
+% {{BASH: NpcFaces, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Other race/birthsign mods

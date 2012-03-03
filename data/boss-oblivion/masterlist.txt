@@ -4691,6 +4691,7 @@ M16A2_With_m203.esp
 
 naginata.esp
 Naruto items.esp
+Natterforme's Ninja Equipment.esp
 Nature's_bounty.esp
  IF (97D180F0|"Nature's_bounty.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Natures_Arsenal.esp
@@ -17196,7 +17197,7 @@ ERROR: Use the Oblivion version.
 SDR_Perks And Patches (Nehrim).esp
 ERROR: Use the Oblivion version.
 SDR Perks And Patches - Oblivion.esp
-SDR_Perks And Patches (Oblvion).esp
+SDR_Perks And Patches (Oblivion).esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp

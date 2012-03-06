@@ -3297,6 +3297,9 @@ Nude Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TFF_Races_Base_RSM.esp
 TFF_FantasyFigures_Base.esp
+bodyshapes.esp
+\tags not tested
+% {{BASH: Body-F, Body-M, Graphics}}
 Underworld Vampires.esp
 VORB_no_mods.esp
 % {{BASH: Actors.Skeleton, NoMerge}}
@@ -17714,6 +17717,9 @@ Cat_eyes_add.esp
 % {{BASH: Eyes}}
 DesuChan's Anime Eyes (Vanilla).esp
 % {{BASH: Eyes}}
+DN_VampireEyesEB.esp
+WARN: These eyes will not work properly with the Vanilla eye meshes. You need Elaborate Eyes or the Beautiful People 2.7 mod to use these eye textures.
+% {{BASH: Eyes}}
 MP Human Eyes Vanilla Makeover.esp
 % {{BASH: Eyes}}
 Unique Eyes Selection - DV.esp
@@ -18295,6 +18301,10 @@ Classic Witcher.esp
 Classic Witcher RMBR.esp
 Feyri elves.esp
 FLAN - Enayla Demonic.esp
+Dragorian and dranaugh.esp
+flying argnian.esp
+REQ: OBSE
+REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked
 Kani's Elves.esp
 Lattamerv3.esp
 MGothic Breton Race.esp

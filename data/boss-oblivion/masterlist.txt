@@ -689,6 +689,9 @@ Bow_Reach_Fix.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 \EndGroup\\
 
+IF ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
+\Need to load here for Russian GOTY
+
 \BeginGroup\: UOP
 \---
 
@@ -746,8 +749,9 @@ Oblivion_Deutsch_v5_0.esp
 \BeginGroup\: Shivering Isles
 \---------------
 
-DLCShiveringIsles.esp
-? If using the russian GOTY edition, move this plugin before 'Unoffical Oblivion Patch.esp' to allow the UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ")
+IFNOT ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
+\Load here if not russian GOTY, see comment about this.
+IFNOT ("OblivionMsg.esp") WARN: If using the russian GOTY edition, move this plugin before 'Unoffical Oblivion Patch.esp' to allow the UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ")
 SI_rus_DotStudio_1.1.esp
 Traduccion Mejorada S.I.esp
 % {{BASH: Names}} or without Bash load it later.

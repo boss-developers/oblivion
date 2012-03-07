@@ -18301,7 +18301,8 @@ Classic Witcher.esp
 Classic Witcher RMBR.esp
 Feyri elves.esp
 FLAN - Enayla Demonic.esp
-Dragorian and dranaugh.esp
+REGEX: Dragorian and dranaugh( \(No Claws and Feet\))?\.esp
+SAY: Use only one Dragorian and dranaugh*.esp
 flying argnian.esp
 REQ: OBSE
 REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked

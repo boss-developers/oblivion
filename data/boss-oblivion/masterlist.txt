@@ -183,6 +183,7 @@ ArmamentariumEnchanted.esm
 ? Outdated, included in Armamentarium Complete.
 azsTHouse.esm
 MD_Saddle_Master.esm
+Argonien.esm
 Artifacts.esm
 Genzel and Frostcraig Armory.esm
 Hemingweys Capes Improved.esm
@@ -8554,6 +8555,7 @@ ArchersLodge1.1.esp
  IF (208C0818|"ArchersLodge1.1.esp") DIRTY: 13 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Archfall_house.esp
 Archmageexpanded.esp
+Argonien.esp
 Arkay's Valour.esp
 ArkenfellManor.esp
 Arkshtrumz.esp
@@ -16830,6 +16832,8 @@ SilverBonus.esp
 Steady Zoom.esp
 NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp
+Oblivion Global Mod.esp
+INC: Deadly reflex
 BetterBlocking.esp
 DocBlock.esp
 

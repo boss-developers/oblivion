@@ -3268,6 +3268,7 @@ Bab.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F}}
 Bodybuilder Body.esp
 % {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F}}
+Body_replacer.esp
 EVE_StockEquipmentReplacer.esp
 % {{BASH: Graphics, NoMerge}}
 ? For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
@@ -11484,6 +11485,7 @@ Arena_Capacity_Crowds-5845.esp
 Arena Rebuild.esp
 ArenaTrainer.esp
 arenaloot v1.1.esp
+ARS.esp
 Bigger Arena Specator Fights.esp
 Decent Arena Rewards 4X.esp
 Cliff_RankDependantArenaSpectators.esp

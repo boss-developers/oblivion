@@ -12460,7 +12460,7 @@ Reaper's Waterfront.esp
 ? 14 ITM, 60 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Reedstand.esp
 Reedstand Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 runestone.esp
 
 SacredOak_Settlement.esp
@@ -12494,7 +12494,7 @@ OOO-Sutch patch.esp
 
 Urasek.esp
 Urasek Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 
 Vergayun.esp
 Vergayun Vwalk.esp
@@ -13284,7 +13284,7 @@ BetterInns - Salmo the Baker, Cobl PATCH.esp
 
 Sutch Village.esp
 Sutch Village Vwalk.esp
-% {{BASH:Actors.Anims, NoMerge}}
+% {{BASH: Actors.Anims, NoMerge}}
 LostCoast + SutchVillage Patch.esp
 Sutch Village Mehrunes Maze Patch.esp
 

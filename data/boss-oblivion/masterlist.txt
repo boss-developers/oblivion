@@ -3112,6 +3112,9 @@ ShrineMarkers.esp
 Single City Map Markers.esp
 StoneMarkers.esp
 TWMP_MapMarkers_HighRock.esp
+TWMP_MapMarkers_Hammerfell.esp
+TWMP_MapMarkers_Skyrim.esp
+MtHeimthor.esp
 Unmarked places map markers.esp
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
@@ -12361,6 +12364,7 @@ TWMP_BlackMarsh.esp
 TWMP_Azure_Palace.esp
 : Tamriel Heightmaps
 TWMP_Castle_Dunkerlore.esp
+TWMP_TheChain.esp
 TWMP_Thir River.esp
  IF (52ECF190|"TWMP_Thir River.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Rost3_Topal.esp
@@ -18370,6 +18374,7 @@ Synx.esp
 Wiedergaenger Race.esp
  IF (6F1B67D5|"Wiedergaenger Race.esp") DIRTY: 30 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wiedergaenger Race Patch.esp
+WoW death knights.esp
 KHStrangers.esp
 % {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
 X.Dea.Obscura.esp

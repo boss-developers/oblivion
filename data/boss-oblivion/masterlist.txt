@@ -1266,6 +1266,8 @@ Realistic Water.esp
 Real Water.esp
 realWaters.esp
 SI Alexs better water.esp
+Skyrimised Water HD eng.esp
+% {{BASH: C.Water}}
 Skyrimized Water v1 HD eng.esp
 % {{BASH: C.Water}}
 Skyrimized Water HD BLUE eng.esp
@@ -2039,6 +2041,7 @@ FantasyPaintings.esp
 Fatality Cam.esp
 ? Use Wrye Bash Bashed Patch tweak instead where possible.
 Female Lich.esp
+Ferryboats.esp
 FileOne.esp
 Fish!.esp
 Fish! - v1.1.esp
@@ -2714,6 +2717,7 @@ XTS-Merchant-Mod-V1.0.esp
 
 ZariAlchemistsRing.esp
 Zedar.esp
+Ziegbook.esp
 Zombie Replacer_en.esp
 % {{BASH: Graphics, NoMerge}}
 Zombie Replacer_cn.esp
@@ -4377,6 +4381,8 @@ Horse_Dung.esp
 HotApparatus.esp
 HourGlass_1C.esp
 hrAchillesGear.esp
+HTBUnholyChapelShop.esp
+ IF (AE3A26A9|"HTBUnholyChapelShop.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Items I
@@ -5869,6 +5875,8 @@ DM Outlaw armor_EN.esp
 DM Outlaw armor_RU.esp
 dmra_bbb_armamentarium.esp
 : Armamentarium
+DMRA BBB Skimpy Emperor Robe.esp
+% {{BASH: Graphics}}
 DMRA Stock Clothing Replacer.esp
 % {{BASH: Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -8521,6 +8529,7 @@ Angelslayer.esp
 ANKRcottage.esp
 An Old School Dungeon.esp
 AnorielsCrossroadsManor1.2.esp
+An Unexpected Company.esp
 AnavirsPool.esp
  IF (3ADED84A|"AnavirsPool.esp") DIRTY: 115 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Anvill Abandoned House v1.esp
@@ -9544,7 +9553,7 @@ SYS Patch-Hentai's Lovely House 2.esp
 Hentai Mania.esp
 % {{BASH: Hair, Invent, Scripts, C.Owner}}
 >: FCOM_Hentai Mania.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+? 1675 ITM, 425 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hentai ManiaC.esp
 ? Cleaned version of Hentai Mania.esp. Use only one.
 >: FCOM_Hentai Mania.esp and rename to Hentai Mania.esp
@@ -14155,6 +14164,7 @@ GoldItems_1C.esp
 % {{BASH: Stats}}
 GoldCoinBagger.esp
 Golden Perch Inn.esp
+ IF (444F0E35|"Golden Perch Inn.esp") DIRTY: 25 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Golden Perch Inn - AN Patch.esp
 % {{BASH: C.Climate}}
 GoresNoTargetMagicGaining-Vanilla.esp
@@ -14280,6 +14290,7 @@ kuerteeSilentEquipUnequipClothing.esp
 
 \BeginGroup\: overrides L
 
+L&G Billboards Scaled.esp
 Large_Battle_FPS_increase-7447.esp
 Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
@@ -15900,6 +15911,9 @@ Druid Mod.esp
 Duplicate_Item_Spell.esp
 DuplicateItemSpell.esp
 Elemental Horses.esp
+elPatrixF_SummonWorkshop.esp
+elPatrixF_SummonWorkshop_ShiveringIsles.esp
+: Shivering Isles
 Empty_Soul_Gems.esp
 EnchantmentMastery.esp
 Exit.esp
@@ -16484,6 +16498,7 @@ RshAlchemyRecipes.esp
 Obicos_Ingredient_Increaser_v11-5131.esp
 Lightweight Potions.esp
 Zelya.esp
+strotisUsableAlchemyClutter.esp
 
 Herbalism.esp
 Herbalism - Shivering Isles.esp
@@ -19337,6 +19352,7 @@ pussyfur.esp
 TamrielTravellers Cosmetics Cobl or RBP.esp
 % {{BASH: NoMerge, NpcFaces}}
 Prettier Saints and Seducers.esp
+Scarier Orcs.esp
 SkinMannequinCOBL.esp
 SkinMannequinCOBL-sleep.esp
 SkinMannequinCOBL-nosleep.esp

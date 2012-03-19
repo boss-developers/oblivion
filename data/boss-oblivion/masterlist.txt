@@ -9552,9 +9552,11 @@ SYS Patch Hentai's Lovely House.esp
 SYS Patch-Hentai's Lovely House 2.esp
 Hentai Mania.esp
 % {{BASH: Hair, Invent, Scripts, C.Owner}}
+REQ: HGEC, OBSE
 >: FCOM_Hentai Mania.esp
 ? 1675 ITM, 425 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hentai ManiaC.esp
+REQ: HGEC, OBSE
 ? Cleaned version of Hentai Mania.esp. Use only one.
 >: FCOM_Hentai Mania.esp and rename to Hentai Mania.esp
 Hentai Mania addon Break Undies.esp

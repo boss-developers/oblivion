@@ -17412,10 +17412,12 @@ CTAddPose_ryk0.esp
 CTAddPose_Chaos.esp
 CTAddpose_Pinups.esp
 CTAddpose_Pinups_2.esp
+REGEX: CTAddpose.+\.esp
 
 EC's Auto-Standing Idle.esp
 
 DanceSyncEng.esp
+DanceSyncRus.esp
 
 Goma Pose 1.esp
 Goma Pose 2.esp

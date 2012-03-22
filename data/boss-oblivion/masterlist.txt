@@ -4320,6 +4320,7 @@ Hel Borne's Vampire Slayer Sword.esp
 HD Aragorn Armor.esp
 HDespair.esp
 HelmetCollection.esp
+Hellonya IC GoodyChest.esp
 HellspawnBlades.esp
 HellSpawnDaedric for Exnem.esp
 Hell'sExecutioner.esp
@@ -9624,6 +9625,8 @@ Hero's Retreat.esp
 03_Helms_Deep.esp
 Hidden Cave.esp
 hrOscarWiener.esp
+HTBFLYCollection.esp
+HTBNeoSGOutfitsRedone.esp
 Hunter's Haven File 1.esp
 \EndGroup\\
 
@@ -14979,7 +14982,7 @@ SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp
 Soulgem Magic.esp
 % {{BASH: Scripts}}
-: OBSE 18+.
+: OBSE 20+.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 

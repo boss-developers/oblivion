@@ -14169,6 +14169,7 @@ Gold Change II.esp
 GoldItems_1C.esp
 % {{BASH: Stats}}
 GoldCoinBagger.esp
+Goldbrand_Replacer_v1.0.esp
 Golden Perch Inn.esp
  IF (444F0E35|"Golden Perch Inn.esp") DIRTY: 25 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Golden Perch Inn - AN Patch.esp
@@ -14311,6 +14312,7 @@ SoulgemSalvation.esp
 Kosai's Welkynd Armor.esp
 Leviathan Trophy Soulgems.esp
 : Tibixe's String Function Collection and Leviathan Soulgems.
+[Leshik] - SoulGems.esp
 Oblivion - Soulgems.esp
 Oblivion - Potions.esp
 Oblivion - Unique Potions.esp
@@ -18015,6 +18017,9 @@ Nec-Character_Sonnet_Spoiled.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Nephilim.esp
 % {{BASH: NpcFaces, Hair, Eyes, Graphics, Actors.Spells, R.Description, R.Skills, R.Attributes-F, R.Attributes-M}}
+NeuerSheogorath.esp
+ IFNOT ("DLCShiveringIsles.esp") REQ: DLCShiveringIsles.esp
+ IFNOT ("Beautiful People.esm") REQ: Beautiful People.esm
 NorthernSuthay.esp
 OE-Enhanced Races V1.35.esp
 % {{BASH: Eyes, Hair, R.Head, SpellStats}}

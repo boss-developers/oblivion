@@ -63,25 +63,6 @@ BOSS is designed to assist in the usage of mods, helping mod users avoid serious
 BOSS can be downloaded from [url=http://tes.nexusmods.com/downloads/file.php?id=20516]TES Nexus[/url], [url=http://skyrim.nexusmods.com/downloads/file.php?id=6]Skyrim Nexus[/url], [url=http://fallout3.nexusmods.com/downloads/file.php?id=10193]Fallout 3 Nexus[/url] and [url=http://newvegas.nexusmods.com/downloads/file.php?id=35999]Fallout New Vegas Nexus[/url]. All four sites have the same files.
 
 
-[size="5"]Installation & Basic Usage[/size]
-
-[b]Note that BOSS does not support Windows 2000 or earlier.[/b]
-
-1. If you have Wrye Bash, make sure the "Lock Times" function is deactivated.
-
-2. If upgrading from an earlier version of BOSS, delete all BOSS files and folders in your game's Data folder (including the BOSS folder, BOSS.exe, masterlist.txt, modlist.txt, modlist.old, BOSSlog.txt and any of BOSS's .bat files). If you have an edited masterlist, make sure to keep a backup so that your edits are not lost. It is recommended that you instead use the userlist functionality to apply changes to the masterlist.
-
-3. Extract the BOSS archive you downloaded to your game's installation directory (ie. the one containing the Data folder and Oblivion.exe, so "Oblivion", so that there is now a BOSS folder alongside the Data folder and Oblivion.exe.
-
-4. In the BOSS folder, run the "BOSS.exe". This will download the latest masterlist from the Internet and then sort your mods.
-
-5. Thereafter when running BOSS, you may run it directly from the BOSS.exe to simply update your masterlist then sort your mods, or you can use the GUI to choose how BOSS runs.
-
-Once BOSS has finished running, the output will be displayed automatically. Read any notes, errors if applicable, and make any relevant changes that are suggested by them. Wrye Bash will automatically import and apply Bash Tag suggestions from BOSS. Some Bash Tag suggestions can come with conditions and notes that require human intervention though, so read the suggestions makes thoroughly and adjust tags by hand in Wrye Bash if necessary.
-
-You will need to reorder unrecognised mods by hand using OBMM or Wrye Bash.
-
-
 [size="5"]Contributions & Help[/size]
 
 General discussion, and the submission of questions, suggestions and unrecognised or unclean mods, takes place in BOSS's official threads for [url=http://forums.bethsoft.com/?showtopic=1205712]Oblivion[/url], [url=http://forums.bethsoft.com/?showtopic=1132338]Nehrim[/url], [url=http://forums.bethsoft.com/?showtopic=1256118]Skyrim[/url], [url=http://forums.bethsoft.com/?showtopic=1175276]Fallout 3[/url] and [url=http://forums.bethsoft.com/?showtopic=1203068]Fallout: New Vegas[/url].
@@ -103,15 +84,6 @@ Lists of unclean mods are also very welcome, but for the report to be most usefu
 [*] The number of records undeleted (the UDR count) as shown by TES4Edit (not the number of records processed).
 [*] The CRC(s) of the unlcean ESP/ESM file name(s). Make sure that the CRCs are of the uncleaned files, not the files after cleaning. The CRC(s) may be calculated using BOSS, Wrye Bash or 7-zip, with other sources being unverified as correct. In the case of 7-zip, the "CRC checksum for data" is the one required.
 [/list]
-
-
-[size="5"]Updates[/size]
-
-You can check for updates to BOSS then download and install any available using the GUI's "Check For Updates" functionality. Masterlist updates are by default automatically downloaded by BOSS when it runs.
-
-BOSS program updates are also published at the [url=http://tes.nexusmods.com/downloads/file.php?id=20516]TES Nexus[/url], [url=http://skyrim.nexusmods.com/downloads/file.php?id=6]Skyrim Nexus[/url], [url=http://fallout3.nexusmods.com/downloads/file.php?id=10193]Fallout 3 Nexus[/url] and [url=http://newvegas.nexusmods.com/downloads/file.php?id=35999]New Vegas Nexus[/url] BOSS pages. For those not using the masterlist updater, the latest masterlist is always on the Google Code repository.
-
-Always make sure to use the latest version of BOSS and the latest masterlist.
 
 
 [size="5"]License[/size]

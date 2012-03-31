@@ -5031,6 +5031,7 @@ Santa Babe.esp
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
  IF (F496AE96|"Sauron_Armor_Chest.esp") DIRTY: 5 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+SBfingerarmor.esp
 Scarves!.esp
 Scholomance armor.esp
 Schwertleite Armor.esp

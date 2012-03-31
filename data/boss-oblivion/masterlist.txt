@@ -361,6 +361,7 @@ ZoGRusScriptMessagebox.esp
 ZoGRusFactionNames.esp
 Oblivion_1C.esp
 Oblivion_1C_СorrectDirNames.esp
+zOST_MAIN.esp
 Essential_Merchants.esp
 % {{BASH: Actors.ACBS, NoMerge}}
 
@@ -760,6 +761,7 @@ Oblivion_Deutsch_v5_0.esp
 IFNOT ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
 \Load here if not russian GOTY, see comment about this.
 SI_rus_DotStudio_1.1.esp
+zSIpatch.esp
 Traduccion Mejorada S.I.esp
 % {{BASH: Names}} or without Bash load it later.
 FormIDReferenceBugFix.esp
@@ -1629,7 +1631,6 @@ MoreLive_AliveWatersRedone_Koi.esp
 MoreLive_AliveWatersRedone_Slaughterfish.esp
 MoreLive_Mudcrabs.esp
 Dangerous Waters.esp
-
 Acidon_ItemCostFix.esp
 Added Realistic NPC's v1.0.esp
 Addendum - Property Tax.esp
@@ -1644,6 +1645,7 @@ aLHerobook01.esp
 AL_monsters.esp
 AL_MonsterRevisited v1.0.esp
 % {{BASH: Factions, Invent, Relev}}
+AL_Frostwyrm.esp
 Almost Everything VWD.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
@@ -14742,6 +14744,7 @@ Sexier Sheogorath DV.esp
 Sexy Dark Seducer & Golden Saint Armour.esp
 SHRINE REQUIREMENTS LEVEL 2.esp
 SoulGemCreation_ru.esp
+Statues.esp
 
 \BeginGroup\: Sexual Stuff
 BUDungeonCore.esp
@@ -17978,6 +17981,7 @@ DreamWalker.esp
 % {{BASH: NpcFaces, Hair, Eyes}}
 DTC-AR-PluginElaborateEyesFix.esp
 % {{BASH: Eyes}}
+Elf.esp
 Golden Saint Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 PlayableSheogorathMod.esp

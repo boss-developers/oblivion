@@ -2107,8 +2107,6 @@ TDDM.esp
 Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
-Item interchange - Extraction.esp
-% {{BASH: Filter, Deactivate}}
 : Bashed Patch.
 Immersive FOV.esp
 Immersive FOV for BMS.esp
@@ -7850,6 +7848,11 @@ Tamrielic_Ingredients_OOO.esp
 Tamrielic_Ingredients_FraM.esp
 >* Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 
+TGND2 OOO Replacer.esp
+% {{BASH: Graphics, NoMerge}}
+TGND2 Frans Replacer.esp
+% {{BASH: Graphics, NoMerge}}
+
 Morrowind Ingredients_MMM.esp
 ? Consider Upgrading to Tamrielic Ingredients.
 
@@ -11802,6 +11805,8 @@ OCC-KOTN-Patch.esp
 % {{BASH: Actors.AIPackages}}
 All Natural RL - DLC Patch.esp
 Sounds of Cyrodiil - KOTN Add-on.esp
+TGND2 Knights Replacer.esp
+% {{BASH: Graphics, NoMerge}}
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
@@ -17684,6 +17689,8 @@ Cava Obscura - Filter Patch For Mods.esp
 
 FastTravelAllowed.esp
 
+Item interchange - Extraction.esp
+% {{BASH: Filter, Deactivate}}
 Item interchange - Placement.esp
 >* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
 : Bashed Patch.

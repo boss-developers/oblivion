@@ -2107,7 +2107,6 @@ TDDM.esp
 Infinite Charge.esp
 IngredientsInBulk.esp
 IngredientsDrawers.esp
-: Bashed Patch.
 Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
@@ -17691,6 +17690,7 @@ FastTravelAllowed.esp
 
 Item interchange - Extraction.esp
 % {{BASH: Filter, Deactivate}}
+: Bashed Patch.
 Item interchange - Placement.esp
 >* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
 : Bashed Patch.

@@ -219,7 +219,7 @@ BUDungeon.esm
 LoversCreature.esm
 CURP_Controller.esm
 No Lights Flicker.esm
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Ambidextrie.esm
 AFC v2 Core.esm
 Fundament.esm
@@ -615,16 +615,17 @@ TolkieneElderElf.esp
 
 OblivionMsg.esp
 % {{BASH: Names}}
+ IF (F0EE32C5|"OblivionMsg.esp") DIRTY: 100 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 AtiAAFix.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 AtiAAFix_1C.esp
 ? Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 nVidia Black Screen Fix.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 ? Alternatively, remove this and use UOP v3.0.1+ instead.
 Black Screen Fix.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 ? Alternatively, remove this and use UOP v3.0.1+ instead.
 BlackScreenToggleFix.esp
 
@@ -695,11 +696,12 @@ fixterms1C_03.esp
 fixtext1C_04.esp
 % {{BASH: Names}}
 Bow_Reach_Fix.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 \EndGroup\\
 
 IF ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
 \Need to load here for Russian GOTY to allow UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ").
+ IF (DAF51407|"DLCShiveringIsles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 \BeginGroup\: UOP
 \---
@@ -1202,11 +1204,11 @@ NoOblivionWeatherOutside.esp
 " All Natural.
 
 no_wind-2578.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 NoWind.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 No wind.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 
 PTAutumnTrees.esp
 HAZdynamicSnow.esp
@@ -1396,17 +1398,17 @@ RWTavernTemple.esp
 
 Hear-Me-Not.esp
 Footstep Sound Fix.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Quiet Feet Complete.esp
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 QuietFeet Max.esp
 ? Update to v2.0, which does not require a plugin.
 % {{BASH: Sound}}
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 QuietFeet HorseArmor.esp
 % {{BASH: Sound}}
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Silent Player Voice.esp
 ElzMoreVoice.esp
 ElzMoreVoice-For Companion.esp
@@ -1470,6 +1472,7 @@ OBSE-Storms & Sound SI.esp
 ? Use only one Storms and Sound mod file.
 ? This one is compatible with all weather mods.
  IF (AB61AA5A|"OBSE-Storms & Sound SI.esp") DIRTY: 45 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3E9AC1E2|"OBSE-Storms & Sound SI.esp") DIRTY: 46 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Stormier storms.esp
 Storms.esp
@@ -1496,6 +1499,7 @@ Weather Inside.esp
 MIS Weather.esp
 
 Rainbows.esp
+ IF (71BDDEC0|"Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Rainbows_1C.esp
 Better Rainbows.esp
  IF (71BDDEC0|"Better Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -1885,17 +1889,18 @@ CDM - Uderfrykte Matron Fix.esp
 Clamrespawn.esp
 
 ClocksOfCyrodiil.esp
-? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+? Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
  IF (06910C69|"ClocksOfCyrodiil.esp") DIRTY: 46 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ClocksOfCyrodiilBC.esp
-? Deactivate CLocksOfCyrodiil.esp
+ IF ("ClocksOfCyrodiil.esp") SAY: Deactivate CLocksOfCyrodiil.esp
 ? Obsolete. Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ClocksOfCyrodiilOBC.esp
-? Deactivate CLocksOfCyrodiil.esp
-? 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+ IF ("ClocksOfCyrodiil.esp") SAY: Deactivate CLocksOfCyrodiil.esp
+? Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
 ClocksOfCyrodiilNoArcane.esp
 ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
-? Deactivate CLocksOfCyrodiil.esp
+ IF ("ClocksOfCyrodiil.esp") WARN: Deactivate CLocksOfCyrodiil.esp
+ IF (D83FBB37|"ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp") DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-CoC-Patch.esp
 ? Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 ClocksOfCyrodiil - ChorrolTextureChange.esp
@@ -1959,7 +1964,7 @@ Buyable Ayldeid Dishes.esp
 
 CT-Com's Torch Compendium.esp
 % {{BASH: Actors.AIData}}
- IF (C3C7144B|"CT-Com's Torch Compendium.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (C3C7144B|"CT-Com's Torch Compendium.esp") || IF (E0C0457D|"CT-Com's Torch Compendium.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CT-Backpacks.esp
 Cyrodilic Brandy.esp
 % {{BASH: Graphics, Deactivate}}
@@ -2039,14 +2044,14 @@ OCC-Eternium-Patch.esp
 Even Oddities.esp
 Exploding_Arrows_free_ru.esp
 Extended Death Camera.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 \EndGroup\\
 
 \BeginGroup\: Base F
 
 FantasyPaintings.esp
 Fatality Cam.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Female Lich.esp
 Ferryboats.esp
 FileOne.esp
@@ -3185,7 +3190,7 @@ YetAnotherHotkeyMod.esp
 
 DLCHorseArmor.esp
 % {{BASH: Scripts}}
- IF (BAD48E5D|"DLCHorseArmor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (BAD48E5D|"DLCHorseArmor.esp") || IF (2A0FF245|"DLCHorseArmor.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCHorseArmor - Unofficial Patch.esp
 % {{BASH: C.Owner}}
 SM Plugin Refurbish - HorseArmor.esp
@@ -3197,7 +3202,7 @@ Correctif HorseArmor.esp
 Correctif HorseArmor RP.esp
 DLCOrrery.esp
 % {{BASH: Actors.AIPackages}}
- IF (5BC59DB4|"DLCOrrery.esp") DIRTY: 11 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5BC59DB4|"DLCOrrery.esp") || IF (5EF0D503|"DLCOrrery.esp") DIRTY: 11 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCOrrery - Unofficial Patch.esp
 Correctif Orrery.esp
 Correctif Orrery RP.esp
@@ -3217,7 +3222,7 @@ NLF Orrery.esp
 Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
- IF (74D2CA6F|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (74D2CA6F|"DLCVileLair.esp") || IF (2C59F2F0|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 " 'Kumiko Manor'
 DLCVileLair - Unofficial Patch.esp
 % {{BASH: Graphics}}
@@ -3235,7 +3240,7 @@ VileLair_MOBS.esp
 P1DseeYouSleep - DLCVileLair.esp
 
 DLCMehrunesRazor.esp
- IF (CB413740|"DLCMehrunesRazor.esp") DIRTY: 21 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CB413740|"DLCMehrunesRazor.esp") || IF (78FDD06E|"DLCMehrunesRazor.esp") DIRTY: 21 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCMehrunesRazor - Unofficial Patch.esp
 % {{BASH: Delev, Invent, Relev}}
  IF (17517FA6|"DLCMehrunesRazor - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -3272,6 +3277,7 @@ Sounds of Cyrodiil - Mehrune's Razor Add-On.esp
 DLCSpellTomes.esp
 % {{BASH: Relev}}
  IF (312156F8|"DLCSpellTomes.esp") DIRTY: 40 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4ABF2393|"DLCSpellTomes.esp") DIRTY: 44 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCSpellTomes - Unofficial Patch.esp
 " 'CDM-CGO Compatibility plugins'.
 Correctif SpellTomes.esp
@@ -3334,7 +3340,7 @@ bodyshapes.esp
 Underworld Vampires.esp
 VORB_no_mods.esp
 % {{BASH: Actors.Skeleton, NoMerge}}
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 VORB_HGEC_special_armor_repl.esp
 % {{BASH: Graphics, NoMerge}}
 \EndGroup\\
@@ -6381,19 +6387,19 @@ qazSteerHorsesWithMouse.esp
 qazHorseCommand -horsearmor.esp
 % {{BASH: Scripts}}
 MD_FasterHorseTurning.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Faster_Turning_Horses.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 HorsesTurnFaster.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 HorseTurnSpeed-Faster.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 HorseTurnSpeed-Fast.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 HorseTurnSpeed-Fastest.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 974-Faster Turning Horses-TESSource.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 LadyDeadlock_LoveYourHorse.esp
 horse stay put 1.0.esp
 Legion Horses Armored.esp
@@ -6467,7 +6473,7 @@ Ranokoas Organized Potions.esp
 
 DLCThievesDen.esp
 % {{BASH: C.Name, C.Light, Actors.ACBS, Actors.AIPackages, Actors.Stats}}
- IF (05DB8CCC|"DLCThievesDen.esp") DIRTY: 5 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (05DB8CCC|"DLCThievesDen.esp") || IF (7BF882E1|"DLCThievesDen.esp") DIRTY: 5 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCThievesDen - Unofficial Patch.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats, C.Light, C.Music, C.Name, Delev, Relev}}
 Correctif ThievesDen.esp
@@ -6607,6 +6613,7 @@ Slof's Oblivion Robe Trader.esp
 % {{BASH: Graphics}}
 >: 'FCOM_SlofsRobeTrader.esp'.
  IF (2613C2F9|"Slof's Oblivion Robe Trader.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9D2961CB|"Slof's Oblivion Robe Trader.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Morrowind Ingredients_Combo.esp
 Tamrielic_Ingredients_cOMbo.esp
@@ -6615,10 +6622,12 @@ FCOM_TamrielicIngredients.esp
 
 Cobl Main DE.esp
 Cobl Main RUS.esp
+ IF (8A79A499|"Cobl Main RUS.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cobl Glue.esp
  IF (EAB6315A|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (EAB63159|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (9FA7EEF9|"Cobl Glue.esp") DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8A79A499|"Cobl Glue.esp") DIRTY: 1 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >? If using Cobl 1.72 and a version of FCOM below 0.9.9, also use the FCOM patch 'FCOM_Cobl.esp', or 'MMM_Cobl.esp'. If you are using UFCOM then use "OOO 1.32-Cobl.esp" instead of those patches.
 OC+COBL Luggage Patch.esp
 ? Outdated. Upgrade to Open Cities Classic or Open Cities Reborn and use the patch for whichever one you choose.
@@ -6655,7 +6664,7 @@ PoisonousIntent Cobl.esp
 
 Bob's Armory Oblivion.esp
 >: 'FCOM_BobsArmory.esp'.
- IF (DE136AF6|"Bob's Armory Oblivion.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (DE136AF6|"Bob's Armory Oblivion.esp") || IF (A1FBC6B8|"Bob's Armory Oblivion.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cheat Bob's Armory Oblivion.esp
  IF (9D227096|"Cheat Bob's Armory Oblivion.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bob's Armory OblivionRU.esp
@@ -6980,6 +6989,7 @@ John's Leveled List Overhaul - Town Honour Guards.esp
 
 OOO 1.32-Cobl.esp
 % {{BASH: Delev, Invent}}
+ IF (10E32F6B|"OOO 1.32-Cobl.esp") DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FCOM_Cobl.esp
 % {{BASH: Delev, Relev}}
 : 'Cobl Glue.esp' and 'OOO 1.32-Cobl.esp'.
@@ -7238,6 +7248,7 @@ Fletching Compilation.esp
 >Mart's Monster Mod - Diverse Creature Skins.esp
 >* Obsolete. Remove this and update to MMM 3.7+ and associated version of FCOM.
 >Mart's Monster Mod - Farm Animals.esp
+> IF (A00E61D1|"Mart's Monster Mod - Farm Animals.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 >Mart's Monster Mod - Diverse Haunted Head.esp
 >Mart's Monster Mod - Diverse WaterLife.esp
 >Mart's Monster Mod - Diverse Wisps.esp
@@ -7407,6 +7418,7 @@ MALO - Clutter Replacer MMM - HUNT.esp
 <? Obsolete. Remove this and update to 3.7b3+. Use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
 <Mart's Monster Mod - Friendlier Factions OOO.esp
 <Mart's Monster Mod - Farm Animals.esp
+< IF (A00E61D1|"Mart's Monster Mod - Farm Animals.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 <Mart's Monster Mod - Diverse Haunted Head.esp
 <Mart's Monster Mod - Diverse WaterLife.esp
 <Mart's Monster Mod - Diverse Wisps.esp
@@ -7508,6 +7520,7 @@ Choices and Consequences - MMM - Looting NPCs & Creatures.esp
 \BeginGroup\: OWC New Dimensions
 OWC - Mannequin.esp
 OWC - Seaworld.esp
+ IF (A9894CF0|"OWC - Seaworld.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OWC - New Dimension.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Spells, Actors.Stats, Body-F, Body-Size-F, Body-M, Body-Size-M, C.Water, Delev, Eyes, Graphics, Hair, Invent, NPC.Race, Names, R.AddSpells, R.Head, R.Relations, Relations, Relev, Scripts, Stats}}
  IF (6450282|"OWC - New Dimension.esp") DIRTY: 198 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -7564,7 +7577,7 @@ TamrielTravellers4000.esp
 >: 'FCOM_TamrielTravelers.esp'.
 TamrielTravellers4OOO.esp
 >: 'FCOM_TamrielTravelers.esp'.
- IF (2CB068DB|"TamrielTravellers4OOO.esp") DIRTY: 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2CB068DB|"TamrielTravellers4OOO.esp") || IF (E75D466D|"TamrielTravellers4OOO.esp") DIRTY: 78 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TamrielTravellers4OOO Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellersItemsNPC.esp
@@ -7579,7 +7592,7 @@ TamrielTravellersItemsUnscaled.esp
 ShiveringIsleTravellers.esp
 ? Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
 : Shivering Isles expansion.
- IF (36DD18E|"ShiveringIsleTravellers.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (36DD18E|"ShiveringIsleTravellers.esp") || IF (8D5A0190|"ShiveringIsleTravellers.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShiveringIsleTravellers Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 TamrielTravellers - ShiveringIsleTravellersFriendlyFaction.esp
@@ -7618,7 +7631,7 @@ FCOM_Archery_Armamentarium.esp
 FCOM_Archery_Artifacts.esp
 % {{BASH: Stats}}
 FCOM_ArcheryRealSwords.esp
-: 'FCOM_Realswords.esp'.
+: 'FCOM_Realswords.esp'
 % {{BASH: Stats}}
 FCOM_Archery_RealSwords.esp
 : 'FCOM_Realswords.esp'
@@ -7950,6 +7963,7 @@ WAC OgrePatch.esp
 WAC.esp
 % {{BASH: Graphics}}
  IF (C8D70EC3|"WAC.esp") DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WAC - No Gore Object.esp
 WAC v1 BulkyMonsters.esp
 % {{BASH: Graphics}}
 WAC Giants Patch.esp
@@ -7981,6 +7995,7 @@ WAC - OverSpawn4v1.0bTIE.esp
 % {{BASH: Delev, Relev}}
 WAC - BlackBootDungeon.esp
  IF (7C253683|"WAC - BlackBootDungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WAC - BlackBootDungeon NGO.esp
 WAC - Dead Knights.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Actors.AIData, Actors.AIPackages}}
 WAC - Dead Knights Fix.esp
@@ -7988,6 +8003,7 @@ WAC - Dead Knights Fix.esp
 WAC - Player Summons.esp
  IF (77FF1D67|"WAC - Player Summons.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (EA321AD6|"WAC - Player Summons.esp") DIRTY: 30 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WAC - Player Summons NGO.esp
 WAC - Birds&Insects.esp
  IF (34E5DAEC|"WAC - Birds&Insects.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - Companions.esp
@@ -8017,13 +8033,14 @@ WAC - Gladiator.esp
 WAC - Magic.esp
  IF (290989F0|"WAC - Magic.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - QuietFeet.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 
 WACESM_MiscItemsRebal.esp
 % {{BASH: Stats}}
 WACESM_Ingredients_Rebalance.esp
 % {{BASH: Stats}}
 WAC-OOO.esp
+ REQ: OOO
 WAC - Cat Crash Fix.esp
 % {{BASH: Actors.Skeleton, NoMerge}}
 
@@ -8049,17 +8066,17 @@ beardy.esp
 \BeginGroup\: CNRP
 CNRP Brumav02.esp
 % {{BASH: Invent}}
-$ With FCOM/OOO use 'CNRP Bruma4OOO.esp' instead.
+ IF ($FCOM) || IF ($OOO) WARN: Use 'CNRP Bruma4OOO.esp' instead.
 CNRP Bruma4OOO.esp
 % {{BASH: Invent}}
 CNRP Chorrol.esp
 % {{BASH: Invent}}
-$ With FCOM/OOO use 'CNRP Chorrol4OOO.esp' instead.
+ IF ($FCOM) || IF ($OOO) WARN: Use 'CNRP Chorrol4OOO.esp' instead.
 CNRP Chorrol4OOO.esp
 % {{BASH: Invent}}
 CNRP DB.esp
 % {{BASH: Invent, Graphics}}
-$ With FCOM/OOO use 'CNPR DB for OOO.esp' instead.
+ IF ($FCOM) || IF ($OOO) WARN: Use 'CNPR DB for OOO.esp' instead.
 CNPR DB for OOO.esp
 % {{BASH: Invent, Graphics}}
 \looks like a mispelling but listed on the mod page as such so maybe?
@@ -8069,11 +8086,12 @@ CNRP FB for OOO.esp
 % {{BASH: Invent}}
 CNRP Cheydinhal.esp
 % {{BASH: Invent}}
-$ With FCOM/OOO use 'CNRP Cheydinhall4OOO.esp' instead.
+IF ($FCOM) || IF ($OOO) WARN: Use 'CNRP Cheydinhall4OOO.esp' instead.
 CNRP Cheydinhal4OOO.esp
 % {{BASH: Invent}}
+ IF (A9DDC458|"CNRP Cheydinhal4OOO.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CNRP FightersGuild.esp
-$ With FCOM/OOO use 'CNRP FightersGuild4OOO.esp' instead.
+ IF ($FCOM) || IF ($OOO) WARN: Use 'CNRP FightersGuild4OOO.esp' instead.
 % {{BASH: Invent}}
 CNRP FightersGuild4OOO.esp
 % {{BASH: Invent}}
@@ -8317,7 +8335,7 @@ Storms & Sound - Talos Bridge Gatehouse.esp
 Trade and Commerce.esp
  IF (DC6AFCCD|"Trade and Commerce.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (C5C1D187|"Trade and Commerce.esp") DIRTY: 17 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (955A7549|"Trade and Commerce.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (955A7549|"Trade and Commerce.esp") || IF (111317D8|"Trade and Commerce.esp") DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Quests #
@@ -8675,7 +8693,7 @@ Auriel's Books.esp
 ^ Incompatible with Better Cities IC Market District.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat.esp
- IF (CB6EF46D|"Auriel's_Retreat.esp") DIRTY: 2875 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CB6EF46D|"Auriel's_Retreat.esp") || IF (4446B5C1|"Auriel's_Retreat.esp") DIRTY: 2875 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auriel's_Retreat Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 AuriCloudRulerAddons.esp
@@ -8943,6 +8961,7 @@ CaesarRanger.esp
 SYS Patch Caesar Ranger.esp
 Cadbury_Castle.esp
 Cardac.esp
+ IF (39F1A5A7|"Cardac.esp") DIRTY: 23 ITM, 427 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Casa Bella Vista.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
@@ -9034,6 +9053,7 @@ ChangeinManagement.esp
 Chapels.esp
 Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
+ IF (021CF774|"Clamshell_Cottage_v1.5.esp") DIRTY: 0 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Clamshell_Cottage_v1.5_COBL.esp
 ArCloudRulerArmoryExtended.esp
 Cliff Cottage.esp
@@ -9164,7 +9184,7 @@ DarkLair.esp
 DarkLight Mithril Armor.esp
 Darklore Manor_V2.esp
 DarknessHollows.esp
- IF (A81A605C|"DarknessHollows.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A81A605C|"DarknessHollows.esp") || IF (2D2AB30D|"DarknessHollows.esp") DIRTY: 22 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DarknessHollows Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 DarkstarTower.esp
@@ -9172,8 +9192,8 @@ DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
 (DC) Sutch Reborn.esp
-? Use 'SutchReborn-LostCoast patch.esp' compatibility patch if using Unique Landscapes' Lost Coast.
- IF (E88717D7|"(DC) Sutch Reborn.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF ("xulBeachesOfCyrodiilLostCoast.esp") REQ: SutchReborn-LostCoast patch.esp
+ IF (E88717D7|"(DC) Sutch Reborn.esp") || IF (3A3BEC75|"(DC) Sutch Reborn.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 (DC) Sutch Reborn Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Sutch Reborn Spawn Patch.esp
@@ -9676,6 +9696,7 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
+ IF (FE41E7A8|"Imperial_City_Cave_House-9473.esp") DIRTY: 1 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImperialCityApartment.esp
 Imperial City Manor.esp
 " Region Revive - Lake Rumare.
@@ -9938,9 +9959,8 @@ Kvatch - No Fire.esp
 Kvatch Rebuilt.esp
 % {{BASH: Actors.AIPackages, Invent}}
  IF (34A9FAC9|"Kvatch Rebuilt.esp") DIRTY: 26 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (61F4A8B9|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (CC9713B1|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (74FA387E|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (61F4A8B9|"Kvatch Rebuilt.esp") || IF (74FA387E|"Kvatch Rebuilt.esp") || IF (A26D1D81|"Kvatch Rebuilt.esp") DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-KR-Patch.esp
 OCR + Kvatch Rebuilt Patch.esp
 Kvatch Rebuilt - Oblivion XP Patch.esp
@@ -10107,6 +10127,7 @@ LordKain_Adash_World Vwalk.esp
 Lorekeep.esp
 Lost Chapel.esp
 Lost_Happ.esp
+ IF (42EFBD66|"Lost_Happ.esp") DIRTY: 447 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LostGod.esp
 LostSwordOfTheAylied.esp
  IF (DD4B7009|"LostSwordOfTheAylied.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10347,6 +10368,7 @@ NEW SHEOTH PALACE LOD FIX-TESSource.esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NewMGQuests.esp
 % {{BASH: Actors.AIPackages}}
+ IF (DF4CDC4D|"NewMGQuests.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NibenayFortress.esp
 Niflheim.esp
 Night Shops of Cyrodiil.esp
@@ -10407,7 +10429,8 @@ NNWARE05-Bawn.esp
 \GTAesgaard moved here to avoid land tears with the above set of mods.
 GTAesgaard.esp
  IF (94A96B7D|"GTAesgaard.esp") DIRTY: 107 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-GTAesgaard_1.esp
+ IF (7D7EA42E|"GTAesgaard.esp") DIRTY: 77 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ GTAesgaard_1.esp
 GTAesgaard_delayer.esp
 Gates To Aesgaard Weather Patch.esp
 ? Obsolete. Remove this and update to the latest version of Gates To Aesgaard Episode 1.
@@ -11581,6 +11604,7 @@ fpsboost-arenanolights.esp
 
 DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CADD3FD0|"DLCBattlehornCastle.esp") DIRTY: 18 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
  IFNOT (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11641,6 +11665,7 @@ DLCFrostcrag.esp
  IF (9B056616|"DLCFrostcrag.esp") DIRTY: 3 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E3DACFFD|"DLCFrostcrag.esp") DIRTY: 0 ITM, 131 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (641C4EC0|"DLCFrostcrag.esp") DIRTY: 0 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8C95F38D|"DLCFrostcrag.esp") DIRTY: 22 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DSoSFrostCragRebornExteriorStairsFix.esp
  IF (D2621E65|"DSoSFrostCragRebornExteriorStairsFix.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kvatch Rebuilt_Frostcrag Reborn.esp
@@ -11725,6 +11750,7 @@ Ulrim's Horses - Vanilla.esp
 
 Knights.esp
 % {{BASH: Actors.AIPackages, Factions, Relations}}
+ IF (71480B94|"Knights.esp") DIRTY: 113 ITM, 255 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (F1F478FA|"Knights.esp") DIRTY: 121 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Knights - Book Jackets.esp
 % {{BASH: Graphics, NoMerge}}
@@ -11786,7 +11812,7 @@ Ulrim's Horses - Knights patch.esp
 QuietFeet.esp
 ? If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
 ? Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Mart's Monster Mod - Knights of the Nine Patch.esp
 >* Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
 % {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
@@ -11877,6 +11903,7 @@ Cybiades Vwalk.esp
 Cybiades v2.1 Delayer.esp
 
 Castle_Knightstone.esp
+ IF (69EB3112|"Castle_Knightstone.esp") DIRTY: 14 ITM, 249 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 TOTF.esp
  IF (14BBA6EE|"TOTF.esp") DIRTY: 76 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11928,6 +11955,7 @@ CUO_Bravil.esp
  IF (A1A0CAA2|"CUO_Bravil.esp") DIRTY: 42 ITM, 729 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Lost Spires.esp
+ IF (8BBD7F36|"The Lost Spires.esp") DIRTY: 164 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (5B6ADFB3|"The Lost Spires.esp") DIRTY: 165 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (B90E1A6D|"The Lost Spires.esp") DIRTY: 163 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OCC-Lost Spires-Patch.esp
@@ -12006,6 +12034,7 @@ $ Has some landscape issues with OOO.
 
 HoarfrostCastle.esp
 % {{BASH: Hair}}
+ IF (8512B421|"HoarfrostCastle.esp") DIRTY: 71 ITM, 734 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (A93FE299|"HoarfrostCastle.esp") DIRTY: 4 ITM, 730 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (F0AC781E|"HoarfrostCastle.esp") DIRTY: 12 ITM, 738 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hoarfrost Raid.esp
@@ -12060,8 +12089,7 @@ The Legendary Mannimarco.esp
 Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
-Shadowcrest_Vineyard_COBL.esp
- IF (9FD89158|"Shadowcrest_Vineyard_COBL.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (497EDBA5|"Shadowcrest_Vineyard.esp") || IF (9FD89158|"Shadowcrest_Vineyard_COBL.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
@@ -12164,13 +12192,14 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
- IF (832BF961|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (832BF961|"ElsweyrAnequina.esp") || IF (3EE060AB|"ElsweyrAnequina.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina DV.esp
 ? Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
  IF (85B9199D|"ElsweyrAnequina DV.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (51A6A4D3|"ElsweyrAnequina DV.esp") DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unofficial Elsweyr Anequina Patch.esp
 % {{BASH: Actors.AIData, Actors.AIPackages, C.Light, C.Owner, Factions, Invent, Names}}
+ IF (AD4131F8|"Unofficial Elsweyr Anequina Patch.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp
 " ElsweyrAnequina - SevereDesert NoSpider.esp
@@ -12246,6 +12275,7 @@ Elsweyr Valenwood Daedric Shrine Patch.esp
 SLWA_Anequina_Patch.esp
 SYS Patch-Elsweyr Anequina.esp
 Walkabout.esp
+ IF (31BE18D9|"Walkabout.esp") DIRTY: 21 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (594A8E9B|"Walkabout.esp") DIRTY: 27 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (379F2A1B|"Walkabout.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina - FixRespawnPoint.esp
@@ -12332,6 +12362,7 @@ Castle_Tirith Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 HeartoftheDead.esp
 % {{BASH: Actors.AIPackages, Hair}}
+ IF (36834EFA|"HeartoftheDead.esp") DIRTY: 140 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HeartOftheDead Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 OC-HOD-Patch.esp
@@ -12546,6 +12577,7 @@ Split Expansion.esp
 Split Expansion Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 StalhrimVillage.esp
+ IF (1D11672D|"StalhrimVillage.esp") DIRTY: 0 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StalhrimVillage - AN Patch.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
@@ -12659,7 +12691,7 @@ TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
 Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
- IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") || IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valenwood Improved - Fallenleaf Everglade DV - Patch.esp
 
 xulColovianHighlands.esp
@@ -12717,6 +12749,7 @@ Sousmarin-beaches fix.esp
 ? Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 Castle_Almgard-V2.esp
 ? Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
+ IF (40E0F4DA|"Castle_Almgard-V2.esp") DIRTY: 13 ITM, 1396 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 anvil bay+ul tweak.esp
 ? Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 BrewHouse-LostCoast patch.esp
@@ -12809,6 +12842,7 @@ NicVBetterBeggars-BravilBarrowfields patch.esp
 GoldenCrest-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
+ IF (62FB2C49|"xulLushWoodlands.esp") DIRTY: 0 ITM, 648 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (FA59EB15|"xulLushWoodlands.esp") DIRTY: 52 ITM, 940 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
@@ -12882,6 +12916,7 @@ Verwen Brewery UL_AY_AC Compatable.esp
 ? 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 VillageOfLily-xulPatch_AYAC patch.esp
 HeartoftheDead-ArriusCreek patch.esp
+ IF (EA1F2756|"HeartoftheDead-ArriusCreek patch.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ColdstoneTown-ArriusCreek patch.esp
 ? Do not use with 'ColdstoneTown-BravilBarrowfields patch.esp'; ColdstoneTown-BravilBarrowfields patch.esp includes the changes from this patch.
 CountryHome-ArriusCreek patch.esp
@@ -13003,6 +13038,7 @@ wb_TBG_RR-LR_UL-II_patch.esp
 ULPatchTinyHouse.esp
 
 xulBlackwoodForest.esp
+ IF (781AC4EB|"xulBlackwoodForest.esp") DIRTY: 39 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Blackwood Forest DV.esp
 CastleDunkerlore-BlackwoodForest patch.esp
 UnholyChatedral-BlackwoodForest patch.esp
@@ -13029,6 +13065,8 @@ TrailsOfCyrodiil-CheydinhalFalls patch.esp
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
 Blackscar Citadel - Aspenwood Patch.esp
+Cardac-xulAspenWood-patch.esp
+ IF (8B508D9F|"Cardac-xulAspenWood-patch.esp") DIRTY: 0 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lakewood+AspenWood Patch.esp
 EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
@@ -13057,6 +13095,7 @@ SnowLineLodge-Snowdale patch.esp
 GatesToAesgaardEp2-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
+ IF (E9AEB1BF|"xulCliffsOfAnvil.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (701EF543|"xulCliffsOfAnvil.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Cliffs Of Anvil DV.esp
 OOOCliffsofAnvilPatch.esp
@@ -13129,6 +13168,7 @@ TrailsOfCyrodiil-UL merged patch.esp
 A Imperial Outpost - Fort Novi Sad.esp
 
 ImpeREAL Empire - Unique Forts.esp
+IF (AD577F04|"ImpeREAL Empire - Unique Forts.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL Empire - Unique Forts Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 ImpeREAL Empire - Unique Forts - Clydesdale Horses - By Xtudo.esp
@@ -13181,7 +13221,7 @@ BrinaCrossVillage -- COBL.esp
 Brina Cross Village--Unique Forts Patch.esp
 
 Castle_Seaview.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D347242F|"Castle_Seaview.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CSV_Farms.esp
 CSV_Farms_Road_Open_Cities.esp
 ? Obselete, update to latest version.
@@ -13204,6 +13244,7 @@ Castle_Wolfspike.esp
 SYS Patch Castle Wolfspike V1.esp
 Patch-Wolfspike-UL.esp
 Castle Wolfspike2.esp
+IF (69690C28|"Castle Wolfspike2.esp") DIRTY: 50 ITM, 260 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch Castle Wolfspike V2.esp
 
 The Ruins of Miscarcand.esp
@@ -13214,6 +13255,7 @@ Miscarcand Expanded.esp
 
 bartholm.esp
  IF (7DE84455|"bartholm.esp") DIRTY: 211 ITM, 553 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (410DEBEB|"bartholm.esp") DIRTY: 190 ITM, 553 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Bartholm-Panther River Patch.esp
 ? Obsolete. Remove this and update to the latest versions of Bartholm and UL Panther River.
 bartholm - EE patch.esp
@@ -13242,8 +13284,10 @@ LilyvaleULcompatibility.esp
 LilyBATTLEHORNcompatibility.esp
 
 Millstone_Farm.esp
+IF (8BAB5B62|"Millstone_Farm.esp") DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Millstone_Farm_COBL.esp
 Millstone_UL_Patch.esp
+ IF (F7081B36|"Millstone_UL_Patch.esp") DIRTY: 13 ITM, 116 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MillstoneCOBL_UL_Patch.esp
 
 Oblivion Gate Map Marker Remover.esp
@@ -13652,7 +13696,7 @@ Harvest [Flora] - Shivering Isles.esp
 NoHFailure_HFlora_SE.esp
 Harvest [Flora] - DLCVileLair.esp
 Harvest [Flora] - DLCFrostcrag.esp
- IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (ADFEEDB5|"Harvest [Flora] - DLCFrostcrag.esp") ||  IF (67EB4689|"Harvest [Flora] - DLCFrostcrag.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Basement for Cobl - My Custom Plants Show Harvested Status.esp
 : Harvest Flora
 Pitcher Plant and Lily Ingredients.esp
@@ -14139,6 +14183,7 @@ Everlasting Corpses v 1.0.esp
 Factions DB v1.16.esp
 % {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, Graphics, Invent, Names, Scripts, Stats}}
 Factions Dark Brotherhood.esp
+IF (C9B0B2EA|"Factions Dark Brotherhood.esp") DIRTY: 26 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 faster-grass.esp
 Faster-trees.esp
 Fast Travel Expanded.esp
@@ -14509,7 +14554,7 @@ NoObsoleteLoot.esp
 ? Highly likely to be incompatible with every overhaul out there.
 No Screensaver.esp
 NoWindSI.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
 No Troll Regen.esp
@@ -14714,6 +14759,7 @@ Respawning Varla & Welkynd Stones.esp
  IF (49328AE8|"Respawning Varla & Welkynd Stones.esp") DIRTY: 0 ITM, 727 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Retros Fletching and Imbueing.esp
 ? May not be compatible with MMM crafting - untested.
+ IF (4AA8EE9A|"Retros Fletching and Imbueing.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Retros Fletching and Imbueing 1.7.1_rus.esp
 ? May not be compatible with MMM crafting - untested.
 ReteroX_OBEvilSkeletons.esp
@@ -16286,7 +16332,7 @@ Diverse Effect Icons for SM.esp
 
 MidasSpells.esp
 % {{BASH: Invent}}
- IF (E39AF0AC|"MidasSpells.esp") DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E39AF0AC|"MidasSpells.esp") || IF (49120D50|"MidasSpells.esp") DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AK- Midas Spellswap.esp
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
@@ -16420,13 +16466,13 @@ Wizard'sSpellBook.esp
  IF (1A8F35F2|"Wizard'sSpellBook.esp") DIRTY: 31 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 arcanevelocity200.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Faster Spells.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 FasterArrows200.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 FasterArrows250.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Spell Ranks.esp
 ? Use Wrye Bash Bashed Patch tweak 'Rational Names' where posible.
 
@@ -16846,9 +16892,9 @@ arrow damage 1_5.esp
 Arrows Extra Damage.esp
 % {{BASH: Stats}}
 Arrows In Cell x3.esp 
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Arrows Remain 10min.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 AutoOffhand.esp
 Can´t touch me!.esp
 
@@ -16894,19 +16940,19 @@ Increased_Weapon_Perk_Chance-4558.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
 More_Arrows_Recovered-2169.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 [Calsar] ArrowSpeedRealism.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 [Calsar] ArrowSpeedRealismSI.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 ArrowVelocity.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 change arrow speed x2.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
 Pfeilgeschwindigkeit.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 CombatFPSOptimizer.esp
 All Natural Combat FPS Optimizer Updated Patch.esp
 Oss133FrameRateOptimizer.esp
@@ -16916,12 +16962,12 @@ seph dual wield.esp
 exhDual_Wield_Complete.esp
 arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
 MagicDefence.esp
 mighty_bows_arrows_recovery.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 mighty_bows_full.esp
 % {{BASH: Stats}}
 mighty_bows_damage_bonus.esp
@@ -16953,9 +16999,9 @@ JM's Bar Fights mortal.esp
 JM's Bar Fights.esp
 ? Pick and use only 1 of the 2 JM's Bar Fight mod files.
 Longer_KnockOut-6523.esp
-? Use Wrye Bash Bashed Patch Tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Unconscious For 5min.esp
-? Use Wrye Bash Bashed Patch Tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 QuickPowerAttacks 1.0.esp
 qazAttackToCast.esp
 Realistic Combat.esp
@@ -17077,7 +17123,7 @@ SpookyNPCAIModsMerge.esp
 Enemy Actors AutoHeal 1.3.esp
 Mister Misanthrope's Custom Settings.esp
 MM_AllowAlchemy.esp
-? Use Wrye Bash Bashed Patch Tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 MM_AlchemyPotions.esp
 MM_SneakMelee.esp
 PTActorsCare.esp
@@ -17690,27 +17736,27 @@ FastTravelAllowed.esp
 
 Item interchange - Extraction.esp
 % {{BASH: Filter, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Placement.esp
 >* Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Placement for FCOM.esp
 % {{BASH: Delev, Filter, IIM, Invent, Relev, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 <? FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
 % {{BASH: Filter, IIM, Invent, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Placement for Frostcrag Reborn.esp
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Placement for Frostcrag Spire Revisited.esp
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Option, Ingredients in Bulk.esp
 ? Use only one "Ingredients in Bulk" plugin.
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Item interchange - Option, Ingredients in Bulk, reduced.esp
 ? Use only one "Ingredients in Bulk" plugin.
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Atmospheric Loading Screens - No Text.esp
 % {{BASH: Graphics}}
 No Loading Screen Text v1.0.esp
@@ -17930,6 +17976,7 @@ VipCxj_HairEyeSet.esp
 \EndGroup\\
 
 CM Partners.esp
+ IF (D1DE9617|"CM Partners.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 \BeginGroup\: Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
@@ -19957,6 +20004,7 @@ Better Cities - Stranded Light.esp
 Better Cities - The Lost Spires.esp
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
+ IF (52344AB9|"Better Cities - COBL.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Cities - Dwemer Subway.esp
 Better Cities - Unique Landscape Imperial Isle.esp
 Better Cities - Vvardenfell Imports.esp
@@ -20318,182 +20366,182 @@ Think to Yourself.esp
 Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
 ? Respawn and Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's day lenght rescale 1-12.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's day lenght rescale 1-16.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's day lenght rescale 1-20.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's day lenght rescale 1-24.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's day lenght rescale 1-30.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 21 days respawn time.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 14 days respawn time.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 10 days respawn time.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Francesco's 7 days respawn time.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 OOO-Respawn_Year.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 OOO-Respawn_Month.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 OOO-Respawn_Two_Week.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 OOO-Respawn_Week.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Z 1 Hour respawn.esp
 ? Respawn mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 ThingasTime 1-15 Scale.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Automatic Timescale.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
 Timescale 5x Real-Life.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Timescale 10x Real-Life.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Time-2hr-realtime.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 REGEX: TF_timemod1-\d\d?.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 VG0SmarterTimescale.esp
 ? Timescale mod
 ? Use only one Respawn or Timescale mod
@@ -20549,11 +20597,11 @@ No_More_Gatestorm_on_Oblivion_gates-9654.esp
 AlterFX.esp
 kuerteeEffectDrainShaderInitialGlowOnly.esp
 Chameleon-NoRefraction.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Chameleon-NoRefraction-2411.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 1310-chamelion-norefraction-tessource.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 Disable_Weapon_Membrane_Shaders-3127.esp
 spellstrip 1.0.esp
 % {{BASH: Graphics, NoMerge}}
@@ -20937,13 +20985,13 @@ JazzJRKhajiitfeets.esp
 % {{BASH: Invent}}
 LT_EquipTailItem.esp
 MassA.I.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 MassA.I-30.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 MassA.I-40.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 MassA.I-50.esp
-? Use Wrye Bash Bashed Patch tweak instead where possible.
+ IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
 MiniMap.esp
 soundfix_DV.esp
 MrPwner's Falling.esp
@@ -21099,40 +21147,40 @@ CSVF_Road_Record_RB.esp
 HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Bashed Delayers E - MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Bashed Delayers NE - MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 CoreRandmonClothing4Npcs.esp
 % {{BASH: Filter, Invent, IIM, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Cobl Filter Late MERGE ONLY.esp
 % {{BASH: Filter, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 Oscuro's_Oblivion_Overhaul - Harvest Containers - SI.esp
 % {{BASH: Deactivate, Filter, Graphics, Invent, Scripts}}
 OOO Harvest Containers Filter patch for mods.esp
 % {{BASH: Deactivate, Filter}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Harvest Containers Filter patch for mods.esp
 % {{BASH: Deactivate, Filter}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 All Natural - Indoor Weather Filter For Mods.esp
 % {{BASH: Filter, C.Climate, Deactivate, NoMerge}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 Storms & Sound - Filter Patch.esp
 % {{BASH: Filter}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 ? Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 TIE Weapon + Armor Filter.esp
 % {{BASH: Filter, Stats, NoMerge, Deactivate}}
-: Bashed Patch.
+ IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
 LandMagicPatch.esp
 
 amGE_Races.esp

@@ -1889,7 +1889,7 @@ CDM - Uderfrykte Matron Fix.esp
 Clamrespawn.esp
 
 ClocksOfCyrodiil.esp
-? Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+? For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
  IF (06910C69|"ClocksOfCyrodiil.esp") DIRTY: 46 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ClocksOfCyrodiilBC.esp
  IF ("ClocksOfCyrodiil.esp") SAY: Deactivate CLocksOfCyrodiil.esp

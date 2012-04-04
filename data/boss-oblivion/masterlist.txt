@@ -12089,7 +12089,9 @@ The Legendary Mannimarco.esp
 Prince of Order.esp
 
 Shadowcrest_Vineyard.esp
- IF (497EDBA5|"Shadowcrest_Vineyard.esp") || IF (9FD89158|"Shadowcrest_Vineyard_COBL.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (497EDBA5|"Shadowcrest_Vineyard.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Shadowcrest_Vineyard_COBL.esp
+IF (9FD89158|"Shadowcrest_Vineyard_COBL.esp") DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp

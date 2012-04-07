@@ -7553,6 +7553,9 @@ OWC - Spawn reduced.esp
 OWC ND-Spawn-reduced.esp
 OWC - LessDangerousWilderness.esp
 OWC ND - Oblivion XP Patch.esp
+
+TGND2 WarCry Replacer.esp
+% {{BASH: Graphics, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Tamriel Travellers.
@@ -7921,6 +7924,11 @@ Adventurers_1.0.esp
 ? Probably incompatible with every other overhaul out there - although with Wrye Bash *should* be able to be made work with MMM.
 un-leveled-shops.esp
 % {{BASH: Invent, Relev}}
+
+TGND2 MMM Replacer.esp
+% {{BASH: Graphics, NoMerge}}
+TGND2 FCOM Replacer.esp
+% {{BASH: Graphics, NoMerge}}
 \EndGroup\\
 
 \BeginGroup\: Waalx Animals and Creatures
@@ -9411,6 +9419,8 @@ FishermansCottage.esp
 FishermansCOBLaddon.esp
 FishermansCottage-LostCoast patch.esp
 fishing boat.esp
+FHWS.esp
+ IF (1F1BB9FC|"FHWS.esp") DIRTY: 422 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheForbiddenSecret.esp
 ForbiddenLands.esp
 Forgiven Sins.esp
@@ -10459,6 +10469,7 @@ Oblivion Wine Overhaul.esp
 Oblivion_NPC_Project1.esp
 OblivionNPCproject2.esp
 Wine Overhaul.esp
+Ogramirad's Unmarked Campsites-UL edition.esp
 OgramiradsUnmarkedPlaces.esp
 : Shivering Isles
  IF (A738D15F|"OgramiradsUnmarkedPlaces.esp") DIRTY: 16 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -5896,6 +5896,8 @@ DM Outlaw armor_EN.esp
 DM Outlaw armor_RU.esp
 dmra_bbb_armamentarium.esp
 : Armamentarium
+TGND2 Armamentarium Replacer.esp
+ : Armamentarium
 DMRA BBB Skimpy Emperor Robe.esp
 % {{BASH: Graphics}}
 DMRA Stock Clothing Replacer.esp
@@ -7788,6 +7790,7 @@ Legion Shield Replacer - OOO.esp
 ArmamentariumWeapons4OOO.esp
 ArmamentariumLL4OOO.esp
 ArmamentariumLLMagicOOO.esp
+TGND2 Armamentarium Replacer.esp
 
 Qarls Harvest - OOO Patch.esp
 Qarls_Harvest - OOO Patch.esp
@@ -8519,7 +8522,8 @@ SYS Patch for Enchanted Druid Treehome.esp
 Adventures Gear.esp
 SYS Patch-Adventures Gear.esp
 AK_corpses_collector.esp
-
+Astralis.esp
+ IF (0FCE9262|"Astralis.esp") DIRTY: 23 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AlchemistsCave.esp
 AlchemistsCave-COBL.esp
  IF (5838B616|"AlchemistsCave-COBL.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

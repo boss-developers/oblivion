@@ -10593,6 +10593,7 @@ QOTW Season One.esp
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
+ IF (D2E0B570|"Quest For The Elements.esp") DIRTY: 254 ITM, 461 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest For The Elements RUS.esp
 QQuix - Divine Elegance Showroom.esp
 QQUix Conceptuals - Anvil Docks Beta.esp

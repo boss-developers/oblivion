@@ -941,6 +941,7 @@ FCOM_FrancescosNamedBosses.esp
 >Fran_Lv30Item_Maltz.esp
 >: Francesco's Leveled Creatures-Items 4.5b.
 
+FransCalipersBeGone.esp
 FranOBSEConfig.esp
 OMOBS_FRAN.esp
 % {{BASH: NoMerge, Stats}}
@@ -977,6 +978,16 @@ LoadingScreensSI.esp
 LoadingScreensSI-DV.esp
 % {{BASH: Graphics, NoMerge}}
 Loading Screens - Vanilla No Text.esp
+% {{BASH: Graphics, NoMerge}}
+OLS_SE_Skyrim.esp
+% {{BASH: Graphics, NoMerge}}
+OLS_SE_SkyrimNT.esp
+% {{BASH: Graphics, NoMerge}}
+OLS_SE_Vanilla.esp
+% {{BASH: Graphics, NoMerge}}
+OLS_SE_DB.esp
+% {{BASH: Graphics, NoMerge}}
+OLS_SE_Framed.esp
 % {{BASH: Graphics, NoMerge}}
 Natural Selection.esp
 BlackLoadNoTip.esp
@@ -8681,6 +8692,7 @@ Artifacts for ArmaComplete.esp
 Artifacts-ArmaCompleteAddon.esp
 Artifacts - ArmaCompleteAddon.esp
 Artifacts SoB Patch.esp
+Trollf's Artifacts
 dmra_bbb_artifacts.esp
 % {{BASH: Graphics, NoMerge}}
 AraenyaRealm.esp
@@ -10525,6 +10537,7 @@ PearlFarm.esp
  IF (590DE30D|"PearlFarm.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
+ IF (D96DB828|"Pek_Halls_of_The_Phoenix_Order.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes wild edits to the FGC010 script.
 Peruggia's Passage.esp
 PeryitesLowestRealmofOblivion.esp
 photoroom.esp
@@ -11194,6 +11207,7 @@ Tobes_house.esp
 TobesHouseRu.esp
 Toc Toc - The Raven.esp
 TolawaylAyleidCity_Quest.esp
+ IF (C5C868BD|"TolawaylAyleidCity_Quest.esp") DIRTY: 26 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also deletes a door in the Cheydinhal Castle Private Quarters. 
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp

@@ -5910,7 +5910,7 @@ dmra_bbb_armamentarium.esp
 TGND2 Armamentarium Replacer.esp
 % {{BASH: Graphics}}
  : Armamentarium
-IFNOT (Colourwheels Sexy Oblivion OverHaul.esp) MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
+IFNOT ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Emperor Robe.esp
 % {{BASH: Graphics}}
@@ -19419,7 +19419,7 @@ DiverseDremoraRBPCosmetics.esp
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}
-IF (Colourwheels Sexy Oblivion OverHaul.esp) MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
+IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
 CWRaceFix.esp
 \EndGroup\\

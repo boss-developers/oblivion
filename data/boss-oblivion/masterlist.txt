@@ -5910,6 +5910,8 @@ dmra_bbb_armamentarium.esp
 TGND2 Armamentarium Replacer.esp
 % {{BASH: Graphics}}
  : Armamentarium
+IFNOT (Colourwheels Sexy Oblivion OverHaul.esp) MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
+ TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Emperor Robe.esp
 % {{BASH: Graphics}}
 DMRA Stock Clothing Replacer.esp
@@ -11796,6 +11798,8 @@ Knights - Unofficial Patch.esp
 % {{BASH: Actors.ACBS, Actors.AIPackages, Factions, Relations}}
 Correctif Knights.esp
 DBOO - Knights.esp
+DMRA BBB Knights of the Nine Replacer.esp
+% {{BASH: Graphics}}
 Knights Rwalk.esp
 ? Obsolete. Remove this and install Sensual Walks.
 Knights Swalk.esp
@@ -17365,10 +17369,11 @@ JCN_AV Uncap.esp
 Sneaking Detection Recalibrated.esp
  IF (=4.0|"Sneaking Detection Recalibrated.esp") && IFNOT ("AddActorValues.dll") REQ: "AddActorValues.dll"
 SDR Compatibility Patches.esp
- IF (=4.0|"Sneaking Detection Recalibrated.esp") SAY: Deprecated. Do not use with v4.0 of Sneaking Detection Recalibrated.
+ IF (=4.0|"Sneaking Detection Recalibrated.esp") SAY: Deprecated. Do not use with v4.0+ of Sneaking Detection Recalibrated.
 SDR_Core.esp
  REQ: "SDR_obse.dll", "AddActorValues.dll", "OBSE"
 SDR_NPC Behavior.esp
+ IF (>=4.5.0|"SDR_Core.esp") SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
 " SM Combat Hide, which is included in this plugin.
 
 PureImmersion.esp
@@ -19414,6 +19419,8 @@ DiverseDremoraRBPCosmetics.esp
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}
+IF (Colourwheels Sexy Oblivion OverHaul.esp) MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
+ TAG: {{BASH: Graphics}}
 CWRaceFix.esp
 \EndGroup\\
 

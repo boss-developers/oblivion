@@ -13133,6 +13133,7 @@ OOO-Snowdale Patch.esp
 RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
 GatesToAesgaardEp2-Snowdale patch.esp
+Snowdale - Fighters Guild Quests Patch.esp
 
 xulCliffsOfAnvil.esp
  IF (E9AEB1BF|"xulCliffsOfAnvil.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -16727,6 +16728,8 @@ More Realistic Sneaking - Sleepkill Dagger.esp
 More Realistic Sneaking 1.9 - Sleepkill Dagger.esp
 More Realistic Sneaking - Sneak Attack Modifiers.esp
 More Realistic Sneaking 1.9 - Sneak Attack Modifiers.esp
+pmCrimeHandler.esp
+: Real-Time Interactions
 pmLockpicking.esp
 : Real-Time Interactions
 Sneak Effectiveness Enhancement.esp

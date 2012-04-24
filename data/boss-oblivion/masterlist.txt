@@ -8511,6 +8511,8 @@ AlchemistForHire.esp
 Ald-Khull.esp
 " Abandoned Village of Lily
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Alkwynd.esp
+ IF (810F24DA|"Alkwynd.esp") DIRTY: 9 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AL_Maverick.esp
 AL_Nightmare.esp
 AL_WildSpright.esp
@@ -8736,6 +8738,8 @@ APRAxisPatch.esp
 AyleidArrows.esp
  IF (1B13049A|"AyleidArrows.esp") DIRTY: 32 ITM, 77 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
+AyleidTemple.esp
+ IF (4B14E3CD|"AyleidTemple.esp") DIRTY: 39 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes a wild edit to the water level in Shagol gro-Bumph's house (block 6,1).
 AyranUndercity.esp
 AzurasServices_de.esp
 ? German Version
@@ -9348,6 +9352,7 @@ dungeon.esp
  IF (1937E82F|"dungeon.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons.esp
  IF (D799716C|"Dungeons.esp") DIRTY: 62 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5A04546E|"Dungeons.esp") DIRTY: 322 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dungeons of Blackwood.esp
 [Keias]Dungeon Of Chaos.esp
  IF (34D47392|"[Keias]Dungeon Of Chaos.esp") DIRTY: 25 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10413,11 +10418,13 @@ NocturneCallSteed.esp
 NoldaTheShipHome.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
+NordRuins.esp
+ IF (D56D4152|"NordRuins.esp") DIRTY: 25 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Northern Front.esp
  IF (87B8FF17|"Northern Front.esp") DIRTY: 98 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (58BDBD48|"Northern Front.esp") DIRTY: 116 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (E1E5FD88|"Northern Front.esp") DIRTY: 116 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- Nou-Malatu.esp
+Nou-Malatu.esp
 
 NNWARE2.esp
 ? Obsolete. Upgrade to the latest version and delete this.

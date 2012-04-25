@@ -1285,6 +1285,8 @@ realWaters.esp
 SI Alexs better water.esp
 Skyrimised Water HD eng.esp
 % {{BASH: C.Water}}
+Skyrimized Water HD eng.esp
+% {{BASH: C.Water}}
 Skyrimized Water v1 HD eng.esp
 % {{BASH: C.Water}}
 Skyrimized Water HD BLUE eng.esp
@@ -3719,6 +3721,7 @@ Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Mirror.esp
+Black Rock Shooter.esp
 BlackSeraphim.esp
 BlackSoulGemArmory.esp
 Blackwire.esp
@@ -5912,6 +5915,8 @@ TGND2 Armamentarium Replacer.esp
  : Armamentarium
 IFNOT ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
+DMRA BBB Better Cities.esp
+% {{BASH: Graphics}}
 DMRA BBB Skimpy Emperor Robe.esp
 % {{BASH: Graphics}}
 DMRA Stock Clothing Replacer.esp
@@ -6517,6 +6522,8 @@ ThievesDen_MOBS.esp
 % {{BASH: Deactivate, NoMerge, Stats}}
 dunbarrowupgrade.esp
 Sounds of Cyrodiil - Thieves' Den Add-On.esp
+ORM-TamriellicGlassDLC7.esp
+ TAG: {{BASH: Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Overhauls
@@ -11664,6 +11671,9 @@ BattleHorn_MOBS.esp
 % {{BASH: Deactivate, NoMerge, Stats}}
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
+ORM-TamriellicGlassDLC6.esp
+ TAG: {{BASH: Graphics}}
+ IF (0631088B|"ORM-TamriellicGlassDLC6.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Quests and Locations 2
@@ -11766,6 +11776,8 @@ DLCfrostcrag Reborn Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 DLCFrostcrag Spire Revisited Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+ORM-TamriellicGlassDLC3.esp
+ TAG: {{BASH: Graphics}}
 
 Ulrim's Horses - LegionArmor.esp
 ? Obsolete. Check for newer version.
@@ -13141,6 +13153,7 @@ RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
 GatesToAesgaardEp2-Snowdale patch.esp
 Snowdale - Fighters Guild Quests Patch.esp
+MTCExpandedVillages-UniqueLandscapes patch.esp
 
 xulCliffsOfAnvil.esp
  IF (E9AEB1BF|"xulCliffsOfAnvil.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -15820,6 +15833,7 @@ Real Injury.esp
 Bleed Damn You V2.0.esp
 PrimaryNeeds10.esp
 Basic Primary Needs.esp
+Basic Personal Hygiene.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp
@@ -16088,6 +16102,9 @@ IshMountedCombatSpellsOnSelf.esp
 : OBSE
 JADPolymorphSpellv3.esp
 Jhaeriks 10x Duration Conjuration Mod 1.1.esp
+K2_Summons.esp
+ IF (49ACE956|"K2_Summons.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ TAG: {{BASH: Actors.Spells}}
 Lockpicking Spells.esp
 Polymorph DV.esp
 Master_of_Puppets-7132.esp

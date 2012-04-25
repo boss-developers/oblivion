@@ -18106,6 +18106,7 @@ Blood Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Brachyuran.esp
 FFXIII_Race.esp
+DarkNephilim.esp
 Dark Seducer Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Demoness.esp
@@ -21074,6 +21075,7 @@ KSE_v3.esp
 " HotkeyCasting.esp
 " RenGuardOverhaul.esp
 KSEv3ext.esp
+" KSE_v3.esp use only one
 
 OOO-Magic_Script_Effect_Fix.esp
 % {{BASH: Sound, Graphics}}

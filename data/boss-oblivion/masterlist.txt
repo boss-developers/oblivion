@@ -285,6 +285,9 @@ Lineage II Elves.esm
 300_Races.esm
 IceElfRace.esm
 Lattamerv3.esm
+Minotaur Race.esm
+ REQ: OBSE v18+, Race Repository
+ IF (477340C8|"Minotaur Race.esm") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nec-Character_Clair.esm
 Nec-Character_Eva.esm
 Nec Mystic High Elf-Remake.esm
@@ -11250,6 +11253,7 @@ Trail  Central.esp
 Trails of Cyrodiil -  Colovian Highland Vanilla.esp
 Trails of Cyrodiil North Short Cut.esp
  IF (B1DA95E5|"Trails of Cyrodiil North Short Cut.esp") DIRTY: 9 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (11603FD8|"Trails of Cyrodiil North Short Cut.esp") DIRTY: 7 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TrainerFind.esp
 Tramps.esp
 % {{BASH: Relev}}
@@ -11273,10 +11277,16 @@ TreasuresOfTyrV10.esp
 treasure maps v1.esp
 % {{BASH: Invent}}
 " UL mod(s).
+Treasure Maps-UL edition.esp
+ TAG: {{BASH: Invent}}
+Treasure Maps compilation-UL edition.esp
+ TAG: {{BASH: Invent}}
  IF (C3590CBA|"treasure maps v1.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasure_Dungeon-8846.esp
 Treasure Maps Blood Ransom.esp
 " UL mod(s).
+Treasure Maps-Blood Ransom-UL edition.esp
+ TAG: {{BASH: Invent}}
 Treasure Maps_Boethia's Burden.esp
 " UL mod(s).
  IF (A30496FE|"Treasure Maps_Boethia's Burden.esp") DIRTY: 2 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11285,11 +11295,15 @@ treasure maps captus demus.esp
 Treasure Maps Meridias Womb.esp
 " UL mod(s).
  IF (100F394C|"Treasure Maps Meridias Womb.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Treasure Maps-Meridias Womb-UL edition.esp
+ TAG: {{BASH: Invent}}
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
 " UL mod(s).
 Treasure Maps Revenge Of The Nords.esp
 " UL mod(s).
  IF (41E287B2|"Treasure Maps Revenge Of The Nords.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Treasure Maps-Revenge of the Nords-UL edition.esp
+ TAG: {{BASH: Invent}}
 Treasuresofthedeep.esp
 : OOO.
 TreasureTrailsPart1.esp
@@ -12344,6 +12358,7 @@ WAC - Elsweyr Anequina.esp
 Skyrim.esp
 
 Improved Imperial Infrastructure.esp
+ IF (CDECE238|"Improved Imperial Infrastructure.esp") DIRTY: 0 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 ReclaimSancreTor.esp
  IF (A92BCD32|"ReclaimSancreTor.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -1333,7 +1333,7 @@ Louder Nirns.esp
 Symphony of Violence.esp
 % {{BASH: Sound}}
 Echo_ChapelChant.esp
- IF (01D91BA5|"Echo_ChapelChant.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1463180E|"Echo_ChapelChant.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AmbientTownSounds.esp
  IF (130E1D68|"AmbientTownSounds.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ambient Inns, 0.1.esp

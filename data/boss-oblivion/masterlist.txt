@@ -11276,11 +11276,11 @@ TreasuresOfTyrV10.esp
 treasure maps v1.esp
 % {{BASH: Invent}}
 " UL mod(s).
+ IF (C3590CBA|"treasure maps v1.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasure Maps-UL edition.esp
  TAG: {{BASH: Invent}}
 Treasure Maps compilation-UL edition.esp
  TAG: {{BASH: Invent}}
- IF (C3590CBA|"treasure maps v1.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Treasure_Dungeon-8846.esp
 Treasure Maps Blood Ransom.esp
 " UL mod(s).

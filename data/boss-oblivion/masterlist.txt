@@ -8418,7 +8418,7 @@ AkaviriStronghold_1C.esp
 6279-0.1-Winter Wonderland-TESSource.esp
 7roads.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Factions, Graphics, Invent, Relations, Scripts, Sound}}
-" Kvatch Rebuilt, Hoarfrost Castle, Midas Magic, Mannimarco Complete, Reneer's Corpse Mod, Unique landscapes.
+" Kvatch Rebuilt, Hoarfrost Castle, Midas Magic, Mannimarco Complete, Reneer's Corpse Mod, Unique landscapes, KSE_v3.esp.
 ? For compatibility with Knights of the Nine, get the patch: "http://tamriel.ru/7roadsmod/Knights_Patch_02.zip"
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 7demonicweapons.esp
@@ -21087,11 +21087,10 @@ soundfix_DV.esp
 MrPwner's Falling.esp
 KSE_v3.esp
 % {{BASH: Graphics, Names, Sound}}
-" Vim_and_Vigor.esp
-" HotkeyCasting.esp
-" RenGuardOverhaul.esp
+" Vim_and_Vigor.esp, HotkeyCasting.esp, RenGuardOverhaul.esp, 7roads.esp
 KSEv3ext.esp
-" KSE_v3.esp use only one
+% {{BASH: Graphics, Names, Sound}}
+
 
 OOO-Magic_Script_Effect_Fix.esp
 % {{BASH: Sound, Graphics}}

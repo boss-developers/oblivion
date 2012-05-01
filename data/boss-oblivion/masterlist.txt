@@ -6747,14 +6747,8 @@ Free Levelling.esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
-/*
- IFNOT ("Mart's Monster Mod for OOO.esm") || IFNOT ($FCOM) TAG {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
- IF ("Mart's Monster Mod for OOO.esm") || IF ($FCOM) TAG {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Names, R.ChangeSpells, Relev, Scripts, Stats}}
-Relations and Factions tag not need for OOO.esp when FCOM or MMM4OOO is installed
-Used this link ("http://skyrim.nexusmods.com/downloads/file.php?id=7554")
-Please test this instead of exist tag line
-*/
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Names, R.ChangeSpells, Relev, Scripts, Stats}}
+ IFNOT ("Mart's Monster Mod for OOO.esm") && IFNOT ($FCOM) TAG: {{BASH: Factions, Relations}} when not used as part of FCOM or with MMM for OOO.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
@@ -9472,8 +9466,6 @@ FarmersStrikeBack.esp
 OblivionFarmer'sMarket3NoHungry.esp
 FenrirTheWolf.esp
 FF_WaldnirsWoods.esp
-FHSW.esp
-? 422 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Fighting Chance.esp
 FishermanRock_Hideout.esp
 FiveBlindMiceBeta.esp
@@ -11918,7 +11910,6 @@ DAMuseumKnights.esp
 EiAmod_Knights.esp
 Knights Essential.esp
 Knights Companion Quarters.esp
-Also DBSQR - Knights of the Nine.esp
 
 DLC_MOBS.esp
 ? Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
@@ -13866,7 +13857,6 @@ ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
 Animal_Resize_and_Attitude_Adjustment-3385.esp
 Anvil_MorningGlory_Mixed.esp
-APS Abundant Stones.esp
 Arena No Raiment.esp
 Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
@@ -15552,7 +15542,7 @@ Border Removal.esp
 
 The Complete Ranger.esp
 Shadow Ranger.esp
- IF (1F83FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1F83FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php/TES4Edit_Cleaning_Guide#Shadow_Ranger.esp_Special_Cleaning_Instructions"
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
@@ -17066,7 +17056,7 @@ Steady Zoom.esp
 NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp
 Oblivion Global Mod.esp
-INC: Deadly reflex
+ INC: Deadly reflex
 BetterBlocking.esp
 DocBlock.esp
 

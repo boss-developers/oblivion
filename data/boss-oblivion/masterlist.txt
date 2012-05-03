@@ -8745,7 +8745,7 @@ AyleidArrows.esp
  IF (1B13049A|"AyleidArrows.esp") DIRTY: 32 ITM, 77 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AyleidHouse.esp
 AyleidTemple.esp
- IF (4B14E3CD|"AyleidTemple.esp") DIRTY: 39 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes a wild edit to the water level in Shagol gro-Bumph's house (block 6,1).
+ IF (4B14E3CD|"AyleidTemple.esp") || IF (4B14E2CD|"AyleidTemple.esp") DIRTY: 39 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes a wild edit to the water level in Shagol gro-Bumph's house (block 6,1).
 AyranUndercity.esp
 AzurasServices_de.esp
 ? German Version
@@ -9394,6 +9394,7 @@ EM_RedRoseManor.esp
 EMRedRoseAddonCOBL.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
+ IF (67FD3F7B|"Emertxe.esp") DIRTY: 8 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EM_Packdonkeys.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
@@ -9479,6 +9480,7 @@ FiveBlindMiceBeta.esp
 Flying Island House.esp
 FMan-CityIsleBridges.esp
 Forgotten Tomb.esp
+ IF (39276EC4|"Forgotten Tomb.esp") DIRTY: 133 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Forgrum's Travelogue.esp
 ? Do not use. This mod is confirmed to break a number of vanilla quests. Delete immediately.
 Forgrum's Travelogue v2.0.esp
@@ -10221,7 +10223,7 @@ Mad Mike's Crypts of Cyrodiil.esp
  IF (560DE988|"Mad Mike's Crypts of Cyrodiil.esp") DIRTY: 16 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Madness' Hideout.esp
 Mafreseli.esp
- IF (D235E598|"Mafreseli.esp") DIRTY: 12 ITM, 172 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (D235E598|"Mafreseli.esp") || IF (731E6D11|"Mafreseli.esp") DIRTY: 12 ITM, 172 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mage'sSkyHouse.esp
  IF (CEC8800F|"Mage'sSkyHouse.esp") DIRTY: 79 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mages Guild Quests.esp
@@ -11316,6 +11318,7 @@ TelAryon1-2_VWDShrooms-1176205337-TESSource.esp
 tent 01.esp
 TheMistRetreat1.3_Original.esp
 Torynwyll.esp
+ IF (693FB4D9|"Torynwyll.esp") DIRTY: 24 ITM, 25 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thorlak Island.esp
 
 TopalIsland.esp
@@ -11395,6 +11398,7 @@ VaultsOfTheAyleids.esp
 VRIceOrcMod.esp
 : Elys' Universal Silent Voice or the dialogue will go by very fast.
 Veldin.esp
+ IF (BC65CD25|"Veldin.esp") DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp

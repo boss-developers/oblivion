@@ -6709,7 +6709,7 @@ Oblivion WarCry.esp
 More Effective Enchantments WarCry.esp
 Oblivion WarCry EV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
- IF (<1.19|"Oblivion WarCry EV.esp") TAG: Remove [Actors.DeathItem] tag for version 1.08 and below. More info("http://u.to/PCQMAg")
+ IF (<1.09|"Oblivion WarCry EV.esp") TAG: Remove [Actors.DeathItem] tag for version 1.08 and below. More info("http://u.to/PCQMAg")
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 More Effective Enchantments WarCry EV.esp

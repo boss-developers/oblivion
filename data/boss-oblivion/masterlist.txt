@@ -9685,6 +9685,8 @@ Highwood-Cobl-Support.esp
 : Cobl Main.esm, Highwood.esp
 Highwood-OOO-Patch.esp
 : Oscuro's_Oblivion_Overhaul.esm, Oscuro's_Oblivion_Overhaul.esp, Highwood.esp
+HilltopLodge.esp
+ IF (B5CD397E|"HilltopLodge.esp") DIRTY: 7 ITM, 37 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HobbitHole.esp
 Hobbit Hole Revamped.esp
 SYS Patch Hobbit Hole Revamped.esp

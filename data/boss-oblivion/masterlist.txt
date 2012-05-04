@@ -14252,6 +14252,7 @@ Everlasting Corpses v 1.0.esp
 Factions DB v1.16.esp
 % {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, Graphics, Invent, Names, Scripts, Stats}}
 Factions Dark Brotherhood.esp
+% {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, Graphics, Invent, Names, Scripts, Stats}}
 IF (C9B0B2EA|"Factions Dark Brotherhood.esp") DIRTY: 26 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 faster-grass.esp
 Faster-trees.esp
@@ -19439,7 +19440,7 @@ PlayAurMaz.esp
 bgBalancingEVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
 ? Do not use with COBL Races.
-% {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+% {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells, SpellStats}}
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVCore.esp
 : bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
@@ -19576,11 +19577,11 @@ ZUSIO-SM Plugin Refurbish SI-patch.esp
 \Inserted here for RBP compatibility
 
 bgMagicDV.esp
-% {{BASH: Names, Delev, Relev}}
+% {{BASH: C.RecordFlags, Names, Delev, Relev, SpellStats}}
 ? German version.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEV.esp
-% {{BASH: Names, Delev, Relev}} if you are running more than one magic overhaul and want to use LAME spell names.
+% {{BASH: C.RecordFlags, Names, Delev, Relev, SpellStats}} if you are running more than one magic overhaul and want to use LAME spell names.
 ? Move Supreme Magica after LAME if you want Supreme Magica spell stats.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEV Vwalk.esp
@@ -19738,9 +19739,11 @@ bgBalancingOptionalNPCDiversityKvatchRebuilt, for Wrye Bash.esp
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 
 bgBalancingEVLAMEAddition.esp
+% {{BASH: Relev}}
 : LAME and Shivering Isles.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVLAMEAddition.esp
+% {{BASH: Relev}}
 : LAME and Shivering Isles.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingEVLAMEGlue.esp

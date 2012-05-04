@@ -149,14 +149,8 @@ Harvest[Containers] - Player Home Add-on.esm
 Tamriel's Glittering Geology.esm
 $ Not compatible with OOO. Already included in OOO.
 Oscuro's_Oblivion_Overhaul.esm
-% {{BASH: Actors.Spells, Graphics, Invent, Scripts, Stats, Relations}}
-/*
-IFNOT ("Mart's Monster Mod for OOO.esm") || IFNOT ($FCOM) TAG {{Actors.Spells, Graphics, Invent, Scripts, Stats, Relations}}
-IF ("Mart's Monster Mod for OOO.esm") || IF ($FCOM) TAG {{BASH: Actors.Spells, Graphics, Invent, Scripts, Stats}}
-Relations tag not need for OOO.esm when FCOM or MMM4OOO is installed
-Used this link ("http://skyrim.nexusmods.com/downloads/file.php?id=7554")
-Please test this lines instead of exist tag line
-*/
+% {{BASH: Actors.Spells, Graphics, Invent, Relations, Scripts, Stats}}
+ IF ("Mart's Monster Mod for OOO.esm") || IF ($FCOM) TAG: Remove [Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 DarkDale.esm
 Mart's Monster Mod.esm
@@ -6713,15 +6707,8 @@ Oblivion WarCry.esp
 ? German version.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 More Effective Enchantments WarCry.esp
-Oblivion WarCry EV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
-/*
-IF (>1.08|"Oblivion WarCry EV.esp") TAG {{BASH: Actors.ACBS, Actors.AIData, Actors.DeathItem, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
-IF (<1.09|"Oblivion WarCry EV.esp") TAG {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats, Delev, Graphics, Invent, Relev, Stats}}
-Actors.DeathItem tag not need for WarCry <1.09
-Used this link ("http://skyrim.nexusmods.com/downloads/file.php?id=7554")
-Please test this instead of exist tag line
-*/
+ IF (<1.19|"Oblivion WarCry EV.esp") TAG: Remove [Actors.DeathItem] tag for version 1.08 and below. More info("http://u.to/PCQMAg")
 >: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 More Effective Enchantments WarCry EV.esp
@@ -6747,8 +6734,8 @@ Free Levelling.esp
 \''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Graphics, Invent, Names, R.ChangeSpells, Relev, Scripts, Stats}}
- IFNOT ("Mart's Monster Mod for OOO.esm") && IFNOT ($FCOM) TAG: {{BASH: Factions, Relations}} when not used as part of FCOM or with MMM for OOO.
+ % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
+ IF ("Mart's Monster Mod for OOO.esm") || IF ($FCOM) TAG: Remove [Factions, Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
  DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp

@@ -9633,6 +9633,8 @@ Hentai Mania.esp
  REQ: HGEC, OBSE
 >: FCOM_Hentai Mania.esp
  IF (840B603E|"Hentai Mania.esp") DIRTY: 1675 ITM, 425 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E35522FE|"Hentai Mania.esp") DIRTY: 908 ITM, 425 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (2A340D11|"Hentai Mania.esp") DIRTY: 1738 ITM, 425 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hentai ManiaC.esp
 REQ: HGEC, OBSE
 ? Cleaned version of Hentai Mania.esp. Use only one.
@@ -12851,6 +12853,8 @@ LostCoast + Cybiades Patch.esp
 \BeginGroup\: HM2
 HentaiMania2.esp
  IF (FD040A00|"HentaiMania2.esp") DIRTY: 265 ITM, 556 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1411E7E6|"HentaiMania2.esp") DIRTY: 271 ITM, 556 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3EF2BA9C|"HentaiMania2.esp") DIRTY: 536 ITM, 562 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HentaiMania2(Hentai).esp
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HentaiMania2 Vwalk.esp

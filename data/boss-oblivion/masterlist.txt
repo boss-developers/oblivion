@@ -9649,7 +9649,7 @@ MMM_Hentai Mania.esp
 FCOM_Hentai Mania.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Factions, Graphics, Invent, Relations, Scripts, Stats}}
 : Hentai Mania.esp and FCOM
- IF (C268436D|"FCOM_Hentai Mania.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Hentai_mania_statuetki.esp
 ? Minor fix for Hentai Mania.esp
 : Hentai Mania.esp

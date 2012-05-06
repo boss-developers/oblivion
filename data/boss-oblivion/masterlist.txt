@@ -1436,7 +1436,6 @@ Storms & Sound.esp
  IF (2DBAAA1A|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (AC2CE763|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (C439BDBB|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (C439BDBB|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (C23EEEE9|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (5A07EB4E|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (AB61AA5A|"Storms & Sound.esp") DIRTY: 27 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -4684,7 +4683,6 @@ MODRoadRogue.esp
 moon.esp
 Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
- IF (AA6DD529|"Morrigan Swords Axes and Shield by Jojjo v1_1.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (AA6DD529|"Morrigan Swords Axes and Shield by Jojjo v1_1.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MotherSword.esp
 LACR_MoonshadowBlade_V1.esp
@@ -10123,7 +10121,6 @@ LetThePeopleDrink.esp
 LetThePeopleDrinkRU.esp
 LetThePeopleDrink-Cobl.esp
 ? This should be renamed to "LetThePeopleDrink.esp" to avoid breaking things.
- IF (AC6A3945|"LetThePeopleDrink-Cobl.esp") DIRTY: 9 ITM, 152 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (0DA32EAD|"LetThePeopleDrink-Cobl.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LetThePeopleDrink-fountainonly.esp
  IF (2A1A281B|"LetThePeopleDrink-fountainonly.esp") DIRTY: 6 ITM, 93 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12548,7 +12545,7 @@ ElsweyrRiverhold.esp
 ? Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
 ? Do not use if using ElsweyrAnequina.esp.
 ExtendedAleswellEV.esp
- IF (969F84B|"ExtendedAleswellEV.esp") DIRTY: 2 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (969F8F4B|"ExtendedAleswellEV.esp") DIRTY: 2 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ExtendedAleswellEV Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 ExtendedBlankenmarchEV.esp
@@ -12763,7 +12760,7 @@ TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
 Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
- IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") || IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8056A33C|"Valenwood Improved - Fallenleaf Everglade EV - Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Valenwood Improved - Fallenleaf Everglade DV - Patch.esp
 
 xulColovianHighlands.esp
@@ -16162,8 +16159,7 @@ morespells.esp
 MTC EagleEyesSpell.esp
 MTC EagleEyesSpell 1.1[ENG].esp
 Mysterious Bear's Epic Necromancy + EM.esp
- IF (A8E08203|"Mysterious Bear's Epic Necromancy + EM.esp") DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (0AB56ABA|"Mysterious Bear's Epic Necromancy + EM.esp") DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (A8E08203|"Mysterious Bear's Epic Necromancy + EM.esp") || IF (0AB56ABA|"Mysterious Bear's Epic Necromancy + EM.esp") DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysterious Bear's Power Animals- Transparent.esp
  IF (6386DDCF|"Mysterious Bear's Power Animals- Transparent.esp") DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysterious Bear's Power Animals - Translucent.esp
@@ -17498,6 +17494,7 @@ Legendary Abilities-Shield MOJ.esp
  IF (51D68248|"Legendary Abilities-Shield MOJ.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legendary Abilities-Fortify Health MOJ.esp
 ? Use only one 'Legendary Abilities' plugin.
+ IF (08F8C843|"Legendary Abilities-Fortify Health MOJ.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legendary Abilities-Reflect MOJ.esp
 ? Use only one 'Legendary Abilities' plugin.
  IF (52EBC32E|"Legendary Abilities-Reflect MOJ.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -18513,8 +18510,7 @@ Wolven Anthros.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 eyja.esp
 % {{BASH: C.Water}}
- IF (9FBDE389|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (C2EB9EAE|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (9FBDE389|"eyja.esp") || IF (C2EB9EAE|"eyja.esp") DIRTY: 36 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eyja_DV 1.0..esp
 eyja_rus.esp
 eyja Vwalk.esp
@@ -18968,8 +18964,7 @@ cssJaKhaiitMyr.esp
 
 \BeginGroup\: Vilja Companion
 1em_Vilja.esp
- IF (CBB991E4|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
- IF (39E23090|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (CBB991E4|"1em_Vilja.esp") || IF (39E23090|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 1em_Vilja OOO FCOM Fix.esp

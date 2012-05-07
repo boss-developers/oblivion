@@ -411,6 +411,9 @@ Underdark v1.1 Delayer.esp
 ? Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 !Oblivion_PL.esp
 % {{BASH: Names}}
+
+tes4-CHS-main.esp
+% {{BASH: Names}}
 \EndGroup\\
 
 \BeginGroup\: NPC face mods
@@ -767,6 +770,13 @@ FormIDReferenceBugFix.esp
 ? Outdated. Included in Unofficial Shivering Isles Patch 1.4+
 FormID_Reference_Bug_Fix.esp
 ? Outdated. Included in Unofficial Shivering Isles Patch 1.4+
+
+\These are chinese mods, must load before USIP but after SI.
+tes4SI-CHS-alpha.esp
+% {{BASH: Names}}
+tes4-CHS-book.esp
+? Obsolete. Update to tes4-CHS-Addon.esp
+
 Unofficial Shivering Isles Patch.esp
 ? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
@@ -823,6 +833,8 @@ ShiveringMounts.esp
 xeoexpeople.esp
 % {{BASH: Actors.Stats, Eyes, Hair, NPC.Race, NpcFaces}}
 ? Delete or disable 'xeoex.esp'
+
+tes4-CHS-Addon.esp
 \EndGroup\\
 
 \BeginGroup\: VWalk Post-UOP Files
@@ -8654,7 +8666,7 @@ Arkay's Valour.esp
 ArkenfellManor.esp
 Arkshtrumz.esp
 % {{BASH: Actors.Spells, Graphics, Names, Relev}}
-? 23 ITM, 0 UDR: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (913BE572|"Arkshtrumz.esp") DIRTY: 69 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armageddon.esp
  IF (E3E69608|"Armageddon.esp") DIRTY: 62 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Armoured Arms Altered.esp
@@ -8925,7 +8937,7 @@ BossPhaitCrab.esp
 ? 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitDismal.esp
 : OBSE 20+
-? 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (6D467EB0|"BossPhaitDismal.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitStygainHalls.esp
 : OBSE 20+
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12041,7 +12053,7 @@ Aundae_OBSE_addon.esp
 SoT_TheOrderofNibenay.esp
  IF (CA79063C|"SoT_TheOrderofNibenay.esp") DIRTY: 129 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also requires manual cleaning of a number of wild path grid edits.
 LostSpires_TheOrderofNibenay_patch.esp
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (8637CA07|"LostSpires_TheOrderofNibenay_patch.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs Wrye Bash's "Remove World Orphans" function run on it.
 
 GuardsofCyrodiil.esp
@@ -14338,6 +14350,7 @@ GoldItems_1C.esp
 % {{BASH: Stats}}
 GoldCoinBagger.esp
 Goldbrand_Replacer_v1.0.esp
+GoldBrand Replacer.esp
 Golden Perch Inn.esp
  IF (444F0E35|"Golden Perch Inn.esp") DIRTY: 25 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Golden Perch Inn - AN Patch.esp
@@ -19153,9 +19166,9 @@ SRJsleepCommandForCSR.esp
 DM_LucienCompanion.esp
 Dogmeat Companion.esp
 DremoraCompanion.esp
-SAY: Turn away from all plug-ins affecting sleep.
+SAY: May be incompatible with plugins affecting sleep.
 % {{BASH: Hair, Eyes}}
-? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4555873A|"DremoraCompanion.esp") DIRTY: 34 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Eluna.esp
 % {{BASH: Hair, Eyes}}
 DAAragorn.esp
@@ -19507,7 +19520,7 @@ EyelashesForVanillaRaces1.0.esp
 Jjiinx_MorrowindStyleArgonians.esp
 % {{BASH: NpcFaces, NoMerge}}
 Better Redguard v2.esp
-% {{BASH: NpcFaces, Body-F, Body-Size-F, Body-M, Body-Size-M, NoMerge}}
+% {{BASH: Actors.ACBS, Actors.Stats, NpcFaces, Body-F, Body-M, R.Head}}
 ? If at all possible *also* use the Wrye Bash tweak for mod compatibility for BR.
 Better Redguard v2 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}

@@ -13765,6 +13765,7 @@ Blue Destiny's Armor.esp
 
 \BeginGroup\: overrides Early
 
+
 NaturalVegetation.esp
 Natural_Vegetation_by_Max_Tael.esp
 ? Put before Unique Landscape mods to return tree sizes there to normal.
@@ -14054,6 +14055,9 @@ CDM-Rats of Bravil.esp
 Chameleon_Ring.esp
 Chapel Towers.esp
 Cheaper training x5.esp
+CHILDREN ANNUAD.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Delev, Graphics, Relev, Stats}}
+ IF (A1037430|"CHILDREN ANNUAD.esp") DIRTY: 57 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 City Gates v1.1.esp
 clean mjy castle with key quest v1.1.esp
 clean mjy castle free v.2.esp

@@ -5982,6 +5982,7 @@ Fingernails For HGEC.esp
 Forbidden.esp
 
 Gizmodian - Eclipse.esp
+GladiatorHeels.esp
 GoddessArmor_Exnem.esp
 GreenNGold Amazon armor for Exnem body.esp
 Grim Reaper.esp
@@ -19491,6 +19492,7 @@ Colourwheels Sexy Oblivion OverHaul.esp
 IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
 CWRaceFix.esp
+MTCExpandedVillages-Colourwheels Sexy Overhaul Patch.esp
 \EndGroup\\
 
 \BeginGroup\: Body and head changes

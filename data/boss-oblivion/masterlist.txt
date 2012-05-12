@@ -9031,6 +9031,8 @@ CalairCastle.esp
 Cannibalism.esp
 Castel_Monte.esp
 Cathedral Improver.esp
+Castle Arpenia - Colovian Highlands.esp
+ IF (67360E2C |"Castle Arpenia - Colovian Highlands.esp") DIRTY: 3 ITM, 86 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Castle Arpenia - Niben Bay.esp
 Castle Arpenia - Gold Coast.esp
 Castle.bedwyr 0.9.1.esp

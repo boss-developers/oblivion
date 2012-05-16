@@ -1558,6 +1558,7 @@ _cities_alive_at_night.esp
 Atmospheric Oblivion - Real Lights patch.esp
 MIS New Sounds Optional Part - Real Lights Patch.esp
 CampfireBehavior.esp
+ IF ("All Natural - Real Lights.esp") INC: All Natural's Real Lights plugin (All Natural - Real Lights.esp).
 
 better lights.esp
 
@@ -12027,6 +12028,7 @@ MTCExpandedVillages.esp
  IF ("Faregyl.esp") && IFNOT("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
  INC: Lost Spires
  IF (795046EF|"MTCExpandedVillages.esp") DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+MTC-WeyePatch.esp
 
 MoreSuburbLife.esp
 ? If using RTT use MoreSuburbLife_RTT_patch.esp to prevent issues with the Wawnet Inn.

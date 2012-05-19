@@ -3011,6 +3011,7 @@ HTFpcb Extended.esp
 
 Immersive Music.esp
 Immersive Combat Music.esp
+ImmersiveOblivion.esp
 
 Jjiinx_ScrollYesOrNo.esp
 
@@ -5037,6 +5038,9 @@ RTBlackEveningDress10Personality.esp
 RXF91.esp
 Ryk_MiscGoods.esp
 Ryk_Sandals.esp
+ IF ("Ryk_Sandals_RHH.esp") INC: Ryk_Sandals_RHH.esp. Only use one of the Ryk_Sandals plugins.
+Ryk_Sandals_RHH.esp
+ IF ("Ryk_Sandals.esp") INC: Ryk_Sandals.esp. Only use one of the Ryk_Sandals plugins.
 Ryk_SimpleDress.esp
 Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
@@ -10345,6 +10349,14 @@ MTCDarelothsHouse.esp
 MTCGlarthirsHouse.esp
 MTC Glarthirs House.esp
 MTCStableInteriors.esp
+MTCExpandedVillages.esp
+\ Must load before "Region Revive - Lake Rumare".
+ IF ("RTT.esp") && IFNOT("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
+ IF ("Faregyl.esp") && IFNOT("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
+ INC: Lost Spires
+ IF (795046EF|"MTCExpandedVillages.esp") DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+MTC-WeyePatch.esp
+ IF ("MTCVillages-LakeRumarePatch.esp") WARN: Use this patch or "MTCVillages-LakeRumarePatch.esp", but not both.
 
 NPCs Alive - Bandits.esp
 NPCs Alive - Beggers.esp
@@ -10634,6 +10646,8 @@ QOTW021.esp
  IF (25B73907|"QOTW021.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW Season One.esp
  IF (315470CB|"QOTW Season One.esp") DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+QOTW Season Two.esp
+ IF (E2D9635D|"QOTW Season Two.esp") DIRTY: 0 ITM, 60 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -10691,7 +10705,7 @@ ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
-? If used with UL: Imperial Isle, requires the patch 'RegionReviveLakeRumare-ImperialIsle patch.esp'.
+ IF ("xulImperialIsle.esp") REQ: "RegionReviveLakeRumare-ImperialIsle patch.esp" patch for compatibility with UL: Imperial Isle.
  IF (4D8FA617|"Region Revive - Lake Rumare.esp") DIRTY: 0 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp
@@ -10699,6 +10713,8 @@ Region Revive - Lake Rumare Vwalk.esp
 Region_Revive_-_Lake_Rumare_FuseSnailRacing_Patch.esp
 ? Patch for FuseSnailRacing.esp
 " If loaded after OOO.esp this cause OOO's lockbash feature to fail. To fix this simply load RL-LR before OOO.esp.
+MTCVillages-LakeRumarePatch.esp
+ IF ("MTC-WeyePatch.esp") WARN: Use this patch or "MTC-WeyePatch.esp", but not both.
 wb_RRLR_TalosBridge_Patch.esp
 Regions - Hammerfell.esp
 RealmofRuun.esp
@@ -12023,13 +12039,6 @@ OCC-RTT-Patch.esp
 RTT Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 
-MTCExpandedVillages.esp
- IF ("RTT.esp") && IFNOT("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
- IF ("Faregyl.esp") && IFNOT("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
- INC: Lost Spires
- IF (795046EF|"MTCExpandedVillages.esp") DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-MTC-WeyePatch.esp
-
 MoreSuburbLife.esp
 ? If using RTT use MoreSuburbLife_RTT_patch.esp to prevent issues with the Wawnet Inn.
 MoreSuburbLife_RTT_patch.esp
@@ -13223,6 +13232,7 @@ AyleidRuinsExpanded-JerallGlacier patch.esp
 BlackrockMountain-JerallGlacier patch.esp
 AncientDwemerRuins-JerallGlacier patch.esp
 FortFerrion-JerallGlacier patch.esp
+AgainstTheZealotsOfTheNine-JerallGlacier patch.esp
 
 xulTheEasternPeaks.esp
 xulTheEasternPeaks Vwalk.esp
@@ -13261,6 +13271,7 @@ TrailsOfCyrodiilCentral-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch DV.esp
 TrailsOfCyrodiil-UL merged patch.esp
+ IF (17FBD2C7|"TrailsOfCyrodiil-UL merged patch.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 \EndGroup\\
 
 \BeginGroup\: Post UL, Pre BC
@@ -17450,6 +17461,7 @@ SDR_Core.esp
 SDR_NPC Behavior.esp
  IF (>=4.5.0|"SDR_Core.esp") SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
 " SM Combat Hide, which is included in this plugin.
+SDR_Thieves_Arsenal_Patch.esp
 
 PureImmersion.esp
 piHealth5x.esp
@@ -18162,6 +18174,7 @@ DreamWalker.esp
 % {{BASH: NpcFaces, Hair, Eyes}}
 DTC-AR-PluginElaborateEyesFix.esp
 % {{BASH: Eyes}}
+DTC-AR-PluginLeveledNPCs.esp
 Elf.esp
 Golden Saint Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}

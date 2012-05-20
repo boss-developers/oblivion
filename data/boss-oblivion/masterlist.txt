@@ -17461,7 +17461,7 @@ SDR_Core.esp
 SDR_NPC Behavior.esp
  IF (>=4.5.0|"SDR_Core.esp") SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
 " SM Combat Hide, which is included in this plugin.
-SDR_Thieves_Arsenal_Patch.esp
+SDR_ThievesArsenal_Patch.esp
 
 PureImmersion.esp
 piHealth5x.esp

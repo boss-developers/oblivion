@@ -10705,7 +10705,7 @@ ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
 " most Weye-related mods.
- IF ("xulImperialIsle.esp") REQ: "RegionReviveLakeRumare-ImperialIsle patch.esp" patch for compatibility with UL: Imperial Isle.
+ IF ("xulImperialIsle.esp") REQ: "RegionReviveLakeRumare-ImperialIsle patch.esp"
  IF (4D8FA617|"Region Revive - Lake Rumare.esp") DIRTY: 0 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp

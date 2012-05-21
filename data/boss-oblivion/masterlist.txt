@@ -708,7 +708,7 @@ IF ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
 \---
 
 Unofficial Oblivion Patch.esp
-? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
 Unofficial Oblivion Patch DV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
@@ -779,7 +779,7 @@ tes4-CHS-book.esp
 ? Obsolete. Update to tes4-CHS-Addon.esp
 
 Unofficial Shivering Isles Patch.esp
-? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.tesnexus.com/downloads/file.php?id=28537"
+? Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 USIPS Additional Changes.esp
 % {{BASH: Relev}}
@@ -5023,7 +5023,7 @@ RustyItems.esp
 % {{BASH: Graphics}}
 RTFemaleReplacerV12.esp
 % {{BASH: Graphics, NoMerge}}
-? Robert's Female Body v. 1.2 users to make sure they download the "Rough Leather Shoes" fix ("http://tesnexus.com/downloads/file.php?id=28975")
+? Robert's Female Body v. 1.2 users to make sure they download the "Rough Leather Shoes" fix ("http://oblivion.nexusmods.com/mods/28975")
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
 ? Only have one ringwraith armor esp active at once.
@@ -10351,8 +10351,8 @@ MTC Glarthirs House.esp
 MTCStableInteriors.esp
 MTCExpandedVillages.esp
 \ Must load before "Region Revive - Lake Rumare".
- IF ("RTT.esp") && IFNOT("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
- IF ("Faregyl.esp") && IFNOT("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://www.tesnexus.com/downloads/file.php?id=34010"
+ IF ("RTT.esp") && IFNOT("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
+ IF ("Faregyl.esp") && IFNOT("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
  INC: Lost Spires
  IF (795046EF|"MTCExpandedVillages.esp") DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MTC-WeyePatch.esp
@@ -10604,7 +10604,7 @@ Players with Jobs.esp
 Pond Cottage.esp
 Portrait Painter.esp
 Potion Of the Gods.esp
-: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://www.tesnexus.com/downloads/file.php?id=17032")
+: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://oblivion.nexusmods.com/mods/17032")
 PotR.esp
 PotR v0.7 Delayer.esp
 POVS2 v1.1.esp
@@ -11439,7 +11439,7 @@ Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 Valenwood Improved Vampire Hunting Patch.esp
 VHBloodlines 1.2.esp
 % {{BASH: Actors.AIData, Actors.AIPackages}}
-? If you have SI installed, make sure you're using the update: "http://www.tesnexus.com/downloads/file.php?id=36389"
+? If you have SI installed, make sure you're using the update: "http://oblivion.nexusmods.com/mods/36389"
  IF (4FBE3DC0|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (8187F096|"VHBloodlines 1.2.esp") DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (CE62618B|"VHBloodlines 1.2.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11954,7 +11954,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
 ? Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
-? Recommended to use version 1.02 or greater: "http://www.tesnexus.com/downloads/file.php?id=19203"
+? Recommended to use version 1.02 or greater: "http://oblivion.nexusmods.com/mods/19203"
 % {{BASH: Deactivate, Filter, Stats, NoMerge}}
 MOBS DLCs.esp
 % {{BASH: Stats, NoMerge}}
@@ -12406,7 +12406,7 @@ NRB4+CastleWestWeald Patch.esp
 NRB4+QFE Patch.esp
 NRB4 + Highwood Patch.esp
 LetThePeopleDrink-NRB patch.esp
-? Do not use - has technical issues. Download the correct patch here: "http://www.tesnexus.com/downloads/file.php?id=20218"
+? Do not use - has technical issues. Download the correct patch here: "http://oblivion.nexusmods.com/mods/20218"
 Battle Between Two Forts Roads and Bridges Patch.esp
 Immersive Prison sewer exit.esp
  IF (D607A66|"Immersive Prison sewer exit.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13139,7 +13139,7 @@ Adense RR Rumare UL Imperial Isle Patch.esp
 Adense UL Imp Isle AFK RR Rumare Patch.esp
 LetThePeopleDrink-ImperialIsle patch.esp
 LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
-? Do not use - has technical issues. Download the correct patch here: "http://www.tesnexus.com/downloads/file.php?id=20218"
+? Do not use - has technical issues. Download the correct patch here: "http://oblivion.nexusmods.com/mods/20218"
 TalosGatehouse + ULImperialIsle.esp
 wb_TBG_RR-LR_UL-II_patch.esp
 ULPatchTinyHouse.esp
@@ -13560,7 +13560,7 @@ Open Cities New Sheoth.esp
 % {{BASH: Actors.AIPackages}}
 
 Open Cities Bartholm.esp
-: Bartholm. "http://www.tesnexus.com/downloads/file.php?id=5022"
+: Bartholm. "http://oblivion.nexusmods.com/mods/5022"
 
 Open Cities Classic.esp
 
@@ -13571,7 +13571,7 @@ Open Cities Bravil.esp
 
 Open Cities Bravil Blood&Mud.esp
 ? Obsolete, unsupported. Please update to version 4.0+.
-: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
+: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
 
 Open Cities Bruma.esp
 ? Obsolete, unsupported. Please update to version 4.0+.
@@ -13591,7 +13591,7 @@ Open Cities Full.esp
 
 Open Cities Full + Bravil Blood&Mud.esp
 ? Obsolete, unsupported. Please update to version 4.0+.
-: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
+: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
 
 Open_Cities_Complete-Leyawiin_Reborn.esp
 ? Obsolete, unsupported. Please update to Open Cities Reborn 0.9 or above.
@@ -13599,7 +13599,7 @@ Open Cities Full + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
 ? Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
-: Bravil Blood&Mud. "http://www.tesnexus.com/downloads/file.php?id=12016"
+: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
 Open Cities Classic B&M Additions.esp
 \EndGroup\\
 
@@ -16944,7 +16944,7 @@ DW_FameInfamyBounty.esp
 Infamy Pilgrimage.esp
 Ranokoas Undercover Overhaul TRN compatible.esp
 TRN One of the Gang.esp
-? If using The Elder Council use the patch ("http://www.tesnexus.com/downloads/file.php?id=23526").
+? If using The Elder Council use the patch ("http://oblivion.nexusmods.com/mods/23526").
 ? If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
 TRN Compatibility Patch_One of the Gang_TheElderCouncil.esp
 TRN_Compatibility_Patch_One_of_the_Gang_TheElderCouncil.esp
@@ -19033,7 +19033,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Chocolate_Elf Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 1em_Vilja_as_Custom_by_Gonzoguns.esp
-: Requires resources from Abriael Human Races Revamped ("http://www.tesnexus.com/downloads/file.php?id=25524"), the ESP file is not required.
+: Requires resources from Abriael Human Races Revamped ("http://oblivion.nexusmods.com/mods/25524"), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_Custom_by_Gonzoguns Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -19046,7 +19046,7 @@ cssJaKhaiitMyr.esp
 1em_Vilja_as_Custom_by_Xtudo Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 1em_Vilja_as_High_Imperial.esp
-: Requires resources from Deathknowz's High Imperials Race ("http://www.tesnexus.com/downloads/file.php?id=33044") (all three files), the ESP file is not required.
+: Requires resources from Deathknowz's High Imperials Race ("http://oblivion.nexusmods.com/mods/33044") (all three files), the ESP file is not required.
 ? Choose only ONE customization for Vilja.
 1em_Vilja_as_High_Imperial Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
@@ -21171,8 +21171,8 @@ DeadlyReflex - Combat Moves.esp
 ? Outdated. Update to v5+.
 DeadlyReflex 6 - Combat Moves.esp
 % {{BASH: Graphics}}
-: NifSE ("http://www.tesnexus.com/downloads/file.php?id=21292")
-: Drop Lit Torches OBSE ("http://www.tesnexus.com/downloads/file.php?id=16282")
+: NifSE ("http://oblivion.nexusmods.com/mods/21292")
+: Drop Lit Torches OBSE ("http://oblivion.nexusmods.com/mods/16282")
 \preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
 ? For use both DR6b101 and NifSE 1.0+ use fix ("http://tesnexus.com/downloads/file.php?id=40336")
 Deadly Reflex 6 - HeX NifSE Patch.esp

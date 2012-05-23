@@ -62,6 +62,7 @@ Underdark.esm
 TR_OoT_Main.esm
 Hammerfell.esm
  IF (7D22F9DF|"Hammerfell.esm") DIRTY: 0 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF ("TR_OoT_Main.esm") WARN: Do not use "TR_OoT_Main.esm" with "Hammerfell.esm".
 GTAesgaard_2.esm
 ? This needs to load directly after Oblivion.esm to avoid landscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
 DibellasWatch.esm
@@ -786,6 +787,7 @@ USIPS Additional Changes.esp
 CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
+USIPCutterFix.esp
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
 ? Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp
@@ -2479,8 +2481,10 @@ QuickEquipSwap.esp
 R4C - Dark Regalia.esp
 Raestloz Auto Reset Emotion.esp
 RAEVWD Cities.esp
+ INC: Better Cities, Open Cities Classic, Open Cities Reborn.
 RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
+ INC: Better Cities' VWD plugin.
 Random Welkynd and Varla Stones and Stone Bricks.esp
 Rats!.esp
 RAZ's Dishes.esp
@@ -3058,6 +3062,7 @@ P-Froggys Automatic NPC-Respawner.esp
 P1DlookHereYou.esp
 P1DmenuEscape.esp
 PCB.esp
+Put Me In My Place - PlayerInSEWorld.esp
 Purge Cell Buffers - Cell Change.esp
 Purge Cell Buffers - Loading.esp
 
@@ -7691,6 +7696,8 @@ Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 >* Delete and use 'FCOM_FriendlierFactions.esp'.
 >Mart's Monster Mod - Friendlier Factions OOO.esp
 >* Delete and use 'FCOM_FriendlierFactions.esp'.
+MMM Mummy.esp
+\ The above is reported to need loading after all other MMM files. It's a preview plugin for MMM 3.8 though, so probably doesn't strictly require that. Wait until 3.8's actual release before changing though.
 FCOM_FriendlierFactions.esp
 % {{BASH: NoMerge, Relations}}
 FCOM_MoreRandomSpawns.esp
@@ -9066,9 +9073,10 @@ CaveMagrand.esp
 Chateau_Domrose_V.1.2.1-Fr.esp
 ? French Version.
 Castle_Dunkerlore_V1.esp
+ IF (B8EFE8A1|"Castle_Dunkerlore_V1.esp") DIRTY: 12 ITM, 1057 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Castle Dragulia.esp
 Castle_Highrock.esp
- IF (5822A5FD|"Castle_Highrock.esp") dirty: 38 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (5822A5FD|"Castle_Highrock.esp") DIRTY: 38 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF ("TheNecromancer.esp") INC: TheNecromancer.esp
 Castle Redwort.esp
 Castle Tirith and Tirith Town.esp
@@ -9286,6 +9294,7 @@ DFDiveRockHome.esp
 Dibella_priestess.esp
 DimensionalGrotto.esp
 DibellaTempleWillowLakeVillagev1.esp
+ IF (C19A0B4E|"DibellaTempleWillowLakeVillagev1.esp") DIRTY: 444 ITM, 934 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch-Dibella Temple-WLV.esp
 Dibella Temple Final.esp
 DibellasWatchBeta06.esp
@@ -10569,6 +10578,9 @@ Passwall Adventurers Club.esp
  IF (11E6D7FE|"Passwall Adventurers Club.esp") DIRTY: 13 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PathoftheSkullBearer.esp
 : OBSE, Shivering Isles, Sound Commands (OBSE Plugin), Elys Universal Silent Voice (OBSE Plugin)
+POTSB.esp
+ REQ: The original Path of the Skull Bearer mod's files and requirements.
+ IF (376285C0|"POTSB.esp") DIRTY: 26 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Pats Business Mod---Shop Version 1.6.esp
 ? Outdated. Update to version 2.1+.
 Pats Business Mod---Shop Version 2.0.esp
@@ -10647,7 +10659,7 @@ QOTW021.esp
 QOTW Season One.esp
  IF (315470CB|"QOTW Season One.esp") DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW Season Two.esp
- IF (E2D9635D|"QOTW Season Two.esp") DIRTY: 0 ITM, 60 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E2D9635D|"QOTW Season Two.esp") DIRTY: 0 ITM, 132 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest.esp
 ? Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -13179,6 +13191,7 @@ EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 HM2_xulAspW_Patch.esp
+DibellaTemple-AspenWood patch.esp
 
 xulSkingradOutskirts.esp
 Unique Landscapes - Skingrad Outskirts DV.esp

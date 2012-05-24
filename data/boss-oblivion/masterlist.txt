@@ -10993,8 +10993,6 @@ SRJmarasProtection.esp
 SRJriverbendhouse.esp
 SRJspiderDaedra.esp
 SRJtrollKajsa.esp
-StalhrimVillage.esp
- IF (846BDBAA|"StalhrimVillage.esp") DIRTY: 0 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Star Ship Orion.esp
 SYS Patch-Star Ship Orion.esp
 Stonehenge.esp
@@ -12693,7 +12691,7 @@ Split Expansion.esp
 Split Expansion Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 StalhrimVillage.esp
- IF (1D11672D|"StalhrimVillage.esp") DIRTY: 0 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (1D11672D|"StalhrimVillage.esp") || IF (846BDBAA|"StalhrimVillage.esp") DIRTY: 0 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 StalhrimVillage - AN Patch.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp

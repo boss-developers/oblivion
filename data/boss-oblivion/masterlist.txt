@@ -9763,7 +9763,8 @@ SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
  IF (DC39256E|"SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
  IF (6E556FA4|"SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-
+IC Palace Topper.esp
+ 
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
  IF (FE41E7A8|"Imperial_City_Cave_House-9473.esp") DIRTY: 1 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10992,6 +10993,8 @@ SRJmarasProtection.esp
 SRJriverbendhouse.esp
 SRJspiderDaedra.esp
 SRJtrollKajsa.esp
+StalhrimVillage.esp
+ IF (846BDBAA|"StalhrimVillage.esp") DIRTY: 0 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Star Ship Orion.esp
 SYS Patch-Star Ship Orion.esp
 Stonehenge.esp
@@ -12723,7 +12726,7 @@ WatersEdgeImproved.esp
  IF (53A73FA1|"WatersEdgeImproved.esp") DIRTY: 30 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Needs Wrye Bash "Remove World Orphans" fix.
 Wellspring Vale.esp
- IF (3E9D0614|"Wellspring Vale.esp") || IF (0AFCCFE8|"Wellspring Vale.esp") DIRTY: 2 ITM, 134 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (3E9D0614|"Wellspring Vale.esp") || IF (0AFCCFE8|"Wellspring Vale.esp") || IF (3E90D614|"Wellspring Vale.esp") DIRTY: 2 ITM, 134 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Woodelvendon.esp
 
 \EndGroup\\
@@ -19527,6 +19530,8 @@ IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing a
  TAG: {{BASH: Graphics}}
 CWRaceFix.esp
 MTCExpandedVillages-Colourwheels Sexy Overhaul Patch.esp
+Nephs Stock Shoes Real High Heels.esp
+ TAG: {{BASH:Graphics, Scripts}}
 \EndGroup\\
 
 \BeginGroup\: Body and head changes

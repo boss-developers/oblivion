@@ -13408,6 +13408,7 @@ Legion Ranger Addon.esp
 % {{BASH: Names}}
 
 Lilyvale.esp
+ IF (881F401E|"Lilyvale.esp") DIRTY: 35 ITM, 384 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LilyvaleULcompatibility.esp
 LilyBATTLEHORNcompatibility.esp
 

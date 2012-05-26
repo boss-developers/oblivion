@@ -8297,6 +8297,7 @@ FCOM_KvatchAftermath.esp
 County Kvatch version 5.2.esp
 (DC) Kvatch Watch Towers.esp
  IF (88A0257F|"(DC) Kvatch Watch Towers.esp") DIRTY: 22 ITM, 49 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (0DB273F0|"(DC) Kvatch Watch Towers.esp") DIRTY: 26 ITM, 49 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp

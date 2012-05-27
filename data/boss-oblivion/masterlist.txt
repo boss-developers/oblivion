@@ -2123,6 +2123,8 @@ GW71_Soulgems.esp
 
 Happyhannah's Wines.esp
 Hide Away.esp
+Hot Coffee and Tea-Base.esp
+Hot Coffee and Tea-Cobl.esp
 HUDI.esp
 " with UI systems other than DarNified UI/Dark'd DarN/other DarN variants.
 \EndGroup\\
@@ -3926,6 +3928,7 @@ CV - Kilij.esp
  IF (C4E017B|"CV - Kilij.esp") DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cy.esp
 CaptureBalls.esp
+Colourwheels Sexy Holy Knight Armor.esp
 Colourwheels Sexy Lingerie HGEC.esp
 Colourwheels Sexy Regal Uniforms.esp
 ColourWheels Sexy Servant Uniform.esp
@@ -10368,6 +10371,8 @@ MTCExpandedVillages.esp
  IF (795046EF|"MTCExpandedVillages.esp") DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MTC-WeyePatch.esp
  IF ("MTCVillages-LakeRumarePatch.esp") WARN: Use this patch or "MTCVillages-LakeRumarePatch.esp", but not both.
+MTCExpandedVillages Vwalk.esp
+ TAG: {{BASH: Actors.Anims, NoMerge}}
 
 NPCs Alive - Bandits.esp
 NPCs Alive - Beggers.esp
@@ -19532,7 +19537,10 @@ IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing a
 CWRaceFix.esp
 MTCExpandedVillages-Colourwheels Sexy Overhaul Patch.esp
 Nephs Stock Shoes Real High Heels.esp
- TAG: {{BASH:Graphics, Scripts}}
+ TAG: {{BASH: Graphics, Scripts}}
+Nephs Stock Shoes Real High Heels SI.esp
+ TAG: {{BASH: Graphics, Scripts}}
+ IF ("Nephs Stock Shoes Real High Heels.esp") WARN: Do not use with "Nephs Stock Shoes Real High Heels.esp".
 \EndGroup\\
 
 \BeginGroup\: Body and head changes

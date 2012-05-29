@@ -21335,6 +21335,14 @@ NRB4 OCReborn Road Record.esp
 % {{BASH: Deactivate, Roads}}
 : Open Cities Reborn.
 ? Use only one road record file.
+ROC Standard Road Record.esp
+ REQ: Roads of Cyrodiil
+ TAG: {{BASH: Deactivate, Roads}}
+ IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+ROC - OCReborn Road Record.esp
+ REQ: Roads of Cyrodiil, Open Cities Reborn
+ TAG: {{BASH: Deactivate, Roads}}
+ IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 CSV_Farms_Road_Vanilla.esp
 % {{BASH: Deactivate, Roads}}
 ? Use only one road record file.

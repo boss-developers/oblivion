@@ -13036,7 +13036,6 @@ WaterlilyCottage-AncientYews patch.esp
 HentaiLovelyHouse2-AncientYews patch.esp
 HauntedHouseQuest-AncientYews patch.esp
 OblivionCollectibleCards-AncientYews patch.esp
-MillstoneCOBL-AncientYews patch.esp
 
 xulAncientRedwoods.esp
  IF (6387135|"xulAncientRedwoods.esp") DIRTY: 361 ITM, 734 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13473,6 +13472,7 @@ Millstone_Farm_COBL.esp
 Millstone_UL_Patch.esp
  IF (F7081B36|"Millstone_UL_Patch.esp") DIRTY: 13 ITM, 116 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MillstoneCOBL_UL_Patch.esp
+MillstoneCOBL-AncientYews patch.esp
 
 Oblivion Gate Map Marker Remover.esp
 

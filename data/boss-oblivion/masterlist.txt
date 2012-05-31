@@ -19239,7 +19239,7 @@ Arwen companion.esp
 % {{BASH: Hair, Eyes}}
 Audrey companion.esp
 Baddy.esp
-? If you use Entius Gorge you need the compatibility patch found here: "http://tesnexus.com/downloads/file.php?id=13834"
+? If you use Entius Gorge you need the compatibility patch found here: "http://oblivion.nexusmods.com/mods/13834"
 Baddy-EntiusGorge patch.esp
 Arren.esp
 Arren-EntiusGorge patch.esp
@@ -21267,7 +21267,7 @@ DeadlyReflex 6 - Combat Moves.esp
 : NifSE ("http://oblivion.nexusmods.com/mods/21292")
 : Drop Lit Torches OBSE ("http://oblivion.nexusmods.com/mods/16282")
 \preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
-? For use both DR6b101 and NifSE 1.0+ use fix ("http://tesnexus.com/downloads/file.php?id=40336")
+? For use both DR6b101 and NifSE 1.0+ use fix ("http://oblivion.nexusmods.com/mods/40336")
 Deadly Reflex 6 - HeX NifSE Patch.esp
 SM_DeadlyReflex.esp
 SM_DeadlyReflex5.esp

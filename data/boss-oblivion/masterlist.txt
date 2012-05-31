@@ -13453,6 +13453,8 @@ Fort Akatosh Redux.esp
 Fort Akatosh Redux Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 FortAkatoshRedux-NewRoads&Bridges patch.esp
+ROC+Fort Akatosh Redux.esp
+ IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 Fort Akatosh Redux Bottomless Cavern Patch.esp
 Cyrodiil Legion Addon.esp
 % {{BASH: Names}}
@@ -13741,6 +13743,8 @@ NRB4+OCOD Patch.esp
 NRB4+UL-II+OCOD Patch.esp
 NRB4+UL-II+LtPD+OCOD Patch.esp
 NRB4+ClassBeginning Patch.esp
+ROC+ClassBeginning Patch.esp
+ IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+UL-II+OCOD Patch.esp
  IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+UL-II+LtPD+OCOD Patch.esp

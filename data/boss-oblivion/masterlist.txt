@@ -2659,6 +2659,8 @@ Tamriel VWD v0.5.esp
 Tamerelic Lore book volume 2.esp
 Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
+TeddyBackpacks.esp
+ TAG: {{BASH: Invent}}
 Teleport Arrows.esp
 % {{BASH: Invent}}
 TESA Clutter Test Cell.esp
@@ -3699,8 +3701,6 @@ Beautiful Arena Armor.esp
 BagOfAlchemy_1C.esp
 Bamboo Armor.esp
 % {{BASH: Invent}}
-Banes Guilds United.esp
-$ Probably not compatible with OOO. Untested.
 Banes Steel Helm Replacer.esp
 % {{BASH: Graphics}}
 BarbarianArmor.esp
@@ -10376,6 +10376,7 @@ MTC-WeyePatch.esp
  IF ("MTCVillages-LakeRumarePatch.esp") WARN: Use this patch or "MTCVillages-LakeRumarePatch.esp", but not both.
 MTCExpandedVillages Vwalk.esp
  TAG: {{BASH: Actors.Anims, NoMerge}}
+MTCExpandedVillages-DLCVileLair Patch.esp
 
 NPCs Alive - Bandits.esp
 NPCs Alive - Beggers.esp
@@ -10642,6 +10643,8 @@ Princess IC Waterfront Shack.esp
 Princess Cheydinhal House For Sale v1pt1.esp
 Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
+Princess Passwall Home.esp
+ IF (DFB2260B|"Princess Passwall Home.esp") DIRTY: 2 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Project Spartan.esp
 PT-AyleidSanctum.esp
 PT-AyleidSanctum-WithAltars.esp
@@ -11725,6 +11728,7 @@ fpsboost-arenanolights.esp
 DLCBattlehornCastle.esp
  IF (7048C609|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (CADD3FD0|"DLCBattlehornCastle.esp") DIRTY: 18 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (F94B3393|"DLCBattlehornCastle.esp") DIRTY: 13 ITM, 72 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCBattlehornCastle - Unofficial Patch.esp
  IFNOT (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (7048C609|"DLCBattlehornCastle.esp") && IF (AB4DE79A|"DLCBattlehornCastle - Unofficial Patch.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11788,6 +11792,7 @@ DLCFrostcrag.esp
  IF (E3DACFFD|"DLCFrostcrag.esp") DIRTY: 0 ITM, 131 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (641C4EC0|"DLCFrostcrag.esp") DIRTY: 0 ITM, 184 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
  IF (8C95F38D|"DLCFrostcrag.esp") DIRTY: 22 ITM, 94 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (E91BC831|"DLCFrostcrag.esp") DIRTY: 98 ITM, 185 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DSoSFrostCragRebornExteriorStairsFix.esp
  IF (D2621E65|"DSoSFrostCragRebornExteriorStairsFix.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kvatch Rebuilt_Frostcrag Reborn.esp
@@ -13423,8 +13428,19 @@ Castle_Wolfspike.esp
 SYS Patch Castle Wolfspike V1.esp
 Patch-Wolfspike-UL.esp
 Castle Wolfspike2.esp
-IF (69690C28|"Castle Wolfspike2.esp") DIRTY: 50 ITM, 260 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (69690C28|"Castle Wolfspike2.esp") DIRTY: 50 ITM, 260 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch Castle Wolfspike V2.esp
+
+\ This Colourwheel's stuff doesn't work well with UL unless loaded after.
+Colourwheels Sexy Tavern HGEC.esp
+ IF (4223626A|"Colourwheels Sexy Tavern HGEC.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+xulImperialIsle-ColourwheelSexyTavern Patch.esp
+Colourwheels Sexy Skyrim Outpost HGEC.esp
+ IF (859A856F|"Colourwheels Sexy Skyrim Outpost HGEC.esp") DIRTY: 7 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Colourwheels Sexy Dark brotherhood.esp
+ IF (4F223F0E|"Colourwheels Sexy Dark brotherhood.esp") DIRTY: 21 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Colourwheels Sexy Ayelid Shrine.esp
+ IF (68F17734|"Colourwheels Sexy Ayelid Shrine.esp") DIRTY: 28 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -14054,6 +14070,15 @@ Badmagic - Landscape Fix for Fanacasecul.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
+Banes Guilds United.esp
+ TAG: {{BASH: Invent}}
+ IF ($OOO) ERROR: OOO users should be using "Banes Guilds UnitedOOO.esp" instead.
+ IF (CFA556BC|"Banes Guilds United.esp") DIRTY: 45 ITM, 1661 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also includes a very large number of wild edits.
+ IF (CFA556BC|"Banes Guilds United.esp") WARN: Users are very strongly recommended to upgrade to v2+ of this mod to avoid serious issues. It can be found here: "http://oblivion.nexusmods.com/mods/42261"
+Banes Guilds UnitedOOO.esp
+ TAG: {{BASH: Invent}}
+ IFNOT ($OOO) ERROR: Use "Banes Guilds United.esp" instead.
+Banes Guilds United Wardrobe Chest.esp
 Better_Amelion_Gear.esp
 betterArena.esp
 % {{BASH: C. Water}}
@@ -18969,6 +18994,7 @@ cm_Jo-han.esp
 CM July.esp
 CM Legolas.esp
 % {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
+CM Pym.esp
 CM Partner Alice.esp
 CM Partner Anais.esp
 CM Partner Autumn.esp
@@ -19598,6 +19624,7 @@ DiverseDremoraRBPCosmetics.esp
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
 % {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}
+ IF (344CC9FE|"Colourwheels Sexy Oblivion OverHaul.esp") DIRTY: 112 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
 CWRaceFix.esp

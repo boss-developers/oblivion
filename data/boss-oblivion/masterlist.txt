@@ -1647,6 +1647,7 @@ AmbientDungeons.esp
 
 \BeginGroup\: Base A
 
+abcMagicChest.esp
 AddActorValues_example.esp
 ? demo mod, illustrates how to use the basic features of AddActorValues. Not need for use.
 UnderWaterPathGrid_Anvil.esp
@@ -3454,6 +3455,7 @@ A Study of the Shemayle Book Series.esp
 A89ES4_MageoftheArena.esp
 AAbuiesdaqun.esp
 ABC.esp
+AC_SarumanStaff.esp
 AC Stock Armor.esp
 % {{BASH: Graphics}} if using overhaul mods.
 AC2Gear_RS.esp
@@ -3566,6 +3568,7 @@ Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
 ArynnsDemonatrixHGEC.esp
+Assassin'sArmour.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
  IF (AB73F59D|"MODAssassinsCreed2_Revisited.esp") DIRTY: 3 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -4194,6 +4197,7 @@ FB_Dark_Crusader_01.esp
 % {{BASH: Invent}}
 FB_Dark_Crusader_Dynamis.esp
 FB_Dark_Crusader_Longbow_01.esp
+FB_Dark_Crusader_2_FHQ.esp
 FB_DC_Defender.esp
 FB_DC_Holy_Shadow_Buckler.esp
 FB_DC_Mega_Pack_OMOD.esp
@@ -4627,6 +4631,7 @@ LD - New Arrows.esp
 Legion BattleMage.esp
 Legion Shield Replacer.esp
 % {{BASH: Graphics}}
+LegionnaireArmor.esp
 leia.esp
 LEM Retextured Glass Weapons.esp
 Lera and Pizz ShiningWind.esp
@@ -5594,6 +5599,7 @@ XSPipeMod.esp
 XiaValentinesDayGift07.esp
 ? May not be compatible with anything that modifies the Tiber Septim Hotel.
 
+Zaine's White Knives.esp
 Zatoichi.esp
 % {{BASH: Invent}}
 ZMP NoError.esp
@@ -8842,6 +8848,7 @@ Better Dark Brotherhood Sanctuary.esp
 Better Dark Brotherhood Sanctuary for OBSE.esp
 Better Dark Brotherhood Sanctuary for Cobl.esp
 Better Dark Brotherhood Sanctuary for Cobl & OBSE.esp
+Better Dark Brotherhood Sanctuary - Tripwires.esp
 Better Dark Brotherhood Sanctuary - Tripwires Stylized.esp
 BeyondTheRealmsOfDeath.esp
  IF (CD2C8BD8|"BeyondTheRealmsOfDeath.esp") DIRTY: 244 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9039,6 +9046,7 @@ Cave Of Wishcraft.esp
 Champion's Mansion.esp
 Chatham.esp
 Chorrol_Dungeon.esp
+ChorrolHouse.esp
 ChristmasCottage.esp
 Civilian Storage.esp
 Colossus_01.esp
@@ -9213,6 +9221,7 @@ NoDaedricQuestLevelLocks.esp
 DaggerfallResources02.esp
 : Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
  IF (9FFFAA26|"DaggerfallResources02.esp") DIRTY: 16 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+DagonIsReturn.esp
 Dairânath Avari - male Companion.esp
 Dalls_Skingrad.esp
 Dalls_ICHouse.esp
@@ -9567,6 +9576,7 @@ genetica.esp
 genetica_rus.esp
 GDSkingradCathedral.esp
 GGShivOBSEv1_1.esp
+Ghorak's House.esp
 Gianna.esp
 Gift of Kynareth.esp
  IF (E370F100|"Gift of Kynareth.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9906,6 +9916,7 @@ IdiBegaj1.00.esp
 ImaItemAll.esp
 ImaGHS.esp
 ImperialForts-FortNikel.esp
+Imperial Champions House_v2.2.esp
 Imperial City Boutique.esp
 Imperial City Bridges.esp
 Imperial City Miniature Model.esp
@@ -10570,6 +10581,7 @@ OrangeroadCottage.esp
 SYS Patch-Orange Road Cottage.esp
 Orange Road Cabin.esp
 Orange_Road_Manor_ru.esp
+Order_Of_Assasins.esp
 OrderCloudKnights.esp
 OrderCloudKnights v1.0 Delayer.esp
 Order of the Virtuous Blood Expanded v0.1.esp
@@ -16098,6 +16110,7 @@ Twillith vampirism 1.71.esp
 ? Old update to 'Twillith vampirism.esp'.
 Twillith vampirism.esp
 vampire_without_disadvantages-7944.esp
+VampireLife2.0.esp
 Vampirismless Vampires.esp
 Viampirism Overhaul 3.25.esp
 Viampirism Overhaul 3.esp
@@ -18962,6 +18975,7 @@ CM Companion Jessica Alba.esp
 % {{BASH: Hair, Eyes}}
 CM Companion Megan Fox.esp
 % {{BASH: Hair, Eyes}}
+Cm Dimych.esp
 cmDrianna.esp
 CM Hoarfrost Castle Guard.esp
 CM_LoreleiU.esp

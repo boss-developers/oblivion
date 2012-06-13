@@ -3262,7 +3262,7 @@ NLF Orrery.esp
 Orrery_Rewards-9767.esp
 
 DLCVileLair.esp
- IF (74D2CA6F|"DLCVileLair.esp") || IF (2C59F2F0|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (74D2CA6F|"DLCVileLair.esp") || IF (2C59F2F0|"DLCVileLair.esp") || IF (34AFAD8C|"DLCVileLair.esp") DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 " 'Kumiko Manor'
 DLCVileLair - Unofficial Patch.esp
 % {{BASH: Graphics}}
@@ -4704,6 +4704,8 @@ Marara's Ring.esp
 Marine Bunny.esp
 Masks.esp
 MasterSpells.esp
+MasterSwordDX.esp
+MasterSwordDX_no_god.esp
 Materia.esp
 mECB_Collection.esp
 Medieval leather armors.esp
@@ -12248,6 +12250,7 @@ OOO_Mannimarco_Fix.esp
 _JC_Mannimarco.esp
 John's Leveled List Overhaul - Mannimarco Revisited Patch.esp
 The Legendary Mannimarco.esp
+Mannimarco-Revamped-v10.esp
 
 Prince of Order.esp
 
@@ -14400,6 +14403,9 @@ DMRA Replacer OOO Collection.esp
 % {{BASH: Graphics, NpcFaces, Hair, Eyes, Invent, Stats, Actors.Stats, Actors.ACBS}}
 Dwarven-S.esp
 % {{BASH: Graphics, NoMerge}}
+DynamicFootPosition.esp
+DynamicFootPosition_RHH_patch.esp
+\ The above must load after personality idles, see you sleep and their ilk, so load late.
 Dynamic Torches.esp
 \EndGroup\\
 
@@ -14693,6 +14699,8 @@ LG's Unique Enemies.esp
 Lem - Easy Construction.esp
 Lush & Gaudy Damn Greens.esp
 Lush & Gaudy FG.esp
+Lush & Gaudy Lava.esp
+Lush & Gaudy Oblivion Weather.esp
 LustyArgonianMaidContinued.esp
 \EndGroup\\
 
@@ -18327,6 +18335,7 @@ Blood Elves.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Brachyuran.esp
 FFXIII_Race.esp
+Children of Hircine.esp
 DarkNephilim.esp
 Dark Seducer Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
@@ -18334,6 +18343,7 @@ Demoness.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DreamWalker.esp
 % {{BASH: NpcFaces, Hair, Eyes}}
+Drover Collie.esp
 DTC-AR-PluginElaborateEyesFix.esp
 % {{BASH: Eyes}}
 DTC-AR-PluginLeveledNPCs.esp
@@ -20335,6 +20345,8 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
 % {{BASH: Actors.AIPackages}}
+
+IC Palace Topper - BBC.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp
 Oblivifall - Losing My Religion BC Bravil B&M.esp

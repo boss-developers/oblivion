@@ -2662,6 +2662,8 @@ Tc2rPoisonsOfNamira.esp
 TeddyBears1.esp
 TeddyBackpacks.esp
  TAG: {{BASH: Invent}}
+TeddyBackpacksAcc.esp
+ TAG: {{BASH: Invent}}
 Teleport Arrows.esp
 % {{BASH: Invent}}
 TESA Clutter Test Cell.esp
@@ -7801,6 +7803,19 @@ TIE Cats.esp
 
 Brasher's Oblivion Overhaul.esp
 % {{BASH: Delev, Relev}}
+ WARN: Obsolete. Upgrade to the latest version of David Brasher's Oblivion Overhaul and remove this plugin.
+BOO Standard Overhaul.esp
+% {{BASH: Delev, Relev}}
+BOO Less New Armor.esp
+% {{BASH: Delev, Relev}}
+BOO 1 of 4 Armor Edits Only.esp
+% {{BASH: Delev, Relev}}
+BOO 2 of 4 Weapon Edits Only.esp
+% {{BASH: Delev, Relev}}
+BOO 3 of 4 Hostile NPC Edits Only.esp
+% {{BASH: Delev, Relev}}
+BOO 4 of 4 Creature Edits Only.esp
+% {{BASH: Delev, Relev}}
 
 Oblivion Intensity.esp
 
@@ -8535,6 +8550,8 @@ Abecean_lighthouse_1.1.esp
 AkaviriSamuraiShop.esp
 AkerasHouseRu.esp
 A Qrazy Quest.esp
+Alastus.esp
+ IF (F39E2389|"Alastus.esp") DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Alexandriav3.esp
 Alexis_Magiergilde.esp
 Albae+Gefährten.esp
@@ -8841,6 +8858,13 @@ Benirus Manor Remade.esp
  IF (AED6FBB3|"Benirus Manor Remade.esp") DIRTY: 41 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Benirus' Past.esp
 Benirus_Servents.esp
+Cheydinhal Land Texture Fix.esp
+Better Abandoned House.esp
+% {{BASH: C.Name, C.Owner, Graphics, Names}}
+Better Abandoned House - Interior Only.esp
+% {{BASH: C.Name, C.Owner, Graphics, Names}}
+Better Abandoned House - Complete.esp
+% {{BASH: C.Name, C.Owner, Graphics, Names}}
 Better Dark Brotherhood Sanctuary.esp
 % {{BASH: Names, NpcFaces}}
  IF (C208F695|"Better Dark Brotherhood Sanctuary.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9958,7 +9982,7 @@ JADImperialApartments03Temple.esp
 " Better Cities Temple District. Already included as part of Better Cities.
 Jagnot- Imperial City Library V1.3.esp
 ? Not Better Cities compatible. Already included in Better Cities IC Talos District.
- IF (FC58ACB0|"Jagnot- Imperial City Library V1.3.esp") DIRTY: 41 ITM, 171 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (FC58ACB0|"Jagnot- Imperial City Library V1.3.esp") DIRTY: 41 ITM, 171 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes a few wild edits, deleting the entirety of "Abandoned Mine Caverns" and modifies the door in "Abandoned Mine" not to point anywhere.
 Jagnot-SI-Bliss Aquaduct House.esp
 Jagnot-SI-Glimmertop Tower.esp
 Jagnot-SI-Summitpoint House.esp
@@ -12006,6 +12030,7 @@ RavDCPOD.esp
 
 Knights Unleveled.esp
 
+This Mortal Crag.esp
 \EndGroup\\
 
 \BeginGroup\: ROM
@@ -13241,6 +13266,7 @@ Villges-CheydinhalFalls patch.esp
 EtInArkay-CheydinhalFalls patch.esp
 RedHeadedGang-CheydinhalFalls patch.esp
 TrailsOfCyrodiil-CheydinhalFalls patch.esp
+Cheydinhal Land Texture Fix UL.esp
 
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
@@ -13736,6 +13762,9 @@ OCR-Skingrad Classic.esp
 \BeginGroup\: Open Cities Patches
 \''''''''''''''''''''''''''''''''
 
+Better Abandoned House - OCC Patch.esp
+Better Abandoned House - OCR Patch.esp
+
 \ These need to load after OCR plugins to prevent delinquent master warnings.
 Crowded Cities for OCR.esp
 IF (273CD554|"Crowded Cities 15.esp") MOD: Crowded Cities 15.esp
@@ -13785,9 +13814,11 @@ OCLR+ULBWForest Patch.esp
 OCR+ULBWForest Patch.esp
 OCC+Cheydinhal Falls Patch.esp
 % {{BASH: C.Water}}
+Cheydinhal Land Texture Fix UL_OCC.esp
 RST+OCR Patch.esp
 OCR+Cheydinhal Falls Patch.esp
 % {{BASH: C.Water}}
+Better Abandoned House - OCR_UL Patch.esp
 RST+Cheydinhal Falls.esp
 OC+ULSkingradOutskirts Patch.esp
 ? Upgrade to Open Cities Classic or Open Cities Reborn and use the corresponding patch file.
@@ -13817,16 +13848,12 @@ OCR+DBC Patch.esp
 
 \BeginGroup\: Quests and Locations 5
 \----------------------
-Better Abandoned House.esp
-% {{BASH: C.Name, C.Owner, Graphics, Names}}
-Better Abandoned House OC Full.esp
-Better Abandoned House OC Cheydinhal.esp
-? If using Open Cities also use the OC patch for this - either full or Cheydinhal version as appropriate.
-Better Abandoned House - Interior Only.esp
-% {{BASH: C.Name, C.Owner, Graphics, Names}}
-Better Abandoned House - Complete.esp
-% {{BASH: C.Name, C.Owner, Graphics, Names}}
 
+Better Abandoned House OC Full.esp
+ WARN: Deprecated. Upgrade to the latest version of Better Abandoned House and remove this plugin.
+Better Abandoned House OC Cheydinhal.esp
+ WARN: Deprecated. Upgrade to the latest version of Better Abandoned House and remove this plugin.
+ 
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
 
@@ -14082,6 +14109,7 @@ Badmagic - Landscape Fix for Fanacasecul.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
 Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
+
 Banes Guilds United.esp
  TAG: {{BASH: Invent}}
  IF ($OOO) ERROR: OOO users should be using "Banes Guilds UnitedOOO.esp" instead.
@@ -14091,6 +14119,11 @@ Banes Guilds UnitedOOO.esp
  TAG: {{BASH: Invent}}
  IFNOT ($OOO) ERROR: Use "Banes Guilds United.esp" instead.
 Banes Guilds United Wardrobe Chest.esp
+Banes Guilds United CandC patch.esp
+Banes Guilds United FGQuests patch.esp
+Banes Guilds United BrumaGuild patch.esp
+Banes Guilds United KR patch.esp
+
 Better_Amelion_Gear.esp
 betterArena.esp
 % {{BASH: C. Water}}
@@ -14625,6 +14658,7 @@ kuerteeSilentEquipUnequipClothing.esp
 \BeginGroup\: overrides L
 
 L&G Billboards Scaled.esp
+ WARN: Obsolete. Upgrade to the newest version of Lush & Gaudy and remove this plugin.
 Large_Battle_FPS_increase-7447.esp
 Larger Ogres and Trolls etc.esp
 LastUnicorn.esp
@@ -14657,6 +14691,8 @@ LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
 Lem - Easy Construction.esp
+Lush & Gaudy Damn Greens.esp
+Lush & Gaudy FG.esp
 LustyArgonianMaidContinued.esp
 \EndGroup\\
 
@@ -16109,6 +16145,7 @@ Twillith vampirism 1.7.esp
 Twillith vampirism 1.71.esp
 ? Old update to 'Twillith vampirism.esp'.
 Twillith vampirism.esp
+Vampire Diversity.esp
 vampire_without_disadvantages-7944.esp
 VampireLife2.0.esp
 Vampirismless Vampires.esp
@@ -19637,7 +19674,9 @@ DiverseDremoraRBPCosmetics.esp
 
 Zinni's New Tail.esp
 Colourwheels Sexy Oblivion OverHaul.esp
-% {{BASH: Actors.Anims, Graphics, Invent, NPC.Race, NpcFaces}}
+% {{BASH: Actors.Anims, Graphics, NPC.Race, NpcFaces}}
+ IF ("Banes Guilds United.esp") TAG: {{BASH: Actors.ACBS}}
+ IFNOT ("Banes Guilds United.esp") TAG: {{BASH: Invent}}
  IF (344CC9FE|"Colourwheels Sexy Oblivion OverHaul.esp") DIRTY: 112 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IF ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
  TAG: {{BASH: Graphics}}
@@ -20136,6 +20175,9 @@ Better Cities IC Waterfront FPS Patch.esp
 
 \BeginGroup\: BC Compatibility patches
 
+
+Better Abandoned House - BC_OBC Patch.esp
+
 Better Cities Resources Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 Better Cities - All Natural.esp
@@ -20225,6 +20267,8 @@ Better Cities Full - Unique Landscape Cheydinhal Falls.esp
 % {{BASH: C.Water}}
 Better Cities B&M - Unique Landscape Cheydinhal Falls.esp
 % {{BASH: C.Water}}
+
+Better Abandoned House - BC_OBC_UL Patch.esp
 
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp

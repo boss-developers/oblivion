@@ -71,6 +71,7 @@ Belas.esm
  ERROR: Part of Chronicles of Reeb. Do not use. Has serious landscape issues due to editing the Tamriel worldspace. Uninstall and delete.
 Zedar.esm
 Morrowind_ob.esm
+ WARN: This needs to load directly after Oblivion.esm to avoid landscape issues caused by a failure by the mod author to use TES4Gecko's "Move Worldspaces" function.
 Tribunal_ob.esm
 Bloodmoon_ob.esm
 Silgrad_Tower.esm
@@ -1041,6 +1042,7 @@ _darker_nights_2_with_burning_kvatch.esp
 " weather overhauls.
 darker nights for shivering isles.esp
 " weather overhauls that affect SI.
+Darker N8.esp
 
 fog.esp
 " weather mods.
@@ -8273,6 +8275,13 @@ Morroblivion Water Level Fix.esp
 MorrowOblivion_Eloth Soulgem Replacer.esp
 MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 MorrowOblivion_World Transport.esp
+Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
+Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
+Morrowind_ob - MorroblivionTreeReplacer.esp
+Morrowind_ob - Morroblivion Maps.esp
+Morrowind_ob - ClothingReplacer.esp
+Morrowind_ob - MorroblivionWater.esp
+Morrowind_ob - Almalexia.esp
 Voice Overs V002.esp
 
 \EndGroup\\
@@ -8583,6 +8592,7 @@ MoreTapestry.esp
 ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
+ REQ: Enchanted Druid Treehome and Basic Personal Hygiene.
 SYS Patch for Enchanted Druid Treehome.esp
 Adventures Gear.esp
 SYS Patch-Adventures Gear.esp
@@ -15759,6 +15769,8 @@ Border Removal.esp
 The Complete Ranger.esp
 Shadow Ranger.esp
  IF (1F83FEE1|"Shadow Ranger.esp") DIRTY: 19 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php/TES4Edit_Cleaning_Guide#Shadow_Ranger.esp_Special_Cleaning_Instructions"
+Shadow Ranger Redux.esp
+ INC: Shadow Ranger, The Complete Ranger
 
 Hero's Dialogue_final_rus.esp
 Roleplaying Dialogues.esp
@@ -19056,6 +19068,8 @@ CM July.esp
 CM Legolas.esp
 % {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
 CM Pym.esp
+Colourwheels Sexy Pym Companion.esp
+ IF (224844CA|"Colourwheels Sexy Pym Companion.esp") DIRTY: 639 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partner Alice.esp
 CM Partner Anais.esp
 CM Partner Autumn.esp

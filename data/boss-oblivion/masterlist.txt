@@ -5947,6 +5947,9 @@ DM Outlaw armor_EN.esp
 DM Outlaw armor_RU.esp
 dmra_bbb_armamentarium.esp
 : Armamentarium
+DMRA BBB Armamentarium Complete.esp
+% {{BASH:Graphics}}
+ INC: dmra_bbb_armamentarium.esp
 TGND2 Armamentarium Replacer.esp
 % {{BASH: Graphics}}
  : Armamentarium
@@ -9817,6 +9820,7 @@ SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp
 SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
  IF (6E556FA4|"SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IC Palace Topper.esp
+IC Palace Topper - BBC.esp
  
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
@@ -11667,7 +11671,13 @@ Yami_smallhouse.esp
 Yellow Rose Cottage.esp
 YGShop.esp
 
+ZOMBIES! -  28 days and a bit V2.esp
 ZOMBIES! - 28 days and a bit V2.esp
+ IF (CFC0E317|"ZOMBIES! - 28 days and a bit V2.esp") DIRTY: 53 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ZOMBIES! - 28 days and a bit V3.esp
+ IF (F8A0A417|"ZOMBIES! - 28 days and a bit V3.esp") DIRTY: 5 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Zombie Island.esp
+ IF (7534A8F1|"Zombie Island.esp") DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BankMod.esp
 za_bankmod.esp
 ? For use with Better Cities use replacing fix for BBC.
@@ -11680,6 +11690,7 @@ Zergonipilamat.esp
 Zergonipilamat 1_2.esp
 Zombie Inn III.esp
 Oblivion - ZOMBIE.esp
+ IF (13C5E710|"Oblivion - ZOMBIE.esp") DIRTY: 68 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Zera LeSaar's Aethera Aeternium.esp
 Zera LeSaar's Frostrift Cavern.esp
 Zera LeSaar's Tamrielic Luxuries.esp
@@ -13492,6 +13503,8 @@ Colourwheels Sexy Dark brotherhood.esp
  IF (4F223F0E|"Colourwheels Sexy Dark brotherhood.esp") DIRTY: 21 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Colourwheels Sexy Ayelid Shrine.esp
  IF (68F17734|"Colourwheels Sexy Ayelid Shrine.esp") DIRTY: 28 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ColourWheels Sexy Milk Maid HGEC.esp
+ IF (8947202D|"ColourWheels Sexy Milk Maid HGEC.esp") DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 The Ruins of Miscarcand.esp
 " Miscarcand Expanded.esp
@@ -18360,6 +18373,8 @@ DTC-AR-PluginElaborateEyesFix.esp
 % {{BASH: Eyes}}
 DTC-AR-PluginLeveledNPCs.esp
 Elf.esp
+AIRrace Evy.esp
+% {{BASH: Hair, Eyes}}
 Golden Saint Race.esp
 % {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 PlayableSheogorathMod.esp
@@ -20359,8 +20374,6 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
 % {{BASH: Actors.AIPackages}}
-
-IC Palace Topper - BBC.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp
 Oblivifall - Losing My Religion BC Bravil B&M.esp

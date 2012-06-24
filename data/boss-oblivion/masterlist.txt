@@ -2624,7 +2624,7 @@ SkinMannequinVan-nosleep.esp
  IF (65249775|"SkinMannequinVan-nosleep.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SkinMannequinVan-sleep.esp
 Skyrim Ingredients.esp
-% {{BASH: Invent}}
+% {{BASH: Invent, Relev}}
 Slof's Oblivion Pillow Book.esp
 Slof's Oblivion Pillow BookRU.esp
 SMTXKhajiitPawsAsAbility_v04RMHGEC.esp
@@ -8286,6 +8286,7 @@ Morrowind_ob - ClothingReplacer.esp
 Morrowind_ob - MorroblivionWater.esp
 Morrowind_ob - Almalexia.esp
 Voice Overs V002.esp
+ProtocolledDialogs.esp
 
 \EndGroup\\
 
@@ -9241,6 +9242,7 @@ Companion Gate.esp
 Companion Gate_Load.esp
 ? Use this, if you haven a exsisting save game
 ? Use only one 'Companion Gate.esp' or 'Companion Gate_Load.esp'
+Cursed_Husband.esp
 CV - Templar Fortress.esp
  IF (44E1671|"CV - Templar Fortress.esp") DIRTY: 50 ITM, 892 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CyrilliansStaff.esp
@@ -12423,6 +12425,8 @@ ElsweyrAnequina Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
 ElsweyrAnequina v2 Vwalk.esp
 % {{BASH: Actors.Anims, NoMerge}}
+ElsweyrCityExtension.esp
+ IF (49534F53|"ElsweyrCityExtension.esp") DIRTY: 1 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Reaper's Esmeralda's Desert Manor.esp
  IF (DB57B73|"Reaper's Esmeralda's Desert Manor.esp") DIRTY: 48 ITM, 32 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch-Anequina Manor.esp
@@ -14560,7 +14564,9 @@ GoldCoinBagger.esp
 Goldbrand_Replacer_v1.0.esp
 GoldBrand Replacer.esp
 Golden Perch Inn.esp
+ INC: (DC) Sutch Reborn landscape LOD.
  IF (444F0E35|"Golden Perch Inn.esp") DIRTY: 25 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ IF (4F0086B1|"Golden Perch Inn.esp") DIRTY: 37 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes wild edits to merchant greetings, water height levels and a vanilla script.
 Golden Perch Inn - AN Patch.esp
 % {{BASH: C.Climate}}
 GoresNoTargetMagicGaining-Vanilla.esp
@@ -14829,6 +14835,8 @@ NameReplacer-Clothing.esp
 ? If possible use the Wrye Bash Bashed Patch tweak instead.
 Near100PercentArrowRecovery.esp
 ? Consider using Bash Patch tweaks instead.
+Nephs Unique Thievery.esp
+ TAG: {{BASH: Invent}}
 NewMerchantItems.esp
 New_Magical_Staves.esp
 newsheogorath.esp

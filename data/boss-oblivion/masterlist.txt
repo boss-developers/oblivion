@@ -5948,7 +5948,7 @@ DM Outlaw armor_RU.esp
 dmra_bbb_armamentarium.esp
 : Armamentarium
 DMRA BBB Armamentarium Complete.esp
-% {{BASH:Graphics}}
+% {{BASH: Graphics, NoMerge}}
  INC: dmra_bbb_armamentarium.esp
 TGND2 Armamentarium Replacer.esp
 % {{BASH: Graphics}}
@@ -8764,6 +8764,9 @@ Artifacts SoB Patch.esp
 TGND2 Artifacts Replacer.esp
 dmra_bbb_artifacts.esp
 % {{BASH: Graphics, NoMerge}}
+DMRA BBB Artifacts Complete.esp
+ INC: dmra_bbb_artifacts.esp
+ TAG: {{BASH:Graphics, NoMerge}}
 AraenyaRealm.esp
 A Son's Revenge 2.0.esp
 AsarusTomb1.esp
@@ -9929,6 +9932,8 @@ ImpeREAL Empire - Unique Castles - Leyawiin.esp
 ImpeREAL Empire - Unique Castles - Skingrad.esp
 " Better Cities Full or Better Cities Skingrad components.
 ImpeREAL Shops - Restock empty Counters & Display Tables - Merged.esp
+
+ImpeREAL City Dragon House patch.esp
 
 Imperial Library.esp
 Imperial City Ranch.esp
@@ -11261,6 +11266,7 @@ The Reluctant Ranger REVAMPED.esp
 The Power of the North.esp
 The Retreat.esp
 The Retreat-AN compatible.esp
+ TAG: {{BASH: C.Climate}}
 TheSiegeofMalat.esp
 The Siren's Deception.esp
 The Spirit Of The Wolf.esp

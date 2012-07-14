@@ -6838,6 +6838,7 @@ OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
 % {{BASH: Stats}}
 OOO-LightOfDawnFlamesWhenDrawnOBSE_1handed.esp
+Oscuro's_Oblivion_Overhaul - No Daedric Items.esp
 \EndGroup\\
 
 \BeginGroup\: Post OOO
@@ -7719,7 +7720,15 @@ Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 >Mart's Monster Mod - Friendlier Factions OOO.esp
 >* Delete and use 'FCOM_FriendlierFactions.esp'.
 MMM Mummy.esp
-\ The above is reported to need loading after all other MMM files. It's a preview plugin for MMM 3.8 though, so probably doesn't strictly require that. Wait until 3.8's actual release before changing though.
+
+Mart's Monster Mod - Diverse Wisp and VASE Addon.esp
+Mart's Monster Mod - Hemingweys NPC Capes Improved.esp
+Mart's Monster Mod - Hemingwey Capes Addon.esp
+Mart's Monster Mod - No Ghostly Appariation.esp
+Mart's Monster Mod - Diverse Creatures Expansion.esp
+Mart's Monster Mod - RadiantAITweaks.esp
+Mart's Monster Mod - Mummies.esp
+
 FCOM_FriendlierFactions.esp
 % {{BASH: NoMerge, Relations}}
 FCOM_MoreRandomSpawns.esp
@@ -12036,6 +12045,7 @@ All Natural RL - DLC Patch.esp
 Sounds of Cyrodiil - KOTN Add-on.esp
 TGND2 Knights Replacer.esp
 % {{BASH: Graphics, NoMerge}}
+Oscuro's_Oblivion_Overhaul - Knights of Nine.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp

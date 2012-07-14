@@ -2042,6 +2042,7 @@ DragonStatuesv1.esp
 DragonStatues_1C.esp
 DrinksForSale.esp
 DropLPUI.esp
+Ducks in IC.esp
 Duke Patricks - Basic Alchemic Immersion.esp
 Duke Patricks - Minimalistic Hunger.esp
 Duke Patricks - Semi Unlimited Rings And Amulets.esp
@@ -3730,6 +3731,8 @@ bcrich.esp
 BisDancerPumps.esp
 BetterBedroll.esp
 % {{BASH: Invent}}
+Better Unique Items.esp
+ TAG: {{BASH: Graphics}}
 Belles Bouteilles.esp
 % {{BASH: Graphics}}
 BFF4L.esp
@@ -14584,6 +14587,7 @@ GP_Lockpicks.esp
 " MMM Hunting & Crafting.
 gq Chapel Altars become Wayshrines.esp
 % {{BASH: Scripts}}
+Grass Overhaul.esp
 Great Gate Essential NPC's.esp
 Grummite Bows.esp
 GuardEquipAndStatFix.esp
@@ -14843,6 +14847,7 @@ NameReplacer-Clothing.esp
 ? If possible use the Wrye Bash Bashed Patch tweak instead.
 Near100PercentArrowRecovery.esp
 ? Consider using Bash Patch tweaks instead.
+Nephs Increased Quest Gold.esp
 Nephs Unique Thievery.esp
  TAG: {{BASH: Invent}}
 NewMerchantItems.esp
@@ -16095,6 +16100,7 @@ Bleed Damn You V2.0.esp
 PrimaryNeeds10.esp
 Basic Primary Needs.esp
 Basic Personal Hygiene.esp
+Basic Physical Activities.esp
 
 RealisticForceLow.esp
 RealisticForceMedium.esp

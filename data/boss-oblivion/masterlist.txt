@@ -7904,6 +7904,7 @@ zCats & Rats.esp
  IF (99F45386|"zCats & Rats.esp") DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ? Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
 OC+Cats&Rats Patch.esp
+PekImperialHorseArmor.esp
 OOOPekImperialHorseArmor.esp
 % {{BASH: Actors.AIData, Actors.Stats, Graphics}}
 MMM Goblin Assassin Fix.esp
@@ -20606,6 +20607,16 @@ CRpatchForBCanvil.esp
 CRpatchForBCcheydinhal.esp
 CRpatchForBCleyawiin.esp
 CRpatchForBSandULskingrad.esp
+
+/*Cyrodiil Extended*/
+Imperial Bridge extended 1.2.esp
+Brindles Home extended 1.1.esp
+Roxey Extended 1.2.esp
+Tempel der Ahnenmotten 1.1.esp
+Cadlew Priory extended 1.1.esp
+Gottlesfont extended 1.1.esp
+Grenzburg extended 1.1.esp
+Faregyl extended 1.1.esp
 
 CSV_Farms_Better_Cities.esp
 ? Use only one CSV Farms * Cities esp.

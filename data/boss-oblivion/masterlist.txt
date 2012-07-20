@@ -11533,9 +11533,6 @@ Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp
 
-//Needs to be here to avoid path grid complications from Shezrie's nearby Pell's Gate mod.
-Knights - Revelation.esp
-
 Vampire Hunting - Order Of The Virtuous Blood.esp
   TAG: {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}
 Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
@@ -11962,10 +11959,12 @@ Ulrim's Horses - OOO.esp
 Ulrim's Horses - Vanilla.esp
   TAG: {{BASH: Graphics}} for Slof's Horses compatibility.
 
+// Why is this sitting so far down the load list anyway? Why was this decided to be better than the logical spot at the very top directly under the UOP?
 Knights.esp
   TAG: {{BASH: Actors.AIPackages, Factions, Relations}}
   IF (71480B94|"Knights.esp") DIRTY: 113 ITM, 255 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF (F1F478FA|"Knights.esp") DIRTY: 121 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Knights - Revelation.esp
 Knights - Book Jackets.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp

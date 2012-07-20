@@ -11964,7 +11964,6 @@ Knights.esp
   TAG: {{BASH: Actors.AIPackages, Factions, Relations}}
   IF (71480B94|"Knights.esp") DIRTY: 113 ITM, 255 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF (F1F478FA|"Knights.esp") DIRTY: 121 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Knights - Revelation.esp
 Knights - Book Jackets.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Traduccion mejorada KoT9.esp
@@ -11978,6 +11977,7 @@ WnA of Righteousness.esp
 Knights - Unofficial Patch.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Factions, Relations}}
 Correctif Knights.esp
+Knights - Revelation.esp
 DBOO - Knights.esp
 DMRA BBB Knights of the Nine Replacer.esp
   TAG: {{BASH: Graphics}}

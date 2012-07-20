@@ -346,6 +346,7 @@ TOCP.esm
 Sheogorad.esm
 RealisticLeveling.esm
 VipCxj_AirSystem.esm
+Knights - Revelation.esm
 ENDGROUP
 
 BEGINGROUP: Earliest mods
@@ -11531,6 +11532,9 @@ Veldin.esp
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
 Versus Dark Brotherhood.esp
+
+//Needs to be here to avoid path grid complications from Shezrie's nearby Pell's Gate mod.
+Knights - Revelation.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
   TAG: {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Factions, Invent, Scripts}}

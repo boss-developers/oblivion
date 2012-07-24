@@ -18273,19 +18273,23 @@ BP-Cosmetic_Compilation-Alternative-VanillaRaceonly.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation XXL DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No JPeepers.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 EE-Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 CCR - EE.esp
@@ -20148,8 +20152,8 @@ CustomRaceFix.esp
 Custom Race Fix.esp
   IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 boethia custom race.esp
-  IF ("Unofficial Oblivion Patch.esp") && IFNOT ("Cosmetic Compilation.esp") WARN: Remove this and use the UOP instead.
-  IF ("Cosmetic Compilation.esp") SAY: It must be used if using Cosmetic Compilation.esp.
+  IF ("Unofficial Oblivion Patch.esp") && IFNOT (r"Cosmetic Compilation.*\.esp") WARN: Remove this and use the UOP instead.
+  IF (r"Cosmetic Compilation.*\.esp") SAY: It must be used if using Cosmetic Compilation.esp.
 Oblivion_1C_SorrectDirNames.esp
 RaceFix_1C.esp
   IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.

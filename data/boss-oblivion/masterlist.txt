@@ -20152,8 +20152,8 @@ CustomRaceFix.esp
 Custom Race Fix.esp
   IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 boethia custom race.esp
-  IF ("Unofficial Oblivion Patch.esp") && IFNOT (r"Cosmetic Compilation.*\.esp") WARN: Remove this and use the UOP instead.
-  IF (r"Cosmetic Compilation.*\.esp") SAY: It must be used if using Cosmetic Compilation.esp.
+  IF ("Unofficial Oblivion Patch.esp") && IFNOT ($CC1) WARN: Remove this and use the UOP instead.
+  IF ($CC1") SAY: It must be used if using Cosmetic Compilation.esp.
 Oblivion_1C_SorrectDirNames.esp
 RaceFix_1C.esp
   IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.

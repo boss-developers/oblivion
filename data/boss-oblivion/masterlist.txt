@@ -1851,6 +1851,7 @@ NoMouseWheelZoomSpellOBSE.esp
 CATSDeerPeltsAndAntlers.esp
   SAY: May not be compatible with OOO or MMM Hunting and Crafting.
   SAY: Moving after overhauls may restore this mod's functionality but may break some overhaul mod settings. Untested.
+ColourWheels LOD project (Imperial City).esp
 
 Complete Names.esp
   TAG: {{BASH: Names}}
@@ -3321,6 +3322,7 @@ DLCSpellTomes.esp
   IF (4ABF2393|"DLCSpellTomes.esp") DIRTY: 44 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DLCSpellTomes - Unofficial Patch.esp
   INC: 'CDM-CGO Compatibility plugins'.
+DLCSpellTomes - OBSEfixer.esp
 Correctif SpellTomes.esp
 Book Jackets DLC.esp
   TAG: {{BASH: Graphics, NoMerge}}
@@ -5843,6 +5845,7 @@ Arynns-Heavenly-Sword_Exnem-sexy.esp
 AT2 01-Shiki Armor Set v1_0.esp
 AT2 01-Shiki Armor Set.esp
 AT2 02-Shiki Armor Set.esp
+AT2 Dress Armor Set.esp
 
 Babarized AleanneGlass.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
@@ -6229,6 +6232,7 @@ TGND Warrior Skin.esp
 The Dragon Princess.esp
 tona_simple_dress-armor.esp
 TrawlolsCorinthianGladiator.esp
+Triss Armor Retextured.esp
 
 UFF_1SBBewitching.esp
 UFF Amazon Armor.esp
@@ -6517,10 +6521,6 @@ RealBanditsAndHighwaymen.esp
 SIRMS.esp
   TAG: {{BASH: Invent, Names}}
 The Last Queen Of The Ayleids.esp
-Weapon Expansion Pack for Oblivion Nthusiasts.esp
-  TAG: {{BASH: Delev, Graphics, Invent, Names, Relev, Scripts, Stats}}
-  INC: Mithril and Orcish Weapon Sets v1 and v2, Fine Weapons, Rusty Items
-  IF (13F4CF76|"Weapon Expansion Pack for Oblivion Nthusiasts.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ENDGROUP
 
 BEGINGROUP: Only Name changing files
@@ -8266,6 +8266,11 @@ Unscaled Loot and Encounters.esp
 VG0udyrfrykte.esp
 slaughterfish addon.esp
 Smarter Bandits.esp
+
+Weapon Expansion Pack for Oblivion Nthusiasts.esp
+  TAG: {{BASH: Delev, Graphics, Invent, Names, Relev, Scripts, Stats}}
+  INC: Mithril and Orcish Weapon Sets v1 and v2, Fine Weapons, Rusty Items
+  IF (13F4CF76|"Weapon Expansion Pack for Oblivion Nthusiasts.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ENDGROUP
 
 BEGINGROUP: Morroblivion
@@ -8895,6 +8900,8 @@ Better Abandoned House - Interior Only.esp
   TAG: {{BASH: C.Name, C.Owner, Graphics, Names}}
 Better Abandoned House - Complete.esp
   TAG: {{BASH: C.Name, C.Owner, Graphics, Names}}
+Better Camps.esp
+  IF (79278151|"Better Camps.esp") DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Better Dark Brotherhood Sanctuary.esp
   TAG: {{BASH: Names, NpcFaces}}
   IF (C208F695|"Better Dark Brotherhood Sanctuary.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9812,6 +9819,7 @@ Hero's Retreat.esp
 Hidden Cave.esp
 hrOscarWiener.esp
 HTBFLYCollection.esp
+HTBMondsteinShop.esp
 HTBNeoSGOutfitsRedone.esp
 Hunter's Haven File 1.esp
 ENDGROUP
@@ -10770,7 +10778,6 @@ Really Boring Dungeon.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
 Reaper's The Dark Tower.esp
-  INC: Heart of the Dead.
 Reaper's The Dark Tower Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Reaper_Drakelowe's Witch.esp
@@ -12619,6 +12626,7 @@ HeartOfTheDeadv6.5 Delayer.esp
   SAY: Fine with HoTD V6.3-6.5.
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Sounds of Cyrodiil - HOTD Add-on.esp
+ColdstoneDT and HOTDead Patch.esp
 
 Dschinni.esp
   SAY: There are incompatibilities with Servant of the Dawn.
@@ -13095,6 +13103,7 @@ QuelldorfWithoutShip-BravilBarrowfields patch.esp
 BravilBridgeCottage + Barrowfields Patch.esp
 NicVBetterBeggars-BravilBarrowfields patch.esp
 GoldenCrest-BravilBarrowfields patch.esp
+ReapersTheDarkTower-BravilBarrowfields patch.esp
 
 xulLushWoodlands.esp
   IF (62FB2C49|"xulLushWoodlands.esp") DIRTY: 0 ITM, 648 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

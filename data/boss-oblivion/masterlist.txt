@@ -2793,12 +2793,11 @@ Alchemy_Economy_Fix.esp
   SAY: Not needed if using option in Enhanced Economy.
 
 Living Economy.esp
-  SAY: Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
+  IF ("Living Economy - SI.esp") WARN: Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
-  SAY: Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
   REQ: Shivering Isles expansion.
 SI Living Economy.esp
-  SAY: Outdated. Update to latest version.
+  WARN: Outdated. Update to latest version.
 Living Economy - Items.esp
   IF (1F0A2AB8|"Living Economy - Items.esp") DIRTY: 10 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cutthroat Merchants.esp
@@ -20143,16 +20142,17 @@ DrowRacesofFaerunEyeFix.esp
 Xereau's Better Birthsigns 1.0.esp
 
 KT_CustomRaceFix.esp
-  SAY: Obsolete. Remove this and use the UOP instead.
+  IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 CustomRaceFix.esp
-  SAY: Obsolete. Remove this and use the UOP instead.
+  IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 Custom Race Fix.esp
-  SAY: Obsolete. Remove this and use the UOP instead.
+  IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 boethia custom race.esp
-  SAY: Obsolete. Remove this and use the UOP instead.
-  SAY: However, it must be used if using Cosmetic Compilation.esp.
+  IF ("Unofficial Oblivion Patch.esp") && IFNOT ("Cosmetic Compilation.esp") WARN: Remove this and use the UOP instead.
+  IF ("Cosmetic Compilation.esp") SAY: It must be used if using Cosmetic Compilation.esp.
 Oblivion_1C_SorrectDirNames.esp
 RaceFix_1C.esp
+  IF ("Unofficial Oblivion Patch.esp") WARN: Remove this and use the UOP instead.
 Patch Naked NPCs.esp
 ENDGROUP
 

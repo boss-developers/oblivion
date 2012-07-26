@@ -788,6 +788,7 @@ CorrectifSI.esp
 Unofficial Shivering Isles Patch DV.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 USIPCutterFix.esp
+  SAY: Outdated. Included in Unofficial Shivering Isles Patch 1.5.1+
 FIX_Unofficial Shivering Isles Patch_1.4_MOBS_FCOM.esp
   SAY: Outdated. When using Francesco's and/or FCOM, use the non-MOBS version of this patch and the standalone MOBS/OMOBS mods.
 Unofficial_Shivering_Isles_Patch_10MOBS.esp

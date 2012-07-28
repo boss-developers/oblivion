@@ -7119,7 +7119,7 @@ IF ($FCOM) MOD: Mart's Monster Mod - Additional Enemy NPC Vars.esp
   SAY: Can increase the chances of a CTD in a heavily modded game due to increased processor load.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 FCOM_Convergence.esp
-  TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackagesForceAdd, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+  TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Spells, Actors.SpellsForceAdd, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
   IFNOT ($FCOM) ERROR: FCOM_Convergence.esm is missing. Re-install FCOM.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 FCOM_ConvergenceNoFran.esp

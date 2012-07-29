@@ -717,7 +717,7 @@ Correctif.esp
 Unofficial Oblivion Patch-mobs.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 UOPS Additional Changes.esp
-  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, NPC.Class, Relev, Stats}}
+  TAG: {{BASH: Relev, Stats}}
 FlamesRandomLightUOP.esp
 UOP Vampire Aging & Face Fix.esp
   SAY: Recommend removing if using Wrye Bash. A tweak for this exists in "Tweak Settings".

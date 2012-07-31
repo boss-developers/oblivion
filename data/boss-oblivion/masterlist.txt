@@ -4874,7 +4874,7 @@ Oblivions_Edge.esp
 Obsidian Axe.esp
 Obsidian armor.esp
   TAG: {{BASH: Graphics}}
-Oddbasket Glass Replace(RU)?( NoEnch)?( ALT)?\.esp
+REGEX: Oddbasket Glass Replace(RU)?( NoEnch)?( ALT)?\.esp
   TAG: {{BASH: Graphics}}
   SAY: Use only one version of Oddbasket Glass Replace esp.
 Omegas Crazy Amulets.esp

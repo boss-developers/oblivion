@@ -353,13 +353,13 @@ BEGINGROUP: Earliest mods
 //-------------
 
 rus_DotStudio_1.2_final.esp
-  SAY: Translates Oblivion.esm into Russian.
 russian.esp
 ZoGRus.esp
 ZoGRusScriptMessagebox.esp
 ZoGRusFactionNames.esp
 Oblivion_1C.esp
 Oblivion_1C_СorrectDirNames.esp
+Oblivion_1C_Script.esp
 zOST_MAIN.esp
 Essential_Merchants.esp
   TAG: {{BASH: Actors.ACBS, NoMerge}}
@@ -1524,9 +1524,8 @@ Weather Inside.esp
   INC: later versions of Storms & Sound.
 MIS Weather.esp
 
-Rainbows.esp
+REGEX: Rainbows(_1C)?\.esp
   IF (71BDDEC0|"Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Rainbows_1C.esp
 Better Rainbows.esp
   IF (71BDDEC0|"Better Rainbows.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ENDGROUP
@@ -1566,23 +1565,13 @@ CampfireBehavior.esp
 
 better lights.esp
 
-IlluminationWithin.esp
-IlluminationWithout.esp
-Illumination Within Rus.esp
-  SAY: use only one Illumination Within Rus.esp or Illumination Without Rus.esp
-Illumination Without Rus.esp
-  SAY: use only one Illumination Within Rus.esp or Illumination Without Rus.esp
-IWR - Windows.esp
+REGEX: Illumination(Within|Without)( Rus)?\.esp
+  IF (r"IlluminationWithin.*\.esp") && IF (r"IlluminationWithout.*\.esp") WARN: Use only one IlluminationWithin or IlluminationWithout esp.
+REGEX: IWR.?-.?Windows( Rus)?\.esp
   SAY: Remember there are also the Retrofitted and Optimised IWR mods.
-IWR - Lights.esp
+REGEX: IWR.?-.?Lights( Rus)?\.esp
   SAY: Remember there are also the Retrofitted and Optimised IWR mods.
-IWR - Shutters.esp
-  SAY: Remember there are also the Retrofitted and Optimised IWR mods.
-IWR-Lights.esp
-  SAY: Remember there are also the Retrofitted and Optimised IWR mods.
-IWR-Windows.esp
-  SAY: Remember there are also the Retrofitted and Optimised IWR mods.
-IWR-Shutters.esp
+REGEX: IWR.?-.?Shutters( Rus)?\.esp
   SAY: Remember there are also the Retrofitted and Optimised IWR mods.
 IWRRetrofittedLights.esp
 IWRRetrofittedShutters.esp
@@ -1790,6 +1779,7 @@ bDLTIC-1-6.esp
 DLTIC-1-6.esp
 Torch Hotkey.esp
 BTMM.esp
+Better Torches.esp
 Brighter_Torches.esp
 BrighterTorches_v1.1.esp
   SAY: Old, update to V1.2+
@@ -4871,10 +4861,10 @@ Doomshard Bow.esp
 DoomshardBow_1C.esp
 Nico's Dreadweave Axes.esp
 Nicos Dreadweave Compilation.esp
-  SAY: Deactivate 'Nicos Daes Rakan Swords 1.2'
-  SAY: Deactivate 'Nicos Dreweave Axes 1.2'
-  SAY: Deactivate 'Nicos Dreweave armor 1.4'
-  SAY: Deactivate 'Nicos Bow and Arrows 1.1'
+  INC: 'Nicos Daes Rakan Swords 1.2'
+  INC: 'Nicos Dreweave Axes 1.2'
+  INC: 'Nicos Dreweave armor 1.4'
+  INC: 'Nicos Bow and Arrows 1.1'
 Noviere's Gray Fox Hood.esp
 ENDGROUP
 
@@ -4884,14 +4874,9 @@ Oblivions_Edge.esp
 Obsidian Axe.esp
 Obsidian armor.esp
   TAG: {{BASH: Graphics}}
-Oddbasket Glass Replace NoEnch.esp
+Oddbasket Glass Replace(RU)?( NoEnch)?( ALT)?\.esp
   TAG: {{BASH: Graphics}}
-Oddbasket Glass Replace.esp
-  TAG: {{BASH: Graphics}}
-Oddbasket Glass Replace NoEnch ALT.esp
-  TAG: {{BASH: Graphics}}
-Oddbasket Glass Replace ALT.esp
-  TAG: {{BASH: Graphics}}
+  SAY: Use only one version of Oddbasket Glass Replace esp.
 Omegas Crazy Amulets.esp
 Oonas_Outfitters.esp
 Obclothing.esp

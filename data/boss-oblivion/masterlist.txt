@@ -37,10 +37,9 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
   IF ("Better Cities Resources.esm") SET: BC
   IF ("FCOM_Convergence.esm") SET: FCOM
-// The second check is a hack until BOSS 1.9's release.
 
 // Upgrade message for 1.7+ users:
-  IF (<2.0.1.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.0.1) has been released. Download it at "http://oblivion.nexusmods.com/mods/20516", "http://skyrim.nexusmods.com/mods/6", "http://fallout3.nexusmods.com/mods/10193" or "http://newvegas.nexusmods.com/mods/35999"
+  IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
 
 

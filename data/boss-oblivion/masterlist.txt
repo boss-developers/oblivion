@@ -2149,6 +2149,7 @@ ENDGROUP
 BEGINGROUP: Base J
 
 Japanese Clothing.esp
+DJZ Jot9.esp
 JPWikiMod.esp
   TAG: {{BASH: Names}}
   SAY: If little of the translated test shows move lower but may then overwrite other mods.
@@ -2577,7 +2578,6 @@ Sexual_SpiderDaedra.esp
   SAY: Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
 OSM-All Genders.esp
   TAG: {{BASH: Graphics, Invent, Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
-Shadow's Merged Value Fixesv1.1.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
   SAY: MMM users are probably better to use MMM Farm Animals plugin.
@@ -3628,6 +3628,7 @@ AssassinBow.esp
 AyleidGlass.esp
   TAG: {{BASH: Graphics}}
 Ayleid Armor and weapons.esp
+Ayleid Armor Standalone.esp
 
 ACCCGR SI.esp
   IF (EA8628A4|"ACCCGR SI.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -3843,6 +3844,7 @@ Cane of Sheogorath.esp
 Caine's Outfit.esp
 CapesandCloaks.esp
 Captain_Molly_HGEC.esp
+Cardigan and One piece.esp
 CarsomyrSword.esp
 Catsuit.esp
 CB Dark Enchantress.esp
@@ -3940,6 +3942,7 @@ ColourWheel_Uniforms_v1.5.esp
 chainmailsdezi.esp
 CasquetteCamisoleX117.esp
 Cute Lily Armor.esp
+Cute Summer Wears.esp
 ENDGROUP
 
 BEGINGROUP: Items D
@@ -4112,6 +4115,9 @@ druid_tomb.esp
 DS Mage's Belt.esp
 Dynasty.esp
 doofdillas_potions_recolored_unsorted_v0_2_1.esp
+  TAG: {{BASH: Graphics, Names}}
+  SAY: Old, update to version 0.3.1+.
+doofdillas_potions_recolored_sorted_v0_2_1.esp
   TAG: {{BASH: Graphics, Names}}
   SAY: Old, update to version 0.3.1+.
 doofdillas_potions_recolored_sorted_v0_3_1.esp
@@ -5128,6 +5134,8 @@ SilverwareWeapons.esp
   SAY: if using FCOM use Silverware Weapons - FCOM.esp instead
 Silverware Weapons - FCOM.esp
 SilverPhoenixArmor.esp
+Simple Knit.esp
+Simple Outfits Collection.esp
 Sin's Expanded Light Armor Kit [Chest].esp
   IF ($OOO) SAY: Not compatible with OOO. Already included in OOO.
   TAG: {{BASH: Invent}}
@@ -5316,6 +5324,7 @@ strotisNewFood.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
+Summer Onepiece.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
 Svetovoimech.esp
@@ -11348,6 +11357,9 @@ To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp
 TobesHouseRu.esp
 Toc Toc - The Raven.esp
+ToiletMod.esp
+  IF (873BFCF0|"ToiletMod.esp") DIRTY: 74 ITM, 88 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide".
+  IF (83840533|"ToiletMod.esp") DIRTY: 74 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide".
 TolawaylAyleidCity_Quest.esp
   IF (C5C868BD|"TolawaylAyleidCity_Quest.esp") DIRTY: 26 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also deletes a door in the Cheydinhal Castle Private Quarters. 
 tollingbrookhollowhome.esp
@@ -12168,6 +12180,7 @@ The Lost Spires v14 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 The Lost Spires Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+MTCVillages-LostSpiresPatch.esp
 
 Aundae.esp
 //Needs to load here for compatibility with The Lost Spires.
@@ -14775,7 +14788,11 @@ Shadow's Balance Price Fixv2.0.esp
   TAG: {{BASH: Stats, Deactivate}}
 Shadow's Merged Value FixesNOBLOODPOTv2.0.esp
   TAG: {{BASH: Stats, Deactivate}}
+Shadow's Merged Value Fixesv1.1.esp
+  TAG: {{BASH: Stats, Deactivate}}
 Shadow's Merged Value Fixesv2.0.esp
+  TAG: {{BASH: Stats, Deactivate}}
+Shadow's Merged Value Fixesv3.0.esp
   TAG: {{BASH: Stats, Deactivate}}
 M.O.E. - Kill Martin and Jauffre.esp
 M.O.E. - New Classes.esp
@@ -16391,6 +16408,7 @@ KT_DetectHostility.esp
 Kyoma's Spell Renamer.esp
 Levitate-8921.esp
 Lap's_Spell_Pack_11.esp
+Master Of Oblivion.esp
 M.O.E. - Ethereal State Spell.esp
 M.O.E. - Levitation Magic.esp
 M.O.E. - Lock Spells.esp
@@ -18430,6 +18448,8 @@ Kaleencolors.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 KaleencolorsP2.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Labidori.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 lady_of_the_lake.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lima.esp
@@ -19472,6 +19492,10 @@ Kyra Partner.esp
 Liza_Estenblair.esp
 MarcAntony.esp
   TAG: {{BASH: Hair, Eyes}}
+Marg Lena V5.esp
+  TAG: {{BASH: Hair, Eyes}}
+  IF (7C97A712|"Marg Lena V5.esp") DIRTY: 65 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF (D7869FF8|"Marg Lena V5.esp") DIRTY: 65 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Nec-Character_Eva.esp
   TAG: {{BASH: Hair, Eyes}}
 Nec Character Eva-Remake.esp

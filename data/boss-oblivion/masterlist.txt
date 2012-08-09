@@ -7726,6 +7726,8 @@ FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
   IF ($FCOM) ERROR: Delete. Outdated. Update to FCOM v0.9.9 or later.
+  
+MMM4OOO&FCOM- Slofs Horse & DLC Armor.esp
 ENDGROUP
 
 BEGINGROUP: Overhaul compatibility
@@ -8276,6 +8278,7 @@ Chairs_Stools_Benches.esp
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
   SAY: Obsolete. Upgrade to version 7+
 Morroblivion_Chargen_And_Transport_Mod_v7.esp
+Morroblivion COBL.esp
 Morroblivion Conversation.esp
 Morroblivion Dungeon Interior Music.esp
 Morroblivion__-__Few_armor_fixes.esp
@@ -8289,11 +8292,14 @@ MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 MorrowOblivion_World Transport.esp
 Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
+Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v10.esp
 Morrowind_ob - MorroblivionTreeReplacer.esp
 Morrowind_ob - Morroblivion Maps.esp
 Morrowind_ob - ClothingReplacer.esp
 Morrowind_ob - MorroblivionWater.esp
 Morrowind_ob - Almalexia.esp
+Morrowind_ob - Faction Relationships.esp
+Morrowind_ob - Conversation.esp
 Voice Overs V002.esp
 ProtocolledDialogs.esp
 
@@ -12181,6 +12187,7 @@ The Lost Spires v14 Delayer.esp
 The Lost Spires Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 MTCVillages-LostSpiresPatch.esp
+Morroblivion Conversation - The Lost Spires Patch.esp
 
 Aundae.esp
 //Needs to load here for compatibility with The Lost Spires.
@@ -14609,6 +14616,7 @@ Great Gate Essential NPC's.esp
 Grummite Bows.esp
 GuardEquipAndStatFix.esp
   TAG: {{BASH: Actors.Stats, Invent}}
+Guard's Ear.esp
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp
@@ -14755,10 +14763,12 @@ LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
 Lem - Easy Construction.esp
+Lush & Gaudy Aurora Borealis.esp
 Lush & Gaudy Damn Greens.esp
 Lush & Gaudy FG.esp
 Lush & Gaudy Lava.esp
 Lush & Gaudy Oblivion Weather.esp
+Lush & Gaudy Water.esp
 LustyArgonianMaidContinued.esp
 ENDGROUP
 
@@ -15108,6 +15118,8 @@ Respawning Varla & Welkynd Stones.esp
 Retros Fletching and Imbueing.esp
   SAY: May not be compatible with MMM crafting - untested.
   IF (4AA8EE9A|"Retros Fletching and Imbueing.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Retros Fletching and Imbueing 1.71.esp
+  SAY: May not be compatible with MMM crafting - untested.
 Retros Fletching and Imbueing 1.7.1_rus.esp
   SAY: May not be compatible with MMM crafting - untested.
 ReteroX_OBEvilSkeletons.esp
@@ -15781,6 +15793,7 @@ More Replay Again.esp
 CLS-craftybits.esp
   IF (4C5BC5EC|"CLS-craftybits.esp") DIRTY: 56 ITM, 664 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 craftybits.esp
+CB-BeeEnhancement.esp
 CLS-Craftybits Working Smithy addon.esp
 CLS-CB-Cobl.esp
 CLS-Craftybits_A_Bloody_Mess-Glue.esp
@@ -15796,6 +15809,7 @@ Marooned - Cobl Patch.esp
 Dominick's SurReal Necromancy.esp
 CLS-CB-COBL-Tweaks.esp
 CB-OOO_BuckGlue.esp
+HousesCB.esp
 
 Erics Crafting Mod.esp
   TAG: {{BASH: Scripts, Invent}}
@@ -17930,6 +17944,7 @@ SeductiveIdles.esp
   IF (B8DE5B2F|"SeductiveIdles.esp") || IF (32F0B1EE|"SeductiveIdles.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF (F011E367|"SeductiveIdles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SeductiveIdlesgloomfrostcustom.esp
+IntegratedAnimations.esp
 Idle Pose Replacer.esp
 Idle Stance Replacer.esp
 actors_in_charge.esp
@@ -19172,6 +19187,7 @@ Cm TwinsMascFem.esp
 CM TwinsRoeCalihari.esp
 CMTorys.esp
 CM Vampire Golbert.esp
+CM Vampire Race.esp
 CM Zhang.esp
 CM_Zheane.esp
 Colourwheels Sexy Tifa.esp

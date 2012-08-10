@@ -1777,11 +1777,6 @@ bDLTIC-1-6.esp
 DLTIC-1-6.esp
 Torch Hotkey.esp
 BTMM.esp
-Better Torches.esp
-Brighter_Torches.esp
-BrighterTorches_v1.1.esp
-  SAY: Old, update to V1.2+
-BrighterTorches_v1.2.esp
 BPMerchantStorage.esp
   TAG: {{BASH: Invent}}
 BTMoreEnemies.esp
@@ -14212,6 +14207,7 @@ Better Prices.esp
 Better Sheogorath.esp
 Better Skooma.esp
 Better Staff of Worms.esp
+Better Torches.esp
 Better_Gem_Pricing-7112.esp
   SAY: May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 Better_Wraiths_v1.esp
@@ -14257,6 +14253,10 @@ Bow Damage Balanced.esp
   TAG: {{BASH: Stats, Deactivate}}
 Brandon's Misc Rebalance.esp
   TAG: {{BASH: Stats, Deactivate}}
+Brighter_Torches.esp
+BrighterTorches_v1.1.esp
+  SAY: Old, update to V1.2+
+BrighterTorches_v1.2.esp
 BringIt.esp
 
 BOO_BulletTime.esp

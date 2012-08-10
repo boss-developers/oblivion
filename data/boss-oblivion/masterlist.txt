@@ -8292,6 +8292,7 @@ MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 MorrowOblivion_World Transport.esp
 Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
+Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v9.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v10.esp
 Morrowind_ob - MorroblivionTreeReplacer.esp
 Morrowind_ob - Morroblivion Maps.esp
@@ -20738,6 +20739,9 @@ Universitum Arcanorum.esp
   IF (D41DC29C|"Universitum Arcanorum.esp") DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Universitum Arcanorum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+  
+//The below needs to load after anything that changes cells (6,15) and (7,15) in the Tamriel worldspace.
+IC Palace Topper - Region Override.esp
 ENDGROUP
 
 BEGINGROUP: Message suppression/changing overrides

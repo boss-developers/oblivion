@@ -2080,6 +2080,7 @@ Fishing in Cyrodiil.esp
 Flamering.esp
 Foxfire Mushrooms.esp
 Fundies.esp
+fwRaceChangeRing.esp
 ENDGROUP
 
 BEGINGROUP: Base G
@@ -2483,6 +2484,8 @@ RAZ's Fuds.esp
 Real World Time.esp
 Reaper's Adjustable Oil Lamp.esp
 Remove QuestItem OBSE.esp
+Respawning Clams1.esp
+Respawning Clams2.esp
 Respawning Containers.esp
   REQ: Shivering Isles
 Resurrect book.esp
@@ -3022,6 +3025,7 @@ LazyPCB.esp
 Lock Bash Omega.esp
 
 marksman_challenge.esp
+MigNoDeath.esp
 MiscTracker.esp
 MotionBlur.esp
   SAY: Fix available for 'Over-Darkening' issue: "http://tr.im/scy6"
@@ -12055,6 +12059,7 @@ Sounds of Cyrodiil - KOTN Add-on.esp
 TGND2 Knights Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Oscuro's_Oblivion_Overhaul - Knights of Nine.esp
+  IF ($FCOM) ERROR: Use "FCOM_Knights.esp" instead.
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
@@ -18599,6 +18604,7 @@ Stars_elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Teeth, R.Relations}}
 AinmhiRace.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Doberaga.esp
 Dark_Seducer_and_Golden_Saint_Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DABloodDemon.esp
@@ -18608,6 +18614,7 @@ DemonRace.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DesertArgonian.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Doberaga.esp
 Drake Dragon Race.esp
 Dremora.esp
   TAG: {{BASH: NpcFaces}}
@@ -18620,6 +18627,7 @@ DremoraFemales.esp
   TAG: {{BASH: Voice-F}}
 The Complete Dremora.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Tiefling Races.esp
 TOCP - Playable Centaur.esp
 Trokturian Cow.esp
 LJD_HumanMIKA.esp
@@ -21512,6 +21520,7 @@ Duke Patricks - BASIC Script Effect Silencer BETA.esp
 Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 Script Effect Icon Changer.esp
+Script Effect Icon Replacer 62i.esp
 
 UnnecessaryViolence.esp
   SAY: If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini.

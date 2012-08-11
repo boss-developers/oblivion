@@ -4762,7 +4762,10 @@ MythicDawnTiein - Lite.esp
 MythicDemon Armor V1.0.esp
 Mythsword.esp
 MC_Staff_Pack.esp
+  TAG: {{BASH: Relev}}
+  IF (861D37A8|"MotoDualGoldbrandEbony.esp") DIRTY: 3 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MC_Staff_Pack_NoLL.esp
+  IF ("MC_Staff_Pack.esp") INC: MC_Staff_Pack.esp
 Mandalorian Armor.esp
 MHSN Weapons.esp
 MHSNfuru.esp

@@ -402,8 +402,10 @@ TRoN.esp
 TRoN 0-59-1b Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 TRoN Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Outdated. Update to Sensual Walks.
 TRoN Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Outdated. Update to Sensual Walks.
 TRoN Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -2502,28 +2504,39 @@ RealitySpectre'sBetterPotions.esp
   IF (E8944779|"RealitySpectre'sBetterPotions.esp") DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 RealWalk.esp
-  TAG: {{BASH: Actors.Anims}}
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 Oblivion Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Oblivion Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Oblivion_SI Rwalk Full.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Oblivion_SI Swalk Full.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Rwalk DG_DS.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCShiveringIsles Swalk DG_DS.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Better Cities ESM Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Better Cities ESM Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Nude Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 
 Reaper's Auto Equip Bikini.esp
@@ -3239,8 +3252,10 @@ Correctif Orrery.esp
 Correctif Orrery RP.esp
 DBOO - Orrey.esp
 DLCOrrery Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCOrrery Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCOrrery Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -3290,14 +3305,18 @@ MehrunesRazor_MOBS.esp
   TAG: {{BASH: Deactivate, NoMerge, Stats}}
 DLCMehrunesRazorPatched.esp
 DLCMehrunesRazor Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 DLCMehrunesRazor Rwalk UOP.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Swalk UOP.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCMehrunesRazor Vwalk UOP.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -6542,14 +6561,18 @@ DLCThievesDen - Unofficial Patch - SSSB.esp
 Correctif ThievesDen - SSSB.esp
 DBOO - ThievesDen.esp
 DLCThievesDen Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 DLCThievesDen Rwalk UOP.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Swalk UOP.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 DLCThievesDen Vwalk UOP.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -14166,8 +14189,6 @@ Axebane_Hunters25.esp
   IF ("Mart's Monster Mod - Hunting & Crafting.esp") SAY: May break MMM Hunting and Crafting. Not fully tested.
 AXR Elixirs (No Testing Chest).esp
 AXR Elixirs.esp
-Arrow Realism.esp
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.TAG: {{BASH: Stats}} not tested
 ENDGROUP: overrides A
 
 BEGINGROUP: overrides B
@@ -17338,6 +17359,8 @@ change arrow speed x2.esp
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
 Pfeilgeschwindigkeit.esp
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Arrow Realism.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 CombatFPSOptimizer.esp
 All Natural Combat FPS Optimizer Updated Patch.esp
@@ -21499,8 +21522,10 @@ Viconia.esp
 //Temporary placement pending investigation into BC IC startup crash.
   INC: ViconiaChapterTwo.esp.
 Viconia Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Viconia Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 Viconia Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -21509,8 +21534,10 @@ ViconiaChapterTwo.esp
   REQ: the Underdark.
   INC: Viconia.esp.
 ViconiaChapterTwo Rwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 ViconiaChapterTwo Swalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Obsolete. Remove this and install Sensual Walks.
 ViconiaChapterTwo Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}

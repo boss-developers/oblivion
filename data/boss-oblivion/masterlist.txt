@@ -37,6 +37,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
   IF ("Better Cities Resources.esm") SET: BC
   IF ("FCOM_Convergence.esm") SET: FCOM
+  IF (r"Bashed Patch.*\.esp") SET: BP
 
 // Upgrade message for 1.7+ users:
   IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
@@ -212,7 +213,7 @@ BUDungeon.esm
 LoversCreature.esm
 CURP_Controller.esm
 No Lights Flicker.esm
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Ambidextrie.esm
 AFC v2 Core.esm
 Fundament.esm
@@ -622,10 +623,10 @@ AtiAAFix.esp
 AtiAAFix_1C.esp
   SAY: Use only for 9600, 9700, 9800, some x800 and x300 series ATI cards.
 nVidia Black Screen Fix.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
   SAY: Alternatively, remove this and use UOP v3.0.1+ instead.
 Black Screen Fix.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
   SAY: Alternatively, remove this and use UOP v3.0.1+ instead.
 BlackScreenToggleFix.esp
 
@@ -696,7 +697,7 @@ fixterms1C_03.esp
 fixtext1C_04.esp
   TAG: {{BASH: Names}}
 Bow_Reach_Fix.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ENDGROUP: Vanilla fixes
 
 IF ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
@@ -1227,11 +1228,11 @@ NoOblivionWeatherOutside.esp
   INC: All Natural.
 
 no_wind-2578.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 NoWind.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 No wind.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 
 PTAutumnTrees.esp
 HAZdynamicSnow.esp
@@ -1423,17 +1424,17 @@ RWTavernTemple.esp
 
 Hear-Me-Not.esp
 Footstep Sound Fix.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Quiet Feet Complete.esp
   SAY: Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 QuietFeet Max.esp
   SAY: Update to v2.0, which does not require a plugin.
   TAG: {{BASH: Sound}}
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 QuietFeet HorseArmor.esp
   TAG: {{BASH: Sound}}
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Silent Player Voice.esp
 ElzMoreVoice.esp
 ElzMoreVoice-For Companion.esp
@@ -2059,14 +2060,14 @@ OCC-Eternium-Patch.esp
 Even Oddities.esp
 Exploding_Arrows_free_ru.esp
 Extended Death Camera.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ENDGROUP: Base E
 
 BEGINGROUP: Base F
 
 FantasyPaintings.esp
 Fatality Cam.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Female Lich.esp
 Ferryboats.esp
 FileOne.esp
@@ -3371,7 +3372,7 @@ bodyshapes.esp
 Underworld Vampires.esp
 VORB_no_mods.esp
   TAG: {{BASH: Actors.Skeleton, NoMerge}}
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 VORB_HGEC_special_armor_repl.esp
   TAG: {{BASH: Graphics, NoMerge}}
 ENDGROUP: Body replacers
@@ -6449,19 +6450,19 @@ qazSteerHorsesWithMouse.esp
 qazHorseCommand -horsearmor.esp
   TAG: {{BASH: Scripts}}
 MD_FasterHorseTurning.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Faster_Turning_Horses.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 HorsesTurnFaster.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 HorseTurnSpeed-Faster.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 HorseTurnSpeed-Fast.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 HorseTurnSpeed-Fastest.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 974-Faster Turning Horses-TESSource.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 LadyDeadlock_LoveYourHorse.esp
 horse stay put 1.0.esp
 Legion Horses Armored.esp
@@ -8115,7 +8116,7 @@ WAC - Gladiator.esp
 WAC - Magic.esp
   IF (290989F0|"WAC - Magic.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WAC - QuietFeet.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 
 WACESM_MiscItemsRebal.esp
   TAG: {{BASH: Stats}}
@@ -12040,7 +12041,7 @@ Ulrim's Horses - Knights patch.esp
 QuietFeet.esp
   SAY: If not using Wrye Bash this will cause loss of some faction changes from KOTN; if you prefer the factions changes to the quiet feet for those creatures move this above Knights.esp.
   SAY: Recommended to upgrade to Quiet Feet MAX 2.0, which does not require a plugin and is more compatible.
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Mart's Monster Mod - Knights of the Nine Patch.esp
   IF ($FCOM) ERROR: Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
@@ -14162,11 +14163,11 @@ Auto Repair.esp
 AutoRun.esp
 Auto Update Leveled Items And Spells.esp
 Axebane_Hunters25.esp
-  SAY: May break MMM Hunting and Crafting. Not fully tested.
+  IF ("Mart's Monster Mod - Hunting & Crafting.esp") SAY: May break MMM Hunting and Crafting. Not fully tested.
 AXR Elixirs (No Testing Chest).esp
 AXR Elixirs.esp
 Arrow Realism.esp
-  TAG: {{BASH: Stats}} not tested
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.TAG: {{BASH: Stats}} not tested
 ENDGROUP: overrides A
 
 BEGINGROUP: overrides B
@@ -14925,7 +14926,7 @@ NoObsoleteLoot.esp
   SAY: Highly likely to be incompatible with every overhaul out there.
 No Screensaver.esp
 NoWindSI.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Thieves Guild Quest Souvenirs.esp
 NoQuestMarkers.esp
 No Troll Regen.esp
@@ -15692,25 +15693,25 @@ university cosmetics-no orrery dome.esp
 UNKNOWNYMOUS Social NPCs.esp
 VisiblyUnlimited.esp
 Unlimited Rings 1.0.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings 1.0 Rus.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets - Shivering Isles.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets and Rings - Shivering Isles.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings - Shivering Isles.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unhide_amulets.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited_AmulRings_1C.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Amulets 1.0_ru.esp
-  SAY: Use Wrye Bash Bashed Patch tweak instead.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unlimited Rings 1.0_ru.esp
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
@@ -16846,13 +16847,13 @@ Wizard'sSpellBook.esp
   IF (1A8F35F2|"Wizard'sSpellBook.esp") DIRTY: 31 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 arcanevelocity200.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Faster Spells.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 FasterArrows200.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 FasterArrows250.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Spell Ranks.esp
   SAY: Use Wrye Bash Bashed Patch tweak 'Rational Names' where posible.
 
@@ -17277,9 +17278,9 @@ arrow damage 1_5.esp
 Arrows Extra Damage.esp
   TAG: {{BASH: Stats}}
 Arrows In Cell x3.esp 
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Arrows Remain 10min.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 AutoOffhand.esp
 Can´t touch me!.esp
 
@@ -17325,19 +17326,19 @@ Increased_Weapon_Perk_Chance-4558.esp
 Marksman and Blade Realism.esp
 Marksman Velocity.esp
 More_Arrows_Recovered-2169.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 [Calsar] ArrowSpeedRealism.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 [Calsar] ArrowSpeedRealismSI.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ArrowVelocity.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 change arrow speed x2.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Marksman Velocity SI.esp
 'Eagle Eye' Realistic Archery v1.0 Fixed.esp
 Pfeilgeschwindigkeit.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 CombatFPSOptimizer.esp
 All Natural Combat FPS Optimizer Updated Patch.esp
 Oss133FrameRateOptimizer.esp
@@ -17347,12 +17348,12 @@ seph dual wield.esp
 exhDual_Wield_Complete.esp
 arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Enter The Shinobi - Coors916.esp
 Arrows of Channeling.esp
 MagicDefence.esp
 mighty_bows_arrows_recovery.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 mighty_bows_full.esp
   TAG: {{BASH: Stats}}
 mighty_bows_damage_bonus.esp
@@ -17384,9 +17385,9 @@ JM's Bar Fights mortal.esp
 JM's Bar Fights.esp
   SAY: Pick and use only 1 of the 2 JM's Bar Fight mod files.
 Longer_KnockOut-6523.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unconscious For 5min.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 QuickPowerAttacks 1.0.esp
 qazAttackToCast.esp
 Realistic Combat.esp
@@ -17508,7 +17509,7 @@ SpookyNPCAIModsMerge.esp
 Enemy Actors AutoHeal 1.3.esp
 Mister Misanthrope's Custom Settings.esp
 MM_AllowAlchemy.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 MM_AlchemyPotions.esp
 MM_SneakMelee.esp
 PTActorsCare.esp
@@ -18127,27 +18128,27 @@ FastTravelAllowed.esp
 
 Item interchange - Extraction.esp
   TAG: {{BASH: Filter, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Placement.esp
   IF ($FCOM) ERROR: Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Placement for FCOM.esp
   TAG: {{BASH: Delev, Filter, IIM, Invent, Relev, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
   IFNOT ($FCOM) SAY: FCOM version; use 'Item interchange - Placement.esp' instead.
 Item interchange - Placement for Frostcrag.esp
   TAG: {{BASH: Filter, IIM, Invent, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Placement for Frostcrag Reborn.esp
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Placement for Frostcrag Spire Revisited.esp
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Option, Ingredients in Bulk.esp
   SAY: Use only one "Ingredients in Bulk" plugin.
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Item interchange - Option, Ingredients in Bulk, reduced.esp
   SAY: Use only one "Ingredients in Bulk" plugin.
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Atmospheric Loading Screens - No Text.esp
   TAG: {{BASH: Graphics}}
 No Loading Screen Text v1.0.esp
@@ -20759,230 +20760,230 @@ BEGINGROUP: Respawn & day length overrides
 Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: RSPWN
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's day lenght rescale 1-12.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's day lenght rescale 1-16.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's day lenght rescale 1-20.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's day lenght rescale 1-24.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's day lenght rescale 1-30.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 21 days respawn time.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 14 days respawn time.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 10 days respawn time.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Francesco's 7 days respawn time.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 OOO-Respawn_Year.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 OOO-Respawn_Month.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 OOO-Respawn_Two_Week.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 OOO-Respawn_Week.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Z 1 Hour respawn.esp
   IF ($RSPWN) SAY: Use only one Respawn mod
   SET: RSPWN
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ThingasTime 1-15 Scale.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Automatic Timescale.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
 Timescale 5x Real-Life.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Timescale 10x Real-Life.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Time-2hr-realtime.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 REGEX: TF_timemod1-\d\d?.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 VG0SmarterTimescale.esp
   IF ($TMSCL) SAY: Use only one Timescale mod
   SET: TMSCL
@@ -21038,11 +21039,11 @@ No_More_Gatestorm_on_Oblivion_gates-9654.esp
 AlterFX.esp
 kuerteeEffectDrainShaderInitialGlowOnly.esp
 Chameleon-NoRefraction.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Chameleon-NoRefraction-2411.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 1310-chamelion-norefraction-tessource.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Disable_Weapon_Membrane_Shaders-3127.esp
 spellstrip 1.0.esp
   TAG: {{BASH: Graphics, NoMerge}}
@@ -21426,13 +21427,13 @@ JazzJRKhajiitfeets.esp
   TAG: {{BASH: Invent}}
 LT_EquipTailItem.esp
 MassA.I.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 MassA.I-30.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 MassA.I-40.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 MassA.I-50.esp
-  IF (r"Bashed Patch, .+\.esp") SAY: Use Wrye Bash Bashed Patch tweak instead where possible.
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 MiniMap.esp
 soundfix_DV.esp
 MrPwner's Falling.esp
@@ -21598,40 +21599,40 @@ CSVF_Road_Record_RB.esp
 HM2SummonCompatible.esp
 Bashed Delayers - MERGE ONLY.esp
   TAG: {{BASH: Filter, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Bashed Delayers E - MERGE ONLY.esp
   TAG: {{BASH: Filter, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Bashed Delayers NE - MERGE ONLY.esp
   TAG: {{BASH: Filter, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 CoreRandmonClothing4Npcs.esp
   TAG: {{BASH: Filter, Invent, IIM, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Cobl Filter Late MERGE ONLY.esp
   TAG: {{BASH: Filter, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Cobl Silent Equip Misc.esp
 Vac's Tweaks.esp
 Oscuro's_Oblivion_Overhaul - Harvest Containers - SI.esp
   TAG: {{BASH: Deactivate, Filter, Graphics, Invent, Scripts}}
 OOO Harvest Containers Filter patch for mods.esp
   TAG: {{BASH: Deactivate, Filter}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Harvest Containers Filter patch for mods.esp
   TAG: {{BASH: Deactivate, Filter}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 All Natural - Indoor Weather Filter For Mods.esp
   TAG: {{BASH: Filter, C.Climate, Deactivate, NoMerge}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 Storms & Sound - Filter Patch.esp
   TAG: {{BASH: Filter}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
   SAY: Make sure to rename your main Storms & Sounds plugin (OBSE-Storms & Sound.esp, EW-Storms & Sound.esp, etc.) to "Storms & Sound.esp".
 TIE Weapon + Armor Filter.esp
   TAG: {{BASH: Filter, Stats, NoMerge, Deactivate}}
-  IFNOT (r"Bashed Patch, .+\.esp") ERROR: Required Bashed Patch.
+  IFNOT ($BP) ERROR: Required Bashed Patch.
 LandMagicPatch.esp
 
 amGE_Races.esp

@@ -11814,7 +11814,7 @@ ArenaGamblingHighRollers.esp
 OBF Arena Fix.esp
 fpsboost-arenanolights.esp
 ENDGROUP: Quests Arena
-ENDGROUP:  Quests and Locations
+ENDGROUP: Quests and Locations
 
 BEGINGROUP: DLC 3
 //-----
@@ -16093,7 +16093,7 @@ WeightLifter.esp
 
 Vim_and_Vigor.esp
 Vim_and_Vigor_rus.esp
-REGEX: Vim_and_Vigor_\d(\.\d)?x([__]rus)\.esp
+REGEX: Vim_and_Vigor_\d(\.\d)?x(_rus)?\.esp
 Vim_and_Vigor_rus_OOO.esp
 Vim_and_Vigor_H2H.esp
 Vim_and_Vigor_H2H_rus.esp
@@ -19287,6 +19287,7 @@ cssJaKhaiitMyr.esp
 
 BEGINGROUP: Vilja Companion
 
+1em_Vilja.esp
   IF (CBB991E4|"1em_Vilja.esp") || IF (39E23090|"1em_Vilja.esp") DIRTY: 11 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1em_Vilja Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}

@@ -259,6 +259,7 @@ AinmhiRace.esm
 Eluna.esm
 CM Partners.esm
 CM Partners Mod.esm
+CMVailena.esm
 amqGlobals.esm
 Easy_Companion_Share.esm
 mpc.esm
@@ -282,6 +283,7 @@ Lattamerv3.esm
 Minotaur Race.esm
   REQ: OBSE v18+, Race Repository
   IF (477340C8|"Minotaur Race.esm") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Moonshadow Elves - Sc.esm
 Nec-Character_Clair.esm
 Nec-Character_Eva.esm
 Nec Mystic High Elf-Remake.esm
@@ -10320,6 +10322,7 @@ LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
 LostTreasures1.1.esp
+LSTBravilUnderground.esp
 Lycanmoon.esp
   SAY: Outdated. Update to version 1.6+.
 Lycanmoon1.6b.esp
@@ -11607,6 +11610,7 @@ VileLairRebuilt.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
+Vornhuzduc..esp
 Vypers Arrow Spells-SI.esp
   IF ($BC) SAY: Incompatible with Better Cities.
   SAY: Outdated. Update to V2+.
@@ -12591,6 +12595,8 @@ ROC+Shadowcrest Vineyard Patch.esp
   IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+Tchos Alchemy Tower Patch.esp
   IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+ROC+DBC Patch.esp
+  IF ("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 
 Immersive Prison sewer exit.esp
   IF (D607A66|"Immersive Prison sewer exit.esp") DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13110,6 +13116,7 @@ From2ch Lives Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 F2LAddon.esp
 F2LAddon_Kasuga&Sisimaru.esp
+F2LMiqoteAddon.esp
 ENDGROUP: From2ch Lives
 
 xulBravilBarrowfields.esp
@@ -14218,6 +14225,7 @@ Banes Guilds United CandC patch.esp
 Banes Guilds United FGQuests patch.esp
 Banes Guilds United BrumaGuild patch.esp
 Banes Guilds United KR patch.esp
+Banes Guilds United OMG patch.esp
 
 Better_Amelion_Gear.esp
 betterArena.esp
@@ -14867,6 +14875,7 @@ MIEO-lvl.esp
 MIEO-lvl-ae.esp
 MIEO-ae.esp
   TAG: {{BASH: Stats}}
+MinotaurHeadButt.esp
 MMDrink100Potions.esp
 MM_TorchLight80.esp
 more books teach.esp
@@ -15231,6 +15240,7 @@ LoversEncounter.esp
 HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp
+HiyokoQuestTarget.esp
 TamagoSetBody.esp
 TamagoClubIcons.esp
 AAQv1.esp
@@ -15242,6 +15252,11 @@ Basic Instinct for BoC.esp
 Vtoy.esp
 SMVtoyCross.esp
 Lovers.esp
+Lovers3dorgasm.esp
+LoversAdultYield.esp
+Lovers_ChildRaceType.esp
+Lovers_ChildRaceNPC.esp
+LoversChildDataBase.esp
 LoversDiag.esp
 LoversSetBody.esp
 LoversSetScale.esp
@@ -15252,6 +15267,7 @@ LoversClubCats.esp
 LoversClubCatsSx.esp
 LoversFSE.esp
 LoversDRader.esp
+LoversHudInformation.esp
 LoversRapeman.esp
 LoversBCMSound.esp
 LoversVoice.esp
@@ -15864,6 +15880,8 @@ Tim_No_SI.esp
 Borderless_Cyrodiil.esp
   SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Borderless_Cyrodiil-3578.esp
+  SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
+Borderless Cyrodiil-3578.esp
   SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Border-Region-disabled.esp
   SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
@@ -17114,6 +17132,7 @@ UOE-attack and hide easier v2.1.esp
 attack and hide harder v2.1.esp
 UOE-attack and hide harder v2.1.esp
 LFox No Trespassing.esp
+MindControlCrime.esp
 PTSneakPenalties.esp
 Resist Arrest Increases Bounty.esp
 SneakMultiplier.esp
@@ -18461,6 +18480,7 @@ Dark Seducer Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Demoness.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+DemonRaceMeatsuit.esp
 DreamWalker.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 Drover Collie.esp
@@ -18479,6 +18499,7 @@ MUIA.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 MW Style Dremora.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+Nona.esp
 Ayleid.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Half-Devil.esp
@@ -19140,6 +19161,8 @@ cmAbbeyAeryn.esp
 CM Alexander.esp
   TAG: {{BASH: Hair, NpcFaces}}
   REQ: Xenius' Deus Obscura race
+cmALiceKaty.esp
+cmAshley.esp
 CM Audrey.esp
 cmBellenia.esp
 CM Boromir.esp
@@ -19149,6 +19172,7 @@ CM Companion Jessica Alba.esp
   TAG: {{BASH: Hair, Eyes}}
 CM Companion Megan Fox.esp
   TAG: {{BASH: Hair, Eyes}}
+CM DESTINY GB.esp
 Cm Dimych.esp
 cmDrianna.esp
 CM Hoarfrost Castle Guard.esp
@@ -19182,6 +19206,7 @@ cm_Jo-han.esp
 CM July.esp
 CM Legolas.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
+cmKittyCole.esp
 CM Pym.esp
 Colourwheels Sexy Pym Companion.esp
   IF (224844CA|"Colourwheels Sexy Pym Companion.esp") DIRTY: 639 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -19221,6 +19246,7 @@ CM TATIANNA.esp
 Cm TwinsMascFem.esp
 CM TwinsRoeCalihari.esp
 CMTorys.esp
+CmVailenathevampire.esp
 CM Vampire Golbert.esp
 CM Vampire Race.esp
 CM Zhang.esp
@@ -19489,6 +19515,8 @@ Kyra Partner.esp
 Liza_Estenblair.esp
 MarcAntony.esp
   TAG: {{BASH: Hair, Eyes}}
+Marg Lena V2.esp
+  TAG: {{BASH: Hair, Eyes}}
 Marg Lena V5.esp
   TAG: {{BASH: Hair, Eyes}}
   IF (7C97A712|"Marg Lena V5.esp") DIRTY: 65 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -19739,6 +19767,7 @@ DiverseDremoraCoblRacesCosmetics.esp
   TAG: {{BASH: Eyes, Hair}}
 ENDGROUP: COBL Races
 
+Dremora female.esp
 PlayAurMaz.esp
   TAG: {{BASH: Body-F, Body-M, Hair, NpcFaces, R.Head}}
 

@@ -82,6 +82,7 @@ Windfall.esm
 MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 CastleWestWeald.esm
+MenuSysFramework.esm
 MathFunctions.esm
 Plugin Resources.esm
 BP-CosmeticLibraryBase-Public.esm
@@ -2411,6 +2412,7 @@ P-Froggys First Person Body.esp
 P-Froggys Wall Climbing EV.esp
 P_Froggys_Wall_Climbing_EV.esp
 phinix_master_summon.esp
+Pinkie Pie.esp
 Pirates Treasure.esp
 PlaceableHeadstonesV4.2.esp
 Player Hunters Fame and Infamy - Hard.esp
@@ -3066,6 +3068,8 @@ Oblivion Graphics Extender Support.esp
 OBGE Controller.esp
 OBGEv3 Controller.esp
 OBGE_SwitchDoF.esp
+OBGEv3.1_CommonComponents.esp
+OBGEv3.1_StandAloneEffects(MultiModuleInstall).esp
 
 P-Froggys Automatic NPC-Respawner (1).esp
 P-Froggys Automatic NPC-Respawner (2).esp
@@ -4732,6 +4736,7 @@ mECB_Collection.esp
 Medieval leather armors.esp
 Medieval Swords.esp
 Mephala Artifacts.esp
+Miche_Elvaan_Underwear.esp
 Midlander.esp
 Midlander_HGEC.esp
 MODArnTemplar.esp
@@ -5974,6 +5979,8 @@ DMRA BBB Armamentarium Complete.esp
 TGND2 Armamentarium Replacer.esp
   TAG: {{BASH: Graphics}}
   : Armamentarium
+TGND2 Better Cities Replacer.esp
+  TAG: {{BASH: Graphics}}
 IFNOT ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB Better Cities.esp
@@ -9504,6 +9511,7 @@ Edgar's little secret.esp
 Edhildils Underdark.esp
   IF (1BCA0F29|"Edhildils Underdark.esp") DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Edolsian's Furnace, Kamal Volcano Caves.esp
+eeks Smithing Mod.esp
 Egainjo Manor.esp
 EirikWythringSpellmaker.esp
 EK_InitialHome.esp
@@ -10656,6 +10664,7 @@ Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
 Oblivion Achievements CORE Version.esp
+Oblivion Achievements CM Companions.esp
 Oblivion Wine Overhaul.esp
 Oblivion_NPC_Project1.esp
 OblivionNPCproject2.esp
@@ -11124,6 +11133,7 @@ StopDarkBrotherhood.esp
 DBContinuedBeta 0.7.esp
 Steve - Thieves Guils HQ.esp
 Stroti Tribute.esp
+Strotis New Dungeon Meshes Playable Tomb.esp
 sunk ships.esp
   IF (E238F1EC|"sunk ships.esp") DIRTY: 126 ITM, 34 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shield of the Gods v0.82.esp
@@ -11654,6 +11664,7 @@ WellOfSouls.esp
 WellspringGrove.esp
 Well Thief v 1.1.esp
 WestwatchTowerV1.0.esp
+Weye Enhancement.esp
 Whispered Warning.esp
 Whispered Warning Rus.esp
 BDBS - Whispered Warning Patch.esp
@@ -13947,6 +13958,11 @@ Sounds of Cyrodiil - OC Reborn Patch.esp
 RST+OCC Patch.esp
 OCC+DBC Patch.esp
 OCR+DBC Patch.esp
+
+SB Open Cities Add-on - Top of the Tower Mod v2.0.esp
+SB Open Cities Add-on - Lynges Top Of The World v1.1.esp
+SB Open Cities Add-on - Total IC Isle v3.1.esp
+  IF (C1A57ADC|"SB Open Cities Add-on - Total IC Isle v3.1.esp") DIRTY: 132 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ENDGROUP: Open Cities Patches
 
 BEGINGROUP: Quests and Locations 5
@@ -14144,6 +14160,7 @@ ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
 Animal_Resize_and_Attitude_Adjustment-3385.esp
 Anvil_MorningGlory_Mixed.esp
+Arena Agronak always aggressive.esp
 Arena No Raiment.esp
 Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
@@ -14434,6 +14451,7 @@ ENDGROUP: overrides C
 
 BEGINGROUP: Overrides D
 
+DaedricRequirements.esp
 Daedra_Shrine_Level_Requirement_Remover-2011.esp
 DarkAltars.esp
 DarkUI Fix.esp
@@ -15109,6 +15127,7 @@ Realistic_Armor_Weights-2194.esp
 Realistic Hatred.esp
 realistic_weapon_weights-3534.esp
   TAG: {{BASH: Stats}}
+Realistic Values.esp
 RedBag - Friendly Animals.esp
 RedBag - Dangerous Animals.esp
 REDrinks.esp
@@ -15261,6 +15280,7 @@ LoversChildDataBase.esp
 LoversDiag.esp
 LoversSetBody.esp
 LoversSetScale.esp
+LoversSoundCreature.esp
 LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
 LoversBCMSounds.esp
@@ -15279,6 +15299,7 @@ LoversVoiceAR.esp
   SAY: Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
 LoversVoice_AddRandomDialogues.esp
   REQ: LoversVoice.esp
+LoversVoiceSSPx117.esp
 LoversAdultPlay.esp
   SAY: Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversSpringSale.esp
@@ -15762,6 +15783,7 @@ ENDGROUP: overrides U
 BEGINGROUP: overrides V
 
 Valuable Gems and Silverware v1.0.esp
+Valued Gems.esp
 VDust Causes Vampirism.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
@@ -16010,6 +16032,7 @@ OCAS- Player Override.esp
 
 quickstart.esp
 Quickstart_DV.esp
+quickstart1.2.esp
 
 ROM Patch - Alternative Start.esp
   TAG: {{BASH: Scripts}}
@@ -16599,6 +16622,7 @@ Smite of Order.esp
 Smite_of_Order.esp
 Special Abilities.esp
 SpellDeflection.esp
+SpellRing.esp
 Stalk'em SI.esp
 stickyfingers.esp
 StrongholdTeleport.esp
@@ -17584,6 +17608,7 @@ BEGINGROUP: Skills, Attributes and Leveling
 //Includes related mods bundled with OOO and similar optional items from Fran's.
 
 ActorValueUncapper_Example.esp
+AtLeast+3Modifiers.esp
 Druid.esp
 
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
@@ -18482,6 +18507,7 @@ Dark Seducer Race.esp
 Demoness.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DemonRaceMeatsuit.esp
+DiabloEF 6 in 1.esp
 DreamWalker.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 Drover Collie.esp
@@ -18523,6 +18549,7 @@ lady_of_the_lake.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lima.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Lop-ears Elf_mini.esp
 Lorebased Races.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lucha's Blood Witcher.esp
@@ -18683,6 +18710,8 @@ Luchaire's Dryad Race.esp
 The Forgotten.esp
 The Southlanders.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+TheTangMo.esp
+  IF (6C6F4616|"TheTangMo.esp") DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tabaxi_Race_Default.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 tabaxi_race_CE.esp
@@ -19407,6 +19436,10 @@ REGEX: 1em_Vilja_(cool|Ren)hair\d\d?\.esp
   TAG: {{BASH: Graphics}}
 1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
   TAG: {{BASH: Graphics}}
+1em_Vilja_corean14.esp
+  TAG: {{BASH: Hair}}
+1em_Vilja_babehair03.esp
+  TAG: {{BASH: Hair}}
 
 //These have to load here for master order in ViljainLakeside.esp to match.
 LakesideHome.esp
@@ -19525,6 +19558,8 @@ Marg Lena V5.esp
 Nec-Character_Eva.esp
   TAG: {{BASH: Hair, Eyes}}
 Nec Character Eva-Remake.esp
+  TAG: {{BASH: Hair, Eyes}}
+Nec Mystic High Elf-Mellow.esp
   TAG: {{BASH: Hair, Eyes}}
 Olga.esp
   TAG: {{BASH: Hair, Eyes}}

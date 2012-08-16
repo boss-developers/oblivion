@@ -306,6 +306,7 @@ Independent High Elf Body (Replace)(v1.1).esm
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 p2p'sAshDraconian.esm
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+IDKRRR_C_race_closed_mouth_version.esm
 All Shapes And Sizes 1.0.esm
 TIE4MODS.esm
 Portal.esm
@@ -349,6 +350,7 @@ Sheogorad.esm
 RealisticLeveling.esm
 VipCxj_AirSystem.esm
 Knights - Revelation.esm
+Cyrodiil Economic Overhaul - Main.esm
 ENDGROUP: ESMs
 
 BEGINGROUP: Earliest mods
@@ -7708,6 +7710,8 @@ FCOM_BobsGuardUnity.esp
 FCOM_HungersUnitySI.esp
   TAG: {{BASH: Factions, Graphics, Invent, Relev, Actors.Skeleton}}
   REQ: Shivering Isles expansion.
+FCOM_Archery.esp
+  TAG: {{BASH: NoMerge, Stats}}
 FCOM_ArcheryArmamentarium.esp
   REQ: the Armamentarium Complete mod.
   TAG: {{BASH: Stats}}
@@ -7754,6 +7758,7 @@ Mart's Monster Mod - No Ghostly Appariation.esp
 Mart's Monster Mod - Diverse Creatures Expansion.esp
 Mart's Monster Mod - RadiantAITweaks.esp
 Mart's Monster Mod - Mummies.esp
+Mart's Monster Mod - FatBellyMinotaurs.esp
 
 FCOM_FriendlierFactions.esp
   TAG: {{BASH: NoMerge, Relations}}
@@ -7761,6 +7766,8 @@ FCOM_MoreRandomSpawns.esp
 FCOM_MoreRandomItems.esp
 FCOM_VanillaItemReleveler.esp
   IF ($FCOM) ERROR: Delete. Outdated. Update to FCOM v0.9.9 or later.
+FCOM_NewItemsTemplate.esp
+FCOM_FranItemRelevelerALL.esp
   
 MMM4OOO&FCOM- Slofs Horse & DLC Armor.esp
 ENDGROUP: FCOM\MMM optionals 3.
@@ -9649,6 +9656,7 @@ Waterfront Lighthouse Enhanced.esp
 FuseFruitMachine.esp
 FuseSnailRacing.esp
   SAY: If using UL:Imperial Isle use the patch 'Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp'.
+FutaPriory.esp
 ENDGROUP: Quests F
 
 BEGINGROUP: Quests G
@@ -11059,6 +11067,7 @@ Simple Cabin.esp
 Simple Life - Antus Family.esp
 SingingStablehandInn.esp
 skingrad guild castle upgrade.esp
+SkingradHoleInTheWall.esp
 SkingradHouseAdds.esp
 Skingrad_House_Basement_Addon-4110.esp
 Skingrad Store Upgrade.esp (Version 2)
@@ -11268,6 +11277,7 @@ TheOldTreeHouse_1C.esp
 TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp
 Theryon.esp
+Thorne Cottage.esp
 Templar Fighters Guild.esp
   IF (43631980|"Templar Fighters Guild.esp") DIRTY: 12 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CHEAT - TempleofNirn.esp
@@ -17118,6 +17128,7 @@ CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
 crimesandpunshiment.esp
 Crime & Punishment Overhaul 1.1.esp
+Deadlier Sneaking.esp
 Jail Break Routes.esp
   IF (A547B997|"Jail Break Routes.esp") DIRTY: 40 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MerchantFriendsBuysStolen.esp
@@ -19258,6 +19269,7 @@ CM Partner Yuna.esp
 CM Partner Fiona.esp
 REGEX: CM Partners? .+\.esp
 CM recruits.esp
+CM_RenKayla_v17.esp
 CmRisingStars.esp
 cmSashaSonja.esp
 CM Yana.esp
@@ -19266,6 +19278,7 @@ CM_Dragonchixx.esp
 cm_Hillary_shamikka.esp
 CM DESTINY M.esp
 CM Embla.esp
+CM MARISA S.esp
 CM NIKA SB.esp
 CM NixReslain.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
@@ -19287,6 +19300,7 @@ CM ElizabethColourWheel.esp
 CM Dimon Lineage Elves Merged.esp
 CMMiko.esp
 DN13CMP_-_Little_Ladies&Lords.esp
+Aipersocomcm.esp
 AngelinaCM2.esp
 Anna.esp
 Corla.esp
@@ -19804,6 +19818,7 @@ DiverseDremoraCoblRacesCosmetics.esp
 ENDGROUP: COBL Races
 
 Dremora female.esp
+Dremora Females.esp
 PlayAurMaz.esp
   TAG: {{BASH: Body-F, Body-M, Hair, NpcFaces, R.Head}}
 
@@ -20282,6 +20297,7 @@ Better Cities IC Temple.esp
 Better Cities IC Waterfront.esp
 Better Imperial City.esp
   IF (8687BBCC|"Better Imperial City.esp") DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Better IC - Market District.esp
 ENDGROUP: BC IC
 
 BEGINGROUP: Better Cities FPS Patches
@@ -21497,8 +21513,6 @@ Enhanced Economy - Soulgems.esp
   TAG: {{BASH: Scripts, NoMerge}}
   SAY: Obsolete. Remove this and install Soulgem Magic.
 Faction Rank Fix.esp
-FCOM_Archery.esp
-  TAG: {{BASH: NoMerge, Stats}}
 Helmet Toggle.esp
 Hemingweys Capes.esp
   SAY: Don't use Wrye Bash's Bashed Patch unlimited amulet's tweak with this.

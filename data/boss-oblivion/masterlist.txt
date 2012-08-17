@@ -8012,15 +8012,15 @@ MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-   IFNOT ($FCOM) && (IF ($OOO) || IF ($MMM)) || IF ("EVE_stockequipmentreplacer.esp") SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
+  IFNOT ($FCOM) && (IF ($OOO) || IF ($MMM)) || IF ("EVE_stockequipmentreplacer.esp") SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
-   IF ($FCOM) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
+  IF ($FCOM) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
 HGEC_special_armor_repl_for_OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
 EVE_StockEquipmentReplacer4MMM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-   IF ($FCOM) || IF ($OOO) || IF ("EVE_stockequipmentreplacer.esp") SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
+  IF ($FCOM) || IF ($OOO) || IF ("EVE_stockequipmentreplacer.esp") SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
   INC: MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
@@ -9120,7 +9120,7 @@ BrotherhoodRenewed.esp
   TAG: {{BASH: Actors.AIPackages, Factions}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
   IFNOT ("OBSE") REQ: OBSE
-  REQ: Oblivion XP
+  IFNOT ("Oblivion XP.esp") REQ: Oblivion XP
 Bruma Farm Updated.esp
 Bruma House.esp
 Bruma House For Sale.esp
@@ -21010,8 +21010,7 @@ bgMagicShaderLifeDetect.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 kuertee bgMagicEVShader default drain effects.esp
 kuerteeDetectLifeEffectNightEyeShader.esp
-  IFNOT ("OBSE") REQ: OBSE.
-  IFNOT ("OBSE") REQ: OBSE Night Eye Shader Switcher.
+  IFNOT ("OBSE") REQ: OBSE, OBSE Night Eye Shader Switcher.
 kuerteeDetectLifeEffect.esp
 kuerteeNightEyeShader.esp
 bgMagicLightningbolt.esp

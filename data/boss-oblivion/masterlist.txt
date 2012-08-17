@@ -45,7 +45,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
     ELSE GLOBAL SAY: You are using the latest version of BOSS.
 // If you have OBSE plugins but OBSE is not installed.
-  IFNOT ("OBSE") && (IF "Construction Set Extender.dll" || IF ("Elys_USV.dll") IF ("FastExit2.dll") || IF ("OBSE_Elys_Pluggy.dll") || IF ("OBSE_Elys_Uncapper.dll") || IF ("obse_jail_fix.dll") || IF ("OBSE_Kyoma_MenuQue.dll") || IF ("sr_Oblivion_Stutter_Remover.dll") || IF ("TSFC_1_2_0_416.dll") || IF (r"OBME(_CS)?\.dll")) GLOBAL WARN: OBSE plugin(s) is installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
+  IFNOT ("OBSE") && IF (r".+\.dll") GLOBAL WARN: OBSE plugin(s) is installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
 
 
 BEGINGROUP: ESMs
@@ -8012,7 +8012,7 @@ MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IFNOT ($FCOM) && (IF ($OOO) || IF ($MMM)) || IF ("EVE_stockequipmentreplacer.esp") SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
+  IF ($OOO) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") && IFNOT ($FCOM) SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
   IF ($FCOM) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
@@ -9080,13 +9080,13 @@ BnKGreenBravil.esp
 Bonds Firebird V01.esp
 BossFightHunterV3.esp
 BossPhaitCrab.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+
+  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
   SAY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitDismal.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+
+  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
   IF (6D467EB0|"BossPhaitDismal.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitStygainHalls.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+
+  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Boxworld.esp
 br_anvilchurch.esp

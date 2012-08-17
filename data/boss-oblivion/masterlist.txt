@@ -45,7 +45,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
     ELSE GLOBAL SAY: You are using the latest version of BOSS.
 // If you have OBSE plugins but OBSE is not installed.
-  IFNOT ("OBSE") && IF (r".+\.dll") GLOBAL WARN: OBSE plugin(s) is installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
+  IFNOT ("OBSE") && IF (r".+\.dll") GLOBAL WARN: OBSE plugin(s) are installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
 
 
 BEGINGROUP: ESMs

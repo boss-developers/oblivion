@@ -35,17 +35,13 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 
 // Masterlist variable setup for BOSS v1.7+.
   IF ("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
-  IF ("Mart's Monster Mod.esm") SET: MMM
   IF ("Better Cities Resources.esm") SET: BC
   IF ("FCOM_Convergence.esm") SET: FCOM
   IF (r"Bashed Patch.*\.esp") SET: BP
-  IF (r"DLCShiveringIsles.esp") SET: SI
 
 // Upgrade message for 1.7+ users:
   IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
-    ELSE GLOBAL SAY: You are using the latest version of BOSS.
-// If you have OBSE plugins but OBSE is not installed.
-  IFNOT ("OBSE") && IF (r".+\.dll") GLOBAL WARN: OBSE plugin(s) are installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
+  ELSE GLOBAL SAY: You are using the latest version of BOSS.
 
 
 BEGINGROUP: ESMs
@@ -286,8 +282,7 @@ Lineage II Elves.esm
 IceElfRace.esm
 Lattamerv3.esm
 Minotaur Race.esm
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
-  REQ: Race Repository
+  REQ: OBSE v18+, Race Repository
   IF (477340C8|"Minotaur Race.esm") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Moonshadow Elves - Sc.esm
 Nec-Character_Clair.esm
@@ -348,7 +343,7 @@ TML_WieldableTorches_v10.esm
 ScreenEffects.esm
 Ayleid Power Stones.esm
 Diverse Magic Effects Resource.esm
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19+, OBME 1+.
+  REQ: OBSE 19+, OBME 1+.
 TESA Clutter.esm
 TOCP.esm
 Sheogorad.esm
@@ -712,7 +707,7 @@ Bow_Reach_Fix.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ENDGROUP: Vanilla fixes
 
-IF ("OblivionMsg.esp") && IF ("Unofficial Oblivion Patch.esp") MOD: DLCShiveringIsles.esp
+IF ("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
 //Need to load here for Russian GOTY to allow UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ").
   IF (DAF51407|"DLCShiveringIsles.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -744,7 +739,7 @@ MG01-fix.esp
 Primate Rank Fix.esp
   TAG: {{BASH: Factions}}
 Permanent Effects from Quest Items fix.esp
-  SAY: Make sure you have version 1.1+.
+  SAY: Make sure you have version 1.1 or higher.
   REQ: "Plugin Resources.esm"
 Permanent Effects from Quest Items fix - SI.esp
   REQ: "Plugin Resources.esm"
@@ -940,7 +935,7 @@ IF ($FCOM) MOD: Francesco's Optional Chance of More Enemies.esp
 IF ($FCOM) MOD: Francesco's Optional Leveled Quests-SI only.esp
 IF ($FCOM) MOD: Francesco's Optional Leveled Quests-SI-only.esp
 IF ($FCOM) MOD: Francesco's Optional Leveled Guards.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles expansion.
   TAG: {{BASH: Actors.ACBS, Actors.Stats}}
 IF ($FCOM) MOD: Francesco's Dark Seducer Weapons Patch.esp
   TAG: {{BASH: Delev, Relev}}
@@ -1166,7 +1161,7 @@ EnhancedWeather - Darker Nights, 50.esp
 EnhancedWeather - Darker Nights, 80.esp
   SAY: Use only one 'Darker Nights' plugin.
 Enhanced Weather - Across-The-Borders Mods Patch.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
+  REQ: OBSE v18+.
 EW_WeatherOrb.esp
   REQ: Enhanced Weather.
 EnhancedWeather - Enhanced Seasons.esp
@@ -1607,8 +1602,7 @@ aKALAmbientDungeonsBeta2.esp
   REQ: 'ScreenEffects' and 'You Are Here'.
   SAY: Outdated, incompatible with other ScreenEffects mods. Update to latest version of Ambient Dungeons.
 AmbientDungeons.esp
-  IFNOT ("OBSE") REQ: OBSE
-  REQ: 'You Are Here'. ScreenEffects for versions below 1.3.
+  REQ: OBSE and 'You Are Here'. ScreenEffects for versions below 1.3.
 ENDGROUP: Lighting
 
 BEGINGROUP: General Base Mods
@@ -1674,7 +1668,6 @@ Adonnays Ranger CoatsRU.esp
 Adult Books.esp
 AdventurersAlchemy.esp
   IF (8AA69408|"AdventurersAlchemy.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Adventure's memo.esp
 AEVWD.esp
 aLHerobook01.esp
   SAY: Obsolete. Delete and upgrade to Adult Books.
@@ -1782,7 +1775,7 @@ Brandy.esp
   IF ($OOO) SAY: Not compatible with OOO. OOO contains a similar mod.
 BRG Food And Ingredients.esp
 BAKAdventurerTorch.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+.
+  REQ: OBSE 20+.
 bnmDLTIC-1-6.esp
   IF ($OOO) SAY: Not compatible with OOO. OOO contains a similar mod.
 nmDLTIC-1-6.esp
@@ -1817,7 +1810,7 @@ CWar's Chest of Fun v1.4.esp
 
 007camera.esp
 Camera Redone.esp
-  IFNOT ("OBSE") || IF (<0.0.16|"OBSE") REQ: OBSE 16+.
+  REQ: OBSE 16+.
 ChaseCameraMod.esp
 ChaseCameraMod_1C.esp
 CET-Utility-Belt.esp
@@ -1840,9 +1833,9 @@ EnableFreeLook.esp
 EnableFreeLookNoWheel.esp
   SAY: Only use if you do not have a mouse wheel.
 EnableFreeLookOBSE.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 tw1_fov_adjustor.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 NoMouseWheelZoom.esp
 NoMouseWheelZoomKeyOBSE.esp
 NoMouseWheelZoomSpellOBSE.esp
@@ -2013,7 +2006,7 @@ BEGINGROUP: Base D
 DaedricDictionary.esp
 Daggerfallbooks.esp
 Daedric Wargames.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
 Damsels In Distress.esp
 DID3_DoubleTrouble.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
@@ -2301,7 +2294,7 @@ MERP-Bree House Interiors.esp
 
 Immersive Music Skycaptain Mix.esp
 BetterMusicSystem.esp
-  IFNOT ("OBSE") REQ: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
+  REQ: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin)
   SAY: Outdated. Update to version 2+.
 BetterMusicSystem(SI).esp
 MusicaPrima0.55.esp
@@ -2414,9 +2407,9 @@ Pegasus.esp
 AltPegasus.esp
 Personal Torture Girl.esp
 P-Froggys Corpse Carry DV.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 P-Froggys Corpse Carry EV.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 P-Froggys First Person Body.esp
 P-Froggys Wall Climbing EV.esp
 P_Froggys_Wall_Climbing_EV.esp
@@ -2428,7 +2421,7 @@ Player Hunters Fame and Infamy - Hard.esp
 Player Hunters Fame and Infamy - Normal.esp
 PlayerSayStuff.esp
 pmRealTimeInteractions.esp
-  IFNOT ("OBSE") REQ: OBSE, MenuQue
+  REQ: OBSE, MenuQue
   IF (94805075|"pmRealTimeInteractions.esp") DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PMVisibleMapMarkersSI.esp
 Poisonous_Food-9719.esp
@@ -2480,7 +2473,7 @@ QQuix - Rock, rock, rock your ship - V3.esp
   IF (E4A111C4|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF (2AE99607|"QQuix - Rock, rock, rock your ship - V3.esp") DIRTY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QuickEquipSwap.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 
 ENDGROUP: Base Q
 
@@ -2503,7 +2496,7 @@ Remove QuestItem OBSE.esp
 Respawning Clams1.esp
 Respawning Clams2.esp
 Respawning Containers.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 Resurrect book.esp
 Rex 1.21.esp
 RD-HeavensWrath-v1-1-Realistic.esp
@@ -2581,7 +2574,7 @@ Practice_Dummy0.9.5.esp
 
 RingofNightEye.esp
 Rings of Infiltration.esp
-  IFNOT ("OBSE") || IF (<0.0.16|"OBSE") REQ: OBSE 16+.
+  REQ: OBSE 16+.
 RioMod.esp
 RK9s Dogs Demo.esp
 RMShieldOnBack.esp
@@ -2747,8 +2740,7 @@ Vampire Alchemy V1.1.esp
   TAG: {{BASH: Invent}} or you really won't get much of the effects of this if you use any overhauls.
 Venom.esp
 VipCxj_AirSystem.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+
-  REQ: Coronerras Maximum Compatibility Skeletons, VipCxj's Plugin Collection v3
+  REQ: OBSE 20+, Coronerras Maximum Compatibility Skeletons, VipCxj's Plugin Collection v3
 Vows and Covenants.esp
   SAY: Conflicts with Deadly Reflex. Minor Problems.
 VvardenfellIngredRedone.esp
@@ -2811,7 +2803,7 @@ Alchemy_Economy_Fix.esp
 Living Economy.esp
   IF ("Living Economy - SI.esp") WARN: Don't use 'Living Economy' and 'Living Economy - SI' together. Pick one.
 Living Economy - SI.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
 SI Living Economy.esp
   WARN: Outdated. Update to latest version.
 Living Economy - Items.esp
@@ -2979,7 +2971,7 @@ BEGINGROUP: Load Order Independent Mods
 ANBToggleGrab.esp
 Ash control.esp
 AutoEquip.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
   IF (A0675EA6|"AutoEquip.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Auto_Recharge.esp
 AutomaticPatrols.esp
@@ -2990,14 +2982,13 @@ BookTrackerOBSE.esp
 CleanQuit.esp
 CleanQuitAlternative.esp
 CBMS_V2.esp
-  IFNOT ("OBSE") || IF (<0.0.16|"OBSE") REQ: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin).
+  REQ: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin).
 CTEFastSaver.esp
 Custom Autosave.esp
 
 Damage Text v2.esp
 DarNifiedUI Config Addon.esp
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19+, Pluggy v125b+ or ConScribe v9.0+
-  REQ: DarNified UI \ DarkUI'd DarN.
+  REQ: OBSE v19+, Pluggy v125b+ or ConScribe v9.0+ and DarNified UI or DarkUI'd DarN.
 Demolish System - Aerial Combos.esp
 Demolish System - Extend Attacks.esp
 Demolish System - Flash Effects.esp
@@ -3063,17 +3054,17 @@ MUTE.esp
 MyPersonalArmy.esp
 
 NameThatHorse.esp
-  IFNOT ("OBSE") || IF (<0.0.17|"OBSE") REQ: OBSE 17+, Pluggy 122+.
+  REQ: OBSE v0017+, Pluggy 122+.
 sycNiceToMeetYou.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
+  REQ: OBSE v0020+
 NPC Height Randomizer.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 NoHelmet.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
+  REQ: OBSE v0020+
 No Recharge.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 Note to Self.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+
+  REQ: OBSE 0018+
 
 Oblivion Graphics Extender Support.esp
 OBGE Controller.esp
@@ -3106,9 +3097,9 @@ Scathe.esp
 ScreenControls.esp
 Script Effect Icon Changer OBSE.esp
 SimpleHUDClock.esp
-  IFNOT ("OBSE") REQ: OBSE, Pluggy v125+. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
+  REQ: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
 VipCxj_RadarSystem.esp
-  IFNOT ("OBSE") REQ: OBSE, MenuQue.
+  REQ: OBSE, MenuQue.
 SimpleSprinting.esp
 skycaptains NPCFF.esp
 SM Soul Delete.esp
@@ -3208,7 +3199,7 @@ BEGINGROUP: Hotkeys
 
 fangshotkeyfix.esp
 Clock Hotkey.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 DBTAM.esp
 Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
@@ -3680,7 +3671,7 @@ Angelic Alliance.esp
 ArchersDesire2.esp
 ArkaySword.esp
 Armors of the Black Moon - EV.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 
 ArmamentariumTest.esp
   INC: newer 'Armamentarium Complete' version. Consider updating.
@@ -4532,7 +4523,7 @@ JCapesBonus.esp
   TAG: {{BASH: Invent}}
 Jedi LightSabers with Sound.esp
 JediLightsabersWithSheathFIX.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 JediLightsabersCollectionV1.3.esp
 JediLightsabersCollectionV1.5.esp
 Jewels Collection.esp
@@ -4791,7 +4782,7 @@ Morrigan God-like Armor.esp
 Morniel_SpecialItem.esp
 Moon and Star Reborn.esp
 MotoDualGoldbrandEbony.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
   IF (9F9B8D08|"MotoDualGoldbrandEbony.esp") DIRTY: 216 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Multicolored_Glass.esp
 MuffinGoldenDishes.esp
@@ -5254,7 +5245,7 @@ Kit Rae Weaponry v0_4.esp
 Realistic Persuasion1.8.esp
 PlukeRoleplayingPersuasion.esp
 SpeechcraftEnhanced.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
@@ -5388,7 +5379,7 @@ talon.esp
   TAG: {{BASH: Invent}}
 TadEC_Underwear01.esp
 Tail_Amulet_Converter.esp
-  IFNOT ("OBSE") || IF (<0.0.11|"OBSE") REQ: OBSE 11 +.
+  REQ: OBSE v11 +.
 Talon of Akatosh Claymore.esp
 Talon of Akatosh Claymore v1.1 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -5653,7 +5644,7 @@ BEGINGROUP: Items Late
 BleachOverhaul.esp
 GuardTrinkets.esp
 Thieves Arsenal.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
   IF (2DE5B6D1|"Thieves Arsenal.esp") DIRTY: 368 ITM, 1216 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Thieves_Arsenal_Patch_033010.esp
 Knock Out Arrows.esp
@@ -5661,8 +5652,7 @@ Extinguish the Lights.esp
 Thieves Arsenal - Extinguish the Lights Patch.esp
 Rope Ladders v1.esp
 Robes Staves and Fists.esp
-  IFNOT ("OBSE") REQ: OBSE. 
-  INC: Any mod that uses 'ModPCSpellEffectiveness'.
+  REQ: OBSE. Not compatible with any mod that uses 'ModPCSpellEffectiveness'.
 BEGINGROUP: RealSwords
 
 RealSwords - Argonian HI-NPC.esp
@@ -6352,16 +6342,16 @@ BEGINGROUP: Horse Mods
 //----------
 
 1SI_Horses.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
 a4sFlamingNightmare.esp
   TAG: {{BASH: Graphics, Scripts}}
 a4sFlamingNightmare3.esp
   TAG: {{BASH: Inventory, Graphics, Scripts}}
 Athletics While Riding.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
+  REQ: OBSE v18+.
 Shivering Isles Horse.esp
 CDM-Horses.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
 Immortal Horses.esp
 Kylin.esp
 Benjamin the Donkey.esp
@@ -6482,7 +6472,7 @@ Rideable_Wild_Horses.esp
 Rideable Frost Atronach.esp
 PSFastHorse.esp
 Horse Management.esp
-  IFNOT ("OBSE") || IF (<0.0.20.2|"OBSE") REQ: OBSE 20b2+.
+  REQ: OBSE v20b2+
 HorseSanity.esp
 HorseSpeedEqualsPlayerSpeed.esp
 HRMHorseCommands.esp
@@ -6740,7 +6730,7 @@ OCC+COBL Luggage Patch.esp
 OCR+COBL Luggage Patch.esp
 Cobl Glue MW Ingred.esp
 Cobl Si.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
 FF_Real_Thirst, Cobl.esp
   SAY: Don't use with vampire mods.
 Cobl Tweaks.esp
@@ -7026,7 +7016,7 @@ OMOBS Optional Combat Settings.esp
   SAY: Do not use with OOO or FCOM.
 
 mg19obsefix.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 
 OOO_Arena_Loot.esp
 OOO-Better_Priced_Clutter.esp
@@ -7688,7 +7678,7 @@ TamrielTravellersItemsUnscaled.esp
   SAY: Not overhaul mod compatible.
 ShiveringIsleTravellers.esp
   SAY: Use of 'TamrielTravellersItemsNPC.esp', 'TamrielTravellersItemsUnscaled.esp', or 'TamrielTravellersItemsVendors.esp' will remove SI items for sale.
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
   IF (36DD18E|"ShiveringIsleTravellers.esp") || IF (8D5A0190|"ShiveringIsleTravellers.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShiveringIsleTravellers Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -7719,7 +7709,7 @@ FCOM_BobsGuardUnity.esp
   REQ: 'Bob's Armory Oblivion.esp'.
 FCOM_HungersUnitySI.esp
   TAG: {{BASH: Factions, Graphics, Invent, Relev, Actors.Skeleton}}
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
 FCOM_Archery.esp
   TAG: {{BASH: NoMerge, Stats}}
 FCOM_ArcheryArmamentarium.esp
@@ -8012,15 +8002,15 @@ MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($OOO) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") && IFNOT ($FCOM) SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
+  SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($FCOM) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
+  SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
 HGEC_special_armor_repl_for_OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
 EVE_StockEquipmentReplacer4MMM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($FCOM) || IF ($OOO) || IF ("EVE_stockequipmentreplacer.esp") SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
+  SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
   INC: MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
@@ -8576,7 +8566,7 @@ Aberwiin Manor.esp
 ABloodyNight.esp
 ABloodyNight_ru.esp
 AbuEmir01.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 Abyss.esp
 Academy - Oblivion Magic.esp
 Adaman Fortress.esp
@@ -8761,7 +8751,7 @@ APS Rare Stones.esp
 APS Abundant Stones.esp
 Aqvatika.esp
 Aqua_City_01.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 AranMathi.esp
 Aranmathi Druid Version v.1.2.esp
 ArboretumHouse.esp
@@ -8771,14 +8761,13 @@ SYS Patch-Arborwatch.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane Services.esp
-  IFNOT ("OBSE") REQ: OBSE
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: OBSE & SI
   IF (15FFC768|"Arcane Services.esp") DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Arcaca_Infinium.esp
 ArcaneSkyHouse.esp
 Arcane University Telescope.esp
 Archer Shop Ver. 4.2.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 Archery Shops 2.0 no LL.esp
 Archery Shops 2.0.esp
 Archery Shop.esp
@@ -9014,11 +9003,11 @@ Black Horse Mail Box.esp
 AW_BHC_HomeDelivery.esp
 BlackfrostMine.esp
 Black ocean.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
   REQ: Knights of the Nine, unless using the patch available from "http://blackocean.ucoz.ru"
   IF (AB24AEB2|"Black ocean.esp") DIRTY: 273 ITM, 547 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Black_ocean.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
   REQ: Knights of the Nine, unless using the patch available from "http://blackocean.ucoz.ru"
 Black Rock Home.esp
 BlackGear.esp
@@ -9034,8 +9023,7 @@ BladeOfTheHaunted Vwalk.esp
 BladesModv2.esp
 bladesmod3.esp
 BladeSong.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+
-  REQ: Screen Effects.
+  REQ: OBSE 18+, Screen Effects.
 BladeSong v1.3 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 BladeSong - High Imperial Tess by Xtudo.esp
@@ -9080,13 +9068,13 @@ BnKGreenBravil.esp
 Bonds Firebird V01.esp
 BossFightHunterV3.esp
 BossPhaitCrab.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
+  REQ: OBSE 20+
   SAY: 12 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitDismal.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
+  REQ: OBSE 20+
   IF (6D467EB0|"BossPhaitDismal.esp") DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BossPhaitStygainHalls.esp
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+
+  REQ: OBSE 20+
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Boxworld.esp
 br_anvilchurch.esp
@@ -9119,8 +9107,7 @@ DeepHackdairt.esp
 BrotherhoodRenewed.esp
   TAG: {{BASH: Actors.AIPackages, Factions}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
-  IFNOT ("OBSE") REQ: OBSE
-  IFNOT ("Oblivion XP.esp") REQ: Oblivion XP
+  REQ: OBSE, Oblivion XP
 Bruma Farm Updated.esp
 Bruma House.esp
 Bruma House For Sale.esp
@@ -9136,7 +9123,7 @@ Buyabletavern.esp
 BXX_Mines.esp
   IF (82845758|"BXX_Mines.esp") DIRTY: 40 ITM, 23 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BXX Tamriel Resource Exchange.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 ENDGROUP: Quests B
 
 BEGINGROUP: Quests C
@@ -9401,7 +9388,7 @@ Deathtrap Dungeon.esp
 Dk offhand weapons.esp
 Dk second knight update.esp
 Deepwood Adventures.esp
-  IFNOT ("OBSE") REQ: OBSE, Elys Universal Silent Voice
+  REQ: OBSE, Elys Universal Silent Voice
   IF (AD5233BC|"Deepwood Adventures.esp") DIRTY: 2265 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DeerLeap.esp
 Defenders of Cyrodiil.esp
@@ -9477,7 +9464,7 @@ DrelcoManor.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
 DruidsTree.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Deluxe IC Shack.esp
 SYS Patch-Deluxe IC Shack.esp
@@ -10262,11 +10249,10 @@ latexshopstore.esp
 LE_search.esp
 Legends Baleful Eye.esp
 Legends - Baleful Eye.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+
+  REQ: OBSE 20+
   IF (4A2E7217|"Legends - Baleful Eye.esp") DIRTY: 15 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legends - Zefaro Cottage.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+, USV
-  REQ: HGEC or Exnem body.
+  REQ: OBSE 18+, USV, HGEC or Exnem body.
 Legion Faction Mod.esp
   TAG: {{BASH: Relations}}
   IF (32E46BF4|"Legion Faction Mod.esp") DIRTY: 244 ITM, 990 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10327,7 +10313,7 @@ Listener's Room.esp
 Listener Quarters.esp
 DB Listeners Quarters [Darker].esp
 Litterbug.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 
 LOCH_New_Skingrad_Bridge.esp
 Locked Doors and Knocking v1.02.esp
@@ -10400,7 +10386,7 @@ Mafreseli.esp
 Mage'sSkyHouse.esp
   IF (CEC8800F|"Mage'sSkyHouse.esp") DIRTY: 79 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mages Guild Quests.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 Mage'sSkyHouse_cobl.esp
 MagicTavern.esp
 Malus-Pumila Mansion.esp
@@ -10606,7 +10592,7 @@ Nightmist Manor - AN Patch.esp
 Nightmist Manor - OC Patch.esp
 Nightmist Manor - OCC Patch.esp
 Nine Divines Robes.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 Nocturne.esp
 NocturneCallSteed.esp
 NoldaTheShipHome.esp
@@ -10692,7 +10678,7 @@ Oblivion_NPC_Project1.esp
 OblivionNPCproject2.esp
 Wine Overhaul.esp
 OgramiradsUnmarkedPlaces.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
   IF (A738D15F|"OgramiradsUnmarkedPlaces.esp") DIRTY: 16 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Okaritemple.esp
 OlauronCastleEn.esp
@@ -10731,8 +10717,7 @@ PagesofHistoryDemo.esp
 Passwall Adventurers Club.esp
   IF (11E6D7FE|"Passwall Adventurers Club.esp") DIRTY: 13 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PathoftheSkullBearer.esp
-  IFNOT ("OBSE") REQ: OBSE, Sound Commands (OBSE Plugin), Elys Universal Silent Voice (OBSE Plugin)
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: OBSE, Shivering Isles, Sound Commands (OBSE Plugin), Elys Universal Silent Voice (OBSE Plugin)
 POTSB.esp
   REQ: The original Path of the Skull Bearer mod's files and requirements.
   IF (376285C0|"POTSB.esp") DIRTY: 26 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10801,7 +10786,7 @@ ENDGROUP: Quests P
 BEGINGROUP: Quests Q
 
 Qaja'kar.esp
-  IFNOT ("OBSE") REQ: OBSE 12+.
+  REQ: OBSE 12+.
 Qaja'kar Essential Bartenders.esp
 qNS3-inventrix.esp
   IF (8C3473FA|"qNS3-inventrix.esp") DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10859,7 +10844,7 @@ Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 RavenCragHome.esp
 Ravenrock.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
 RavenviewVillageVer2.0.esp
 Rangerhome01.esp
 SYS Patch RangerHome01.esp
@@ -10996,9 +10981,7 @@ SecretStorage.esp
 SenTineL's Legendary Weapons And Armors 1.0.esp
   SAY: Update to latest version, latest version doesn't have version number in name.
 SenTineL's Legendary Weapons And Armors.esp
-REGEX: SenTineL's Legendary Weapons And Armors_[AC][EU]\.esp
-  WARN: Rename to 'SenTineL's Legendary Weapons And Armors.esp' for correct work with other mods.
-  SAY: Use only one SenTineL's Legendary Weapons And Armors_XX.esp
+SenTineL's Legendary Weapons And Armors_AE.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp
@@ -11013,7 +10996,7 @@ Shabah.esp
 Shads Shack.esp
 Shads Water Bucket Plus.esp
 CMWaterskin.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
+  REQ: OBSE 18+.
 ShadowfangKeep.esp
   IF (A970802F|"ShadowfangKeep.esp") DIRTY: 313 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shadowmist Manor v1.1.esp
@@ -11172,7 +11155,7 @@ sS-OrderOfAskarthe.esp
 sS-OrderOfAskarthe v0.6 Delayer.esp
 Sseths Resource Foundry.esp
 SSS_1.0.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
   REQ: 'ShiveringStore-BravilBarrowfields patch.esp' compatibility patch when using Unique Landscapes Bravil Barrowfields.
 SST - Eagle's Reach.esp
 SST - ICWF Dock Expansion.esp
@@ -11328,7 +11311,7 @@ The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
 The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 The Crazy Scientist.esp
 The Crimson Queen.esp
 The Dark Trilogy.esp
@@ -11559,8 +11542,6 @@ Unique Dungeons - Lost Glory.esp
   IF (1CD53035|"Unique Dungeons - Lost Glory.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF (166EFDC3|"Unique Dungeons - Lost Glory.esp") DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Dungeons - Lichs Lair and Lost Glory Merge.esp
-UnRacefix.esp
-  IFNOT ("OBSE") REQ: OBSE
 Ushnars Skinned Hound.esp
 Ushnar's Re-Skinned Hound.esp
   SAY: Only use one Ushnar's Re-Skinned Hound*.esp
@@ -11709,7 +11690,7 @@ WinterCabin.esp
 Winterhouse.esp
 Winter Palace.esp
 witcher2.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp+OBSE+HGEyeCandyBody+MaleBodyReplacer
+  REQ: Shivering Isles+OBSE+HGEyeCandyBody+MaleBodyReplacer
 Witch's Throne.esp
   IF (6F1BEFB0|"Witch's Throne.esp") DIRTY: 12 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 fix.esp
@@ -12522,7 +12503,7 @@ ElsweyrAnequina - ModerateIncreasedCreature NoSpider.esp
   INC: ElsweyrAnequina - NoSpider.esp
   INC: ElsweyrAnequina - ModerateIncreasedCreature.esp
 BetterMusicSystem(Elsweyr).esp
-  IFNOT ("OBSE") REQ: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
+  REQ: OBSE, Enhanced Music & Control v0.72B (OBSE-Plugin) & SoundCommands v4.0 (OBSE-Plugin) and Elsweyr Anequina.
 ElsweyrAnequina - Races HGEC-Robert.esp
   TAG: {{BASH: R.Mouth, R.Teeth}}
 Elsweyr - HGEC RM Patch DV.esp
@@ -12543,7 +12524,7 @@ Reaper's Esmeralda's Desert Manor Quickfix.esp
 ElsweyrC&CBlackwoodPatch.esp
   SAY: Obsolete. Update to latest version and remove.
 Enhanced Weather - Elsweyr Anequina Patch.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
+  REQ: OBSE v0018.
   SAY: Old. Use 'Enhanced Weather - Across-The-Borders Mods Patch' instead.
 Elsweyr - Drinks Patch.esp
 ElsweyrAnequinaNoSpiders.esp
@@ -13076,20 +13057,20 @@ Unique Landscapes - Beaches of Cyrodiil DV.esp
 Cybiades-Lost Coast patch.esp
   SAY: Obsolete. Update to the latest UL:Lost Coast.
 UL_BOC_LostCoast_1.0.esp
-  SAY: Old version. Update to UL:Lost Coast 1.6.3+.
+  SAY: Old version. Update to UL:Lost Coast 1.6.3 or higher.
 uniquelandscapes_beachesofcyrodiil_1.4.1.esp
-  SAY: Old version. Update to UL:Lost Coast 1.6.3+.
+  SAY: Old version. Update to UL:Lost Coast 1.6.3 or higher.
 VeronaHouseBloodlines-LostCoast fix.esp
-  SAY: Obsolete. Patch is no longer required as of VHB 1.4+.
+  SAY: Obsolete. Patch is no longer required as of VHB 1.4 or higher.
 AkaviriStronghold-LostCoast fix.esp
 HouseOnTheBluff-LostCoast fix.esp
 Sousmarin-beaches fix.esp
-  SAY: Obsolete. Update to UL:Lost Coast 1.6.3+, then delete this patch.
+  SAY: Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 Castle_Almgard-V2.esp
   SAY: Be sure to use the right version depending on Unique Landscapes Beachs of Cyrodiil being used.
   IF (40E0F4DA|"Castle_Almgard-V2.esp") DIRTY: 13 ITM, 1396 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 anvil bay+ul tweak.esp
-  SAY: Obsolete. Update to UL:Lost Coast 1.6.3+, then delete this patch.
+  SAY: Obsolete. Update to UL:Lost Coast 1.6.3 or higher, then delete this patch.
 BrewHouse-LostCoast patch.esp
 SkingradMarket-LostCoast patch.esp
 SutchReborn-LostCoast patch.esp
@@ -13192,12 +13173,12 @@ xulLushWoodlands.esp
   IF (FA59EB15|"xulLushWoodlands.esp") DIRTY: 52 ITM, 940 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
-  SAY: Obsolete if using Lush Woodlands 1.3+.
+  SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Blood Raven Lush Woodlands Patch.esp
 DarkBrotherhoodChronicles-LushWoodlands patch.esp
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
-  SAY: Obsolete if using Lush Woodlands 1.3+.
+  SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Rustle House - UL Patch.esp
 
 xulAncientYews.esp
@@ -13228,7 +13209,7 @@ WaldnirsWoods-AncientRedwoods patch.esp
 PineLodge-AncientRedwoods patch.esp
 xulGreatForest_ARF.esp
 OldCrowInn-AncientRedwoods patch.esp
-  SAY: Obsolete if using Ancient Redwoods 1.6+.
+  SAY: Obsolete if using Ancient Redwoods 1.6 or higher.
 PineLodge2-AncientRedwoods patch.esp
 ROC+Ancient Redwoods.esp
 
@@ -13243,7 +13224,7 @@ Ravenview-Cloudtop-Patch.esp
 Mimics-CloudtopMountains patch.esp
 Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
-  SAY: Obsolete. Update to Cloudtop Mountains 1.0.1+. Then delete this patch.
+  SAY: Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 GoldenCrest-CloudtopMountains patch.esp
 RST+Cloudtop Mountains.esp
 
@@ -13877,22 +13858,22 @@ BEGINGROUP: Open Cities Reborn
 //'''''''''''''''''''''''''''''''
 
 Open Cities Reborn - Anvil.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bravil.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Bruma.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Cheydinhal.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Chorrol.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Leyawiin.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 Open Cities Reborn - Skingrad.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn - Full Merge.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
 Open Cities Reborn.esp
   TAG: {{BASH: C.Name}}
@@ -14357,7 +14338,7 @@ PowerBulletTime.esp
 Happyhannah's Time Wasting.esp
 WHOOSH.esp
 TimeWizard.esp
-  IFNOT ("OBSE") REQ: OBSE (only if using version 2.1+)
+  REQ: OBSE (only if using version 2.1+)
 
 Buried_Treasure.esp
 !BurningItems 0.4.esp
@@ -14422,9 +14403,9 @@ Colourwheels Sexy Imperial Legion Vwalk.esp
 Colourwheels Sexy Bank.esp
 CombatAlarm.esp
 CompanionHorseSupport.esp
-  IFNOT ("OBSE") || IF (<0.0.17|"OBSE") REQ: OBSE 17+.
+  REQ: OBSE version 17b or higher.
 CompanionHorseSupportFIX forCMPartners.esp
-  IFNOT ("OBSE") || IF (<0.0.17|"OBSE") REQ: OBSE 17+.
+  REQ: OBSE version 17b or higher.
 Compass-Disable_POIs.esp
   SAY: If using Wrye Bash use Bashed Patch tweaker instead.
 Compass-Disable_QuestMarkers.esp
@@ -14495,7 +14476,7 @@ DarNified Books_BP_BJ.esp
   SAY: If possible, use Wrye Bash's Darnified Books tweak instead.
 kuerteeCustomisableHUDComponents.esp
 HUD Status Bars.esp
-  IFNOT ("OBSE") REQ: OBSE and MenuQue
+  REQ: OBSE and MenuQue
 darkarrow.esp
 DB_NightMotherMoney5k.esp
 DB_NightMotherMoneyRangeA.esp
@@ -14935,7 +14916,7 @@ MWStyleSpriggansV.1.2.esp
 More Lockpicks.esp
   SAY: If using with an overhaul such as OOO (or many other mods) really should use Wrye Bash or you'll have loss of some leveled list changes.
 TI-MM v04d.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp, Qarl's Harvest, Tamrielic Ingredients.
+  REQ: Shivering Isles, Qarl's Harvest, Tamrielic Ingredients.
 More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
@@ -15010,7 +14991,7 @@ NoQuestMarkers.esp
 No Troll Regen.esp
 No Troll Regen - Regen + Shady Sam Fire Arrows.esp
 No Wait Regenerate.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 NoWorthlessItems.esp
 NPCsMoreGold.esp
 NPC Water-Sink.esp
@@ -15526,7 +15507,7 @@ Skycaptains BloodTime.esp
 SkycaptainsBloodTime.esp
 Slayer_Goodsfix.esp
 Sleep to Save.esp
-  IFNOT ("OBSE") || IF (<0.0.11|"OBSE") REQ: OBSE 11+.
+  REQ: OBSE 11+.
 Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
@@ -15538,7 +15519,7 @@ SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp
 Soulgem Magic.esp
   TAG: {{BASH: Scripts}}
-  IFNOT ("OBSE") || IF (<0.0.20|"OBSE") REQ: OBSE 20+.
+  REQ: OBSE 20+.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
 
@@ -15747,7 +15728,7 @@ TameWildlife.esp
 Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
 Teleport Everywhere.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 Things Found Fence.esp
   TAG: {{BASH: Actors.AIData}}
 Thieves Gulid Harded.esp
@@ -16258,7 +16239,7 @@ Jump Adjustment 1.0.esp
 Jump_Adjustment.esp
 JumpModifier.esp
 ReneerKeyLockMod.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
 Duke patricks jump modifier.esp
@@ -16483,7 +16464,7 @@ DuplicateItemSpell.esp
 Elemental Horses.esp
 elPatrixF_SummonWorkshop.esp
 elPatrixF_SummonWorkshop_ShiveringIsles.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 Empty_Soul_Gems.esp
 EnchantmentMastery.esp
 Exit.esp
@@ -16504,7 +16485,7 @@ Illusionary Summons.esp
 Improved Ancestor Guardian.esp
 Irresistible_Allure_Spell-1920.esp
 IshMountedCombatSpellsOnSelf.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 JADPolymorphSpellv3.esp
 Jhaeriks 10x Duration Conjuration Mod 1.1.esp
 K2_Summons.esp
@@ -16530,7 +16511,7 @@ M.O.E. - Lock Spells.esp
 M.O.E. - Mythic Dawn Powers.esp
 M.O.E. - Teleportation Magic and Icarian Flight.esp
 MadCompanionshipSpells.esp
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19+.
+  REQ: OBSE 19+.
 MCS extension.esp
 Madgod Powers.esp
 Magic Effects OBSE Tweaks.esp
@@ -16539,10 +16520,10 @@ Mark & Recall.esp
 MarkRecall.esp
   SAY: Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 Master of Magic.esp
 SNxMarkers.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 MindRip.esp
 morespells.esp
 MTC EagleEyesSpell.esp
@@ -16620,7 +16601,7 @@ PoisonSpellsAddon.esp
 PoisonSpellsDHealth.esp
 PortableOblivionPortal.esp
 Portal - SI.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  REQ: Shivering Isles
 QuickStore.esp
 Ragna Left-Hand Path.esp
 Ragna Left-Hand Path-OOO fix.esp
@@ -16660,12 +16641,11 @@ SummonAuroranOBME.esp
 Summon Arrow.esp
 SummonCreaturePackBeta.esp
 SummonKnightofOrderOBME.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("OBSE") REQ: OBSE and OBME
+  REQ: SI and OBSE and OBME
 Summon Shadowmere.esp
 TeachSpell.esp
 Teleport.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 teleportspell EV.esp
 Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
@@ -16931,7 +16911,7 @@ Secrets of the Stones.esp
 Soulcraft.esp
 SorcerysToll.esp
 spellshields2.esp
-  IFNOT ("OBSE") || IF (<0.0.18|"OBSE") REQ: OBSE 18+.
+  REQ: OBSE 18+.
 spellshields2nofxpatch.esp
 Spells Be Effective.esp
 StealthierMagic.esp
@@ -16952,7 +16932,7 @@ Spell Ranks.esp
   SAY: Use Wrye Bash Bashed Patch tweak 'Rational Names' where posible.
 
 MagickOverlap.esp
-  IFNOT ("OBSE") REQ: OBSE 14+.
+  REQ: OBSE 14+.
 
 SSEE.esp
 SSEE-OOO.esp
@@ -16964,10 +16944,10 @@ Useful_TK-10337.esp
 Poison Spells.esp
 Poison FX.esp
 Poison Arrows.esp
-  IFNOT ("OBSE") || IF (<0.0.15"OBSE") REQ: OBSE 15+.
+  REQ: OBSE 15 or higher.
 
 Spell Failure Chance.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 Fizzle.esp
 
 Jpm's Miniature Necromancy.esp
@@ -17111,7 +17091,7 @@ kuerteeMagickaBasedEnchantmentLimits.esp
 MarcusTheEnchanter.esp
 Multiple Enchantments.esp
 IshMultipleApparelEnchantments.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 Enchantment Reduction.esp
 Mundane Enchantment Adjustment.esp
 Better Enchanting & Spellmaking.esp
@@ -17142,7 +17122,7 @@ BEGINGROUP: Thievery, Sneaking and Crime
 //Overrides overhauls.
 
 BookLooting.esp
-  IFNOT ("OBSE") || IF (<0.0.15"OBSE") REQ: OBSE 15+.
+  REQ: OBSE 15+.
 Cheydinhal for Thieves.esp
 CompanionTreaty.esp
 Crime and Stealth Rebalance.esp
@@ -17358,9 +17338,9 @@ SuddenViolence_Sprint.esp
 SuddenViolence_ElementalSpells.esp
 
 Push_Spin_Fly.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 Push_Shove_Die.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 
 Killtastic! Chance.esp
 Kythrius_Mod.esp
@@ -17411,7 +17391,7 @@ erics_double_damage_fast_for_archers.esp
   SAY: Only use one Erics * for archers.esp.
 886-ExtremeMarksman.esp
 Fast Arrow Collection.esp
-  IFNOT ("OBSE") || IF (<0.0.16|"OBSE") REQ: OBSE 16+.
+  REQ: OBSE 16+.
 Fiery Fists v1.2.esp
 GM's Archery Rebalance.esp
 Archery Rebalance.esp
@@ -17460,7 +17440,7 @@ mighty_bows_sneak_dmg_bonus.esp
 mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
 SilverBonus.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 Steady Zoom.esp
 NO_Recoil_Stagger.esp
 NE_Realistic_Blocking.esp
@@ -17570,7 +17550,7 @@ Duke Patricks - Bob and Weave Dodge Mark II.esp
   SAY: Outdated. Update to latest version.
 DocDodge.esp
 Double-tap dodge.esp
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19+.
+  REQ: OBSE 19+.
 
 Duke Patricks - NPCs Now Bob Under Your Shots.esp
   SAY: Outdated. Update to latest version.
@@ -17617,7 +17597,7 @@ PTDoorExploitBegone.esp
 PTLessKnockback.esp
 Phitt's Phighting Phixes.esp
   SAY: Don't need to use 'PTActorsCare.esp', 'PTDamageFinal.esp', 'PTDoorExploitBegone.esp', 'PTLessKnockback.esp' or NoRunningBackwards mod with this.
-  IFNOT ("OBSE") || IF (<0.0.17|"OBSE") REQ: OBSE 17+
+  REQ: OBSE 17+
 Ragna Parry V2.esp
 Smarter Ally Combat Positioning.esp
 The Art of Battle.esp
@@ -17625,7 +17605,7 @@ Unequip Broken Armor.esp
 BFG's Enhanced Armory.esp
   INC: 'Unequip Broken Armor', 'Enhanced Hotkeys'
 humantouchNPC.esp
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19+.
+  REQ: OBSE 19+.
 
 Duke Patricks - Melee Combat NO RECOIL.esp
   TAG: {{BASH: Sound, Graphics}}
@@ -17689,7 +17669,7 @@ DHs Faster Skills X2.esp
 DHs Faster Skills X5.esp
 DHs Faster Skills X10.esp
 ExperienceBasedTraining.esp
-  IFNOT ("OBSE") || IF (<0.0.16|"OBSE") REQ: OBSE 16+.
+  REQ: OBSE 16+.
 Faster Leveling.esp
 Faster Level Up X2.esp
 Faster Level Up X3.esp
@@ -17764,7 +17744,7 @@ Intelligence Overhaul BJ.esp
   IF ($OOO) SAY: Use 'OOO-Intelligence Overhaul BJ' instead.
 OOO-Intelligence Overhaul BJ.esp
 Intelligence Overhaul-RR.esp
-  IFNOT ("OBSE") || IF (<0.0.11|"OBSE") REQ: OBSE 11+.
+  REQ: OBSE 11+.
 
 SniperSneakSkillup.esp
 AFLevelMod.esp
@@ -17906,7 +17886,7 @@ sr_staff_skill.esp
 J3X's Staff Bashing Mod.esp
 
 SkillDecay.esp
-  IFNOT ("OBSE") || IF (<0.0.20"OBSE") REQ: OBSE 20+.
+  REQ: OBSE v20+.
 S.P.A.M.esp
   SAY: Use either 'S.P.A.M.esp' or 'S.P.A.M. 100+.esp' but not both together.
 S.P.A.M. 100+.esp
@@ -17950,7 +17930,7 @@ phat39s trainaholic-15.esp
 phat39s trainaholic-20.esp
 RealisticLeveling.esp
 The Versatile Adventurer.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
 ENDGROUP: Skills, Attributes and Leveling
 
 BEGINGROUP: Pose and Animation Mods
@@ -18107,7 +18087,7 @@ NewAnimation.esp
 Animation - Growlfs Body Resizing Mod.esp
 
 1st Person Legs.esp
-  IFNOT ("OBSE") || IF (<0.0.15"OBSE") REQ: OBSE 15+.
+  REQ: OBSE 15+.
 SP1stPLegs.esp
 
 KamiCAS.esp
@@ -18148,13 +18128,13 @@ Let There Be Darkness.esp
   SAY: Obsolete. Update to version 1.2+.
   TAG: {{BASH: C.Light, Deactivate}}
 Let There Be Darkness - Shivering Isles.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
   SAY: Obsolete. Update to version 1.2+.
   TAG: {{BASH: C.Light, Deactivate}}
 Let There Be Darkness - Cyrodiil.esp
   TAG: {{BASH: C.Light, Deactivate}}
 Let There Be Darkness - Cyrodiil + SI.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp.
+  REQ: Shivering Isles.
   TAG: {{BASH: C.Light, Deactivate}}
 Let There Be Darkness - Knights.esp
   REQ: Knights of the Nine.
@@ -18291,7 +18271,7 @@ Stat Restore.esp
 
 Arena betting.esp
 Useful Houses.esp
-  IFNOT ("OBSE") REQ: OBSE & MenuQue.
+  REQ: OBSE & MenuQue.
 ENDGROUP: Semi-final overrides
 
 BEGINGROUP: Beauty Packs & Race Changes\Addons
@@ -18407,18 +18387,23 @@ BP-Cosmetic_Compilation-Alternative-VanillaRaceonly.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
+  SET: CC1
 Cosmetic Compilation XXL DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF ("Cosmetic Compilation.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF (r"Cosmetic Compilation( XXL DV)?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No JPeepers.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF (r"Cosmetic Compilation(( XXL DV)|( - No NPC Changes))?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF (r"Cosmetic Compilation(( XXL DV)|( - No (JPeepers|NPC Changes)))?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
+  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
+  SET: CC1
 EE-Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 CCR - EE.esp
@@ -18622,7 +18607,7 @@ Nec-Character_Sonnet_Spoiled.esp
 Nephilim.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, Actors.Spells, R.Description, R.Skills, R.Attributes-F, R.Attributes-M}}
 NeuerSheogorath.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
+  IFNOT ("DLCShiveringIsles.esp") REQ: DLCShiveringIsles.esp
   IFNOT ("Beautiful People.esm") REQ: Beautiful People.esm
 NorthernSuthay.esp
 OE-Enhanced Races V1.35.esp
@@ -18631,10 +18616,10 @@ PaganRaces.esp
   TAG: {{BASH: Eyes, Hair, R.Ears, R.Head, R.Mouth, R.Teeth}}
 Moonshadow Elves - Sc.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 Moonshadow-Elves_Sc_DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 Moonshadow Elves - NoSc.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Moonshadow-Elves_NoSc_DV.esp
@@ -18990,7 +18975,7 @@ FLAN - Enayla Demonic.esp
 REGEX: Dragorian and dranaugh( \(No Claws and Feet\))?\.esp
   SAY: Use only one Dragorian and dranaugh*.esp
 flying argnian.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
   REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked
 Kani's Elves.esp
 Lattamerv3.esp
@@ -19117,7 +19102,7 @@ Toaster Says Share Faction Recruitment.esp
 MuffinShare.esp
 
 Minionz.esp
-  IFNOT ("OBSE") REQ: OBSE
+  REQ: OBSE
 
 AsharasCharactersAsNPCs.esp
   REQ: RBP full
@@ -19553,8 +19538,7 @@ DAJadeWhite.esp
 DAPan.esp
   TAG: {{BASH: Hair, Eyes}}
 GGIlli.esp
-  IFNOT ("OBSE") || IF (<0.0.17|"OBSE") REQ: OBSE 17+
-  REQ: Underdark: The Realm of Northdark.
+  REQ: OBSE 17+, Underdark: The Realm of Northdark.
   INC: Duke Patricks Basic Combat Geometry.
 GG_Valeria_Revived.esp
   TAG: {{BASH: Hair, Eyes}}
@@ -19647,7 +19631,7 @@ DAAanila.esp
 DAAltair.esp
   TAG: {{BASH: Hair, Eyes}}
 DAJynx.esp
-  IFNOT ("OBSE") REQ: OBSE.
+  REQ: OBSE.
   TAG: {{BASH: Hair, Eyes}}
 DAClair.esp
   TAG: {{BASH: Hair, Eyes}}
@@ -19765,45 +19749,25 @@ psychopartner8.esp
 Ktuulu.esp
 Torkemada.esp
 Haelia.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Etienne.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Lgwanda.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Ralwen.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Agatha.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Lathasa.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Ida.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Ingrid.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Hacheeva.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 Shantari.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp
-  IFNOT ("Ktuulu.esp") REQ: 'Ktuulu.esp
-  IFNOT ("Torkemada.esp") REQ: Torkemada.esp
+  REQ: SI and 'Ktuulu.esp' and 'Torkemada.esp'
 
 KW-AlliesPlayNicer.esp
 
@@ -20195,11 +20159,11 @@ bgBalancingEVLAMEIntegration.esp
 
 bgHighElfSeamReducerFixEV.esp
 bgBalancingEVOptionalSeamReducerHighElfFix.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp and Luchaire's Body Seam Reducer.
+  REQ: Shivering Isles and Luchaire's Body Seam Reducer.
   TAG: {{BASH: Body-M}}
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVOptionalSeamReducerHighElfFix.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp and Luchaire's Body Seam Reducer.
+  REQ: Shivering Isles and Luchaire's Body Seam Reducer.
   TAG: {{BASH: Body-M}}
 k_HOD_RBP_patch.esp
   TAG: {{BASH: Body-F, Body-Size-F}}
@@ -20773,7 +20737,7 @@ HTS_getwet.esp
 HTS with Cooking.esp
 HTSCl_base.esp
   TAG: {{BASH: Invent}}
-  IFNOT ("OBSE") || IF (<0.0.19|"OBSE") REQ: OBSE 19b+.
+  REQ: OBSE 19b+.
 HTSCl_cobl.esp
   REQ: Cobl.
 HTSCl_mmm.esp
@@ -20782,7 +20746,7 @@ HTSCl_mmm.esp
 HTSCl_ooo.esp
   REQ: Oscuro's Oblivion Overhaul.
 HTSCl_si.esp
-  IFNOT ($SI) REQ: DLCShiveringIsles.esp expansion.
+  REQ: Shivering Isles expansion.
 HTSCl_tent.esp
 HTSCl_bbc.esp
   TAG: {{BASH: Graphics}}
@@ -20806,7 +20770,7 @@ HTSCl_cuo_inElderCouncil.esp
 HTSCl_elsweyr.esp
   REQ: Elsweyr Deserts of Anequina.
 HTSCl_hud.esp
-  IFNOT ("OBSE") REQ: OBSE, Pluggy v125+. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
+  REQ: OBSE, Pluggy v125 or higher. Rename OBSE_Elys_Pluggy.dll to OBSE_Elys_Pluggy_Hud.dll.
 HTSCl_UTY.esp
 HTSCl_UTY_patch.esp
 HTSCl_Pie_Modification.esp
@@ -20897,35 +20861,259 @@ BEGINGROUP: Respawn & day length overrides
 //
 //Use only one of each kind. Unlikely to interact with other mods.
 
-REGEX: Francesco's \d\d? days respawn time - 1-\d\d day lenght rescale\.esp
+Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
+  SET: RSPWN
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-REGEX: Francesco's day lenght rescale 1-\d\d\.esp
+Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-REGEX: Francesco's \d\d? days respawn time\.esp
+Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-REGEX: OOO-Respawn_(Year|Month|(Two_)?Week)\.esp
+Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: RSPWN
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's day lenght rescale 1-12.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's day lenght rescale 1-16.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's day lenght rescale 1-20.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's day lenght rescale 1-24.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's day lenght rescale 1-30.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 21 days respawn time.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 14 days respawn time.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 10 days respawn time.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Francesco's 7 days respawn time.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+OOO-Respawn_Year.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+OOO-Respawn_Month.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+OOO-Respawn_Two_Week.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+OOO-Respawn_Week.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Z 1 Hour respawn.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ThingasTime 1-15 Scale.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Automatic Timescale.esp
-REGEX: Timescale \d\d?x Real-Life\.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+Timescale 5x Real-Life.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
+  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+Timescale 10x Real-Life.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Time-2hr-realtime.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 REGEX: TF_timemod1-\d\d?.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 VG0SmarterTimescale.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
 OblivionRealTimeV11.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
 Combat Timescale x0.5.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
 Combat Timescale x0.5 v1.0.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
 DynamicTimescale.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
 Syc_LongerDaysShorterNights.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   SAY: Possible to use with 'Syc_LongerNightsforVampires.esp'
 Syc_LongerNightsforVampires.esp
+  IF ($TMSCL) SAY: Use only one Timescale mod
+  SET: TMSCL
   SAY: Possible to use with 'Syc_LongerDaysShorterNights.esp'
 SPAWN.esp
+  IF ($RSPWN) SAY: Use only one Respawn mod
+  SET: RSPWN
 ENDGROUP: Respawn & day length overrides
 
 BEGINGROUP: Shader mods
@@ -21009,7 +21197,8 @@ bgMagicShaderLifeDetect.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 kuertee bgMagicEVShader default drain effects.esp
 kuerteeDetectLifeEffectNightEyeShader.esp
-  IFNOT ("OBSE") REQ: OBSE, OBSE Night Eye Shader Switcher.
+  REQ: OBSE.
+  REQ: OBSE Night Eye Shader Switcher.
 kuerteeDetectLifeEffect.esp
 kuerteeNightEyeShader.esp
 bgMagicLightningbolt.esp
@@ -21459,7 +21648,7 @@ Open Cities LR Road Record.esp
   TAG: {{BASH: Deactivate, Roads}}
   SAY: Obsolete. Remove this and install Open Cities Reborn.
 Open Cities Reborn Road Record.esp
-  SAY: Obsolete. Update to Open Cities Reborn 0.8.1+, then delete this plugin.
+  SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher, then delete this plugin.
   TAG: {{BASH: Deactivate, Roads}}
   SAY: Use only one road record file.
 NRB4 Standard Road Record.esp

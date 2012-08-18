@@ -5980,7 +5980,7 @@ DMRA BBB Armamentarium Complete.esp
   INC: dmra_bbb_armamentarium.esp
 TGND2 Armamentarium Replacer.esp
   TAG: {{BASH: Graphics}}
-  : Armamentarium
+  REQ: Armamentarium
 TGND2 Better Cities Replacer.esp
   TAG: {{BASH: Graphics}}
 IFNOT ("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
@@ -6810,7 +6810,7 @@ BEGINGROUP: OOO full and lite.
 //''''''''''''''''''
 
 Oscuro's_Oblivion_Overhaul.esp
-  % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
+  TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
   IF ("Mart's Monster Mod for OOO.esm") || IF ($FCOM) TAG: Remove [Factions, Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 OOO-Water_Weeds.esp
@@ -9588,8 +9588,8 @@ Faraggut_renewed.esp
 Felmoons Dawn V1.2.esp
 FFM.esp
 Fighters Guild Quests.esp
-  % {{BASH: Actors.ACBS, Actors.AIPackages}}
-  " Quest for the Elements (and its ROC patch)
+  TAG: {{BASH: Actors.ACBS, Actors.AIPackages}}
+  INC: Quest for the Elements (and its ROC patch)
 Fists of Randagulf.esp
 Fists of Randagulf Patch.esp
 FishermansCottage.esp
@@ -11391,7 +11391,7 @@ __thermae_LLCustomizer.esp
 TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
   IF (2414A8EF|"TheStorytellersBrotherQuest.esp") || IF (3B237D7C|"TheStorytellersBrotherQuest.esp") DIRTY: 17 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-  ? A fixed version can be found here: "http://oblivion.nexusmods.com/downloads/file.php?id=7809"
+  SAY: A fixed version can be found here: "http://oblivion.nexusmods.com/downloads/file.php?id=7809"
 TheUndercity.esp
 The UnderCroft v-04.esp
 The UnderCroft v-04a.esp

@@ -18387,23 +18387,18 @@ BP-Cosmetic_Compilation-Alternative-VanillaRaceonly.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  SET: CC1
 Cosmetic Compilation XXL DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
-  SET: CC1
+  IF ("Cosmetic Compilation.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
 Cosmetic Compilation - No NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
-  SET: CC1
+  IF (r"Cosmetic Compilation( XXL DV)?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
 Cosmetic Compilation - No JPeepers.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
-  SET: CC1
+  IF (r"Cosmetic Compilation(( XXL DV)|( - No NPC Changes))?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
 Cosmetic Compilation - No JPeepers or NPC Changes.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
-  IF ($CC1) SAY: Use only one 'Cosmetic Compilation*.esp'
-  SET: CC1
+  IF (r"Cosmetic Compilation(( XXL DV)|( - No (JPeepers|NPC Changes)))?\.esp") SAY: Use only one 'Cosmetic Compilation*.esp'
 EE-Cosmetic Compilation.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes}}
 CCR - EE.esp
@@ -20861,259 +20856,35 @@ BEGINGROUP: Respawn & day length overrides
 //
 //Use only one of each kind. Unlikely to interact with other mods.
 
-Francesco's 3 days respawn time - 1-12 day lenght rescale.esp
-  SET: RSPWN
-  SET: TMSCL
+REGEX: Francesco's \d\d? days respawn time - 1-\d\d day lenght rescale\.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time - 1-12 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
+REGEX: Francesco's day lenght rescale 1-\d\d\.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time - 1-12 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
+REGEX: Francesco's \d\d? days respawn time\.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time - 1-12 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time - 1-12 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 3 days respawn time - 1-16 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time - 1-16 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time - 1-16 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time - 1-16 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time - 1-16 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 3 days respawn time - 1-20 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time - 1-20 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time - 1-20 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time - 1-20 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time - 1-20 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 3 days respawn time - 1-24 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time - 1-24 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time - 1-24 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time - 1-24 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time - 1-24 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 3 days respawn time - 1-30 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time - 1-30 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time - 1-30 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time - 1-30 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time - 1-30 day lenght rescale.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: RSPWN
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's day lenght rescale 1-12.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's day lenght rescale 1-16.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's day lenght rescale 1-20.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's day lenght rescale 1-24.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's day lenght rescale 1-30.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 21 days respawn time.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 14 days respawn time.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 10 days respawn time.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Francesco's 7 days respawn time.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-OOO-Respawn_Year.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-OOO-Respawn_Month.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-OOO-Respawn_Two_Week.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-OOO-Respawn_Week.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
+REGEX: OOO-Respawn_(Year|Month|(Two_)?Week)\.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Z 1 Hour respawn.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ThingasTime 1-15 Scale.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Automatic Timescale.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-Timescale 5x Real-Life.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
-  IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
-Timescale 10x Real-Life.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
+REGEX: Timescale \d\d?x Real-Life\.esp
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Time-2hr-realtime.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 REGEX: TF_timemod1-\d\d?.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
   IF ($BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 VG0SmarterTimescale.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
 OblivionRealTimeV11.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
 Combat Timescale x0.5.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
 Combat Timescale x0.5 v1.0.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
 DynamicTimescale.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
 Syc_LongerDaysShorterNights.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
   SAY: Possible to use with 'Syc_LongerNightsforVampires.esp'
 Syc_LongerNightsforVampires.esp
-  IF ($TMSCL) SAY: Use only one Timescale mod
-  SET: TMSCL
   SAY: Possible to use with 'Syc_LongerDaysShorterNights.esp'
 SPAWN.esp
-  IF ($RSPWN) SAY: Use only one Respawn mod
-  SET: RSPWN
 ENDGROUP: Respawn & day length overrides
 
 BEGINGROUP: Shader mods

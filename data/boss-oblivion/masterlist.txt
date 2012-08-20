@@ -367,6 +367,9 @@ Oblivion_1C_Script.esp
 zOST_MAIN.esp
 Essential_Merchants.esp
   TAG: {{BASH: Actors.ACBS, NoMerge}}
+  
+//Guesing that this is a Polish reanslation of Oblivion, so loading early. Link supplied was for an unrelated mod.
+Oblivion PL.esp
 
 HrmnsOblivionScriptOptimizationv1.0.esp
   IF CHECKSUM("HrmnsOblivionScriptOptimizationv1.0.esp", 82FC20B8) SAY: Not recommended for use as there is no measureable performance improvement, and it breaks the Shivering Isles by changing some FormIDs, causing a script to be written into cell data.
@@ -646,6 +649,8 @@ Arcana Restored.esp
 Erthor_Fix-2593.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Hermaeus Mora Daedric Quest Fix.esp
+  SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
+UnRacefix.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
 Ultimate_Heist_Fix-4880.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
@@ -1019,6 +1024,7 @@ Floydian1 Loading Screens Compilation.esp
   TAG: {{BASH: Graphics, NoMerge}}
 LoadingScreenQuotes.esp
   SAY: Make sure that any mod that replaces the graphics of the loading screens is tagged with Graphics, otherwise this mod will revert them to vanilla.
+toothman's funny loadscreens.esp
 ENDGROUP: Loading Screen Alternatives
 
 BEGINGROUP: Base Mods
@@ -1809,6 +1815,7 @@ crafting.esp
 CWar's Chest of Fun v1.4.esp
 
 007camera.esp
+Calender.esp
 Camera Redone.esp
   REQ: OBSE 16+.
 ChaseCameraMod.esp
@@ -2087,6 +2094,7 @@ Fishing in Cyrodiil.esp
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Flamering.esp
 Foxfire Mushrooms.esp
+FullGrass1.1.esp
 Fundies.esp
 fwRaceChangeRing.esp
 ENDGROUP: Base F
@@ -2815,6 +2823,7 @@ Living Economy - Items.esp
   IF CHECKSUM("Living Economy - Items.esp", 1F0A2AB8) DIRTY: 10 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cutthroat Merchants.esp
 Cyrodiil Economic Overhaul.esp
+Cyrodiil Economic Overhaul - Main.esp
 
 GoldAdjustment.esp
   SAY: Obsolete. Upgrade to Enhanced Economy.
@@ -3181,6 +3190,7 @@ MapMarkers_SI_1C.esp
 Map Markers for Explorers & Adventurers.esp
 moremapmarkers.esp
 Nirnroot Completion.esp
+NoStartMapMarkers.esp
 Oblivion Gate Markers.esp
 Order_Obelisk_Mark.esp
 ShadowbanishMap.esp
@@ -3221,6 +3231,7 @@ Hov's Hotkeys.esp
   SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 HotkeyCasting.esp
 hotkeys_galore_6.esp
+Hotkey Pro.esp
 Lem - Hotkey Cyclers.esp
   SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Uncommon Controls.esp
@@ -4503,6 +4514,8 @@ IP_Magerobes.esp
   TAG: {{BASH: Graphics}}
 IrohaClothes.esp
 Iron Maiden Set.esp
+Iron Maiden - Jo's Rest.esp
+  IF CHECKSUM("Iron Maiden - Jo's Rest.esp", C7862667) DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ISEmpireSwords.esp
 IvyArmor_Black.esp
 IvyArmor_Full.esp
@@ -5605,6 +5618,7 @@ WarriorBandages_OOO_V2.0.esp
 WarriorPriestSet.esp
 Warriors Items.esp
 WarriorsRobe.esp
+Wearable_Palace_Armor-4950.esp
 Western Armor.esp
 Westwind_Rogue_HGEC.esp
 witchkingsword.esp
@@ -5857,6 +5871,7 @@ BEGINGROUP: Body Replacer Armour & Clothing
 //VITAL for overhaul mod users: Wrye Bash tag all armor replacers {{BASH: Graphics}} to keep their new look.
 
 0FDemonSet.esp
+1SB_LethalMajestyOutfit.esp
 300_Brocade_Outfits.esp
 
 A_Dremora_Armor_for_you-7602.esp
@@ -7784,6 +7799,7 @@ FCOM_VanillaItemReleveler.esp
 FCOM_NewItemsTemplate.esp
 FCOM_FranItemRelevelerALL.esp
   
+OOO Slof Horse & DLC Armor.esp
 MMM4OOO&FCOM- Slofs Horse & DLC Armor.esp
 ENDGROUP: FCOM\MMM optionals 3.
 
@@ -8705,6 +8721,7 @@ Imperial Furniture Renovated.esp
 Imperial Furniture Renovated - Patch.esp
   REQ: Amajor7 Imperial Furniture.esp
 SYS Patch-Imperial Furniture Renovated.esp
+See You Sleep DLL - Imperial Furniture Renovated Patch.esp
 Amaterasu no Yume.esp
 SYS Patch-Amaterasu no Yume.esp
 Amen'thalas Well House.esp
@@ -9549,6 +9566,7 @@ EMRedRoseAddonCOBL.esp
 Emeraldsvale_01c.esp
 Emertxe.esp
   IF CHECKSUM("Emertxe.esp", 67FD3F7B) DIRTY: 8 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+EM_FarmAnimals1.esp
 EM_Packdonkeys.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
@@ -9687,6 +9705,7 @@ GatewayRealmUL.esp
   IF CHECKSUM("GatewayRealmUL.esp", 00BCA56E) DIRTY: 66 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GatewayRealmUL Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+GazLodge.esp
 
 GB_Oblivion Tournament.esp
 Ghost Ship.esp
@@ -9894,6 +9913,7 @@ IC Island Estate v1.1.esp
 ICAU_Mages_bridge.esp
 ICEGHouse.esp
 ICEGHouse_cobl.esp
+ICEGHouse_jp.esp
 icPlayerHome.esp
 SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -10336,6 +10356,7 @@ Locked Doors and Knocking v1.02.esp
 Lock Spells.esp
 Lobo_the_Wolf.esp
 Lobo_the_Wolf_v101.esp
+Lops_hidden_village.esp
 LordKain_Adash_World.esp
 LordKain_Adash_World Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -10789,6 +10810,7 @@ Princess Sheogorath Palace.esp
 Princess DB Sanctuary.esp
 Princess Passwall Home.esp
   IF CHECKSUM("Princess Passwall Home.esp", DFB2260B) DIRTY: 2 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+private army beta.esp
 Project Spartan.esp
 PT-AyleidSanctum.esp
 PT-AyleidSanctum-WithAltars.esp
@@ -10969,6 +10991,7 @@ SanctumSanctorum.esp
 SandranethTower.esp
 Sanguine.esp
 Sanguinenorob.esp
+Saurion Red Lights.esp
 Satu Ra - Lord of Beasts.esp
 SaturaliaCabin.esp
 SaveWaterEdgeEng.esp
@@ -10997,6 +11020,7 @@ SenTineL's Legendary Weapons And Armors 1.0.esp
   SAY: Update to latest version, latest version doesn't have version number in name.
 SenTineL's Legendary Weapons And Armors.esp
 SenTineL's Legendary Weapons And Armors_AE.esp
+SenTineL's Legendary Weapons And Armors_CE.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp
@@ -11113,6 +11137,7 @@ Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
+SMAbriaelHuman.esp
 SN_Shivering_Shack.esp
 SN_Sunset_Cottage.esp
 SMSynx.esp
@@ -12438,6 +12463,7 @@ Gah Falquan Umarile.esp
 Gah Falquan Umarile Indy.esp
 
 Unofficial Patches & Refurbish - ALL.esp
+Unofficial PatchesRefurbished -- ALL.esp
 
 BrewHouse.esp
   SAY: Use v1.5 or later to avoid extensive compatibility issues.
@@ -14172,6 +14198,7 @@ Actual Oblivion Crisis.esp
 Oblivion Crisis.esp
 Addendum - Diabloblivion.esp
   IF CHECKSUM("Addendum - Diabloblivion.esp", D6814DD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Adventure's memo.esp
 Akaviri__IMPROVED-6787.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
@@ -14314,6 +14341,10 @@ Bloody_Mess - Bloody_Fights.esp
 A Bloody Mess - Bloody Fights.esp
 A Bloody Mess - Armor Shader Supression.esp
 A Bloody Mess - Arena Wash Basin.esp
+Blunt Is Now Hafted.esp
+  TAG: {{BASH: Names, Deactivate}}
+Blunt to Hafted.esp
+  TAG: {{BASH: Names, Deactivate}}
 
 BloodSpray.esp
   TAG: {{BASH: Graphics}}
@@ -14852,9 +14883,11 @@ LG's Unique Enemies.esp
 Lem - Easy Construction.esp
 Lush & Gaudy Aurora Borealis.esp
 Lush & Gaudy Damn Greens.esp
+Lush & Gaudy Damn Greens GC CH Tree Cull 5.esp
 Lush & Gaudy FG.esp
 Lush & Gaudy Lava.esp
 Lush & Gaudy Oblivion Weather.esp
+Lush and Gaudy Palms.esp
 Lush & Gaudy Water.esp
 LustyArgonianMaidContinued.esp
 ENDGROUP: overrides L
@@ -16319,6 +16352,7 @@ New Vampire Feeding Sound.esp
 LGVampire.esp
 JaySuS-Vampire-Mod-MKV-V3.8.esp
 KT_VampSightToggleNoEff.esp
+kuerteeSimpleVampirism.esp
 kuerteeSimpleVampirismExpanded.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
@@ -16516,6 +16550,7 @@ JIM_Balanced_Doppleganger.esp
 JIM_Summon_Unicorn.esp
   SAY: Do not activate alongside other horse summoning mods. Use only one .esp.
 KT_DetectHostility.esp
+DLCFrostcrag_MysticEmporiumPatchKTDH.esp
 Kyoma's Spell Renamer.esp
 Levitate-8921.esp
 Lap's_Spell_Pack_11.esp
@@ -16545,6 +16580,7 @@ MTC EagleEyesSpell.esp
 MTC EagleEyesSpell 1.1[ENG].esp
 Mysterious Bear's Epic Necromancy + EM.esp
   IF CHECKSUM("Mysterious Bear's Epic Necromancy + EM.esp", A8E08203) || IF CHECKSUM("Mysterious Bear's Epic Necromancy + EM.esp", 0AB56ABA) DIRTY: 15 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Mysterious Bear's Necromancy - Pauldrons Addon.esp
 Mysterious Bear's Power Animals- Transparent.esp
   IF CHECKSUM("Mysterious Bear's Power Animals- Transparent.esp", 6386DDCF) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysterious Bear's Power Animals - Translucent.esp
@@ -16651,6 +16687,7 @@ SpellRing.esp
 Stalk'em SI.esp
 stickyfingers.esp
 StrongholdTeleport.esp
+SummonAnyV005.esp
 SummonAuroranOBME.esp
   REQ: Knights.esp and OBSE and OBME
 Summon Arrow.esp
@@ -16985,6 +17022,7 @@ Magicka_Fortification_100.esp
 SigilStoneSelector.esp
 
 NekhanimalLifeDetect.esp
+NoStartingSpells.esp
 
 TFE - Restore Cost.esp
   SAY: Not needed if using LAME.
@@ -17053,6 +17091,8 @@ CDM-Alchemy Anywhere.esp
 Arcane Infusion.esp
 Essence Extracter.esp
 ArcaneArchery.esp
+pmAlchemyOverhaul.esp
+  REQ: Real-time Interactions
 Poison Equipper.esp
 Poison EquipperDV.esp
 DirenniAlchemyApparatus.esp
@@ -17161,6 +17201,7 @@ pmLockpicking.esp
   REQ: Real-Time Interactions
 Sneak Effectiveness Enhancement.esp
 Realistic Sneak for NPCs.esp
+Sneak Based Senses.esp
 Stalk'em.esp
 StolenItemOwnership.esp
 SM Combat Hide.esp
@@ -17643,6 +17684,7 @@ LRM_Generic.esp
 
 AdvancedMagicLeveling.esp
 AttributePlusX_v1.1.esp
+AttributePlusX_V1.2.esp
 Bonsai's Modified Skills.esp
 Bonsai's Modified Leveling.esp
 Bundlement.esp
@@ -18312,6 +18354,8 @@ Bald_Hairstyle.esp
   TAG: {{BASH: Hair}}
 tkHairPack01.esp
   TAG: {{BASH: Hair}}
+tkHairPack01RUS.esp
+  TAG: {{BASH: Hair}}
 babehair_EV.esp
   TAG: {{BASH: Hair}}
 GraceHair.esp
@@ -18573,6 +18617,8 @@ Lima.esp
 Lop-ears Elf_mini.esp
 Lorebased Races.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Lucha's Ashy Demons.esp
+  TAG: {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
 Lucha's Blood Witcher.esp
   REQ: Robert's Male v4 or v5
   TAG: {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Head, R.Mouth, R.Teeth}}
@@ -19259,6 +19305,7 @@ CM Legolas.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
 cmKittyCole.esp
 CM Pym.esp
+Colourwheels Sexy Imperial Companion.esp
 Colourwheels Sexy Pym Companion.esp
   IF CHECKSUM("Colourwheels Sexy Pym Companion.esp", 224844CA) DIRTY: 639 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CM Partner Alice.esp

@@ -2200,6 +2200,7 @@ FGPorterOverhaul.esp
 FGPorter_nofollow.esp
 
 Lamps of Oblivion.esp
+  IF CHECKSUM("Lamps of Oblivion.esp", EF38FAAC) DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Life1.2Rusb.esp
@@ -2400,6 +2401,10 @@ P1DseeYouSleep.esp
   IF CHECKSUM("P1DseeYouSleep.esp", A72D68F1) DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("P1DseeYouSleep.esp", 41C990C4) DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 P1DseeYouSleep - Vampire Bedroll Anims.esp
+See You Sleep DLL.esp
+  IF FILE("P1DseeYouSleep.esp") ERROR: Do not use with mmmpld's original See You Sleep mod or any of its compatibility patches.
+See You Sleep DLL - Vampire Bedroll Anims.esp
+  IF FILE("P1DseeYouSleep.esp") ERROR: Do not use with mmmpld's original See You Sleep mod or any of its compatibility patches.
 P1DlookAtShrines.esp
 Patron Deities.esp
 Parps_Invisibility_Cloak-6294.esp
@@ -3292,6 +3297,8 @@ Lair_mobs.esp
 VileLair_MOBS.esp
   TAG: {{BASH: Deactivate, NoMerge, Stats}}
 P1DseeYouSleep - DLCVileLair.esp
+See You Sleep DLL - DLCVileLair.esp
+  IF FILE("P1DseeYouSleep.esp") ERROR: Do not use with mmmpld's original See You Sleep mod or any of its compatibility patches.
 
 DLCMehrunesRazor.esp
   IF CHECKSUM("DLCMehrunesRazor.esp", CB413740) || IF CHECKSUM("DLCMehrunesRazor.esp", 78FDD06E) DIRTY: 21 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5958,6 +5965,7 @@ Colourwheels Sexy Stock Armor & Clothing Replacer.esp
   TAG: {{BASH: Graphics}}
 Colourwheels Sexy SI Armor & Clothing Replacer.esp
   TAG: {{BASH: Graphics}}
+CSRBW.esp
 
 Daedric Lord Armor.esp
 Daedric Lord-Classic Bound Armor.esp
@@ -6030,6 +6038,7 @@ ExnemWarriorBikini.esp
 ExnemZorlackArmory.esp
 ExWearUndies.esp
 
+Fairy Wings Darkness.esp
 FB_DC_Mega_Pack_OMOD_BC1.esp
 FB_DC_Mega_Pack_OMOD_BC1_H.esp
 Fetish Rogue.esp
@@ -6041,6 +6050,7 @@ FF7 Swords 04 side rune.esp
 FF7 Swords 05 back butterfly.esp
 Fingernails For HGEC.esp
 Forbidden.esp
+FWAD.esp
 
 Gizmodian - Eclipse.esp
 GladiatorHeels.esp
@@ -6108,6 +6118,7 @@ LexMiscClothesII.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LichGear.esp
 LiLi six.esp
+Like a Flower Outfits.esp
 
 MadokaMagicka.esp
 Metal Fang.esp
@@ -6121,6 +6132,7 @@ MW  Dremora Armor.esp
   REQ: Daedric Lord Armor
 
 NamirasEmbraceArmour.esp
+Nauplius Armors.esp
 necklacesbykalikut.esp
 Neo's 2NE1 Street Costumes.esp
 Neo's Gantz.esp
@@ -6163,6 +6175,7 @@ R18PN - Perona armor.esp
 R18PN - Schatten lauf Amr.esp
 Red Dragon Armor.esp
 Red Samurai.esp
+Resort Beach Outfits.esp
 Rinzei_UFFLeatherCorsetGown.esp
 Rockh00 InTheDark.esp
 Rockh00 Nouhime.esp
@@ -6191,6 +6204,7 @@ SchwarzeKatzeArmor.esp
 Sexy Ghost Armor.esp
 SexyKunoichi.esp
 SexyLeather.esp
+Sexy Mandarin Dress.esp
 SG015_Leia.esp
 shadow lord_normal.esp
 Shadowsilk-exnem.esp
@@ -6813,6 +6827,7 @@ Oscuro's_Oblivion_Overhaul.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
   IF FILE("Mart's Monster Mod for OOO.esm") || IF VAR(FCOM) TAG: Remove [Factions, Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+OOO Harvest Containers SI.esp
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
 OOO-No_Guild_Ownership.esp
@@ -10801,7 +10816,7 @@ QOTW021.esp
 QOTW Season One.esp
   IF CHECKSUM("QOTW Season One.esp", 315470CB) DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 QOTW Season Two.esp
-  IF CHECKSUM("QOTW Season Two.esp", E2D9635D) DIRTY: 0 ITM, 132 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("QOTW Season Two.esp", E2D9635D) DIRTY: 132 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Quest.esp
   SAY: Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -12131,7 +12146,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
   SAY: Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
-  SAY: Recommended to use version 1.02 or greater: "http://oblivion.nexusmods.com/mods/19203"
+  SAY: Recommended to use version 2.0 or greater: "http://oblivion.nexusmods.com/mods/28537"
   TAG: {{BASH: Deactivate, Filter, Stats, NoMerge}}
 MOBS DLCs.esp
   TAG: {{BASH: Stats, NoMerge}}

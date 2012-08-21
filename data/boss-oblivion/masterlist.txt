@@ -1802,6 +1802,7 @@ BEGINGROUP: Base C
 
 Cobl Bookjackets.esp
   TAG: {{BASH: Graphics, NoMerge}}
+Cats.esp
 Cats & Rats.esp
   TAG: {{BASH: Scripts}}
   SAY: Conflicts slightly with Harvest Containers; some in city containers will not play HC anims while this mod is active.
@@ -3213,6 +3214,7 @@ BEGINGROUP: Hotkeys
 //Load order independent. Use only one unless documentation says otherwise.
 
 fangshotkeyfix.esp
+BTA Keybinds.esp
 Clock Hotkey.esp
   REQ: OBSE
 DBTAM.esp
@@ -3442,6 +3444,7 @@ ENDGROUP: Items Early
 BEGINGROUP: Items #
 
 000torturearmorbw.esp
+00 shield rings.esp
 01_SenTinel's Katanas.esp
   TAG: {{BASH: Invent}}
 0FHuntress.esp
@@ -4840,6 +4843,7 @@ Necessary Violence.esp
 Neckerchiefs v1.2.esp
 Neck Seam Concealers Expanded.esp
 Neck Seam Concealers Expanded DD.esp
+Neck Seam Concealers Expanded LL.esp
 Neck Seam Concealers Expanded LL Amulets Only.esp
   SAY: Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
   TAG: {{BASH: Relev}}
@@ -6092,6 +6096,7 @@ HGEC_Rogue01.esp
 HGEC_SBBewitching.esp
 HGEC_SBVelvetRose.esp
 HGEC Sexy Rogue.esp
+HGEC Sinblood's Nightweave DB.esp
 HGEC Underwear.esp
 HGECUndiesHCup.esp
 Holy MythicDawn Armor.esp
@@ -9277,6 +9282,7 @@ Cheydinhal Petshop.esp
 ChorrolFirstHouse.esp
 Christmas Peaks.esp
 Cinderella Craft V2.0.esp
+City Morning Glory.esp
 Clover the lucky pig.esp
 cloudcity mod V1.1.esp
   IF CHECKSUM("cloudcity mod V1.1.esp", D89C1AC6) DIRTY: 181 ITM, 50 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -9755,6 +9761,7 @@ SYS Patch-Green Gables.esp
 Guardians of the Nine - Akatosh Chantry.esp
 GuilesHedgewizardsHovel.esp
 GuilesHuntsmenLodge.esp
+Greenie's Cabin.esp
 Great Forest Guardian Tower.esp
 GreatForestMarket.esp
 GreatForestMarket Vwalk.esp
@@ -11051,6 +11058,7 @@ Sheogoraths_Accords_of_Madness.esp
 SheogorathPlanebyInfornography.esp
 Sheos Quarters.esp
 Sheo's Quarters (Mania & Dementia Gardens).esp
+Shetcombe Farm.esp
 ShipInATree.esp
 Shivering Farm.esp
 Shivering isles Extender 0.6.esp
@@ -11452,6 +11460,8 @@ TinyHouse.esp
 COBLaddonTinyHouse.esp
 TiredVampireShipRu.esp
 TML The Box.esp
+ToaruMajutsunoOblivion.esp
+  REQ: Modular Beautiful People 2ch Edition Plus Plus
 To Feed an Empire - Wickmere Farm.esp
 Tobes_house.esp
 TobesHouseRu.esp
@@ -11792,6 +11802,8 @@ XaerthJA.esp
 XendersAngels.esp
 Xereau's Better Travel - Mage's Hub.esp
 
+YakumoIsle.esp
+  REQ: HGEC, Shivering Isles
 Yami_smallhouse.esp
 Yellow Rose Cottage.esp
 YGShop.esp
@@ -14027,6 +14039,19 @@ Better Abandoned House OC Cheydinhal.esp
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
 
+//Loading here for compatiblity with UL Chorrol Hinterland. Yes, the WAC patch precedes the main plugin.
+Dollparts' Cherry Brooke Grove - WAC Patch.esp
+Dollparts' Cherry Brooke Grove.esp
+Dollparts' Cherry Brooke Grove - AN Patch.esp
+  TAG: {{BASH: C.Climate}}
+Dollparts' Cherry Brooke Grove - UL Patch.esp
+
+//Loading here for compatibility with Kvatch Rebuilt and Oblivifall - Losing My Religion.
+Gold Road Cottage.esp
+Gold Road Cottage - AN Patch.esp
+Gold Road Cottage - KR Patch.esp
+Gold Road Cottage - LMR Patch.esp
+
 III-MountainShackPatch.esp
 III-RoadBridgesPatch.esp
 III-WhiteStallionPatch.esp
@@ -14805,6 +14830,7 @@ Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 cf_Improved_Barter_Gold.esp
   IF CHECKSUM("cf_Improved_Barter_Gold.esp", A4F37E72) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Increased Fog of War Radius - 5X.esp
 Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance-TESSource.esp
 Increased_Training_Allowance.esp
@@ -16567,6 +16593,7 @@ Madgod Powers.esp
 Magic Effects OBSE Tweaks.esp
 Magus Lost Alteration Spells.esp
 Mark & Recall.esp
+Mark And Recall.esp
 MarkRecall.esp
   SAY: Consider using Mark Recall 3 if using OBSE.
 Mark3.esp
@@ -17107,6 +17134,7 @@ RshAlchemy.esp
 RshAlchemyRecipes.esp
 Obicos_Ingredient_Increaser_v11-5131.esp
 Lightweight Potions.esp
+Nerf Alchemy.esp
 Zelya.esp
 strotisUsableAlchemyClutter.esp
 
@@ -20283,6 +20311,7 @@ DBWBMR.esp
   SAY: Only use one willpower equals magicka resistance/weakness type mod at once.
 ArgonianFeets.esp
   TAG: {{BASH: Invent}}
+Hunter Birthsign.esp
 NecromancerAndPaladinSigns.esp
 ScriptedArgonianFeet.esp
 SC_Drow Race - Skin Tone.esp

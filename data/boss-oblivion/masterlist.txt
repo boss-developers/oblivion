@@ -2994,6 +2994,8 @@ AutomaticPatrols.esp
 
 BookTrackerOBSE.esp
 
+CDM - Shivering Time.esp
+  REQ: OBSE 18+
 CleanQuit.esp
 CleanQuitAlternative.esp
 CBMS_V2.esp
@@ -3060,6 +3062,7 @@ LazyPCB.esp
 Lock Bash Omega.esp
 
 marksman_challenge.esp
+MigMiscellanea.esp
 MigNoDeath.esp
 MiscTracker.esp
 MotionBlur.esp
@@ -5611,6 +5614,7 @@ Viro's Kung Fu Set.esp
 VoidArmour.esp
 Vvardenfell_Imports.esp
 OC+Imports Patch.esp
+Vvardenfell_Imports_Open_Cities_Patch.esp
 VypersStealthArmors.esp
 ENDGROUP: Items V
 
@@ -8789,6 +8793,7 @@ Anvil_MorningGloryBetterCities_Mixed.esp
 
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
+APlaceToSleep.esp
 APSFortIronyBETA.esp
 APS Rare Stones.esp
 APS Abundant Stones.esp
@@ -9564,6 +9569,8 @@ Edhildils Underdark.esp
 Edolsian's Furnace, Kamal Volcano Caves.esp
 eeks Smithing Mod.esp
 Egainjo Manor.esp
+Eggs of History.esp
+  IF CHECKSUM("Eggs of History.esp", 2E865B93) DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EirikWythringSpellmaker.esp
 EK_InitialHome.esp
 Elemental Witches.esp
@@ -14244,6 +14251,7 @@ andoran_skooma1.2.esp
 Animal_Resize_and_Attitude_Adjustment-3385.esp
 Anvil_MorningGlory_Mixed.esp
 Arena Agronak always aggressive.esp
+ArenaLootAllow v1.2.esp
 Arena No Raiment.esp
 Arcane_university_access_cheat-2328.esp
 Archmage Chest Ingredients Addon 2.0.esp
@@ -14581,6 +14589,8 @@ DoB10mins.esp
   SAY: Use only one DoB**mins.esp.
 DoB20mins.esp
   SAY: Use only one DoB**mins.esp.
+Docile Aminals.esp
+Docile Aminals-Fran.esp
 Dousing The Flames.esp
 Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
@@ -19533,7 +19543,7 @@ BEGINGROUP: Vilja Companion
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
-REGEX: 1em_Vilja_(cool|Ren)hair\d\d?\.esp
+REGEX: 1em_Vilja_(cool|Ren)hair\d\d?g?\.esp
   SAY: Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}

@@ -3074,6 +3074,8 @@ sycNiceToMeetYou.esp
   REQ: OBSE v0020+
 NPC Height Randomizer.esp
   REQ: OBSE
+NoBloodInside.esp
+  REQ: OBSE
 NoHelmet.esp
   REQ: OBSE v0020+
 No Recharge.esp

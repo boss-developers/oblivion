@@ -11370,6 +11370,7 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 TGInheritEarlOfImbelsICHouse.esp
 The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
+Black Marsh.esp
 The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
   REQ: OBSE
@@ -13532,6 +13533,7 @@ xulTheEasternPeaks Vwalk.esp
 AncientTowers-EasternPeaks patch.esp
 Eastern Peaks - Dwemer Ruins Patch.esp
 MannimarcoResurrection-EasternPeaks patch.esp
+xulEasternPeaks_TWMPBlackMarshPatch.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -14467,6 +14469,8 @@ Cliff_RiskyInnBeds.esp
 Cliff_CountyNames.esp
   IF CHECKSUM("Cliff_CountyNames.esp", 5FC677BF) DIRTY: 137 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
+Cliff's MWStyleEnchantingSpellmaking - With Guild Requirements.esp
+  IF FILE("Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp") INC: Cliff's MWStyleEnchantingSpellmaking - No Guild Requirements.esp
 Cliff's Shacks Basements.esp
   SAY: Use 'Cliff's Shacks Basements.esp' or 'Cliff's Shacks Basements-Radiant AI.esp' but not both at the same time.
   IF CHECKSUM("Cliff's Shacks Basements.esp", 680BCBC2) DIRTY: 31 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

@@ -8844,6 +8844,7 @@ Armoured Arms Redone.esp
 ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
+Armory Lab 5.9 OOO.esp
 ArrowRestLodge.esp
 SYS Patch-Arrow Rest Lodge.esp
 SYS Patch-Arrow Rest Lodge COBL.esp
@@ -11675,6 +11676,8 @@ VHBloodlines 1.2 Vwalk.esp
 Vampire Hunting Bloodlines Patch.esp
 OCC-Verona-Patch.esp
 OCR + Verona Patch.esp
+VHB Waterfront Patch.esp
+VHB Waterfront Patch - ImpeREAL version.esp
 
 Apachii_Goddess_Store.esp
   SAY Recommended to enable only after you save game in IC Waterfront District
@@ -12831,6 +12834,7 @@ TWMP_Castle_Dunkerlore.esp
 TWMP_TheChain.esp
 TWMP_Thir River.esp
   IF CHECKSUM("TWMP_Thir River.esp", 52ECF190) DIRTY: 32 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+TWMP_Pearl Islands.esp
 Rost3_Topal.esp
 ENDGROUP: Tamriel Worldspace Modding Project
 
@@ -13534,6 +13538,7 @@ AncientTowers-EasternPeaks patch.esp
 Eastern Peaks - Dwemer Ruins Patch.esp
 MannimarcoResurrection-EasternPeaks patch.esp
 xulEasternPeaks_TWMPBlackMarshPatch.esp
+MythsAndLegends2-EasternPeaks patch.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -15015,6 +15020,7 @@ More SoulGems for Sale.esp
 More_Training-1908.esp
 MoreTraining.esp
 More Valuable Gems.esp
+Morrowind-style Legion Shield Replacer.esp
 movablebodies.esp
 MTC Stable Interiors.esp
 Muggrug's Sub tropical south.esp
@@ -15510,6 +15516,8 @@ stripper.esp
 sexlivion.esp
 Sex Shop.esp
 SexGGodess.esp
+SPS.esp
+  IF CHECKSUM("SPS.esp", 530D9DE0) DIRTY: 2396 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Goranga's prostitution system.esp
 Goranga dating system.esp
 FriendsAndLovers.esp
@@ -16665,6 +16673,7 @@ Necronlittlemagicmod1.1.esp
 NewSpells_1C.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
+NudeSpell.esp
 OblivionGateTraveller.esp
 Oblivion Gate Closer Spell.esp
 Oblivion Gate Closer Spell V2.esp
@@ -16892,6 +16901,7 @@ OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
 MidasSpellTomes.esp
   TAG: {{BASH: Relev}}
+MidasCloth.esp
 Midas' Shortcut.esp
 MidasMagicCompanions.esp
 MidasMagicLazyFockerChest.esp
@@ -19725,6 +19735,7 @@ RhiannaII-essential.esp
   TAG: {{BASH: Hair, Eyes}}
 Valtierro_B1.esp
 Valtierro_B1-NoCCRL.esp
+Valtierro_B1-NoCC.esp
 VampireCompanion.esp
 Vance.esp
 Wolf Companions -TcS-.esp
@@ -21039,12 +21050,12 @@ BEGINGROUP: Shader replacers
 //''''''''''''''''
 Duke Patrick's magic you can believe in 4p5.esp
   SAY: Outdated. Update to latest version.
-  TAG: {{BASH: Sound}}
+  TAG: {{BASH: Graphics, Sound}}
 Duke Patrick's magic you can believe in 5.esp
   SAY: Outdated. Update to latest version.
-  TAG: {{BASH: Sound}}
+  TAG: {{BASH: Graphics, Sound}}
 Duke Patricks - Magic you can believe in.esp
-  TAG: {{BASH: Sound}}
+  TAG: {{BASH: Graphics, Sound}}
 
 a4sEWVE_Full.esp
   TAG: {{BASH: Graphics, NoMerge}}
@@ -21089,16 +21100,24 @@ BNewShockBoltEffects20.esp
 BNewShockFunnelEffects20.esp
 BNewShockEffects.esp
 Detect Life Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Shader [New].esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Blue Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Cyan Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Green Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Red Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Detect Life Yellow Shader.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 DS Flaming Arrows.esp
 EvenLessGreenLight.esp
 HVH_LifeDetect.esp
 Lem - Lighter Fire Effect.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Li-Glassphials.esp
 LifeDetect Shader.esp
 Life Detected - Aura - Huge - 1.esp
@@ -21270,14 +21289,23 @@ lumi_enchantments_subtle.esp
 BubbleFx.esp
   SAY: Most likely incompatible with Supreme Magicka.
 GW71_Life_Detect.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Alt LifeDetected.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 HeatVision.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Magic Projectile Variants.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 Morrowind Enchantment Shaders.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 New Frost Damage cloud3.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 New Disintegration Effect.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 New_NightEye_Toggle.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 _auto_night-eye.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 QTdof.esp
 omg-dynamicDoF.esp
 omg-staticDoF.esp

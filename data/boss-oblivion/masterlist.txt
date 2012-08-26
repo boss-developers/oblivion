@@ -42,8 +42,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 // Upgrade message for 1.7+ users:
   IF VERSION("BOSS", "2.1.0.0", <) GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
-// Other global messages
-IFNOT ("OBSE") && IF (r".+\.dll") GLOBAL WARN: OBSE plugin(s) are installed but OBSE is not. See OBSE download page: "http://obse.silverlock.org".
+
 
 BEGINGROUP: ESMs
 //----
@@ -713,7 +712,7 @@ Bow_Reach_Fix.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 ENDGROUP: Vanilla fixes
 
-IF FILE("OblivionMsg.esp") && IF ("Unofficial Oblivion Patch.esp") MOD: DLCShiveringIsles.esp
+IF FILE("OblivionMsg.esp") MOD: DLCShiveringIsles.esp
 //Need to load here for Russian GOTY to allow UOP to make its quest fixes. See infoRUS ("http://u.to/0rwuAQ").
   IF CHECKSUM("DLCShiveringIsles.esp", DAF51407) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -8049,15 +8048,15 @@ MMM-Cobl.esp
 
 EVE_StockEquipmentReplacer4FCOM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($OOO) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") && IFNOT ($FCOM) SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
+  SAY: For FCOM only, do not use with OOO/MMM or Eve_Stockequipmentreplacer.esp.
 EVE_StockEquipmentReplacer for OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($FCOM) || IF ($MMM) || IF ("EVE_stockequipmentreplacer.esp") SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
+  SAY: For OOO, do not use with MMM/FCOM or EVE_stockequipmentreplacer.esp.
 HGEC_special_armor_repl_for_OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
 EVE_StockEquipmentReplacer4MMM.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  IF ($FCOM) || IF ($OOO) || IF ("EVE_stockequipmentreplacer.esp") SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
+  SAY: For MMM, do not use with OOO/FCOM or EVE_stockequipmentreplacer.esp
 
 Diverse Imperial Armor v1.1.esp
   INC: MMM/FCOM use Diverse Guard Armor.esp instead for MMM/MMMForFrans (merged in MMMforOOO) or use Diverse Guard Unity for FCOM.
@@ -11041,9 +11040,8 @@ SecretStorage.esp
 SenTineL's Legendary Weapons And Armors 1.0.esp
   SAY: Update to latest version, latest version doesn't have version number in name.
 SenTineL's Legendary Weapons And Armors.esp
-REGEX: SenTineL's Legendary Weapons And Armors_[AC][EU]\.esp
-  WARN: Rename to 'SenTineL's Legendary Weapons And Armors.esp' for correct work with other mods.
-  SAY: Use only one SenTineL's Legendary Weapons And Armors.esp
+SenTineL's Legendary Weapons And Armors_AE.esp
+SenTineL's Legendary Weapons And Armors_CE.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp

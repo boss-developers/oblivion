@@ -1753,6 +1753,7 @@ Bedrollsanyone DV.esp
 BEER! for Oblivion.esp
   IF VAR(OOO) SAY: Probably not compatible with OOO. Untested.
 BEER_Inebriation.esp
+Bellenia's Feathered Cap.esp
 Better Wine SI.esp
   IF VAR(OOO) SAY: Not compatible with OOO. OOO contains a similar mod.
 bgShaderStandAloneEV.esp
@@ -2094,6 +2095,7 @@ Fishing in Cyrodiil.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Flamering.esp
+FLY_creatures.esp
 Foxfire Mushrooms.esp
 FullGrass1.1.esp
 Fundies.esp
@@ -2690,6 +2692,7 @@ TeddyBackpacksAcc.esp
   TAG: {{BASH: Invent}}
 Teleport Arrows.esp
   TAG: {{BASH: Invent}}
+TenMillionGold.esp
 TESA Clutter Test Cell.esp
 The_Student_Mod.esp
 The White Stallions.esp
@@ -3127,12 +3130,14 @@ Spell Delete.esp
 Spell Delete And Item Remove.esp
 StatCleaner.esp
 Streamline.esp
-Streamline 3.1.esp
-Streamline_3.1.esp
-Streamline 3.0.esp
+Streamline 2.0.esp
   SAY: Outdated. Update to 3.1+.
 Streamline 2.1.esp
   SAY: Outdated. Update to 3.1+.
+Streamline 3.0.esp
+  SAY: Outdated. Update to 3.1+.
+Streamline 3.1.esp
+Streamline_3.1.esp
 streamline.311.esp
 3 Alternative Stories.esp
 Synchronized Date and Time.esp
@@ -3485,6 +3490,7 @@ BEGINGROUP: Items #
 1SBLethalMajestyWeapons.esp
 1SnowCamo.esp
 1RockCamo.esp
+1TacticalArrows.esp
 1ForestCamo.esp
 1masamune.esp
 1scorpionshield.esp
@@ -3525,6 +3531,7 @@ Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
 Adventurer armors.esp
 AHIRUs_Glasses_v1.esp
+Aion_Stormwing_Weaponry.esp
 Aishabreak.esp
 ak_testhighheels.esp
 AK-47GR2.esp
@@ -3551,6 +3558,8 @@ Allods_Weapons_Pack.esp
 Alluring Books.esp
   TAG: {{BASH: Graphics}}
 AltEnchAndSpell.esp
+AlteredPistols!.esp
+  IF FILE("Pistols!.esp") INC: The original Pistols! plugin.
 Alternative_Light_Armors-3931.esp
 AmmonJerroArmor.esp
 ArmorHeroOfKvatch.esp
@@ -4312,6 +4321,7 @@ BEGINGROUP: Items G
 Galadhrim_DV.esp
 Galadhrim_EV.esp
 Galadhrim_RU.esp
+GandalfStaff.esp
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
 Garaks Seelensteinbeutel + beute.esp
@@ -4354,6 +4364,7 @@ Gizmodian - Vicious Heart.SoB.esp
 Gizmodian-VeraxanimaOblivion.esp
 GizmodianNetherweaveRobe.esp
 GizmodianNetherweaveRobe DV.esp
+Gizmodian - Real Silver Swords.esp
 GizmodianSothaDagger.esp
 GladiatorArmor.esp
 GLoF_Potion_of_Vampirism.esp
@@ -4991,6 +5002,7 @@ PhoenixWithoutArmorflame.esp
 PinkGlassArmor.esp
   TAG: {{BASH: Graphics}}
 Piratelords Recharging Enchantments.esp
+Pistols!.esp
 pizz_NINJA_outfit.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
@@ -5624,6 +5636,7 @@ wands.esp
   IF CHECKSUM("wands.esp", BA110E01) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wands!.esp
 WarriorBandages_V2.0.esp
+  IF CHECKSUM("WarriorBandages_V2.0.esp", D40875F2) DIRTY: 9 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WarriorBandages_OOO_V2.0.esp
 WarriorPriestSet.esp
 Warriors Items.esp
@@ -6351,6 +6364,7 @@ Underwear TGND.esp
 
 Vampiress Armors For Exnem Body.esp
 Velveteen_Armor_HGEC.esp
+Velveteen For DM.esp
 VGA_SaintSeducer.esp
 Volcano in the Twilight.esp
 
@@ -7185,6 +7199,9 @@ Mart's Monster Mod for Fran's nvNPC.esp
 Oscuro's Combat Behavior.esp
   SAY: Obsolete. Remove this and install FCOM.
 ENDGROUP: FranOOOMMM
+
+Mart's Monster Mod for FCOM.esp
+  IF VAR(FCOM) ERROR: Outdated. Install FCOM version 1.0 or later.
 
 IF VAR(FCOM) MOD: Mart's Monster Mod - Fran's Leveled Quests.esp
   ERROR: Delete. Already integrated into FCOM.
@@ -9167,6 +9184,7 @@ Bullock.esp
   IF CHECKSUM("Bullock.esp", 2B5E16CB) DIRTY: 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BurySvenjaSnowSong.esp
 Butcher.esp
+  IF CHECKSUM("Butcher.esp", 3D158713) DIRTY: 11 ITM, 38 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Buy A House Shivering Isles.esp
 Buyabletavern.esp
 BXX_Mines.esp
@@ -11305,6 +11323,8 @@ templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+TheAltadoonPuzzle.esp
+  IF CHECKSUM("TheAltadoonPuzzle.esp", 32240C7A) DIRTY: 25 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheHole.esp
   IF CHECKSUM("TheHole.esp", D8CE5984) DIRTY: 57 ITM, 165 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheHolePt2.esp
@@ -11489,6 +11509,7 @@ TolawaylAyleidCity_Quest.esp
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
+  IF CHECKSUM("Tomb of the Unknown Knight.esp", 52629A3F) DIRTY: 11 ITM, 46 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide".
 Tombstones-beta.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
@@ -13499,6 +13520,7 @@ SnowLineLodge-Snowdale patch.esp
 GatesToAesgaardEp2-Snowdale patch.esp
 Snowdale - Fighters Guild Quests Patch.esp
 MTCExpandedVillages-UniqueLandscapes patch.esp
+RiseOfASamurai-Snowdale patch.esp
 
 xulCliffsOfAnvil.esp
   IF CHECKSUM("xulCliffsOfAnvil.esp", E9AEB1BF) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14351,7 +14373,7 @@ Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
 Better dungeons.esp
-  TAG: {{BASH: C.Water}}
+  TAG: {{BASH: C.Light, C.Water}}
   IF CHECKSUM("Better dungeons.esp", 4908CB39) DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Better dungeons.esp", ADC761D9) DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Betterleveledlists.esp
@@ -15360,6 +15382,7 @@ BUotcave.esp
 Defloration.esp
 zzBreakUndiesAddonMotionChanger.esp
 TamagoPlayerHUD.esp
+TamagoBadEnd.esp
 TamagoBreak.esp
 TamagoNews.esp
 TamagoShop.esp
@@ -15384,6 +15407,7 @@ SMVtoyCross.esp
 Lovers.esp
 Lovers3dorgasm.esp
 LoversAdultYield.esp
+LoversCalm.esp
 Lovers_ChildRaceType.esp
 Lovers_ChildRaceNPC.esp
 LoversChildDataBase.esp
@@ -15398,7 +15422,9 @@ LoversClubCats.esp
 LoversClubCatsSx.esp
 LoversFSE.esp
 LoversDRader.esp
+LoversHooker.esp
 LoversHudInformation.esp
+LoversProstitute.esp
 LoversRapeman.esp
 LoversBCMSound.esp
 LoversVoice.esp
@@ -15419,6 +15445,7 @@ LoversAdultPlayPlus.esp
 LoversAdultPlayPlusforSSP.esp
   INC: LoversAdultPlayPlus.esp
   INC: LoversSpringSale.esp
+LoversAdultPlayPlusforSSP_HookerPatch.esp
 LoversVoiceSSPplus.esp
 LoversTachiCat.esp
   SAY: Obsolete. Use LoversTachiCat2.esp instead.
@@ -15432,6 +15459,15 @@ LoversJealousy.esp
 LoversSlavePlay.esp
 ZMCPlayerSlave.esp
 LoversBed.esp
+LoversBedJapan.esp
+LoversBedNonStop.esp
+LoversBedNonStopJapan.esp
+LoversBiko.esp
+LoversDarkLessons.esp
+LoversHarvest.esp
+LoversHiyokoShooter.esp
+LoversImmoralGuards.esp
+LoversImmoralSisters.esp
 LoversLandE.esp
 LoversLandE_AddRandomDialogues.esp
   REQ: LoversLandE.esp
@@ -15493,12 +15529,16 @@ LoversStopCombat.esp
   IF VAR(FCOM) ERROR: Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev38 and newer.
 LoversBackup.esp
 LoversBackup2.esp
+LoversSkirtFlipper.esp
 LoversStopCombatEx.esp
+LoversSTVictims.esp
 LoversSpermSplashEx.esp
 LoversEscapeRapeVPlayer.esp
 LoversRapeSlave.esp
+LoversRapeStruggle.esp
 LoversMagic.esp
 LoversMB.esp
+LoversMB2.esp
 LoversLight.esp
 LoversTrueCrime.esp
 LoversTrueCrimeEx.esp
@@ -15527,6 +15567,7 @@ Eroblivion.esp
 Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
+Nudeshy X.esp
 Nude Spell.esp
 SMYB Full.esp
 SMYB Female Only.esp
@@ -15848,6 +15889,7 @@ TML_WieldableTorches_v10_Plug-in_LIGHT_dltic16b.esp
 tona_underwear.esp
 Tona Compilation.esp
 TorchesBlowOut.esp
+Traditional RPG Looting.esp
 True Spellbreaker.esp
 TurretDisable.esp
 TweakAthleticsNoSpeed.esp
@@ -16619,6 +16661,7 @@ MadCompanionshipSpells.esp
 MCS extension.esp
 Madgod Powers.esp
 Magic Effects OBSE Tweaks.esp
+magicfgodp.esp
 Magus Lost Alteration Spells.esp
 Mark & Recall.esp
 Mark And Recall.esp
@@ -17197,6 +17240,7 @@ Enchantment and Spellmaking improvment - FCOM & SM.esp
 Enchantment Restore.esp
 EnchantingFreedomPlus.esp
 Energy - Runes.esp
+Feather_Enchanting_Fix-3754.esp
 FundamentEnchantingAddons.esp
 Better Weapon Enchantments.esp
 Enchantment Master.esp
@@ -18672,6 +18716,8 @@ lady_of_the_lake.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lima.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+L'Nobody.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lop-ears Elf_mini.esp
 Lorebased Races.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
@@ -19005,6 +19051,8 @@ Sun_&_Night_Elves.esp
 Vampire Race Reloaded.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
   SAY: May contain wild edits to vanilla vampire attributes.
+Vampire Race Reloaded Patch by Xtudo.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Vexend Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Voldemort.esp
@@ -19268,6 +19316,8 @@ CM Partners Extra NPCs.esp
 CM Partners Extra NPCs Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 CM Partners Auto Loot add-on.esp
+PB_CMHorses.esp
+PB_ManyHorses.esp
 amQuests1.esp
 amQuests2.esp
 amQuests.esp

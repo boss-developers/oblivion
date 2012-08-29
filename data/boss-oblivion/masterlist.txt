@@ -351,6 +351,7 @@ RealisticLeveling.esm
 VipCxj_AirSystem.esm
 Knights - Revelation.esm
 Cyrodiil Economic Overhaul - Main.esm
+VampireFaceBugFix.esm
 ENDGROUP: ESMs
 
 BEGINGROUP: Earliest mods
@@ -435,6 +436,9 @@ BEGINGROUP: NPC face mods
 Better Looking NPC.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 
+EURN.esp
+  TAG: {{BASH: NpcFaces, NoMerge}}
+  
 xeoex.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, NPC.Race, R.Ears, R.Head, R.Mouth, R.Teeth}}
 xeoex Vwalk.esp
@@ -2340,6 +2344,8 @@ New Potions.esp
 New_Potions_Fixed_Icons-25822.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Never die.esp
+NOAH.esp
+NOAH - Remove Cloud Effect.esp
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
@@ -2378,6 +2384,7 @@ BEGINGROUP: Base P
 Packhorses v1.esp
 paladin.esp
 Paradisebird_2.esp
+PassengerShips_BetterCities.esp
 Passion Fruit.esp
   TAG: {{BASH: Graphics}}
 passive_horses.esp
@@ -3685,6 +3692,7 @@ AW_LeatherArmor.esp
 Arkann's Precious Shields.esp
 Armour of Hades.esp
 Aspiria.esp
+Aspiria_EV.esp
 Assassin_Blade.esp
 AssassinBow.esp
 AyleidGlass.esp
@@ -4703,6 +4711,7 @@ LegionnaireArmor.esp
 leia.esp
 LEM Retextured Glass Weapons.esp
 Lera and Pizz ShiningWind.esp
+Lera's Clothes for Men.esp
 Lera's PirateSet.esp
 Leveled Weapons.esp
 Leviathan Daikatana.esp
@@ -5291,6 +5300,7 @@ SpeechcraftEnhanced.esp
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
 SnakeArmor.esp
+Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
 SOLS CLUTTER MERGE.esp
 SOLS CLUTTER_B MERGE.esp
@@ -6130,6 +6140,7 @@ Imperial_Palace_Armor-2474.esp
 IndigoArmor.esp
 Ironless Skirt.esp
 ishmaelselvishmithril.esp
+IV Dress.esp
 
 Jade Armor v1.0.esp
 javbs.esp
@@ -8318,9 +8329,9 @@ CrystalCalendar.esp
 CrystalCalendarAlternateEdition.esp
 
 Fran's Ore Refiner - SI only.esp
-  SAY: Use only if you have SI, use only one Fran's Ore Refiner esp.
+  SAY: Use only if you have SI.
 Fran's Ore Refiner.esp
-  SAY: Use only if you do not have SI, use only one Fran's Ore Refiner esp.
+  SAY: Use only if you are using "Francesco's Optional Leveled Quests.esp" and do not have SI.
 Friendly Fire for Frans.esp
 
 GrayFoxOutfit.esp
@@ -8435,6 +8446,7 @@ Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
 Oblivifall - Something's Not Right.esp
+  IF CHECKSUM("Oblivifall - Something's Not Right.esp", 274BA125) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Roleplaying_Expansion.esp
   INC: 'Mysteries Of Atrene Camp.esp', 'Kragenir's Death Quest.esp' and 'xulCheydinhalFalls.esp'.
@@ -12862,6 +12874,9 @@ ENDGROUP: Tamriel Worldspace Modding Project
 BEGINGROUP: Towns and Villages
 //-------------------------------
 
+ACharmingTown.esp
+  IF CHECKSUM("ACharmingTown.esp", 10A72A64) DIRTY: 8 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+
 Billsburg.esp
 English Billsburg v1.5.esp
 English Billsburg_Rens_Hair_1.51.esp
@@ -14671,6 +14686,7 @@ Elys Invest More.esp
 em_extrabedLeyaw.esp
 em_extrabedChey.esp
 em_extrabedBravil.esp
+Emporer's Armor.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Enhanced Quest Items.esp
@@ -14852,6 +14868,7 @@ Horadric Cube.SI.esp
 Horadric Cube.gem.swap.esp
 Horadric Cube.gem.override.esp
 Horadric Cube.gem.lvlist.override.esp
+HTBBeautifullOblivion.esp
 HUDcompanions.esp
 Hurt Me Traps.esp
 Hurt me Bad Traps.esp
@@ -15382,6 +15399,7 @@ BUotcave.esp
 Defloration.esp
 zzBreakUndiesAddonMotionChanger.esp
 TamagoPlayerHUD.esp
+TamagoPlayerHUDkil.esp
 TamagoBadEnd.esp
 TamagoBreak.esp
 TamagoNews.esp
@@ -15422,7 +15440,6 @@ LoversClubCats.esp
 LoversClubCatsSx.esp
 LoversFSE.esp
 LoversDRader.esp
-LoversHooker.esp
 LoversHudInformation.esp
 LoversProstitute.esp
 LoversRapeman.esp
@@ -15445,6 +15462,7 @@ LoversAdultPlayPlus.esp
 LoversAdultPlayPlusforSSP.esp
   INC: LoversAdultPlayPlus.esp
   INC: LoversSpringSale.esp
+LoversHooker.esp
 LoversAdultPlayPlusforSSP_HookerPatch.esp
 LoversVoiceSSPplus.esp
 LoversTachiCat.esp
@@ -17375,6 +17393,7 @@ DD_ProximitySneakPenalty.esp
 Toaster's Brutal Stealth.esp
 wolfiePolishingCloth v1.00.esp
 
+D2k-FasterLockpicking.esp
 ZumbsLockpickingMod.esp
 ZumbsLockpickingMod - OBSE.esp
 ZumbsLockpickingMod - Hide Difficulty Addon.esp
@@ -19253,6 +19272,8 @@ BEGINGROUP: Companions
 //
 //Mods with custom hair and eyes need tags.
 
+A Crudius Companion Orc.esp
+
 shinyFollowMe_ru.esp
 
 TSS Custom Companion  Template.esp
@@ -19758,6 +19779,7 @@ Rinn.esp
   TAG: {{BASH: Hair, Eyes}}
 Saerileth.esp
   TAG: {{BASH: Hair, Eyes}}
+SaerilethTweaks.esp
 sexycompanion.esp
 sexycompanion Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -19773,6 +19795,7 @@ Sonia Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 STEREOTYPES.esp
 Sephiroth Companion.esp
+SylarCMPartnerESP.esp
 Tyrael Companion.esp
   IF CHECKSUM("Tyrael Companion.esp", 3BE2DB53) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tamara.esp
@@ -19795,6 +19818,8 @@ ZoeNeeshka.esp
 DAAanila.esp
   TAG: {{BASH: Hair, Eyes}}
 DAAltair.esp
+  TAG: {{BASH: Hair, Eyes}}
+DACog-Rein.esp
   TAG: {{BASH: Hair, Eyes}}
 DAJynx.esp
   REQ: OBSE.

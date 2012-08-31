@@ -4153,6 +4153,8 @@ Dread Knight Armor Addon.esp
 Drake Knight Complete.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
+Dress WBBW DMRA+.esp
+  TAG: {{BASH: Invent}}
 Nico's Dreadweave Armor_light.esp
 Nicos Dreadweave Armor_Light.esp
 Nico's Dreadweave Armor_heavy.esp
@@ -5494,6 +5496,8 @@ The Sword of Cyrodiil.esp
 The Sword of Skyrim.esp
 The Sword of Truth.esp
 ThiefArmor.esp
+Thori'Dal, The Stars' Furyl - Legends of Azeroth Armory.esp
+  IF CHECKSUM("Thori'Dal, The Stars' Furyl - Legends of Azeroth Armory.esp", D50A68CC) DIRTY: 8 ITM, 0 UDR records. Needs "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide TES4Edit cleaning".
 Throne Armor.esp
 Throwable kunai.esp
 ThrowableKunai_1C.esp
@@ -6089,6 +6093,7 @@ ExnemZorlackArmory.esp
 ExWearUndies.esp
 
 Fairy Wings Darkness.esp
+  TAG: {{BASH: Invent}}
 FB_DC_Mega_Pack_OMOD_BC1.esp
 FB_DC_Mega_Pack_OMOD_BC1_H.esp
 Fetish Rogue.esp
@@ -8331,7 +8336,8 @@ CrystalCalendarAlternateEdition.esp
 Fran's Ore Refiner - SI only.esp
   SAY: Use only if you have SI.
 Fran's Ore Refiner.esp
-  SAY: Use only if you are using "Francesco's Optional Leveled Quests.esp" and do not have SI.
+  IF CHECKSUM("Fran's Ore Refiner.esp", ABE6443D) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  SAY: Use only if you are using "Francesco's Optional Leveled Quests.esp".
 Friendly Fire for Frans.esp
 
 GrayFoxOutfit.esp
@@ -8730,6 +8736,7 @@ MoreTapestry.esp
 ADWMeadowHall.esp
 Adult_BookStore.esp
 adTreeHome.esp
+  IF CHECKSUM("adTreeHome.esp", EDF06E4D) DIRTY: 10 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 adTreeHomeToilet for BPH.esp
   REQ: Enchanted Druid Treehome and Basic Personal Hygiene.
 SYS Patch for Enchanted Druid Treehome.esp
@@ -8742,6 +8749,7 @@ AlchemistsCave.esp
 AlchemistsCave-COBL.esp
   IF CHECKSUM("AlchemistsCave-COBL.esp", 5838B616) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 allinonebasement.esp
+  IF CHECKSUM("allinonebasement.esp", C5F94AF4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 allinonebasement_COBLnoCM.esp
   SAY: Use only one allinonebasement plugin.
   IF CHECKSUM("allinonebasement_COBLnoCM.esp", A7C0E846) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12975,6 +12983,7 @@ Reedstand Vwalk.esp
 runestone.esp
 
 SacredOak_Settlement.esp
+  IF CHECKSUM("SacredOak_Settlement.esp", 1957892F) DIRTY: 16 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shezrie's Villages.esp
   SAY: Old version. Update to Shezrie's Towns and remove this.
 ShezriesVillagesCOBL.esp
@@ -14522,6 +14531,8 @@ Cliff's Shacks Basements-Radiant AI.esp
 Cliff's Daggerfall Uriel Septim and Ocato.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 CloudRulerTrainingRoom.esp
+Coffinbag's Better Potions.esp
+  TAG: {{BASH: Graphics}}
 Cobl Hmm.esp
 Cobl Bookplacement.esp
 Colored Lower Class Beds Resource.esp

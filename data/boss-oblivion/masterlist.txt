@@ -2251,6 +2251,7 @@ ENDGROUP: Base L
 BEGINGROUP: Base M
 
 MageGuild_simbol.esp
+  TAG: {{BASH: Graphics}}
 Mage Guild Sorters v3.esp
   REQ: COBL.
 Mage_Guild_Teleport v1.1.esp
@@ -2713,6 +2714,7 @@ Timescale Options.esp
 TimeControl.esp
 ToggleCrosshair.esp
 ToggleShaders.esp
+Toggle Shield and Quiver v1.1.esp
 Torch.esp
 Torch Arrows.esp
 Trainer_Book.esp
@@ -3526,6 +3528,7 @@ Action_Figures_Series1.esp
 Action_Figures_Series2.esp
 ACUP.esp
 adelina.esp
+AdeptSorceress2.esp
 Adonnays Classical Weaponry.esp
 Adonnays Classical WeaponryRU.esp
 Adonnays Klassische Waffen.esp
@@ -4202,6 +4205,7 @@ dezichainrobe.esp
 DH13 Recolor Hentai Cloths.esp
 DH13 Battle China Dress.esp
 Dungeon Explorer.esp
+Dynasty Armor A- and B-Cup.esp
 ENDGROUP: Items D
 
 BEGINGROUP: Items E
@@ -4799,6 +4803,7 @@ Morrigan Armor Set v1_0.esp
 Morrigan Swords Axes and Shield by Jojjo v1_1.esp
   IF CHECKSUM("Morrigan Swords Axes and Shield by Jojjo v1_1.esp", AA6DD529) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MotherSword.esp
+MotoAkaviriMaster-DualWieldSet.esp
 LACR_MoonshadowBlade_V1.esp
 M.O.E. - New Staffs, Blight and Ashstorms.esp
 M.O.E. - Playable Scythe.esp
@@ -5041,6 +5046,7 @@ PTArtifacts.esp
 Phitts-Artifacts_DV.esp
 PTRepairKits.esp
 PureSteelBlade.esp
+Ppurplerecolor.esp
 PythonHolyhg.esp
 ENDGROUP: Items P
 
@@ -6051,6 +6057,8 @@ DMRA BBB Better Cities.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Emperor Robe.esp
   TAG: {{BASH: Graphics}}
+DMRA BBB Skimpy Shivering Royalty.
+  TAG: {{BASH: Graphics}}
 DMRA Stock Clothing Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -6277,6 +6285,7 @@ Slof's Beefcake Armors.esp
 Slof's Brighter Arena Raiments.esp
   TAG: {{BASH: Graphics}}
 Slofs Elaborate Robe Exnemized - EV.esp
+Sorceress Edea Dress Costume.esp
 Sorceressofthestorm.esp
 SPB Blue Dress.esp
 SPB Light Armor 2.esp
@@ -6292,6 +6301,7 @@ StockClothingArmorHGECFighterD.esp
 Sweet six.esp
 Swim Suit Retextured By DH13 Part 3.esp
 
+Tactical Wears.esp
 TentacleWitches.esp
 TFF_Armor_Base.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
@@ -6333,6 +6343,7 @@ tona_simple_dress-armor.esp
 TrawlolsCorinthianGladiator.esp
 Triss Armor Retextured.esp
 
+UAP.esp
 UFF_1SBBewitching.esp
 UFF Amazon Armor.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
@@ -6381,6 +6392,7 @@ Underwear TGND.esp
 Vampiress Armors For Exnem Body.esp
 Velveteen_Armor_HGEC.esp
 Velveteen For DM.esp
+Ves Armor plus Recolours.esp
 VGA_SaintSeducer.esp
 Volcano in the Twilight.esp
 
@@ -8401,7 +8413,8 @@ BEGINGROUP: Morroblivion
 Chairs_Stools_Benches.esp
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
   SAY: Obsolete. Upgrade to version 7+
-Morroblivion_Chargen_And_Transport_Mod_v7.esp
+Morroblivion_Chargen_And_Transport_Mod_v7.
+MorroblivionPortaltoVvardenfell.esp
 Morroblivion COBL.esp
 Morroblivion Conversation.esp
 Morroblivion Dungeon Interior Music.esp
@@ -9967,6 +9980,7 @@ BEGINGROUP: Quests I
 
 IBOC1.6BETA.esp
 IC Bridge + Tower + Cyrodiil Streetlight Mod v1.0.esp
+ICDBSanctuary.esp
 IC_House_1_0.esp
 IC Island Estate v1.1.esp
 ICAU_Mages_bridge.esp
@@ -12884,6 +12898,8 @@ BEGINGROUP: Towns and Villages
 
 ACharmingTown.esp
   IF CHECKSUM("ACharmingTown.esp", 10A72A64) DIRTY: 8 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ACharmingTown.esp", 2B16C44E) DIRTY: 8 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ACharmingTown.esp", A05C4B1D) DIRTY: 6 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Billsburg.esp
 English Billsburg v1.5.esp
@@ -13328,6 +13344,7 @@ OldCrowInn-AncientRedwoods patch.esp
   SAY: Obsolete if using Ancient Redwoods 1.6 or higher.
 PineLodge2-AncientRedwoods patch.esp
 ROC+Ancient Redwoods.esp
+MTCExpandedVillages-AncientRedwoods patch.esp
 
 xulCloudtopMountains.esp
   IF CHECKSUM("xulCloudtopMountains.esp", FAB16618) DIRTY: 0 ITM, 4984 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13543,6 +13560,7 @@ RealSwordsNord-Snowdale patch.esp
 SnowLineLodge-Snowdale patch.esp
 GatesToAesgaardEp2-Snowdale patch.esp
 Snowdale - Fighters Guild Quests Patch.esp
+MTCExpandedVillages-Snowdale patch.esp
 MTCExpandedVillages-UniqueLandscapes patch.esp
 RiseOfASamurai-Snowdale patch.esp
 
@@ -14087,6 +14105,7 @@ Sounds of Cyrodiil - OC Reborn Patch.esp
 RST+OCC Patch.esp
 OCC+DBC Patch.esp
 OCR+DBC Patch.esp
+OCR-TAC Patch.esp
 
 SB Open Cities Add-on - Top of the Tower Mod v2.0.esp
 SB Open Cities Add-on - Lynges Top Of The World v1.1.esp
@@ -14291,6 +14310,7 @@ Addendum - Diabloblivion.esp
   IF CHECKSUM("Addendum - Diabloblivion.esp", D6814DD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Adventure's memo.esp
 Akaviri__IMPROVED-6787.esp
+AleswellQuickFix.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
 Amulets and Rings for everybody.esp
@@ -14404,6 +14424,7 @@ Betterleveledlists.esp
 Better Loot v1.0.esp
   TAG: {{BASH: Delev}}
   IF VAR(OOO) SAY: Will totally FUBAR OOO's item scaling.
+BetterPirates.esp
 Better Post Faction Rewards.esp
 Better Potions and Poisons.esp
   TAG: {{BASH: Graphics}}
@@ -16500,6 +16521,7 @@ Viampirism Overhaul 3.esp
 Vampisism Overhaul 2.esp
   SAY: Older version. Consider using version 3 or later.
 Vampirism2.0.esp
+Vampirism Reinfecting.esp
 Drokk's Vampire Mod.esp
   TAG: {{BASH: Scripts, Graphics}}
 Circ Vamp Aesthetics.esp
@@ -18270,6 +18292,10 @@ walklikesheo.esp
 Woman's Move.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Woman's Move - Animation Replacer.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+Woman's Move - Walking animation Replacer.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+Woman's Move - Running Animation Replacer.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 NewAnimation.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -20069,6 +20095,7 @@ BulkyNord.esp
   TAG: {{BASH: Body-Size-M, Body-Size-F}}
 BulkyOrcs.esp
   TAG: {{BASH: Body-Size-M, Body-Size-F}}
+Cuter Khajiit Faces V01.esp
 EVE_KhajiitFix.esp
   TAG: {{BASH: Body-F, Body-Size-F}}
 Khajiit Fix.esp

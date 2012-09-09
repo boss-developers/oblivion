@@ -3517,6 +3517,8 @@ A Study of the Shemayle Book Series.esp
 A89ES4_MageoftheArena.esp
 AAbuiesdaqun.esp
 ABC.esp
+ACCR5055.esp
+ACCW50.esp
 AC_SarumanStaff.esp
 AC Stock Armor.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
@@ -3541,6 +3543,7 @@ Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
 Adventurer armors.esp
 AHIRUs_Glasses_v1.esp
+AionRedResearcher.esp
 Aion_Stormwing_Weaponry.esp
 Aishabreak.esp
 ak_testhighheels.esp
@@ -3915,6 +3918,7 @@ c_dragondagger.esp
 Caliburn.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
+CaiXianghua.esp
 CapesandCloaks.esp
 Captain_Molly_HGEC.esp
 Cardigan and One piece.esp
@@ -4016,6 +4020,8 @@ chainmailsdezi.esp
 CasquetteCamisoleX117.esp
 Cute Lily Armor.esp
 Cute Summer Wears.esp
+CWF43.esp
+CWF50.esp
 ENDGROUP: Items C
 
 BEGINGROUP: Items D
@@ -4089,6 +4095,7 @@ DarkSaintHGEC.esp
 darkdwemerXZAR.esp
 Dragonbone Cuirass.esp
 DragonCword.esp
+DragoonSet.esp
 DrakeGuardianEquipment.esp
 DaedricCrescentBlade.esp
 Dark Glass Set.esp
@@ -4482,6 +4489,7 @@ Hentai Compilation.esp
 Hentai_Compilation.esp
 Hentai_Lily_Angel'sWing.esp
 Hentai_LilyClothes.esp
+HentaiNightmareArmor.esp
 HentaiSchoolGirlCollection.esp
 HentaiSeraphimArmour.esp
 Hentai_Seraphim_Blade.esp
@@ -4545,6 +4553,7 @@ Insanity's Blue Glass Armor.esp
 Insanity's Scarves.esp
 IP_Magerobes.esp
   TAG: {{BASH: Graphics}}
+IreneLoC.esp
 IrohaClothes.esp
 Iron Maiden Set.esp
 Iron Maiden - Jo's Rest.esp
@@ -4599,6 +4608,7 @@ JPainweaver.esp
 JSSoulCrystals_01.esp
 JTP_GlassWeaponsRecolorsGREEN1.esp
 JTP_SkeletonHammer.esp
+JutoArmor.esp
 JWolfBlade.esp
 jy-Akaviri Helmets.esp
 ENDGROUP: Items J
@@ -5180,6 +5190,7 @@ SDHeartbreakerPNI.esp
 SedaArmor.esp
 Seductress Armour.esp
 Seirei_No_Hitokiri.esp
+Selvaria.esp
 semi_precious_stones.esp
 SentientWeapon.esp
   IF CHECKSUM("SentientWeapon.esp", A4E3D11B) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5359,6 +5370,7 @@ Stained Glass Equipment.esp
 Star Boi's Keyblades In-Game.esp
 Starsouls.esp
 StarX Witcher Gear.esp
+StellaLoC.esp
 stfClothesR v1.esp
 SG001_BunnyGirl.esp
 SG001_BunnyGirlPNI.esp
@@ -5439,6 +5451,7 @@ talon.esp
 TadEC_Underwear01.esp
 Tail_Amulet_Converter.esp
   REQ: OBSE v11 +.
+Talim.esp
 Talon of Akatosh Claymore.esp
 Talon of Akatosh Claymore v1.1 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
@@ -6082,6 +6095,7 @@ Dragon Princess.esp
 Double Crimson HGEC.esp
 
 EC_BlackDeathWarrRetex.esp
+Edhildils Seductive Poison Armors.esp
 Elegance_HGEC.esp
 Elven Armours.esp
 Emerald armor for Exnem body.esp
@@ -6227,6 +6241,7 @@ R18PN - Bikini Re-Textured.esp
 R18PN - Bs Bondage.esp
 R18PN - Collection.esp
 R18PN - Dancer's Dress.esp
+R18PN - Der tod Armor.esp
 R18PN - Eisen Platte Armor.esp
 R18PN - Fiona Armor.esp
 R18PN - FuruFuru Armor.esp
@@ -9332,6 +9347,7 @@ Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
   IF CHECKSUM("Clamshell_Cottage_v1.5.esp", 021CF774) DIRTY: 0 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Clamshell_Cottage_v1.5_COBL.esp
+CleanedIcMd.esp
 ArCloudRulerArmoryExtended.esp
 Cliff Cottage.esp
 Cloudruler Guest Quarters.esp
@@ -9420,6 +9436,7 @@ ENDGROUP: Quests C
 BEGINGROUP: Quests D
 
 Daedric Armor of Darkness.esp
+  IF CHECKSUM("Daedric Armor of Darkness.esp", E17A73EA) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Daedra's Bane.esp
 Daedric Quests Unleveled.esp
 Daemonengruft.esp
@@ -9884,6 +9901,7 @@ HauntedHouse.esp
   IF CHECKSUM("HauntedHouse.esp", 2F2F9619) DIRTY: 38 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
+HAZBravilFestival.esp
 hchouse408.esp
 HeavenlyIslands.esp
 Hedge Home.esp
@@ -10694,6 +10712,7 @@ NewMGQuests.esp
   IF CHECKSUM("NewMGQuests.esp", DF4CDC4D) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NibenayFortress.esp
 Niflheim.esp
+  IF CHECKSUM("Niflheim.esp", 9AC2E9E2) DIRTY: 2 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Night Shops of Cyrodiil.esp
 Night Vendors.esp
 Nightmist Manor.esp
@@ -11076,6 +11095,8 @@ School Partners.esp
 Skooma Lab.esp
 Scribe Supplies.esp
 Scorched Earth.esp
+SC-TrialsofTheNine.esp
+  IF CHECKSUM("SC-TrialsofTheNine.esp", 955F7718) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Seawatch Abode.esp
   SAY: Use 'SeawatchAbode-LostCoast patch.esp' compatibility patch if using Unique Landscapes Lost Coast.
 SecludedGladeCottage.esp
@@ -11357,6 +11378,7 @@ templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+Terra.esp
 TheAltadoonPuzzle.esp
   IF CHECKSUM("TheAltadoonPuzzle.esp", 32240C7A) DIRTY: 25 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheHole.esp
@@ -11456,6 +11478,7 @@ The Power of the North.esp
 The Retreat.esp
 The Retreat-AN compatible.esp
   TAG: {{BASH: C.Climate}}
+  IF CHECKSUM("The Retreat-AN compatible.esp", 4D401743) DIRTY: 17 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheSiegeofMalat.esp
 The Siren's Deception.esp
 The Spirit Of The Wolf.esp
@@ -12459,6 +12482,7 @@ AFK_Weye - Oblivion XP Patch.esp
 Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
+AFKWeye_MTC_RRLRumarePatch.esp
 Weye_Armory1.esp
 
 House of Healing at Weye.esp
@@ -14373,6 +14397,7 @@ Auto Potion.esp
 Auto Potion Homebrew.esp
 Auto Repair.esp
 AutoRun.esp
+AutoTorch_1C.esp
 Auto Update Leveled Items And Spells.esp
 Axebane_Hunters25.esp
   IF FILE("Mart's Monster Mod - Hunting & Crafting.esp") SAY: May break MMM Hunting and Crafting. Not fully tested.
@@ -15516,6 +15541,7 @@ LoversBiko.esp
 LoversDarkLessons.esp
 LoversHarvest.esp
 LoversHiyokoShooter.esp
+LoversHypnosis.esp
 LoversImmoralGuards.esp
 LoversImmoralSisters.esp
 LoversLandE.esp
@@ -15564,6 +15590,7 @@ LoversBorn.esp
   REQ: Beautiful People 2ch-Ed.esm
   REQ: the meshes from 'DskRing' mods, but not the ESPs.
 LoversBrothel.esp
+LoversCrowningIsle.esp
 LoversFOV.esp
   IF VAR(FCOM) ERROR: Delete. Use newer version of Lovers with PK. Integrated into 1.3.1 Rev38 and newer.
 LoversHelpRapeVPlayer.esp
@@ -16631,6 +16658,7 @@ BasicInstinct.esp
 Better Scrolls.esp
 blink.esp
 BookOfMagic.esp
+BudongsNarcolepsySpell.esp
 CartographersUnite.esp
 CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
@@ -17933,6 +17961,7 @@ CLS-OldFriends-OBSE.esp
 RetroHealth.esp
 MagicBasedSkillProgression.esp
 SD Skill Diary.esp
+MagesGuildSkillRewards.esp
 MasterSkillLvlAdjustment.esp
 
 Governing Attributes.esp
@@ -18017,6 +18046,7 @@ SDR_ThievesArsenal_Patch.esp
 PureImmersion.esp
 piHealth5x.esp
 piHealthVanilla.esp
+plus5always.esp
 Immediate Character Generation.esp
 Automatic Spell Learning.esp
 NaturalMagicSkillsInceases_v2.0.esp
@@ -19420,6 +19450,7 @@ Xena Warrior Princess.esp
   TAG: {{BASH: Invent}}
 CM__Shalia.esp
 CM_Taria.esp
+cmAaricAanov.esp
 cmAbbeyAeryn.esp
 CM Alexander.esp
   TAG: {{BASH: Hair, NpcFaces}}
@@ -20713,6 +20744,7 @@ Better Imperial City - OMG Patch.esp
   SAY: Use only one Better *version* - OMG Patch.esp
 Better Imperial City - OMG.esp
   SAY: Use only one Better *version* - OMG Patch.esp
+Better Imperial City - Blood & Mud patch.esp
 Better Cities - Sexlivion_0.4a_Full_English_v1.esp
 Better Cities - Sexlivion.esp
 Better Cities - Stranded Light.esp
@@ -21032,6 +21064,7 @@ Universitum Arcanorum Vwalk.esp
 //The below needs to load after anything that changes cells (6,15) and (7,15) in the Tamriel worldspace.
 IC Palace Topper - Region Override.esp
 ENDGROUP: Post BC and OBC
+ENDGROUP: Better Cities
 
 BEGINGROUP: Message suppression/changing overrides
 //-----------------------------

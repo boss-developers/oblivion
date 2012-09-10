@@ -12692,7 +12692,6 @@ RimmenMMM.esp
 BeyondCyrodiil-Camps.esp
   IF CHECKSUM("BeyondCyrodiil-Camps.esp", B2C02B53) DIRTY: 224 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BeyondCyrodiil&Valenheightmap patch.esp
-Tales from Elsweyr Anequina.esp
 Valenwood_Anequina patch.esp
 Valenwood_Anequina_Patch.esp
 ElsweyrValenwoodImprovedPatch.esp
@@ -12701,6 +12700,7 @@ ElsweyrValenwoodImprovedPatch.esp
 Elsweyr - Valenwood Patch DV.esp
   REQ: 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
   IF CHECKSUM("Elsweyr - Valenwood Patch DV.esp", 535E4F5D) DIRTY: 104 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Tales from Elsweyr Anequina.esp
 Elsweyr Valenwood Daedric Shrine Patch.esp
   REQ: 'Daedric Shrine Ruins.esp', 'ElsweyrAnequina.esp', 'Valenwood Improved.esp', 'ElsweyrValenwoodImprovedPatch.esp'
 SLWA_Anequina_Patch.esp

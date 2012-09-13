@@ -1255,6 +1255,7 @@ PTAutumnTrees.esp
 HAZdynamicSnow.esp
 Dynamic Snow Accumulation - Better Cities Bruma by Xtudo.esp
 Sunnier Weather.esp
+LM_LongerNights.esp
 ENDGROUP: Weather mods and overhauls
 
 BEGINGROUP: Water and lava tweaks
@@ -1763,6 +1764,7 @@ Better Wine SI.esp
 bgShaderStandAloneEV.esp
   TAG: {{BASH: Graphics}}
   REQ: Wrye Bash if using spell mods.
+Bestiary (SI version).esp
 Black Screen Sneak Fix.esp
 Black Sheep.esp
 BlackMarket.esp
@@ -2134,6 +2136,7 @@ ENDGROUP: Base G
 BEGINGROUP: Base H
 
 Happyhannah's Wines.esp
+Harvester.esp
 Hide Away.esp
 Hot Coffee and Tea-Base.esp
 Hot Coffee and Tea-Cobl.esp
@@ -2646,6 +2649,7 @@ SigilStonesExpanded1.52.esp
 Sigil_Stone_Chest-5050.esp
 Sigil_Stone_Spawner-3025.esp
 Silver and Gold Respawns.esp
+SimpleHUDIcons.esp
 Simple Portable Tent.esp
 Doomstones Expanded.esp
 ShriekingBolete.esp
@@ -4229,6 +4233,7 @@ Elegant Vests.esp
 Elemental_Hell.esp
 ElementalWeapons.esp
 elgrande_newclothing.esp
+Elvenguard.esp
 Emperor's Heavy War Armor.esp
   TAG: {{BASH: Invent}}
 Eternal Dragon Armor light.esp
@@ -4405,6 +4410,7 @@ Golden Arrows of the Serpent.esp
 Golden Daedric Armor.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
+Gondorian Ranger Gear.esp
 GothFreak's Celtic Rings and Swords.esp
 Gothic Fetish Outfit.esp
 Grenth Set.esp
@@ -5082,6 +5088,8 @@ BEGINGROUP: Items R
 
 RealitySpectresThiefGarb.esp
 Ra'haar's Arcane Clutter.esp
+Ranger.esp
+RangerEquipment.esp
 Ranger Equipment Set.esp
 Ranger Equipment Set_Ench.esp
 Ranger's Shroud Armor.esp
@@ -5104,6 +5112,7 @@ RedgardWeaponsMod.esp
   SAY: Make sure to load an overhaul or something after or manually rename the cells that this edits.
 RedGlassGear.esp
 RenKnockOutArrow.esp
+Requiem.esp
 Retma Dresses.esp
   IF CHECKSUM("Retma Dresses.esp", 2DF18C43) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 RF_AtholBrose.esp
@@ -6230,6 +6239,7 @@ MW  Dremora Armor.esp
 
 NamirasEmbraceArmour.esp
 Nauplius Armors.esp
+Navel Piercings.esp
 necklacesbykalikut.esp
 Neo's 2NE1 Street Costumes.esp
 Neo's Gantz.esp
@@ -9801,7 +9811,7 @@ BEGINGROUP: Quests G
 
 G&J - Cruentus Veneficum.esp
 Gamblers_of_Cyrodiil.esp
-
+garden of wayshrines v.2.esp
 GatewayRealm.esp
   IF CHECKSUM("GatewayRealm.esp", F6580162) DIRTY: 63 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GatewayRealm Vwalk.esp
@@ -11413,6 +11423,7 @@ The Kingdom of Shadow test1.esp
   IF CHECKSUM("The Kingdom of Shadow test1.esp", 94C3C6B) DIRTY: 1360 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Kingdom of Shadow test1 Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+The Ranger's House Lite.esp
 TheReturnOfTheDarkBrotherhood.esp
   IF CHECKSUM("TheReturnOfTheDarkBrotherhood.esp", 08450046) DIRTY: 10 ITM, 76 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Medusa.esp
@@ -13203,6 +13214,7 @@ OWC - ND UL Colovian Highlands Patch.esp
   IF CHECKSUM("OWC - ND UL Colovian Highlands Patch.esp", CBD9DCFD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Trails of Cyrodiil - Colovian Highlands UL.esp
   IF CHECKSUM("Trails of Cyrodiil - Colovian Highlands UL.esp", C5EBDE40) DIRTY: 109 ITM, 64 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+TheWellOfMinlorada-ColovianHighlands patch.esp
 
 xulChorrolHinterland.esp
   IF CHECKSUM("xulChorrolHinterland.esp", B7B4334A) DIRTY: 0 ITM, 2326 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14081,6 +14093,7 @@ ImpeREAL Empire - Unique Castles - All The Castles - OCR.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCR B&M.esp
 ImpeREAL Empire - Unique Castles - All The Castles - OCC B&M.esp
 Better Cities - Open Cities Reborn.esp
+Better Cities - Open Cities Reborn B&M Compatibility.esp
 Open Cities new script for city doors.esp
 OC+Bravil Docks Patch.esp
   SAY: Note - Be sure this is being used on Bravil Docks by Greg Simmonds. Will cause a CTD with the wrong file.
@@ -15137,6 +15150,7 @@ More_Training-1908.esp
 MoreTraining.esp
 More Valuable Gems.esp
 Morrowind-style Legion Shield Replacer.esp
+MouseCast.esp
 movablebodies.esp
 MTC Stable Interiors.esp
 Muggrug's Sub tropical south.esp
@@ -16265,6 +16279,8 @@ CMF-New.esp
 
 dungeonbgone.esp
 
+HeadStart_V1.2.esp
+
 Impossible begining.esp
 IOM - Main Quest.esp
 IOM - Kvatch.esp
@@ -16554,6 +16570,7 @@ LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
 MIVs Vampire Overhaul RUS.esp
   IF FILE("Unholy Darkness.esp") INC: Unholy Darkness.esp
 PxVampireFaceReset.esp
+RAF Vampires Bite Revamped.esp
 Twillith vampirism 1.7.esp
   SAY: Old update to 'Twillith vampirism.esp'.
 Twillith vampirism 1.71.esp
@@ -16646,6 +16663,7 @@ BEGINGROUP: Magic
 //
 //Overrides overhauls. New spells and magic systems go here for convenience.
 
+ASLES.esp
 MagLite.esp
 MagLite - Alchemy.esp
 NoDurationSpells.esp
@@ -17697,6 +17715,7 @@ mighty_bows_damage_bonus.esp
 mighty_bows_sneak_dmg_bonus.esp
 mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
+Ultimate_Archer-2026.esp
 SilverBonus.esp
   REQ: OBSE
 Steady Zoom.esp
@@ -18584,6 +18603,8 @@ _Ren_BeautyPack_onlyhairs.esp
   TAG: {{BASH: Hair}}
 KDshorthair.esp
   TAG: {{BASH: Hair}}
+Male Hair Mod.esp
+  TAG: {{BASH: Hair}}
 Nords With Beards.esp
   TAG: {{BASH: Hair}}
 Pada Jenggotan.esp
@@ -18890,6 +18911,8 @@ Moonshadow Elves - NoSc.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Moonshadow-Elves_NoSc_DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+MSE Hairs And Eyes 03.esp
+  TAG: {{BASH: Graphics, Hair, Eyes}}
 Mystic_DarkElf.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Nec Mystic Dark Elf-Remake.esp
@@ -19424,6 +19447,7 @@ CM Partners Extra NPCs.esp
 CM Partners Extra NPCs Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 CM Partners Auto Loot add-on.esp
+CM Apprentices.esp
 PB_CMHorses.esp
 PB_ManyHorses.esp
 amQuests1.esp
@@ -19616,6 +19640,7 @@ RavenCM2.esp
 RoseCM.esp
 SarahCM.esp
   TAG: {{BASH: Hair}}
+TACMTifaLovehart.esp
 TealcCM2partner.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces}}
 Terimer.esp

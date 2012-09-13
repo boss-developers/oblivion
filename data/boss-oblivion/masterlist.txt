@@ -3818,6 +3818,7 @@ Blackhand Courtesan.esp
 Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
+Black Leather Outfits.esp
 Black Mirror.esp
 Black Rock Shooter.esp
 BlackSeraphim.esp
@@ -4693,25 +4694,38 @@ LadiesOrcish.esp
 Lady Anna.esp
 Lady Apella.esp
 Lady Dark.esp
+  IF CHECKSUM("Lady Dark.esp", A18D358B) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LadyDeath.esp
 Lady Dress.esp
-Lady Elegance.esp
-Lady Fantasy.esp
+  IF CHECKSUM("Lady Dress.esp", 25EAFCB1) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Flirt.esp
+Lady INDI.esp
+  IF CHECKSUM("Lady INDI.esp", 3F87CF02) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Jasmine Moon.esp
 Lady Moon ColoredRU.esp
+Lady Rappelz.esp
+  IF CHECKSUM("Lady Rappelz.esp", 1F98DBD9) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Rogue.esp
+  IF CHECKSUM("Lady Rogue.esp", B975F6BD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Santry.esp
 Lady Secrets.esp
 Lady Sexy.esp
+  IF CHECKSUM("Lady Sexy.esp", 82DC1587) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Lady Sexy EV.esp
+  IF CHECKSUM("Lady Sexy EV.esp", DEDE61F7) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Skanda.esp
 Lady Thief.esp
 Lady Underwear.esp
 Lady Vamp.esp
+  IF CHECKSUM("Lady Vamp.esp", 96E0B6DD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Victorias Secret.esp
 Lady Bat.esp
+  IF CHECKSUM("Lady Bat.esp", 714739C5) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Wild.esp
 Lady Witch.esp
+  IF CHECKSUM("Lady Witch.esp", DA655A7E) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Lady Witch EV.esp
+  IF CHECKSUM("Lady Witch EV.esp", 5125A6A4) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 lam.esp
 Lamayo's Crescent Axe.esp
 Lamayo's Dragon Bow.esp
@@ -5173,6 +5187,7 @@ SaiyanRanger.esp
 samurai.esp
 Sang_Noir.esp
 Santa Babe.esp
+  IF CHECKSUM("Santa Babe.esp", 1006B9C1) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Saphire Ruby and Amethyst Staffs.esp
 Sauron_Armor_Chest.esp
   IF CHECKSUM("Sauron_Armor_Chest.esp", F496AE96) DIRTY: 5 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -6092,6 +6107,7 @@ Dollparts' Wild Flower Corsets of Cyrodiil.esp
 Dragonbone Armor Set.esp
 Dragon Claw Sword And Shield.esp
 Dragon Princess.esp
+  IF CHECKSUM("Dragon Princess.esp", DC820EA9) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Double Crimson HGEC.esp
 
 EC_BlackDeathWarrRetex.esp
@@ -6184,6 +6200,7 @@ Lace outfits.esp
 Lady Elegance.esp
 Lady Fantasy.esp
 Lady Style.esp
+  IF CHECKSUM("Lady Style.esp", 03AD9166) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LC-Compilation-Exnem.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LCDynastyGold.esp
@@ -6718,7 +6735,7 @@ Francesco's More Wilderness Life.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
 IFNOT VAR(FCOM) MOD: Francesco's Optional Chance of Stronger Bosses.esp
 IFNOT VAR(FCOM) MOD: Francesco's Optional Chance of Stronger Enemies.esp
-  && IF CHECKSUM("Francesco's Optional Chance of Stronger Enemies.esp", 4F003DB0) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Francesco's Optional Chance of Stronger Enemies.esp", 4F003DB0) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Francesco's Optional Dungeon Chest Loot.esp
   IF VAR(FCOM) ERROR: Delete. Already integrated into FCOM, MMM, OOO or other FCOM components.
 Francesco's Optional Dungeon Chest Locks.esp
@@ -13038,6 +13055,8 @@ GoC_ShezriesTowns_Patch.esp
 SYS Patch-Shezrie's Towns.esp
 ShezriesTowns- Valenwood Patch.esp
 ShezriesTowns-Valenwood Patch.esp
+Artifacts-ShezriesTowns Patch.esp
+MTCExpandedVillages-ShezriesTowns Patch.esp
 LostSpires+PellsGate Patch.esp
 Skye Village Final.esp
 Solace.esp
@@ -13673,7 +13692,7 @@ BEGINGROUP: Post UL, Pre BC
 A Imperial Outpost - Fort Novi Sad.esp
 
 ImpeREAL Empire - Unique Forts.esp
-IF CHECKSUM("ImpeREAL Empire - Unique Forts.esp", AD577F04) DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ImpeREAL Empire - Unique Forts.esp", AD577F04) DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL Empire - Unique Forts Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 ImpeREAL Empire - Unique Forts - Clydesdale Horses - By Xtudo.esp
@@ -13809,7 +13828,7 @@ ROC+Lilyvale Patch.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 
 Millstone_Farm.esp
-IF CHECKSUM("Millstone_Farm.esp", 8BAB5B62) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Millstone_Farm.esp", 8BAB5B62) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Millstone_Farm_COBL.esp
 Millstone_UL_Patch.esp
   IF CHECKSUM("Millstone_UL_Patch.esp", F7081B36) DIRTY: 13 ITM, 116 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"

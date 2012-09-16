@@ -369,6 +369,8 @@ zOST_MAIN.esp
 Essential_Merchants.esp
   TAG: {{BASH: Actors.ACBS, NoMerge}}
   
+Oblivion_Deutsch_v5_1.esp
+  
 //Guesing that this is a Polish reanslation of Oblivion, so loading early. Link supplied was for an unrelated mod.
 Oblivion PL.esp
 
@@ -2999,6 +3001,8 @@ BEGINGROUP: Load Order Independent Mods
 //
 //These mods don't need to go anywhere, they're fully scripted, so load them early, out of the way of the more placement-critical sections near the bottom of the masterlist.
 
+77_Umpa_Mp3_Player_obse.esp
+
 ANBToggleGrab.esp
 Ash control.esp
 AutoEquip.esp
@@ -3835,6 +3839,10 @@ Blade Of Woe Replacer.esp
 BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
 BlessedMageKnightDress.esp
+Blood Glass Armor.esp
+  TAG: {{BASH: Graphics}}
+Blood Glass Weapons.esp
+  TAG: {{BASH: Graphics}}
 Blood Knight Armor.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
@@ -6440,6 +6448,7 @@ Volcano in the Twilight.esp
 
 XiaNewAmuletsV1.esp
 
+ZKEC.esp
 Zombie Slayer Armor.esp
 ENDGROUP: Body Replacer Armour & Clothing
 
@@ -8579,6 +8588,7 @@ cyrodiil transportation network wz.esp
   SAY: Check you're using v1.3 or later.
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
+  IF CHECKSUM("cyrodiil transportation network 1.3 wz.esp", 675027D0) DIRTY: 87 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cyrodiil transportation network OC.esp
 Cyrodiil Transportation Network WZ OC.esp
@@ -8698,6 +8708,7 @@ aaDwemerTower.esp
 Aalloch.esp
 Abandoned_Estate.esp
 Abandoned Farm Ground Effects On.esp
+Abandoned Tavern.esp
 Aberwiin Manor.esp
 ABloodyNight.esp
 ABloodyNight_ru.esp
@@ -9057,6 +9068,7 @@ Basement_chorrolhouse.esp
 Battle4Morrowind.esp
   INC: anything that changes Legion Armor.
 Battle Between Two Forts.esp
+battle cyrodiil vs Hammerfell.esp
 BayOfMermaid.esp
 bazOOkasWatchTowers_v1.esp
 Beach House.esp
@@ -9604,6 +9616,7 @@ DragonInvasion.esp
   REQ: Akatosh Mount By Saiden Storm.esp
 DragonHouse.esp
 DragonSlayer.esp
+Drand.esp
 DreamersIsland.esp
 DrelcoManor.esp
 DRT-Cottage.esp
@@ -10032,6 +10045,7 @@ ICAU_Mages_bridge.esp
 ICEGHouse.esp
 ICEGHouse_cobl.esp
 ICEGHouse_jp.esp
+IceMarshTC01.esp
 icPlayerHome.esp
 SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -10375,6 +10389,7 @@ Lair_of_the_Hydra.esp
 2.0 Final-Lair of the Hydra.esp
 Vibliribland-4490-Lair_of_the_Hydra.esp
 Lair_of_the_Hydra_1C.esp
+Kylania.esp
 ENDGROUP: Quests K
 
 BEGINGROUP: Quests L
@@ -10977,6 +10992,7 @@ BEGINGROUP: Quests R
 RA Objects.esp
 RA ADD GRV.esp
 RA Chain Add-on.esp
+Ramy Monster.esp
 Raubritter.esp
 Rascals Rest Cave.esp
 Really Boring Dungeon.esp
@@ -11408,6 +11424,7 @@ TempleofNirn.esp
 Terra.esp
 TheAltadoonPuzzle.esp
   IF CHECKSUM("TheAltadoonPuzzle.esp", 32240C7A) DIRTY: 25 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+The Crypts of Nadox.esp
 TheHole.esp
   IF CHECKSUM("TheHole.esp", D8CE5984) DIRTY: 57 ITM, 165 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TheHolePt2.esp
@@ -11426,6 +11443,7 @@ The Kingdom of Shadow test1 Vwalk.esp
 The Ranger's House Lite.esp
 TheReturnOfTheDarkBrotherhood.esp
   IF CHECKSUM("TheReturnOfTheDarkBrotherhood.esp", 08450046) DIRTY: 10 ITM, 76 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+The Savior of Camelot.esp
 The Temple of Medusa.esp
   IF CHECKSUM("The Temple of Medusa.esp", 0CC093DE) DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
@@ -11444,6 +11462,7 @@ TheWellOfMinlorada.esp
 SYS Patch-Personal Treasure Vault.esp
 Theryon.esp
 Thorne Cottage.esp
+ThymeQuestAK.esp
 Templar Fighters Guild.esp
   IF CHECKSUM("Templar Fighters Guild.esp", 43631980) DIRTY: 12 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CHEAT - TempleofNirn.esp
@@ -12545,7 +12564,7 @@ Prince of Order.esp
 Shadowcrest_Vineyard.esp
   IF CHECKSUM("Shadowcrest_Vineyard.esp", 497EDBA5) DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shadowcrest_Vineyard_COBL.esp
-IF CHECKSUM("Shadowcrest_Vineyard_COBL.esp", 9FD89158) DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Shadowcrest_Vineyard_COBL.esp", 9FD89158) DIRTY: 34 ITM, 57 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch- Shadowcrest Vineyard.esp
 SYS Patch- Shadowcrest Vineyard Cobl.esp
 Shadowcrest_Vineyard_GuardCOBL.esp
@@ -13658,6 +13677,7 @@ Eastern Peaks - Dwemer Ruins Patch.esp
 MannimarcoResurrection-EasternPeaks patch.esp
 xulEasternPeaks_TWMPBlackMarshPatch.esp
 MythsAndLegends2-EasternPeaks patch.esp
+Tantrivaylia-EasternPeaks patch.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -14557,6 +14577,7 @@ TimeWizard.esp
   REQ: OBSE (only if using version 2.1+)
 
 Buried_Treasure.esp
+  IF CHECKSUM("Buried_Treasure.esp", B48899C1) DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 !BurningItems 0.4.esp
   SAY: Renames a lot of names to Russian so either use older (v0.2) English version or live with those changes
   TAG: {{BASH: Scripts}}
@@ -14882,6 +14903,7 @@ GladiatorsVarlorRing.esp
 goblin_war_party.esp
 Goblin Shamans Respawn.esp
 Goblin Tribal Shields.esp
+  IF CHECKSUM("Goblin Tribal Shields.esp", 84D18F3C) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 goblin_wars.esp
 GodStatues.esp
 GodStatues KOTN Edition.esp
@@ -15768,6 +15790,7 @@ Slof's Dogs.esp
   SAY: Don't need to use this if you use MMM as it already includes dogs.
 Slof's Epona.esp
 SM Essential Kills.esp
+SnusAmbience English.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp
@@ -16001,6 +16024,7 @@ tona_underwear.esp
 Tona Compilation.esp
 TorchesBlowOut.esp
 Traditional RPG Looting.esp
+Travel Anywhere.esp
 True Spellbreaker.esp
 TurretDisable.esp
 TweakAthleticsNoSpeed.esp
@@ -16193,6 +16217,7 @@ DurableEquipment_10.esp
 DurableEquipment_20.esp
 
 Wolvmans_Hidden_Unique_Merchant_Items.esp
+  IF CHECKSUM("Wolvmans_Hidden_Unique_Merchant_Items.esp", 9D79B935) DIRTY: 65 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide".
 Cliff_RPO_NewBeginnings.esp
 Cliff_RPO_NewBeginnings_RPC.esp
 DD_RestrictedCityEntrance.esp
@@ -18623,6 +18648,8 @@ BEGINGROUP: Eyes
 //''''
 ArdigaWolfessRealEyesAddonVanilla.esp
   TAG: {{BASH: Eyes}}
+CynthiasFantasyEyes.esp
+  TAG: {{BASH: Eyes}}
 ElaborateEyes.esp
   TAG: {{BASH: Eyes}}
 Ethereal - Eyes.esp
@@ -18640,6 +18667,8 @@ Cernasite - DragonEyes - GE.esp
 JCPeepers.esp
   TAG: {{BASH: Eyes}}
 Koldorns Eye Mod.esp
+  TAG: {{BASH: Eyes}}
+MD_Oblivion_Eyes.esp
   TAG: {{BASH: Eyes}}
 MP Human Eyes Vanilla Makeover.esp
   TAG: {{BASH: Eyes}}
@@ -18790,6 +18819,7 @@ Blonde Wizard Beard Races.esp
 Brown Wizard Beard Races.esp
 Red Wizard Beard Races.esp
 Fearabbits Bearded NPCs BETA.esp
+Blood_Draconian-2496.esp
 Blood Elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Brachyuran.esp
@@ -19296,6 +19326,8 @@ X.Dea.Obscura.esp
 X.Demon.Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 X.Deus.Obscurus.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+X.Eleionomae.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 X.Falmer.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
@@ -20355,6 +20387,7 @@ Shads Spellbook.esp
 Stealthier Magic.esp
 qazSpellbook.esp
 Recastable Summons.esp
+  IF CHECKSUM("Recastable Summons.esp", 970CACD1) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 sr_casting_time.esp
 TML_SummonsUnlocked.esp
 Tougher Magic Settings v1.1.esp
@@ -22000,11 +22033,14 @@ ENDGROUP: Map Changes
 
 BEGINGROUP: LOD Togglers
 //''''''''''
-//These are commented out because they should never be in the active load order, and having them as unknowns
-//brings more attention to them. Perhaps if BOSS gains the ability to see what is active then they can be uncommented.
+//These should never be in the active load order.
 
-//KRLODToggleBurnt.esp
-//FRLODToggleBasic.esp
+KRLODToggleRestored.esp
+  IF ACTIVE("KRLODToggleRestored.esp") ERROR: This plugin should never be active. Deactivate immediately.
+KRLODToggleBurnt.esp
+  IF ACTIVE("KRLODToggleBurnt.esp") ERROR: This plugin should never be active. Deactivate immediately.
+FRLODToggleBasic.esp
+  IF ACTIVE("FRLODToggleBasic.esp") ERROR: This plugin should never be active. Deactivate immediately.
 
 ENDGROUP: LOD Togglers
 

@@ -2142,6 +2142,7 @@ BEGINGROUP: Base H
 
 Happyhannah's Wines.esp
 Harvester.esp
+HeresATip.esp
 Hide Away.esp
 Hot Coffee and Tea-Base.esp
 Hot Coffee and Tea-Cobl.esp
@@ -2171,6 +2172,8 @@ Inscription Profession.esp
   IF CHECKSUM("Inscription Profession.esp", CC8DFD00) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IshNightEyeToggle.esp
 InfiniteArrows.esp
+Item Crafting v4.2.esp
+  TAG: {{BASH: Invent}}
 ENDGROUP: Base I
 
 BEGINGROUP: Base J
@@ -2758,6 +2761,7 @@ Update My Statue.esp
 Underneath your Robe.esp
 Underneath your Robe for SI.esp
 Unlimited.esp
+Unlimited Weapon Recharge.esp
 ENDGROUP: Base U
 
 BEGINGROUP: Base V
@@ -3165,6 +3169,7 @@ Synchronized Date and Time.esp
 
 TES4ViewLink.esp
 Timekeeper_Advanced.esp
+Toggle Zoom - Mouse Wheel.esp
 
 Unconscious.esp
 
@@ -3499,6 +3504,7 @@ BEGINGROUP: Items #
 1SB_LucreziaNavarre outfit.esp
 1SB Necromancer staff.esp
 1SB_NightWeaveOutfit.esp
+1SB NineTongues Sword.esp
 1SB_WarhammerWingedStaff.esp
 1SB_RavenousEleganceOutfit.esp
   REQ: Biu's Adventuress Body (BAB).
@@ -3839,6 +3845,8 @@ Blackwire.esp
 BlackwirePNI.esp
 Blade of Judgment2.esp
 Blade Of Woe Replacer.esp
+  TAG: {{BASH: Graphics}}
+Blade Of Woe Replacer by Allomerus.esp
   TAG: {{BASH: Graphics}}
 BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
@@ -4984,6 +4992,7 @@ NorseWeapons.esp
   SAY: May have landscape conflicts with Guards of Cyrodiil.
 Nosferatu.esp
 NosferatuBow.esp
+Northern Lich Armor.esp
 NPR Knight Armor.esp
 Negotiator Sword OBSE.esp
 NumenoreanArmor.esp
@@ -5134,6 +5143,7 @@ RF_AtholBrose.esp
 RF_Crimson.esp
 RGMsCarvedLeatherAndSilkRobesMale.esp
 RGMsCheerleader.esp
+RGMsRealFlails.esp
 Rikku.esp
 Rindirs Staves.esp
 ring_of_feather.esp
@@ -5735,6 +5745,7 @@ Warglaives by Jojjo v1.0.esp
 wrath.esp
 wrathofmagic.esp
 Wulfharths Fury.esp
+Wyverexs__Kill_Sleeping_NPC.esp
 Wyverex's - Runes by DJ.esp
 ENDGROUP: Items W
 
@@ -6079,6 +6090,7 @@ Colourwheels Sexy SI Armor & Clothing Replacer.esp
 CSRBW.esp
 CuteHalloweenCostume.esp
 
+daedric BU.esp
 Daedric Lord Armor.esp
 Daedric Lord-Classic Bound Armor.esp
 DarkFlameSwordAndShield_v10_FIXED_ESP.esp
@@ -6243,6 +6255,7 @@ LustyBretonnianMaid.esp
 
 MadokaMagicka.esp
 Metal Fang.esp
+milkslave.esp
 Mithril_Sorceress_armor.esp
 Mondsteins Gothic Lolita Outfit.esp
 More_Shields.esp
@@ -8328,6 +8341,7 @@ WAC - Legion_FemaleFix.esp
 WAC-TestingMarauderArmor.esp
 
 WAC - Races RM-HGEC patch by Xtudo.esp
+WAC - Races RM-HGEC-BR patch by Xtudo.esp
 ENDGROUP: Waalx Animals and Creatures
 ENDGROUP: Overhauls
 
@@ -8768,6 +8782,7 @@ Akiviri Imports MOBS.esp
 Akaviri Imports MOBS.esp
   SAY: Use this instead 'Akaviri Imports.esp' for FCOM. Deactivate or delete 'Akaviri Imports.esp'
 AkarinaCottage.esp
+AkarinaCottage-AdHTSCl.esp
 AkaviriKojimaTravel.esp
 AkavirLegendsREs.esp
   TAG: {{BASH: Graphics, Invent, Scripts}}
@@ -9695,6 +9710,7 @@ Elven Baths.esp
   IF CHECKSUM("Elven Baths.esp", B14D2EA1) DIRTY: 5 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
+EMBridgeHouse.esp
 EM_RedRoseManor.esp
   IF CHECKSUM("EM_RedRoseManor.esp", 4A696D9) DIRTY: 44 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 EMRedRoseAddonCOBL.esp
@@ -13120,6 +13136,7 @@ OOO-Sutch patch.esp
 Urasek.esp
 Urasek Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+SacredOakSettlement-Urasek patch.esp
 
 Vergayun.esp
 Vergayun Vwalk.esp
@@ -13401,6 +13418,7 @@ HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Rustle House - UL Patch.esp
+TheWellOfMinlorada-LushWoodlands patch.esp
 
 xulAncientYews.esp
   IF CHECKSUM("xulAncientYews.esp", 6B0D5E8E) DIRTY: 1 ITM, 4572 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -15003,6 +15021,7 @@ ENDGROUP: overrides H
 BEGINGROUP: overrides I
 
 IC_BattleMage_Remark_Removed-6373.esp
+Idles.esp
 HealthIndication.esp
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
@@ -15111,6 +15130,7 @@ ENDGROUP: overrides L
 
 BEGINGROUP: overrides M
 
+Mature Spriggan.esp
 M.O.E. - Bone Names and Priced Skull.esp
   SAY: May not be compatible with MMM bone loot - untested.
 M.O.E. - Disable Fast Travel.esp
@@ -15727,6 +15747,7 @@ Pose Compendium.esp
 SexDarknessAmuletSlot.esp
 SexDarknessTailSlot.esp
 SexDarknessAmuletSlot.esp
+DarkBloodline.esp
 ENDGROUP: Sexual Stuff
 
 Sheath2HandOnHip.esp
@@ -16904,6 +16925,7 @@ Paladin Spells.esp
 PerceptionV2_1.esp
 PetrifyandStoneSkinSpells.esp
 PMS Spell.esp
+PPSpellsword.esp
 PoisonSpells.esp
 PoisonSpellsAddon.esp
 PoisonSpellsDHealth.esp
@@ -16922,6 +16944,7 @@ Recharge Spell.esp
 Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Remove Extra Data.esp
+RestoreAllAttributesSpell.esp
 Resurrect.esp
 Resurrection-5159.esp
 Resurrection_v_1_0.esp
@@ -17797,6 +17820,7 @@ ptThrowingKnives.esp
   SAY: Obsolete. Remove this and install Unnecessary Violence.
 ptThrowingWeapons.esp
   SAY: Obsolete. Remove this and install Unnecessary Violence.
+Stealth Wars.esp
 
 CombatWarning.esp
 
@@ -18003,6 +18027,7 @@ Faster Skills x5.esp
 Faster Restoration.esp
 G_'s-Level-Slow.esp
 Kami Leveling.esp
+Maethlin's Skilltweak.esp
 SlowerOblivion_x2.esp
 SlowerOblivion_x3.esp
 SlowerOblivion_x4.esp
@@ -18043,6 +18068,12 @@ MagicBasedSkillProgression.esp
 SD Skill Diary.esp
 MagesGuildSkillRewards.esp
 MasterSkillLvlAdjustment.esp
+
+More Magicka x3.esp
+More Magicka x7.esp
+More Magicka x10.esp
+More Magicka x15.esp
+More Magicka x25.esp
 
 Governing Attributes.esp
 Governing Attributes Overhaul.esp
@@ -18627,6 +18658,8 @@ tkHairPack01RUS.esp
   TAG: {{BASH: Hair}}
 babehair_EV.esp
   TAG: {{BASH: Hair}}
+babehair_DV.esp
+  TAG: {{BASH: Hair}}
 GraceHair.esp
   TAG: {{BASH: Hair}}
 soya_04hair.esp
@@ -18795,6 +18828,8 @@ AbyssDemon.esp
 AinmhiRace-RensBeautyPackFull.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 AinmhiRace-RensBeautyPackHairsOnly.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+AinmhiRaceReworked-RensBeautyPackFull.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Almalexia.esp
   TAG: {{BASH: Graphics, NpcFaces, R.Ears}}
@@ -20172,6 +20207,7 @@ ENDGROUP: COBL Races
 
 Dremora female.esp
 Dremora Females.esp
+Female Xivilai.esp
 PlayAurMaz.esp
   TAG: {{BASH: Body-F, Body-M, Hair, NpcFaces, R.Head}}
 

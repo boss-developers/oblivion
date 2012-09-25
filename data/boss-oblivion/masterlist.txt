@@ -728,6 +728,7 @@ BEGINGROUP: UOP
 Unofficial Oblivion Patch.esp
   SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
+  IF FILE("DLCShiveringIsles.esp") && IF CHECKSUM("Unofficial Oblivion Patch.esp", 64BCA292) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unofficial Oblivion Patch DV.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 Correctif.esp
@@ -1663,8 +1664,10 @@ AddActorValues_example.esp
 UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
   IF CHECKSUM("AliveWaters.esp", 0717BF5A) DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("AliveWaters.esp", D28F1569) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Koi Addon.esp
   IF CHECKSUM("AliveWaters - Koi Addon.esp", 47A85077) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("AliveWaters - Koi Addon.esp", 29F02EED) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
 AliveWaters_nofish.esp
   IF CHECKSUM("AliveWaters_nofish.esp", 7618B1DB) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -3082,6 +3085,7 @@ LazyPCB.esp
 Lock Bash Omega.esp
 
 marksman_challenge.esp
+Maskar's Oblivion Overhaul.esp
 MigMiscellanea.esp
 MigNoDeath.esp
 MiscTracker.esp
@@ -3900,6 +3904,7 @@ Broadswords_MOBS.esp
 BodMod.esp
 Bodysuit for Exnem.esp
 Boethiahs assassin armor.esp
+Boidae Outfits.esp
 Book of Werewolves.esp
 BookCollisionTest.esp
 Boots of Blinding Speed.esp
@@ -4379,6 +4384,8 @@ genji Armor.esp
 Genzel and Frostcraig Armory Buyable.esp
 Genzel and Frostcraig Armory Hidden.esp
 Genzel and Frostcraig Armory Enchanted.esp
+GGBDDCW.esp
+  IF CHECKSUM("GGBDDCW.esp", F09AEE05) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ghogiels Armor.esp
 GhostArmor.esp
 Ghost_Headache.esp
@@ -10058,7 +10065,8 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
   IF CHECKSUM("SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp", 6E556FA4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IC Palace Topper.esp
 IC Palace Topper - BBC.esp
-  
+
+ImbelManor.esp
 imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
   IF CHECKSUM("Imperial_City_Cave_House-9473.esp", FE41E7A8) DIRTY: 1 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11398,6 +11406,7 @@ TamrielSnacks11-DV.esp
   IF CHECKSUM("TamrielSnacks11-DV.esp", 156F6CFE) DIRTY: 20 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tanduff.esp
 Tantrivaylia.esp
+  IF CHECKSUM("Tantrivaylia.esp", D4DBCEC8) DIRTY: 49 ITM, 322 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tantrivaylia Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Tantrivaylia v0.99a Delayer.esp
@@ -12093,6 +12102,11 @@ BEGINGROUP: Quests and Locations 2
 
 AFK_ICTempleCleanup.esp
 
+//Must load after RumpleModSI.esp
+FalkreathGS_RM.esp
+Falkreath.esp
+  INC: Gweden Brothel series.
+
 maze-version 1,0.esp
 1SKHGBetaUpdate.esp
 
@@ -12712,6 +12726,7 @@ ElsweyrAnequina v2 Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 ElsweyrCityExtension.esp
   IF CHECKSUM("ElsweyrCityExtension.esp", 49534F53) DIRTY: 1 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ElsweyrCityExtension.esp", 13E13C6B) DIRTY: 19 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Reaper's Esmeralda's Desert Manor.esp
   IF CHECKSUM("Reaper's Esmeralda's Desert Manor.esp", DB57B73) DIRTY: 48 ITM, 32 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SYS Patch-Anequina Manor.esp
@@ -16284,6 +16299,7 @@ BEGINGROUP: Alternative starts
 //Must go after anything that alters the main quest.
 
 Alternative Beginnings.esp
+  IF CHECKSUM("Alternative Beginnings.esp", 4B2AE0D9) DIRTY: 17 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Alternative Beginnings - Kvatch Intact.esp
 Alternative Start by Robert Evrae.esp
   TAG: {{BASH: Relations, Invent}}
@@ -18593,6 +18609,7 @@ BEGINGROUP: Hair
 
 Vanilla_Race_Overhaul.esp
   TAG: {{BASH: Body-F, Body-M, R.Mouth, R.Teeth}}
+  IF CHECKSUM("Vanilla_Race_Overhaul.esp", 91D19C88) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 All vanilla races and eyes unlocked (SI included).esp
 Cazy Hairs.esp
   TAG: {{BASH: Hair}}
@@ -21321,7 +21338,9 @@ kuerteeNightEyeShader.esp
 bgMagicLightningbolt.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 BNewShockBoltEffects20.esp
+  IF CHECKSUM("BNewShockBoltEffects20.esp", 82B4BF9A) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BNewShockFunnelEffects20.esp
+  IF CHECKSUM("BNewShockFunnelEffects20.esp", 8BD75254) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 BNewShockEffects.esp
 Detect Life Shader.esp
   TAG: {{BASH: Graphics, Deactivate}}
@@ -21584,6 +21603,9 @@ Visual_Enchantments_LessFire.esp
 Visually Enchanted Paralyze Complete by Agesofb.esp
 X-Ray Detect.esp
 WNewShockBoltEffects20.esp
+  IF CHECKSUM("WNewShockBoltEffects20.esp", 9E684AC5) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+WNewShockFunnelEffects20.esp
+  IF CHECKSUM("WNewShockFunnelEffects20.esp", 3F990DED) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ZombieSFXReplacerTweaks.esp
 New Frost Damage effect NES.esp
 New Frost Damage effect.esp

@@ -40,7 +40,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF REGEX("Bashed Patch.*\.esp") SET: BP
 
 // Upgrade message for 1.7+ users:
-  IF VERSION("BOSS", "2.1.0.0", <) GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
+  IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
 
 

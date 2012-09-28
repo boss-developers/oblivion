@@ -2166,6 +2166,7 @@ Immersive FOV.esp
 Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
+Immersive Woodcutting.esp
 Insanity's Beverage Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Inscription Profession.esp
@@ -2691,6 +2692,8 @@ StolenFlagRemover.esp
 Street Gangs.esp
 Unsafe Streets.esp
 
+SummonChest_v2.0.esp
+  TAG: Outdated. Upgrade to v2.1.
 SummonChest_v2.1.esp
 Summon Bed.esp
 
@@ -11253,6 +11256,7 @@ Side's Skingrad House (BloodyMess).esp
 SYS Patch for Sides Skingrad House.esp
 SilentStonesCamp.esp
 Silgrad_Tower.esp
+  IF CHECKSUM("Silgrad_Tower.esp", C8844CD5) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ardah.esp
 ardah Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -11745,6 +11749,7 @@ BEGINGROUP: Quests U
 
 UA_ArmorOfTotality.esp
 UFF Gypsy Market.esp
+ultimatehouse.esp
 Unbeatable Angel.esp
 UndergroundLair.esp
 UnfathomedTower.esp
@@ -11807,6 +11812,7 @@ Veldin.esp
   IF CHECKSUM("Veldin.esp", BC65CD25) DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Verbesserte Magiergilde.esp
 VeridiusInvestigations.esp
+VeronaHouse120.esp
 Versus Dark Brotherhood.esp
 
 Vampire Hunting - Order Of The Virtuous Blood.esp
@@ -13079,6 +13085,7 @@ New Valen.esp
   SAY: Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
 
 Pinevale.esp
+  IF CHECKSUM("Pinevale.esp", A2B61120) DIRTY: 55 ITM, 347 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 PTMudwater.esp
   IF CHECKSUM("PTMudwater.esp", 822438DC) DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Forgotten Realm PTMudwater Patch.esp
@@ -13405,6 +13412,7 @@ BravilBridgeCottage + Barrowfields Patch.esp
 NicVBetterBeggars-BravilBarrowfields patch.esp
 GoldenCrest-BravilBarrowfields patch.esp
 ReapersTheDarkTower-BravilBarrowfields patch.esp
+Suliin-Anequina-TFE-Barrowfields patch.esp
 
 xulLushWoodlands.esp
   IF CHECKSUM("xulLushWoodlands.esp", 62FB2C49) DIRTY: 0 ITM, 648 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13419,6 +13427,7 @@ EtInArkay-LushWoodlands patch.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Rustle House - UL Patch.esp
 TheWellOfMinlorada-LushWoodlands patch.esp
+DepthsOfTheUnderdark-LushWoodlands patch.esp
 
 xulAncientYews.esp
   IF CHECKSUM("xulAncientYews.esp", 6B0D5E8E) DIRTY: 1 ITM, 4572 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14495,6 +14504,7 @@ BEGINGROUP: overrides B
 BaurusRunsInSewers.esp
 Bag of Holding.esp
 Automagic Bags.esp
+  IF CHECKSUM("Automagic Bags.esp", EC777DB4) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LootToGold.esp
 Bag of Alchemy.esp
 Bag of Alchemy Rewrite.esp
@@ -15108,6 +15118,7 @@ Less Food.esp
 LessHealthfulRest.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
+LightArrows.esp
 Lights.esp
 Live at Gweden Farm.esp
 Location Names With Enemy Tags.esp
@@ -19020,6 +19031,8 @@ _Ren_BeautyPack_full.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 _Ren_Beauty_Pack_Full_anime_voice.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+_Ren_BeautyPack_full_anime_voice.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 _Ren_BeautyPack_full_RW.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 _Ren_BeautyPack_full_-_1.1_DV.esp
@@ -19373,6 +19386,7 @@ Wiedergaenger Race Patch.esp
 WoW death knights.esp
 KHStrangers.esp
   TAG: {{BASH: Eyes, Graphics, Hair, NpcFaces, R.Ears, R.Head, R.Mouth, R.Teeth, Voice-M}}
+StrangersRefine.esp
 X.Dea.Obscura.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 X.Demon.Race.esp

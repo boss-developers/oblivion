@@ -10632,14 +10632,17 @@ MiniCyrodiil.esp
 Miniquest_Vampire.esp
 Minotaur's Revenge 1.7b.esp
 MirrorOfMagnus.esp
+MisticheskijOsobnyak.esp
+  SAY: Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
 MistyHideout.esp
 Monastery of Eru v2.esp
 Moorheim.esp
 MountainShack.esp
 MountainShack DV.esp
 MountainShackR12.esp
-  SAY: Outdated. Update to R121+.
+  SAY: Outdated. Update to R13+.
 MountainShackR121.esp
+  SAY: Outdated. Update to R13+.
 MountainShackR13.esp
 SYS Patch-Abandoned Mountain Shack.esp
 MrPwner's Ambient Churches.esp

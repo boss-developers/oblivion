@@ -728,7 +728,7 @@ BEGINGROUP: UOP
 Unofficial Oblivion Patch.esp
   SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
-  IF FILE("DLCShiveringIsles.esp") && IF CHECKSUM("Unofficial Oblivion Patch.esp", 64BCA292) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Unofficial Oblivion Patch.esp", 64BCA292) DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Unofficial Oblivion Patch DV.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag.
 Correctif.esp
@@ -1965,6 +1965,7 @@ CityLights - ImperialCity.esp
 Cliff's Smokey Chimneys.esp
 Clothes Get Wet.esp
 Chapel Tithe.esp
+Cooking Mod v1.1 - Nuhmbuh1.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 CorpsePreserver.esp
@@ -2029,6 +2030,7 @@ Daedric Wargames.esp
   REQ: Shivering Isles expansion.
 Damsels In Distress.esp
 DID3_DoubleTrouble.esp
+Dancertest.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
 Days&Months.esp
@@ -2692,6 +2694,7 @@ StolenFlagRemover.esp
 Street Gangs.esp
 Unsafe Streets.esp
 
+SubSpecies Variety Pack #1 - Canines (resource only).esp
 SummonChest_v2.0.esp
   SAY: Outdated. Upgrade to v2.1.
 SummonChest_v2.1.esp
@@ -3631,6 +3634,7 @@ Animated Weapons-JX3.esp
 Adamant Set.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
+Ancient Oak Set v1.0.esp
 Arcana Infinium.esp
 Andragorn_Weapons_Armors.esp
 Angel Slayerr.esp
@@ -4166,6 +4170,7 @@ DFSLChina.esp
 DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
+Diabloarmor2.esp
 Diannes Priestly Robe.esp
 Diano.esp
 DianoPNI.esp
@@ -4626,9 +4631,13 @@ JGAyleidRoyals.esp
 JG Elven.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Relations}}
 Ji.esp
+JK - Blade of Unicorn.esp
 Joe's Energy Bow.esp
 Johnn's Cutlass Mod.esp
 Johnn's Cutlass Mod - Offhand Series.esp
+Jos3006's Japenese Weapons.esp
+  TAG: {{BASH: Invent}}
+  IF CHECKSUM("Jos3006's Japenese Weapons.esp", 270422C2) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Journeyman_armor.esp
 Jov'sMagesGloves.esp
 JPBooks_Vanilla+SI.esp
@@ -4945,6 +4954,7 @@ Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp
   SAY: Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
   TAG: {{BASH: Relev}}
 NecroArmour.esp
+Negotiator Sword.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
 Neo's Jedi Knights.esp
@@ -6373,6 +6383,7 @@ StockClothingArmorHGECFighterD.esp
   TAG: {{BASH: Graphics}}
 Sweet six.esp
 Swim Suit Retextured By DH13 Part 3.esp
+SwordDancerRemodel.esp
 
 Tactical Wears.esp
 TentacleWitches.esp
@@ -8973,6 +8984,7 @@ ArmoryLab.esp
 ArmoryLab-MarkEmptyJars.esp
 ArmoryLab better armory.esp
 Armory Lab 5.9 OOO.esp
+ArmoryLab-portals.esp
 ArrowRestLodge.esp
 SYS Patch-Arrow Rest Lodge.esp
 SYS Patch-Arrow Rest Lodge COBL.esp
@@ -9177,6 +9189,7 @@ Big Business.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
   SAY: Do not use if using ElsweyrAnequina.esp.
+Black Forest Manor.esp
 Black Horse Mail Box.esp
 AW_BHC_HomeDelivery.esp
 BlackfrostMine.esp
@@ -9533,6 +9546,8 @@ Dark Brotherhood Outpost v3.esp
 Dark Brotherhood Outpost v3.1.esp
 Dark Brotherhood Sanctuaries.esp
 _DarkBrothershood.esp
+DarkQuest.esp
+  IF CHECKSUM("DarkQuest.esp", 74E5F1C3) DIRTY: 43 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
@@ -10890,6 +10905,7 @@ Old Ship.esp
 OMPexample.esp
   IF CHECKSUM("OMPexample.esp", E1CE7EED) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 One Stop Magic Shop.esp
+one_stop_magic_shop.esp
 One Stop Armors.esp
 000lute.esp
 OCC-OSMS-Patch.esp
@@ -10937,6 +10953,7 @@ Peruggia's Passage.esp
 PeryitesLowestRealmofOblivion.esp
 photoroom.esp
 Pickman's Model.esp
+Pilgrim's Progress.esp
 Pimea_Necromancers_lair.esp
 Pine Lodge.esp
   SAY: Outdated. Update to version 2+.
@@ -11999,6 +12016,7 @@ ZamokVOblakah2.esp
 Zayls Lost House.esp
 zDangerSense.esp
 Zealots_of_the_Nine.esp
+Zenith ManorV1.0.esp
 Zergonipilamat.esp
 Zergonipilamat 1_2.esp
 Zombie Inn III.esp
@@ -12799,6 +12817,7 @@ Walkabout.esp
 ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
   REQ: 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
+Suliin-Anequina patch.esp
 
 Skyrim.esp
 
@@ -14400,12 +14419,14 @@ ENDGROUP: overrides Early
 
 BEGINGROUP: overrides #
 
+100%FloraHarvest.esp
+  SAY: Use Bashed Patch tweak instead if using Wrye Bash.
 100% Harvest Chance.esp
-  SAY: Use Wrye Bash tweak instead of using Wrye Bash.
+  SAY: Use Bashed Patch tweak instead if using Wrye Bash.
 100% Harvest Chance Pitcher & Lilly.esp
-  SAY: Use Wrye Bash tweak instead of using Wrye Bash - unless you want it only on the Pitcher & Lilly plants.
+  SAY: Use Bashed Patch tweak instead if using Wrye Bash - unless you want it only on the Pitcher & Lilly plants.
 100% Harvest Chance Shivering Isles.esp
-  SAY: Use Wrye Bash tweak instead of using Wrye Bash.
+  SAY: Use Bashed Patch tweak instead if using Wrye Bash.
 1229-Priced Clutter-TESSource.esp
   SAY: May not work with Living Economy as LE scripts tend to overwrite pricing mods.
 1456-1-no_wind-TESSource.esp
@@ -15126,6 +15147,7 @@ Lights.esp
 Live at Gweden Farm.esp
 Location Names With Enemy Tags.esp
 Loot All Armor.esp
+Lootable Captain Renault.esp
 Lootable Merchant Chests.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
@@ -16084,6 +16106,7 @@ BEGINGROUP: overrides U
 
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
+Undead Legion.esp
 GalerionTrueUnarmored-v20.esp
 lwb_unarmored_stats_skills.esp
 university cosmetics.esp
@@ -16239,6 +16262,8 @@ Merchant_Tim.esp
 Tim_No_SI.esp
   SAY: Use this without Shivering Isles. Otherwise use 'Merchant_Tim'.
 
+Borderless Cyrodiil.esp
+  SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Borderless_Cyrodiil.esp
   SAY: Use .ini tweak or Wrye Bash Bashed Patch tweak instead where possible to avoid conflicts.
 Borderless_Cyrodiil-3578.esp
@@ -16712,6 +16737,7 @@ Blood Is Everything.esp
 BloodIsEverything.esp
   TAG: {{BASH: Relations}}
 BIE.esp
+BIEvileLair.esp
 Vampire Aging Disabled.esp
 Vampire Aging Disabled 2 XYoung.esp
 Vampire Power.esp
@@ -16792,6 +16818,7 @@ Darkness Unleashed.esp
 Darkness Unleashed - Blood Magick.esp
 DeathKightSpells v1_3.esp
 Deflect.esp
+demonocuspayFinespell.esp
 Disenchant.esp
 Divine Magicka.esp
 DOT Spells.esp
@@ -17713,6 +17740,7 @@ Arrows Remain 10min.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 AutoOffhand.esp
 Can´t touch me!.esp
+VeryFastArrows_v2.0.esp
 
 cancelattack.esp
 BAKCreatureDamageControl.esp
@@ -17962,6 +17990,8 @@ BFG's Enhanced Armory.esp
   INC: 'Unequip Broken Armor', 'Enhanced Hotkeys'
 humantouchNPC.esp
   REQ: OBSE 19+.
+AK-ToggleZoomAnyKey.esp
+SpecialAbilityAndBadStatus.esp
 
 Duke Patricks - Melee Combat NO RECOIL.esp
   TAG: {{BASH: Sound, Graphics}}
@@ -18082,6 +18112,7 @@ MagicBasedSkillProgression.esp
 SD Skill Diary.esp
 MagesGuildSkillRewards.esp
 MasterSkillLvlAdjustment.esp
+TrainingSessionStacking.esp
 
 More Magicka x3.esp
 More Magicka x7.esp
@@ -20603,6 +20634,7 @@ BEGINGROUP: Other race/birthsign mods
 //'''''''''''''''''''''''''
 
 Appler's Passive Birthsigns.esp
+A Purist's Fix for Default Birthsigns.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
 Birthsigns Changed.esp
@@ -20643,6 +20675,7 @@ SC_Drow Race Addon - Plus Pack.esp
 SC_Drow Race Addon - Adantium Bound Armour.esp
 SC_Drow Race Addon - Adantium Bound Armour + Helm.esp
 SC_Drow Race Addon - Adantium Bound Armour + Sun Damage.esp
+Slightly_Better_Birthsigns_v1.0.esp
 DrowRacesofFaerunVampire.esp
 DrowRacesofFaerunEyeFix.esp
 Xereau's Better Birthsigns 1.0.esp

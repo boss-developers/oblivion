@@ -11203,8 +11203,8 @@ SecretStorage.esp
 SenTineL's Legendary Weapons And Armors 1.0.esp
   SAY: Update to latest version, latest version doesn't have version number in name.
 SenTineL's Legendary Weapons And Armors.esp
-SenTineL's Legendary Weapons And Armors_AE.esp
-SenTineL's Legendary Weapons And Armors_CE.esp
+REGEX: SenTineL's Legendary Weapons And Armors_[AC][EU]\.esp
+  SAY: Use only one SenTineL's Legendary Weapons And Armors_XX.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
 Servant of the Dawn.esp

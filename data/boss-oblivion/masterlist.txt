@@ -2876,7 +2876,7 @@ moDem's City Life - BP Compat Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 moDem's City Life.esp
   SAY: May cause crashes in the IC Market district. May have been fixed. Needs verification.
-  IF CHECKSUM("moDem's City Life.esp", 88D5A5EE) DIRTY: 286 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("moDem's City Life.esp", 88D5A5EE) || IF CHECKSUM("moDem's City Life.esp", D4007433) DIRTY: 286 ITM, 19 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 moDem's City Life Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 
@@ -4341,6 +4341,7 @@ Fighters Guild Scalemail Full.esp
 FF00_Clothes.esp
 FF00_SA-LightArmor.esp
 FF7 Weapons.esp
+FinalFantasy.esp
 FinalFantasy10BrotherhoodSword.esp
 FinalFantasy10BrotherhoodswordNEW.esp
 FineWeapons.esp
@@ -4719,6 +4720,7 @@ kolovian_robes.esp
 KORE- Salient Daggers.esp
 KOTN steel armor.esp
 Krakens.esp
+KrisTa.esp
 Kynareth Armory.esp
 kimono_tiberias_v1.esp
 Kikai & Slof Clothing.esp
@@ -4761,6 +4763,7 @@ Lady Underwear.esp
 Lady Vamp.esp
   IF CHECKSUM("Lady Vamp.esp", 96E0B6DD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Victorias Secret.esp
+Lady Victoria Secret EV.esp
 Lady Bat.esp
   IF CHECKSUM("Lady Bat.esp", 714739C5) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Wild.esp
@@ -5489,6 +5492,8 @@ strotisNewFood.esp
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
 Succuba Armor.esp
+Succubus.esp
+Summer Clothes.esp
 Summer Onepiece.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
@@ -5732,6 +5737,7 @@ wands.esp
   IF CHECKSUM("wands.esp", BA110E01) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wands!.esp
 WarriorBandages_V2.0.esp
+  TAG: {{BASH: Invent}}
   IF CHECKSUM("WarriorBandages_V2.0.esp", D40875F2) DIRTY: 9 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 WarriorBandages_OOO_V2.0.esp
 WarriorPriestSet.esp
@@ -8940,6 +8946,8 @@ APS Abundant Stones.esp
 Aqvatika.esp
 Aqua_City_01.esp
   REQ: Shivering Isles
+AR.esp
+  DIRTY: 31 ITM, 44 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AranMathi.esp
 Aranmathi Druid Version v.1.2.esp
 ArboretumHouse.esp
@@ -9332,6 +9340,8 @@ CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
 Capsized Ship.esp
 Cartographer.esp
+Casa en Bruma.esp
+CasaMania.esp
 Castello_gotico.esp
 Castlevania.esp
   IF CHECKSUM("Castlevania.esp", 99857FBF) DIRTY: 13 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10140,7 +10150,7 @@ ImpeREAL City Unique Districts - Arboretum.esp
   INC: Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged.esp
   INC: Better Cities Full or Better Cities IC components.
-  IF CHECKSUM("ImpeREAL City Unique Districts - All the Districts - Merged.esp", DF183339) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ImpeREAL City Unique Districts - All the Districts - Merged.esp", DF183339) || IF CHECKSUM("ImpeREAL City Unique Districts - All the Districts - Merged.esp", 906EBFCC) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImpeREAL City Unique Districts - Lightless - All the Districts - Merged.esp
   INC: Better Cities Full or Better Cities IC components.
 ImpeREAL City Unique Districts - All the Districts - Merged - Lightless.esp
@@ -10774,6 +10784,7 @@ Nanaelas Heartbreak.esp
 nazarianlibraryV3beta.esp
 NecroHideOut.esp
 NecromancerHunting.esp
+  IF CHECKSUM("NecromancerHunting.esp", CE2408AF) DIRTY: 13 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Necromancer Lair.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
@@ -11531,6 +11542,7 @@ Aylied Steps - AN Real Lights patch.esp
 //Yes, that spelling error is correct.
   REQ: The Ayleid Steps, All Natural Real Lights.
 CDEP_FanaCeya.esp
+  TAG: {{BASH: C.Light}}
   IF CHECKSUM("CDEP_FanaCeya.esp", 84B74D3F) DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Beast of Legend.esp
 The Brandy Maker.esp
@@ -12482,21 +12494,6 @@ CUO_Bravil.esp
 //Needs to be here for compatibility with Lost Spires
   IF CHECKSUM("CUO_Bravil.esp", A1A0CAA2) DIRTY: 42 ITM, 729 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
-The Lost Spires.esp
-  IF CHECKSUM("The Lost Spires.esp", 8BBD7F36) DIRTY: 164 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-  IF CHECKSUM("The Lost Spires.esp", 5B6ADFB3) DIRTY: 165 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-  IF CHECKSUM("The Lost Spires.esp", B90E1A6D) DIRTY: 163 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-OCC-Lost Spires-Patch.esp
-OCR + Lost Spires Patch.esp
-The Lost Spires_delayer.esp
-  SAY: Old Version.
-The Lost Spires v14 Delayer.esp
-  SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
-The Lost Spires Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-MTCVillages-LostSpiresPatch.esp
-Morroblivion Conversation - The Lost Spires Patch.esp
-
 Aundae.esp
 //Needs to load here for compatibility with The Lost Spires.
 Aundae_OBSE_addon.esp
@@ -12542,6 +12539,22 @@ Blood&Mud - EE patch.esp
   TAG: {{BASH: Actors.ACBS}}
 Blood&Mud Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+
+//Needs to load after Blood&Mud.esp to prevent a building becoming inaccessible.
+The Lost Spires.esp
+  IF CHECKSUM("The Lost Spires.esp", 8BBD7F36) DIRTY: 164 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("The Lost Spires.esp", 5B6ADFB3) DIRTY: 165 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("The Lost Spires.esp", B90E1A6D) DIRTY: 163 ITM, 433 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+OCC-Lost Spires-Patch.esp
+OCR + Lost Spires Patch.esp
+The Lost Spires_delayer.esp
+  SAY: Old Version.
+The Lost Spires v14 Delayer.esp
+  SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+The Lost Spires Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+MTCVillages-LostSpiresPatch.esp
+Morroblivion Conversation - The Lost Spires Patch.esp
 
 Lost Paladins of the Divines.esp
   IF CHECKSUM("Lost Paladins of the Divines.esp", E3BD8E62) DIRTY: 6 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -13171,6 +13184,8 @@ SacredOakSettlement-Urasek patch.esp
 Vergayun.esp
 Vergayun Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Midland-Vergayun patch.esp
+ROC-Midland-Vergayun patch.esp
 Verwen Brewery.esp
 Village of Lily 2.0.esp
 Viking Village.esp
@@ -15002,6 +15017,10 @@ Grummite Bows.esp
 GuardEquipAndStatFix.esp
   TAG: {{BASH: Actors.Stats, Invent}}
 Guard's Ear.esp
+GuildAdvancement.esp
+  IF FILE("Banes Guilds United.esp") ERROR: Use "GuildAdvancementBGU.esp" instead.
+GuildAdvancementBGU.esp
+  IFNOT FILE("Banes Guilds United.esp") ERROR: Use "GuildAdvancement.esp" instead.
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp
@@ -16169,6 +16188,7 @@ WolfPacks.esp
 WolfPacksOscuroAddOn.esp
 WerewolfTheAwakening.esp
 Werewolf-Legends.esp
+  IF CHECKSUM("Werewolf-Legends.esp", 505B486D) DIRTY: 4 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Werewolf-Legends_DV.esp
 Werewolf-Legends v2.0 Delayer.esp
 Wrye Shivering.esp
@@ -16654,6 +16674,7 @@ MHE v2 - Exnem&Robert.esp
   SAY: Use only one MHE v2 esp
 
 StarX Vanilla Vampires Revised.esp
+  TAG: {{BASH: C.Light}}
   IF VAR(OOO) SAY: Has problems with OOO (StarX vampires will fight OOO vampires, and some chests/weapons will be in skewed places).
 StarX VVR_OOO Patch.esp
 StarX VVR_OOO_FCOM Patch.esp
@@ -18070,6 +18091,7 @@ Faster Level Up X50.esp
 Faster Level Up X100.esp
 Faster Skills x5.esp
 Faster Restoration.esp
+Increased Restoration and Mercantile Leveling Rates.esp
 G_'s-Level-Slow.esp
 Kami Leveling.esp
 Maethlin's Skilltweak.esp
@@ -18199,6 +18221,8 @@ SDR_NPC Behavior.esp
   IF VERSION("SDR_Core.esp", "=4.5.0", >) SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
   INC: SM Combat Hide, which is included in this plugin.
 SDR_ThievesArsenal_Patch.esp
+SDR_Detect Life Shader Patch (Oblivion).esp
+SDR_Detect Life Shader Patch (Nehrim).esp
 
 PureImmersion.esp
 piHealth5x.esp
@@ -18328,6 +18352,7 @@ phat39s trainaholic-10.esp
 phat39s trainaholic-15.esp
 phat39s trainaholic-20.esp
 RealisticLeveling.esp
+Retroactive Stats.esp
 The Versatile Adventurer.esp
   REQ: OBSE.
 ENDGROUP: Skills, Attributes and Leveling
@@ -20791,6 +20816,7 @@ ENDGROUP: Better Cities FPS Patches
 
 BEGINGROUP: BC Compatibility patches
 
+An Unexpected Company - Better Cities.esp
 
 Better Abandoned House - BC_OBC Patch.esp
 

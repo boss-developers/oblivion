@@ -82,6 +82,7 @@ Windfall.esm
 MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 CastleWestWeald.esm
+ElsweyrValenwood.esm
 MenuSysFramework.esm
 MathFunctions.esm
 Plugin Resources.esm
@@ -1661,6 +1662,8 @@ BEGINGROUP: Base A
 abcMagicChest.esp
 AddActorValues_example.esp
   SAY: demo mod, illustrates how to use the basic features of AddActorValues. Not need for use.
+Adventurers Guides.esp
+AG_NPC_Deluxe.esp
 UnderWaterPathGrid_Anvil.esp
 AliveWaters.esp
   IF CHECKSUM("AliveWaters.esp", 0717BF5A) DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -2653,6 +2656,9 @@ ShieldOnBack_GOTY_1C.esp
   SAY: Obsolete. Update to latest version.
 shiveringislesdoorusable.esp
 SINecropolis.esp
+Shouts of the Dovahkiin.esp
+  TAG: {{BASH: Actors.Anims, Actors.CombatStyle, Voice-M}}
+  IF CHECKSUM("Shouts of the Dovahkiin.esp", 844A23D8) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ShowHideAmulet.esp
 SilverFence.esp
 SigilStonesExpanded1.5.esp
@@ -3160,6 +3166,7 @@ skycaptains NPCFF.esp
 SM Soul Delete.esp
 Spell Delete.esp
 Spell Delete And Item Remove.esp
+Sprinting.esp
 StatCleaner.esp
 Streamline.esp
 Streamline 2.0.esp
@@ -4475,6 +4482,7 @@ GekkoukanSet.esp
 GuardWyrmFemale.esp
 Guitar ENG.esp
 Guitar ITA.esp
+Gun Mage.esp
 Gypsy_Clothes.esp
 ENDGROUP: Items G
 
@@ -5736,6 +5744,7 @@ BEGINGROUP: Items W
 wands.esp
   IF CHECKSUM("wands.esp", BA110E01) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wands!.esp
+Warglaives by Jojjo v1.0.SoB.esp
 WarriorBandages_V2.0.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("WarriorBandages_V2.0.esp", D40875F2) DIRTY: 9 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5782,6 +5791,7 @@ XiaValentinesDayGift07.esp
 Zaine's White Knives.esp
 Zatoichi.esp
   TAG: {{BASH: Invent}}
+Zelda OOT Equipment Mod v_78.esp
 ZMP NoError.esp
 zzzSoulGemEnhancedRestoreWeaponsCharge.esp
 ENDGROUP: Items XYZ
@@ -6301,6 +6311,7 @@ New Exnem Compatible Armors.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 N_Undies.esp
 
+OdinsSkimpyGlassArmor.esp
 Opale armor for Exnem body.esp
 
 Pegasus Armor Set.esp
@@ -6375,6 +6386,7 @@ Slof's Beefcake Armors.esp
 Slof's Brighter Arena Raiments.esp
   TAG: {{BASH: Graphics}}
 Slofs Elaborate Robe Exnemized - EV.esp
+Sophitia_BKS.esp
 Sorceress Edea Dress Costume.esp
 Sorceressofthestorm.esp
 SPB Blue Dress.esp
@@ -8961,6 +8973,7 @@ Arcane Services.esp
   IF CHECKSUM("Arcane Services.esp", 15FFC768) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Arcaca_Infinium.esp
 ArcaneSkyHouse.esp
+ArcaneUniversityExperience.esp
 Arcane University Telescope.esp
 Archer Shop Ver. 4.2.esp
   REQ: Shivering Isles
@@ -9378,6 +9391,12 @@ castledarkshard.esp
 CastleEdrendil.esp
 CastleEltz.esp
 SYS Patch-Castle Eltz.esp
+Castle Eltz.esp
+Castle Eltz - Mannequin Stands.esp
+Castle Eltz - Filled Booksets.esp
+Castle Eltz - Cobl Books.esp
+Castle Eltz - Cobl Patch.esp
+Castle Altz - AN Patch.esp
 castleofnight.esp
 Castle_Domrose_V1.2.esp
 CastleDomroseRu.esp
@@ -10058,6 +10077,7 @@ Holy Cathedral.esp
 Home_1.1a.esp
 Home Improvement - Imperial City Shack 1.0.esp
 Home in Bleakers Way.esp
+HomeShipTWW.esp
 Horse Dreamland.esp
 HouseFires.esp
 House of Corpses.esp
@@ -10792,6 +10812,8 @@ NemoriaCottage.esp
 Nerussa The Wine Collector v1.0.esp
 New Anvil Flora.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities Anvil components.
+New Biger Your Personal Dungeon Biger.esp
+//Yes, "Biger" is correct...
 New Imperial City.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities IC components.
 NewSheothManor.esp
@@ -11339,6 +11361,7 @@ SMAbriaelHuman.esp
 SN_Shivering_Shack.esp
 SN_Sunset_Cottage.esp
 SMSynx.esp
+Sno_DarkClub.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
 Sno_DB 1.0_Blade of Woe Replacer.esp
@@ -11541,6 +11564,7 @@ The Ayleid Steps Vwalk.esp
 Aylied Steps - AN Real Lights patch.esp
 //Yes, that spelling error is correct.
   REQ: The Ayleid Steps, All Natural Real Lights.
+Amen'thalas - Ayleid Steps Patch.esp
 CDEP_FanaCeya.esp
   TAG: {{BASH: C.Light}}
   IF CHECKSUM("CDEP_FanaCeya.esp", 84B74D3F) DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11784,6 +11808,7 @@ UA_ArmorOfTotality.esp
 UFF Gypsy Market.esp
 ultimatehouse.esp
 Unbeatable Angel.esp
+UndeadFamiliars.esp
 UndergroundLair.esp
 UnfathomedTower.esp
 UngarimsCaveNew.esp
@@ -12405,6 +12430,8 @@ Dragon Templar.esp
 RavDCPOD.esp
 
 Knights Unleveled.esp
+
+Servant of the Dawn DLC Compatibility Patch.esp
 
 This Mortal Crag.esp
 ENDGROUP: DLC 4
@@ -13525,6 +13552,7 @@ Amen'thalasWellHouse-ArriusCreek patch.esp
 Amen'thalasWellHouse-xulPatch_AY_AC patch.esp
 Amen'thalas - ULAY_AC Patch.esp
 Amen'thalas - UL Patch.esp
+Amen'thalas - HOD_UL Patch.esp
 Verwen Brewery UL_AY_AC Compatable.esp
   SAY: Use only one Verwen Brewery esp. the Unique Landscapes Ancient Yews/Arrius Creek patch.
   IF CHECKSUM("Verwen Brewery UL_AY_AC Compatable.esp", E45679C7) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14676,6 +14704,7 @@ CaesarOneWithNature.esp
   REQ: CaesarRanger.esp
 CalyndStone.esp
 Camoran.esp
+Carry all you want-5118.esp
 CBScryingv1.esp
 Colourwheels Sexy Dance Club.esp
 CoverYourself.esp
@@ -15018,9 +15047,9 @@ GuardEquipAndStatFix.esp
   TAG: {{BASH: Actors.Stats, Invent}}
 Guard's Ear.esp
 GuildAdvancement.esp
-  IF FILE("Banes Guilds United.esp") ERROR: Use "GuildAdvancementBGU.esp" instead.
+  IF FILE("Banes Guilds United.esp") || IF FILE("Banes Guilds UnitedOOO.esp") ERROR: Use "GuildAdvancementBGU.esp" instead.
 GuildAdvancementBGU.esp
-  IFNOT FILE("Banes Guilds United.esp") ERROR: Use "GuildAdvancement.esp" instead.
+  IFNOT FILE("Banes Guilds United.esp") || IFNOT FILE("Banes Guilds UnitedOOO.esp") ERROR: Use "GuildAdvancement.esp" instead.
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp
@@ -15093,6 +15122,7 @@ Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 cf_Improved_Barter_Gold.esp
   IF CHECKSUM("cf_Improved_Barter_Gold.esp", A4F37E72) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+ImprovedWaterfrontShips.esp
 Increased Fog of War Radius - 5X.esp
 Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance-TESSource.esp
@@ -15317,6 +15347,7 @@ No Glow Grass - Shorter.esp
 No Glow Grass - Faster and Shorter.esp
 NoLoadingMessage.esp
 NoMoreGuardsWithBowsv1.2.1.esp
+No More Quest Items-4810.esp
 Andrews_No_Quest_Items-6729.esp
 No Quest Items.esp
 NoQuestItems.esp
@@ -16859,6 +16890,7 @@ Exit_Spell.esp
 Finders Keepers.esp
 Nighteye Glasses.obse.esp
 ForecastersWill.esp
+Freeze Tag.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
 grmblf Weather Spell.esp
@@ -17067,6 +17099,7 @@ Unlocking spell.esp
 WaldelfsLevitation.esp
 WaldelfsLevitation_1C.esp
 Weatherspell.esp
+Witchcraft.esp
 Wizard's Vengeance Spells.esp
 WizardLock.esp
 no spell limit.esp
@@ -18949,6 +18982,8 @@ Blood Elves.esp
 Brachyuran.esp
 FFXIII_Race.esp
 Children of Hircine.esp
+Coolsims Hair for Rens.esp
+  TAG: {{BASH: Hair}}
 DarkNephilim.esp
 Dark Seducer Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
@@ -19640,6 +19675,7 @@ CM_Blackie_the_Fence.esp
 CM Pellena Trader Twins.esp
 ambreskav02.esp
 ambreskav02_default_anim.esp
+AnnaCMpartner.esp
 A CM Partner - Caitlynn (Sonnet Remix).esp
 A CM Partner - Rhiannon.esp
 A CM Partner - Sah.esp
@@ -19743,6 +19779,7 @@ CM NOVA.esp
 CM SASHEIRA.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
+CMTrixi.esp
 Cm TwinsMascFem.esp
 CM TwinsRoeCalihari.esp
 CMTorys.esp

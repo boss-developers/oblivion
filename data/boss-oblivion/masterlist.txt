@@ -15049,7 +15049,7 @@ Guard's Ear.esp
 GuildAdvancement.esp
   IF FILE("Banes Guilds United.esp") || IF FILE("Banes Guilds UnitedOOO.esp") ERROR: Use "GuildAdvancementBGU.esp" instead.
 GuildAdvancementBGU.esp
-  IFNOT FILE("Banes Guilds United.esp") || IFNOT FILE("Banes Guilds UnitedOOO.esp") ERROR: Use "GuildAdvancement.esp" instead.
+  IFNOT FILE("Banes Guilds United.esp") && IFNOT FILE("Banes Guilds UnitedOOO.esp") ERROR: Use "GuildAdvancement.esp" instead.
 GuildStorage.esp
 Guild Chests V.1.esp
 GuilesNameReplace-Scrolls.esp

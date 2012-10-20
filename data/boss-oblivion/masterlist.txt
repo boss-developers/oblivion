@@ -2284,6 +2284,7 @@ MeosPotionReplacer.esp
 merchant chest fix.esp
 MG Recommendation Skip.esp
 MidnightRecharge.esp
+MIK_SummonCompanionRing_v1.0.esp
 Milt-SecretStorage.esp
 Milt-SecretStorage_ru.esp
 mini fixes-altars.esp
@@ -2726,6 +2727,7 @@ Teleport Arrows.esp
   TAG: {{BASH: Invent}}
 TenMillionGold.esp
 TESA Clutter Test Cell.esp
+The Death Note.esp
 The_Student_Mod.esp
 The White Stallions.esp
 the secret black market.esp
@@ -3032,6 +3034,7 @@ Auto_Recharge.esp
 AutomaticPatrols.esp
   IF FILE("DynamicLeveledLists.esp") ERROR: DELETE. Included in Dynamic Leveled Lists mod
 
+Better Running.esp
 BookTrackerOBSE.esp
 
 CDM - Shivering Time.esp
@@ -6372,6 +6375,7 @@ Sexy Ghost Armor.esp
 SexyKunoichi.esp
 SexyLeather.esp
 Sexy Mandarin Dress.esp
+SexyObv1.esp
 SG015_Leia.esp
 shadow lord_normal.esp
 Shadowsilk-exnem.esp
@@ -6500,6 +6504,9 @@ VGA_SaintSeducer.esp
 Volcano in the Twilight.esp
 
 XiaNewAmuletsV1.esp
+
+YAARM_Steel.esp
+  TAG: {{BASH: Graphics, NoMerge}}
 
 ZKEC.esp
 Zombie Slayer Armor.esp
@@ -6633,6 +6640,7 @@ Command Mount.esp
 NV Imperial Guard Horse Armour.esp
   TAG: {{BASH: Graphics}}
 WhistleTrainer.esp
+Zira's Demonic Mounts.esp
 Zira My Horses Compilation.esp
 Zira's Monster Horse.esp
 Zira's Horse Stable.esp
@@ -9325,6 +9333,7 @@ Bruma Farm Updated.esp
 Bruma House.esp
 Bruma House For Sale.esp
 SYS Patch-Bruma House For Sale.esp
+BrumaHouseRevived.esp
 Bruma Hunting Lodge.esp
 Buddah Mansion.esp
 Bullock.esp
@@ -9657,6 +9666,7 @@ DisplayHousejm.esp
 Display Rooms.esp
 Diverse Guards.esp
 
+DiveRockHouse.esp
 Dive Rock Revisited.esp
 Dive Rock Throne.esp
 MeteorShowerDiveRock.esp
@@ -10051,6 +10061,7 @@ HMO_ForHMC.esp
 Hentai mania OOO+MMM patch.esp
 Hentai mania OOO patch.esp
 hantai mapbook.esp
+HermitageCropsford.esp
 Hero Hill Redone.esp
 HiddenTreasures.esp
 Hidden Treasure Chests-UL edition.esp
@@ -10741,7 +10752,7 @@ MTCExpandedVillages.esp
 // Must load before "Region Revive - Lake Rumare".
   IF FILE("RTT.esp") && IFNOT FILE("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
   IF FILE("Faregyl.esp") && IFNOT FILE("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
-  INC: Lost Spires
+  IF FILE("The Lost Spires.esp") && IFNOT FILE("MTCVillages-LostSpiresPatch.esp") WARN: Incompatible with Lost Spires unless using the patch available here: "http://oblivion.nexusmods.com/mods/42430"
   IF CHECKSUM("MTCExpandedVillages.esp", 795046EF) DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MTC-WeyePatch.esp
   IF FILE("MTCVillages-LakeRumarePatch.esp") WARN: Use this patch or "MTCVillages-LakeRumarePatch.esp", but not both.
@@ -11074,6 +11085,7 @@ RA Objects.esp
 RA ADD GRV.esp
 RA Chain Add-on.esp
 Ramy Monster.esp
+Rangerhouse v 1.0.esp
 Raubritter.esp
 Rascals Rest Cave.esp
 Really Boring Dungeon.esp
@@ -11158,6 +11170,7 @@ Rosethorn Hall Remodel.esp
 RosethornHallCave.esp
 RoxeyCottage.esp
 RoxeyCottageCOBLaddon.esp
+royaume_d_almar_v1_4.esp
 RS - Gladiator.esp
 Ruins of Aeris Zul.esp
 Ruins of Nalcarum.esp
@@ -11538,6 +11551,7 @@ The Treasure House.esp
 The Tritons Of Cyrodiil.esp
 The Well of Lost Souls.esp
 TheGoldenTower.esp
+Thieves Highway Anvil.esp
 Thieves Highway Anvil (Eng).esp
 Thieves Highway Anvil (Rus).esp
 TheOldHero.esp
@@ -11589,6 +11603,7 @@ The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists.esp
 The Duelists Revolver.esp
+The_Eagles_Nest_Returned.esp
 TheForgottenRealm.esp
   SAY: Possible CTDs. Enable only on time of game in TheForgottenRealm.esp
 The Gate of Haraldur 12.esp
@@ -11665,6 +11680,7 @@ TheRunesOfThu'um.esp
 TheStorytellersBrotherQuest.esp
   IF CHECKSUM("TheStorytellersBrotherQuest.esp", 2414A8EF) || IF CHECKSUM("TheStorytellersBrotherQuest.esp", 3B237D7C) DIRTY: 17 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   SAY: A fixed version can be found here: "http://oblivion.nexusmods.com/downloads/file.php?id=7809"
+The Tritons Of Cyrodiil .esp
 TheUndercity.esp
 The UnderCroft v-04.esp
 The UnderCroft v-04a.esp
@@ -11733,6 +11749,7 @@ TR_Stirk.esp
 TR_Stirk Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge }}
 Stirk_Compatibility_Patch.esp
+  IF CHECKSUM("Stirk_Compatibility_Patch.esp", 3A9D338B) DIRTY: 0 ITM, 12 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Stirk_Compatibility_Patch(removes ship from anvil harbor).esp
   REQ: TR_Stirk.
 FCOM_Stirk.esp
@@ -13786,6 +13803,7 @@ MannimarcoResurrection-EasternPeaks patch.esp
 xulEasternPeaks_TWMPBlackMarshPatch.esp
 MythsAndLegends2-EasternPeaks patch.esp
 Tantrivaylia-EasternPeaks patch.esp
+KragenirsDeathQuest-EasternPeaks patch.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -13970,6 +13988,7 @@ ROC+Lilyvale Patch.esp
 Millstone_Farm.esp
   IF CHECKSUM("Millstone_Farm.esp", 8BAB5B62) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Millstone_Farm_COBL.esp
+  IF CHECKSUM("Millstone_Farm_COBL.esp", A67E4087) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Millstone_UL_Patch.esp
   IF CHECKSUM("Millstone_UL_Patch.esp", F7081B36) DIRTY: 13 ITM, 116 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MillstoneCOBL_UL_Patch.esp
@@ -15087,6 +15106,7 @@ HelmetFOV.esp
 HelmetFOV-OBSE.esp
 Herberge zum Brina Kreuz extended 1.1.esp
 HexRattCampnstyle.esp
+hhVariedMages.esp
 HideHelms.esp
 Higher Thieves' Guild Fence Amounts.esp
 High Personality Namira Quest.esp
@@ -15181,6 +15201,7 @@ Leviathan Soul Gems Abridged.esp
 SoulgemSalvation.esp
   SAY: Don't use with Leviathan Soulgems (included).
 Kosai's Welkynd Armor.esp
+  IF CHECKSUM("Kosai's Welkynd Armor.esp", 6A82AA3F) || IF CHECKSUM("Kosai's Welkynd Armor.esp", F5F05832) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Leviathan Trophy Soulgems.esp
   REQ: Tibixe's String Function Collection and Leviathan Soulgems.
 [Leshik] - SoulGems.esp
@@ -15603,6 +15624,7 @@ SecretsoftheAyleidsClosure.esp
   IF CHECKSUM("SecretsoftheAyleidsClosure.esp", E9500749) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Secure Guild Chest.esp
   IF CHECKSUM("Secure Guild Chest.esp", 9FE1ED7F) DIRTY: 9 ITM, 13 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Seperate Helmets.esp
 SeptimsAreAnInventoryItem.esp
 Sexier Sheogorath.esp
 Sexier Sheogorath DV.esp
@@ -15656,6 +15678,7 @@ Brothel of Cyrodiil_ENG.esp
 Kaleah Sucub.esp
 Basic Instinct for BoC.esp
 Vtoy.esp
+  IF CHECKSUM("Vtoy.esp", E80F82B8) DIRTY: 314 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SMVtoyCross.esp
 Lovers.esp
 Lovers3dorgasm.esp
@@ -15788,6 +15811,7 @@ LoversSkirtFlipper.esp
 LoversStopCombatEx.esp
 LoversSTVictims.esp
 LoversSpermSplashEx.esp
+LoversSummonRapeman.esp
 LoversEscapeRapeVPlayer.esp
 LoversRapeSlave.esp
 LoversRapeStruggle.esp
@@ -17168,6 +17192,7 @@ Diverse Effect Icons for MM-Reborn.esp
 cidnothumpMMversion.esp
   TAG: {{BASH: Sound}}
 Recastable Summons - Mighty Magicka Version.esp
+OOO Skill Rates-MM FIX.esp
 ENDGROUP: Mighty Magic
 
 BEGINGROUP: Supreme Magicka
@@ -18066,6 +18091,7 @@ Druid.esp
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
 Vanilla_Oblivion_Skill_Rates.esp
 LRM_Generic.esp
+Master Trainers Upgraded.esp
 
 AdvancedMagicLeveling.esp
 AttributePlusX_v1.1.esp
@@ -19368,6 +19394,8 @@ LittleElf.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Sun_&_Night_Elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+VailenaRace.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Vampire Race Reloaded.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
   SAY: May contain wild edits to vanilla vampire attributes.
@@ -19933,10 +19961,13 @@ BEGINGROUP: Vilja Companion
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Vampire Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+1em_Vilja_as_Vampire_Reloaded_by_Xtudo.esp
+  SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi.esp
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Tabaxi Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+1em_ViljaCool72g.esp
 REGEX: 1em_Vilja_(cool|Ren)hair\d\d?g?\.esp
   SAY: Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
@@ -20115,6 +20146,7 @@ BetterShack.esp
 Candlelight.esp
 RhiannaII-essential.esp
   TAG: {{BASH: Hair, Eyes}}
+VailenaCompanionValeria.esp
 Valtierro_B1.esp
 Valtierro_B1-NoCCRL.esp
 Valtierro_B1-NoCC.esp
@@ -20147,6 +20179,8 @@ DAGimli.esp
   TAG: {{BASH: Hair, Eyes}}
 DAValeriaCuteElf.esp
   TAG: {{BASH: Hair, Eyes}}
+DAValeriaCuteElf Vwalk.esp
+  TAG: {{BASH:Actors.Anims, NoMerge}}
 DARaewyn.esp
   TAG: {{BASH: Hair, Eyes}}
   SAY: Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.

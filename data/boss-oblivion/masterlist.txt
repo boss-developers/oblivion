@@ -218,6 +218,7 @@ No Lights Flicker.esm
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Ambidextrie.esm
 AFC v2 Core.esm
+DanceSynchronizator.esm
 Fundament.esm
 Progress.esm
 HelmetFOV.esm
@@ -2036,6 +2037,7 @@ DID3_DoubleTrouble.esp
 Dancertest.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
+DSDatabase.esp
 Days&Months.esp
 RealDaysAndMonths.esp
 
@@ -4453,6 +4455,7 @@ Golden Arrows of the Serpent.esp
 Golden Daedric Armor.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
+Goma Cloths.esp
 Gondorian Ranger Gear.esp
 GothFreak's Celtic Rings and Swords.esp
 Gothic Fetish Outfit.esp
@@ -4906,6 +4909,7 @@ Mirage_Rosewood.esp
 Mirror_1C.esp
 Mithril and Orcish Weapon Sets by Ionis.esp
 Mithris_HGEC.esp
+Mixed Maid Uniform.esp
 mnp Nighteye Goggles.esp
   TAG: {{BASH: Invent}}
 Model Man Exterminator.esp
@@ -11338,6 +11342,7 @@ SIMushroomHouse.esp
 Simple Cabin.esp
 Simple Life - Antus Family.esp
 SingingStablehandInn.esp
+Serene Cabin.esp
 skingrad guild castle upgrade.esp
 SkingradHoleInTheWall.esp
 SkingradHouseAdds.esp

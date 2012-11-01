@@ -1835,6 +1835,7 @@ CWar's Chest of Fun v1.4.esp
 Calender.esp
 Camera Redone.esp
   REQ: OBSE 16+.
+CaptiveMaiden.esp
 ChaseCameraMod.esp
 ChaseCameraMod_1C.esp
 CET-Utility-Belt.esp
@@ -3825,6 +3826,7 @@ battlemagearmor2-0 vanilla loot.esp
 Battle_Tattoos_v1.esp
   TAG: {{BASH: Invent}}
 Battlespire Books.esp
+BBDark Moon.esp
 BBBRoseoftheGuard.esp
   REQ: A Maximum Compatability Skeleton such as Coronnera's.
 bbClothesFinal.esp
@@ -4184,6 +4186,7 @@ DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
 Diabloarmor2.esp
+Diablorobe .esp
 Diannes Priestly Robe.esp
 Diano.esp
 DianoPNI.esp
@@ -5795,6 +5798,8 @@ XSPipeMod.esp
 XiaValentinesDayGift07.esp
   SAY: May not be compatible with anything that modifies the Tiber Septim Hotel.
 
+yangyang_frostbite.esp
+  
 Zaine's White Knives.esp
 Zatoichi.esp
   TAG: {{BASH: Invent}}
@@ -10004,6 +10009,7 @@ SYS Patch-Hammerfell Retreat.esp
 Hammers of Thor.esp
 Hand of Dawn.esp
 Hand of Dawn - ONE.esp
+Hand of Hammerfel.esp
 Harpsichords in Cyrodiil.esp
 Hau'oli Paena.esp
 Haunted Abandoned Manor.esp
@@ -11395,6 +11401,17 @@ SOTES_Santres.esp
 Sonnengoldhof.esp
 SoulGemSeller.esp
 soul gem transmutor.esp
+SoulGoddness.esp
+  TAG: {{BASH: Hair, Eyes}}
+    //no sure
+  REQ: BBB systems
+  SAY: Please install "http://oblivion.nexusmods.com/mods/37368 MBP" if you have issues with eyes
+  SAY: Change the next settings in Oblivion.ini
+  SAY:   bUseEyeEnvMapping=1
+  SAY:   bFixFaceNormals=0
+  SAY:   bUseFaceGenHeads=1
+  SAY:   bFaceMipMaps=1
+  SAY:   bFaceGenTexturing=1
 Sousmarin_manorV1.1.esp
 Southhelm Manor.esp
 sp_Market_Sewer_Hideout.esp
@@ -18520,6 +18537,8 @@ SeductiveIdles.esp
   IF CHECKSUM("SeductiveIdles.esp", B8DE5B2F) || IF CHECKSUM("SeductiveIdles.esp", 32F0B1EE) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("SeductiveIdles.esp", F011E367) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SeductiveIdlesgloomfrostcustom.esp
+Slave in pose.esp
+Slave in pose2.esp
 IntegratedAnimations.esp
 Idle Pose Replacer.esp
 Idle Stance Replacer.esp

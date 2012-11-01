@@ -13475,21 +13475,6 @@ HM2_xuLC_Comp.esp
 HM2_xulLC_Patch.esp
 ENDGROUP: HM2
 
-BEGINGROUP: From2ch Lives
-From2ch Lives.esp
-  REQ: Beautiful People 2ch-Ed.esm
-F2L_FaceChange.esp
-Ta22's 01Army.esp
-117NPCs.esp
-From2ch Lives Boss.esp
-F2LHideRaces.esp
-From2ch Lives Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-F2LAddon.esp
-F2LAddon_Kasuga&Sisimaru.esp
-F2LMiqoteAddon.esp
-ENDGROUP: From2ch Lives
-
 xulBravilBarrowfields.esp
   IF CHECKSUM("xulBravilBarrowfields.esp", A29AFDC3) DIRTY: 0 ITM, 5260 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -19084,7 +19069,6 @@ Lima.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 L'Nobody.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
-Lop-ears Elf_mini.esp
 Lorebased Races.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Lucha's Ashy Demons.esp
@@ -19416,6 +19400,7 @@ IceElfRace.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 LittleElf.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Lop-ears Elf_mini.esp
 Sun_&_Night_Elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 VailenaRace.esp
@@ -19628,6 +19613,21 @@ BEGINGROUP: Companions
 //
 //Mods with custom hair and eyes need tags.
 
+BEGINGROUP: From2ch Lives
+From2ch Lives.esp
+  REQ: Beautiful People 2ch-Ed.esm
+F2L_FaceChange.esp
+Ta22's 01Army.esp
+117NPCs.esp
+From2ch Lives Boss.esp
+F2LHideRaces.esp
+From2ch Lives Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+F2LAddon.esp
+F2LAddon_Kasuga&Sisimaru.esp
+F2LMiqoteAddon.esp
+ENDGROUP: From2ch Lives
+    
 A Crudius Companion Orc.esp
 
 shinyFollowMe_ru.esp

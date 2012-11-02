@@ -3881,6 +3881,8 @@ Blood Knight Armor.esp
 Bloodmail 2.1.esp
 Bloodrayne set.esp
 Bloodwine-6073.esp
+Bloodworm_Helm_Hornless.esp
+  TAG: {{BASH: Graphics}}
 Bloodworm_Helm_Replacer.esp
   TAG: {{BASH: Graphics}}
 BLRollingPinEV.esp
@@ -3896,6 +3898,7 @@ Birthsign Jewelry.esp
 Bisquits.esp
 Bisquits01.esp
 BisPainBringer.esp
+  IF CHECKSUM("BisPainBringer.esp", 6401529A) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Black Luster.esp
 BlackLuster.esp
 BlackLuster 2SwordStyle.esp
@@ -3975,6 +3978,7 @@ Catsuit.esp
 CB Dark Enchantress.esp
 CB Elegant Dress.esp
 CB Gothic Mistress.esp
+  IF CHECKSUM("CB Gothic Mistress.esp", 64F42FD6) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CheatsBook.esp
 CheeseCutter.esp
 Chin CatSuit.esp
@@ -4182,6 +4186,7 @@ DesuChan's Store.esp
 DFSL Leathery 4.esp
 DFSL Stylish.esp
 DFSLChina.esp
+  IF CHECKSUM("DFSLChina.esp", E2CC52D8) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DG Jewelry for All.esp
 DHAyleidShield.esp
 DHuntress.esp
@@ -4543,6 +4548,7 @@ Hentai_Hana_Dress.esp
 Hentai_HentaiUniform.esp
 Cloth_Hentai_Compilation.esp
 Hentai Compilation.esp
+  IF CHECKSUM("Hentai Compilation.esp", 204D7D47) DIRTY: 7 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Hentai_Compilation.esp
 Hentai_Lily_Angel'sWing.esp
 Hentai_LilyClothes.esp
@@ -4743,6 +4749,7 @@ kimono_tiberias_v1.esp
 Kikai & Slof Clothing.esp
 Kratos Blade Of Chaos.esp
 Kurese Recolours.esp
+  IF CHECKSUM("Kurese Recolours.esp", 4355DABA) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Kusanagi.esp
   TAG: {{BASH: Invent}
 ENDGROUP: Items K
@@ -5422,6 +5429,15 @@ SoulReaverWraith.esp
 [Keias]SoulRing.esp
 Soulshade Dragonslayer Sword.esp
 Spell Breaker Replacer.esp
+  TAG: {{BASH: Graphics}}
+Spellbreaker Replacer With Tweak With Reflection.esp
+  TAG: {{BASH: Graphics, Stats}}
+Spellbreaker Replacer With Tweak No Reflection.esp
+  TAG: {{BASH: Graphics, Stats}}
+Spellbreaker Replacer No Tweak With Reflection.esp
+  TAG: {{BASH: Graphics}}
+Spellbreaker Replacer No Tweak No Reflection.esp
+  TAG: {{BASH: Graphics}}
 SpeedBuster Collection.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
@@ -5523,6 +5539,7 @@ SW Cosplay 01.esp
 SW Cosplay 02.esp
 sweetclothes.esp
 SwordDancer.esp
+  IF CHECKSUM("SwordDancer.esp", E5EF8132) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Sword of the Rivan King.esp
 Sword-of-power.esp
 SwordOfTheGods.esp
@@ -6259,6 +6276,7 @@ Imperial Armor Replace.esp
 Imperial_Palace_Armor-2474.esp
   TAG: {{BASH: Graphics}}
 IndigoArmor.esp
+  IF CHECKSUM("IndigoArmor.esp", FED76787) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Ironless Skirt.esp
 ishmaelselvishmithril.esp
 IV Dress.esp
@@ -6345,6 +6363,7 @@ R18PN - Fiona Armor.esp
 R18PN - FuruFuru Armor.esp
 R18PN - Heilige Mutter Armor.esp
 R18PN - Lingeries.esp
+  IF CHECKSUM("R18PN - Lingeries.esp", C8F5D0FD) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 R18PN - Lingeries Plus.esp
 R18PN - Lingeries UU Patch.esp
 R18PN - Leere Armor.esp
@@ -6519,6 +6538,7 @@ YAARM_Steel.esp
 
 ZKEC.esp
 Zombie Slayer Armor.esp
+  IF CHECKSUM("Zombie Slayer Armor.esp", ABA4972B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ENDGROUP: Body Replacer Armour & Clothing
 
 BEGINGROUP: Not For Free Armor
@@ -6536,6 +6556,8 @@ The Sexy BeastV1.2.esp
 TheSexyBeastV1.2_ru.esp
 Hentai_LovelySuits.esp
 Dark_Mistress.esp
+  IF CHECKSUM("Dark_Mistress.esp", 86F22D28) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Dark_Mistress.esp", C1861491) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HGEC Rogue Mage & Scoundrel.esp
 Hentai_AthenaArmour.esp
 DM-Butterfly Widow.esp
@@ -6635,6 +6657,7 @@ TJ_HorseNames.esp
   TAG: May need {{BASH: Names}} . Untested.
 Essential Unicorn-TESSource.esp
 Imperial Horse Armor.esp
+  TAG: {{BASH: Graphics}}
 Mount Interaction.esp
 Mounted_Steering.esp
 Mounted_Spellcasting.esp
@@ -7293,6 +7316,7 @@ Harvest[Containers].esp
   IF VAR(OOO) SAY: Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
 Harvest[Containers] - Vanilla.esp
   IF VAR(OOO) SAY: Included in OOO. Remove unless you want to lose OOO's container traps, security rebalance and lock bashing features (so you can use other mods for those).
+  IF CHECKSUM("Harvest[Containers] - Vanilla.esp", D7E2759E) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Harvest[Containers] - Vanilla - Ore ReSpawn.esp
 Harvest[Containers] - SI.esp
 Harvest[Containers] - SI - Ore Respawn.esp
@@ -8476,6 +8500,8 @@ Friendly Fire for Frans.esp
 
 GrayFoxOutfit.esp
   TAG: {{BASH: Invent}}
+  IF CHECKSUM("GrayFoxOutfit.esp", 25B1445D) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("GrayFoxOutfit.esp", 0224F122) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
 Nightshade_Armor.esp
 Wearable GS and DS armor for OOO CG.esp
@@ -11273,6 +11299,8 @@ SFSpecialtyContainers.esp
 SFTempleRebuild.esp
 (SFL) Makeover - White Stallion Lodge.esp
 Shabah.esp
+ShadowRose Manor.esp
+  IF CHECKSUM("ShadowRose Manor.esp", A7EB4436) DIRTY: 47 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Shads Shack.esp
 Shads Water Bucket Plus.esp
 CMWaterskin.esp
@@ -11738,6 +11766,7 @@ Tomb of the Unknown Knight.esp
 Tombstones-beta.esp
 Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
+  IF CHECKSUM("Tona's_ModsStore.esp", 8DD1E120) DIRTY: 0 ITM, 103 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Tona's_ModsStore UU Patch.esp
 Topal Bay Camp.esp
 TQ1-loveletters.esp
@@ -13976,6 +14005,8 @@ Fort Akatosh Redux Vwalk.esp
 FortAkatoshRedux-NewRoads&Bridges patch.esp
 ROC+Fort Akatosh Redux.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+ROC-Midland-Vergayun-FAR patch.esp
+Midland-Vergayun-FAR patch.esp
 Fort Akatosh Redux Bottomless Cavern Patch.esp
 Cyrodiil Legion Addon.esp
   TAG: {{BASH: Names}}
@@ -15042,9 +15073,11 @@ GladiatorsVarlorRing.esp
 goblin_war_party.esp
 Goblin Shamans Respawn.esp
 Goblin Tribal Shields.esp
+  TAG: {{BASH: Invent}}
   IF CHECKSUM("Goblin Tribal Shields.esp", 84D18F3C) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 goblin_wars.esp
 GodStatues.esp
+  IF CHECKSUM("GodStatues.esp", B00847E1) DIRTY: 53 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GodStatues KOTN Edition.esp
   IF CHECKSUM("GodStatues KOTN Edition.esp", 78810F96) DIRTY: 35 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Gold Change II.esp
@@ -15686,6 +15719,7 @@ Brothel of Cyrodiil_ENG.esp
 Kaleah Sucub.esp
 Basic Instinct for BoC.esp
 Vtoy.esp
+  TAG: {{BASH: Hair, Eyes}}
   IF CHECKSUM("Vtoy.esp", E80F82B8) DIRTY: 314 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SMVtoyCross.esp
 Lovers.esp
@@ -20981,6 +21015,7 @@ Side's Bruma House (BC patch).esp
 
 Better Cities - Knightly Armory.esp
 Better Cities - Knights of the Nine.esp
+  IFNOT FILE("Better Cities - Open Better Cities.esp") ERROR: This patch should only be used with "Better Cities - Open Better Cities.esp".
 
 // These three load here to prevent land tears with UL Cheydinhal Falls.
 Better Cities IC Lighting Overhaul.esp

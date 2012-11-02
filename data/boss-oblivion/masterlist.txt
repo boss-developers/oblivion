@@ -11472,11 +11472,8 @@ strotisAyleidClutter.esp
 stWorldMonsters.esp
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Stygian Castle.esp
-SunderedKeep.esp
+IFNOT ACTIVE("Better Dungeons.esp") MOD: SunderedKeep.esp
   IF CHECKSUM("SunderedKeep.esp", 70719F5B) DIRTY: 50 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-SunderedKeep Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-
 Sunset Keep.esp
 SuperMarioblivion.esp
 swamp home.esp
@@ -14634,6 +14631,10 @@ Better dungeons.esp
   TAG: {{BASH: C.Light, C.Water}}
   IF CHECKSUM("Better dungeons.esp", 4908CB39) DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Better dungeons.esp", ADC761D9) DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+IF ACTIVE("Better Dungeons.esp") MOD: SunderedKeep.esp
+  // Has conflicts with Better Dungeons.esp and should loaded after Better Dungeons.esp on time of quests execution of the SunderedKeep.esp
+SunderedKeep Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 Betterleveledlists.esp
 Better Loot v1.0.esp
   TAG: {{BASH: Delev}}

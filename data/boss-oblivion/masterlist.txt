@@ -83,6 +83,7 @@ MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 CastleWestWeald.esm
 ElsweyrValenwood.esm
+UBANGA.esm
 MenuSysFramework.esm
 MathFunctions.esm
 Plugin Resources.esm
@@ -1256,11 +1257,14 @@ NoWind.esp
 No wind.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 
+CyrodiilSnowMod.esp
+FarView.esp
 PTAutumnTrees.esp
 HAZdynamicSnow.esp
 Dynamic Snow Accumulation - Better Cities Bruma by Xtudo.esp
 Sunnier Weather.esp
 LM_LongerNights.esp
+Remove Oblivion Sky in Tamriel.esp
 ENDGROUP: Weather mods and overhauls
 
 BEGINGROUP: Water and lava tweaks
@@ -1698,6 +1702,7 @@ AL_Frostwyrm.esp
 AL_InfernalSteed.esp
 AL_Nazagear.esp
 Almost Everything VWD.esp
+Akatosh.esp
 Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
 Akatosh Mount Earn The Wyrm.esp
@@ -3500,6 +3505,7 @@ ENDGROUP: Items Early
 BEGINGROUP: Items #
 
 000torturearmorbw.esp
+00 lux mea.esp
 00 shield rings.esp
 01_SenTinel's Katanas.esp
   TAG: {{BASH: Invent}}
@@ -4099,6 +4105,7 @@ Dark Sorceress.esp
 DarkSaintUFF.esp
 DarkSeducerGoldenSaintArmor.esp
 UFF Dark Saint Armor.esp
+DarkWings.esp
 DarkWoods_Weapons_Armor.esp
 Dauphni Clothing.esp
 DawnWraith.esp
@@ -4369,6 +4376,7 @@ FineWeapons.esp
 FinGleamRing.esp
 FireCircle_1C.esp
 fishclub.esp
+fjDarkRegalia.esp
 flamberg.esp
 Flamboyant Hat_SI.esp
 FLY Armor and Clothing - Non-replacers.esp
@@ -5154,6 +5162,7 @@ BEGINGROUP: Items R
 
 RealitySpectresThiefGarb.esp
 Ra'haar's Arcane Clutter.esp
+Ragnell&Alondite.esp
 Ranger.esp
 RangerEquipment.esp
 Ranger Equipment Set.esp
@@ -5206,6 +5215,8 @@ ROHJ2.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
+royal garb.esp
+  TAG: {{BASH: Graphics}}
 Royal Shields.esp
   TAG: {{BASH: Invent}}
 Royal Glass.esp
@@ -5432,8 +5443,10 @@ Spell Breaker Replacer.esp
   TAG: {{BASH: Graphics}}
 Spellbreaker Replacer With Tweak With Reflection.esp
   TAG: {{BASH: Graphics, Stats}}
+  IF CHECKSUM("Spellbreaker Replacer With Tweak With Reflection.esp", 6366D263) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Spellbreaker Replacer With Tweak No Reflection.esp
   TAG: {{BASH: Graphics, Stats}}
+  IF CHECKSUM("Spellbreaker Replacer With Tweak No Reflection.esp", 6366D263) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Spellbreaker Replacer No Tweak With Reflection.esp
   TAG: {{BASH: Graphics}}
 Spellbreaker Replacer No Tweak No Reflection.esp
@@ -6162,6 +6175,7 @@ DarkWindarmor1.esp
 Diannes UFF Daedric Casual Attire.esp
 Diva.esp
 DFSLoutfits.esp
+DMC4 Nero Clothes.esp
 DM Outlaw armor_EN.esp
 DM Outlaw armor_RU.esp
 dmra_bbb_armamentarium.esp
@@ -8806,6 +8820,7 @@ Aalloch.esp
 Abandoned_Estate.esp
 Abandoned Farm Ground Effects On.esp
 Abandoned Tavern.esp
+Abecean Pirates.esp
 Aberwiin Manor.esp
 ABloodyNight.esp
 ABloodyNight_ru.esp
@@ -9612,6 +9627,7 @@ Dank Dark Cave-Final.esp
 Darbinshire Keep.esp
 DarelothFrontDoorFix.esp
   INC: Apachii's Goddess Store.
+Dark_Altar_of_Sithis-4161.esp
 Dark Sanctuary Display Room.esp
 Dark Brotherhood Outpost v2.esp
   SAY: Outdated. Update to latest version.
@@ -10150,6 +10166,7 @@ hrOscarWiener.esp
 HTBFLYCollection.esp
 HTBMondsteinShop.esp
 HTBNeoSGOutfitsRedone.esp
+HTBSpookyHouse.esp
 Hunter's Haven File 1.esp
 ENDGROUP: Quests H
 
@@ -10165,6 +10182,7 @@ ICEGHouse.esp
 ICEGHouse_cobl.esp
 ICEGHouse_jp.esp
 IceMarshTC01.esp
+IC_Emperors_Quarters.esp
 icPlayerHome.esp
 SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -10289,6 +10307,7 @@ ImpeREAL City Dragon House patch.esp
 
 Imperial Library.esp
 Imperial City Ranch.esp
+Mad Mike's Imperial Undercity.esp
 
 ImprovedChorrol.esp
   INC: Better Cities Full or Better Cities Chorrol components.
@@ -10535,6 +10554,8 @@ Latexshop.esp
 Latexshop2.esp
 latexshopstore.esp
 LE_search.esp
+Legacy of Faran.esp
+  IF CHECKSUM("Legacy of Faran.esp", E2D1DB87) DIRTY: 522 ITM, 31 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Legends Baleful Eye.esp
 Legends - Baleful Eye.esp
   REQ: OBSE 20+
@@ -10590,6 +10611,7 @@ LeyawiinPort-AlphaRelease.esp
 Leyawin Player House for Sale.esp
 SYS Patch-Leyawiin Player House for Sale.esp
 
+Lich.esp
 Light Daedric Armour v-1.0.esp
 Lindenshadow Grange.esp
 Lindenshadow Grange Non UL Lush Woodlands Patch.esp
@@ -11045,6 +11067,7 @@ Pinnacle Citadel.esp
 Pit Trap.esp
 Pirate Cove Cavern.esp
 PirateIsland.esp
+Pirates!_Demo.esp
 Pirates Grave V1.1.esp
 Pirate Ship Home.esp
 PlayerCampsite.esp
@@ -11134,6 +11157,7 @@ Reaper_Drakelowe's Witch.esp
 Reaper's Elsandore's Stoneway.esp
 Reaper's Evil Lair.esp
 Reaper's Friendly Back-Up.esp
+Reaper's In Cold Blood Quest.esp
 Reaper's Sexy Shower Everywhere.esp
 Reaper's Sorcerer's Shop.esp
 Reaper's The Necromancer's Tower.esp
@@ -11250,6 +11274,7 @@ Sacred Duty.esp
 Sakveed Manor.esp
 Salan's Cellar.esp
 Saldaea.esp
+Saggaris's Talos Bridge and Roadway.esp
 SamuraiHouse.esp
 SamVimes's ThrowingKnives.esp
 SanctumSanctorum.esp
@@ -11870,11 +11895,14 @@ ENDGROUP: Quests T
 BEGINGROUP: Quests U
 
 UA_ArmorOfTotality.esp
+Ubanga2.57.0.esp
+UbangaDOORS1.7.16.esp
 UFF Gypsy Market.esp
 ultimatehouse.esp
 Unbeatable Angel.esp
 UndeadFamiliars.esp
 UndergroundLair.esp
+Untergrund1.esp
 UnfathomedTower.esp
 UngarimsCaveNew.esp
 Unholy Cathedral.esp
@@ -12980,7 +13008,8 @@ ROC+Tchos Alchemy Tower Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+DBC Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
-
+Northern Front - Roads of Cyrodiil - compatibility .esp
+  
 Immersive Prison sewer exit.esp
   IF CHECKSUM("Immersive Prison sewer exit.esp", D607A66) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NRBsewer exit.esp
@@ -14867,6 +14896,7 @@ CUO_UnleveledNpcs&Creatures.esp
   SAY: Needs to be Bashed Patched to work properly with Fran's and MMM. May have problems with disabling content from some overhaul mods.
 CUO_UnLeveledLoot.esp
 CUO_UnLeveledVendors.esp
+CUO_Transport_SAFE.esp
 ENDGROUP: CUO
 ENDGROUP: overrides C
 
@@ -15522,6 +15552,7 @@ PersuasionOverhaul_MMM.esp
   TAG: {{BASH: Relations}}
 PersuasionSI.esp
 PersuasionOverhaul_LITE.esp
+PersuasionOverhaul fr.esp
 persuasioncompatable1.8.esp
 Piratelords Pice Adjustments.esp
 PTRetroactiveTraining.esp
@@ -16789,6 +16820,8 @@ LTDVampireOverhaul.esp
 LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
 MIVs Vampire Overhaul RUS.esp
   IF FILE("Unholy Darkness.esp") INC: Unholy Darkness.esp
+MIVs Vampire Overhaul ENG.esp
+  IF FILE("Unholy Darkness.esp") INC: Unholy Darkness.esp
 PxVampireFaceReset.esp
 RAF Vampires Bite Revamped.esp
 Twillith vampirism 1.7.esp
@@ -17503,6 +17536,8 @@ Poisoned Apple Fix.esp
 Poison Maker.esp
   SAY: Consider updating to v1.08.
 Potion 430.esp
+Potions and Poisons Overhaul.esp
+Potions&Poisons Overhaul V2.esp
 Poison Maker v1.08.esp
 Potion Mixer.esp
 PotionPurify_en.esp
@@ -17684,6 +17719,7 @@ Stealth Entrances v1.esp
 STEALTHIER THIEVING.esp
 Deadlier Traps.esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
+DeadlyTrap.esp
 SM Security.esp
   IF VAR(OOO) SAY: Partly included with OOO. May not be OOO compatible.
 HaldursSkeletonKey v1.02.esp
@@ -18126,8 +18162,11 @@ BEGINGROUP: Skills, Attributes and Leveling
 //Unlikely to interact with other kinds of mods.
 //Includes related mods bundled with OOO and similar optional items from Fran's.
 
+3xMercantile.esp
+
 ActorValueUncapper_Example.esp
 AtLeast+3Modifiers.esp
+AttributesEasy.esp
 Druid.esp
 
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
@@ -18889,6 +18928,8 @@ Cernasite - DragonEyes.esp
   TAG: {{BASH: Eyes}}
 Cernasite - DragonEyes - GE.esp
   TAG: {{BASH: Eyes}}
+Cernasite - OracleEyes.esp
+  TAG: {{BASH: Eyes}}
 JCPeepers.esp
   TAG: {{BASH: Eyes}}
 Koldorns Eye Mod.esp
@@ -19541,6 +19582,7 @@ Na'vi race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Nazrin-Race.esp
 Neo_Ahrum_race.esp
+O88_Advent Child Race 11.esp
 opaquan.esp
 Flan - Enayla Races for HEAD06.esp
 Sharingan and Uchiha Clan.esp
@@ -20823,6 +20865,7 @@ DBWBMR.esp
   SAY: Only use one willpower equals magicka resistance/weakness type mod at once.
 ArgonianFeets.esp
   TAG: {{BASH: Invent}}
+Health Regen.esp
 Hunter Birthsign.esp
 NecromancerAndPaladinSigns.esp
 ScriptedArgonianFeet.esp

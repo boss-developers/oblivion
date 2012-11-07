@@ -19443,12 +19443,10 @@ Beautiful People 2ch-Ed MS Elves - NoSc.esp
 Beautiful People 2ch-Ed ENG Dialog.esp
 Beautiful People 2ch-Ed ENG Race.esp
 ChanponSimpleDef.esp
-F2LAddon_MSElves.esp
 
 x117race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 x117Race ENG Race.esp
-117NPCs.esp
 Lop-ears Elf.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 RANs_WildTabaxi_101.esp
@@ -19755,6 +19753,7 @@ From2ch Lives Vwalk.esp
 F2LAddon.esp
 F2LAddon_Kasuga&Sisimaru.esp
 F2LMiqoteAddon.esp
+F2LAddon_MSElves.esp
 ENDGROUP: From2ch Lives
     
 A Crudius Companion Orc.esp

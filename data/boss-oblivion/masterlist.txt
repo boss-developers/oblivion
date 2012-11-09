@@ -13268,6 +13268,8 @@ Gottshaw Village Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 SRGottshaw0.9 Beta.esp
 
+HackdirtAlive.esp
+  IF CHECKSUM("HackdirtAlive.esp", BA4902D9) DIRTY: 12 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 HanstHolm village.esp
 
 JDNT_Brina Cross.esp

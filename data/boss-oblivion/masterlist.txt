@@ -3211,6 +3211,7 @@ Toggle Zoom - Mouse Wheel.esp
 Toggle Zoom - Middle Mouse Button.esp
 
 Unconscious.esp
+UnidirectionalAttack.esp
 
 Vacuity.esp
 
@@ -3879,6 +3880,7 @@ BlackGlovesRus.esp
 Blackhand Courtesan.esp
 Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
+Blackheart and Gizmodian ECRobes Free Version.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Leather Outfits.esp
 Black Mirror.esp
@@ -4110,6 +4112,7 @@ dagger_o_a.esp
 Dagger of Symmachus.esp
 DaggerTB.esp
 dan_HGEC-EcupTattooArmor.esp
+  IF CHECKSUM("dan_HGEC-EcupTattooArmor.esp", F34115D4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Dancers clothes.esp
 Dancing Shadow Rose Break Undies.esp
 DSR&BSKMergedSet.esp
@@ -4259,6 +4262,7 @@ Divine swords.esp
 Dark-Stealth Gear.esp
 DarkMithril.esp
 Deceiver's Armour.esp
+  IF CHECKSUM("Deceiver's Armour.esp", AD8DF1C2) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Divine Armor.esp
 DM-Elite Witch.esp
 d0dge182s_Golden_Saint__Dark_Seducer_Armor_and_Weapons.esp
@@ -4789,6 +4793,7 @@ Lady Apella.esp
 Lady Dark.esp
   IF CHECKSUM("Lady Dark.esp", A18D358B) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 LadyDeath.esp
+  IF CHECKSUM("LadyDeath.esp", 0BAC5713) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Dress.esp
   IF CHECKSUM("Lady Dress.esp", 25EAFCB1) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lady Flirt.esp
@@ -4938,6 +4943,8 @@ MechaFox.esp
 Medieval Shields.esp
 Meerkat Clothing.esp
 MerryBellInn.esp
+Midnight Gymnastics.esp
+  IF CHECKSUM("Midnight Gymnastics.esp", 8BCA1742) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MilkJugsComplete.esp
 minibloomers.esp
 Mirage_Rosewood.esp
@@ -5022,6 +5029,7 @@ NewbsArmoredRobes.esp
 NewMageRobes.esp
 NexonsArmory.esp
 NexonsArmoryENG.esp
+  IF CHECKSUM("NexonsArmoryENG.esp", 6D03CCDD) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 NexonsArmoryGER.esp
 Nicoroshi Creations DW Light.esp
   IF CHECKSUM("Nicoroshi Creations DW Light.esp", 3F5B9AB5) DIRTY: 5 ITM, 135 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -5305,6 +5313,7 @@ Scoundrels Luck Armor.esp
 scummsWeaponRack.esp
 SB_PFM_AyleidMageOutfits.esp
 SDHeartbreaker.esp
+  IF CHECKSUM("SDHeartbreaker.esp", F46A4DFA) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SDHeartbreakerPNI.esp
 SedaArmor.esp
 Seductress Armour.esp
@@ -5555,6 +5564,8 @@ strotisNewFood.esp
   IF CHECKSUM("strotisNewFood.esp", 833600D6) DIRTY: 31 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 STX Heron Katana.esp
 Silverlight Armor by Jojjo.esp
+  IF CHECKSUM("Silverlight Armor by Jojjo.esp", DF6CAF40) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Silverlight Armor by Jojjo.esp", E3B2429F) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Succuba Armor.esp
 Succubus.esp
 Summer Clothes.esp
@@ -6275,6 +6286,8 @@ FWAD.esp
 Gizmodian - Eclipse.esp
 GladiatorHeels.esp
 GoddessArmor_Exnem.esp
+  IF CHECKSUM("GoddessArmor_Exnem.esp", FD45C9B9) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("GoddessArmor_Exnem.esp", 8568D411) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 GreenNGold Amazon armor for Exnem body.esp
 Grim Reaper.esp
 Grim Reaper_1C.esp
@@ -6449,6 +6462,7 @@ Sakura Outfit.esp
 SB TES4 Oblivion Crossbow Mod v8.5.esp
 SchwarzeKatzeArmor.esp
 Sexy Ghost Armor.esp
+  IF CHECKSUM("Sexy Ghost Armor.esp", 21B8DA71) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SexyKunoichi.esp
 SexyLeather.esp
 Sexy Mandarin Dress.esp
@@ -8797,6 +8811,9 @@ BEGINGROUP: Quests #
   SAY: Use only one 00RBScribeSupplies mod at a time.
 00RBScribeSupplies02, read summary.esp
   SAY: Use only one 00RBScribeSupplies mod at a time.
+0WeynonPrioryAlive.esp
+  TAG: {{BASH: Graphics}}
+  IF CHECKSUM("0WeynonPrioryAlive.esp", 420F63BF) DIRTY: 8 ITM, 86 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 1AssasinsCreedShop.esp
 101_Anvil Cottage v2 Spartan Plain.esp
 101_Anvil Cottage.esp
@@ -9023,6 +9040,7 @@ Ancient Ruins - Ayleid Edition.esp
   IF CHECKSUM("Ancient Ruins - Ayleid Edition.esp", F3161932) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AncientSource.esp
 Anduril Reforged.esp
+angaweye.esp
 Angelslayer.esp
 ANKRcottage.esp
 An Old School Dungeon.esp
@@ -9619,6 +9637,9 @@ Cropsford Cottage.esp
 CropsfordErmitage.esp
 Cross-dressing.esp
 CRT Guest Quarters.esp
+CRTRenewed.esp
+  TAG: {{BASH: Invent}}
+  IF CHECKSUM("CRTRenewed.esp", FF523675) DIRTY: 122 ITM, 13 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CS_PaperParched.esp
 CastawayIsles.esp
 Chinese Weapons.esp
@@ -10663,6 +10684,7 @@ LirialsRetreatRu.esp
 Li-TheresasLaden-EV.esp
 Lions Claw harbuor House.esp
 Lions Claw harbuor area.esp
+lissalda.esp
 Listener's Room.esp
 Listener Quarters.esp
 DB Listeners Quarters [Darker].esp
@@ -10890,6 +10912,7 @@ MvCQuellArkadiensEV.esp
   IF CHECKSUM("MvCQuellArkadiensEV.esp", B9CE0619) DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Mysteries Of Atrene Camp.esp
 mystery of mausoleum.esp
+  IF CHECKSUM("mystery of mausoleum.esp", 2A42B949) DIRTY: 32 ITM, 64 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 mystery of mausoleum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 MysticAcrhives.esp
@@ -10924,6 +10947,7 @@ Necromancer Shop.esp
 Necromancer's Tower.esp
 NemoriaCottage.esp
 Nerussa The Wine Collector v1.0.esp
+Nenalata_Niryaweye.esp
 New Anvil Flora.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities Anvil components.
 New Biger Your Personal Dungeon Biger.esp
@@ -11875,6 +11899,8 @@ FCOM_Stirk.esp
 Storms & Sound - Stirk.esp
 Transmutation.esp
 Trashdog's SPB Heavy AB Shop.esp
+  IF CHECKSUM("Trashdog's SPB Heavy AB Shop.esp", 93A04A94) DIRTY: 14 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Trashdog's SPB Heavy AB Shop.esp", FC0AD4A3) DIRTY: 14 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TreasuresOfTyrV10.esp
 treasure maps v1.esp
   TAG: {{BASH: Invent}}
@@ -11902,6 +11928,7 @@ Treasure Maps Meridias Womb.esp
 Treasure Maps-Meridias Womb-UL edition.esp
   TAG: {{BASH: Invent}}
 Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp
+  IF CHECKSUM("Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp", 9BEABF59) DIRTY: 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php/TES4Edit_Cleaning_Guide#Treasure_Maps_The_Legend_Of_Jauffres_Gold.esp_Special_Cleaning_Instructions"
   INC: UL mod(s).
 Treasure Maps Revenge Of The Nords.esp
   INC: UL mod(s).
@@ -20696,6 +20723,7 @@ bgMagicDVAddEnVar.esp
   TAG: {{BASH: Relev}}
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicEVPaperChase.esp
+  IF CHECKSUM("bgMagicEVPaperChase.esp", 6DC9FA83) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 bgMagicDVSchnitzeljagd.esp
 bgMagicAlchemy.esp
 bgMagicEVExtendedConjurationDuration.esp

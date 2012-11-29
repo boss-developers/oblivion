@@ -1675,13 +1675,16 @@ AddActorValues_example.esp
 Adventurers Guides.esp
 AG_NPC_Deluxe.esp
 UnderWaterPathGrid_Anvil.esp
+Alchemy Girl ver 2.1.esp
 AliveWaters.esp
   IF CHECKSUM("AliveWaters.esp", 0717BF5A) DIRTY: 299 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("AliveWaters.esp", D28F1569) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+AliveWaters_Rivendel.esp
 AliveWaters - Koi Addon.esp
   IF CHECKSUM("AliveWaters - Koi Addon.esp", 47A85077) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("AliveWaters - Koi Addon.esp", 29F02EED) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AliveWaters - Slaughterfish Addon.esp
+AliveWaters - Slaughterfish Addon_Rivendel.esp
 AliveWaters_nofish.esp
   IF CHECKSUM("AliveWaters_nofish.esp", 7618B1DB) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 MoreLive_AliveWatersRedone.esp
@@ -3090,6 +3093,7 @@ DW_ARES.esp
 Enhanced Seasons.esp
 ExPCB.esp
 
+FDD.esp
 ForgeEquipment.esp
 DungeonBoss-FE.esp
 FormID Finder.esp
@@ -3466,6 +3470,7 @@ EyeCandy Compilation.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces, Hair, Eyes, Actors.AIPackages}}
 EyeCandy Compilation Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Hart's Boners.esp
 HGEC_special_armor_repl.esp
   TAG: {{BASH: Graphics, NoMerge}}
 JuvenileMod.esp
@@ -4387,6 +4392,7 @@ Fighters Guild Scalemail Full.esp
   TAG: {{BASH: Invent}}
 FF00_Clothes.esp
 FF00_SA-LightArmor.esp
+FF7 Blades Complete (No Quest).esp
 FF7 Weapons.esp
 FinalFantasy.esp
 FinalFantasy10BrotherhoodSword.esp
@@ -4730,6 +4736,7 @@ KDDwemerSpectacles.esp
 kdThiefVest.esp
 Kendo2_Gunman.esp
 kernsJewelry.esp
+keyoblivion.esp
 kfclothes.esp
 kfDarkAdventuressBow.esp
 kfshortdresses.esp
@@ -5581,6 +5588,7 @@ SW Cosplay 02.esp
 sweetclothes.esp
 SwordDancer.esp
   IF CHECKSUM("SwordDancer.esp", E5EF8132) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Sword of Lightning.esp
 Sword of the Rivan King.esp
 Sword-of-power.esp
 SwordOfTheGods.esp
@@ -6094,6 +6102,7 @@ Armor-Clothing-Weapons Merger.esp
 ArynnsDrowWitchHGEC.esp
 Arynns-Heavenly-Sword_HGEC-sexy.esp
 Arynns-Heavenly-Sword_Exnem-sexy.esp
+AssassinsCreed2EziosGear.esp
 AT2 01-Shiki Armor Set v1_0.esp
 AT2 01-Shiki Armor Set.esp
 AT2 02-Shiki Armor Set.esp
@@ -6242,6 +6251,7 @@ DMRA Skimpy Clothing Replacer.esp
 DMRA Stock Robe Skimpy Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 Dollparts' Wild Flower Corsets of Cyrodiil.esp
+Dominatrix Suit.esp
 Dragonbone Armor Set.esp
 Dragon Claw Sword And Shield.esp
 Dragon Princess.esp
@@ -6288,6 +6298,7 @@ GladiatorHeels.esp
 GoddessArmor_Exnem.esp
   IF CHECKSUM("GoddessArmor_Exnem.esp", FD45C9B9) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("GoddessArmor_Exnem.esp", 8568D411) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Gonzo Courtesan Armor.esp
 GreenNGold Amazon armor for Exnem body.esp
 Grim Reaper.esp
 Grim Reaper_1C.esp
@@ -8680,6 +8691,10 @@ Enhanced Quest Roleplaying.esp
 Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
 
+//Must load before Better Benirus Manor.esp
+Ghorak's House.esp
+Ghorak's House - AN Patch.esp
+
 Oblivifall - Something's Not Right.esp
   IF CHECKSUM("Oblivifall - Something's Not Right.esp", 274BA125) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
@@ -9317,6 +9332,7 @@ Better Benirus Manor - AN Patch - Bright.esp
 Better Benirus Manor - AN Patch.esp
 Better Benirus Manor - RL Patch.esp
 Better Benirus Manor - SYS Patch.esp
+BBM - Ghorak's House Patch.esp
 Better Rosethorn Hall.esp
 Better Rosethorn Hall - Cobl Patch.esp
 Better Shady Sam.esp
@@ -9815,6 +9831,7 @@ DragonSlayer.esp
 Drand.esp
 DreamersIsland.esp
 DrelcoManor.esp
+DMRA - BBB+BButts pack.esp
 DRT-Cottage.esp
 Druids Guild Mod.esp
 DruidsTree.esp
@@ -10043,7 +10060,6 @@ genetica.esp
 genetica_rus.esp
 GDSkingradCathedral.esp
 GGShivOBSEv1_1.esp
-Ghorak's House.esp
 Gianna.esp
 Gift of Kynareth.esp
   IF CHECKSUM("Gift of Kynareth.esp", E370F100) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -10692,6 +10708,7 @@ Litterbug.esp
   REQ: Shivering Isles
 
 LOCH_New_Skingrad_Bridge.esp
+Lochstead.esp
 Locked Doors and Knocking v1.02.esp
   SAY: Imcompatible with Better Cities, and probably other city altering mods.
 Lock Spells.esp
@@ -11281,6 +11298,7 @@ RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
 Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
+RIP Mazoga.esp
 RipsInTime I TheTimeRippers.esp
 Rise Of A Samurai.esp
 RisingSunForUpload6-3-2010.esp
@@ -14654,6 +14672,7 @@ Addendum - Diabloblivion.esp
   IF CHECKSUM("Addendum - Diabloblivion.esp", D6814DD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Adventure's memo.esp
 Akaviri__IMPROVED-6787.esp
+Akaviri IMPROVED-6787.esp
 AleswellQuickFix.esp
 All Shapes And Sizes 1.1.esp
 AmnesiaStone.esp
@@ -14727,6 +14746,7 @@ ENDGROUP: overrides A
 
 BEGINGROUP: overrides B
 
+B79_RealBarenziah 2 - UnCensored.esp
 BaurusRunsInSewers.esp
 Bag of Holding.esp
 Automagic Bags.esp
@@ -15845,6 +15865,7 @@ LoversBCMSounds.esp
 LoversClubCats.esp
 LoversClubCatsSx.esp
 LoversFSE.esp
+LoversGalgatBeastRape.esp
 LoversDRader.esp
 LoversHudInformation.esp
 LoversProstitute.esp
@@ -15985,6 +16006,7 @@ Sex Shop.esp
 SexGGodess.esp
 SPS.esp
   IF CHECKSUM("SPS.esp", 530D9DE0) DIRTY: 2396 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+StreetWhoreALT2.esp
 Goranga's prostitution system.esp
 Goranga dating system.esp
 FriendsAndLovers.esp
@@ -19174,6 +19196,8 @@ Blood Elves.esp
 Brachyuran.esp
 FFXIII_Race.esp
 Children of Hircine.esp
+AmethystLRCoolsimsforNPCs.esp
+  TAG: {{BASH: Hair}}
 Coolsims Hair for Rens.esp
   TAG: {{BASH: Hair}}
 DarkNephilim.esp
@@ -19497,6 +19521,7 @@ IDKRRR_KFME4rev.esp
 IDKRRR_Moira_race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 IDKRRR_C_race_Female_Anime_Voice_CMV.bsa.esp
+IDKRRR_C_race_Female_Anime_Voice_CMV.esp
 ChimerofLight_Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 CCC.esp
@@ -19857,6 +19882,7 @@ amQuests1.esp
 amQuests2.esp
 amQuests.esp
   TAG: {{BASH: Hair}}
+AdrianaMain.esp
 CM Partners Beasts.esp
   SAY: CM Partners Beasts.esp was merged into CM Partners.esm as of version 1.8 . Suggest updating to 1.8 or later.
 CM Partners Belle.esp
@@ -19986,6 +20012,7 @@ CM NixReslain.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces, R.Relations}}
 CM NOVA.esp
 CM SASHEIRA.esp
+CM Sharlotta besom.esp
 CM SHEILA A.esp
 CM TATIANNA.esp
 CMTrixi.esp
@@ -20023,6 +20050,8 @@ AmidalaSaramHair.esp
   TAG: {{BASH: Hair, Eyes}}
 AsharasCMBeasts.esp
 AsharasCMPartners.esp
+  TAG: {{BASH: Hair, Eyes}}
+AsharasCMPartnersSV.esp
   TAG: {{BASH: Hair, Eyes}}
 BloodLady.esp
 Classic Witcher Companions.esp
@@ -20512,6 +20541,7 @@ Tydantin Brothers.esp
 Inerion Tydantin.esp
 Heroes of RS and Azeroth.esp
 More Heroes of Azeroth.esp
+Sc - Dog Follower Blood.esp
 ENDGROUP: Companions
 
 BEGINGROUP: Race Overrides

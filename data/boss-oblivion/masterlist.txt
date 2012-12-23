@@ -2314,6 +2314,8 @@ M.O.E. - Undermined Leveled Gameplay - Item Edition.esp
 Moist - Gate Room.esp
 MONSTERGIRL-APOCALYPSE.esp
   TAG: {{BASH: Graphics}}
+MONSTERGIRL-CoC.esp
+  TAG: {{BASH: Graphics}}
 Morrowindbooks.esp
 Morrowind Jewelry.esp
 More_Animals.esp
@@ -4085,6 +4087,7 @@ Crystalline Sword.esp
 CrystalStaff.esp
 Crystal Weapons and Armor.esp
 CursedArmor.esp
+Cute Knight Armor.esp
 CV - Kilij.esp
   IF CHECKSUM("CV - Kilij.esp", C4E017B) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Cy.esp
@@ -4211,6 +4214,7 @@ Defensive_staves_Immersive.esp
 Defensive_staves_Chest_Optional.esp
 DefianceOfSubtlety.esp
 DeliveranceFireEnch.esp
+Demon Lilith.esp
 DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
@@ -5028,6 +5032,7 @@ Negotiator Sword.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
 Neo's Jedi Knights.esp
+Nesarama_Works_Collection_v1.esp
 New Frostmourne Sword by Jojjo v1_0.esp
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", 770A8BD4) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", E4C84842) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -12032,6 +12037,7 @@ AkaviriKojima.esp
 Valley_View_Estate.esp
   IF CHECKSUM("Valley_View_Estate.esp", 0BC0E798) DIRTY: 28 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 OC+Valley View Patch.esp
+ValhallaAsgardia.esp
 Valus Cottage.esp
 Vampire Hideaway.esp
 Vampire Tunnel System.esp
@@ -20092,6 +20098,7 @@ Three CM Partners.esp
 The Ice Queen.esp
 Siliane.esp
   IF CHECKSUM("Siliane.esp", 436F457D) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Wiedergaenger CM Partners.esp
 WPCompCats.esp
 
 CompanionFergus.esp

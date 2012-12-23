@@ -3126,6 +3126,7 @@ kuerteeAutoSaveAndTime.esp
 kuerteeCleanUp.esp
 kuerteeSittableRocks.esp
 
+Lava Does Fire Damage.esp
 LazyPCB.esp
 Lock Bash Omega.esp
 
@@ -3766,6 +3767,7 @@ Arkann's Precious Shields.esp
 Armour of Hades.esp
 Aspiria.esp
 Aspiria_EV.esp
+  IF CHECKSUM("Aspiria_EV.esp", 30904F56) DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Assassin_Blade.esp
 AssassinBow.esp
 AyleidGlass.esp
@@ -4187,7 +4189,7 @@ Darkgreen Glass Armour.esp
 replace_glass.esp
   TAG: {{BASH: Graphics}}
 DarkIllusionArmor.esp
-  IF CHECKSUM("DarkIllusionArmor.esp", F4353E26) DIRTY: 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("DarkIllusionArmor.esp", F4E53E26) DIRTY: 11 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DarkIllusionSchoolUniform.esp
 Dark_Katana.esp
 Dark Katana.esp
@@ -5456,6 +5458,8 @@ sluggosilkdancer.esp
 SnakeArmor.esp
 Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
+  IF CHECKSUM("SnowySignatureOutfit.esp", 20498F08) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("SnowySignatureOutfit.esp", 7E4799B7) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SOLS CLUTTER MERGE.esp
 SOLS CLUTTER_B MERGE.esp
 SOLS MASSIVE ATIRE PART 1.esp
@@ -6669,6 +6673,8 @@ MD_Saddle_Bags.esp
 MD_Saddle_Bags_v2.esp
 MD_Saddle_Bags_Lite_v2.esp
 MD_Saddle_Bags_Accessories.esp
+MigHorseArmor.esp
+  IF CHECKSUM("MigHorseArmor.esp", 1C8F1C26) DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SaddleBag.esp
 Slof's Horses Base.esp
   TAG: {{BASH: Graphics}}
@@ -9865,6 +9871,8 @@ Duke Patricks Dragon and the Sword of Might Light Version.esp
   SAY: Don't use 'Sword of Might.esp' and 'Sword of Might Light Version.esp' at the same time.
 
 DukeCity.esp
+DukeCity Vwalk.esp
+  TAG: {{BASH:Actors.Anims, NoMerge}}
 Dungeo Forgotten Tower.esp
 Dungeo Forgotten Tower Reduced Spawns.esp
 dungeon.esp
@@ -13546,6 +13554,7 @@ TrailsOfCyrodiil-ChorrolHinterland patch.esp
 HoarfrostCastle-ChorrolHinterland patch.esp
 WAC-ULchorrolhinterland-patch.esp
   IF CHECKSUM("WAC-ULchorrolhinterland-patch.esp", D31BDFEF) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+0WeynonPrioryAlive-xulChorrolHinterlands Patch.esp
 
 xulBeachesOfCyrodiilLostCoast.esp
   SAY: Make sure version is 1.6.3 or later.

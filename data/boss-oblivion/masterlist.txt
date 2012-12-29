@@ -83,6 +83,7 @@ MooCowVolcanicIslands.esm
 MCVIVegetation.esm
 CastleWestWeald.esm
 ElsweyrValenwood.esm
+SettlementsOfCyrodiil.esm
 UBANGA.esm
 MenuSysFramework.esm
 MathFunctions.esm
@@ -202,6 +203,8 @@ Crystal Cave Tileset.esm
 Obsidian Interior Castle Tileset.esm
 Unique Summons & Banish Flesh.esm
 BetterMusicSystem.esm
+Modders Resource Collection.esm
+Stroti Resources.esm
 bookplacing.esm
   WARN: Check you are using v2+. If not, Update. v1 has a severe bug with the Mystic Emporium disappearing.
 A_Bloody_Mess.esm
@@ -926,9 +929,11 @@ Francesco's Creatures and Items Resources.esp
   SAY: This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
 MMM.esp
   SAY: Dummy file to load the MMM .BSA.
+Modders Resource Collection.esp
 Oblivion.esp
   SAY: Usually a BSA redirection hack. Using a file to load a BSA means the BSA must NOT be listed in Oblivion.ini at the same time or the game will not load.
   SAY: This is ususally only a problem when automatic installers insert the name into Oblivion.ini then the user creates a BSA redirection file later.
+Stroti Resources.esp
 TamRes.esp
   SAY: Dummy file to load the TamRes BSA.
 ENDGROUP: BSA tricks
@@ -1589,6 +1594,9 @@ LightsOut - DV.esp
 Cities Alive At Night.esp
 _cities_alive_at_night.esp
 
+CT_SlowPulse.esp
+CT_SlowFlicker.esp
+
 Atmospheric Oblivion - Real Lights patch.esp
 MIS New Sounds Optional Part - Real Lights Patch.esp
 CampfireBehavior.esp
@@ -1787,6 +1795,8 @@ bgShaderStandAloneEV.esp
   TAG: {{BASH: Graphics}}
   REQ: Wrye Bash if using spell mods.
 Bestiary (SI version).esp
+Bitches of the Duke.esp
+  REQ: Shivering Isles
 Black Screen Sneak Fix.esp
 Black Sheep.esp
 BlackMarket.esp
@@ -3212,6 +3222,7 @@ streamline.311.esp
 3 Alternative Stories.esp
 Synchronized Date and Time.esp
 
+Teleport to Everywhere.esp
 TES4ViewLink.esp
 Timekeeper_Advanced.esp
 Toggle Zoom - Mouse Wheel.esp
@@ -3248,6 +3259,7 @@ Map Marker Overhaul - SI additions.esp
 MapMarkerMax.esp
 Maps!.esp
 Maps of Cyrodiil.esp
+Marker Explore.esp
 AxiomMagesMapMarkers.esp
 Landmarks.esp
   IF VAR(OOO) SAY: Move this after OOO if you desire initial city map markers a la vanilla.
@@ -3292,6 +3304,7 @@ Unmarked places map markers.esp
 Unmarked Places- Wayshrines.esp
 WayshrineMapMarkers.esp
 Wayshrine Map Markers.esp
+Wayshrines on the Map.esp
 ENDGROUP: Map marker Tweaks
 
 BEGINGROUP: Hotkeys
@@ -3355,6 +3368,9 @@ Compatibility Patch - DLCHorseArmor.esp
 BigSteves_Armored_Shadowmere_AI_fixed-10206.esp
 Correctif HorseArmor.esp
 Correctif HorseArmor RP.esp
+SellHorses_Incl_Saddlebags_and_CallSteed.esp
+  ERROR: Rename this file to "DLCHorseArmor.esp", after backing up the original.
+
 DLCOrrery.esp
   TAG: {{BASH: Actors.AIPackages}}
   IF CHECKSUM("DLCOrrery.esp", 5BC59DB4) || IF CHECKSUM("DLCOrrery.esp", 5EF0D503) DIRTY: 11 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -4864,6 +4880,7 @@ Lich King's Armor v1_0.esp
 Lightning Sword.esp
   TAG: {{BASH: Invent}}
 LightsaberPack.esp
+Lilys_Rapier.esp
 lineagesls.esp
 LisandrasRareBooks.esp
 LittleCarmine.esp
@@ -5303,6 +5320,7 @@ ENDGROUP: Items R
 
 BEGINGROUP: Items S
 
+_Slof's Warhammer Robe.esp
 SaberCloth.esp
 Saber's Doublekatanas.esp
 SaberLily.esp
@@ -6638,6 +6656,7 @@ BisPainBringer_nff.esp
 DianoArmor2.esp
 CrimsonHGEC.esp
 Double Crimson HGEC_nff.esp
+ElyndasShortSack.esp
 The Sexy BeastV1.2.esp
 TheSexyBeastV1.2_ru.esp
 Hentai_LovelySuits.esp
@@ -8712,6 +8731,8 @@ Oblivifall - Something's Not Right.esp
 Roleplaying_Expansion.esp
   INC: 'Mysteries Of Atrene Camp.esp', 'Kragenir's Death Quest.esp' and 'xulCheydinhalFalls.esp'.
 
+//Must load before 0WeynonPrioryAlive.esp
+SOC-RegionalFarms.esp
 Suliin.esp
 Suliin V1.2.esp
   IF CHECKSUM("Suliin V1.2.esp", 5802804A) DIRTY: 52 ITM, 118 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -8867,6 +8888,7 @@ AkaviriStronghold_1C.esp
 
 5573-1.0-Villa Nova, my private retreat-TESSource.esp
 6279-0.1-Winter Wonderland-TESSource.esp
+7621_Devil_City.esp
 7roads.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, Factions, Graphics, Invent, Relations, Scripts, Sound}}
   INC: Kvatch Rebuilt, Hoarfrost Castle, Midas Magic, Mannimarco Complete, Reneer's Corpse Mod, Unique landscapes, KSE_v3.esp.
@@ -10295,6 +10317,7 @@ imperial armors shop.esp
 Imperial_City_Cave_House-9473.esp
   IF CHECKSUM("Imperial_City_Cave_House-9473.esp", FE41E7A8) DIRTY: 1 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ImperialCityApartment.esp
+Imperial City Buyable House.esp
 Imperial City Manor.esp
   INC: Region Revive - Lake Rumare.
 Imperial City Temple Clean.esp
@@ -11309,6 +11332,8 @@ Resurrection of the Dark Brotherhood.esp
 REX_TheLostSouls.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
+Ricks CIP ICTalosPlaza.esp
+  TAG: {{BASH: C.Climate}}
 Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
 RIP Mazoga.esp
@@ -14772,6 +14797,7 @@ Bag of Alchemy Rewrite.esp
 Badmagic - Landscape Fix for 20 -18.esp
 Badmagic - Landscape Fix for Fanacasecul.esp
 BanditMarauders_wear_Helmets-v1.1-.esp
+Bandits with Gold.esp
 Banes Diverse Guards.esp
 Banes Diverse Guards Rus.esp
 
@@ -15057,6 +15083,7 @@ DoB20mins.esp
   SAY: Use only one DoB**mins.esp.
 Docile Aminals.esp
 Docile Aminals-Fran.esp
+DontCloseMYGates.esp
 Dousing The Flames.esp
 Dreightons_Item_Value.esp
 Item Value Adjustments 1.0.esp
@@ -15306,6 +15333,7 @@ BEGINGROUP: overrides I
 
 IC_BattleMage_Remark_Removed-6373.esp
 Idles.esp
+ILLight -Soldiers.esp
 HealthIndication.esp
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
@@ -15314,7 +15342,7 @@ Visual Health Indication, Cobl.esp
 Immersive Messages.esp
 ImmersiveWait.esp
 ImmersiveWait Rus.esp
-  SAY: Russian version?
+ImperialDragonHeavyShield - Greater.esp
 Improved Fires and Flames - Increased Sound.esp
 SleepRestAnyTime.esp
 ImprovedSoulgems.esp
@@ -16031,6 +16059,7 @@ Eroblivion.esp
 Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
+MaternityClothes.esp
 Nudeshy X.esp
 Nude Spell.esp
 SMYB Full.esp
@@ -18243,6 +18272,7 @@ Duke Patrick`s Smash of the Titans.esp
 Duke Patricks - Smash Of The Titans.esp
 SMCombatRegen.esp
 SpookyNPCAIModsMerge.esp
+StaggerRecoil&HitStop.esp
 Enemy Actors AutoHeal 1.3.esp
 Mister Misanthrope's Custom Settings.esp
 MM_AllowAlchemy.esp
@@ -18267,6 +18297,8 @@ humantouchNPC.esp
   REQ: OBSE 19+.
 AK-ToggleZoomAnyKey.esp
 SpecialAbilityAndBadStatus.esp
+
+UnidirectionalAttack.esp
 
 Duke Patricks - Melee Combat NO RECOIL.esp
   TAG: {{BASH: Sound, Graphics}}
@@ -18399,6 +18431,8 @@ More Magicka x7.esp
 More Magicka x10.esp
 More Magicka x15.esp
 More Magicka x25.esp
+
+NaturalLeveling.esp
 
 Governing Attributes.esp
 Governing Attributes Overhaul.esp
@@ -19378,6 +19412,7 @@ Riflers Races.esp
 Sadran.esp
 Salutrian Elves.esp
   TAG: {{BASH: NpcFaces, Eyes, Graphics, Hair, R.Attributes-F, R.Attributes-M, R.Description, R.Ears, R.Head, R.Mouth, R.Skills, R.Teeth}}
+Sheogorath.esp
 Shrridan.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Slof's Playable Xivilai.esp
@@ -20203,6 +20238,8 @@ REGEX: 1em_Vilja_(cool|Ren)hair\d\d?g?\.esp
 1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
   TAG: {{BASH: Graphics}}
 1em_Vilja_corean14.esp
+  TAG: {{BASH: Hair}}
+1em_Vilja_babehair02.esp
   TAG: {{BASH: Hair}}
 1em_Vilja_babehair03.esp
   TAG: {{BASH: Hair}}
@@ -21280,6 +21317,7 @@ Better Cities - No LEYAWIIN Flooding.esp
 Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
   TAG: {{BASH: Actors.AIPackages}}
+RegionalFarms-BCPatch.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp
 Oblivifall - Losing My Religion BC Bravil B&M.esp

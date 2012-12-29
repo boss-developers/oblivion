@@ -1290,6 +1290,7 @@ Advanced_Water.esp
 Advanced_Water_Modification-2734.esp
 Advanced_Water_Modification.esp
 Advanced Water Modification.esp
+Bessere Unterwassersicht.esp
 Better Water.esp
 Better_Water-1830.esp
 BetterImperfectWater.esp
@@ -1667,6 +1668,7 @@ BEGINGROUP: Base #
   SAY: Do NOT use with 300_Lore Dialogue.esp
 300_Random_Clutter.esp
 36Sermons-Miltiades.esp
+3777-v1.1 Beta-Obicos Ingredient Increaser v11-TESSource.esp
 
 5076-V2.0-Dwemer Specs Equip-TESSource.esp
 
@@ -2037,6 +2039,7 @@ CT-Com's Torch Compendium.esp
   TAG: {{BASH: Actors.AIData}}
   IF CHECKSUM("CT-Com's Torch Compendium.esp", C3C7144B) || IF CHECKSUM("CT-Com's Torch Compendium.esp", E0C0457D) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 CT-Backpacks.esp
+CT-Just Another Combatant.esp
 Cyrodilic Brandy.esp
   TAG: {{BASH: Graphics, Deactivate}}
 CyrodiilCemeteries.esp
@@ -2391,6 +2394,7 @@ New Potions.esp
   TAG: {{BASH: Graphics, NoMerge}}
 New_Potions_Fixed_Icons-25822.esp
   TAG: {{BASH: Graphics, NoMerge}}
+New Oblivion Moons.esp
 Never die.esp
 NOAH.esp
 NOAH - Remove Cloud Effect.esp
@@ -2643,6 +2647,8 @@ Real_Mannequin.esp
   TAG: {{BASH: C.Names}}
 Practice_Dummy0.9.5.esp
 
+Ring of Atmospherancy.esp
+RingOfFeather1000.esp
 RingofNightEye.esp
 Rings of Infiltration.esp
   REQ: OBSE 16+.
@@ -3136,6 +3142,7 @@ KuerteeActorDetails.esp
 kuerteeAutoSaveAndTime.esp
   INC: Streamline's Streamsave, Cobl's clock.
 kuerteeCleanUp.esp
+kuerteeEspyCreatures.esp
 kuerteeSittableRocks.esp
 
 Lava Does Fire Damage.esp
@@ -3233,6 +3240,8 @@ UnidirectionalAttack.esp
 
 Vacuity.esp
 
+WeaponStatsExchange.esp
+
 Xero's Fame Indicator.esp
 
 zzzActiveQuestInfo.esp
@@ -3249,6 +3258,7 @@ BEGINGROUP: Map marker Tweaks
 //
 //Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
 
+DRW.esp
 Dynamic Map.esp
 Map Markers Be Done -Elys-.esp
 Map Markers Be Done.esp
@@ -3939,6 +3949,7 @@ Blue and White.esp
 Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
 Bluefire Claymore by Mr. V.esp
+Blue Glass - Oblivion.esp
 Blue-Glass-Extra-Set.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
@@ -4231,6 +4242,7 @@ Defensive_staves_Chest_Optional.esp
 DefianceOfSubtlety.esp
 DeliveranceFireEnch.esp
 Demon Lilith.esp
+Demonocus-entertheninja.esp
 DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
@@ -4427,6 +4439,8 @@ fishclub.esp
 fjDarkRegalia.esp
 flamberg.esp
 Flamboyant Hat_SI.esp
+FlameGlassEquipment.esp
+  TAG: {{BASH: Graphics}}
 FLY Armor and Clothing - Non-replacers.esp
   IF CHECKSUM("FLY Armor and Clothing - Non-replacers.esp", B0FDF6F) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FLY Armor and Clothing - NR Leveled Lists.esp
@@ -4627,6 +4641,7 @@ HGECKoganeHuntressOutfit.esp
 HGEC Lady Camellia.esp
 HGEC Witch Queen Ritual Robe.esp
 HGEC Nagilo Outfits.esp
+hh2hai.esp
 HiddenSkulls.esp
   TAG: {{BASH: Invent}}
 High_Level_Sigil_Stone_Maltz.esp
@@ -6117,6 +6132,7 @@ BEGINGROUP: Body Replacer Armour & Clothing
 
 A_Dremora_Armor_for_you-7602.esp
 Accompt of the Delitescent.esp
+AdventurerPlateArmor.esp
 All Manly.esp
   TAG: {{BASH: Graphics, NoMerge}}
 ANBMiniMicroBikini.esp
@@ -6284,6 +6300,7 @@ Dragon Claw Sword And Shield.esp
 Dragon Princess.esp
   IF CHECKSUM("Dragon Princess.esp", DC820EA9) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Double Crimson HGEC.esp
+Dwavenremodel.esp
 
 EC_BlackDeathWarrRetex.esp
 Edhildils Seductive Poison Armors.esp
@@ -6778,6 +6795,7 @@ CallMountStableMaster.esp
 Command Mount.esp
 NV Imperial Guard Horse Armour.esp
   TAG: {{BASH: Graphics}}
+Unihorn.esp
 WhistleTrainer.esp
 Zira's Demonic Mounts.esp
 Zira My Horses Compilation.esp
@@ -6892,6 +6910,8 @@ BEGINGROUP: Only Name changing files
 
 Ranokoas Organized Potions.esp
   TAG: {{BASH: Names, Deactivate}} If not using Wrye Bash load with overrides but then incompatible with most overhauls etc.
+Potion Sorter-2081.esp
+  TAg: {{BASH, Names}}
 ENDGROUP: Only Name changing files
 
 BEGINGROUP: DLC 2
@@ -9153,6 +9173,7 @@ Arboretum Bathhouse Variety.esp
 Areala.esp
 Arena Armory.esp
 Arena Girl.esp
+Arena Invisible Wall Removed.esp
 ArchersLodge.esp
   SAY: Update to version 1.1.
 ArchersLodge1.1.esp
@@ -9240,6 +9261,8 @@ Automagicon_Cobl.esp
   SAY: Use the Cobl version or the non-Cobl version, not both.
   REQ: Cobl
 AvaiRii_UnderwaterHome.esp
+AWitchTale.esp
+  IF CHECKSUM("AWitchTale.esp", C7F27F01) DIRTY: 4 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 AXIS.esp
 APRAxisPatch.esp
 AyleidArrows.esp
@@ -9248,6 +9271,7 @@ AyleidHouse.esp
 AyleidTemple.esp
   IF CHECKSUM("AyleidTemple.esp", 4B14E3CD) || IF CHECKSUM("AyleidTemple.esp", 4B14E2CD) DIRTY: 39 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide". Also makes a wild edit to the water level in Shagol gro-Bumph's house (block 6,1).
 AyranUndercity.esp
+AYNitemu.esp
 AzurasServices_de.esp
   SAY: German Version
 AzurasServices_en.esp
@@ -10425,7 +10449,7 @@ ImpeREAL City Dragon House patch.esp
 Imperial Library.esp
 Imperial City Ranch.esp
 Mad Mike's Imperial Undercity.esp
-
+Implementor.esp
 ImprovedChorrol.esp
   INC: Better Cities Full or Better Cities Chorrol components.
   INC: Open Cities Classic or Open Cities Chorrol components.
@@ -10529,6 +10553,7 @@ ENDGROUP: Quests J
 
 BEGINGROUP: Quests K
 
+k1_CW7heaven.esp
 KarewManor.esp
 Kariba.esp
 Katana Store v2.0.esp
@@ -11441,6 +11466,7 @@ REGEX: SenTineL's Legendary Weapons And Armors_[AC][EU]\.esp
   SAY: Use only one SenTineL's Legendary Weapons And Armors_XX.esp
 Septim Mansion.esp
 Septim Mansion rus.esp
+Septim_Mansion_Renovated.esp
 Servant of the Dawn.esp
 Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
@@ -11716,6 +11742,7 @@ templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
 TempleofNirn.esp
+Temple of the One Altars.esp
 Terra.esp
 TheAltadoonPuzzle.esp
   IF CHECKSUM("TheAltadoonPuzzle.esp", 32240C7A) DIRTY: 25 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -14898,6 +14925,7 @@ BrighterTorches_v1.1.esp
   SAY: Old, update to V1.2+
 BrighterTorches_v1.2.esp
 BringIt.esp
+BringItKJ.esp
 
 BOO_BulletTime.esp
 Bullettimemod.esp
@@ -15583,6 +15611,7 @@ No Quest Items.esp
 NoQuestItems.esp
 No quest items SI.esp
 No_Smiling.esp
+NoSpiders.esp
 NoObsoleteEnemies.esp
   SAY: Highly likely to be incompatible with every overhaul out there.
 NoObsoleteLoot.esp
@@ -15893,6 +15922,7 @@ Vtoy.esp
 SMVtoyCross.esp
 Lovers.esp
 Lovers3dorgasm.esp
+Lovers3dorgasmMB2.esp
 LoversAdultYield.esp
 LoversCalm.esp
 Lovers_ChildRaceType.esp
@@ -15968,6 +15998,7 @@ LoversMagicEx_0_1.esp
 LoversNecrophilia.esp
 LoversPayBandit.esp
 LoversPower.esp
+LoversUtilityFunctions.esp
 LoversContraception.esp
 LoversNTRburglar.esp
 Lovers_NA.esp
@@ -16131,6 +16162,7 @@ SigilStonesUnlevelled - SSEE-OOO.esp
 Silgrad_Tower_Travel.esp
 Silgrad_Tower_T.esp
 Silgrad_Tower_T_Skyrim_Inv.esp
+Silverware.esp
 Sinderion Fix.esp
 Size of rats more normal.esp
 Skill Perk Descriptions.esp
@@ -16371,6 +16403,7 @@ Teleport Everywhere.esp
 Things Found Fence.esp
   TAG: {{BASH: Actors.AIData}}
 Thieves Gulid Harded.esp
+Throat Slitting Daggers for Deadly Reflex.esp
 Tombstone Epitaphs.esp
   IF CHECKSUM("Tombstone Epitaphs.esp", 888FB064) DIRTY: 3 ITM, 587 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Toggleable Quantity Prompt.esp
@@ -16427,8 +16460,10 @@ Unlimited Rings 1.0_ru.esp
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
   IF CHECKSUM("undercover.esp", 757F1F42) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Updated! Gem Price Fix_rus.esp
 upperGothicClutter.esp
   TAG: {{BASH: Graphics}}
+Useful Handguides.esp
 UV Vanilla Quest Fixes.esp
 ENDGROUP: overrides U
 
@@ -16652,6 +16687,7 @@ BEGINGROUP: Alternative starts
 Alternative Beginnings.esp
   IF CHECKSUM("Alternative Beginnings.esp", 4B2AE0D9) DIRTY: 17 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Alternative Beginnings - Kvatch Intact.esp
+AlternativeBeginningsDV.esp
 Alternative Start by Robert Evrae.esp
   TAG: {{BASH: Relations, Invent}}
 Alternative Start v1.2.esp
@@ -16697,6 +16733,7 @@ quickstart1.2.esp
 ROM Patch - Alternative Start.esp
   TAG: {{BASH: Scripts}}
 
+Shorter Escape.esp
 Skip the Tutorial Dungeon.esp
 SkipTutor.esp
 Skip Tutorial.esp
@@ -16893,6 +16930,7 @@ ReneerKeyLockMod.esp
   REQ: OBSE
 _EnhancedJumping_TLB_v0.1.esp
 GalerionUnarmoredAcrobatics.esp
+Galerion Unarmored Acrobatics- Uncapped.esp
 Duke patricks jump modifier.esp
 Easy Sleep v11.esp
 PC Sleep Disrober.esp
@@ -17296,6 +17334,7 @@ Silj's Martigen's Monster Mod summmon spells and conjuration compendium.esp
 SINAZ_Soulcraft.esp
 SixthSense.esp
 sjdDetectArrow.esp
+Skinning Spell.esp
 sleepyunderlings.esp
 Smite of Order.esp
 Smite_of_Order.esp
@@ -17745,6 +17784,7 @@ ENDGROUP: Alchemy
 BEGINGROUP: Enchantment
 
 Compleat Enchanter easy.esp
+Compleat Enchanter balanced.esp
 DS Staff Overhaul.esp
 Empower Enchantment.3.x.esp
 Enchantment Enhanced.esp
@@ -17801,6 +17841,7 @@ BEGINGROUP: Thievery, Sneaking and Crime
 //
 //Overrides overhauls.
 
+Better Thiefloot.esp
 BookLooting.esp
   REQ: OBSE 15+.
 Cheydinhal for Thieves.esp
@@ -18079,6 +18120,7 @@ erics_double_damage_fast_for_archers.esp
 Fast Arrow Collection.esp
   REQ: OBSE 16+.
 Fiery Fists v1.2.esp
+Mike Tyson's Punch Out!!.esp
 GM's Archery Rebalance.esp
 Archery Rebalance.esp
 realArchery_eng.esp
@@ -18125,6 +18167,7 @@ mighty_bows_damage_bonus.esp
 mighty_bows_sneak_dmg_bonus.esp
 mighty_bows_sneak_dmg_bonus_alt.esp
 mighty_bows_improved_firerate.esp
+Rasor_archer_pack.esp
 Ultimate_Archer-2026.esp
 SilverBonus.esp
   REQ: OBSE
@@ -19407,6 +19450,7 @@ Jessica Biel.esp
 Lindsay Lohan.esp
 Paris Hilton.esp
 Playable Flame Atronach.esp
+Ragnarok.esp
 Riflers Races.esp
   TAG: {{BASH: Hair, Eyes, R.Relations}}
 Sadran.esp
@@ -20653,6 +20697,7 @@ IF FILE("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothi
   TAG: {{BASH: Graphics}}
 CWRaceFix.esp
 MTCExpandedVillages-Colourwheels Sexy Overhaul Patch.esp
+PlomsOrcOverhaul v1.2.esp
 Nephs Stock Shoes Real High Heels.esp
   TAG: {{BASH: Graphics, Scripts}}
 Nephs Stock Shoes Real High Heels SI.esp

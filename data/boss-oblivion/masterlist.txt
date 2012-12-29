@@ -3403,6 +3403,7 @@ C&C&EQR - SM Plugin Refurbish - Orrery.esp
   SAY: Obsolete. Update to latest version.
 NLF Orrery.esp
 Orrery_Rewards-9767.esp
+Orrery Rewards-9767.esp
 
 DLCVileLair.esp
   IF CHECKSUM("DLCVileLair.esp", 74D2CA6F) || IF CHECKSUM("DLCVileLair.esp", 2C59F2F0) || IF CHECKSUM("DLCVileLair.esp", 34AFAD8C) DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -4519,6 +4520,7 @@ Gizmodian - Real Silver Swords.esp
 GizmodianSothaDagger.esp
 GladiatorArmor.esp
 GLoF_Potion_of_Vampirism.esp
+GloriousMageDress.esp
 Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
@@ -5329,6 +5331,7 @@ Ryk_SimpleDress_DV.esp
 Ryk_SorceressArmor.esp
 SorceressArmor.esp
 Ryk_Swimwear.esp
+Ryk_Swimwear2.esp
 RoseGear.esp
 RZWPortableCandles.esp
 ENDGROUP: Items R
@@ -6430,6 +6433,7 @@ NamirasEmbraceArmour.esp
 Nauplius Armors.esp
 Navel Piercings.esp
 necklacesbykalikut.esp
+Necromantrix.esp
 Neo's 2NE1 Street Costumes.esp
 Neo's Gantz.esp
 Neo's Genie and Lupin.esp
@@ -6551,11 +6555,14 @@ StockClothingArmorHGECnormalD.esp
 StockClothingArmorHGECFighterD.esp
   TAG: {{BASH: Graphics}}
 Sweet six.esp
+Swim Suit Retextured By DH13.esp
 Swim Suit Retextured By DH13 Part 3.esp
 SwordDancerRemodel.esp
 
 Tactical Wears.esp
+TafasSexyLingerieset02.esp
 TentacleWitches.esp
+Tera_CFL16_HEFH17_HEFR15.esp
 TFF_Armor_Base.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
 TFF_Armor_OOO.esp
@@ -8342,6 +8349,8 @@ Tamrielic_Ingredients_OOO.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 Tamrielic_Ingredients_FraM.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM. Use cOMbo plugin instead.
+Tamrielic_Ingredients_Fran.esp
+  IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM. Use cOMbo plugin instead.
 
 TGND2 OOO Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
@@ -8717,6 +8726,8 @@ Morrowind_ob - Faction Relationships.esp
 Morrowind_ob - Conversation.esp
 Voice Overs V002.esp
 ProtocolledDialogs.esp
+
+MorrOblivionRussiA.esp
 
 ENDGROUP: Morroblivion
 
@@ -9853,6 +9864,7 @@ DWAnvilTransport Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 DisplayHousejm.esp
 Display Rooms.esp
+Diverse Chapels.esp
 Diverse Guards.esp
 
 DiveRockHouse.esp
@@ -9872,6 +9884,7 @@ DJ Markov Manor.esp
   IF CHECKSUM("DJ Markov Manor.esp", 6CB134C6) DIRTY: 245 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DKImprovementBruma_v1.0.esp
 DocksideCoffeeHouse.esp
+Dom.esp
 Don't Forget Nirn!.esp
 DopplersArmory.esp
 DoTheUnderdark.esp
@@ -9973,6 +9986,8 @@ The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
 Eska Cair.esp
+EspadaIsland.esp
+EstateFortess.esp
 EstateInterior.esp
 Etherealspace.esp
 EtherwalkerRus.esp
@@ -11032,6 +11047,7 @@ New Biger Your Personal Dungeon Biger.esp
 //Yes, "Biger" is correct...
 New Imperial City.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities IC components.
+NewLeyawiinHouse.esp
 NewSheothManor.esp
 NNICTunnel.esp
 
@@ -11357,6 +11373,7 @@ Resurrection of the Dark Brotherhood.esp
 REX_TheLostSouls.esp
 RGA-ESHouse.esp
 Philips_Prison_Mod-7330.esp
+RICHARD temple.esp
 Ricks CIP ICTalosPlaza.esp
   TAG: {{BASH: C.Climate}}
 Riddle_Dungeon 2_v1.1.esp
@@ -13238,10 +13255,11 @@ Sounds of Cyrodiil - HOTD Add-on.esp
 ColdstoneDT and HOTDead Patch.esp
 
 Dschinni.esp
-  SAY: There are incompatibilities with Servant of the Dawn.
+  IF FILE("Servant of the Dawn.esp") && IFNOT FILE("Dschinni - Servant of the Dawn Patch.esp") SAY: Use the patch for Servant of the Dawn to resolve compatibility issues. 
   SAY: Use the patch for UL Arrius Creek and The Heart of the Dead version 6.3 to resolve compatibility issues.
 Dschinni Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Dschinni - Servant of the Dawn Patch.esp
 ENDGROUP: Quests and Locations 4
 
 BEGINGROUP: Landscape and City overhauls 1
@@ -15920,6 +15938,7 @@ Vtoy.esp
   TAG: {{BASH: Hair, Eyes}}
   IF CHECKSUM("Vtoy.esp", E80F82B8) DIRTY: 314 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 SMVtoyCross.esp
+SMVtoyImperial.esp
 Lovers.esp
 Lovers3dorgasm.esp
 Lovers3dorgasmMB2.esp
@@ -17635,6 +17654,8 @@ Wizard'sSpellBook.esp
 arcanevelocity200.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Faster Spells.esp
+  IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+FasterArrows150.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 FasterArrows200.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
@@ -20038,6 +20059,7 @@ CM DESTINY GB.esp
 Cm Dimych.esp
 cmDrianna.esp
 CM Hoarfrost Castle Guard.esp
+cmLegacy.esp
 CM_LoreleiU.esp
   TAG: {{BASH: Hair, Eyes}}
 cm lula wild.esp

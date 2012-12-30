@@ -93,6 +93,7 @@ BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
   TAG: {{BASH: Eyes, Graphics, Hair, R.Relations}}
 CCC.esm
+Hair Master.esm
 xeoex.esm
   TAG: {{BASH: Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes}}
 Jog_X_Mod.esm
@@ -264,6 +265,7 @@ Anwolf Race.esm
 Flame Atronach Race.esm
 AinmhiRace.esm
 Eluna.esm
+Children of Cyrodiil.esm
 CM Partners.esm
 CM Partners Mod.esm
 CMVailena.esm
@@ -314,6 +316,7 @@ p2p'sAshDraconian.esm
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 IDKRRR_C_race_closed_mouth_version.esm
 All Shapes And Sizes 1.0.esm
+X.Dryads.GotF.esm
 TIE4MODS.esm
 Portal.esm
 CustomSpellIcons.esm
@@ -654,6 +657,8 @@ Black Screen Fix.esp
   SAY: Alternatively, remove this and use UOP v3.0.1+ instead.
 BlackScreenToggleFix.esp
 
+CharGenFixITA.esp
+
 Allies for Bruma Fix.esp
 Anvil visible castle.esp
 Arcana Restored.esp
@@ -662,6 +667,7 @@ Arcana Restored.esp
   IF CHECKSUM("Arcana Restored.esp", C954DEB3) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Erthor_Fix-2593.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
+DBFixes&Co.esp
 Hermaeus Mora Daedric Quest Fix.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
 UnRacefix.esp
@@ -1244,6 +1250,7 @@ Immersive Interiors.esp
   TAG: {{BASH: C.Water}}
 Immersive Interiors - Lights Addon.esp
   SAY: Obsolete. Update to the latest version of Immersive Interiors and delete this.
+Immersive Interiors - Landscape Addon.esp
 
 ReneerInteriorsMod.esp
 
@@ -2283,6 +2290,7 @@ Morag Tong Assassins(V1.3).esp
   IF CHECKSUM("Morag Tong Assassins(V1.3).esp", 6D3B25D4) DIRTY: 54 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Lyn-StrongerWortcraft.esp
 Lyn-NoFakeOceanFloor.esp
+locksmith.esp
 LostTelvanniCodex.esp
 LostTelvanniCodex_ru.esp
 Luchaire's Neck Seam Concealer.esp
@@ -2310,6 +2318,7 @@ Medic!.esp
 Menu and Camera Toggler.esp
 MeosPotionReplacer.esp
   TAG: {{BASH: Graphics}}
+Mephaniel's More Ingredients.esp
 merchant chest fix.esp
 MG Recommendation Skip.esp
 MidnightRecharge.esp
@@ -2387,6 +2396,7 @@ Named Fighter's Guild Porters.esp
 NBB.esp
 Necromancer Mount.esp
 Necromancer Mount - Alternative Version.esp
+Newbie_Chest-1886.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
   IF CHECKSUM("New Potions by Tealpanda.esp", E5983547) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -2778,6 +2788,7 @@ ToggleShaders.esp
 Toggle Shield and Quiver v1.1.esp
 Torch.esp
 Torch Arrows.esp
+TorchMerchant.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
@@ -3175,12 +3186,15 @@ No Recharge.esp
 Note to Self.esp
   REQ: OBSE 0018+
 
+OBGE.esp
 Oblivion Graphics Extender Support.esp
 OBGE Controller.esp
 OBGEv3 Controller.esp
+OBGEv3 Controller GR6.esp
 OBGE_SwitchDoF.esp
 OBGEv3.1_CommonComponents.esp
 OBGEv3.1_StandAloneEffects(MultiModuleInstall).esp
+OBGEv3.1_StandAloneEffects(SingleModuleInstall).esp
 
 P-Froggys Automatic NPC-Respawner (1).esp
 P-Froggys Automatic NPC-Respawner (2).esp
@@ -4002,6 +4016,7 @@ Boidae Outfits.esp
 Book of Werewolves.esp
 BookCollisionTest.esp
 Boots of Blinding Speed.esp
+Bored.esp
 Bow of Quel'Thalas.esp
 BowOfShadow.esp
 BowOfShadows.esp
@@ -4418,6 +4433,8 @@ ImperialDragonHeavyShield.esp
 femaleorderrobe.esp
 FemaleArmorPack1.esp
 Female Helmet Replacer.esp
+  TAG: {{BASH: Graphics}}
+Female Helmet Replacer_KotN.esp
   TAG: {{BASH: Graphics}}
 Female Outfits by Koutetsu.esp
   INC: Better Abandoned House.
@@ -5852,6 +5869,7 @@ RFHighHeels HGEC Vipcxj.esp
 BisSP_RHH_2.esp
 VipCxjHHTest.esp
 BisSP_Real_High_Heels.esp
+Real_High_heels_RF.esp
 Viro's Kung Fu Set.esp
 VoidArmour.esp
 Vvardenfell_Imports.esp
@@ -6211,6 +6229,7 @@ Babarized VADaedricPriestessArmor.esp
 Babarized VellasArmor.esp
 Babarized WitchesFrock.esp
 Babarized WizardWear.esp
+Bab_KotN_Armors.esp
 BAB & RM Assassin Elite Armor.esp
 BABCeltic Witch Robes.esp
 Battle China Dress.esp
@@ -6228,6 +6247,7 @@ Blood Illusion and Arcania armors for Exnem's body.esp
 Blood Mage.esp
 Bloodrayne Armor.esp
   IF CHECKSUM("Bloodrayne Armor.esp", 1E5AE2EF) DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Bodysuit and Garter.esp
 Break_ESalor__and_LingerieSet.esp
 
 CrimsonEyeCandy.esp
@@ -6256,6 +6276,7 @@ Dark Rose Armor Rus.esp
 DarkRoseSet.esp
 DarkSister_Cheydinhal.esp
 DarkWindarmor1.esp
+Deco Dresses.esp
 Diannes UFF Daedric Casual Attire.esp
 Diva.esp
 DFSLoutfits.esp
@@ -6365,6 +6386,7 @@ HG Lady Shadow.esp
 HGEC Queen Of Nightfall Dress ENG.esp
 HGEC_Rogue01.esp
   TAG: {{BASH: Graphics}}
+HGEC SB Clothing.esp
 HGEC_SBBewitching.esp
 HGEC_SBVelvetRose.esp
 HGEC Sexy Rogue.esp
@@ -6444,6 +6466,7 @@ Neo-Twilek Dancers.esp
 NoelCosplay.esp
 New Exnem Compatible Armors.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
+Notused_Leather.esp
 N_Undies.esp
 
 OdinsSkimpyGlassArmor.esp
@@ -6598,6 +6621,7 @@ TGND_Lingerie_Underwear.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND_SwordDancer.esp
 TGND Warrior Skin.esp
+tkLeBlancSet.esp
 The Dragon Princess.esp
 tona_simple_dress-armor.esp
 TrawlolsCorinthianGladiator.esp
@@ -7099,6 +7123,7 @@ FF_Real_Thirst, Cobl.esp
   SAY: Don't use with vampire mods.
 Cobl Tweaks.esp
   IF VAR(FCOM) ERROR: Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
+Cobl Patch - Hunger Tongue.esp
 COBL-FransCre.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
   REQ: COBL and Fran's.
@@ -7628,6 +7653,8 @@ IF VAR(FCOM) MOD: Curse of Hircine - Werewolf Hunters.esp
 IF VAR(FCOM) MOD: CurseOfHircine - Symphony of Night.esp
 IF VAR(FCOM) MOD: CoH Unarmored.esp
 IF VAR(FCOM) MOD: CoH No Female Model.esp
+IF VAR(FCOM) MOD: CoH_Sound Addon.esp
+
 ENDGROUP: FCOM/MMM optionals 1.
 
 BEGINGROUP: FCOM/MMM optionals 2.
@@ -7764,6 +7791,7 @@ IFNOT VAR(FCOM) MOD: Curse of Hircine - Werewolf Hunters.esp
 IFNOT VAR(FCOM) MOD: CurseOfHircine - Symphony of Night.esp
 IFNOT VAR(FCOM) MOD: CoH Unarmored.esp
 IFNOT VAR(FCOM) MOD: CoH No Female Model.esp
+IFNOT VAR(FCOM) MOD: CoH_Sound Addon.esp
 
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Blood Fix v3.esp
   SAY: Obsolete. Remove this and update to MMM v3.6beta3+.
@@ -8146,6 +8174,9 @@ ENDGROUP: FCOM\MMM optionals 3.
 
 BEGINGROUP: Overhaul compatibility
 //''''''''''''''''''''''
+
+Cobl Patch - MMM Gems and Gem Dust.esp
+Cobl Tweaks - MMM and OOO.esp
 
 //Not misplaced. Please don't move.
 WAC - ItemLootFix4v1.0bTIE.esp
@@ -9716,6 +9747,7 @@ COR-Episode1 Secret of Enourk.esp
 CM Armor Expansion.esp
 CM_Minor_Quests_1.2.esp
 CMcamp.esp
+COT - Diverock Estate.esp
 Crescent Island.esp
 Cropsford Cottage.esp
 CropsfordErmitage.esp
@@ -9862,6 +9894,7 @@ DWAnvilTransport.esp
   IF CHECKSUM("DWAnvilTransport.esp", FEF1B464) DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 DWAnvilTransport Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+TGND - Dibella's Watch.esp
 DisplayHousejm.esp
 Display Rooms.esp
 Diverse Chapels.esp
@@ -10034,6 +10067,7 @@ Fanacasecul.esp
 Far Farm.esp
 Farleum V 1.2.esp
 Faraggut_renewed.esp
+Felicity Farm.esp
 Felmoons Dawn V1.2.esp
 FFM.esp
 Fighters Guild Quests.esp
@@ -10350,6 +10384,7 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
   IF CHECKSUM("SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp", 6E556FA4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 IC Palace Topper.esp
 IC Palace Topper - BBC.esp
+ictunnel.esp
 
 ImbelManor.esp
 imperial armors shop.esp
@@ -10794,6 +10829,7 @@ Lops_hidden_village.esp
 LordKain_Adash_World.esp
 LordKain_Adash_World Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+AdashComAnur.esp
 Lorekeep.esp
 Lost Chapel.esp
 Lost_Happ.esp
@@ -10994,6 +11030,7 @@ Your_Personal_Museum_Updated-9300.esp
   IF CHECKSUM("Your_Personal_Museum_Updated-9300.esp", AA358578) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 My Big House.esp
 My Dark Brotherhood Room.esp
+MyMuseum.esp
 Mages_house.esp
 Malamath.esp
   SAY: Be sure to update to version 2.0. Version 1.x could break the Dark Brotherhood quest line.
@@ -11331,6 +11368,7 @@ Reaper_Tree_Home.esp
 SYS Patch-Reaper's Tree Home.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
+Retbury Village.esp
 RavenCragHome.esp
 Ravenrock.esp
   REQ: Shivering Isles.
@@ -11485,6 +11523,7 @@ Septim Mansion.esp
 Septim Mansion rus.esp
 Septim_Mansion_Renovated.esp
 Servant of the Dawn.esp
+Servant of the Dawn RUS.esp
 Servant of the Dawn - FR.esp
 SewerExpansion-Cheydinhal.esp
 SewerExpansion-Bravil.esp
@@ -11565,6 +11604,7 @@ Silvercliff.esp
   IF CHECKSUM("Silvercliff.esp", B6D06CD5) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Silvercliff Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+SilverfishRiverCabin.esp
 SilverSoul Hideaway_v1.1.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
@@ -11783,6 +11823,7 @@ The Ranger's House Lite.esp
 TheReturnOfTheDarkBrotherhood.esp
   IF CHECKSUM("TheReturnOfTheDarkBrotherhood.esp", 08450046) DIRTY: 10 ITM, 76 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Savior of Camelot.esp
+TheShunnedShack.esp
 The Temple of Medusa.esp
   IF CHECKSUM("The Temple of Medusa.esp", 0CC093DE) DIRTY: 37 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 The Temple of Serpent Race.esp
@@ -11821,6 +11862,7 @@ Aylied Steps - AN Real Lights patch.esp
 //Yes, that spelling error is correct.
   REQ: The Ayleid Steps, All Natural Real Lights.
 Amen'thalas - Ayleid Steps Patch.esp
+TGND - The Ayleid Steps.esp
 CDEP_FanaCeya.esp
   TAG: {{BASH: C.Light}}
   IF CHECKSUM("CDEP_FanaCeya.esp", 84B74D3F) DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -11875,6 +11917,7 @@ The Spirit Of The Wolf.esp
 The_Dragon_Citadel-6178.esp
 The_Dragon_Citadel.esp
 Vibliribland-6178-The_Dragon_Citadel.esp
+(TLB)ElderCouncilsChambers v1.0.esp
 TLC2.esp
   IF CHECKSUM("TLC2.esp", 8AC7051F) DIRTY: 113 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 TOSP - Loading Screens.esp
@@ -12237,6 +12280,7 @@ Will-o-the-Wisp Companion.esp
 WinterCabin.esp
 Winterhouse.esp
 Winter Palace.esp
+Winterstar.esp
 witcher2.esp
   REQ: Shivering Isles+OBSE+HGEyeCandyBody+MaleBodyReplacer
 Witch's Throne.esp
@@ -13033,7 +13077,7 @@ Tamriel.esp
 
 ElsweyrAnequina.esp
   SAY: Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
-  IF CHECKSUM("ElsweyrAnequina.esp", 832BF961) || IF CHECKSUM("ElsweyrAnequina.esp", 3EE060AB) DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("ElsweyrAnequina.esp", 832BF961) || IF CHECKSUM("ElsweyrAnequina.esp", 3EE060AB) || IF CHECKSUM("ElsweyrAnequina.esp", 54674372) DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 ElsweyrAnequina DV.esp
   SAY: Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
   IF CHECKSUM("ElsweyrAnequina DV.esp", 85B9199D) DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
@@ -15015,6 +15059,7 @@ Coffinbag's Better Potions.esp
   TAG: {{BASH: Graphics}}
 Cobl Hmm.esp
 Cobl Bookplacement.esp
+CoC NPCs and Clothes.esp
 Colored Lower Class Beds Resource.esp
 Colourwheels Sexy Wantedposter.esp
 Colourwheels Sexy Panty Shop HGEC.esp
@@ -15943,6 +15988,7 @@ Lovers.esp
 Lovers3dorgasm.esp
 Lovers3dorgasmMB2.esp
 LoversAdultYield.esp
+LoversBoxing.esp
 LoversCalm.esp
 Lovers_ChildRaceType.esp
 Lovers_ChildRaceNPC.esp
@@ -15992,7 +16038,9 @@ LoversRaperSGalgat.esp
 LoversRaperSRussian.esp
 LoversJoburg.esp
 LoversJoburgCustomizer.esp
+LoversJoburg NoDelay Addon.esp
 LoversJealousy.esp
+LoversSituations.esp
 LoversSlavePlay.esp
 ZMCPlayerSlave.esp
 LoversBed.esp
@@ -16018,6 +16066,7 @@ LoversNecrophilia.esp
 LoversPayBandit.esp
 LoversPower.esp
 LoversUtilityFunctions.esp
+LoversBeatemUpS.esp
 LoversContraception.esp
 LoversNTRburglar.esp
 Lovers_NA.esp
@@ -16029,6 +16078,7 @@ Lovers with PK.esp
 LoversBitch.esp
 LoversCreature.esp
 LoversCreatureExtender.esp
+LoversCreatureVoiceForceEnabler.esp
 LoversGroup1.esp
 Lovers with PK Extender.esp
 LoversCreature_SexualOrgans.esp
@@ -16571,6 +16621,8 @@ LCE-addon.esp
 
 More Replay Again.esp
 
+Neverender.esp
+
 CLS-craftybits.esp
   IF CHECKSUM("CLS-craftybits.esp", 4C5BC5EC) DIRTY: 56 ITM, 664 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 craftybits.esp
@@ -16911,6 +16963,8 @@ Natural Healing.esp
 Natural Hunger v2_0 by QF.esp
   SAY: Old, update to version 2.1.
 Natural Hunger v2_1 by QF.esp
+pmQFNaturalHunger.esp
+  REQ: Real-Time Interactions
 Lyn-LifelikeRestoration.esp
 RealisticHealth.esp
 sr_retroactive_health.esp
@@ -17368,12 +17422,14 @@ SummonAuroranOBME.esp
   REQ: Knights.esp and OBSE and OBME
 Summon Arrow.esp
 SummonCreaturePackBeta.esp
+Summon Fairy_v0.91xDS.esp
 SummonKnightofOrderOBME.esp
   REQ: SI and OBSE and OBME
 Summon Shadowmere.esp
 TeachSpell.esp
 Teleport.esp
   REQ: OBSE.
+Teleportation Spell.esp
 teleportspell EV.esp
 Teleport to Frostcrag Spire - Spell and Item.esp
 Telestone.esp
@@ -17651,7 +17707,11 @@ Spellbooks.esp
 Wizard'sSpellBook.esp
   IF CHECKSUM("Wizard'sSpellBook.esp", 1A8F35F2) DIRTY: 31 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 
+ArcaneVelocity150.esp
+  IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 arcanevelocity200.esp
+  IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+ArcaneVelocitySTA200.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Faster Spells.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
@@ -18447,6 +18507,7 @@ Faster Restoration.esp
 Increased Restoration and Mercantile Leveling Rates.esp
 G_'s-Level-Slow.esp
 Kami Leveling.esp
+LevelSlow-3x.esp
 Maethlin's Skilltweak.esp
 SlowerOblivion_x2.esp
 SlowerOblivion_x3.esp
@@ -18789,6 +18850,8 @@ LainPose.esp
 LainPoseMOD.esp
 LainPoseMODv1.4.esp
 
+NakayoshiMODs.esp
+
 SW01.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
   SAY: Use 'SW01.esp' or 'SW01Plus.esp' but not both at the same time. SW01Plus affects the player as well.
@@ -18856,6 +18919,7 @@ Steeltooth_Playeranimations.esp
   TAG: {{BASH: Actors.Anims}}
 The Uguu Poser.esp
 TmeppExtendedAcro.esp
+TNR and BBB all Women Player.esp
 UChainBeast.esp
 zzEstrus.esp
 walklikesheo.esp
@@ -19231,6 +19295,8 @@ CT-Argonian Headstyles-MM.esp
   TAG: {{BASH: Graphics, Hair, Eyes}}
 CT-Argonian Headstyles-EE+MM.esp
   TAG: {{BASH: Graphics, Hair, Eyes}}
+Lyre's Beautiful Faces Compilation.esp
+  TAG: {{BASH: Graphics, Hair, Eyes}}
 MD_Natural_Faces_DV.esp
   TAG: {{BASH: Graphics, Hair, Eyes}}
 King_O_POPver2.esp
@@ -19349,6 +19415,7 @@ Half Orcs.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Hidden_Elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+InariRace.esp
 kaleen.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Kaleencolors.esp
@@ -20302,6 +20369,8 @@ REGEX: 1em_Vilja_(cool|Ren)hair\d\d?g?\.esp
 1em_Vilja_Bruse_as_Clydesdale_horse_by_Xtudo.esp
   TAG: {{BASH: Graphics}}
 1em_Vilja_Bruse_as_Slofs_horse_by_Xtudo.esp
+  TAG: {{BASH: Graphics}}
+1em_Vilja_Bruse_Pony.esp
   TAG: {{BASH: Graphics}}
 1em_Vilja_corean14.esp
   TAG: {{BASH: Hair}}
@@ -22119,6 +22188,7 @@ Visually Enchanted SoulTrap 1.esp
   TAG: {{BASH: Graphics}}
 Visually Enchanted SoulTrap.esp
   TAG: {{BASH: Graphics, Deactivate}}
+Visual Enchantments v0.9.esp
 Visual Enchantments LessFire.esp
 Visual_Enchantments_LessFire.esp
 Visually Enchanted Paralyze Complete by Agesofb.esp
@@ -22244,6 +22314,7 @@ Duke Patricks - BASIC Script Effect Silencer.esp
 Duke Patricks - BASIC Script Effect Silencer NIF REMOVED.esp
 Script Effect Icon Changer.esp
 Script Effect Icon Replacer 62i.esp
+Oblivion_Script_Sound_Fix.esp
 
 UnnecessaryViolence.esp
   SAY: If using with Supreme Magicka and experiencing frequent swirling pink or green clouds, set 'zzSMConfigurationQuest.bNoPoisonLevitationEffects' to 1 in SupremeMagicka.ini.

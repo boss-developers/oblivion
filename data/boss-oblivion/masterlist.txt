@@ -3342,38 +3342,38 @@ Clock Hotkey.esp
 DBTAM.esp
 Enhanced Hotkeys.esp
 Expanded Hotkeys and Spell Delete v1.0.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
   SAY: Old, Update to V2a+.
 Expanded Hotkeys and Spell Delete V2.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
   SAY: Old, Update to V2a+.
 Expanded Hotkeys and Spell Delete V2a.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Expanded Hotkeys Brief Equip Message.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Hov's Hotkeys.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 HotkeyCasting.esp
 hotkeys_galore_6.esp
 Hotkey Pro.esp
 Lem - Hotkey Cyclers.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Uncommon Controls.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 FastShortcuts.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 FastEquipping.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Improved Hotkeys_Extended.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 Quick Clothes and Spells.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 sr_super_hotkeys.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 STHotkeys.esp
-  SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
+  IF REGEX("Oblivion WarCry( EV)?\.esp") SAY: Don't use hotkeys to change Warcry-style 'set' equipment. Game bug.
 YetAnotherHotkeyMod.esp
 ENDGROUP: Hotkeys
 

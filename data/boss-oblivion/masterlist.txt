@@ -317,6 +317,7 @@ p2p'sAshDraconian.esm
 IDKRRR_C_race_closed_mouth_version.esm
 All Shapes And Sizes 1.0.esm
 X.Dryads.GotF.esm
+X.Races.Comp.esm
 TIE4MODS.esm
 Portal.esm
 CustomSpellIcons.esm
@@ -1266,6 +1267,8 @@ NI-Fullcity-Anvilhome.esp
 NoOblivionWeatherOutside.esp
   INC: All Natural.
 
+no wind-2578.esp
+  IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 no_wind-2578.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 NoWind.esp
@@ -1299,6 +1302,7 @@ Advanced_Water_Modification.esp
 Advanced Water Modification.esp
 Bessere Unterwassersicht.esp
 Better Water.esp
+Better Water-1830.esp
 Better_Water-1830.esp
 BetterImperfectWater.esp
 Blue_Lagoon_Water-2032.esp
@@ -2866,6 +2870,7 @@ Weed AND Beer inebriation 1.32.esp
 WhiteGoldTower_Telepad.esp
 Willful Resistance.esp
   SAY: Only use one willpower equals magicka resistance/weakness type mod at once.
+[WIP] Mysterious Chest (Combine or drain soulgems)-2047.esp
 Wogs!.esp
 Wogs!_TI.esp
 WWF - Gloom.esp
@@ -3158,6 +3163,7 @@ kuerteeSittableRocks.esp
 
 Lava Does Fire Damage.esp
 LazyPCB.esp
+librarycatalogue.esp
 Lock Bash Omega.esp
 
 marksman_challenge.esp
@@ -3944,6 +3950,8 @@ Blade Of Woe Replacer.esp
   TAG: {{BASH: Graphics}}
 Blade Of Woe Replacer by Allomerus.esp
   TAG: {{BASH: Graphics}}
+BladeofWoeReplacer9Tongues.esp
+  TAG: {{BASH: Graphics}}
 BladesArmorReplace.esp
 Blakeley's Lachrymal Bow.esp
 BlessedMageKnightDress.esp
@@ -4094,6 +4102,7 @@ Colovian Fur Helm.esp
 ComicBookSuits.esp
 ComfortableClothing.esp
 ComfortableClothing_NoHiddenAmulets.esp
+Concealing_Hoods.esp
 ConjurationTome.esp
   SAY: Only use one ConjurationTome*.esp
 ConjurationTomeOBSE.esp
@@ -4462,6 +4471,7 @@ FlameGlassEquipment.esp
 FLY Armor and Clothing - Non-replacers.esp
   IF CHECKSUM("FLY Armor and Clothing - Non-replacers.esp", B0FDF6F) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 FLY Armor and Clothing - NR Leveled Lists.esp
+Forest Friend.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
 ForgedSteelDaggers_1C.esp
@@ -5218,6 +5228,7 @@ PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 Plate of the Shadow.esp
 Platinum Tyrael Armory.esp
+playble_armors.esp
 playable golden saint and dark seducer armour.esp
 Playable GS DS Armor.esp
 PlayableEmpclothes.esp
@@ -5425,6 +5436,7 @@ Shrouded Armor X.esp
 ShroudedCowl.esp
 SickleIrons.esp
 SickleIrons_RT.esp
+Silverlight Armor Addon by Xcytress.esp
 SilverwareWeapons.esp
   SAY: if using FCOM use Silverware Weapons - FCOM.esp instead
 Silverware Weapons - FCOM.esp
@@ -5770,6 +5782,7 @@ True Skullcrusher.esp
 TS3_Arcanery.esp
 TTB.esp
 Tyrael Armor.esp
+Tyrael Shield V1.2.esp
 Templer-Armor.esp
 The Soul Reaver.esp
 Twilight Assassin.esp
@@ -6414,6 +6427,7 @@ JB Catsuit Weapons.esp
 KAIHIME.esp
 kalikuts_.esp
 kalikuts_UFF_BraPanties.esp
+kdThiefVest for HGEC.esp
 ktx_FlameAtronachArmor.esp
 kunoichi DM Enchanted.esp
 
@@ -6519,6 +6533,7 @@ Red Dragon Armor.esp
 Red Samurai.esp
 Resort Beach Outfits.esp
 Rinzei_UFFLeatherCorsetGown.esp
+RMF Bondage.esp
 Rockh00 InTheDark.esp
 Rockh00 Nouhime.esp
 Robed Panty.esp
@@ -8359,6 +8374,8 @@ OOO_ThievesGuildFix.esp
 Diverse Effect Icons for OOO.esp
 NWJtamriel4MMM.esp
 
+OOO-Lockfix.esp
+  SAY: Use the "Set LapMinLock to 0" console command instead.
 OOO-No clutter ownership.esp
 OOO-No_Clutter_Ownership.esp
 
@@ -8757,6 +8774,7 @@ Morrowind_ob - Faction Relationships.esp
 Morrowind_ob - Conversation.esp
 Voice Overs V002.esp
 ProtocolledDialogs.esp
+MorroblivionLoadingScreens.esp
 
 MorrOblivionRussiA.esp
 
@@ -9461,6 +9479,7 @@ Black Rock Home.esp
 BlackGear.esp
 Blackclaw.esp
 Blackscar Citadel.esp
+BlackSoulGemAltar.esp
 _Blackwood_Thieves_Hideout_v1.1_.esp
 BladeOfTheHaunted.esp
   TAG: {{BASH: Factions}}
@@ -10305,6 +10324,7 @@ hantai mapbook.esp
 HermitageCropsford.esp
 Hero Hill Redone.esp
 HiddenTreasures.esp
+Hidden Treasures-8745.esp
 Hidden Treasure Chests-UL edition.esp
 Highcross House.esp
 High Rock.esp
@@ -11192,9 +11212,11 @@ Oblivion Acheivement Rewards.esp
 Oblivion Achievements Core with Rewards.esp
 Oblivion Achievements CORE Version.esp
 Oblivion Achievements CM Companions.esp
+Oblivion Gate Tower.esp
 Oblivion Wine Overhaul.esp
 Oblivion_NPC_Project1.esp
 OblivionNPCproject2.esp
+OblivionNPCproject3.esp
 Wine Overhaul.esp
 OgramiradsUnmarkedPlaces.esp
   REQ: Shivering Isles
@@ -11369,6 +11391,7 @@ SYS Patch-Reaper's Tree Home.esp
 Rebel Star rider Shop.esp
 Raiders of Cyrodil.esp
 Retbury Village.esp
+Retbury Village - AN Patch.esp
 RavenCragHome.esp
 Ravenrock.esp
   REQ: Shivering Isles.
@@ -15916,6 +15939,7 @@ BEGINGROUP: overrides S
 Safer Roads v1.0.esp
   SAY: Don't use with MMM or FCOM - unkown with other overhauls
 Sagantor's Bloodlust.esp
+Salmo the Baker V.2.esp
 SA Social Alertness.esp
 SBDummyTraining.esp
 Scouter.esp
@@ -16018,6 +16042,7 @@ LoversVoiceAR.esp
 LoversVoice_AddRandomDialogues.esp
   REQ: LoversVoice.esp
 LoversVoiceSSPx117.esp
+LoversVoiceGHN_TH.esp
 LoversAdultPlay.esp
   SAY: Obsolete. Use LoversAdultPlayPlus.esp instead.
 LoversSpringSale.esp
@@ -16469,6 +16494,7 @@ Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
 Teleport Everywhere.esp
   REQ: OBSE.
+The Undead Arise 2.0.esp
 Things Found Fence.esp
   TAG: {{BASH: Actors.AIData}}
 Thieves Gulid Harded.esp
@@ -16480,6 +16506,7 @@ Toggleable Quantity Prompt.esp
 ATakesAll.esp
 dyseso_PromptAt2Items.esp
 Lyn-DontAskMeHowMany.esp
+TmeppDoubleTap.esp
 TML_InfiniteCharges.esp
 TML_WieldableTorches_v10.esp
 TML_WieldableTorches_v10_Plug-in_FIRE_Strong.esp
@@ -16850,6 +16877,7 @@ RealHungerv1.4_NO_MMM.esp
   SAY: Realistic hunger mods and vampire mods may conflict seriously.
 Real Hunger v1.4 no_MMM.esp
   SAY: Realistic hunger mods and vampire mods may conflict seriously.
+MrPwners Cooking v0.1.esp
 
 RH 1.5.5 - Original Alchemy Edition.esp
   SAY: Realistic hunger mods and vampire mods may conflict seriously.
@@ -17178,6 +17206,8 @@ MagLite - Alchemy.esp
 NoDurationSpells.esp
 OOO Potions Autocalc.esp
 Slower Potion Effects.esp
+thScroll.esp
+thScroll Vendors0.01.esp
 
 BEGINGROUP: General Spells
 
@@ -17206,6 +17236,7 @@ Better Scrolls.esp
 blink.esp
 BookOfMagic.esp
 BudongsNarcolepsySpell.esp
+byo_empty_soul_gems.esp
 CartographersUnite.esp
 CDM-BoneCraft Skill.esp
 CDM-Convert to Gems.esp
@@ -18914,6 +18945,7 @@ Pose Compendium.esp
 SexyWitchPoses.esp
 Stylish Jump.esp
 Slof's Sexy Anims.esp
+Slof's Sexy Anims_rus.esp
 Specialanims.esp
 Steeltooth_Playeranimations.esp
   TAG: {{BASH: Actors.Anims}}
@@ -20118,6 +20150,7 @@ cmBellenia.esp
 CM Boromir.esp
   TAG: {{BASH: Graphics, NpcFaces}}
 cmChocolates.esp
+CMChrysamste.esp
 CM Companion Jessica Alba.esp
   TAG: {{BASH: Hair, Eyes}}
 CM Companion Megan Fox.esp
@@ -20212,6 +20245,7 @@ Colourwheels Sexy Tifa.esp
 CM ElizabethColourWheel.esp
 CM Dimon Lineage Elves Merged.esp
 CMMiko.esp
+DARaewynCS&R.esp
 DN13CMP_-_Little_Ladies&Lords.esp
 Aipersocomcm.esp
 AngelinaCM2.esp
@@ -20317,6 +20351,8 @@ BEGINGROUP: Vilja Companion
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Argonian Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+1em_Vilja_as_Nec_Mystic_High_Elf-Remake_by_Xtudo.esp
+  SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Blood_Elf_by_Xtudo.esp
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_ Synx_by_Xtudo.esp
@@ -20730,6 +20766,7 @@ Inerion Tydantin.esp
 Heroes of RS and Azeroth.esp
 More Heroes of Azeroth.esp
 Sc - Dog Follower Blood.esp
+Xenius Race Companions Comp.esp
 ENDGROUP: Companions
 
 BEGINGROUP: Race Overrides
@@ -20811,6 +20848,8 @@ Khajiit Fix.esp
 khajiittextfix.esp
   TAG: {{BASH: Body-F, Body-Size-F}}
 Mart's Monster Mod - Resized Races.esp
+  TAG: {{BASH: Body-Size-M, Body-Size-F, R.Relations}}
+Martigen's Monster Mod - Resized Races.esp
   TAG: {{BASH: Body-Size-M, Body-Size-F, R.Relations}}
 Bigger_Dremora.esp
   TAG: {{BASH: Body-Size-M, Body-Size-F}}

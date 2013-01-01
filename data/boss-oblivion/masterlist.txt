@@ -2660,6 +2660,7 @@ rwr mannequins.esp
 Real_Mannequin.esp
   TAG: {{BASH: C.Names}}
 Practice_Dummy0.9.5.esp
+Practice_Dummy 4.0.esp
 
 Ring of Atmospherancy.esp
 RingOfFeather1000.esp
@@ -3092,6 +3093,7 @@ Auto_Recharge.esp
 AutomaticPatrols.esp
   IF FILE("DynamicLeveledLists.esp") ERROR: DELETE. Included in Dynamic Leveled Lists mod
 
+Better Oblivion Pack 13 - Safety Saver.esp
 Better Running.esp
 BookTrackerOBSE.esp
 
@@ -3278,6 +3280,7 @@ BEGINGROUP: Map marker Tweaks
 //
 //Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
 
+Better Oblivion Pack 14 - Marker Explore.esp
 DRW.esp
 Dynamic Map.esp
 Map Markers Be Done -Elys-.esp
@@ -6290,6 +6293,7 @@ DarkRoseSet.esp
 DarkSister_Cheydinhal.esp
 DarkWindarmor1.esp
 Deco Dresses.esp
+Demonic Monstera.esp
 Diannes UFF Daedric Casual Attire.esp
 Diva.esp
 DFSLoutfits.esp
@@ -10864,7 +10868,6 @@ LostSwordOfTheAylied - Claymore Add-On.esp
 LostSwordOfTheAylied - OBSE Add-On.esp
 LostSwordOfTheAylied_delayer.esp
 LostTreasures1.1.esp
-LSTBravilUnderground.esp
 Lycanmoon.esp
   SAY: Outdated. Update to version 1.6+.
 Lycanmoon1.6b.esp
@@ -11669,7 +11672,6 @@ SMChorrol.esp
 SMAbriaelHuman.esp
 SN_Shivering_Shack.esp
 SN_Sunset_Cottage.esp
-SMSynx.esp
 Sno_DarkClub.esp
 Sno_DB 1.0_Full Version.esp
 Sno_DB 1.0_Hood Replacer.esp
@@ -14947,6 +14949,9 @@ Betterleveledlists.esp
 Better Loot v1.0.esp
   TAG: {{BASH: Delev}}
   IF VAR(OOO) SAY: Will totally FUBAR OOO's item scaling.
+Better Oblivion Pack 15 - Leveling Rewards.esp
+Better Oblivion Pack 17 - Oblivion Gates.esp
+Better Oblivion Pack 18 - Item List Redux.esp
 BetterPirates.esp
 Better Post Faction Rewards.esp
 Better Potions and Poisons.esp
@@ -16041,7 +16046,6 @@ LoversVoiceAR.esp
   SAY: Use either 'LoversVoice.esp' or 'LoversVoiceMinus.esp' or 'LoversVoiceAR.esp' but not both together.
 LoversVoice_AddRandomDialogues.esp
   REQ: LoversVoice.esp
-LoversVoiceSSPx117.esp
 LoversVoiceGHN_TH.esp
 LoversAdultPlay.esp
   SAY: Obsolete. Use LoversAdultPlayPlus.esp instead.
@@ -16055,6 +16059,7 @@ LoversAdultPlayPlusforSSP.esp
 LoversHooker.esp
 LoversAdultPlayPlusforSSP_HookerPatch.esp
 LoversVoiceSSPplus.esp
+LoversVoiceSSPx117.esp
 LoversTachiCat.esp
   SAY: Obsolete. Use LoversTachiCat2.esp instead.
 LoversTachiCat2.esp
@@ -16159,6 +16164,7 @@ LoversLight.esp
 LoversTrueCrime.esp
 LoversTrueCrimeEx.esp
 LoversSlaveTrader.esp
+LSTBravilUnderground.esp
 LoversStupidNpc.esp
 LoversSurrender.esp
 LoversHVirus.esp
@@ -16983,6 +16989,7 @@ reduced_nofran.esp
 AdvancedHealthRegen.esp
 ANB_Regen.esp
 ANB_Dynamic_Regen.esp
+Better Oblivion Pack 12 - Retroactive Health.esp
 WPHealthRegen.esp
 Wounds Healed - 1.1.esp
 PrimesHealthRegen.esp
@@ -17201,6 +17208,7 @@ BEGINGROUP: Magic
 //Overrides overhauls. New spells and magic systems go here for convenience.
 
 ASLES.esp
+Better Oblivion Pack 08 - Improved Invisibility.esp
 MagLite.esp
 MagLite - Alchemy.esp
 NoDurationSpells.esp
@@ -17232,6 +17240,7 @@ AyleidWeaponEnchantments_balance.esp
 aaBlazesPlusMod.esp
 Banishment Works.esp
 BasicInstinct.esp
+Better Oblivion Pack 01 - Bonus Spells.esp
 Better Scrolls.esp
 blink.esp
 BookOfMagic.esp
@@ -17895,6 +17904,7 @@ ENDGROUP: Alchemy
 
 BEGINGROUP: Enchantment
 
+Better Oblivion Pack 02 - Enchanting.esp
 Compleat Enchanter easy.esp
 Compleat Enchanter balanced.esp
 DS Staff Overhaul.esp
@@ -17953,6 +17963,8 @@ BEGINGROUP: Thievery, Sneaking and Crime
 //
 //Overrides overhauls.
 
+Better Oblivion Pack 09 - Sneaking Penalties.esp
+Better Oblivion Pack 10 - Improved Traps.esp
 Better Thiefloot.esp
 BookLooting.esp
   REQ: OBSE 15+.
@@ -18153,6 +18165,8 @@ BEGINGROUP: Combat
 QDX Respawning Arrows.esp
 Attack Failure Chance v2.esp
 
+Better Oblivion Pack 07 - Combat Revamped.esp
+Better Oblivion Pack 16 - Bleeding.esp
 bgCombatMessage.esp
 
 Locational Damage- Core.esp
@@ -18471,6 +18485,8 @@ BEGINGROUP: Skills, Attributes and Leveling
 ActorValueUncapper_Example.esp
 AtLeast+3Modifiers.esp
 AttributesEasy.esp
+Better Oblivion Pack 05 - Slower Leveling.esp
+Better Oblivion Pack 06 - Grand Mastery.esp
 Druid.esp
 
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
@@ -19908,6 +19924,7 @@ Sharingan and Uchiha Clan.esp
 SuccubusRace.esp
 Synx.esp
   TAG: {{BASH: Hair, Eyes}}
+SMSynx.esp
 Wiedergaenger Race.esp
   IF CHECKSUM("Wiedergaenger Race.esp", 6F1B67D5) DIRTY: 30 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Wiedergaenger Race Patch.esp
@@ -21176,6 +21193,8 @@ Appler's Passive Birthsigns.esp
 A Purist's Fix for Default Birthsigns.esp
 Custom_Birthsigns_Chris.esp
 Rebalanced Races and Birthsigns.esp
+Better Oblivion Pack 04 - Better Birthsigns.esp
+Better Oblivion Pack 03 - Racial Affinities.esp
 Birthsigns Changed.esp
 Birthsigns Revamped.esp
 Blademan's Better Birthsigns.esp
@@ -21796,6 +21815,7 @@ BEGINGROUP: Message suppression/changing overrides
 //Best loaded late to override possible message additions from other mods.
 //These are mostly covered by the Bashed Patch. At some point go through and see which ones are and add notes saying so.
 
+Better Oblivion Pack 11 - Convenience Tweaks.esp
 Message Remover Pack 1.02.esp
 No More Annoying Comments.esp
 LessMessages.esp

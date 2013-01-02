@@ -21696,6 +21696,8 @@ Cyrodiil Rebuild.esp
   IF FILE("xulSkingradOutskirts.esp") WARN: Move xulSkingradOutskirts.esp once after this esp
   IF FILE("Better Cities SKINGRAD.esp") WARN: Move Better Cities SKINGRAD.esp once after this esp
   IF CHECKSUM("Cyrodiil Rebuild.esp", A3178EEA) DIRTY: 128 ITM, 257 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Cyrodiil Rebuild II.esp
+  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Invent, Relations}}
 CRpatchForXULlostCoast.esp
 CRpatchForXULbravilBarrowfields.esp
 CRpatchForXULancientRedwoods.esp
@@ -21714,12 +21716,17 @@ CRpatchForBSandULskingrad.esp
 /*Cyrodiil Extended*/
 Imperial Bridge extended 1.2.esp
 Brindles Home extended 1.1.esp
+Pellsgate extended 1.1.esp
 Roxey Extended 1.2.esp
 Tempel der Ahnenmotten 1.1.esp
 Cadlew Priory extended 1.1.esp
 Gottlesfont extended 1.1.esp
 Grenzburg extended 1.1.esp
 Faregyl extended 1.1.esp
+Herberge zum schlechten Omen extended 1.1.esp
+Lord Rugdhumphs Anwesen extended 1.2.esp
+Blockbierquell extended 1.2.esp
+Bleichersweg extended 1.2.esp
 
 CSV_Farms_Better_Cities.esp
   SAY: Use only one CSV Farms * Cities esp.

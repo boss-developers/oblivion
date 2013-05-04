@@ -6554,6 +6554,7 @@ Rosana_White_Version.esp
 Rosesilk.esp
 Ryk_Angelika.esp
 Ryk_AtholBrose.esp
+Ryk_AtholBroseHGEC-11.esp
 
 Sack of Pants.esp
   TAG: {{BASH: Graphics}}
@@ -15792,6 +15793,7 @@ P1DkeyChainMehrunesRazor.esp
 P1DkeyChainFrostcraig.esp
 P1DkeyChainKnights.esp
 P1DKeyChainSI Merged.esp
+P1DKeyChainSIMerged.esp
 P1DkeyExtraMouseButton.esp
 P-Froggys NPC-Respawning-Oblivion Normal.esp
 P-Froggys NPC-Respawning-Oblivion_Quest NPCs.esp
@@ -20414,7 +20416,7 @@ BEGINGROUP: Vilja Companion
 1em_Vilja_as_Tabaxi Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 1em_ViljaCool72g.esp
-REGEX: 1em_Vilja_(cool|Ren)hair\d\d?g?\.esp
+REGEX: 1em_Vilja_(cool|Ren)(hair)?\d\d?g?\.esp
   SAY: Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}

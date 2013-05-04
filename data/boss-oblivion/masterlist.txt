@@ -20416,7 +20416,7 @@ BEGINGROUP: Vilja Companion
 1em_Vilja_as_Tabaxi Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 1em_ViljaCool72g.esp
-REGEX: 1em_Vilja_(cool|Ren)(hair)?\d\d?g?\.esp
+REGEX: 1em_Vilja_?(cool|Ren)(hair)?\d\d?g?\.esp
   SAY: Use only one 1em_Vilja_*hair*.esp.
 1em_Vilja Not Essential Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}

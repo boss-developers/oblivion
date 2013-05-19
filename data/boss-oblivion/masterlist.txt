@@ -7292,8 +7292,7 @@ Alluring Potion Bottles.esp
 Alluring Potion Bottles v2.esp
   TAG: {{BASH: Graphics}}
 Alluring Potion Bottles v3.esp
-  TAG: {{BASH: Graphics}}
-  SAY: Must stay activated for the BSA to load.
+  TAG: {{BASH: Graphics, MustBeActiveIfImported}}
 Alluring Wine Bottles.esp
   TAG: {{BASH: Graphics, MustBeActiveIfImported}}
 Alluring Potion Bottles v3OOO.esp

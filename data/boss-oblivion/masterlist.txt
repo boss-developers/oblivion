@@ -13108,7 +13108,6 @@ ElsweyrAnequina DV.esp
   IF CHECKSUM("ElsweyrAnequina DV.esp", 85B9199D) DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("ElsweyrAnequina DV.esp", 51A6A4D3) DIRTY: 218 ITM, 1044 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unofficial Elsweyr Anequina Patch.esp
-  TAG: {{BASH: Actors.AIData, Actors.AIPackages, C.Light, C.Owner, Factions, Invent, Names}}
   IF CHECKSUM("Unofficial Elsweyr Anequina Patch.esp", AD4131F8) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ElsweyrAnequinaMTP.esp
 ElsweyrAnequina - SevereDesert.esp

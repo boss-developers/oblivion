@@ -378,9 +378,9 @@ Oblivion_1C_Script.esp
 zOST_MAIN.esp
 Essential_Merchants.esp
   TAG: {{BASH: Actors.ACBS, NoMerge}}
-  
+
 Oblivion_Deutsch_v5_1.esp
-  
+
 //Guesing that this is a Polish reanslation of Oblivion, so loading early. Link supplied was for an unrelated mod.
 Oblivion PL.esp
 
@@ -450,7 +450,7 @@ Better Looking NPC.esp
 
 EURN.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
-  
+
 xeoex.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, NPC.Race, R.Ears, R.Head, R.Mouth, R.Teeth}}
 xeoex Vwalk.esp
@@ -3304,7 +3304,7 @@ Landmarks With Wells.esp
   IF VAR(OOO) SAY: Move this after OOO if you desire initial city map markers a la vanilla.
 Landmarks_w_Wells.esp
   IF VAR(OOO) SAY: Move this after OOO if you desire initial city map markers a la vanilla.
-  
+
 AddMapMarkers.esp
 All Travel Markers.esp
 Aurix's_Names.esp
@@ -5944,7 +5944,7 @@ XiaValentinesDayGift07.esp
   SAY: May not be compatible with anything that modifies the Tiber Septim Hotel.
 
 yangyang_frostbite.esp
-  
+
 Zaine's White Knives.esp
 Zatoichi.esp
   TAG: {{BASH: Invent}}
@@ -8186,7 +8186,7 @@ FCOM_VanillaItemReleveler.esp
   IF VAR(FCOM) ERROR: Delete. Outdated. Update to FCOM v0.9.9 or later.
 FCOM_NewItemsTemplate.esp
 FCOM_FranItemRelevelerALL.esp
-  
+
 OOO Slof Horse & DLC Armor.esp
 MMM4OOO&FCOM- Slofs Horse & DLC Armor.esp
 ENDGROUP: FCOM\MMM optionals 3.
@@ -8613,7 +8613,7 @@ BEGINGROUP: Post Overhaul
 //'''''''''''''
 beardy.esp
   TAG: {{BASH: NpcFaces}}
-  
+
 BEGINGROUP: CNRP
 CNRP Brumav02.esp
   TAG: {{BASH: Invent}}
@@ -12021,7 +12021,7 @@ ToiletMod.esp
   IF CHECKSUM("ToiletMod.esp", 873BFCF0) DIRTY: 74 ITM, 88 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
   IF CHECKSUM("ToiletMod.esp", 83840533) DIRTY: 74 ITM, 89 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
 TolawaylAyleidCity_Quest.esp
-  IF CHECKSUM("TolawaylAyleidCity_Quest.esp", C5C868BD) DIRTY: 26 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also deletes a door in the Cheydinhal Castle Private Quarters. 
+  IF CHECKSUM("TolawaylAyleidCity_Quest.esp", C5C868BD) DIRTY: 26 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also deletes a door in the Cheydinhal Castle Private Quarters.
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
 Tomb of the Unknown Knight.esp
@@ -13251,7 +13251,7 @@ ROC+Tchos Alchemy Tower Patch.esp
 ROC+DBC Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 Northern Front - Roads of Cyrodiil - compatibility .esp
-  
+
 Immersive Prison sewer exit.esp
   IF CHECKSUM("Immersive Prison sewer exit.esp", D607A66) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 NRBsewer exit.esp
@@ -13323,7 +13323,7 @@ Sounds of Cyrodiil - HOTD Add-on.esp
 ColdstoneDT and HOTDead Patch.esp
 
 Dschinni.esp
-  IF FILE("Servant of the Dawn.esp") && IFNOT FILE("Dschinni - Servant of the Dawn Patch.esp") SAY: Use the patch for Servant of the Dawn to resolve compatibility issues. 
+  IF FILE("Servant of the Dawn.esp") && IFNOT FILE("Dschinni - Servant of the Dawn Patch.esp") SAY: Use the patch for Servant of the Dawn to resolve compatibility issues.
   SAY: Use the patch for UL Arrius Creek and The Heart of the Dead version 6.3 to resolve compatibility issues.
 Dschinni Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -14633,7 +14633,7 @@ Better Abandoned House OC Full.esp
   WARN: Deprecated. Upgrade to the latest version of Better Abandoned House and remove this plugin.
 Better Abandoned House OC Cheydinhal.esp
   WARN: Deprecated. Upgrade to the latest version of Better Abandoned House and remove this plugin.
-  
+
 CityBeautificationProject - All Completed + Anvil Harbour.esp
 CityBeautificationProject - All Completed No Anvil Harbour.esp
 
@@ -18204,7 +18204,7 @@ Armorer's Advantage.esp
 arrow damage 1_5.esp
 Arrows Extra Damage.esp
   TAG: {{BASH: Stats}}
-Arrows In Cell x3.esp 
+Arrows In Cell x3.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Arrows Remain 10min.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
@@ -20039,7 +20039,7 @@ F2LAddon_Kasuga&Sisimaru.esp
 F2LMiqoteAddon.esp
 F2LAddon_MSElves.esp
 ENDGROUP: From2ch Lives
-    
+
 A Crudius Companion Orc.esp
 
 shinyFollowMe_ru.esp
@@ -21812,7 +21812,7 @@ Universitum Arcanorum.esp
   IF CHECKSUM("Universitum Arcanorum.esp", D41DC29C) DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Universitum Arcanorum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
-  
+
 //The below needs to load after anything that changes cells (6,15) and (7,15) in the Tamriel worldspace.
 IC Palace Topper - Region Override.esp
 ENDGROUP: Post BC and OBC

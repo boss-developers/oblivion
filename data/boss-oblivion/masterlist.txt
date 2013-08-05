@@ -20817,13 +20817,13 @@ BEGINGROUP: Race Balancing Project 1
 bgBalancingEVCore.esp
   REQ: bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
   SAY: Do not use with COBL Races.
-  TAG: {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells, SpellStats}}
+  TAG: {{BASH: Body-Size-F, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells, SpellStats}}
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingDVCore.esp
   REQ: bgBalancingNoSIVersion_Core_still_required.esp is required if Shivering Isles not installed.
   SAY: German version.
   SAY: Do not use with COBL Races
-  TAG: {{BASH: Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
+  TAG: {{BASH: Body-Size-F, Body-Size-M, Eyes, Hair, R.Relations, R.Description, R.Skills, R.Attributes-F, R.Attributes-M, R.ChangeSpells}}
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgBalancingNoSIVersion_Core_still_required.esp
 bgBalancingEVNoSIVersion_Core_still_required.esp
@@ -20921,6 +20921,8 @@ Slof's Better Bodies.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, Eyes, Graphics, R.Mouth, R.Teeth}}
   REQ: Robert's Male (v3, v4 or v5) and Robert's Female body mods.
   INC: Non-Robert's body mods, Slof's Oblivion Better Beasts.esp (included in this), Improved Facial Textures, Facial Textures by Enayla, Cobl Races Resource and Luchairs HGEC body seam reducer.
+Oblivion_Character_Overhaul.esp
+  TAG: {{BASH: Eyes, NpcFaces, R.Head, R.Mouth}}
 Jjiinx_Long Ears.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp

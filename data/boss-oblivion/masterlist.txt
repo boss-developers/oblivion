@@ -305,6 +305,7 @@ Kaleah Sucub.esm
 Brothel of Cyrodiil.esm
 RaceFrameWork.esm
 Race-Lattamerv3.esm
+SDR.esm
 Tabaxi_Race_Default.esm
 Tabaxi_Race_BAB_Robert.esm
 x117race.esm
@@ -9633,6 +9634,7 @@ Chatham.esp
 Chorrol_Dungeon.esp
 ChorrolHouse.esp
 ChristmasCottage.esp
+CitadelOfMadness.esp
 Civilian Storage.esp
 Colossus_01.esp
 Colmir Manor.esp
@@ -10103,6 +10105,7 @@ Fighters Guild Quests.esp
   INC: Quest for the Elements (and its ROC patch)
 Fists of Randagulf.esp
 Fists of Randagulf Patch.esp
+First Edition.esp
 FishermansCottage.esp
 FishermansCOBLaddon.esp
 FishermansCottage-LostCoast patch.esp
@@ -11908,6 +11911,7 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 TGInheritEarlOfImbelsICHouse.esp
 The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
+Tiber Septim Hotel.esp
 Black Marsh.esp
 The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
@@ -16502,6 +16506,7 @@ talkwithyourhands PI4.esp
 TameWildlife.esp
 Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
+TD_All_House_For_Sale_Replacer.esp
 Teleport Everywhere.esp
   REQ: OBSE.
 The Undead Arise 2.0.esp
@@ -16870,6 +16875,7 @@ BEGINGROUP: Realism
 Axebane_RealHunger25.esp
   SAY: Realistic hunger mods and vampire mods may conflict seriously.
 BareNecessities.esp
+Elz - Realistic Gravity.esp
 HTS-WithMessages 1-1 DV.esp
 HTS-WithMessages 1-10 DV.esp
 HTS-WithMessages 1-12 DV.esp
@@ -17997,6 +18003,8 @@ pmSkoomaDeals.esp
   REQ: Real-Time Interactions
 Sneak Effectiveness Enhancement.esp
 Realistic Sneak for NPCs.esp
+SDR_Detect Life Shader Patch [Oblivion].esp
+SDR_Perks And Patches [Oblivion].esp
 Sneak Based Senses.esp
 Stalk'em.esp
 StolenItemOwnership.esp
@@ -19466,6 +19474,8 @@ Half Elves.esp
 Half Orcs.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Hidden_Elves.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+High Rock's Sorcerers.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 InariRace.esp
 kaleen.esp

@@ -7149,6 +7149,8 @@ FF_Real_Thirst, Cobl.esp
   SAY: Don't use with vampire mods.
 Cobl Tweaks.esp
   IF VAR(FCOM) ERROR: Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
+Cobl Tweaks - SI.esp
+Cobl Tweaks - Vanilla.esp
 Cobl Patch - Hunger Tongue.esp
 COBL-FransCre.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
@@ -8200,8 +8202,11 @@ ENDGROUP: FCOM\MMM optionals 3.
 BEGINGROUP: Overhaul compatibility
 //''''''''''''''''''''''
 
-Cobl Patch - MMM Gems and Gem Dust.esp
 Cobl Tweaks - MMM and OOO.esp
+Cobl Tweaks - MMM and OOO Mergeable.esp
+Cobl Tweaks - OOO Mergeable.esp
+Cobl Tweaks - OOO.esp
+Cobl Patch - MMM Gems and Gem Dust.esp
 
 //Not misplaced. Please don't move.
 WAC - ItemLootFix4v1.0bTIE.esp

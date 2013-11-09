@@ -21206,6 +21206,8 @@ bgIntegrationEV Vwalk.esp
 Silverfish&bgIntegrationPatch.esp
 Integration faces revamped.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
+IntegrationTheStrandedLight-SilverfishRiverValley patch.esp
+IntegrationTheStrandedLight-EasternPeaks patch.esp
 ENDGROUP: BG Integration quest
 
 BEGINGROUP: Other race/birthsign mods
@@ -21477,7 +21479,8 @@ Better Cities Full - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
 Better Cities Full B&M - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
-
+  
+Better Cities - Unique Landscape Panther River patch.esp
 BCSkingrad-SkingradOutskirts patch.esp
   TAG: {{BASH: C.Water}}
   SAY: Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.

@@ -21487,6 +21487,9 @@ BCSkingrad-SkingradOutskirts patch.esp
 Better Cities - Unique Landscape Skingrad Outskirts.esp
   TAG: {{BASH: C.Water}}
 Better Cities - Skyrim Nords.esp
+Better Cities - Storms & Sound.esp
+  REQ: "http://oblivion.nexusmods.com/mods/8711 Storms and Sounds"
+  SAY: Reassign the "Storms & Sounds.esp" master using Bash depending on which S&S ESP you are using.
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
   TAG: {{BASH: Scripts}}

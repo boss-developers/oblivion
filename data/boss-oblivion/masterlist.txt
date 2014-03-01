@@ -3,7 +3,7 @@ Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 
 Masterlist Syntax Notes
 
-Only the basics of the most commonly-used parts of the syntax are covered here. See the BOSS Masterlist Syntax.html documentation file in data/boss-common/ on the Google Code repository for full details.
+Only the basics of the most commonly-used parts of the syntax are covered here. See the BOSS Masterlist Syntax.html documentation file in data/boss-common/ on the BOSS code repository for full details.
 
   * Use blank lines to separate mods that are grouped together or where it helps readability.
   * Use silent comments when you think something needs clarification to others reading the masterlist (such as when a mod looks like it is misspelled, but is correct).
@@ -41,9 +41,9 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF FILE("Cosmetic Compilation.esp") SET: CC1
 
 // Upgrade message for 1.7+ users:
-  IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
+  IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://boss-developers.github.io"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
-  
+
 // Beta testing
   GLOBAL SAY: The next major release of BOSS is now open for "https://github.com/boss-developers/boss-code/wiki/BOSSv3-Beta-Testing beta testing". Anyone wishing to help test must have a BethSoft forum account and be comfortable with using TES4Edit to view conflicts.
 
@@ -11464,7 +11464,7 @@ RizztsManor.esp
 Rivana Ayleid Ruine.esp
 rivernesite.esp
 MOD: Риверсайд.esp
-//The above plugin causes crashes if the MOD: prefix is removed, so don't. See Google Code issue 131 for details.
+//The above plugin causes crashes if the MOD: prefix is removed, so don't.
 ROADZeldaRemake - Addon.esp
 RomancingAhnassi.esp
   IF CHECKSUM("RomancingAhnassi.esp", 91D702AB) DIRTY: 66 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -21479,7 +21479,7 @@ Better Cities Full - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
 Better Cities Full B&M - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
-  
+
 Better Cities - Unique Landscape Panther River patch.esp
 BCSkingrad-SkingradOutskirts patch.esp
   TAG: {{BASH: C.Water}}

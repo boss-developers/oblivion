@@ -2167,6 +2167,8 @@ ENDGROUP: Base F
 BEGINGROUP: Base G
 
 GauntletMagicDestruction - 1.2.esp
+Glowing Wonders.esp
+  IF CHECKSUM("Glowing Wonders.esp", 1D521050) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Gold is now Gold.esp
   TAG: {{BASH: Graphics, NoMerge}}
 GoldnSilverBars.esp
@@ -3177,7 +3179,6 @@ librarycatalogue.esp
 Lock Bash Omega.esp
 
 marksman_challenge.esp
-Maskar's Oblivion Overhaul.esp
 MigMiscellanea.esp
 MigNoDeath.esp
 MiscTracker.esp
@@ -4691,6 +4692,7 @@ Hel Borne Blackiron Blade Set.esp
 Hellish Armoury.esp
 Helmes.esp
 Her Hand's Armor.esp
+heranas_weapon.esp
 Heretic Reavers.esp
 Heron Mark Swords 1.0.esp
 HL2set.esp
@@ -5029,6 +5031,7 @@ MechaFox.esp
 Medieval Shields.esp
 Meerkat Clothing.esp
 MerryBellInn.esp
+  IF CHECKSUM("MerryBellInn.esp", 46126974) DIRTY: 5 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Midnight Gymnastics.esp
   IF CHECKSUM("Midnight Gymnastics.esp", 8BCA1742) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MilkJugsComplete.esp
@@ -5268,7 +5271,10 @@ PythonHolyhg.esp
 ENDGROUP: Items P
 
 BEGINGROUP: Items Q
+
 Queensarmory.esp
+Queen's Sword.esp
+  IF CHECKSUM("Queen's Sword.esp", BB4DC2F5) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ENDGROUP: Items Q
 
 BEGINGROUP: Items R
@@ -5932,6 +5938,8 @@ SYS Patch-Portable Coffin.esp
 Wolf Pelt Armor.esp
 Wood Bows and Leather Armors.esp
 Woodsman Armor.esp
+wow.esp
+  IF CHECKSUM("wow.esp", 93ABA638) DIRTY: 2406 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Warglaive - EV.esp
 WSW.esp
 Warglaives by Jojjo v1.0.esp
@@ -8628,6 +8636,7 @@ ENDGROUP: Overhauls
 BEGINGROUP: Post Overhaul
 //'''''''''''''
 beardy.esp
+FCOM 300_Resource.esp
   TAG: {{BASH: NpcFaces}}
 
 BEGINGROUP: CNRP
@@ -9596,6 +9605,8 @@ BrotherhoodRenewed.esp
   TAG: {{BASH: Actors.AIPackages, Factions}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
   REQ: OBSE, Oblivion XP
+Oblivifall - Losing My Religion Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 Bruma Farm Updated.esp
 Bruma House.esp
 Bruma House For Sale.esp
@@ -11307,6 +11318,7 @@ Pine Lodge.esp
   SAY: Outdated. Update to version 2+.
 Pine Lodge ver2.esp
 PinePeakLodge.esp
+  IF CHECKSUM("PinePeakLodge.esp", 1D4C3E0C) DIRTY: 96 ITM, 46 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Pinewood.esp
 Pinnacle Citadel.esp
 Pit Trap.esp
@@ -11684,6 +11696,7 @@ Slappy's Wigs v1.0.esp
   IF CHECKSUM("Slappy's Wigs v1.0.esp", 71A3DAD3) DIRTY: 12 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Slash n Smash.esp
 SleepyCatInn.esp
+  IF CHECKSUM("SleepyCatInn.esp", C8E4CF92) DIRTY: 5 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
@@ -11800,6 +11813,7 @@ Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
   SAY: Outdated - Update to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 Syntyche's Cavern1RU.esp
 BetterInns + NewHomeOwners.esp
+  TAG: {{BASH: Actors.AIPackages, Actors.Anims}}
 BetterInns - ClocksOfCyrodiil PATCH.esp
 BetterInns - COBL PATCH.esp
 BetterInns - BHCExpanded PATCH.esp
@@ -12701,6 +12715,8 @@ Knights Swalk UOP.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
 Knights Vwalk UOP.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Knights - Revelation Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 EVE_KnightsoftheNine.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Knights_DMRA.esp
@@ -13390,6 +13406,8 @@ Oblivifall - Losing My Religion Blood&Mud.esp
   IF CHECKSUM("Oblivifall - Losing My Religion Blood&Mud.esp", 128C5F11) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Oblivifall - Losing My Religion Sutch Reborn.esp
 Oblivifall - Female Armors.esp
+Oblivifall - Losing My Religion Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 
 Unique Forts Fort Strand.esp
   IF CHECKSUM("Unique Forts Fort Strand.esp", 5AAF40DC) DIRTY: 4 ITM, 35 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -16314,6 +16332,8 @@ SpellMenu.esp
 
 BEGINGROUP: SPT Diverse Guards
 SPTDiverseGuards-Core.esp
+SPTDiverseGuards-Core Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 SPTDiverseGuards.esp
   IF VAR(OOO) SAY: Probably not compatible with OOO. Update to version 2.0+.
 SPTDiverseGuardsMRAll.esp
@@ -22640,6 +22660,7 @@ BEGINGROUP: Post Bashed Patch
 CybBPcompatibility.esp
 Creeper.esp
   IF CHECKSUM("Creeper.esp", 8A4423BA) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Maskar's Oblivion Overhaul.esp
 
 DynamicLeveledLists.esp
 

@@ -2192,6 +2192,8 @@ ENDGROUP: Base G
 BEGINGROUP: Base H
 
 Happyhannah's Wines.esp
+  TAG: {{BASH: Relev}}
+  IF CHECKSUM("Happyhannah's Wines.esp", F1AC6630) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Harvester.esp
 HeresATip.esp
 Hide Away.esp
@@ -4709,6 +4711,7 @@ BEGINGROUP: Items I
 
 It's A Wig!.esp
 icearmor.esp
+  IF CHECKSUM("icearmor.esp", 60F25B1) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Ice Tear.esp
@@ -6522,6 +6525,7 @@ R18PN - Amy Armor Set.esp
 R18PN - Argent Iron Armor.esp
 R18PN - Ayumi Set.esp
 R18PN - Bikini Re-Textured.esp
+  IF CHECKSUM("R18PN - Bikini Re-Textured.esp", 170FE3CC) DIRTY: 4 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 R18PN - Bs Bondage.esp
 R18PN - Collection.esp
 R18PN - Dancer's Dress.esp
@@ -9545,6 +9549,7 @@ Blackrock_Mountain_1C.esp
 Bonds Studio Apartment.esp
 Bottomless Cavern.esp
 Blacktache's Secrets 3.esp
+  IF CHECKSUM("Blacktache's Secrets 3.esp", F69CC41C) DIRTY: 48 ITM, 155 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Blitz's Dungeons & Realms- Molag Fel.esp
 BluWill1.esp
 BnKGreenBravil.esp

@@ -8636,8 +8636,9 @@ ENDGROUP: Overhauls
 BEGINGROUP: Post Overhaul
 //'''''''''''''
 beardy.esp
-FCOM 300_Resource.esp
   TAG: {{BASH: NpcFaces}}
+FCOM 300_Resource.esp
+  SAY: Plugin used for testing - do not use in game, deactivate.
 
 BEGINGROUP: CNRP
 CNRP Brumav02.esp

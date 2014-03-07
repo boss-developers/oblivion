@@ -1409,9 +1409,9 @@ More Immersive Sound.esp
   SAY: Make sure you are using More Immersive Sounds Edited to benefit from bug fixes.
 More Immersive Sound Optional Part-Harvest Flora Compatible.esp
 MIS Low Wind.esp
+  TAG: {{BASH: Scripts}}
   IF CHECKSUM("MIS Low Wind.esp", F343D8EA) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MIS New Sounds Optional Part.esp
-  TAG: {{BASH: Scripts}}
 Atmospheric Oblivion.esp
   TAG: {{BASH: Scripts}}
   IF CHECKSUM("Atmospheric Oblivion.esp", 9A266EC1) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -3981,6 +3981,7 @@ Bloodworm_Helm_Replacer.esp
   TAG: {{BASH: Graphics}}
 BLRollingPinEV.esp
 Blue and White.esp
+Blue Daedric.esp
 Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
 Bluefire Claymore by Mr. V.esp
@@ -8858,6 +8859,7 @@ Quelldorf ohne Schiff1.5.esp
 AProvostOfTheNineDivines_1.esp
 KvatchAftermath.esp
   IF VAR(FCOM) REQ: FCOM_KvatchAftermath.esp
+  IF CHECKSUM("KvatchAftermath.esp", 435D607C) DIRTY: 5202 ITM, 390 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("KvatchAftermath.esp", 8997D4F1) DIRTY: 5240 ITM, 390 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 FCOM_KvatchAftermath.esp
   REQ: KvatchAftermath.esp
@@ -8901,6 +8903,7 @@ NewSheoth_1C.esp
 palace lights.esp
 
 Castle Ravenpride.esp
+  IF CHECKSUM("Castle Ravenpride.esp", 8682E3F3) DIRTY: 62 ITM, 191 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Burg Rabenstolz.esp
 aaaWindSpear.esp
 
@@ -8911,7 +8914,6 @@ cyrodiil transportation network wz.esp
 cyrodiil transportation network 1.3.esp
 cyrodiil transportation network 1.3 wz.esp
   IF CHECKSUM("cyrodiil transportation network 1.3 wz.esp", 675027D0) DIRTY: 87 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-  SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Cyrodiil transportation network OC.esp
 Cyrodiil Transportation Network WZ OC.esp
 cyrodiil transportation network 1.2 DV.esp
@@ -11814,7 +11816,7 @@ Sylar_INNMergedCyrodillInnsRevisedV1.1 vwalk.esp
   SAY: Outdated - Update to latest version of Inns Revised in Cyrodiil and Sensual Walks.
 Syntyche's Cavern1RU.esp
 BetterInns + NewHomeOwners.esp
-  TAG: {{BASH: Actors.AIPackages, Actors.Anims}}
+  TAG: {{BASH: Actors.AIPackages, C.Name, Scripts}}
 BetterInns - ClocksOfCyrodiil PATCH.esp
 BetterInns - COBL PATCH.esp
 BetterInns - BHCExpanded PATCH.esp
@@ -18326,6 +18328,8 @@ arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Enter The Shinobi - Coors916.esp
+  IF CHECKSUM("Enter The Shinobi - Coors916", A32969BE) DIRTY: 33 ITM, 4 UDR records.  Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  
 Arrows of Channeling.esp
 MagicDefence.esp
 mighty_bows_arrows_recovery.esp
@@ -21412,10 +21416,6 @@ Better Cities Full Rwalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
 Better Cities Full Swalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
-Better Cities Full Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-Better Cities Full - B&M Edition Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
 
 Better Cities - Skingrad Outer District.esp
 
@@ -22508,6 +22508,10 @@ Sensual Walks.esp
 Sensual Walks SI.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Sensual Walks SI DS + GS.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+Better Cities Full Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+Better Cities Full - B&M Edition Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 
 Open Cities Road Record.esp

@@ -3107,6 +3107,7 @@ Better Oblivion Pack 13 - Safety Saver.esp
 Better Running.esp
 BookTrackerOBSE.esp
 
+Container Menu Support.esp
 CDM - Shivering Time.esp
   REQ: OBSE 18+
 CleanQuit.esp
@@ -3257,6 +3258,7 @@ Streamline 3.0.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 streamline.311.esp
+SummonMerchantSpell.esp
 3 Alternative Stories.esp
 Synchronized Date and Time.esp
 
@@ -3986,6 +3988,8 @@ Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
 Bluefire Claymore by Mr. V.esp
 Blue Glass - Oblivion.esp
+Blue-Glass Armor.esp
+  IF CHECKSUM("Blue-Glass Armor.esp", E29C8B31) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Blue-Glass-Extra-Set.esp
 Bows of the Orient.esp
 battlemagearmor2-0 compatability loot.esp
@@ -9657,6 +9661,7 @@ Cave Of Wishcraft.esp
 Champion's Mansion.esp
 Chatham.esp
 Chorrol_Dungeon.esp
+  IF CHECKSUM("Chorrol_Dungeon.esp", 4B4E42AD) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ChorrolHouse.esp
 ChristmasCottage.esp
 CitadelOfMadness.esp
@@ -10073,6 +10078,7 @@ EM_Packdonkeys.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
+fg109EscortMission.esp
 Eska Cair.esp
 EspadaIsland.esp
 EstateFortess.esp
@@ -15578,6 +15584,8 @@ Oblivion - Unique Potions.esp
 LearnScroll.esp
 Less Food.esp
 LessHealthfulRest.esp
+Leveling Quick Fix 15.esp
+Leveling Quick Fix 20.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 LightArrows.esp
@@ -19048,10 +19056,11 @@ Wolvmans_Better_Hand_placed_Loot.esp
 Immersive Caves.esp
   TAG: {{BASH: Names}}
 Immersive Caves Auto.esp
-  TAG: {{BASH: Names}}
+  TAG: {{BASH: Names, Sound}}
 immersive_caves_auto.esp
-  TAG: {{BASH: Names, Graphics}}
+  TAG: {{BASH: Names, Graphics, Sound}}
 immersive_caves_manual.esp
+  TAG: {{BASH: Sound}}
 Dark Dungeons.esp
   TAG: {{BASH: C.Light, Deactivate}}
 Dark Dungeons -  SI.esp

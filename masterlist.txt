@@ -15822,6 +15822,7 @@ ORM-TamriellicGlassCORE.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Orrery_Rewards.esp
 OS-foot-HORSE.esp
+Owcnd-Dungeons.esp
 ENDGROUP: overrides O
 
 BEGINGROUP: overrides P
@@ -16332,6 +16333,10 @@ Slof's Dogs.esp
 Slof's Epona.esp
 SM Essential Kills.esp
 SnusAmbience English.esp
+SnusDungeons.esp
+SnusDungeons - OOO patch.esp
+SnusDungeons - TAS patch.esp
+SnusDungeons - BD patch.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp

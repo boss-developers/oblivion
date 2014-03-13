@@ -2446,6 +2446,7 @@ Oblivion Cats v0.22b.esp
   IF CHECKSUM("Oblivion Cats v0.22b.esp", 1CE8A9DD) DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Oblivion Cats v0.2b.esp
 Oblivion Collectible Cards.esp
+  TAG: {{BASH: Invent}}
   IF CHECKSUM("Oblivion Collectible Cards.esp", AC9752E5) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OblivionOnline.esp
 OL_CustomPaintings.esp
@@ -3079,7 +3080,7 @@ C&C&EQR.esp
 EQR_-_FCOM.esp
 
 C&C - The Blackwood Company.esp
-  TAG: {{BASH: C.Owner, Relations}}
+  TAG: {{BASH: C.Owner, Factions, Invent, Relations}}
   IF CHECKSUM("C&C - The Blackwood Company.esp", 56C59AC2) DIRTY: 100 ITM, 50 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 
 kuerteeIgnoringTheMainQuestHasConsequences.esp
@@ -8984,6 +8985,7 @@ BEGINGROUP: Quests #
 1373-More Skingrad-TESSource.esp
 2423-1.00-Town Armor To House-TESSource.esp
 2HFluch.esp
+  IF CHECKSUM("2HFluch.esp", 32D57F9E) DIRTY: 94 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 300_Darker_Cyrodiil Imperial City.esp
 300 Regal Imperial City 2.esp
   IF CHECKSUM("300 Regal Imperial City 2.esp", 7AC8F55B) DIRTY: 0 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -9034,6 +9036,7 @@ A Not So Simple Cave Retreat - Coblized.esp
 A Sneaky Buy 2.1.esp
 A Sneaky Buy - BETTER CITIES.esp
 A Sorceress Love 1_1.esp
+  IF CHECKSUM("A Sorceress Love 1_1.esp", C720FA75) DIRTY: 78 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AAAEmptyRoom.esp
 AABTSv1.esp
 aaDwemerTower.esp
@@ -9111,7 +9114,10 @@ Alastus.esp
   IF CHECKSUM("Alastus.esp", F39E2389) DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Alexandriav3.esp
 Alexis_Magiergilde.esp
+  IF CHECKSUM("Alexis_Magiergilde.esp", 55DE75F7) DIRTY: 25 ITM, 48 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Albae+Gefährten.esp
+  IF CHECKSUM("Albae+Gefährten.esp", 57563A26) DIRTY: 14 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Albae+Gefährten.esp", 78C10A9A) DIRTY: 78 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AlchemistForHire.esp
 Ald-Khull.esp
   INC: Abandoned Village of Lily
@@ -9770,6 +9776,7 @@ cloudcity mod V1.1.esp
   IF CHECKSUM("cloudcity mod V1.1.esp", D89C1AC6) DIRTY: 181 ITM, 50 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Confession Booths by morerunes 2.esp
 Comp_Cecilia.esp
+  IF CHECKSUM("Comp_Cecilia.esp", 3C2322BD) DIRTY: 24 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ConLoGnollkuppeMod.esp
   SAY: German mod.
 ConLoBattleGenMod.esp
@@ -10608,6 +10615,7 @@ Improved dungeons.esp
 ICTalosPlazaHome.esp
 The Imperial Vaults.esp
 In Sachen Ayleiden.esp
+  IF CHECKSUM("In Sachen Ayleiden.esp", F954C934) DIRTY: 7 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Insanity's Pet Shop.esp
 Insomonias Ruins.esp
   IF CHECKSUM("Insomonias Ruins.esp", 554DE8AB) DIRTY: 1862 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -10983,6 +10991,7 @@ Markets of Cyrodiil HI.esp
 Markets of Cyrodiil LO.esp
 marketway.esp
 marodan_osdakal.esp
+  IF CHECKSUM("marodan_osdakal.esp", 5028BB9E) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MathmoraCottage.esp
 Maze of Fog.esp
 MDRisheren.esp
@@ -11344,6 +11353,7 @@ Pond Cottage.esp
 Portrait Painter.esp
 Potion Of the Gods.esp
   REQ: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://oblivion.nexusmods.com/mods/17032")
+  IF CHECKSUM("Potion Of the Gods.esp", D7023A76) DIRTY: 47 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 PotR.esp
 PotR v0.7 Delayer.esp
 POVS2 v1.1.esp
@@ -11375,6 +11385,7 @@ BEGINGROUP: Quests Q
 
 Qaja'kar.esp
   REQ: OBSE 12+.
+  IF CHECKSUM("Qaja'kar.esp", 0FADEAA7) DIRTY: 134 ITM, 39 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Qaja'kar Essential Bartenders.esp
 qNS3-inventrix.esp
   IF CHECKSUM("qNS3-inventrix.esp", 8C3473FA) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -11448,6 +11459,7 @@ RC43 Christmas.esp
 rdHeavenlyHome.esp
 rebornaylieds.esp
   IF CHECKSUM("rebornaylieds.esp", F58D55F6) DIRTY: 6 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("rebornaylieds.esp", 555D27A5) DIRTY: 73 ITM, 83 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ReclaimByZabre.esp
 RedcourtCastle v1_25.esp
 Region Revive - Lake Rumare.esp
@@ -11790,6 +11802,7 @@ Star's Rest - Ayleid Well.esp
 Star's Rest - SYS Patch.esp
 Star's Rest - AN Patch.esp
 Steve - Hitman.esp
+  IF CHECKSUM("Steve - Hitman.esp", 60AF4A1F) DIRTY: 31 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Steve - Hitman (Patched) Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Stonewall Shields.esp
@@ -12432,6 +12445,7 @@ za_bankmod.esp
 ZamokVOblakah2.esp
 Zayls Lost House.esp
 zDangerSense.esp
+  IF CHECKSUM("zDangerSense.esp", B929240E) DIRTY: 15 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Zealots_of_the_Nine.esp
 Zenith ManorV1.0.esp
 Zergonipilamat.esp

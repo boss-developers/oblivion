@@ -6972,7 +6972,6 @@ RealBanditsAndHighwaymen.esp
 SIRMS.esp
   TAG: {{BASH: Invent, Names}}
 The Last Queen Of The Ayleids.esp
-  IF CHECKSUM("The Last Queen Of The Ayleids.esp", 8E806BB1) DIRTY: 6 ITM, 164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ENDGROUP: Pre Overhaul
 
 BEGINGROUP: Only Name changing files
@@ -9195,7 +9194,6 @@ Amen'thalas - HOD Patch.esp
 SYS Patch-Amen'thalas Well House.esp
 Amen'thalas - SYS Patch.esp
 AmVampireRing.esp
-  IF CHECKSUM("AmVampireRing.esp", 11D48C2E) DIRTY: 114 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AM's University Cosmetics 1.2.esp
 Ancient Dwemer Ruin.esp
 Ancient_Islands-4896.esp
@@ -9327,7 +9325,6 @@ DMRA BBB Artifacts Complete.esp
   INC: dmra_bbb_artifacts.esp
   TAG: {{BASH:Graphics, NoMerge}}
 AraenyaRealm.esp
-  IF CHECKSUM("AraenyaRealm.esp", 3CB0C878) DIRTY: 116 ITM, 532 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 A Son's Revenge 2.0.esp
 AsarusTomb1.esp
 Asharnakibibi.esp
@@ -10281,7 +10278,6 @@ Gaenor in Dementia.esp
 Gaenor2.esp
 GlimmeringCastle.esp
 Guards.esp
-  IF CHECKSUM("Guards.esp", 84C20E98) DIRTY: 71 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 GwedenBrothel.esp
   IF CHECKSUM("GwedenBrothel.esp", 1433B9E8) DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 GwedenExpansion.esp
@@ -10327,7 +10323,6 @@ HauntedLairMod.esp
   IF CHECKSUM("HauntedLairMod.esp", 4B7FB9B4) DIRTY: 1690 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Haven of the Mad.esp
 HazadirsArms.esp
-  IF CHECKSUM("HazadirsArms.esp", 7CE87AE7) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 HauntedHouse.esp
   IF CHECKSUM("HauntedHouse.esp", 2F2F9619) DIRTY: 38 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
@@ -11496,7 +11491,6 @@ Riddle_Dungeon 2_v1.1.esp
 RightingtheWrongs.esp
 RIP Mazoga.esp
 RipsInTime I TheTimeRippers.esp
-  IF CHECKSUM("RipsInTime I TheTimeRippers.esp", C659C61A) DIRTY: 48 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Rise Of A Samurai.esp
 RisingSunForUpload6-3-2010.esp
 RizztsManor.esp
@@ -11525,7 +11519,6 @@ Ruins of Tarnesia.esp
   IF CHECKSUM("Ruins of Tarnesia.esp", 9654B520) DIRTY: 4440 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also requires manual cleaning.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
-  IF CHECKSUM("RuinsofEvendallMod.esp", C320276C) DIRTY: 46 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
 Rumare Castle.esp
 RumarePriory.esp
 RumpleMod.esp
@@ -11787,7 +11780,6 @@ Shield of the Gods v0.82.esp
 Ship Wrack.esp
 sinked ship.esp
 Sins_of_the_Dream.esp
-  IF CHECKSUM("Sins_of_the_Dream.esp", E238F1EC) DIRTY: 57 ITM, 159 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Sunburn.esp
 Sunken Fortress.esp
 sS-OrderOfAskarthe.esp
@@ -11878,7 +11870,6 @@ Temple District Rebuild_1C.esp
   SAY: Don't use unless you've finished the main quest!
 Temple District Repaired.esp
 templars.esp
-  IF CHECKSUM("templars.esp", F5CB65D6) DIRTY: 180 ITM, 111 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 templars v1.0 Delayer.esp
 TempleoftheFullMoon.esp
 TempleOfHeretics.esp
@@ -11901,7 +11892,6 @@ The Kingdom of Shadow test1.esp
   IF CHECKSUM("The Kingdom of Shadow test1.esp", 6E718D35) DIRTY: 1292 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("The Kingdom of Shadow test1.esp", 4C73C319) DIRTY: 1292 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("The Kingdom of Shadow test1.esp", 94C3C6B) DIRTY: 1360 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-  IF CHECKSUM("The Kingdom of Shadow test1.esp", 094C3C6B) DIRTY: 1330 ITM, 62 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Kingdom of Shadow test1 Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 The Ranger's House Lite.esp
@@ -11969,7 +11959,6 @@ The Black Marsh_Snake Head Island.esp
 The Black Sacrament.esp
   REQ: OBSE
 The Crazy Scientist.esp
-  IF CHECKSUM("The Crazy Scientist.esp", B0C44A77) DIRTY: 72 ITM, 32 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Crimson Queen.esp
 The Dark Trilogy.esp
 The Duelists.esp

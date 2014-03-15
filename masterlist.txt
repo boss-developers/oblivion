@@ -1,6 +1,4 @@
-/*
-Masterlist Information: $Revision$, $Date$, $LastChangedBy$
-
+﻿/*
 Masterlist Syntax Notes
 
 Only the basics of the most commonly-used parts of the syntax are covered here. See the BOSS Masterlist Syntax.html documentation file in data/boss-common/ on the BOSS code repository for full details.
@@ -43,9 +41,6 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 // Upgrade message for 1.7+ users:
   IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://boss-developers.github.io"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
-
-// Beta testing
-  GLOBAL SAY: The next major release of BOSS is now open for "https://github.com/boss-developers/boss-code/wiki/BOSSv3-Beta-Testing beta testing". Anyone wishing to help test must have a BethSoft forum account and be comfortable with using TES4Edit to view conflicts.
 
 
 

@@ -39,7 +39,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF FILE("Cosmetic Compilation.esp") SET: CC1
 
 // Upgrade message for 1.7+ users:
-  IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://boss-developers.github.io"
+  IF VERSION("BOSS", "2.2.0.0", <) GLOBAL WARN: An update for BOSS (v2.2.0) has been released. Download it at "http://boss-developers.github.io"
   ELSE GLOBAL SAY: You are using the latest version of BOSS.
 
 

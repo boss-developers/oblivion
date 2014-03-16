@@ -2077,6 +2077,7 @@ DID3_DoubleTrouble.esp
 Dancertest.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
 Dancer_Undress0_6-10194.esp
+Dark Brotherhood Party-5559.esp
 DSDatabase.esp
 Days&Months.esp
 RealDaysAndMonths.esp
@@ -3221,6 +3222,7 @@ P-Froggys Automatic NPC-Respawner.esp
 P1DlookHereYou.esp
 P1DmenuEscape.esp
 PCB.esp
+Potion Unlimiter-1948.esp
 Put Me In My Place - PlayerInSEWorld.esp
 Purge Cell Buffers - Cell Change.esp
 Purge Cell Buffers - Loading.esp
@@ -3290,6 +3292,7 @@ BEGINGROUP: Map marker Tweaks
 //
 //Load after OOO to override OOO initial map marker changes, otherwise let OOO remove starting default map markers.
 
+Cleared.esp
 Better Oblivion Pack 14 - Marker Explore.esp
 DRW.esp
 Dynamic Map.esp
@@ -9544,6 +9547,8 @@ BladeOfTheHauntedDV.esp
   TAG: {{BASH: Factions}}
 BladeOfTheHaunted Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Blade Of Shai'tan.esp
+  IF CHECKSUM("Blade Of Shai'tan.esp", 92E6006D) DIRTY: 26 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 BladesModv2.esp
 bladesmod3.esp
 BladeSong.esp
@@ -10964,6 +10969,8 @@ Market District Opulance.esp
 Mount Archon.esp
 Mara's Tower.esp
 Mariel's Treasure Hunt.esp
+MasterQuestUltimateDungeon.esp
+  IF CHECKSUM("MasterQuestUltimateDungeon.esp", 36F586C7) DIRTY: 57 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp
   IF CHECKSUM("M.O.E. - Tools of Kagrenac - The Secret of White Gold Tower.esp", 2AA7F42A) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 M.O.E. - The Black Sacrament - Night Mother's Ritual.esp
@@ -11750,6 +11757,7 @@ Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
 SMAbriaelHuman.esp
+SN_Forest_Cottage.esp
 SN_Shivering_Shack.esp
 SN_Sunset_Cottage.esp
 Sno_DarkClub.esp
@@ -11764,6 +11772,8 @@ snowglobe.esp
 Snow Line Lodge.esp
 SN_Skingrad_Villa.esp
 SYS Patch- Skingrad Villa.esp
+SocietyoftheAtronach.esp
+  IF CHECKSUM("SocietyoftheAtronach.esp", 14410193) DIRTY: 7 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 SOTES_Santres.esp
 Sonnengoldhof.esp
 SoulGemSeller.esp
@@ -12114,6 +12124,8 @@ TolawaylAyleidCity_Quest.esp
   IF CHECKSUM("TolawaylAyleidCity_Quest.esp", C5C868BD) DIRTY: 26 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also deletes a door in the Cheydinhal Castle Private Quarters.
 tollingbrookhollowhome.esp
 Tower_Of_Hadarath.esp
+tomb-of-quintillus.esp
+  IF CHECKSUM("tomb-of-quintillus.esp", 9E42FF60) DIRTY: 17 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
 Tomb of the Unknown Knight.esp
   IF CHECKSUM("Tomb of the Unknown Knight.esp", 52629A3F) DIRTY: 11 ITM, 46 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
 Tombstones-beta.esp
@@ -15037,6 +15049,9 @@ Banes Guilds United FGQuests patch.esp
 Banes Guilds United BrumaGuild patch.esp
 Banes Guilds United KR patch.esp
 Banes Guilds United OMG patch.esp
+Banes Guilds United Stalhrim Village patch.esp
+Banes Guilds United Integration patch.esp
+Banes Guilds United LAME patch.esp
 
 Better_Amelion_Gear.esp
 betterArena.esp
@@ -15719,6 +15734,7 @@ Way of the Wild.esp
 
 Mage_Guild_Teleport.esp
   IF CHECKSUM("Mage_Guild_Teleport.esp", E5DFD452) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Mages Guild Services.esp
 MagicArrows_1.0.esp
 MancarCamoranReplacer.esp
 ManKarCamoranReplacerEng.esp
@@ -15983,6 +15999,8 @@ REDrinks.esp
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
 ReneerNPCSneakMod.esp
+Repair Anytime-9384.esp
+  IF VAR(BP) SAY: Use Wrye Bash Bashed Patch Tweak Combat Repair [Allowed] instead.
 repricedclutter.esp
 Reset Your Status Page.esp
 ResNormalWepsAdd.esp
@@ -21323,6 +21341,7 @@ Integration faces revamped.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 IntegrationTheStrandedLight-SilverfishRiverValley patch.esp
 IntegrationTheStrandedLight-EasternPeaks patch.esp
+RBP+OCO patch.esp
 ENDGROUP: BG Integration quest
 
 BEGINGROUP: Other race/birthsign mods

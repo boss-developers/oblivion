@@ -175,6 +175,7 @@ ORP.esm
 CyrodiilUpgradeResourcePack.esm
 AGC-TARDISmstr.esm
 (DC)A Saints Tale Master.esm
+  IF CHECKSUM("(DC)A Saints Tale Master.esm", 42FB8723) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 (DC) County Sutch Reborn Master.esm
 TamrielTravellers.esm
 TamrielTravellers SI.esm
@@ -2804,6 +2805,7 @@ Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
   IF CHECKSUM("Treasure Hunt.esp", 1402E41F) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Treasure Hunt.esp", 4FD118F2) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TreasureHunt.esp
 TreasureChest.esp
 TreasureChest - MMM.esp
@@ -3845,6 +3847,7 @@ Afinity Sword.esp
 Agicis.esp
 Akatsuki Robe by Plipo.esp
 Altessian.esp
+  IF CHECKSUM("Altessian.esp", E0BE005D) DIRTY: 21 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Angelic Alliance.esp
 ArchersDesire2.esp
 ArkaySword.esp
@@ -9044,6 +9047,8 @@ Abandoned Tavern.esp
 Abecean Pirates.esp
 Aberwiin Manor.esp
 ABloodyNight.esp
+  IF CHECKSUM("ABloodyNight.esp", 51A4C491) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+AAAEmptyRoom.esp
 ABloodyNight_ru.esp
 AbuEmir01.esp
   REQ: Shivering Isles
@@ -9076,6 +9081,8 @@ Adventurers Guild.esp
 Aetheric Cuteblade.esp
   IF CHECKSUM("Aetheric Cuteblade.esp", 2AB190D0) DIRTY: 420 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 A Family Problem.esp
+  TAG: {{BASH: Eyes, Hair}}
+  IF CHECKSUM("Alastus.esp", 14617E55) DIRTY: 28 ITM, 39 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AG_Wegschreine.esp
 AGC-TARDISoutside.esp
   SAY: use either outside for vanilla or inside for open cities
@@ -9343,6 +9350,7 @@ Assassin's Hideout v1.1.esp
 Assassin Tripwires.esp
 AST_GoldenOakVilla.esp
 AStrangeCave.esp
+  IF CHECKSUM("AStrangeCave.esp", BDBCF7A8) DIRTY: 10 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Asylum.esp
 Atah wizard home.esp
 ATW_Castle_Vet_v1.3.esp
@@ -9419,6 +9427,7 @@ Basement_Bravilhouse V1-0.esp
 Basement_brumahouse.esp
 Basement_chorrolhouse.esp
 Battle4Morrowind.esp
+  IF CHECKSUM("BeastHeadInn.esp", BA133AF8) DIRTY: 19 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   INC: anything that changes Legion Armor.
 Battle Between Two Forts.esp
 battle cyrodiil vs Hammerfell.esp
@@ -9503,6 +9512,7 @@ Better_Alchemy_Shops-2482.esp
 BF_FortRapture.esp
 BF_Vincents.esp
 Big Business.esp
+  IF CHECKSUM("Big Business.esp", CEC8BC70) DIRTY: 2 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
   SAY: Do not use if using ElsweyrAnequina.esp.
@@ -9751,6 +9761,7 @@ Cellars of Oblivion.esp
 Cellars of Oblivion0.5.esp
 ceme.esp
 ChangeinManagement.esp
+  IF CHECKSUM("ChangeinManagement.esp", 9715A726) DIRTY: 40 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Chapels.esp
 Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
@@ -9782,6 +9793,7 @@ ConLoGnollkuppeMod.esp
 ConLoBattleGenMod.esp
 Council of Mages Reconvened.esp
 The Contented Prisoner V 2.esp
+  IF CHECKSUM("The Contented Prisoner V 2.esp", 1D8A8CB3) DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TCP Silence remover.esp
   SAY: Silenced character fix for The Contented Prisoner V 2.
 Clamshell.esp
@@ -9925,7 +9937,7 @@ Dk offhand weapons.esp
 Dk second knight update.esp
 Deepwood Adventures.esp
   REQ: OBSE, Elys Universal Silent Voice
-  IF CHECKSUM("Deepwood Adventures.esp", AD5233BC) DIRTY: 2265 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Deepwood Adventures.esp", AD5233BC) DIRTY: 263 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DeerLeap.esp
 Defenders of Cyrodiil.esp
 Del_New_Sheoth_Homes.esp
@@ -10023,7 +10035,7 @@ Dungeons 1.esp
 Dunmer's Inn.esp
 Dwemer_Skyship_1_1_0.esp
 Dwarven Mines.esp
-  SAY: 45 ITM, 0 UDR. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Dwarven Mines.esp", 16E9E81E) DIRTY: 141 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Dwemer Ruins.esp
@@ -10970,6 +10982,7 @@ Mage'sSkyHouse_cobl.esp
 MagicTavern.esp
 Malus-Pumila Mansion.esp
 Martin.esp
+  IF CHECKSUM("Martin.esp", D12C13F3) DIRTY: 138 ITM, 229 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
 MSHaddon-Akatosh Mount Pad.esp
@@ -11998,6 +12011,7 @@ The Old Riddle.esp
 The Reluctant Ranger REVAMPED.esp
   INC: Better Cities.
 The Power of the North.esp
+  IF CHECKSUM("The Power of the North.esp", 2EB9A944) DIRTY: 0 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Retreat.esp
 The Retreat-AN compatible.esp
   TAG: {{BASH: C.Climate}}
@@ -12356,6 +12370,7 @@ WeatherWizard.esp
 WellDiver.esp
 WellOfSouls.esp
 WellspringGrove.esp
+  IF CHECKSUM("WellspringGrove.esp", C08ABBFE) DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Well Thief v 1.1.esp
 WestwatchTowerV1.0.esp
 Weye Enhancement.esp
@@ -12389,7 +12404,11 @@ WoodlandVillage1.2.esp
 WoodlandVillage, Cobl.esp
 Woodland Refuge.esp
 Woodland Rangers.esp
+  IF CHECKSUM("Woodland Rangers.esp", 491B530A) DIRTY: 180 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Woodland-Rangers_DV.esp
+// Duplicate intended. Below is translated version.
+Woodland-RangersDV.esp
+  IF CHECKSUM("Woodland RangersDV.esp", 5EA541C7) DIRTY: 2 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 WoodNymph.esp
 Woodsman Home.esp
   SAY: Outdated.  Delete and replace with Woodsman Home_1_2.esp.
@@ -12599,6 +12618,7 @@ maze-version 1,0.esp
 sir_balin_mod.esp
   IF CHECKSUM("sir_balin_mod.esp", 607E10BE) DIRTY: 233 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Ash's DB Kah'Lil Quest.esp
+  IF CHECKSUM("Ash's DB Kah'Lil Quest.esp", 1452F20C) DIRTY: 43 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Z's Skeleton Horse.esp
 
 Slof's Oblivion Robe Trader - OOO Patch.esp

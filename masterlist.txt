@@ -2803,6 +2803,7 @@ TorchMerchant.esp
 Trainer_Book.esp
 Trainer_Book_DV.esp
 Treasure Hunt.esp
+  IF CHECKSUM("Treasure Hunt.esp", 1402E41F) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TreasureHunt.esp
 TreasureChest.esp
 TreasureChest - MMM.esp
@@ -9245,7 +9246,8 @@ Aqvatika.esp
 Aqua_City_01.esp
   REQ: Shivering Isles
 AR.esp
-  DIRTY: 31 ITM, 44 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("AR.esp", 0EB70503) DIRTY: 76 ITM, 44 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+//No checksum?  DIRTY: 31 ITM, 44 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AranMathi.esp
 Aranmathi Druid Version v.1.2.esp
 ArboretumHouse.esp
@@ -9884,6 +9886,7 @@ Dark Brotherhood Sanctuaries.esp
 _DarkBrothershood.esp
 DarkQuest.esp
   IF CHECKSUM("DarkQuest.esp", 74E5F1C3) DIRTY: 43 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("DarkQuest.esp", E0BEBD1B) DIRTY: 38 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DBC.esp
 DBQ-AKnifeInTheDark_delayed.esp
 DBSRebuiltComplete.esp
@@ -11477,6 +11480,7 @@ MTCVillages-LakeRumarePatch.esp
 wb_RRLR_TalosBridge_Patch.esp
 Regions - Hammerfell.esp
 RealmofRuun.esp
+  IF CHECKSUM("RealmofRuun.esp", 4B20FAE5) DIRTY: 45 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 RetburyVillage.esp
 Return Of Shadows.esp
   IF CHECKSUM("Return Of Shadows.esp", 6D97B636) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -12049,6 +12053,7 @@ __thermae_CustomVisitor.esp
   SAY: Old, update to latest version.
 __thermae_LLCustomizer.esp
 TheRunesOfThu'um.esp
+  IF CHECKSUM("TheRunesOfThu'um.esp", 5277C565) DIRTY: 97 ITM, 238 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TheStorytellersBrotherQuest.esp
   IF CHECKSUM("TheStorytellersBrotherQuest.esp", 2414A8EF) || IF CHECKSUM("TheStorytellersBrotherQuest.esp", 3B237D7C) DIRTY: 17 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   SAY: A fixed version can be found here: "http://oblivion.nexusmods.com/downloads/file.php?id=7809"
@@ -12061,6 +12066,7 @@ TheUnluckyLeprechaun.esp
 TheVaultofOrder.esp
 The Vertueux.esp
   INC: The Lost Spires; Small landscaping issue between the HQ and surroundings.
+  IF CHECKSUM("The Vertueux.esp", F83CBBC4) DIRTY: 461 ITM, 107 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Weapon Smith.esp
 ThemeParkFinal.esp
 thievery.esp

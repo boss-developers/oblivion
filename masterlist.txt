@@ -9663,6 +9663,7 @@ Casa Bella Vista.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
 Capsized Ship.esp
+CarahsCaravanRedux.esp
 Cartographer.esp
 Casa en Bruma.esp
 CasaMania.esp
@@ -12584,6 +12585,7 @@ DLCBattlehornCastle.esp
   IF CHECKSUM("DLCBattlehornCastle.esp", 7048C609) DIRTY: 13 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("DLCBattlehornCastle.esp", CADD3FD0) DIRTY: 18 ITM, 74 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("DLCBattlehornCastle.esp", F94B3393) DIRTY: 13 ITM, 72 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+DLCBattlehornCastleCOBL.esp
 DLCBattlehornCastle - Unofficial Patch.esp
   IFNOT CHECKSUM("DLCBattlehornCastle.esp", 7048C609) && IF CHECKSUM("DLCBattlehornCastle - Unofficial Patch.esp", AB4DE79A) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("DLCBattlehornCastle.esp", 7048C609) && IF CHECKSUM("DLCBattlehornCastle - Unofficial Patch.esp", AB4DE79A) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13480,6 +13482,9 @@ BEGINGROUP: Tamriel Worldspace Modding Project
 TWMP_Summerset.esp
 TWMP_Valenwood_Elsweyr.esp
 TWMP_Hammerfell.esp
+TWMP_ValenwoodImproved.esp
+TWMP_ValenwoodImproved-Elsweyr Patch.esp
+TWMP_ValenwoodImproved-Elsweyr-Daedric Ruins Patch.esp
 TWMP_HighRock.esp
 TWMP_ProvinceHighRock.esp
   REQ: Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
@@ -13757,6 +13762,7 @@ Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
 Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
   IF CHECKSUM("Valenwood Improved - Fallenleaf Everglade EV - Patch.esp", 8056A33C) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+TWMP_ValenwoodImproved - Fallenleaf Everglade EV - Patch.esp
 Valenwood Improved - Fallenleaf Everglade DV - Patch.esp
 
 xulColovianHighlands.esp
@@ -14039,6 +14045,7 @@ TrailsOfCyrodiil- PantherRiver patch DV.esp
 xulRiverEthe.esp
   IF CHECKSUM("xulRiverEthe.esp", D3959EE4) DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unique Landscapes - River Ethe DV.esp
+TWMP_ValenwoodImproved - River Ethe EV - Patch.esp
 BetterDaedricShrinesMeridia-RiverEthe.esp
 BetterDaedricShrinesMeridia-RiverEthe patch.esp
 BetterDaedricShrinesFull-RiverEthe patch.esp
@@ -15042,6 +15049,8 @@ IF ACTIVE("Better Dungeons.esp") MOD: SunderedKeep.esp
   // Has conflicts with Better Dungeons.esp and should loaded after Better Dungeons.esp on time of quests execution of the SunderedKeep.esp
 SunderedKeep Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Better Elixir of Exploration.esp
+Better Elixir of Exploration (for OOO or FCOM).esp
 Betterleveledlists.esp
 Better Loot v1.0.esp
   TAG: {{BASH: Delev}}
@@ -21946,7 +21955,6 @@ UA OMG 7.3 Patch.esp
 Guild Advancement-Universitum Arcanorum patch.esp
 Universitum Arcanorum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
-SDR Perks and Patches [Oblivion].esp
 
 //The below needs to load after anything that changes cells (6,15) and (7,15) in the Tamriel worldspace.
 IC Palace Topper - Region Override.esp
@@ -22742,6 +22750,8 @@ ENDGROUP: Bashed Patch
 
 BEGINGROUP: Post Bashed Patch
 //-----------------
+
+SDR Perks and Patches [Oblivion].esp
 
 CybBPcompatibility.esp
 Creeper.esp

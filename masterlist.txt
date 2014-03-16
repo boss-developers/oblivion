@@ -4160,6 +4160,7 @@ Cute Knight Armor.esp
 CV - Kilij.esp
   IF CHECKSUM("CV - Kilij.esp", C4E017B) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Cy.esp
+Cyrodiil Roman Legion.esp
 CaptureBalls.esp
 Colourwheels Sexy Holy Knight Armor.esp
 Colourwheels Sexy Lingerie HGEC.esp
@@ -4872,7 +4873,7 @@ Kratos Blade Of Chaos.esp
 Kurese Recolours.esp
   IF CHECKSUM("Kurese Recolours.esp", 4355DABA) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Kusanagi.esp
-  TAG: {{BASH: Invent}
+  TAG: {{BASH: Invent}}
 ENDGROUP: Items K
 
 BEGINGROUP: Items L
@@ -4965,6 +4966,7 @@ LSBSkullWeapons.1.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("LSBSkullWeapons.1.esp", ADCE83E6) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("LSBSkullWeapons.1.esp", CDB7D4E1) DIRTY: 2406 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+LunasHealerRobes.esp
 Lyn-ClawsOfTheGreyLady.esp
 LSB Skull Weapons.esp
   TAG:{{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Invent, NPC.Class, Names, NpcFaces, Relev}}
@@ -5336,6 +5338,8 @@ Robe Replacer2.esp
 Rogue Sun's Blood Lust Dress.esp
 ROHJ2.esp
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+RomanLegion.esp
+  IF CHECKSUM("RomanLegion.esp", 8EDD4373) DIRTY: 2286 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp

@@ -1373,26 +1373,19 @@ BEGINGROUP: Sound mods
 300_Combat Sounds.esp
 Ayleid Well Sounds.esp
 Better Bell Sounds.esp
+  TAG: {{BASH: Scripts}}
 HBM.esp
 Idle Dialogue.esp
   IF CHECKSUM("Idle Dialogue.esp", F3DDD964) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Louder Nirnroot Sound.esp
-  TAG: {{BASH: Sound}}
 Louder Nirnroots.esp
-  TAG: {{BASH: Sound}}
 Louder Nirnroot.esp
-  TAG: {{BASH: Sound}}
 Louder Nirnoot.esp
 //Yep, that is a typo.
-  TAG: {{BASH: Sound}}
 ln.esp
-  TAG: {{BASH: Sound}}
 lninroot.esp
-  TAG: {{BASH: Sound}}
 Louder Nirns.esp
-  TAG: {{BASH: Sound}}
 Symphony of Violence.esp
-  TAG: {{BASH: Sound}}
 Echo_ChapelChant.esp
   IF CHECKSUM("Echo_ChapelChant.esp", 1463180E) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AmbientTownSounds.esp
@@ -8809,13 +8802,22 @@ Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v9.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v10.esp
+  IF CHECKSUM("Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v10.esp", 51563805) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Morrowind_ob - MorroblivionTreeReplacer.esp
+  IF CHECKSUM("Morrowind_ob - MorroblivionTreeReplacer.esp", 7AF5966F) DIRTY: 3043 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Morrowind_ob - Morroblivion Maps.esp
 Morrowind_ob - ClothingReplacer.esp
+  TAG: {{BASH: Names}}
 Morrowind_ob - MorroblivionWater.esp
 Morrowind_ob - Almalexia.esp
 Morrowind_ob - Faction Relationships.esp
 Morrowind_ob - Conversation.esp
+  TAG: {{BASH: Factions, Invent, Names}}
+Morrowind_ob - UCWUS.esp
+  TAG: {{BASH: Invent, Names}}
+  IF CHECKSUM("Morrowind_ob - UCWUS.esp", 9F7F8D5F) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Morrowind_ob - Silt Striders.esp
+Morrowind_ob - Unique Grass.esp
 Voice Overs V002.esp
 ProtocolledDialogs.esp
 MorroblivionLoadingScreens.esp

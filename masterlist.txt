@@ -8324,6 +8324,7 @@ BOO 4 of 4 Creature Edits Only.esp
   TAG: {{BASH: Delev, Relev}}
 
 Oblivion Intensity.esp
+  TAG: {{BASH: Names}}
 
 Choices and Consequences - FCOM.esp
   SAY: Obsolete. Update to latest version and remove.
@@ -11417,6 +11418,8 @@ QOTW Season One.esp
   IF CHECKSUM("QOTW Season One.esp", 315470CB) DIRTY: 231 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 QOTW Season Two.esp
   IF CHECKSUM("QOTW Season Two.esp", E2D9635D) DIRTY: 132 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+QOTW Season Three.esp
+  IF CHECKSUM("QOTW Season Three.esp", 701E316B) DIRTY: 140 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Quest.esp
   SAY: Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -13055,6 +13058,7 @@ Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
 AFKWeye_MTC_RRLRumarePatch.esp
+AFKWeye_MTC_RRLRumare_HOH Patch.esp
 Weye_Armory1.esp
 
 House of Healing at Weye.esp
@@ -13342,6 +13346,7 @@ ROC+Tchos Alchemy Tower Patch.esp
 ROC+DBC Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 Northern Front - Roads of Cyrodiil - compatibility .esp
+MTCEV-RoC Patch.esp
 
 Immersive Prison sewer exit.esp
   IF CHECKSUM("Immersive Prison sewer exit.esp", D607A66) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -17870,6 +17875,7 @@ Spell Ranks.esp
 MagickOverlap.esp
   REQ: OBSE 14+.
 
+More Sigils-2599.esp
 SSEE.esp
 SSEE-OOO.esp
 SSEE-MM.esp
@@ -18244,6 +18250,7 @@ WR OotG Addon.esp
 WR Villages Addon.esp
 GuildBetrayal.esp
 RegionalBounty.esp
+RenGuardOverhaul_PatchForSDR.esp
 
 FameAndInfamyAnnouncer.esp
 FameAndInfamyAnnouncerBountyDeduct.esp
@@ -18783,15 +18790,18 @@ Progress - RacialAdvancement.esp
 JCN_AV Uncap.esp
 Sneaking Detection Recalibrated.esp
   IF VERSION("Sneaking Detection Recalibrated.esp", "4.0", =) && IFNOT FILE("AddActorValues.dll") REQ: "AddActorValues.dll"
+  SAY: Deprecated. Upgrade to newest version, replaced by SDR.esm
 SDR Compatibility Patches.esp
   IF VERSION("Sneaking Detection Recalibrated.esp", "4.0", =) SAY: Deprecated. Do not use with v4.0+ of Sneaking Detection Recalibrated.
 SDR_Core.esp
   REQ: "SDR_obse.dll", "AddActorValues.dll", "OBSE"
+  SAY: Deprecated. Upgrade to newest version, replaced by SDR.esm
 SDR_NPC Behavior.esp
   IF VERSION("SDR_Core.esp", "=4.5.0", >) SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
   INC: SM Combat Hide, which is included in this plugin.
 SDR_ThievesArsenal_Patch.esp
 SDR_Detect Life Shader Patch (Oblivion).esp
+  SAY: Deprecated. Upgrade to newest version, replaced by SDR_Detect Life Shader Patch [Oblivion].esp
 SDR_Detect Life Shader Patch (Nehrim).esp
 
 PureImmersion.esp
@@ -18829,7 +18839,9 @@ SDR Perks And Patches - Nehrim.esp
 SDR_Perks And Patches (Nehrim).esp
   ERROR: Use the Oblivion version.
 SDR Perks And Patches - Oblivion.esp
+  SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
 SDR_Perks And Patches (Oblivion).esp
+  SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -21911,6 +21923,9 @@ HTSCl_rottenfood_patch.esp
 TSSoupHouse.esp
 HTSCl_withsoups.esp
 
+OCC+Werewolf Patch.esp
+OCR+Werewolf Patch.esp
+
 IBOC-Better Citties Patch.esp
 //Citties is how it is spelled in the plugin.
 
@@ -21926,8 +21941,12 @@ NRB4+Avalon Patch.esp
 Universitum Arcanorum.esp
   IF CHECKSUM("Universitum Arcanorum.esp", 9BDBB795) DIRTY: 121 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Universitum Arcanorum.esp", D41DC29C) DIRTY: 9 ITM, 1169 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+UA OMG 7.3 Patch.esp
+  IF CHECKSUM("UA OMG 7.3 Patch.esp", 2EBC4670) DIRTY: 346 ITM, 1528 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Guild Advancement-Universitum Arcanorum patch.esp
 Universitum Arcanorum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+SDR Perks and Patches [Oblivion].esp
 
 //The below needs to load after anything that changes cells (6,15) and (7,15) in the Tamriel worldspace.
 IC Palace Topper - Region Override.esp
@@ -22399,6 +22418,8 @@ LightSpellWhiteDimmer.esp
 SnArrowEffects.esp
 bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp
+
+SDR_Detect Life Shader Patch [Oblivion].esp
 
 qazFingerSnap.esp
 Finger Snap.esp

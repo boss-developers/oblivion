@@ -9213,6 +9213,7 @@ Amen'thalas - HOD Patch.esp
 SYS Patch-Amen'thalas Well House.esp
 Amen'thalas - SYS Patch.esp
 AmVampireRing.esp
+  SAY: Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile All' command.
   IF CHECKSUM("AmVampireRing.esp", 11D48C2E) DIRTY: 114 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 AM's University Cosmetics 1.2.esp
 Ancient Dwemer Ruin.esp
@@ -9949,6 +9950,7 @@ Deathtrap Dungeon.esp
 Dk offhand weapons.esp
 Dk second knight update.esp
 Deepwood Adventures.esp
+  SAY: Very dirty - Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile All' command.
   REQ: OBSE, Elys Universal Silent Voice
   IF CHECKSUM("Deepwood Adventures.esp", AD5233BC) DIRTY: 263 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DeerLeap.esp
@@ -11559,6 +11561,7 @@ Ruins of Tarnesia.esp
   IF CHECKSUM("Ruins of Tarnesia.esp", 9654B520) DIRTY: 4440 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also requires manual cleaning.
 RuinsOfBrenfa.esp
 RuinsofEvendallMod.esp
+  SAY: Very dirty - Compile All Scripts was used on the mod; either use the CS or Tes4Edit to clean or use Wrye Bash's 'Decompile All' command.
   IF CHECKSUM("RuinsofEvendallMod.esp", C320276C) DIRTY: 46 ITM, 36 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide".
 Rumare Castle.esp
 RumarePriory.esp

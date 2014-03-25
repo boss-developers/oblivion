@@ -14915,6 +14915,7 @@ Real Lava 1.3.esp
 Templars Lava Replacer v1.0.esp
 Visually Realistic Deadly Lava.esp
 Visually Realistic Lava.esp
+Owcnd-Dungeons.esp
 ENDGROUP: overrides Early
 
 BEGINGROUP: overrides #
@@ -15909,7 +15910,6 @@ ORM-TamriellicGlassCORE.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Orrery_Rewards.esp
 OS-foot-HORSE.esp
-Owcnd-Dungeons.esp
 ENDGROUP: overrides O
 
 BEGINGROUP: overrides P

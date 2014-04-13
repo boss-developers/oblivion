@@ -440,6 +440,7 @@ Underdark v1.1 Delayer.esp
 
 tes4-CHS-main.esp
   TAG: {{BASH: Names}}
+Icon Overhaul.esp
 ENDGROUP: Earliest mods
 
 BEGINGROUP: NPC face mods
@@ -7653,8 +7654,6 @@ IF VAR(FCOM) MOD: Mart's Monster Mod - More Wilderness Life.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - More Wilderness Life No Gates.esp
   SAY: Use either 'More Wilderness Life' or 'More Wilderness Life No Gates' but not both.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
-IF VAR(FCOM) MOD: Mart's Monster Mod - More Passive Wildlife.esp
-  SAY: Not recommended, has bugs.
 
 IF VAR(FCOM) MOD: Mart's Monster Mod - Safer Roads.esp
   ERROR: Delete and use the 'FCOM_SaferRoads.esp'.
@@ -11220,6 +11219,7 @@ Nine Divines Robes.esp
 Nocturne.esp
 NocturneCallSteed.esp
 NoldaTheShipHome.esp
+NordBattleWolf.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
 NordRuins.esp
@@ -12487,6 +12487,8 @@ YakumoIsle.esp
 Yami_smallhouse.esp
 Yellow Rose Cottage.esp
 YGShop.esp
+YokudaBattleCat.esp
+  IF CHECKSUM("YokudaBattleCat.esp", 15472FDE) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 
 ZOMBIES! -  28 days and a bit V2.esp
 ZOMBIES! - 28 days and a bit V2.esp

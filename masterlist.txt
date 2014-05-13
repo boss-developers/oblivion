@@ -1240,6 +1240,11 @@ All Natural - Weather Inside.esp
   SAY: Obsolete. Update to latest version of All Natural and delete this.
 All Natural - Optional Features.esp
   SAY: Obsolete. Update to latest version of All Natural and delete this.
+  
+Vibrant Weather.esp
+Vibrant Weather - All Natural.esp
+Vibrant Weather - No Daylight Torches.esp
+Vibrant Weather - Lighting Fix.esp
 
 Gates To Aesgaard 2 Weather Patch.esp
   SAY: Obsolete. Update to latest version of Gates To Aesgaard Episode 2 and remove this patch.
@@ -1732,6 +1737,8 @@ Akatosh Mount By Saiden Storm.esp
 Akatosh Mount.esp
 Akatosh Mount Earn The Wyrm.esp
 Akatosh Mounts Reborn.esp
+AkaviriBattleCat.esp
+  IF CHECKSUM("AkaviriBattleCat.esp", 63948B30) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ANB_TrashCan.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
@@ -3744,6 +3751,8 @@ AngelslayerEN.esp
 AoD Colors.esp
 Aperture Cube.esp
 Aragorns Royal Gear.esp
+ArchmageSorceress.esp
+  IF CHECKSUM("ArchmageSorceress.esp", A18BB8A9) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ares-HGEC.esp
 Armblade.esp
   TAG: {{BASH: Invent}}
@@ -3764,6 +3773,7 @@ Armor of Gaia.esp
 ArmorofKyrai.esp
 Armure du Seigneur Noir.esp
 ArynnsDemonatrixHGEC.esp
+  IF CHECKSUM("ArynnsDemonatrixHGEC.esp", CB5BD995) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Assassin'sArmour.esp
 Assassin's Creed 2 Revisited.esp
 MODAssassinsCreed2_Revisited.esp
@@ -3861,6 +3871,7 @@ ArmamentariumWeapons4Npcs.esp
   SAY: Don't use with Armamentarium_MOBS.
   INC: newer 'Armamentarium Complete' version. Consider updating.
 Armamentarium_MOBS.esp
+  IF CHECKSUM("Armamentarium_MOBS.esp", 65265F23) DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   SAY: Don't use with ArmamentariumWeapons4Npcs.
   INC: newer 'Armamentarium Complete' version. Consider updating.
 ArmamentariumKatanas.esp
@@ -4043,6 +4054,11 @@ Bow of Quel'Thalas.esp
 BowOfShadow.esp
 BowOfShadows.esp
 Bow of Shadows.esp
+BPuppetEC.esp
+BlackPuppetLight.esp
+  IF CHECKSUM("BlackPuppetLight.esp", ADCD53A4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+BlackPuppetUltraLight.esp
+  IF CHECKSUM("BlackPuppetUltraLight.esp", 50D6E645) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Brigand's Gear.esp
   TAG: {{BASH: Invent}}
 Brittainy's Finery Addon.esp
@@ -4357,6 +4373,8 @@ Dread Knight Weapons.esp
 druid_tomb.esp
 DS Mage's Belt.esp
 Dynasty.esp
+Dynasty Armor DM-BBB.esp
+  IF CHECKSUM("Dynasty Armor DM-BBB.esp", 3DA8158C) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 doofdillas_potions_recolored_unsorted_v0_2_1.esp
   TAG: {{BASH: Graphics, Names}}
   SAY: Old, update to version 0.3.1+.
@@ -4408,6 +4426,9 @@ ElyndasLostDressesHGEC.esp
 Elwing.esp
 Emarion Equipment.esp
   IF CHECKSUM("Emarion Equipment.esp", A71070B4) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+EmpressRobes.esp
+  IF CHECKSUM("EmpressRobes.esp", D51DD701) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("EmpressRobes.esp", 99705812) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 ercGigerBattleclaws_EV.esp
@@ -4499,6 +4520,7 @@ Flamberge.esp
 Full Metal Bikini.esp
 Full Metal Bikini Light.esp
 Full Metal Bikini Mark II.esp
+  IF CHECKSUM("Full Metal Bikini Mark II.esp", C5CE3717) DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Full Metal Bikini Mark III.esp
 Full Metal Bikini Mark IV Point Five.esp
 Fur Cape.esp
@@ -4717,6 +4739,8 @@ BEGINGROUP: Items I
 It's A Wig!.esp
 icearmor.esp
   IF CHECKSUM("icearmor.esp", 60F25B1) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("icearmor.esp", A01E2B64) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("icearmor.esp", 657795E2) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IceBladeofTheMonarchOblivion.esp
 Ice Gowns for HGEC.esp
 Ice Tear.esp
@@ -5117,6 +5141,9 @@ New Frostmourne Sword by Jojjo v1_0.esp
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", 770A8BD4) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", E4C84842) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", AF56FD5C) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", 0C14D953) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", C9ABD42E) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  SAY: Removed AI Packages "BanditBossWanderInterior [PACK:0003DC4F]" and "BanditBossWanderExterior [PACK:00058DB0]"
 New_Frostmourne_Sword_by_Jojjo_v1_0.esp
 NewEnergyBow.esp
 NewbsArmoredRobes.esp
@@ -5429,6 +5456,8 @@ SentientWeaponExchange.esp
 sepulcresorceressoutfit.esp
 Serentin Vampire Armors.esp
 severianskatanas1_2.esp
+Sexy Daedric Priestess.esp
+  IF CHECKSUM("Sexy Daedric Priestess.esp", 4BE5BBA2) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Sexy Elves.esp
 SexyTops.esp
 Shadow Legion Armor.esp
@@ -5928,6 +5957,7 @@ WarriorBandages_OOO_V2.0.esp
 WarriorPriestSet.esp
 Warriors Items.esp
 WarriorsRobe.esp
+Weapon Improvement Project.esp
 Wearable_Palace_Armor-4950.esp
 Western Armor.esp
 Westwind_Rogue_HGEC.esp
@@ -6358,6 +6388,7 @@ DMRA Skimpy Clothing Replacer.esp
 DMRA Stock Robe Skimpy Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 Dollparts' Wild Flower Corsets of Cyrodiil.esp
+  IF CHECKSUM("Dollparts' Wild Flower Corsets of Cyrodiil.esp", BE9BEA03) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Dominatrix Suit.esp
 Dragonbone Armor Set.esp
 Dragon Claw Sword And Shield.esp
@@ -6419,6 +6450,7 @@ HGEC_AmazonArmor.esp
   TAG: {{BASH: Graphics}}
 HGEC_BodyGlove.esp
 HGEC_Companionmail.esp
+  IF CHECKSUM("HGEC_Companionmail.esp", E43EEEFB) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 HGEC Dantes Clothes - EV.esp
 HGEC Glass Replacement.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
@@ -6719,6 +6751,7 @@ Underwear TGND.esp
 
 Vampiress Armors For Exnem Body.esp
 Velveteen_Armor_HGEC.esp
+  IF CHECKSUM("Velveteen_Armor_HGEC.esp", 5EDE9A39) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Velveteen For DM.esp
 Ves Armor plus Recolours.esp
 VGA_SaintSeducer.esp
@@ -10017,7 +10050,11 @@ DopplersArmory.esp
 DoTheUnderdark.esp
   IF CHECKSUM("DoTheUnderdark.esp", 61246D9A) DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DMwardropemerged.esp
+  IF CHECKSUM("DMwardropemerged.esp", 63B084E2) DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("DMwardropemerged.esp", 9FB2B37C) DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DMwardropemergednoenchant.esp
+  IF CHECKSUM("DMwardropemergednoenchant.esp", 33C8AE99) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("DMwardropemergednoenchant.esp", ED3C0B97) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Draelins Hidden Abode.esp
 DragonClawCastle.esp
 DragonInvasion.esp
@@ -10729,6 +10766,7 @@ Knights of the Thorn Lodge.esp
 Kriegerburg.esp
 Kynareth Beach Area.esp
 Kragenir's Death Quest.esp
+  IF CHECKSUM("Kragenir's Death Quest.esp", 3CC0B31F) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Kragenir's Death Quest Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
@@ -13310,6 +13348,7 @@ Walkabout.esp
   IF CHECKSUM("Walkabout.esp", 31BE18D9) DIRTY: 21 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Walkabout.esp", 594A8E9B) DIRTY: 27 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Walkabout.esp", 379F2A1B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Walkabout.esp", 1796E52D) DIRTY: 41 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
   REQ: 'Waalx Animals & Creatures.esm', 'WAC.esp', 'ElsweyrAnequina.esp'
@@ -13873,6 +13912,9 @@ WAC - xulBCLostCoast.esp
 Hammerfell+UL Lost Coast Patch.esp
 CountySutchOwlsCove-LostCoast patch.esp
 LostCoast + Cybiades Patch.esp
+UL Beaches of Cyrodiil - DMwardrobe patch.esp
+  IF CHECKSUM("UL Beaches of Cyrodiil - DMwardrobe patch.esp", C08127BA) DIRTY: 4 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  SAY: Master records needs updating from "DMwardropemerged no enchant.esp" to "DMwardropemergednoenchant.esp"
 
 BEGINGROUP: HM2
 HentaiMania2.esp
@@ -15522,6 +15564,7 @@ GP_Lockpicks.esp
 gq Chapel Altars become Wayshrines.esp
   TAG: {{BASH: Scripts}}
 Grass Overhaul.esp
+  TAG: {{BASH: Graphics, NoMerge, Deactivate}}
 Great Gate Essential NPC's.esp
 Grummite Bows.esp
 GuardEquipAndStatFix.esp
@@ -17722,6 +17765,7 @@ BEGINGROUP: Supreme Magicka
 
 AgarVariedSpellSounds_SupremeMagicka.esp
   TAG: {{BASH: Sound}}
+  IF CHECKSUM("AgarVariedSpellSounds_SupremeMagicka.esp", F66F81A3) DIRTY: 17 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 SupremeMagicka.esp
   TAG: {{BASH: Names, Graphics}}
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.

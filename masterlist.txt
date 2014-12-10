@@ -255,6 +255,7 @@ StaticAlchemyMod.esm
 TantrivayliaChimer.esm
 The Other Spheres Base.esm
 cssBase.esm
+DragonPak.esm
 EarnYourEquipment.esm
 Lamps of Oblivion Master.esm
 morerunes' food collection.esm
@@ -1257,6 +1258,8 @@ Weather Debug Spammer.esp
 Immersive Interiors.esp
   REQ: All Natural - For the transparent windows and the ESM file.
   TAG: {{BASH: C.Water}}
+Immersive Interiors - Bravil.esp
+  REQ: Immersive Interiors & All Natural
 Immersive Interiors - Lights Addon.esp
   SAY: Obsolete. Update to the latest version of Immersive Interiors and delete this.
 Immersive Interiors - Landscape Addon.esp
@@ -1619,6 +1622,9 @@ CampfireBehavior.esp
 
 better lights.esp
 
+Finishing Touches -Bravil-.esp
+  SAY: Must load above Illumination Within for the compatibility patch to work.
+
 REGEX: Illumination(Within|Without)( Rus)?\.esp
   IF REGEX("IlluminationWithin.*\.esp") && IF REGEX("IlluminationWithout.*\.esp") WARN: Use only one IlluminationWithin or IlluminationWithout esp.
 REGEX: IWR.?-.?Windows( Rus)?\.esp
@@ -1742,6 +1748,9 @@ Akatosh Mount Earn The Wyrm.esp
 Akatosh Mounts Reborn.esp
 AkaviriBattleCat.esp
   IF CHECKSUM("AkaviriBattleCat.esp", 63948B30) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+AkaviriBattleCatQ.esp
+AkaviriWarDogV1.esp
+AkaviriWarDogV1_2.esp
 ANB_TrashCan.esp
 ANBPantherFigurine.esp
 Ancient_Artifacts.esp
@@ -2161,6 +2170,7 @@ Fishing in Cyrodiil.esp
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Flamering.esp
 FLY_creatures.esp
+Fox Companion.esp
 Foxfire Mushrooms.esp
 FullGrass1.1.esp
 Fundies.esp
@@ -2879,6 +2889,8 @@ Walk to Oblivion.esp
 Walk to Oblivion - OBSE.esp
 Walk to Oblivion - OGMMR.esp
 Warrior Princess Class.esp
+Wasabi the Mouse.esp
+  REQ: OBSE 18+
 Water Nymphs.esp
 wd purse of wonders.esp
   TAG: {{BASH: Scripts}}
@@ -3166,6 +3178,7 @@ Get Wet v0.92.esp
 Get Wet Dark.esp
 [Hexaae] Get Wet v0.92.esp
 
+HTFpcb.esp
 HTFpcb Extended.esp
 
 Immersive Music.esp
@@ -3233,6 +3246,7 @@ Potion Unlimiter-1948.esp
 Put Me In My Place - PlayerInSEWorld.esp
 Purge Cell Buffers - Cell Change.esp
 Purge Cell Buffers - Loading.esp
+Purger.esp
 
 Quest Log Manager.esp
 Quick Wardrobe.esp
@@ -3330,6 +3344,7 @@ All Travel Markers.esp
 Aurix's_Names.esp
 AyleidStatueMap.esp
 BeyondCyrodiilMarkers.esp
+Daedric Shrine Markers.esp
 Guild Map Markers.esp
 HouseMapMarkers.esp
 HouseMapMarkersOnlyBought.esp
@@ -3600,7 +3615,9 @@ ENDGROUP: Items Early
 BEGINGROUP: Items #
 
 000torturearmorbw.esp
+00 chakaru wigs.esp
 00 lux mea.esp
+00 Pyms Equipment.esp
 00 shield rings.esp
 01_SenTinel's Katanas.esp
   TAG: {{BASH: Invent}}
@@ -3682,6 +3699,7 @@ Adonnay's_Elven_Sabres-MOBS.esp
 Advent Children Tsurugi.esp
 Adventurer armors.esp
 AHIRUs_Glasses_v1.esp
+aiondragonweapons.esp
 AionRedResearcher.esp
 Aion_Stormwing_Weaponry.esp
 Aishabreak.esp
@@ -3907,6 +3925,7 @@ ENDGROUP: Items A
 
 BEGINGROUP: Items B
 
+BMEnchantmentRebalance.esp
 BAB Cold Steel.esp
 BABnecklacesbykalikut.esp
 Bad Lady.esp
@@ -3962,6 +3981,7 @@ BlackGlovesRus.esp
   TAG: {{BASH: Invent}}
   SAY: Only Use one BlackGlovesX.esp, this one does NPC changes
   SAY: Only Use this for Russion version.
+Black Dress.esp
 Blackhand Courtesan.esp
 Black Heart.esp
 Blackheart and Gizmodian ECRobes.esp
@@ -3969,6 +3989,7 @@ Blackheart and Gizmodian ECRobes Free Version.esp
 Blackheart and Gizmodian ECRobes Shop Version.esp
 Black Leather Outfits.esp
 Black Mirror.esp
+Black Robe of Invisibility.esp
 Black Rock Shooter.esp
 BlackSeraphim.esp
 BlackSoulGemArmory.esp
@@ -4407,7 +4428,9 @@ EagleSword.esp
 Ebony Mail.esp
 Echo_MysticShield.esp
 EckoSword.esp
+Edhildils Purelust Latex Suits.esp
 Edhildils Savior Bikini Armor.esp
+Edhildils Skeleton Armors.esp
 EleidonsWard.esp
 ElegantVests.esp
 Elegant Vests.esp
@@ -4457,6 +4480,7 @@ BEGINGROUP: Items F
 
 Fable Swords.esp
   TAG: {{BASH: Invent}}
+Faded Dress.esp
 Fall Hair Wig - EV.esp
 Fall Hair Wig - DV.esp
 FalxMod.esp
@@ -4519,6 +4543,8 @@ Forestlight Armor.esp
 ForgedSteelDaggers.esp
 ForgedSteelDaggers_1C.esp
 FoxyGear-EV.esp
+Frill Short Dress and Halloween Backpack.esp
+  TAG: {{BASH: Graphics}}
 FrostAtronachArmor.esp
 Frost Atronach Staff.esp
 FrostmourneBetter.esp
@@ -4538,6 +4564,7 @@ ENDGROUP: Items F
 
 BEGINGROUP: Items G
 
+Gabe's Oblivion Amulets.esp
 Galadhrim_DV.esp
 Galadhrim_EV.esp
 Galadhrim_RU.esp
@@ -4737,6 +4764,7 @@ Horse_Dung.esp
 HotApparatus.esp
 HourGlass_1C.esp
 hrAchillesGear.esp
+HS Lindseys Thongs.esp
 HTBUnholyChapelShop.esp
   IF CHECKSUM("HTBUnholyChapelShop.esp", AE3A26A9) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ENDGROUP: Items H
@@ -4764,6 +4792,7 @@ Insanity's Kill Bill Katanas.esp
   TAG: {{BASH: Invent}}
 Insanity's Blue Glass Armor.esp
 Insanity's Scarves.esp
+Invisibility Robe.esp
 IP_Magerobes.esp
   TAG: {{BASH: Graphics}}
 IreneLoC.esp
@@ -4955,6 +4984,7 @@ LaserGun_v1.esp
 LBExoticAyleidArmorVender+LL.esp
 LBExoticAyleidArmorLLonly.esp
 LD - New Arrows.esp
+Legend of Zelda Equipment (placed).esp
 Legion BattleMage.esp
 Legion Shield Replacer.esp
   TAG: {{BASH: Graphics}}
@@ -5139,6 +5169,7 @@ Neck Seam Concealers Expanded LL Amulets Only SI.esp
 Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp
   SAY: Only use one "Neck Seam Concealers Expanded LL" plugin at a time.
   TAG: {{BASH: Relev}}
+Neck Ornament.esp
 NecroArmour.esp
 Negotiator Sword.esp
 NemakkiArrows_1C.esp
@@ -5261,6 +5292,7 @@ pale_rider's Paladin Equipment_unenchanted_eng.esp
 pale_rider's Paladin Equipment_unenchanted_ger.esp
   IF CHECKSUM("pale_rider's Paladin Equipment_unenchanted_ger.esp", 99E1B373) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("pale_rider's Paladin Equipment_unenchanted_ger.esp", D66CA2FA) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+pale_rider's Pirate Reloaded.esp
 ParaClothes.esp
 ParalyzeArrow.esp
 Pauldron.esp
@@ -5303,6 +5335,7 @@ SLPD_Ponytail.esp
 Priests of Dibella.esp
 PTArtifacts.esp
 Phitts-Artifacts_DV.esp
+Princess line Dress.esp
 PTRepairKits.esp
 PureSteelBlade.esp
 Ppurplerecolor.esp
@@ -5372,6 +5405,7 @@ ROHJ2.esp
   SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 RomanLegion.esp
   IF CHECKSUM("RomanLegion.esp", 8EDD4373) DIRTY: 2286 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Room Wear.esp
 Rosana Black Edition.esp
 Rotating Mace.esp
 Royal Daedric Armor.esp
@@ -5694,6 +5728,7 @@ SSA.esp
 Staff_of_Magius.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
+Stand up collar Dress.esp
 SteelHalfMoon.esp
 Star's Fury.esp
   IF CHECKSUM("Star's Fury.esp", 0B25A64E) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -5722,6 +5757,7 @@ SM Cosplay 04.esp
 SW Cosplay 01.esp
 SW Cosplay 02.esp
 sweetclothes.esp
+Swimming Costume.esp
 SwordDancer.esp
   IF CHECKSUM("SwordDancer.esp", E5EF8132) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Sword of Lightning.esp
@@ -5775,6 +5811,7 @@ The_Bat.esp
 The Bow of Ash.esp
 The Bow of Blades.esp
 The Bow of Bones.esp
+The Bow of Bones DV.esp
 TheBowOfBonesRevisited.esp
 The Bow of Daedric Blood.esp
 The Bow of Robin of Locksley.esp
@@ -5811,6 +5848,7 @@ ThrowableKunai_1C.esp
 THShadowArmor.esp
 Thunderbird Armor.esp
 thunderfury.esp
+Tight Minidress.esp
 Tizona_And_Colada_Sword_of_El_Cid.esp
 tkRapiers.esp
 tkSwords.esp
@@ -5894,6 +5932,7 @@ UFF_TM_Ballgowns.esp
 UFF Undies.esp
 UFF & RM Morrigan Armor.esp
 UFF & ROBERT Noviere's Gray Fox Armor.esp
+UltimateCheatMod.esp
 Underwear HGEC placed.esp
 Underworld Armor.esp
 RUS_Underworld Armor.esp
@@ -6009,6 +6048,8 @@ XiaValentinesDayGift07.esp
 
 yangyang_frostbite.esp
 
+YautjaNaginata.esp
+Yoke Armor.esp
 Zaine's White Knives.esp
 Zatoichi.esp
   TAG: {{BASH: Invent}}
@@ -6825,8 +6866,11 @@ Immortal Horses.esp
 Kylin.esp
 Benjamin the Donkey.esp
 Benjamin the Donkey - small.esp
+Benjamin the Donkey - pimped up version.esp
 Benjamin the Donkey - pimped up version - small.esp
 blackunicorn.esp
+DallsPaladinHorse.esp
+DAWoolyWarMammothMount.esp
 DarkUnicorn Ver 0.3.esp
 PWM_Armoured-UnicornMount.esp
 MD_Saddle_Bags.esp
@@ -6835,6 +6879,7 @@ MD_Saddle_Bags_Lite_v2.esp
 MD_Saddle_Bags_Accessories.esp
 MigHorseArmor.esp
   IF CHECKSUM("MigHorseArmor.esp", 1C8F1C26) DIRTY: 0 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+mrSiikas_Camel.esp
 SaddleBag.esp
 Slof's Horses Base.esp
   TAG: {{BASH: Graphics}}
@@ -6942,6 +6987,7 @@ CallSteed3.0a Rus.esp
 GP_Call Steed.esp
 Calm_Shadowmere.esp
 Leveled Shadowmere.esp
+Ridable Dreugh.esp
 Rideable_Wild_Horses.esp
 Rideable Frost Atronach.esp
 PSFastHorse.esp
@@ -7267,6 +7313,8 @@ Oblivion WarCry EV.esp
   IF VERSION("Oblivion WarCry EV.esp", "1.09", <) TAG: Remove [Actors.DeathItem] tag for version 1.08 and below. More info("http://u.to/PCQMAg")
   IF VAR(FCOM) REQ: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+MercerIngredientsCore.esp
+MercerIngredientsMerged.esp
 More Effective Enchantments WarCry EV.esp
 FCOM_WarCry.esp
   TAG: {{BASH: Delev, Relev, Stats}}
@@ -7293,6 +7341,7 @@ Oscuro's_Oblivion_Overhaul.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
   IF FILE("Mart's Monster Mod for OOO.esm") || IF VAR(FCOM) TAG: Remove [Factions, Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+Gem_Fix_OOO.esp
 OOO Harvest Containers SI.esp
 OOO-Water_Weeds.esp
 OOO-Map_Markers_Stock.esp
@@ -7348,6 +7397,7 @@ OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
   TAG: {{BASH: Stats}}
 OOO-LightOfDawnFlamesWhenDrawnOBSE_1handed.esp
 Oscuro's_Oblivion_Overhaul - No Daedric Items.esp
+MercerIngredientsOOO.esp
 ENDGROUP: OOO full and lite.
 
 BEGINGROUP: Post OOO
@@ -8536,6 +8586,7 @@ Plate Armor Plus - OOO_FCOM_version.esp
 
 TGND - OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
+MercerIngredientsMMM.esp
 ENDGROUP: Additional MMM OOO Patches
 
 Adventurers_1.0.esp
@@ -9289,6 +9340,7 @@ AnvilBayExpansion.esp
 AnvilBayMisteryHouse.esp
   IF CHECKSUM("AnvilBayMisteryHouse.esp", 7BA6C2D6) DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Anvil Docks Abode.esp
+Anvil Industrial.esp
 AnvilManor2.0.esp
 Anvil_Mazecave.esp
 Atropa.esp
@@ -9661,6 +9713,7 @@ BossPhaitStygainHalls.esp
 Boxworld.esp
 br_anvilchurch.esp
 BravilBridgeCottage.esp
+BravilBridgeCotCOBLaddon.esp
 Bravil Docks.esp
   INC: Better Cities. Already included in Better Cities Bravil.
 Bravil House For Sale Upgrade.esp
@@ -9673,6 +9726,7 @@ Badmagic - The Houses.esp
 Barrow Farm Final.esp
 BlackwoodHideoutv1.0.esp
 Bravil Dark Brotherhood.esp
+Bravil River DJZ.esp
 Bleak Falls Cave.esp
 Break Into the Arcane University.esp
 Brew Houses of Cyrodiil.esp
@@ -9952,6 +10006,7 @@ DarelothFrontDoorFix.esp
   INC: Apachii's Goddess Store.
 Dark_Altar_of_Sithis-4161.esp
 Dark Sanctuary Display Room.esp
+Dark Brotherhood House.esp
 Dark Brotherhood Outpost v2.esp
   SAY: Outdated. Update to latest version.
 Dark Brotherhood Outpost v3.esp
@@ -10155,6 +10210,9 @@ Elven Baths.esp
 Elven_Gardens_Apartment.esp
 ElysianEstate-v1.1.esp
 EMBridgeHouse.esp
+EMBridgeHouseCOBLaddon.esp
+EMLeyawiinhouse.esp
+EMLeyawiinhouseCOBLaddon.esp
 EM_RedRoseManor.esp
   IF CHECKSUM("EM_RedRoseManor.esp", 4A696D9) DIRTY: 44 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 EMRedRoseAddonCOBL.esp
@@ -10695,6 +10753,7 @@ ImpeREAL Empire - Unique Forts - Bouayard.esp
 Imperial House.esp
 ImperialCemetery.esp
 ImperialCityHouse.esp
+ImperialRedShackles.esp
 ImriellesHousesSkingrad.esp
 Improved dungeons.esp
   SAY: Update to latest version, called "The Lost Treasures Of Cyrodiil".
@@ -10753,6 +10812,7 @@ Jade_Manor V1.26.esp
   SAY: Outdated. Update to v1.3+.
 Jade_Manor V1.30.esp
 JM_safehouse.esp
+Jpm's Vampire Hunters.esp
 JSRandomTasks.esp
 JulianNirnroots_v2.1.esp
 JupiterManor.esp
@@ -11108,6 +11168,7 @@ MirrorOfMagnus.esp
 MisticheskijOsobnyak.esp
   SAY: Border region restrictions must be turned off: change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.
 MistyHideout.esp
+MithrilIsland.esp
 MizrandaChateauQuestItemsIncluded.esp
 Monastery of Eru v2.esp
 Moorheim.esp
@@ -11498,6 +11559,7 @@ QOTW Season Two.esp
   IF CHECKSUM("QOTW Season Two.esp", E2D9635D) DIRTY: 132 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 QOTW Season Three.esp
   IF CHECKSUM("QOTW Season Three.esp", 701E316B) DIRTY: 140 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+QOTW Season Four.esp
 Quest.esp
   SAY: Part of Chronicles of Reeb. Goes with Belas.esm. Do not use. This mod has serious landscape errors in the Tamriel worldspace.
 Quest For The Elements.esp
@@ -11644,6 +11706,7 @@ RusticHome.esp
 SYS Patch Rustic Home.esp
 Rustle House.esp
 Rustle House - AN Patch.esp
+  SAY: It is possible when using All Natural + CBash the first floor of the house may become flooded. If so remove the "KhRHInterior" record from the Bashed Patch every time you rebuild. Or consider installing the "Rustle House CBash Fix.esp".
   TAG: {{BASH: C.Climate}}
 Rustle House - SYS Patch.esp
 rusty.esp
@@ -12345,6 +12408,7 @@ ENDGROUP: Quests U
 BEGINGROUP: Quests V
 
 Valenwood Improved.esp
+ValenwoodIslands.esp
 AkaviriKojima.esp
 Valley_View_Estate.esp
   IF CHECKSUM("Valley_View_Estate.esp", 0BC0E798) DIRTY: 28 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -12419,6 +12483,7 @@ VG0HalloweenSpecial.esp
 Villa Flugfels v1.0.esp
 villamedici.esp
 VileLairRebuilt.esp
+Vilverin Bandits.esp
 
 VOILA.esp
 VOILA - Soldiers of Empire.esp
@@ -12446,6 +12511,7 @@ Waterfront Basement.esp
 Waterfront Shack.esp
   IF CHECKSUM("Waterfront Shack.esp", 4FD37830) DIRTY: 1 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide#Waterfront_Shack.esp_Special_Cleaning_Instructions"
 WaterlilyCottage1.esp
+WaterlilyCottageCOBLaddon.esp
 WaterloggedTower.esp
 WaterSphere.esp
 Wayshrines in the University.esp
@@ -12738,6 +12804,7 @@ Lynges Thieves Highway.esp
 Lynges Thieves Highway - OOO.esp
   IF VAR(BC) SAY: Not Better Cities compatible. Already included with Better Cities IC plugins.
   IF VAR(OOO) SAY: Delete 'Lynges Thieves Highway.esp and use this instead.
+SecretEntrances.esp
 ENDGROUP: Quests and Locations 2
 
 BEGINGROUP: DLC 4
@@ -13136,6 +13203,7 @@ HoarfrostCastle.esp
   IF CHECKSUM("HoarfrostCastle.esp", F0AC781E) DIRTY: 12 ITM, 738 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Hoarfrost Raid.esp
   IF CHECKSUM("Hoarfrost Raid.esp", 0B0DD032) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+LittleSparrow-Hoarfrost Patch.esp
 HoarfrostCastle-OMG compatibility patch.esp
 HoarfrostCastle_delayer.esp
 HoarfrostCastle v1.2.2 Delayer.esp
@@ -13573,7 +13641,9 @@ Better daedric shrine Azura.esp
   IF CHECKSUM("Better daedric shrine Azura.esp", 8EE4EA11) DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Better daedric shrines full.esp
   IF CHECKSUM("Better daedric shrines full.esp", 5B2AC7E3) DIRTY: 35 ITM, 158 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+CorboloFisheries.esp
 HammerfellBorders.esp
+TheImperialShipyards.esp
 JungleHasMoreGroundcover.esp
 Oblivifall - Losing My Religion.esp
   TAG: {{BASH: Hair, Invent, C.Name, C.Owner, Actors.AIPackages}}
@@ -13641,6 +13711,7 @@ Chichester Village.esp
   IF CHECKSUM("Chichester Village.esp", A5A89A38) DIRTY: 72 ITM, 161 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 CityofSunevV058.esp
 ClearwaterFarms.esp
+OrangeMaple-Clearwater Patch.esp
 
 Damarask.esp
 
@@ -13706,6 +13777,7 @@ MagesCross.esp
 Midland.esp
 Milewood.esp
 Molapi.esp
+EMLeyawiin-Molapi Patch.esp
 
 New Valen.esp
   SAY: Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
@@ -13755,6 +13827,7 @@ SYS Patch-Shezrie's Towns.esp
 ShezriesTowns- Valenwood Patch.esp
 ShezriesTowns-Valenwood Patch.esp
 Artifacts-ShezriesTowns Patch.esp
+Cardac-ShezriesTowns Patch.esp
 MTCExpandedVillages-ShezriesTowns Patch.esp
 LostSpires+PellsGate Patch.esp
 SilverfishFalls.esp
@@ -13892,13 +13965,13 @@ LostSpires-Everglade patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
 Anequina-Fallenleaf-Patch.esp
 TrailsOfCyrodiil-FallenleafEverglade Patch.esp
+TOC MergedVanilla-FallenleafEverglade Patch.esp
 Valenwood Improved - Fallenleaf Everglade EV - Patch.esp
   IF CHECKSUM("Valenwood Improved - Fallenleaf Everglade EV - Patch.esp", 8056A33C) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TWMP_ValenwoodImproved - Fallenleaf Everglade EV - Patch.esp
 Valenwood Improved - Fallenleaf Everglade DV - Patch.esp
 
-Trails Of Cyrodiil Merged UL Colovian Highlands.esp
-  SAY: Contains xulColovianHighlands.esp. ONLY load Meshes and Textures from UL Colovian Highlands when using this plugin.
+
 
 xulColovianHighlands.esp
 xulColovianHighlands_EV.esp
@@ -13917,6 +13990,10 @@ Trails of Cyrodiil - Colovian Highlands UL.esp
   IF CHECKSUM("Trails of Cyrodiil - Colovian Highlands UL.esp", C5EBDE40) DIRTY: 109 ITM, 64 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TheWellOfMinlorada-ColovianHighlands patch.esp
 
+Trails Of Cyrodiil Merged UL Colovian Highlands.esp
+  SAY: Contains xulColovianHighlands.esp. ONLY load Meshes and Textures from UL Colovian Highlands when using this plugin.
+TOC MergedCH-FallenleafEverglade Patch.esp
+
 xulChorrolHinterland.esp
   IF CHECKSUM("xulChorrolHinterland.esp", B7B4334A) DIRTY: 0 ITM, 2326 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unique Landscapes - ChorrolHinterland DV.esp
@@ -13934,6 +14011,8 @@ MOEVampireClanRaelu-ChorrolHinterland patch.esp
   SAY: Obsolete. Delete.
 WeynonRetreat-ChorrolHinterland-Patch.esp
 TrailsOfCyrodiil-ChorrolHinterland patch.esp
+TOC MergedVanilla-ChorrolHinterland Patch.esp
+TOC MergedCH-ChorrolHinterland Patch.esp
 HoarfrostCastle-ChorrolHinterland patch.esp
 WAC-ULchorrolhinterland-patch.esp
   IF CHECKSUM("WAC-ULchorrolhinterland-patch.esp", D31BDFEF) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -14023,6 +14102,8 @@ HM2_xulLC_Patch.esp
 HentaiMania2-LostCoast Patch.esp
 ENDGROUP: HM2
 
+xulNibenBarnyards.esp
+
 xulBravilBarrowfields.esp
   IF CHECKSUM("xulBravilBarrowfields.esp", A29AFDC3) DIRTY: 0 ITM, 5260 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unique Landscapes - Bravil Barrowfields DV.esp
@@ -14044,6 +14125,8 @@ EtInArkay-BravilBarrowfields patch.esp
 OrdenULPatchBravilBarrowfields.esp
 Tales Elsweyr Anq Bravil Barrowfields Patch.esp
 TrailsOfCyrodiil-BravilBarrowfields patch.esp
+TOC MergedVanilla-BravilBarrowfields Patch.esp
+TOC MergedCH-BravilBarrowfields Patch.esp
 QuelldorfWithoutShip-BravilBarrowfields patch.esp
 BravilBridgeCottage + Barrowfields Patch.esp
 NicVBetterBeggars-BravilBarrowfields patch.esp
@@ -14060,13 +14143,16 @@ VeronaHouseBloodlines-LushWoodlands fix.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Blood Raven Lush Woodlands Patch.esp
 DarkBrotherhoodChronicles-LushWoodlands patch.esp
+LittleSparrow-LushWoodlands Patch.esp
 HoarfrostCastle-LushWoodlands patch.esp
 EtInArkay-LushWoodlands patch.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Rustle House - UL Patch.esp
 TheWellOfMinlorada-LushWoodlands patch.esp
 DepthsOfTheUnderdark-LushWoodlands patch.esp
+OrangeMaple-LushWoodlands Patch.esp
 Clearwater-Woodlands Patch.esp
+OrangeMaple-Clearwater-Woodlands Patch.esp
 Lindum-LushWoodland Patch.esp
 Lindum-ULCombo Patch.esp
 Lindum-BloodRaven-Woodlands Patch.esp
@@ -14121,6 +14207,10 @@ PinePeakLodge-CloudtopMountains patch.esp
   SAY: Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 GoldenCrest-CloudtopMountains patch.esp
 RST+Cloudtop Mountains.esp
+TOC ColovianHighlandVanilla-CloudtopMountains Patch.esp
+TOC ColovianHighlandUL-CloudtopMountains Patch.esp
+TOC MergedVanilla-CloudtopMountains Patch.esp
+TOC MergedCH-CloudtopMountains Patch.esp
 
 xulArriusCreek.esp
   TAG: {{BASH: C.Water}}
@@ -14194,6 +14284,8 @@ Unique Landscapes - Panther River DV.esp
 Blood&Mud-PantherRiver patch.esp
 TrailsOfCyrodiil-PantherRiver patch.esp
 TrailsOfCyrodiil- PantherRiver patch DV.esp
+TOC MergedVanilla-PantherRiver Patch.esp
+TOC MergedCH-PantherRiver Patch.esp
 
 xulRiverEthe.esp
   IF CHECKSUM("xulRiverEthe.esp", D3959EE4) DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -14207,6 +14299,8 @@ ValleyViewEstate-RiverEthe patch.esp
   SAY: Update patch version to 1.1.1.
 TrailsOfCyrodiil-RiverEthe patch.esp
 TrailsOfCyrodiil-RiverEthe patch DV.esp
+TOC MergedVanilla-RiverEthe Patch.esp
+TOC MergedCH-RiverEthe Patch.esp
 Valenwood Improved - River Ethe EV - Patch.esp
 Valenwood Improved - River Ethe DV - Patch.esp
 WestRoads-RiverEthe patch.esp
@@ -14226,6 +14320,10 @@ xulBrenaRiverRavine Vwalk.esp
 Brena River Ravine Daedric Shrine Ruins Patch.esp
 Gaelendryll-BrenaRiver patch.esp
 Gaelendryll - UL Brena River - Daedric Shrine Patch.esp
+TOC ColovianHighlandVanilla-BrenaRiver Patch.esp
+TOC ColovianHighlandUL-BrenaRiver Patch.esp
+TOC MergedVanilla-BrenaRiver Patch.esp
+TOC MergedCH-BrenaRiver Patch.esp
 NakedNord.esp
   IF CHECKSUM("NakedNord.esp", AB1B9D3C) DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OCC+NakedNord Patch.esp
@@ -14286,6 +14384,8 @@ Villges-CheydinhalFalls patch.esp
 EtInArkay-CheydinhalFalls patch.esp
 RedHeadedGang-CheydinhalFalls patch.esp
 TrailsOfCyrodiil-CheydinhalFalls patch.esp
+TOC MergedVanilla-CheydinhalFalls Patch.esp
+TOC MergedCH-CheydinhalFalls Patch.esp
 Cheydinhal Land Texture Fix UL.esp
 
 xulAspenWood.esp
@@ -14295,6 +14395,7 @@ Cardac-xulAspenWood-patch.esp
   IF CHECKSUM("Cardac-xulAspenWood-patch.esp", 8B508D9F) DIRTY: 0 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Cardac-AspenWood Patch.esp
 Lakewood+AspenWood Patch.esp
+Cardac-Shezries-AspenWood Patch.esp
 EtInArkay-AspenWood patch.esp
 xulAspenWood Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -14331,6 +14432,9 @@ MTCExpandedVillages-Snowdale patch.esp
 MTCExpandedVillages-UniqueLandscapes patch.esp
 RiseOfASamurai-Snowdale patch.esp
 SnowyRoad-Snowdale Patch.esp
+TOC NorthShortcut-Snowdale Patch.esp
+TOC MergedVanilla-Snowdale Patch.esp
+TOC MergedCH-Snowdale Patch.esp
 
 xulGoldCoastFarmlands.esp
 
@@ -14354,6 +14458,10 @@ Unique Landscapes - Silverfish River Valley DV.esp
 Lost Spires + Silverfish River Patch.esp
 GuardsOfCyrodiilRedux-SilverfishRiverValley patch.esp
 BanditHideouts-SilverfishRiverValley patch.esp
+Cardac-Silverfish Patch.esp
+Cardac-Shezries-Silverfish Patch.esp
+Cardac-AspenWood-Silverfish Patch.esp
+Cardac-Shezries-ULCombo Patch.esp
 Eastbrink-SliverfishRiverValley patch.esp
 SilverfishFalls-ULSilverfish Patch.esp
 
@@ -14378,6 +14486,16 @@ xulEasternPeaks_TWMPBlackMarshPatch.esp
 MythsAndLegends2-EasternPeaks patch.esp
 Tantrivaylia-EasternPeaks patch.esp
 KragenirsDeathQuest-EasternPeaks patch.esp
+TOC SouthEast-EasternPeaks Patch.esp
+  SAY: For Use ONLY with Trail Southeast
+TOC East-EasternPeaks Patch.esp
+  SAY: For Use ONLY with Trail East
+TOC East+SE-EasternPeaks Patch.esp
+  SAY: For Use ONLY if you have BOTH Trail Southeast and Trail East installed
+TOC MergedVanilla-EasternPeaks Patch.esp
+TOC MergedCH-EasternPeaks Patch.esp
+TOC MergedVanilla-ULMaster Patch.esp
+TOC MergedCH-ULMaster Patch.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -14566,6 +14684,18 @@ LilyvaleULcompatibility.esp
 LilyBATTLEHORNcompatibility.esp
 ROC+Lilyvale Patch.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+
+Tona's-Lilyvale Patch.esp
+Tona's-AFK-Lilyvale Patch.esp
+VHB-DLCBattlehorn-Lilyvale Patch.esp
+VHB-BattlehornUpgraded-Lilyvale Patch.esp
+VHB-AFK-Lilyvale Patch.esp
+VHB-DLCBattlehorn-AFK-Lilyvale Patch.esp
+VHB-BattlehornUpgraded-AFK-Lilyvale Patch.esp
+BattlehornUpgraded-Lilyvale Patch.esp
+BattlehornUpgraded-AFK-Lilyvale Patch.esp
+Hoarfrost-Lilyvale Patch.esp
+AFK_Weye-Lilyvale Patch.esp
 
 Millstone_Farm.esp
   IF CHECKSUM("Millstone_Farm.esp", 8BAB5B62) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -15143,6 +15273,7 @@ Armored Skeletons.esp
   TAG: {{BASH: Graphics, Relev}}
 Armored Skeletons (LL).esp
   TAG: {{BASH: Graphics, Relev}}
+Arrows_v1_2.esp
 
 As Intended - OOO Boars & Imps.esp
   TAG: {{BASH: Actors.Spells}}
@@ -15339,6 +15470,7 @@ CDM-Dogs.esp
 CDM-Shares and Salaries.esp
 CDM-Rats of Bravil.esp
 Chameleon_Ring.esp
+Change2HWeapons.esp
 Chapel Towers.esp
 Cheaper training x5.esp
 CHILDREN ANNUAD.esp
@@ -15481,6 +15613,7 @@ dhsRTentwithSorter.esp
   REQ: COBL.
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
+DJS_Realistic_Creatures.esp
 DoB10mins.esp
   SAY: Use only one DoB**mins.esp.
 DoB20mins.esp
@@ -15963,6 +16096,7 @@ NameReplacer-Clothing.esp
 Near100PercentArrowRecovery.esp
   SAY: Consider using Bash Patch tweaks instead.
 Nephs Increased Quest Gold.esp
+Nephs RHH Arena Raiments.esp
 Nephs Unique Thievery.esp
   TAG: {{BASH: Invent}}
 NewMerchantItems.esp
@@ -16258,6 +16392,7 @@ SoulGemCreation_ru.esp
 Statues.esp
 
 BEGINGROUP: Sexual Stuff
+All NPC Nude and Naked.esp
 BUDungeonCore.esp
 BUDequipment.esp
 BUDequipmentNA.esp
@@ -16288,6 +16423,7 @@ TamagoTopic.esp
 TamagoConfide.esp
 LoversTamagoClub.esp
 LoversEncounter.esp
+FuroTrapModEstrus.esp
 HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp
@@ -16307,6 +16443,7 @@ SMVtoyCross.esp
 SMVtoyImperial.esp
 Lovers.esp
 Lovers3dorgasm.esp
+Lovers3dorgasm2.esp
 Lovers3dorgasmMB2.esp
 LoversAdultYield.esp
 LoversBoxing.esp
@@ -16320,6 +16457,7 @@ LoversSetScale.esp
 LoversSoundCreature.esp
 LoversAphrodisia.esp
 LoversAphrodisiaHUD.esp
+LoversAphrodisia_HUD_1_0.esp
 LoversBCMSounds.esp
 LoversClubCats.esp
 LoversClubCatsSx.esp
@@ -16327,6 +16465,7 @@ LoversFSE.esp
 LoversGalgatBeastRape.esp
 LoversDRader.esp
 LoversHudInformation.esp
+LoversOrgy.esp
 LoversProstitute.esp
 LoversRapeman.esp
 LoversBCMSound.esp
@@ -16442,9 +16581,13 @@ LoversStopCombat.esp
 LoversBackup.esp
 LoversBackup2.esp
 LoversSkirtFlipper.esp
+LoversStalkerMN.esp
 LoversStopCombatEx.esp
+LoversStopKillRaper.esp
+LoverStopSweetDeath.esp
 LoversSTVictims.esp
 LoversSpermSplashEx.esp
+LoversSpermTrap.esp
 LoversSummonRapeman.esp
 LoversEscapeRapeVPlayer.esp
 LoversRapeSlave.esp
@@ -16452,11 +16595,13 @@ LoversRapeStruggle.esp
 LoversMagic.esp
 LoversMB.esp
 LoversMB2.esp
+LoversMotionsNT.esp
 LoversLight.esp
 LoversTrueCrime.esp
 LoversTrueCrimeEx.esp
 LoversSlaveTrader.esp
 LSTBravilUnderground.esp
+LoversSexKariBurne.esp
 LoversStupidNpc.esp
 LoversSurrender.esp
 LoversHVirus.esp
@@ -16496,6 +16641,7 @@ SexDarknessAmuletSlot.esp
 SexDarknessTailSlot.esp
 SexDarknessAmuletSlot.esp
 DarkBloodline.esp
+Vagina.esp
 ENDGROUP: Sexual Stuff
 
 Sheath2HandOnHip.esp
@@ -16863,6 +17009,7 @@ Unlimited Rings 1.0_ru.esp
 Unlimited Rings 2.0 -auto.esp
 undercover.esp
   IF CHECKSUM("undercover.esp", 757F1F42) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+UnleveledQuestRewards.esp
 Updated! Gem Price Fix_rus.esp
 upperGothicClutter.esp
   TAG: {{BASH: Graphics}}
@@ -16874,6 +17021,7 @@ BEGINGROUP: overrides V
 
 Valuable Gems and Silverware v1.0.esp
 Valued Gems.esp
+VanillaCombatEnhanced.esp
 VDust Causes Vampirism.esp
 vendorchest-fix.esp
 vendorchest-fix Shivering Isles.esp
@@ -16882,6 +17030,7 @@ vendorfreedom.esp
 Vincente Valtieri Imperial.esp
   TAG: {{BASH: Voice-M}}
 vn_goldweight.esp
+VCEClassOverhaul.esp
 ENDGROUP: overrides V
 
 BEGINGROUP: overrides W
@@ -17504,6 +17653,9 @@ Vampire Fire by Darkhart.esp
 The Vampire Experience.esp
 No Vampirism.esp
 Unholy Darkness.esp
+Vampire Blood Merchant.esp
+Vampires Drop Human Blood.esp
+Vampire Revolution.esp
 ENDGROUP: Vampires
 
 BEGINGROUP: Magic
@@ -17794,9 +17946,11 @@ training spells.esp
   SAY: DO NOT USE. This plugin is corrupt. It may be fixed by loading it in the CS and truncating the file when prompted.
 Transmutation Spell.esp
 Tylaars Multimark.esp
+(Un)Holy Heal.esp
 Unique Summons & Banish Flesh.esp
 Unload Inventory.esp
 Unlocking spell.esp
+UnnaturalAura.esp
 WaldelfsLevitation.esp
 WaldelfsLevitation_1C.esp
 Weatherspell.esp
@@ -17953,6 +18107,7 @@ FrostcragMidasLab.esp
 HM2_MIdas_Patch.esp
 CON-Werewolf-MidasPatch.esp
 
+Mighty for Midas.esp
 Mighty for Midas - Rational.esp
 MidasSpells_MM.esp
 Mighty Magick - Midas.esp
@@ -19245,6 +19400,7 @@ Slave in pose2.esp
 IntegratedAnimations.esp
 Idle Pose Replacer.esp
 Idle Stance Replacer.esp
+Kaizits New Animations NPC.esp
 actors_in_charge.esp
 ActorsInMadness.esp
 ActorsInEmotions.esp
@@ -19679,6 +19835,7 @@ ENDGROUP: Mixed
 
 CM Partners.esp
   IF CHECKSUM("CM Partners.esp", D1DE9617) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+CMPartnersDecrashification.esp
 
 BEGINGROUP: Race additions (+ hair + eyes etc)
 //''''''''''''''''''''''''''''''''''
@@ -19968,6 +20125,7 @@ Luchaire's Dryad Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
   SAY: Use 'for MMM' version if using MMM/FCOM.
 The Forgotten.esp
+GiantRace.esp
 The Southlanders.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 TheTangMo.esp
@@ -20227,6 +20385,7 @@ Feyri elves.esp
 FLAN - Enayla Demonic.esp
 REGEX: Dragorian and dranaugh( \(No Claws and Feet\))?\.esp
   SAY: Use only one Dragorian and dranaugh*.esp
+Flan - Forest Demon Race.esp
 flying argnian.esp
   REQ: OBSE
   REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked
@@ -20367,6 +20526,7 @@ ENDGROUP: From2ch Lives
 
 A Crudius Companion Orc.esp
 
+shinyFollowMe.esp
 shinyFollowMe_ru.esp
 
 TSS Custom Companion  Template.esp
@@ -20632,6 +20792,7 @@ RavenCM2.esp
 RoseCM.esp
 SarahCM.esp
   TAG: {{BASH: Hair}}
+TACMSpriggan.esp
 TACMTifaLovehart.esp
 TealcCM2partner.esp
   TAG: {{BASH: Graphics, Hair, NpcFaces}}
@@ -21351,6 +21512,7 @@ BEGINGROUP: Post Magicka Overhaul
 //'''''''''''''''''''''
 
 All Spells Avalible for Enchanting and Spell Making.esp
+BalancedMagic.esp
 Bound_Arrows_with_Bow.esp
 CzBuyToggleNightEye.esp
 cidnothump.esp
@@ -21510,6 +21672,7 @@ bgIntegrationEV Vwalk.esp
 Silverfish&bgIntegrationPatch.esp
 SilverfishFalls-IntegrationPatch.esp
 SilverfishFalls-ULSilverfish-Integration Patch.esp
+TopalsDeep-Integration Patch.esp
 Integration faces revamped.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 IntegrationTheStrandedLight-SilverfishRiverValley patch.esp
@@ -21617,6 +21780,7 @@ ENDGROUP: Better Cities
 BEGINGROUP: BC IC
 
 Better Cities - IC Imperial Isle.esp
+BC_Aristocrat_UL Patch.esp
 Better Cities IC Arboretum.esp
   TAG: {{BASH: C.Water}}
 Better Cities IC Arcane University.esp
@@ -21773,6 +21937,10 @@ Better Cities B&M - Unique Landscape Cheydinhal Falls.esp
   TAG: {{BASH: C.Water}}
 
 Better Abandoned House - BC_OBC_UL Patch.esp
+Better Cities - Alternative Start Arrive by Ship.esp
+Better Cities - MOBS.esp
+Better Cities - Origin of the Mages Guild.esp
+Better Cities - Reclaiming Sancre Tor.esp
 
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp
@@ -21850,6 +22018,7 @@ Better Cities - Oblivion Collectible Cards.esp
 Better Cities - Open Better Cities.esp
   TAG: {{BASH: Actors.AIPackages}}
 FCOM_BetterCities-Bravil.esp
+MercerIngredientsBC.esp
 RegionalFarms-BCPatch.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp
@@ -22966,6 +23135,7 @@ CybBPcompatibility.esp
 Creeper.esp
   IF CHECKSUM("Creeper.esp", 8A4423BA) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Maskar's Oblivion Overhaul.esp
+MercerIngredientsMaskarsOO.esp
 
 DynamicLeveledLists.esp
 
@@ -22981,6 +23151,9 @@ LoversIdleForceReset.esp
 LoversIdleAnimsPriority.esp
 LoversCreatureIdleAnimsPriority.esp
 LoversAnimObjectsPriority.esp
+
+Rustle House CBash Fix.esp
+  SAY: ONLY needed if you find the house basement flooded. This happens sometimes when using All Natural + CBash. Instead of using this fix you can alternately remove the "KhRHInterior" record from the Bash Patch each time you rebuild.
 
 Voice_Fix.esp
 

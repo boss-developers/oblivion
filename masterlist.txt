@@ -113,6 +113,7 @@ EnhancedWeather.esm
 EnhancedWeatherSIOnly.esm
   SAY: Obsolete. Remove this and install Enhanced Weather.
 All Natural Base.esm
+All Natural - Indoor Weather Filter For Mods.esm
 Francesco's Leveled Creatures-Items Mod.esm
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, Delev, Invent, NpcFaces, Relev, Scripts, Stats}}
   IF CHECKSUM("Francesco's Leveled Creatures-Items Mod.esm", 17F6FD1A) DIRTY: 6 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -130,6 +131,8 @@ Crafting Skill Engine.esm
 IF FILE("Retros Fletching and Imbueing 1.7.1_rus.esp") ERROR: Delete. Included in Retros Fletching and Imbueing 1.7.1_rus.esp
 HTSClight.esm
 NPC With Jobs.esm
+Better Mining.esm
+Jobs.esm
 CLS-ClassyClothes.esm
 Tamrielic Ingredients.esm
   SAY: Do not use Tamrielic Ingredients and COBL at the same time.
@@ -196,6 +199,7 @@ Hemingweys Capes Improved.esm
 Underwear HGEC Fighter.esm
 Underwear HGEC Normal.esm
 DremoraCompanion.esm
+Marriage.esm
 Romance Air.esm
 SewerExpansion.esm
 Kvatch Rebuilt.esm
@@ -370,6 +374,7 @@ ENDGROUP: ESMs
 BEGINGROUP: Earliest mods
 //-------------
 
+XBOX_Controller.esp
 rus_DotStudio_1.2_final.esp
 russian.esp
 ZoGRus.esp
@@ -1296,6 +1301,7 @@ Sunnier Weather.esp
 Sunnier Weather V1.esp
 LM_LongerNights.esp
 Remove Oblivion Sky in Tamriel.esp
+atmospheres.esp
 ENDGROUP: Weather mods and overhauls
 
 BEGINGROUP: Water and lava tweaks
@@ -1748,6 +1754,7 @@ Akatosh Mount Earn The Wyrm.esp
 Akatosh Mounts Reborn.esp
 AkaviriBattleCat.esp
   IF CHECKSUM("AkaviriBattleCat.esp", 63948B30) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ABCMifune6-1.esp
 AkaviriBattleCatQ.esp
 AkaviriWarDogV1.esp
 AkaviriWarDogV1_2.esp
@@ -1986,6 +1993,7 @@ CDM - Uderfrykte Matron Fix.esp
 
 Clamrespawn.esp
 
+Clocks Of Cyrodiil.esp
 ClocksOfCyrodiil.esp
   SAY: For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
   IF CHECKSUM("ClocksOfCyrodiil.esp", 06910C69) DIRTY: 46 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -2340,6 +2348,8 @@ Mage_Guild_Teleport_1C.esp
 MagesGuildPortalTowerV1.1.esp
 MagesGuildPortalTowerV1.2.esp
 Magicka.esp
+Marriage Patch.esp
+Marriage Store Profit.esp
 CParchmagetele.esp
 Medic!.esp
 Menu and Camera Toggler.esp
@@ -2349,6 +2359,8 @@ Mephaniel's More Ingredients.esp
 merchant chest fix.esp
 MG Recommendation Skip.esp
 MidnightRecharge.esp
+MigStatsCheck.esp
+  REQ: OBSE v18+, MenuQue, AddActorValues
 MIK_SummonCompanionRing_v1.0.esp
 Milt-SecretStorage.esp
 Milt-SecretStorage_ru.esp
@@ -2464,11 +2476,13 @@ Oblivion Collectible Cards.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Oblivion Collectible Cards.esp", AC9752E5) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OblivionOnline.esp
+OBSE Test Plugin.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
 Oscars_Nicer_Grass-3346.esp
 FullGrass.esp
 OSRCustom.esp
+Our Days & Months.esp
 ENDGROUP: Base O
 
 BEGINGROUP: Base P
@@ -2807,6 +2821,7 @@ Teleport Arrows.esp
 TenMillionGold.esp
 TESA Clutter Test Cell.esp
 The Death Note.esp
+The_Feast.esp
 The_Student_Mod.esp
 The White Stallions.esp
 the secret black market.esp
@@ -2920,11 +2935,10 @@ ENDGROUP: Base W
 
 BEGINGROUP: Base XYZ
 
-XBOX_Controller.esp
 XG Teach.esp
 Xia_Nhary_TwilightAssassin.HGEC1.1Normal.esp
 XTS-Merchant-Mod-V1.0.esp
-
+YourMotherWasAHamster.esp
 ZariAlchemistsRing.esp
 Zedar.esp
 Ziegbook.esp
@@ -3286,6 +3300,7 @@ Streamline 3.0.esp
 Streamline 3.1.esp
 Streamline_3.1.esp
 streamline.311.esp
+Streamline 3.1_1.esp
 SummonMerchantSpell.esp
 3 Alternative Stories.esp
 Synchronized Date and Time.esp
@@ -3556,6 +3571,7 @@ Bab.esp
 Bodybuilder Body.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F}}
 Body_replacer.esp
+DMRA Dremora Females.esp
 EVE_StockEquipmentReplacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
   SAY: For Vanilla, do not use with OOO/MMM/FCOM, use that version instead.
@@ -3683,6 +3699,7 @@ AAbuiesdaqun.esp
 ABC.esp
 ACCR5055.esp
 ACCW50.esp
+AC_ALCHEMY_Bangle-A66.esp
 AC_SarumanStaff.esp
 AC Stock Armor.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
@@ -3922,6 +3939,7 @@ ARTICA RAZOR ICMS by_venom91.esp
 Arynns-Heavenly-Sword_hottest.esp
 ArynnsDrowQueen2.0.esp
 Assassins_set.esp
+Assassin's Tools COMPLETED.esp
 Angeleron.esp
 Ageha Tortured Soul HGEC.esp
 AGEHA Tortured Souls.esp
@@ -6253,11 +6271,15 @@ ENDGROUP: RealSwords
 Mage Equipment.esp
   SAY: Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
   SAY: If using Mage Equipment Lite load after SRT.
+  IF CHECKSUM("Mage Equipment.esp", 60C24030) DIRTY: 0 ITM, 23 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: Graphics, Invent, Relev, Delev, Stats}}
 Mage Equipment - No Manni.esp
   SAY: Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
   SAY: If using Mage Equipment Lite load after SRT.
 Francesco's Mage Equipment.esp
   SAY: Use either this or Mage Equipment, but not both. Franseco's leveled creatures/items mod.
+MEQ_NakakitaPatch.esp
+  TAG: {{BASH: Graphics, NoMerge}}
 
 //To be alphabetically sorted sometime.
 
@@ -7269,11 +7291,13 @@ Cobl Si.esp
   REQ: Shivering Isles expansion.
 FF_Real_Thirst, Cobl.esp
   SAY: Don't use with vampire mods.
+Cobl Mort Demo.esp
 Cobl Tweaks.esp
   IF VAR(FCOM) ERROR: Delete. Already included in 'FCOM_Cobl.esp' or latest "MMM_Cobl.esp".
 Cobl Tweaks - SI.esp
 Cobl Tweaks - Vanilla.esp
 Cobl Patch - Hunger Tongue.esp
+Cobl Patch - Silent Misc Item Equip.esp
 COBL-FransCre.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
   REQ: COBL and Fran's.
@@ -7326,8 +7350,6 @@ Oblivion WarCry EV.esp
   IF VERSION("Oblivion WarCry EV.esp", "1.09", <) TAG: Remove [Actors.DeathItem] tag for version 1.08 and below. More info("http://u.to/PCQMAg")
   IF VAR(FCOM) REQ: either 'FCOM_WarCry.esp' or 'FCOM_WarCryNoSpawn.esp'.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
-MercerIngredientsCore.esp
-MercerIngredientsMerged.esp
 More Effective Enchantments WarCry EV.esp
 FCOM_WarCry.esp
   TAG: {{BASH: Delev, Relev, Stats}}
@@ -7410,7 +7432,6 @@ OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
   TAG: {{BASH: Stats}}
 OOO-LightOfDawnFlamesWhenDrawnOBSE_1handed.esp
 Oscuro's_Oblivion_Overhaul - No Daedric Items.esp
-MercerIngredientsOOO.esp
 ENDGROUP: OOO full and lite.
 
 BEGINGROUP: Post OOO
@@ -8310,6 +8331,7 @@ Mart's Monster Mod - Hemingwey Capes Addon.esp
 Mart's Monster Mod - No Ghostly Appariation.esp
 Mart's Monster Mod - Diverse Creatures Expansion.esp
 Mart's Monster Mod - RadiantAITweaks.esp
+Mart's Monster Mod - More Passive Wildlife.esp
 Mart's Monster Mod - Mummies.esp
 Mart's Monster Mod - FatBellyMinotaurs.esp
 
@@ -8335,6 +8357,7 @@ Cobl Tweaks - OOO Mergeable.esp
 Cobl Tweaks - OOO.esp
 Cobl Patch - MMM Gems and Gem Dust.esp
   TAG: {{BASH: Delev, Invent}}
+Cobl Tweaks - FCOM.esp
 
 //Not misplaced. Please don't move.
 WAC - ItemLootFix4v1.0bTIE.esp
@@ -8478,6 +8501,7 @@ Atmospheric Oblivion - OOO Patch.esp
 FineWeapons for OOO.esp
 Fransfemale.esp
   TAG: {{BASH: Graphics, NoMerge}}
+Invisible Jaguar Fix.esp
 Jade Dishes for MMM - HnC.esp
   REQ: original Jade Dishes mod.
 LoadingScreens_OOO.esp
@@ -8599,6 +8623,9 @@ Plate Armor Plus - OOO_FCOM_version.esp
 
 TGND - OOO.esp
   TAG: {{BASH: Graphics, NoMerge}}
+MercerIngredientsCore.esp
+MercerIngredientsMerged.esp
+MercerIngredientsOOO.esp
 MercerIngredientsMMM.esp
 ENDGROUP: Additional MMM OOO Patches
 
@@ -8893,6 +8920,8 @@ BEGINGROUP: Morroblivion
 //No load order advice available AFAIK so put after overhauls but before overrides for now. If it doesn't work, group can be moved.
 
 Chairs_Stools_Benches.esp
+Morrowind_ob.esp
+  SAY: DO NOT CLEAN
 Morroblivion_Chargen_And_Transport_Mod_v6.esp
   SAY: Obsolete. Upgrade to version 7+
 Morroblivion_Chargen_And_Transport_Mod_v7.esp
@@ -8910,6 +8939,7 @@ MorrowOblivion_Eloth Soulgem Replacer.esp
 MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 MorrowOblivion_World Transport.esp
 Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
+Morrowind_ob - Chargen and Transport Mod.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v9.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v10.esp
@@ -9405,6 +9435,7 @@ Archery Shops 2.0 no LL.esp
 Archery Shops 2.0.esp
 Archery Shop.esp
 ArcheryShop_02.esp
+Arcturusfinal.esp
 Arboretum Bathhouse.esp
 Arboretum Bathhouse Variety.esp
 Areala.esp
@@ -10202,7 +10233,7 @@ Dungeons.esp
 Dungeons of Blackwood.esp
 [Keias]Dungeon Of Chaos.esp
   IF CHECKSUM("[Keias]Dungeon Of Chaos.esp", 34D47392) DIRTY: 25 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-
+Dungeons of Tamriel.esp
 DarkDale.esp
 ENDGROUP: Quests D
 
@@ -10817,6 +10848,7 @@ Jason1_Pirate Ship.esp
 jauOgreRide.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
+Jobs Patch.esp
 JolardHome.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats}}
 JQ-AssassinQuest.esp
@@ -11143,6 +11175,7 @@ MagicTavern.esp
 Malus-Pumila Mansion.esp
 Martin.esp
   IF CHECKSUM("Martin.esp", D12C13F3) DIRTY: 138 ITM, 229 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+MasterQuestDungeon.esp
 MSHaddon-cobl.esp
 MSHaddon-SI.esp
 MSHaddon-Akatosh Mount Pad.esp
@@ -13953,6 +13986,7 @@ Unique Landscapes - Dark Forest DV.esp
 LostSpires-DarkForest patch.esp
 DBOO - UL DarkForest.esp
 WAC-ULdarkforest-patch.esp
+Qarl's Harvest - XulDarkForest patch.esp
 
 Silverfish.esp
 
@@ -14056,6 +14090,7 @@ WAC-ULchorrolhinterland-patch.esp
 BattlehornUpgraded-ChorrolHinterland Patch.esp
 Lindum-ChorrolHinterland Patch.esp
 Lindum-BloodRaven-Hinterlands Patch.esp
+Qarl's Harvest - XulChorrolHinterland patch.esp
 
 xulBeachesOfCyrodiilLostCoast.esp
   SAY: Make sure version is 1.6.3 or later.
@@ -14272,6 +14307,7 @@ ColdstoneTown-ArriusCreek patch.esp
 CountryHome-ArriusCreek patch.esp
 HelmsDeep-ArriusCreek patch.esp
 LostSwordoftheAyleids-ArriusCreek patch.esp
+OblivionJobs-ArriusCreek Patch.esp
 OWCND - UL Arrius Creek Patch.esp
   IF CHECKSUM("OWCND - UL Arrius Creek Patch.esp", 7EC34CF0) DIRTY: 13 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Dschinni - UL Arrius Creek Patch.esp
@@ -15290,6 +15326,8 @@ ANB_Portable_Stool.esp
 andoran_skooma1.2.esp
 Animal_Resize_and_Attitude_Adjustment-3385.esp
 Anvil_MorningGlory_Mixed.esp
+ApparatusIcons.esp
+  TAG: {{BASH: Graphics, NoMerge, Deactivate}}
 Arena Agronak always aggressive.esp
 ArenaLootAllow v1.2.esp
 Arena No Raiment.esp
@@ -15337,6 +15375,7 @@ Book Placement v2.esp
 AutoBookPlacer_v2.esp
   SAY: Update to v3 or later.
 Automatic Difficulty Increaser.esp
+Auto Attempt Lock Picking.esp
 Auto Potion.esp
 Auto Potion Homebrew.esp
 Auto Repair.esp
@@ -15520,6 +15559,7 @@ CHILDREN ANNUAD.esp
   IF CHECKSUM("CHILDREN ANNUAD.esp", A1037430) DIRTY: 57 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 City Gates v1.1.esp
 city-swimmer.esp
+CL_Tools+Clutter.esp
 clean mjy castle with key quest v1.1.esp
 clean mjy castle free v.2.esp
 Clean Spellbook.esp
@@ -16088,6 +16128,7 @@ Masters Alive.esp
 master_essentials.esp
 Madhs working training dolls.esp
 marcQuickChar.esp
+Maxed Leveled Items.esp
 MarkerExplore.esp
 Merchants Inn Room.esp
 Mg_Global Item Mod.esp
@@ -16350,6 +16391,7 @@ REDrinks.esp
   TAG: {{BASH: Graphics}}
 Red's Weightless Arrows.esp
 Regional Legion Soldiers by Ionis.esp
+Relevant Scrolls and Potions.esp
 ReneerNPCSneakMod.esp
 Repair Anytime-9384.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch Tweak Combat Repair [Allowed] instead.
@@ -17457,6 +17499,7 @@ Carry More, (10).esp
 Carry More, (15).esp
 Carry More, (20).esp
 LooterWeightMod.esp
+LooterWeightMod-Light.esp
 kuerteeEncumberingLootArmourAndWeapons.esp
 NoEncumberedSwimming.esp
 Realistic Zero-Weight Items.esp
@@ -17488,6 +17531,7 @@ Vim_and_Vigor_H2H_rus.esp
 Vim_and_Vigor_Alcohol.esp
 Vim_and_Vigor_Alcohol_rus.esp
 AkaviriKojimaVimVigor.esp
+FFVV_OOO_Birthsigns.esp
 
 Fatigue Adjustment.esp
 M.O.E. - Fatigue Loss from Running.esp
@@ -17662,6 +17706,7 @@ LessFrequentVampirismComments.esp
 LithiansVampEyes.esp
 Vampire Hunters Tools.esp
 CDM - Vampirism.esp
+Civil Vampire Simplified.esp
 GW71_VampireRealism.esp
 Hunter's Sight Toggle.esp
 Hothead's Vampires.esp
@@ -17757,6 +17802,7 @@ always protection.esp
 Apprentice Mystic.esp
 Arcane Calendar.esp
 Attribute_Spells_Fix-2433.esp
+Auto Repair and Auto Recharge Ring.esp
 Ayleid Chain Shock.esp
 Ayleid Expansion.esp
   SAY: Suspected of messing up your magicka multiplier.
@@ -17959,6 +18005,7 @@ Recharge Spell.esp
 Recharge Spell - Easy.esp
 Remote Life Detect.esp
 Remove Extra Data.esp
+Replenish Quiver.esp
 RestoreAllAttributesSpell.esp
 Resurrect.esp
 Resurrection-5159.esp
@@ -18088,6 +18135,7 @@ Mighty Magick Mod Upgrades.esp
 Alter Weight Spells - MM.esp
 Chaos Spells - MM.esp
 Mighty Magick - Restore Magicka Potions [OOO].esp
+Mighty Magick - Restore Magicka Potions (OOO).esp
 Improved_Ancestor_Guardian_Mighty_Magick_Version.esp
 Diverse Effect Icons for MM.esp
 Diverse Effect Icons for MM-Reborn.esp
@@ -18817,6 +18865,8 @@ Oss133FrameRateOptimizer.esp
 Realistic Arrow Flight.esp
 Add-on for Ambidextrie.esp
 seph dual wield.esp
+Simple Dual Wielding.esp
+  REQ: OBSE 20+, NifSE 1.0
 exhDual_Wield_Complete.esp
 arrwspanddmgfix.esp
 More_Arrows_Recovered.esp
@@ -19271,6 +19321,8 @@ SDR Perks And Patches - Oblivion.esp
   SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
 SDR_Perks And Patches (Oblivion).esp
   SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
+SDR_Trip Wire Pressure Plate Patch [Oblivion].esp
+SDR_Trip Wire Pressure Plate Patch [Nehrim].esp
 
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
@@ -19704,6 +19756,7 @@ Different Script Effect Icon - Vampirism.esp
   TAG: {{BASH: Graphics}}
 ScriptEffectIconReplace.esp
   TAG: {{BASH: Graphics}}
+MOBSification of Mods.esp
 M.O.E. - Better Icon for Script Effects.esp
   TAG: {{BASH: Graphics}}
 SciptIcon Replacer.esp
@@ -19736,6 +19789,7 @@ Vanilla_Race_Overhaul.esp
 All vanilla races and eyes unlocked (SI included).esp
 Cazy Hairs.esp
   TAG: {{BASH: Hair}}
+Coolsims627.esp
 UnlockedHairs.esp
 Fiok Vanilla Hairs Fixed.esp
   TAG: {{BASH: Hair}}
@@ -20186,6 +20240,7 @@ Dremora.esp
 M.O.E. - Playable Dremora and Custom Race Fix.esp
 Dremora Race Playable.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Better Looking Dremora Playable.esp
 Dremora Race with Tail.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 DremoraFemales.esp
@@ -21407,6 +21462,7 @@ Colourwheels Sexy Oblivion OverHaul.esp
   IF CHECKSUM("Colourwheels Sexy Oblivion OverHaul.esp", 344CC9FE) DIRTY: 112 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IF FILE("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clothing and Armor Replacer.esp
   TAG: {{BASH: Graphics}}
+DMRA BBB Total Replacer Compilation.esp
 CWRaceFix.esp
 MTCExpandedVillages-Colourwheels Sexy Overhaul Patch.esp
 PlomsOrcOverhaul v1.2.esp
@@ -21427,6 +21483,7 @@ BulkyOrcs.esp
 Cuter Khajiit Faces V01.esp
 EVE_KhajiitFix.esp
   TAG: {{BASH: Body-F, Body-Size-F}}
+Hotter Orc Women.esp
 Khajiit Fix.esp
   TAG: {{BASH: Body-F, Body-Size-F}}
 khajiittextfix.esp
@@ -21491,6 +21548,8 @@ Slof's Better Bodies.esp
   INC: Non-Robert's body mods, Slof's Oblivion Better Beasts.esp (included in this), Improved Facial Textures, Facial Textures by Enayla, Cobl Races Resource and Luchairs HGEC body seam reducer.
 Oblivion_Character_Overhaul.esp
   TAG: {{BASH: Eyes, NpcFaces, R.Head, R.Mouth}}
+Oblivion_Character_Overhaul Vwalk.esp
+OCO v2 Balanced - Bonus Races Only.esp
 Jjiinx_Long Ears.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp
@@ -21761,6 +21820,7 @@ Integration faces revamped.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 IntegrationTheStrandedLight-SilverfishRiverValley patch.esp
 IntegrationTheStrandedLight-EasternPeaks patch.esp
+IntegrationIntegratedTheStrandedLight-EasternPeaks patch.esp
 RBP+OCO patch.esp
 ENDGROUP: BG Integration quest
 
@@ -22096,6 +22156,8 @@ Better Cities and IC Swalk.esp
 Better Cities and IC Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 
+Better Cities - Leyawiin Flooded.esp
+  TAG: {{BASH: C.Water}}
 Better Cities - No LEYAWIIN Flooding.esp
   TAG: {{BASH: C.Water}}
 Better Cities - Oblivion Collectible Cards.esp
@@ -22115,6 +22177,7 @@ Oblivifall - Losing My Religion BC Full B&M.esp
 Oblivifall - Losing My Religion BC Full.esp
 Oblivifall - Losing My Religion BC Leyawiin.esp
 Oblivifall - Losing My Religion BC Skingrad.esp
+Qarl's Harvest - Full BC+UL patch.esp
 SMChorrol - BC Patch.esp
 ENDGROUP: BC Compatibility patches
 
@@ -23184,6 +23247,7 @@ Wrye Morph-See You Sleep.esp
 ShowRaceMenu StatsFix.esp
 The Big Merger.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, Names, Invent, Stats, Relations, Factions, Delev, Relev, Actors.ACBS, Actors.Stats}}
+OblivionReloaded.esp
 ENDGROUP: Pre Bash
 
 BEGINGROUP: Bashed Patch

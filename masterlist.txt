@@ -447,6 +447,7 @@ Underdark v1.1 Delayer.esp
 tes4-CHS-main.esp
   TAG: {{BASH: Names}}
 Icon Overhaul.esp
+ITA - FoT & Hexaae R3.esp
 ENDGROUP: Earliest mods
 
 BEGINGROUP: NPC face mods
@@ -3717,6 +3718,7 @@ Adonnays Classical WeaponryRU.esp
 Adonnays Klassische Waffen.esp
 Adonnays Elven Weaponry.esp
   IF CHECKSUM("Adonnays Elven Weaponry.esp", 8A72E5F4) DIRTY: 4 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Adonnays Elfishe Waffen.esp
 Adonnays Elven Weaponry for NPCs.esp
 Adonnays Elven Weaponry for NPCs - Vanilla placement.esp
 Adonnays Elven Longblades.esp
@@ -13387,6 +13389,7 @@ BrewHouse.esp
   SAY: Use v1.5 or later to avoid extensive compatibility issues.
 
 LegionOutposts.esp
+GoldenCrest-LegionOutposts Patch.esp
 Kragenirs-LegionOutposts Patch.esp  
 MehrunesFel.esp
 Daedric Shrine Ruins.esp
@@ -13640,7 +13643,9 @@ MTCThievesGrottoV4.1.esp
 MTCThievesGrottoV4.1 Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 LegionOutposts-ThievesGrotto Patch.esp
+GoldenCrest-LegionOutposts-ThievesGrotto Patch.esp
 Kragenirs-LegionOutposts-ThievesGrotto Patch.esp
+LegionOutposts-Walkabout-ThievesGrotto Patch.esp
 Aspirias Fluch.esp
   INC: The Unique Landscapes mods.
   IF CHECKSUM("Aspirias Fluch.esp", 46503B81) DIRTY: 16 ITM, 132 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -14447,6 +14452,7 @@ TearsOfTheFiend-CheydinhalFalls patch.esp
 KvatchRebuilt-CheydinhalFalls patch.esp
   IF CHECKSUM("KvatchRebuilt-CheydinhalFalls patch.esp", DCE9A024) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 KvatchRebuilt-CheydinhalFalls patch DV.esp
+DBC-CheydinhalFalls Patch.esp
 CastleRavenpride-CheydinhalFalls patch.esp
 CastleRavenprideDV-CheydinhalFalls patch.esp
 DungeonsOfIvellon-CheydinhalFalls patch.esp
@@ -14747,6 +14753,9 @@ ROC+Fort Akatosh Redux.esp
 ROC-Midland-Vergayun-FAR patch.esp
 Midland-Vergayun-FAR patch.esp
 LegionOutposts-FortAkatosh Patch.esp
+LegionOutposts-Walkabout-FAR Patch.esp
+LegionOutposts-ThievesGrotto-FAR Patch.esp
+LegionOutposts-Walkabout-ThievesGrotto-FAR Patch.esp
 Fort Akatosh Redux Bottomless Cavern Patch.esp
 Cyrodiil Legion Addon.esp
   TAG: {{BASH: Names}}
@@ -15422,6 +15431,7 @@ Banes Guilds United OMG patch.esp
 Banes Guilds United Stalhrim Village patch.esp
 Banes Guilds United Integration patch.esp
 Banes Guilds United LAME patch.esp
+Barter Gold Mod-9287.esp
 
 Better_Amelion_Gear.esp
 betterArena.esp
@@ -16628,6 +16638,7 @@ LoversLoveMucus.esp
 LoversMagicEx_0_1.esp
 LoversNecrophilia.esp
 LoversPayBandit.esp
+PSE-PayBandit-Patch.esp
 LoversPower.esp
 LoversUtilityFunctions.esp
 LoversBeatemUpS.esp
@@ -19566,6 +19577,7 @@ Slof's Sexy Anims_rus.esp
 Specialanims.esp
 Steeltooth_Playeranimations.esp
   TAG: {{BASH: Actors.Anims}}
+tbskImproveHandtoHandAnimation.esp
 The Uguu Poser.esp
 TmeppExtendedAcro.esp
 TNR and BBB all Women Player.esp
@@ -20187,6 +20199,9 @@ _Ren_BeautyPack_full_-_1.1_DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
 _Ren_BeautyPack_full_-_DV_Eshme_Compatible.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+Ren_Beauty_Pack_Expanded_Compilation.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics}}
+  REQ: Shivering Isles
 Ice Elves and Wolf Elves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Exnem1 Moonwell and Mystic Night Elf.esp
@@ -21549,6 +21564,7 @@ Slof's Better Bodies.esp
 Oblivion_Character_Overhaul.esp
   TAG: {{BASH: Eyes, NpcFaces, R.Head, R.Mouth}}
 Oblivion_Character_Overhaul Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 OCO v2 Balanced - Bonus Races Only.esp
 Jjiinx_Long Ears.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
@@ -22568,6 +22584,8 @@ OblivionRealTimeV11.esp
 Combat Timescale x0.5.esp
 Combat Timescale x0.5 v1.0.esp
 DynamicTimescale.esp
+Dynamic TimeScale.esp
+  REQ: OBSE v15+, You are Here v1.1-
 Syc_LongerDaysShorterNights.esp
   SAY: Possible to use with 'Syc_LongerNightsforVampires.esp'
 Syc_LongerNightsforVampires.esp
@@ -23077,6 +23095,7 @@ SM_DeadlyReflex5.esp
 Enhanced Grabbing - Unnecessary Violence Liaison.esp
 
 Falling Leaves.esp
+Falling Leaves - UL LushWoodlands Patch.esp
 
 Real Hunger, Cobl.esp
   SAY: Realistic hunger mods and vampire mods may conflict seriously.

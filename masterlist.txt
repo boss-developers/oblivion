@@ -307,6 +307,7 @@ Brothel of Cyrodiil.esm
 RaceFrameWork.esm
 Race-Lattamerv3.esm
 SDR.esm
+  REQ: sdr.dll
 Tabaxi_Race_Default.esm
 Tabaxi_Race_BAB_Robert.esm
 x117race.esm
@@ -325,6 +326,7 @@ IDKRRR_C_race_closed_mouth_version.esm
 All Shapes And Sizes 1.0.esm
 X.Dryads.GotF.esm
 X.Races.Comp.esm
+Races Collection.esm
 TIE4MODS.esm
 Portal.esm
 CustomSpellIcons.esm
@@ -2438,6 +2440,8 @@ Named Fighter's Guild Porters.esp
 NBB.esp
 Necromancer Mount.esp
 Necromancer Mount - Alternative Version.esp
+NR500.esp
+  REQ: OBSE 15+
 Newbie_Chest-1886.esp
 New Sheoth Palace LOD Fix 1.0.esp
 New Potions by Tealpanda.esp
@@ -2846,6 +2850,8 @@ Treasure Hunt.esp
   IF CHECKSUM("Treasure Hunt.esp", 4FD118F2) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TreasureHunt.esp
 TreasureChest.esp
+TreasureChest - Hard.esp
+  REQ: OBSE 14+
 TreasureChest - MMM.esp
   SAY: For MMM or MMMforFran , do not use with TreasureChest - OOO/FCOM.esp.
 TreasureChest - OOO.esp
@@ -4345,6 +4351,7 @@ DarkLeatherArmor.esp
 Dark Mithril Armour.esp
   TAG: {{BASH: Invent}}
 DarkMonkRobe.esp
+DarkFlameRing.esp
 Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
@@ -4819,6 +4826,7 @@ Immersive Weapons.esp
 Imperial Guard Cuirass.esp
 Imperial Legion Light Armor.esp
 Imperial Legion Scout Armour.esp
+ImperialPlateRedux.esp
 impguardpalkey.esp
 Insanity's Kill Bill Katanas.esp
   TAG: {{BASH: Invent}}
@@ -4933,6 +4941,7 @@ Knight of Order Armor.esp
 Knight of Skeleton.esp
   IF CHECKSUM("Knight of Skeleton.esp", 79E857E0) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 KnightSlayerSet2.esp
+KnightsOfTheThornArmor.esp
 Kodachi Swords.esp
 KohdiBladesofAnkewan.esp
 KohdiBladesofAnkewan Delayer.esp
@@ -6007,6 +6016,7 @@ VampireCurePotions 1.0.esp
 Vampirepotions_MRCHAINSAW_.esp
 Vampiria.esp
 VCTestRing.esp
+Veil and Dress.esp
 vermillionandsilverthorn.esp
 Villain's Arsenal.esp
 Vin Swords.esp
@@ -8989,6 +8999,7 @@ Enhanced Quest Roleplaying.esp
   IF CHECKSUM("Enhanced Quest Roleplaying.esp", 1D1C58B3) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Enhanced Quest Roleplaying - OOO.esp
 Enhanced Quest Roleplaying - FCOM.esp
+Devastation of Kvatch.esp
 
 //Must load before Better Benirus Manor.esp
 Ghorak's House.esp
@@ -9384,6 +9395,7 @@ An Unexpected Company.esp
 AnavirsPool.esp
   IF CHECKSUM("AnavirsPool.esp", 3ADED84A) DIRTY: 115 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Anvill Abandoned House v1.esp
+Anvil Abandoned House Remade.esp
 AnvilBayExpansion.esp
   INC: Better Cities. Already included in Better Cities Anvil.
   INC: Open Cities Reborn.
@@ -10163,6 +10175,7 @@ delivery_job - OAG.esp
 Delivery Job - BC.esp
   SAY: Must deactivate delivery_job.esp if using it. This ESP replaces that file.
   SAY: Obsolete: Now integrated with Better Cities 4.6+. Update and delete this plugin.
+DivineEleganceEnglishV.esp
 DJZ Archmage's Study.esp
 DJ Markov Manor.esp
   IF CHECKSUM("DJ Markov Manor.esp", 6CB134C6) DIRTY: 245 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -11913,6 +11926,7 @@ Simple Cabin.esp
 Simple Life - Antus Family.esp
 SingingStablehandInn.esp
 Serene Cabin.esp
+Settlement of Tanis.esp
 skingrad guild castle upgrade.esp
 SkingradHoleInTheWall.esp
 SkingradHouseAdds.esp
@@ -12190,6 +12204,8 @@ Ayleid Respawn v1.0 - For The Ayleid Steps.esp
 TGInheritEarlOfImbelsICHouse.esp
 The Below.esp
 The Black Cat Jewelry Store - Daedric Statues.esp
+The gilded carafe.esp
+Tiberseptimhotel.esp
 Tiber Septim Hotel.esp
 Black Marsh.esp
 The Black Marsh_Snake Head Island.esp
@@ -15112,6 +15128,7 @@ RST+OCC Patch.esp
 OCC+DBC Patch.esp
 OCR+DBC Patch.esp
 OCR-TAC Patch.esp
+SnowyRoad-OpenCities Patch.esp
 
 SB Open Cities Add-on - Top of the Tower Mod v2.0.esp
 SB Open Cities Add-on - Lynges Top Of The World v1.1.esp
@@ -15759,6 +15776,7 @@ BEGINGROUP: overrides E
 E0ThievesGuildFence-Low.esp
 E0ThievesGuildFence-Medium.esp
 E0ThievesGuildFence-High.esp
+EasierSpeechcraftTrainingQuest.esp
 ecatSmartBookshelf.esp
 Elys Invest More.esp
 em_extrabedLeyaw.esp
@@ -16222,6 +16240,7 @@ No Glow Grass - Shorter.esp
 No Glow Grass - Faster and Shorter.esp
 NoLoadingMessage.esp
 NoMoreGuardsWithBowsv1.2.1.esp
+No Player Combat Groaning.esp
 No More Quest Items-4810.esp
 Andrews_No_Quest_Items-6729.esp
 No Quest Items.esp
@@ -16457,6 +16476,7 @@ Retros Fletching and Imbueing 1.71.esp
 Retros Fletching and Imbueing 1.7.1_rus.esp
   SAY: May not be compatible with MMM crafting - untested.
 ReteroX_OBEvilSkeletons.esp
+Retroactive Fatigue Regeneration.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
 RingRobeHGEC.esp
@@ -17190,6 +17210,7 @@ zzzChangeAbleArmor.esp
 zzzChageAbleSpells.esp
 zzzChangeAbleWeapon.esp
 zzzDarkHelloTopic.esp
+zzzDetectionSpells.esp
 zzzHuntingUnlimited.esp
 zzzLetMeGoAway.esp
 zzzNpcAIEnhanced.esp
@@ -18587,7 +18608,9 @@ pmSkoomaDeals.esp
 Sneak Effectiveness Enhancement.esp
 Realistic Sneak for NPCs.esp
 SDR_Detect Life Shader Patch [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2 
 SDR_Perks And Patches [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 Sneak Based Senses.esp
 Stalk'em.esp
 StolenItemOwnership.esp
@@ -18734,7 +18757,6 @@ WR OotG Addon.esp
 WR Villages Addon.esp
 GuildBetrayal.esp
 RegionalBounty.esp
-RenGuardOverhaul_PatchForSDR.esp
 
 FameAndInfamyAnnouncer.esp
 FameAndInfamyAnnouncerBountyDeduct.esp
@@ -19279,21 +19301,19 @@ ProgressMercantile.esp
 Progress - RacialAdvancement.esp
 JCN_AV Uncap.esp
 Sneaking Detection Recalibrated.esp
-  IF VERSION("Sneaking Detection Recalibrated.esp", "4.0", =) && IFNOT FILE("AddActorValues.dll") REQ: "AddActorValues.dll"
-  SAY: Deprecated. Upgrade to newest version, replaced by SDR.esm
+  SAY: Obsolete. Upgrade to version 8.2, replaced by SDR.esm
 SDR Compatibility Patches.esp
-  IF VERSION("Sneaking Detection Recalibrated.esp", "4.0", =) SAY: Deprecated. Do not use with v4.0+ of Sneaking Detection Recalibrated.
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Core.esp
-  REQ: "SDR_obse.dll", "AddActorValues.dll", "OBSE"
-  SAY: Deprecated. Upgrade to newest version, replaced by SDR.esm
+  SAY: Obsolete. Upgrade to version 8.2, replaced by SDR.esm
 SDR_NPC Behavior.esp
-  IF VERSION("SDR_Core.esp", "=4.5.0", >) SAY: Deprecated. Do not use with v4.5.0+ of Sneaking Detection Recalibrated.
-  INC: SM Combat Hide, which is included in this plugin.
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_ThievesArsenal_Patch.esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Detect Life Shader Patch (Oblivion).esp
-  SAY: Deprecated. Upgrade to newest version, replaced by SDR_Detect Life Shader Patch [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Detect Life Shader Patch (Nehrim).esp
-
+  SAY: Obsolete. Upgrade to SDR version 8.2
 PureImmersion.esp
 piHealth5x.esp
 piHealthVanilla.esp
@@ -19326,15 +19346,18 @@ Oblivion XP Character Generation.esp
 //These two need to load after Oblivion XP.esp.
 SDR Perks And Patches - Nehrim.esp
   ERROR: Use the Oblivion version.
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Perks And Patches (Nehrim).esp
   ERROR: Use the Oblivion version.
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR Perks And Patches - Oblivion.esp
-  SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Perks And Patches (Oblivion).esp
-  SAY: Deprecated. Upgrade to newest version, replaced by SDR Perks and Patches [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Trip Wire Pressure Plate Patch [Oblivion].esp
+  SAY: Obsolete. Upgrade to SDR version 8.2
 SDR_Trip Wire Pressure Plate Patch [Nehrim].esp
-
+  SAY: Obsolete. Upgrade to SDR version 8.2
 GalerionLeveling-v11.esp
 All+5AttributeModifiers.esp
 
@@ -21692,6 +21715,9 @@ qazSpellbook.esp
 Recastable Summons.esp
   IF CHECKSUM("Recastable Summons.esp", 970CACD1) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 sr_casting_time.esp
+SDR_Oblivion.esp
+SDR_Nehrim.esp
+RenGuardOverhaul_PatchForSDR.esp
 TML_SummonsUnlocked.esp
 Tougher Magic Settings v1.1.esp
 AlternativeOblivionMagicSystem.esp
@@ -22132,6 +22158,7 @@ Better Cities - Werewolf-Legends.esp
 BlackcatJewelry-SkingradOutskirts-BC Patch.esp
 IslandPalace-BetterCities Patch.esp
 IslandPalace-LostCoast-BCF Patch.esp
+SnowyRoad-BetterCities Patch.esp
 LegionOutposts-BCFullPatch.esp
 Kragenirs-LegionOutposts-BC Patch.esp
 
@@ -22182,6 +22209,7 @@ Better Cities - Open Better Cities.esp
 FCOM_BetterCities-Bravil.esp
 MercerIngredientsBC.esp
 RegionalFarms-BCPatch.esp
+
 
 Oblivifall - Losing My Religion BC Anvil.esp
 Oblivifall - Losing My Religion BC Bravil B&M.esp
@@ -22970,7 +22998,7 @@ bgMagicEVNoSpellLight.esp
 bgMagicEVNoSummonGlow.esp
 
 SDR_Detect Life Shader Patch [Oblivion].esp
-
+  SAY: Obsolete. Upgrade to SDR version 8.2
 qazFingerSnap.esp
 Finger Snap.esp
 
@@ -23299,7 +23327,7 @@ BEGINGROUP: Post Bashed Patch
 //-----------------
 
 SDR Perks and Patches [Oblivion].esp
-
+  SAY: Obsolete. Upgrade to SDR version 8.2
 CybBPcompatibility.esp
 Creeper.esp
   IF CHECKSUM("Creeper.esp", 8A4423BA) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"

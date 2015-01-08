@@ -1506,6 +1506,8 @@ Drum_Fix.esp
 NoPlayerGrunts.esp
 NoPlayerGroans.esp
 
+GOSH Region Ambience.esp
+
 Sounds of Cyrodiil.esp
   TAG: {{BASH: Sound}}
   INC: "More Immersive Sound", "Ambient Town Sounds", "Oblivifall - Ambient Dungeon SFX"
@@ -1879,6 +1881,7 @@ BEGINGROUP: Base C
 
 Cobl Bookjackets.esp
   TAG: {{BASH: Graphics, NoMerge}}
+Cat Mog.esp
 Cats.esp
 Cats & Rats.esp
   TAG: {{BASH: Scripts}}
@@ -5415,6 +5418,7 @@ rdweaponpack1.esp
 rdweaponpack1_1С.esp
 Recolored Dresses.esp
 Redemption.esp
+RedguardBooksVendor.esp
 RedgardWeaponsMod.esp
   SAY: Make sure to load an overhaul or something after or manually rename the cells that this edits.
 RedGlassGear.esp
@@ -8851,7 +8855,8 @@ DrI_Poisons.esp
 
 dangerous wilderness.esp
   TAG: {{BASH: Delev, Relev}}
-
+SOC-Wildlife Variety.esp
+  REQ: Settlements of Cyrodiil Resource Pack v1.3
 DBSQR.esp
 DBSQR - MehrunesRazor.esp
 DBSQR - OOO.esp
@@ -10278,6 +10283,8 @@ EMBridgeHouse.esp
 EMBridgeHouseCOBLaddon.esp
 EMLeyawiinhouse.esp
 EMLeyawiinhouseCOBLaddon.esp
+EM_Cheydinhalhouse1.esp
+COBL_EMCheydinhalSwanCottage.esp
 EM_RedRoseManor.esp
   IF CHECKSUM("EM_RedRoseManor.esp", 4A696D9) DIRTY: 44 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 EMRedRoseAddonCOBL.esp
@@ -12104,6 +12111,7 @@ Tantrivaylia Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Tantrivaylia v0.99a Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
+TARDIS by Eolhin.esp
 Taverners.esp
 Taverners Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -12652,6 +12660,7 @@ WoodNymph.esp
 Woodsman Home.esp
   SAY: Outdated.  Delete and replace with Woodsman Home_1_2.esp.
 Woodsman Home_1_2.esp
+Worship in Cyrodiil v1.1.esp
 WOTFH_1.1.esp
   SAY: Old Version, update to version 1.3+
 WOTFH_1.2.esp
@@ -12703,7 +12712,7 @@ Yellow Rose Cottage.esp
 YGShop.esp
 YokudaBattleCat.esp
   IF CHECKSUM("YokudaBattleCat.esp", 15472FDE) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-
+YourICHRevamped 1.1-a.esp
 ZOMBIES! -  28 days and a bit V2.esp
 ZOMBIES! - 28 days and a bit V2.esp
   IF CHECKSUM("ZOMBIES! - 28 days and a bit V2.esp", CFC0E317) DIRTY: 53 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13406,7 +13415,8 @@ BrewHouse.esp
 
 LegionOutposts.esp
 GoldenCrest-LegionOutposts Patch.esp
-Kragenirs-LegionOutposts Patch.esp  
+Kragenirs-LegionOutposts Patch.esp 
+TopalIsland-LegionOutposts Patch.esp 
 MehrunesFel.esp
 Daedric Shrine Ruins.esp
   IF CHECKSUM("Daedric Shrine Ruins.esp", 99BD9CB0) DIRTY: 0 ITM, 753 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -17798,6 +17808,7 @@ Vampire Fire by Darkhart.esp
 The Vampire Experience.esp
 No Vampirism.esp
 Unholy Darkness.esp
+VFBF Quicksave.esp
 Vampire Blood Merchant.esp
 Vampires Drop Human Blood.esp
 Vampire Revolution.esp
@@ -19085,6 +19096,7 @@ Ragna Parry V2.esp
 Smarter Ally Combat Positioning.esp
 The Art of Battle.esp
 Unequip Broken Armor.esp
+Mass Decay.esp
 BFG's Enhanced Armory.esp
   INC: 'Unequip Broken Armor', 'Enhanced Hotkeys'
 humantouchNPC.esp
@@ -19213,6 +19225,8 @@ Educational Magicka - 2.1.esp
 Improved Willpower - 2.0.esp
 fwLeveledMagicka.esp
 Enhanced Mercantile Progress.esp
+Mercantile Leveling-Fixed.esp
+  REQ: OBSE 15+
 Smarter Mercantile Leveling - Multi.esp
 tweaked_smarter_mercantile.esp
 CLS-OldFriends-OBSE.esp
@@ -20859,6 +20873,7 @@ CM Emilia.esp
   IF CHECKSUM("CM Emilia.esp", DEB5D3C7) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 CM Rigel.esp
   IF CHECKSUM("CM Rigel.esp", DA4A2EB2) DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+cmJasmine.esp
 CM Jessica.esp
 cm_Jo-han.esp
 CM July.esp
@@ -21104,6 +21119,7 @@ ViljainRedRoseManor.esp
 Vsleepinjail.esp
 ENDGROUP: Vilja Companion
 
+Aaron.esp
 Aliyah.esp
   IF CHECKSUM("Aliyah.esp", C4C3D868) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   SAY: Consider updating to DACompilation_GO.esp/DACompilation_GO_APN.esp - in other words has some fixes and improvements but not gamedestroying update now or you will die stuff.
@@ -22159,8 +22175,10 @@ BlackcatJewelry-SkingradOutskirts-BC Patch.esp
 IslandPalace-BetterCities Patch.esp
 IslandPalace-LostCoast-BCF Patch.esp
 SnowyRoad-BetterCities Patch.esp
+TopalIsland-BetterCities Patch.esp
 LegionOutposts-BCFullPatch.esp
 Kragenirs-LegionOutposts-BC Patch.esp
+TopalIsland-LegionOutposts-BC Patch.esp
 
 
 Better Imperial City Rwalk.esp

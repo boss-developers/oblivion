@@ -174,6 +174,7 @@ Gems and Gem Dusts.esm
 SoS Library.esm
 Enhanced Daedric Invasion.esm
 ORP.esm
+Capes4NPCs.esm
 CyrodiilUpgradeResourcePack.esm
 AGC-TARDISmstr.esm
 (DC)A Saints Tale Master.esm
@@ -274,6 +275,7 @@ Children of Cyrodiil.esm
 CM Partners.esm
 CM Partners Mod.esm
 CMVailena.esm
+Cross_Goodies.esm
 amqGlobals.esm
 Easy_Companion_Share.esm
 mpc.esm
@@ -1814,6 +1816,7 @@ Book Jackets Oblivion.esp
 Book Jackets Oblivion - BP.esp
   TAG: {{BASH: Graphics}}
 !Book Jackets Oblivion - PL.esp
+Book Jackets Oblivion VF.esp
 OBG - Buechermod - Bilder.esp
 OBG - Buechermod - Bilder - BP.esp
   TAG: {{BASH: Graphics}}
@@ -2598,6 +2601,7 @@ Qarls_Harvest.esp
   IF CHECKSUM("Qarls_Harvest.esp", 31844E23) DIRTY: 8 ITM, 105 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Qarls_Harvest addon.esp
   SAY: Don't use with MMM/OOO/FCOM; use 'Qarls_Harvest addon_MMM/OOO'
+MoreHarvestableFruits.esp
 Qarls_logs.esp
 TI-MM v0.4d.esp
 QQuix - Rock, rock, rock your ship - V2.0.esp
@@ -4770,6 +4774,7 @@ HentaiSchoolGirlCollection.esp
 HentaiSeraphimArmour.esp
 Hentai_Seraphim_Blade.esp
 HentaiSummerFesta.esp
+HentaiSummerFesta_ACEdit.esp
 Hentai_SnowFlower.esp
 Hentai Recolours.esp
 Hentai Armors Retextured.esp
@@ -5430,6 +5435,7 @@ RF_AtholBrose.esp
 RF_Crimson.esp
 RGMsCarvedLeatherAndSilkRobesMale.esp
 RGMsCheerleader.esp
+RGMsElfSlippers.esp
 RGMsRealFlails.esp
 Rikku.esp
 Rindirs Staves.esp
@@ -5678,6 +5684,8 @@ SOLS MASSIVE ATIRE PART 1.esp
 SOLS MASSIVE ATIRE PART 2.esp
 SOLS WEAPON MERGE.esp
 SomeRobes.esp
+Sonja Light Armor.esp
+  REQ: HGEC, ZKEC Body Replacer
 Sorceress_Armors.esp
 Sorceress_ArmorsRU.esp
 SoT_Rise of Sheogorath.esp
@@ -5722,6 +5730,8 @@ MDP - BG2 Companion.esp
 spartanspears.esp
   TAG: {{BASH: Invent}}
 SPARTAN VIs Ordinator Lite.esp
+SpicyFoxVanillaArmorAddon.esp
+  REQ: BBB, HGEC
 spirit_bast.esp
 Spirit Blade.esp
 SpiritswordF_alfa.esp
@@ -6285,7 +6295,8 @@ RealSwords - Redguard LO.esp
 ENDGROUP: RealSwords
 
 Mage Equipment.esp
-  SAY: Item sale prices will be excessive and unpredictable with OOO, FCOM and/or Living Economy
+  SAY: Item sale prices will be excessive with OOO, FCOM, Enhanced Economy, and/or Living Economy.
+  SAY: To avoid overpriced items when using with Enhanced Economy disable "Local Economy" features.
   SAY: If using Mage Equipment Lite load after SRT.
   IF CHECKSUM("Mage Equipment.esp", 60C24030) DIRTY: 0 ITM, 23 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   TAG: {{BASH: Graphics, Invent, Relev, Delev, Stats}}
@@ -6294,6 +6305,7 @@ Mage Equipment - No Manni.esp
   SAY: If using Mage Equipment Lite load after SRT.
 Francesco's Mage Equipment.esp
   SAY: Use either this or Mage Equipment, but not both. Franseco's leveled creatures/items mod.
+  SAY: To avoid overpriced items when using with Enhanced Economy disable "Local Economy" features.
 MEQ_NakakitaPatch.esp
   TAG: {{BASH: Graphics, NoMerge}}
 
@@ -8855,8 +8867,6 @@ DrI_Poisons.esp
 
 dangerous wilderness.esp
   TAG: {{BASH: Delev, Relev}}
-SOC-Wildlife Variety.esp
-  REQ: Settlements of Cyrodiil Resource Pack v1.3
 DBSQR.esp
 DBSQR - MehrunesRazor.esp
 DBSQR - OOO.esp
@@ -12112,6 +12122,7 @@ Tantrivaylia Vwalk.esp
 Tantrivaylia v0.99a Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 TARDIS by Eolhin.esp
+TARDIS by Eolhin No Regen.esp
 Taverners.esp
 Taverners Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -12603,6 +12614,7 @@ WaterloggedTower.esp
 WaterSphere.esp
 Wayshrines in the University.esp
 Wayshrines.esp
+Wayshrines Enhanced.esp
 wb_Erewhon.esp
 wb_Erewhon_Cobl.esp
 wb_Erewhon_Cobl_Altar.esp
@@ -12894,6 +12906,7 @@ Lynges Thieves Highway.esp
 Lynges Thieves Highway - OOO.esp
   IF VAR(BC) SAY: Not Better Cities compatible. Already included with Better Cities IC plugins.
   IF VAR(OOO) SAY: Delete 'Lynges Thieves Highway.esp and use this instead.
+SneakingImperialCityHighway.esp
 SecretEntrances.esp
 ENDGROUP: Quests and Locations 2
 
@@ -13638,6 +13651,7 @@ TVIcar.esp
 
 Celestiel - EV.esp
 Academy.esp
+RST-Academy Patch.esp
 Rooftop Rewards cleaned.esp
 Azure's Arcanery.esp
 
@@ -14539,6 +14553,7 @@ SnowyRoad-Snowdale Patch.esp
 TOC NorthShortcut-Snowdale Patch.esp
 TOC MergedVanilla-Snowdale Patch.esp
 TOC MergedCH-Snowdale Patch.esp
+JMC - Layer 1.esp
 
 xulGoldCoastFarmlands.esp
 
@@ -14572,6 +14587,7 @@ SilverfishFalls-ULSilverfishPatch.esp
 xulJerallGlacier.esp
 OOO-JerallGlacier patch.esp
 GatesToAesgaardEp1-JerallGlacier patch.esp
+JMC - Layer 2.esp
 CurseofHircine-JerallGlacier patch.esp
 AyleidRuinsExpanded-JerallGlacier patch.esp
 BlackrockMountain-JerallGlacier patch.esp
@@ -14767,13 +14783,17 @@ Frostcrag Village.esp
   REQ: Official Frostcrag Spire DLC
 Frostcrag Village Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+JMC - Layer 1b.esp
+JMC - Layer 1b+2.esp
 DLCFrostcrag Reborn - Frostcrag Village Patch.esp
+JMC - Layer 3.esp
 SnowyRoad-FrostcragVillage Patch.esp
 Fort Akatosh Redux.esp
   TAG: {{BASH: Relations}}
 Fort Akatosh Redux Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 FortAkatoshRedux-NewRoads&Bridges patch.esp
+JMC - Layer 4b.esp
 ROC+Fort Akatosh Redux.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC-Midland-Vergayun-FAR patch.esp
@@ -15098,6 +15118,7 @@ ROC+UL-II+LtPD+OCOD Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+OCOD Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+VaultsofCyrodiil-OpenCitiesReborn Patch.esp
 IslandPalace-OpenCities Patch.esp
 IslandPalace-LostCoast-OCR Patch.esp
 IWS-OCR patch.esp
@@ -16046,6 +16067,7 @@ KartPassive_Beasts.esp
 KeyBox.esp
 kikaibookbelts-amulet.esp
 kikaibookbelts-tail.esp
+King of Worms.esp
 Kobu's Stamina Mod.esp
 KT_Fame Ballance Mod.esp
 KT_KhajEyeToggle.esp
@@ -16605,6 +16627,7 @@ LoversClubCatsSx.esp
 LoversFSE.esp
 LoversGalgatBeastRape.esp
 LoversGGBlackmail.esp
+LoversGGBlackmail111.esp
 LoversDRader.esp
 LoversHudInformation.esp
 LoversOrgy.esp
@@ -16655,6 +16678,7 @@ LoversBrute.esp
 LoversDarkLessons.esp
 LoversHarvest.esp
 LoversHiyokoShooter.esp
+LoversHorseRider.esp
 LoversHypnosis.esp
 LoversImmoralGuards.esp
 LoversImmoralSisters.esp
@@ -16780,12 +16804,14 @@ SMYB Love Female Only.esp
 SMYB Love Full.esp
 Oblivion Pose Pack.esp
 PAPlayer1200Eng.esp
+PlayerSlaveEncounters_V0.69.esp
 Pose Compendium.esp
 SexDarknessAmuletSlot.esp
 SexDarknessTailSlot.esp
 SexDarknessAmuletSlot.esp
 DarkBloodline.esp
 Vagina.esp
+ZAZHorseRidesYou.esp
 ENDGROUP: Sexual Stuff
 
 Sheath2HandOnHip.esp
@@ -16864,6 +16890,7 @@ OMPSlofTiger.esp
 Slof's Dogs.esp
   SAY: Don't need to use this if you use MMM as it already includes dogs.
 Slof's Epona.esp
+SMDropLitTorch.esp
 SM Essential Kills.esp
 SnusAmbience English.esp
 SnusDungeons.esp
@@ -16878,6 +16905,8 @@ Soulgem Magic.esp
   REQ: OBSE 20+.
 Speedy Disrobe OBSE.esp
 SpellMenu.esp
+SpicyFoxVanillaArmorReplacer.esp
+  REQ: BBB, HGEC
 
 BEGINGROUP: SPT Diverse Guards
 SPTDiverseGuards-Core.esp
@@ -17081,6 +17110,10 @@ tag_NaturalWildlife.esp
 NaturalWildlife.esp
 Natural Wildlife - resized.esp
 GP_Natural Wildlife - MMM.esp
+SOC-Wildlife Variety.esp
+  REQ: Settlements of Cyrodiil Resource Pack v1.3+
+  SAY: Must load after NaturalWildlife.esp
+  TAG: {{BASH: Relev}}
 Talk With Your Hands.esp
 Talk with Your Hands2.esp
 talkwithyourhands2.esp
@@ -17088,6 +17121,8 @@ talkwithyourhands PI4.esp
 TameWildlife.esp
 Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
+tbskGuardsFeatures.esp
+  REQ: Universal Skeleton, HG Eyecandy Body, Roberts Male Body Replacer
 TD_All_House_For_Sale_Replacer.esp
 Teleport Everywhere.esp
   REQ: OBSE.
@@ -17214,6 +17249,7 @@ BEGINGROUP: overrides XYZ
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
+Zek's Universal Movement Speed - Slower Walk.esp
 zzzArenaBFGCR.esp
 zzzBookreadingEnhanced.esp
 zzzChangeAbleArmor.esp
@@ -17793,6 +17829,7 @@ Vampire Aging Disabled 2 XYoung.esp
 Vampire Power.esp
 Vampire Power - Light of Day.esp
 Vampire Power - Hindaril.esp
+Vampires - No Sun Damage.esp
 Nekhanimal's Awesome Vampire Mod.esp
 NAVM GREETING fix.esp
 Duke Patricks Nosferatu Vampires.esp
@@ -18267,6 +18304,7 @@ AncientTowersMidasLab.esp
 FrostcragMidasLab.esp
   TAG: {{BASH: Invent}}
 HM2_MIdas_Patch.esp
+JMC - Layer 4a.esp
 CON-Werewolf-MidasPatch.esp
 
 Mighty for Midas.esp
@@ -18380,6 +18418,7 @@ Faster Spells.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 FasterArrows150.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+FasterArrows175.esp
 FasterArrows200.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 FasterArrows250.esp
@@ -19757,9 +19796,13 @@ FastTravelAllowed.esp
 Item interchange - Extraction.esp
   TAG: {{BASH: Filter, Deactivate}}
   IFNOT VAR(BP) ERROR: Required Bashed Patch.
+Capes4NPCs - Extraction.esp
+  TAG: {{BASH: Deactivate, Filter}}
 Item interchange - Placement.esp
   IF VAR(FCOM) ERROR: Delete. Use II's 'Item Interchange - Placement for FCOM.esp' instead.
   IFNOT VAR(BP) ERROR: Required Bashed Patch.
+Capes4NPCs - Placement.esp
+  TAG: {{BASH: Filter, IIM, Invent}}
 Item interchange - Placement for FCOM.esp
   TAG: {{BASH: Delev, Filter, IIM, Invent, Relev, Deactivate}}
   IFNOT VAR(BP) ERROR: Required Bashed Patch.
@@ -20039,6 +20082,7 @@ Anwolf Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Aos Si.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, R.Description}}
+Argonoid Race.esp
 Asian Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 AsianElves.esp
@@ -20839,6 +20883,7 @@ CM Boromir.esp
   TAG: {{BASH: Graphics, NpcFaces}}
 cmChocolates.esp
 CMChrysamste.esp
+CM Companions - Dark Seducer + Golden Saint.esp
 CM Companion Jessica Alba.esp
   TAG: {{BASH: Hair, Eyes}}
 CM Companion Megan Fox.esp
@@ -21605,6 +21650,7 @@ Oblivion_Character_Overhaul.esp
 Oblivion_Character_Overhaul Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 OCO v2 Balanced - Bonus Races Only.esp
+1em_Vilja_OCOV2_By_jet4571.esp
 Jjiinx_Long Ears.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp
@@ -21870,6 +21916,7 @@ OCRAnvil+Integration Path Grid Fix.esp
   SAY: Obsolete: Update to version 3.0 of the Open Cities Integration patch. Then delete this plugin.
 bgIntegrationEV Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+ShetcombeFarm-Integration Patch.esp
 Silverfish&bgIntegrationPatch.esp
 SilverfishFalls-IntegrationPatch.esp
 Silverfish-ULSilverfish-Integration Patch.esp
@@ -22171,6 +22218,7 @@ Better Cities - TIE Restricted Area.esp
 Better Cities - Valley View Estate.esp
 Better Cities - VHBloodlines.esp
 Better Cities - Werewolf-Legends.esp
+BICFull_OotD_Patch.esp
 BlackcatJewelry-SkingradOutskirts-BC Patch.esp
 IslandPalace-BetterCities Patch.esp
 IslandPalace-LostCoast-BCF Patch.esp
@@ -23346,9 +23394,29 @@ BEGINGROUP: Post Bashed Patch
 
 SDR Perks and Patches [Oblivion].esp
   SAY: Obsolete. Upgrade to SDR version 8.2
+CGAddonsComplete-AddonArea1.esp
+CGAddonsComplete-AddonArea1 -LevLists.esp  
+CGAddonsComplete-AddonArea2.esp
+CGAddonsComplete-AddonArea3.esp
+CGAddonsComplete-AddonArea4.esp
+CGAddonsComplete-AddonArea5.esp
+CGAddonsComplete-AddonArea6.esp
+CGAddonsComplete-BrewerArea.esp
+CGAddonsComplete-OgasmitronArea.esp
+CGAddonsComplete-BasementArea1.esp  
+CGAddonsComplete-BasementArea2.esp 
+CGAddonsComplete-BasementArea3.esp  
+CGAddonsComplete-BasementArea4.esp
+CGAddons-AllInclusive.esp
+CGLostSpiresPatch11.esp
+Cross_Goodies_CMPartners.esp
+Cross_Goodies_CMPartners_NE.esp
+CGCMPartnersDecrashification.esp
+Cross_Goodies.esp
 CybBPcompatibility.esp
 Creeper.esp
   IF CHECKSUM("Creeper.esp", 8A4423BA) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+DLCHorseArmor OCOv2 patch.esp
 Maskar's Oblivion Overhaul.esp
 MercerIngredientsMaskarsOO.esp
 

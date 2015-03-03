@@ -1144,6 +1144,7 @@ Natural_Weather_HDR_2.1.3_coloroverride.esp.esp
 Natural_Weather_HDR_by_Max_Tae_CO_RD.esp
 Natural_Weather_by_Max_Tael_RD.esp
 Natural_Weather_HDR_by_Max_Tael_RD.esp
+  IF CHECKSUM("Natural_Weather_HDR_by_Max_Tael_RD.esp", 9233FD80) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Natural_Weather_HDR_with_darker_Nights_by_Max_Tael_RD.esp
 Natural_Weather_with_darker_Nights_by_Max_Tael_RD.esp
 
@@ -2045,6 +2046,7 @@ Cooking Mod v1.1 - Nuhmbuh1.esp
 Corpse Equip Automatic.esp
 Corpse Equip Manual.esp
 CorpsePreserver.esp
+Correctif Nirnroot.esp
 
 CrimsonScarArmor.esp
   TAG: {{BASH: Invent}}
@@ -2461,6 +2463,7 @@ New Potions.esp
 New_Potions_Fixed_Icons-25822.esp
   TAG: {{BASH: Graphics, NoMerge}}
 New Oblivion Moons.esp
+NewThirdPerson.esp
 nu_female_player_idle.esp
 Never die.esp
 NOAH.esp
@@ -2469,6 +2472,7 @@ noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
 NoSunRobe.esp
+No weapon litter.esp
 Nosvertu's Wearable Daemer Wings.esp
 Not a Bedroll.esp
 Not a Bedroll_ru.esp
@@ -2533,6 +2537,7 @@ personality_idles4_nopc.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 personality_idles_custom.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+personality_idlespcb.esp
 //before P1DseeYouSleep... hopefully will work better
 P1DlevelMultiCount.esp
 P1DrobesOver.esp
@@ -3965,6 +3970,7 @@ Angeleron.esp
 Ageha Tortured Soul HGEC.esp
 AGEHA Tortured Souls.esp
   TAG: {{BASH: Delev, Relev}}
+Aureil's Shield.esp  
 A Very Silly Slaughterfish Mod.esp
 AxiomSpellTomes1.esp
 AxiomSpellTomes2.esp
@@ -4124,12 +4130,15 @@ Boethiahs assassin armor.esp
 Boidae Outfits.esp
 Book of Werewolves.esp
 BookCollisionTest.esp
+Boots of the Apostle.esp
 Boots of Blinding Speed.esp
 Bored.esp
 Bow of Quel'Thalas.esp
 BowOfShadow.esp
 BowOfShadows.esp
 Bow of Shadows.esp
+Bow of the the Gods.esp
+Bow of the the Gods FIXED.esp
 BPuppetEC.esp
 BlackPuppetLight.esp
   IF CHECKSUM("BlackPuppetLight.esp", ADCD53A4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -4273,6 +4282,7 @@ ENDGROUP: Items C
 BEGINGROUP: Items D
 
 D35DaedricLightArmour.esp
+DaedraSpiderArmor.esp
 Daedric Face of Terror.esp
 Daedric Healer Robes.esp
   TAG: {{BASH: Invent}}
@@ -4319,6 +4329,7 @@ Daedric_Katana_0.4_vendors_and_leveled.esp
 Daedric_Katana_0.4_vendors_only.esp
   SAY: Use only one of the three Daedric_Katana_0.4 ESPs.
 DaedricCausticSet.esp
+Daedric Scourge.esp
 daedric sky armor.esp
   TAG: {{BASH: Invent}}
 Daedric Trap Weapons.esp
@@ -5231,6 +5242,7 @@ Negotiator Sword.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
 Neo's Jedi Knights.esp
+Neo's Kasumi and Tina.esp
 Nesarama_Works_Collection_v1.esp
 New Frostmourne Sword by Jojjo v1_0.esp
   IF CHECKSUM("New Frostmourne Sword by Jojjo v1_0.esp", 770A8BD4) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -5794,6 +5806,7 @@ Spike's Haskil Suit.esp
 SpringheelJakBoots.esp
 SSA.esp
 Staff_of_Magius.esp
+Staff of Magnus.esp
 Staff of Lore.esp
 Staff of the Scamp-Milt.esp
 Stand up collar Dress.esp
@@ -5865,6 +5878,7 @@ Tegeals Extra Robes.esp
 Tegeals_Extra_Robes.esp
 Teklanika's Reforged Items.esp
 Templar Cape.esp
+Tempo Jewellery.esp
 Ten Pace Boots.esp
 Tenko_Cloth.esp
 TestShuriken.esp
@@ -5890,6 +5904,7 @@ The Bow of the Drow.esp
 The Bow of the Hunter.esp
 The Bow of the Mongolian Horseman.esp
 The Bow of Thorns.esp
+TheBowOfThunderDark.esp
 The Butcher.esp
 The Doomed King.esp
 The Dragon Bow.esp
@@ -6353,6 +6368,8 @@ BEGINGROUP: Body Replacer Armour & Clothing
 A_Dremora_Armor_for_you-7602.esp
 Accompt of the Delitescent.esp
 AdventurerPlateArmor.esp
+AGS-Type2 SMDR Outfits.esp
+AGS-Type2 Nexus Outfits.esp
 All Manly.esp
   TAG: {{BASH: Graphics, NoMerge}}
 ANBMiniMicroBikini.esp
@@ -6635,6 +6652,8 @@ LC-Dragon-Exnem.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LeatherHunterArmour.esp
 Leere Armor.esp
+Lengthwise Frill Dress.esp
+  REQ: HGEC, Coronera's Maximum Compatibility Skeleton
 LexMiscClothesII.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 LichGear.esp
@@ -6827,6 +6846,11 @@ TGND_Lingerie_Underwear.esp
 TGND - Sinblood's Fantasy Mage.esp
 TGND_SwordDancer.esp
 TGND Warrior Skin.esp
+TGNDNessaStore.esp
+  REQ: OBSE v20+, TGND
+TGND - Nessa Store NPC Clothing.esp
+TGND - Nessa Store Athol Patch.esp
+TGND - Nessa Store Lingerie Patch.esp
 tkLeBlancSet.esp
 The Dragon Princess.esp
 tona_simple_dress-armor.esp
@@ -7032,6 +7056,7 @@ Mounted_Trampling.esp
 HorseCommands.esp
 HorseCommandsv2.esp
 kuerteeHorseCommands.esp
+Call Horse.esp
 CallMount.esp
 CallMountStableMaster.esp
 Command Mount.esp
@@ -9466,6 +9491,7 @@ ArboretumHouse.esp
 Arborwatch.esp
 Arborwatch Basement no Mannequin.esp
 SYS Patch-Arborwatch.esp
+Arborwatch Overhaul.esp
 ArcaneBankofCyrodiil.esp
 Arcane Expansion.esp
 Arcane Services.esp
@@ -10173,6 +10199,7 @@ Demonicus.esp
 DengardKeep.esp
 Der Orden.esp
 DescentIntoNecropolis.esp
+Desert_AlikR.esp
 
 DexwoodsHideout.esp
 DexwoodFamilySaga.esp
@@ -10284,6 +10311,7 @@ Dungeons of Blackwood.esp
 [Keias]Dungeon Of Chaos.esp
   IF CHECKSUM("[Keias]Dungeon Of Chaos.esp", 34D47392) DIRTY: 25 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Dungeons of Tamriel.esp
+Dungeons of Tamriel - Bravil Dungeon.esp
 DarkDale.esp
 ENDGROUP: Quests D
 
@@ -10387,14 +10415,12 @@ Highrock-FGQ Patch.esp
 Fists of Randagulf.esp
 Fists of Randagulf Patch.esp
 First Edition.esp
-FishermansCottage.esp
-FishermansCOBLaddon.esp
-FishermansCottage-LostCoast patch.esp
 fishing boat.esp
 FHWS.esp
   IF CHECKSUM("FHWS.esp", 1F1BB9FC) DIRTY: 422 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TheForbiddenSecret.esp
 ForbiddenLands.esp
+Forest House 1.3.esp
 Forgiven Sins.esp
 Forgotten Chapel.esp
 Forgotten Tower.esp
@@ -10675,6 +10701,7 @@ HTBFLYCollection.esp
 HTBMondsteinShop.esp
 HTBNeoSGOutfitsRedone.esp
 HTBSpookyHouse.esp
+Hunter Mod.esp
 Hunter's Haven File 1.esp
 ENDGROUP: Quests H
 
@@ -11574,6 +11601,7 @@ ThePaleAdventurer.esp
   IF CHECKSUM("ThePaleAdventurer.esp", 29220AEF) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ThePaleAdventurer_delayer.esp
 PagesofHistoryDemo.esp
+PassengerShips.esp
 Passwall Adventurers Club.esp
   IF CHECKSUM("Passwall Adventurers Club.esp", 11E6D7FE) DIRTY: 13 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 PathoftheSkullBearer.esp
@@ -12408,6 +12436,7 @@ TrainerFind.esp
 Tramps.esp
   TAG: {{BASH: Relev}}
 Travelers Inns.esp
+treeHouse.esp
 TR_Stirk_v0.9.esp
   SAY: Obsolete beta. Need to update to released version.
 TR_Stirk.esp
@@ -12630,6 +12659,7 @@ Waterfall Cottage V1.4.esp
 Waterfront Basement.esp
 Waterfront Shack.esp
   IF CHECKSUM("Waterfront Shack.esp", 4FD37830) DIRTY: 1 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide#Waterfront_Shack.esp_Special_Cleaning_Instructions"
+Waterfront Shack Overhaul.esp
 WaterlilyCottage1.esp
 WaterlilyCottageCOBLaddon.esp
 WaterloggedTower.esp
@@ -13003,6 +13033,7 @@ DLCFrostcrag Spire Revisited Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 ORM-TamriellicGlassDLC3.esp
   TAG: {{BASH: Graphics}}
+Emporium.esp
 
 Ulrim's Horses - LegionArmor.esp
   SAY: Obsolete. Check for newer version.
@@ -13149,7 +13180,9 @@ Dragon Templar.esp
 RavDCPOD.esp
 
 Knights Unleveled.esp
-
+FishermansCottage.esp
+FishermansCOBLaddon.esp
+FishermansCottage-LostCoast patch.esp
 Servant of the Dawn DLC Compatibility Patch.esp
 
 This Mortal Crag.esp
@@ -14564,6 +14597,7 @@ Unique Landscapes - Snowdale DV.esp
 ApachiiHeroesStore-Snowdale patch.esp
 CastleDracula-Snowdale patch.esp
 Feldscar+Snowdale Patch.esp
+OrdenDesDrachen-Snowdale patch.esp
 FrostcragReborn-Snowdale patch.esp
 GoldenCrest-Snowdale patch.esp
 ImprovedImperialInfrastructure-Snowdale patch.esp
@@ -14575,7 +14609,6 @@ GatesToAesgaardEp2-Snowdale patch.esp
 Snowdale - Fighters Guild Quests Patch.esp
 MTCExpandedVillages-Snowdale patch.esp
 MTCExpandedVillages-UniqueLandscapes patch.esp
-OrdenDesDrachen-Snowdale patch.esp
 RiseOfASamurai-Snowdale patch.esp
 SnowyRoad-Snowdale Patch.esp
 TOC NorthShortcut-Snowdale Patch.esp
@@ -14614,6 +14647,7 @@ SilverfishFalls-ULSilverfishPatch.esp
 
 xulJerallGlacier.esp
 OOO-JerallGlacier patch.esp
+OrdenDesDrachen-JerallGlacier patch.esp
 GatesToAesgaardEp1-JerallGlacier patch.esp
 JMC - Layer 2.esp
 CurseofHircine-JerallGlacier patch.esp
@@ -14622,7 +14656,6 @@ BlackrockMountain-JerallGlacier patch.esp
 AncientDwemerRuins-JerallGlacier patch.esp
 FortFerrion-JerallGlacier patch.esp
 AgainstTheZealotsOfTheNine-JerallGlacier patch.esp
-OrdenDesDrachen-JerallGlacier patch.esp
 SnowyRoad-JerallGlacier Patch.esp
 SnowyRoad-ULCombo Patch.esp
 
@@ -15292,6 +15325,7 @@ BEGINGROUP: overrides Early
 NaturalVegetation.esp
 Natural_Vegetation_by_Max_Tael.esp
   SAY: Put before Unique Landscape mods to return tree sizes there to normal.
+  IF CHECKSUM("Natural_Vegetation_by_Max_Tael.esp", B02B5753) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Natural_Vegetation_200%_by_Max_Tael.esp
   SAY: Put before Unique Landscape mods to return tree sizes there to normal.
 Medium_FPSFIX_Natural_Vegetation.esp
@@ -15437,7 +15471,9 @@ Armored Skeletons.esp
   TAG: {{BASH: Graphics, Relev}}
 Armored Skeletons (LL).esp
   TAG: {{BASH: Graphics, Relev}}
+Arrow Speed and Damage x2 Adjustment.esp
 Arrows_v1_2.esp
+ArrowsWeightNothingSE.esp
 
 As Intended - OOO Boars & Imps.esp
   TAG: {{BASH: Actors.Spells}}
@@ -15648,6 +15684,7 @@ CHILDREN ANNUAD.esp
 City Gates v1.1.esp
 city-swimmer.esp
 CL_Tools+Clutter.esp
+CL_Tools_and_Clutter.esp
 clean mjy castle with key quest v1.1.esp
 clean mjy castle free v.2.esp
 Clean Spellbook.esp
@@ -15818,6 +15855,7 @@ DS Portable Sorters.esp
   REQ: COBL.
 DS Storage Sacks.esp
 dragonarmormod_1.0.esp
+DremoraArmorAllow v1.1.esp
 Duke Patrick's Repair challange.esp
 DwemerSpecsEquip.esp
 Dwemer_Rename.esp
@@ -15974,6 +16012,7 @@ Golden Perch Inn.esp
   IF CHECKSUM("Golden Perch Inn.esp", 4F0086B1) DIRTY: 37 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also makes wild edits to merchant greetings, water height levels and a vanilla script.
 Golden Perch Inn - AN Patch.esp
   TAG: {{BASH: C.Climate}}
+Golden Saint Dark Seducer Armor.esp
 GoresNoTargetMagicGaining-Vanilla.esp
 GoresNoTargetMagicGaining-Fast.esp
 Gorgorax Magic Item Plugin.esp
@@ -15984,6 +16023,7 @@ gq Chapel Altars become Wayshrines.esp
 Grass Overhaul.esp
   TAG: {{BASH: Graphics, NoMerge, Deactivate}}
 Great Gate Essential NPC's.esp
+Green Velvet Shoes.esp
 Grummite Bows.esp
 GuardEquipAndStatFix.esp
   TAG: {{BASH: Actors.Stats, Invent}}
@@ -16148,6 +16188,7 @@ Lights.esp
 Listener Overhaul.esp
 Live at Gweden Farm.esp
 Location Names With Enemy Tags.esp
+LootAllowBlades+Emporer+Extras.esp
 Loot All Armor.esp
 Lootable Captain Renault.esp
 Lootable Merchant Chests.esp
@@ -16374,7 +16415,9 @@ Oblivifall - New Classes Regular Fonts.esp
   TAG: {{BASH: R.Description}}
 Oblivion Gates From the Beginning.esp
 Oblivion grass overhaul.esp
-  TAG: {{BASH: Graphics, NoMerge, Deactivate}} 
+  TAG: {{BASH: Graphics, NoMerge, Deactivate}}
+Oblivion Scaling Unclusterfucked.esp
+  REQ: Knights of The Nine DLC  
 Oblivion Unleveled.esp
 obliviousterrainreplacer.esp
 Ohgma Infinium OverHaul.esp
@@ -16418,6 +16461,7 @@ P-Froggys NPC-Respawning-SI_Quest NPCs.esp
 P-Froggys NPC-Respawning X Tage.esp
 P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Respawnable NPC Mod.esp
+PalaceGuard+EmporerArmorLoot v1.0.1.esp
 Panzer_Kleidung.esp
 Pearl Farming.esp
 PersuasionOverhaul.esp
@@ -16623,6 +16667,7 @@ TamagoNews.esp
 TamagoShop.esp
 TamagoTopic.esp
 TamagoConfide.esp
+TamagoDischarge.esp
 LoversTamagoClub.esp
 LoversEncounter.esp
 FuroTrapModEstrus.esp
@@ -17788,6 +17833,7 @@ JaySuS-Vampire-Mod-MKV-V3.8.esp
 KT_VampSightToggleNoEff.esp
 kuerteeSimpleVampirism.esp
 kuerteeSimpleVampirismExpanded.esp
+kuerteeSimpleVampirismExpandedVerB.esp
 KINewVampires.esp
 LTDVampireOverhaul.esp
   IF CHECKSUM("LTDVampireOverhaul.esp", BC307C34) DIRTY: 53 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -18159,6 +18205,7 @@ SummonAuroranOBME.esp
   REQ: Knights.esp and OBSE and OBME
 Summon Arrow.esp
 SummonCreaturePackBeta.esp
+Summon Dremora Lord Saved.esp
 Summon Fairy_v0.91xDS.esp
 SummonKnightofOrderOBME.esp
   REQ: SI and OBSE and OBME
@@ -18316,6 +18363,10 @@ BEGINGROUP: Midas Magic
 MidasSpells.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("MidasSpells.esp", E39AF0AC) || IF CHECKSUM("MidasSpells.esp", 49120D50) DIRTY: 49 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Rathunas-MidasMagic.esp
+Rathunas01.esp
+  REQ: COBL, OBSE v21, Unique Landscapes-Brena River Ravine
+Rathunas-BetterMusicSystem.esp
 AK- Midas Spellswap.esp
 OC+Midas Magic Patch.esp
 Midas OscuroGems.esp
@@ -20245,6 +20296,7 @@ Lucha's She Nord.esp
   TAG: {{BASH: Eyes, Hair, R.Head, R.Mouth, R.Teeth}}
 Lucha's She Redguard.esp
   TAG: {{BASH: Eyes, Hair, R.Head, R.Mouth, R.Teeth}}
+LunasFireDemonRace.esp
 LycanRace.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 YX33A_batch_of_stuff.esp
@@ -22723,6 +22775,7 @@ Time-2hr-realtime.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 REGEX: TF_timemod1-\d\d?.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
+TML_Real-time.esp
 VG0SmarterTimescale.esp
 OblivionRealTimeV11.esp
 Combat Timescale x0.5.esp
@@ -23568,6 +23621,7 @@ BEGINGROUP: Map Changes
 //
 //any map changing files esp have to go dead last
 
+Ak- Morroblivion Maps.esp
 Ak- Morroblivion Maps HD.esp
 AK- Morroblivion in Tamriel Map.esp
 Hiboriamap.esp

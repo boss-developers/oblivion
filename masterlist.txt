@@ -455,6 +455,7 @@ Underdark v1.1 Delayer.esp
 tes4-CHS-main.esp
   TAG: {{BASH: Names}}
 Icon Overhaul.esp
+  TAG: {{BASH: Graphics}}
 ITA - FoT & Hexaae R3.esp
 ENDGROUP: Earliest mods
 
@@ -3206,7 +3207,7 @@ Duke Patricks - Friendship Ring For Companion Detection.esp
 Duke Patricks - Philosophers Stone Artifacts.esp
 Duke Patricks - Safe Save.esp
 DW_ARES.esp
-
+DynamicMusicSystem.esp
 Enhanced Seasons.esp
 ExPCB.esp
 
@@ -7687,6 +7688,8 @@ OOOAddonWilderness.esp
 OOODangerousDaedra.esp
 OOOCreatureAddons.esp
   SAY: DO NOT USE with OOOAddonUndead.esp, OOOAddonWilderness.esp, OOODangerousDaedra.esp. This plugin is a merged version of all three.
+OOOEquipmentAddon.esp
+  IF CHECKSUM("OOOEquipmentAddon.esp", B951292D) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -13436,10 +13439,11 @@ MannimarcoComplete.esp
 MannimarcoComplete - ICS Patch.esp
 Mannimarco_resurrection.esp
 MannimarcoRevisited.esp
+  TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.Anims, Actors.CombatStyle, Actors.Spells, Actors.Stats, Factions, Invent, NPC.Race}}
   IF CHECKSUM("MannimarcoRevisited.esp", E2BE41DA) DIRTY: 0 ITM, 261 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MannimarcoRevisited_1C.esp
 MannimarcoRevisitedOOO.esp
-  TAG: {{BASH: NpcFaces}}
+  TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.Anims, Actors.CombatStyle, Actors.Spells, Actors.Stats, Factions, Invent, NPCFaces, NPC.Race}}
 MannimarcoRaceNonPlayable.esp
 MannimarcoWardrobeChest.esp
 OOO_Mannimarco_Fix.esp
@@ -13488,7 +13492,7 @@ FCOM_Ruin.esp
 FCOM_SlofsHorses.esp
   TAG: {{BASH: Graphics}}
 FCOM_SlofsRobeTrader.esp
-  TAG: {{BASH: Delev, Relev}}
+  TAG: {{BASH: Delev, Graphics, Invent, Names, Relev}}
   REQ: 'Slof's Oblivion Robe Trader.esp'.
 FCOM_OMG.esp
   TAG: {{BASH: Relations, Actors.AIPackages}}
@@ -13524,7 +13528,7 @@ Daedric Shrine Ruins.esp
 Daedric Ruins House of Healing Patch.esp
   IF CHECKSUM("Daedric Ruins House of Healing Patch.esp", 9617DA75) DIRTY: 14 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DarkBrotherhoodChronicles.esp
-  TAG: {{BASH: Actors.AIPackages}}
+  TAG: {{BASH: Actors.AIPackages, Actor.Spells}}
 DBC-ImpeREAL City Unique Districts Waterfront Patch.esp
   SAY: DO NOT Use together with the DBC-ImpeREAL Merged Patch. Use one or the other.
 DBC-ImpeREAL City Unique Districts-Merged Patch.esp
@@ -22281,6 +22285,7 @@ ENDGROUP: Better Cities FPS Patches
 
 BEGINGROUP: BC Compatibility patches
 
+All Natural Real Lights - Better Cities IC Patch.esp
 An Unexpected Company - Better Cities.esp
 
 Better Abandoned House - BC_OBC Patch.esp
@@ -22381,6 +22386,8 @@ Better Cities - Alternative Start Arrive by Ship.esp
 Better Cities - MOBS.esp
 Better Cities - Origin of the Mages Guild.esp
 Better Cities - Reclaiming Sancre Tor.esp
+Better Cities IC Arena - Reclaiming Sancre Tor.esp
+Better Cities Skingrad - Reclaiming Sancre Tor.esp
 
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp

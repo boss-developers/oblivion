@@ -462,7 +462,7 @@ ENDGROUP: Earliest mods
 BEGINGROUP: NPC face mods
 //-------------
 //
-//Bash and deactivate to keep new faces with NPC altering mods later.
+//Bash and deactivate to keep now faces with NPC altering mods later.
 
 Better Looking NPC.esp
   TAG: {{BASH: NpcFaces, NoMerge}}

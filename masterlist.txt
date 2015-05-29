@@ -760,7 +760,7 @@ BEGINGROUP: UOP
 //---
 
 Unofficial Oblivion Patch.esp
-  SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
+  SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.nexusmods.com/oblivion/mods/28537"
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Music, C.Name, C.Owner, Creatures.Blood, Delev, Factions, Invent, NPC.Class, Names, Relations, Relev, Scripts, Stats}} and remove [C.Water] tag(s) (only exist in older version).
   IF CHECKSUM("Unofficial Oblivion Patch.esp", 64BCA292) DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 Unofficial Oblivion Patch DV.esp
@@ -832,7 +832,7 @@ tes4-CHS-book.esp
   SAY: Obsolete. Update to tes4-CHS-Addon.esp
 
 Unofficial Shivering Isles Patch.esp
-  SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://oblivion.nexusmods.com/mods/28537"
+  SAY: Use Standalone MOBS if using Frans or OMOBS if using FCOM/OOO. Both versions can be found here: "http://www.nexusmods.com/oblivion/mods/28537"
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.DeathItem, Actors.Stats, C.Climate, C.Light, C.Name, C.Owner, Delev, Factions, Invent, Names, Relev, Scripts, Stats, Relations}}
 USIPS Additional Changes.esp
   TAG: {{BASH: Relev}}
@@ -5521,7 +5521,7 @@ RustyItems.esp
   TAG: {{BASH: Graphics}}
 RTFemaleReplacerV12.esp
   TAG: {{BASH: Graphics, NoMerge}}
-  SAY: Robert's Female Body v. 1.2 users to make sure they download the "Rough Leather Shoes" fix ("http://oblivion.nexusmods.com/mods/28975")
+  SAY: Robert's Female Body v. 1.2 users to make sure they download the "Rough Leather Shoes" fix ("http://www.nexusmods.com/oblivion/mods/28975")
 RingOfWings v3.esp
 RingwraithArmorDaedric.esp
   SAY: Only have one ringwraith armor esp active at once.
@@ -11400,9 +11400,9 @@ MTC Glarthirs House.esp
 MTCStableInteriors.esp
 MTCExpandedVillages.esp
 // Must load before "Region Revive - Lake Rumare".
-  IF FILE("RTT.esp") && IFNOT FILE("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
-  IF FILE("Faregyl.esp") && IFNOT FILE("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://oblivion.nexusmods.com/mods/34010"
-  IF FILE("The Lost Spires.esp") && IFNOT FILE("MTCVillages-LostSpiresPatch.esp") WARN: Incompatible with Lost Spires unless using the patch available here: "http://oblivion.nexusmods.com/mods/42430"
+  IF FILE("RTT.esp") && IFNOT FILE("RTT-Weye Relocation Patch.esp") WARN: Incompatible with Ruined Tail's Tale unless using the patch available here: "http://www.nexusmods.com/oblivion/mods/34010"
+  IF FILE("Faregyl.esp") && IFNOT FILE("MTCVillages-FaregylPatch.esp") WARN: Incompatible with Faregyl Village unless using the patch available here: "http://www.nexusmods.com/oblivion/mods/34010"
+  IF FILE("The Lost Spires.esp") && IFNOT FILE("MTCVillages-LostSpiresPatch.esp") WARN: Incompatible with Lost Spires unless using the patch available here: "http://www.nexusmods.com/oblivion/mods/42430"
   IF CHECKSUM("MTCExpandedVillages.esp", 795046EF) DIRTY: 12 ITM, 290 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MTC-WeyePatch.esp
   IF FILE("MTCVillages-LakeRumarePatch.esp") WARN: Use this patch or "MTCVillages-LakeRumarePatch.esp", but not both.
@@ -11681,7 +11681,7 @@ Players with Jobs.esp
 Pond Cottage.esp
 Portrait Painter.esp
 Potion Of the Gods.esp
-  REQ: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://oblivion.nexusmods.com/mods/17032")
+  REQ: Jojjo's Lich King's armour, shield, and Frostmourne sword. ("http://www.nexusmods.com/oblivion/mods/17032")
   IF CHECKSUM("Potion Of the Gods.esp", D7023A76) DIRTY: 47 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 PotR.esp
 PotR v0.7 Delayer.esp
@@ -12088,7 +12088,7 @@ SoulGoddness.esp
   TAG: {{BASH: Hair, Eyes}}
     //no sure
   REQ: BBB systems
-  SAY: Please install "http://oblivion.nexusmods.com/mods/37368 MBP" if you have issues with eyes
+  SAY: Please install "http://www.nexusmods.com/oblivion/mods/37368 MBP" if you have issues with eyes
   SAY: Change the next settings in Oblivion.ini
   SAY:   bUseEyeEnvMapping=1
   SAY:   bFixFaceNormals=0
@@ -12637,7 +12637,7 @@ Vampire Hunting - Order Of The Virtuous Blood Vwalk.esp
 Valenwood Improved Vampire Hunting Patch.esp
 VHBloodlines 1.2.esp
   TAG: {{BASH: Actors.AIData, Actors.AIPackages}}
-  SAY: If you have SI installed, make sure you're using the update: "http://oblivion.nexusmods.com/mods/36389"
+  SAY: If you have SI installed, make sure you're using the update: "http://www.nexusmods.com/oblivion/mods/36389"
   IF CHECKSUM("VHBloodlines 1.2.esp", 4FBE3DC0) DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("VHBloodlines 1.2.esp", 8187F096) DIRTY: 45 ITM, 756 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("VHBloodlines 1.2.esp", CE62618B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13204,7 +13204,7 @@ Knights Companion Quarters.esp
 
 DLC_MOBS.esp
   SAY: Don't use BattleHorn_MOBS.esp, VileLair_MOBS.esp, MehrunesRazor_MOBS.esp, Knights_MOBS.esp or ThievesDen_MOBS.esp if using this as this includes all those.
-  SAY: Recommended to use version 2.0 or greater: "http://oblivion.nexusmods.com/mods/28537"
+  SAY: Recommended to use version 2.0 or greater: "http://www.nexusmods.com/oblivion/mods/28537"
   TAG: {{BASH: Deactivate, Filter, Stats, NoMerge}}
 MOBS DLCs.esp
   TAG: {{BASH: Stats, NoMerge}}
@@ -13696,7 +13696,7 @@ NRB4+QFE Patch.esp
 NRB4 + Highwood Patch.esp
 NRB4+Romancing Ahnassi Patch.esp
 LetThePeopleDrink-NRB patch.esp
-  ERROR: Do not use - has technical issues. Download the correct patch here: "http://oblivion.nexusmods.com/mods/20218"
+  ERROR: Do not use - has technical issues. Download the correct patch here: "http://www.nexusmods.com/oblivion/mods/20218"
 Battle Between Two Forts Roads and Bridges Patch.esp
 Northern Front - road+bridges - compatibility .esp
 
@@ -14570,7 +14570,7 @@ Adense RR Rumare UL Imperial Isle Patch.esp
 Adense UL Imp Isle AFK RR Rumare Patch.esp
 LetThePeopleDrink-ImperialIsle patch.esp
 LetThePeopleDrink-ImperialIsle-NRB4 patch.esp
-  SAY: Do not use - has technical issues. Download the correct patch here: "http://oblivion.nexusmods.com/mods/20218"
+  SAY: Do not use - has technical issues. Download the correct patch here: "http://www.nexusmods.com/oblivion/mods/20218"
 TalosGatehouse + ULImperialIsle.esp
 wb_TBG_RR-LR_UL-II_patch.esp
 ULPatchTinyHouse.esp
@@ -15119,7 +15119,7 @@ Open Cities New Sheoth.esp
   TAG: {{BASH: Actors.AIPackages}}
 
 Open Cities Bartholm.esp
-  REQ: Bartholm. "http://oblivion.nexusmods.com/mods/5022"
+  REQ: Bartholm. "http://www.nexusmods.com/oblivion/mods/5022"
 
 Open Cities Classic.esp
 
@@ -15130,7 +15130,7 @@ Open Cities Bravil.esp
 
 Open Cities Bravil Blood&Mud.esp
   SAY: Obsolete, unsupported. Please update to version 4.0+.
-  REQ: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
+  REQ: Bravil Blood&Mud. "http://www.nexusmods.com/oblivion/mods/12016"
 
 Open Cities Bruma.esp
   SAY: Obsolete, unsupported. Please update to version 4.0+.
@@ -15150,7 +15150,7 @@ Open Cities Full.esp
 
 Open Cities Full + Bravil Blood&Mud.esp
   SAY: Obsolete, unsupported. Please update to version 4.0+.
-  REQ: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
+  REQ: Bravil Blood&Mud. "http://www.nexusmods.com/oblivion/mods/12016"
 
 Open_Cities_Complete-Leyawiin_Reborn.esp
   SAY: Obsolete, unsupported. Please update to Open Cities Reborn 0.9 or above.
@@ -15158,7 +15158,7 @@ Open Cities Full + Leyawiin Reborn.esp
   SAY: Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
 Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp
   SAY: Obsolete. Upgrade to Open Cities Reborn, and follow the readme for proper instructions.
-  REQ: Bravil Blood&Mud. "http://oblivion.nexusmods.com/mods/12016"
+  REQ: Bravil Blood&Mud. "http://www.nexusmods.com/oblivion/mods/12016"
 Open Cities Classic B&M Additions.esp
 ENDGROUP: Open Cities Classic
 
@@ -15592,7 +15592,7 @@ Banes Guilds United.esp
   TAG: {{BASH: Invent}}
   IF VAR(OOO) ERROR: OOO users should be using "Banes Guilds UnitedOOO.esp" instead.
   IF CHECKSUM("Banes Guilds United.esp", CFA556BC) DIRTY: 45 ITM, 1661 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also includes a very large number of wild edits.
-  IF CHECKSUM("Banes Guilds United.esp", CFA556BC) WARN: Users are very strongly recommended to upgrade to v2+ of this mod to avoid serious issues. It can be found here: "http://oblivion.nexusmods.com/mods/42261"
+  IF CHECKSUM("Banes Guilds United.esp", CFA556BC) WARN: Users are very strongly recommended to upgrade to v2+ of this mod to avoid serious issues. It can be found here: "http://www.nexusmods.com/oblivion/mods/42261"
 Banes Guilds UnitedOOO.esp
   TAG: {{BASH: Invent}}
   IFNOT VAR(OOO) ERROR: Use "Banes Guilds United.esp" instead.
@@ -18977,7 +18977,7 @@ Infamy Pilgrimage.esp
 Ranokoas Undercover Overhaul TRN compatible.esp
 TRN One of the Gang.esp
   IF CHECKSUM("TRN One of the Gang.esp", A3C5ADAC) DIRTY: 89 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-  SAY: If using The Elder Council use the patch ("http://oblivion.nexusmods.com/mods/23526").
+  SAY: If using The Elder Council use the patch ("http://www.nexusmods.com/oblivion/mods/23526").
   SAY: If using Kuertee's Clothing Matters, edit Clothing Matters.ini and change kCMQuest.guardArmourCrimeGold and kCMQuest.guardArmourIsADisguise to 0
 ROC+TRN One of the Gang Patch.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
@@ -21286,7 +21286,7 @@ BEGINGROUP: Vilja Companion
 1em_Vilja_as_Chocolate_Elf Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 1em_Vilja_as_Custom_by_Gonzoguns.esp
-  REQ: Requires resources from Abriael Human Races Revamped ("http://oblivion.nexusmods.com/mods/25524"), the ESP file is not required.
+  REQ: Requires resources from Abriael Human Races Revamped ("http://www.nexusmods.com/oblivion/mods/25524"), the ESP file is not required.
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_Custom_by_Gonzoguns Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -21299,7 +21299,7 @@ BEGINGROUP: Vilja Companion
 1em_Vilja_as_Custom_by_Xtudo Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 1em_Vilja_as_High_Imperial.esp
-  REQ: Requires resources from Deathknowz's High Imperials Race ("http://oblivion.nexusmods.com/mods/33044") (all three files), the ESP file is not required.
+  REQ: Requires resources from Deathknowz's High Imperials Race ("http://www.nexusmods.com/oblivion/mods/33044") (all three files), the ESP file is not required.
   SAY: Choose only ONE customization for Vilja.
 1em_Vilja_as_High_Imperial Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -21361,7 +21361,7 @@ Arwen companion.esp
   TAG: {{BASH: Hair, Eyes}}
 Audrey companion.esp
 Baddy.esp
-  SAY: If you use Entius Gorge you need the compatibility patch found here: "http://oblivion.nexusmods.com/mods/13834"
+  SAY: If you use Entius Gorge you need the compatibility patch found here: "http://www.nexusmods.com/oblivion/mods/13834"
 Baddy-EntiusGorge patch.esp
 Arren.esp
 Arren-EntiusGorge patch.esp
@@ -22408,7 +22408,7 @@ Better Cities - Unique Landscape Skingrad Outskirts.esp
   TAG: {{BASH: C.Water}}
 Better Cities - Skyrim Nords.esp
 Better Cities - Storms & Sound.esp
-  REQ: "http://oblivion.nexusmods.com/mods/8711 Storms and Sounds"
+  REQ: "http://www.nexusmods.com/oblivion/mods/8711 Storms and Sounds"
   SAY: Reassign the "Storms & Sounds.esp" master using Bash depending on which S&S ESP you are using.
 Better Cities - Thievery.esp
 Better Cities - TIE Restricted Area.esp
@@ -23392,10 +23392,10 @@ DeadlyReflex - Combat Moves.esp
   SAY: Outdated. Update to v5+.
 DeadlyReflex 6 - Combat Moves.esp
   TAG: {{BASH: Graphics}}
-  REQ: NifSE ("http://oblivion.nexusmods.com/mods/21292")
-  REQ: Drop Lit Torches OBSE ("http://oblivion.nexusmods.com/mods/16282")
+  REQ: NifSE ("http://www.nexusmods.com/oblivion/mods/21292")
+  REQ: Drop Lit Torches OBSE ("http://www.nexusmods.com/oblivion/mods/16282")
 //preliminary placement. skycaptain says to load last, but as long as it loads after anything that changes combat game settings, the script magic effect and animations, it should be fine.
-  SAY: For use both DR6b101 and NifSE 1.0+ use fix ("http://oblivion.nexusmods.com/mods/40336")
+  SAY: For use both DR6b101 and NifSE 1.0+ use fix ("http://www.nexusmods.com/oblivion/mods/40336")
 Deadly Reflex 6 - HeX NifSE Patch.esp
 SM_DeadlyReflex.esp
 SM_DeadlyReflex5.esp

@@ -12652,7 +12652,7 @@ VHB Waterfront Patch.esp
 VHB Waterfront Patch - ImpeREAL version.esp
 
 Apachii_Goddess_Store.esp
-  SAY Recommended to enable only after you save game in IC Waterfront District
+  SAY: Recommended to enable only after you save game in IC Waterfront District
   IF CHECKSUM("Apachii_Goddess_Store.esp", 6644E61D) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Apachii_Goddess_Store.esp", 6633E61D) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Apachii_Goddess_Store_DV.esp

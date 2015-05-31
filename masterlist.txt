@@ -15036,11 +15036,11 @@ Salmo The Baker v2.0.esp
 Salmo The Baker v3.08.esp
 Salmo the Baker, Cobl.esp
   TAG: {{BASH: C.Owner, Names, Invent, Factions, Actors.Stats, NPC.Class, Actors.AIData, Actors.AIPackages, Graphics}}
-  SAY: MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+  SAY: MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistent crash.
   IF CHECKSUM("Salmo the Baker, Cobl.esp", E02E250D) DIRTY: 34 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Salmo WV, Cobl.esp
   SAY: Version of Salmo the baker for Woodland Village.
-  SAY: MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
+  SAY: MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistent crash.
 BetterInns - Salmo the Baker, Cobl PATCH.esp
 
 Sutch Village.esp

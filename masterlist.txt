@@ -132,7 +132,9 @@ IF FILE("Retros Fletching and Imbueing 1.7.1_rus.esp") ERROR: Delete. Included i
 HTSClight.esm
 NPC With Jobs.esm
 Better Mining.esm
+Better Mining Shivering Isles.esm
 Jobs.esm
+Jobs Shivering Isles.esm
 CLS-ClassyClothes.esm
 Tamrielic Ingredients.esm
   SAY: Do not use Tamrielic Ingredients and COBL at the same time.
@@ -397,7 +399,7 @@ Essential_Merchants.esp
 
 Oblivion_Deutsch_v5_1.esp
 
-//Guesing that this is a Polish reanslation of Oblivion, so loading early. Link supplied was for an unrelated mod.
+//Guessing that this is a Polish re-translation of Oblivion, so loading early. Link supplied was for an unrelated mod.
 Oblivion PL.esp
 
 HrmnsOblivionScriptOptimizationv1.0.esp
@@ -462,7 +464,7 @@ ENDGROUP: Earliest mods
 BEGINGROUP: NPC face mods
 //-------------
 //
-//Bash and deactivate to keep now faces with NPC altering mods later.
+//Bash and deactivate to keep new faces with NPC altering mods later.
 
 Better Looking NPC.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
@@ -4590,6 +4592,7 @@ Female Outfits by Koutetsu.esp
   INC: Better Abandoned House.
 Ferretmyster Chrysamere.esp
 FEZA Vesta Set.esp
+FGarmor.esp
 Fighters Guild Scalemail Full.esp
   TAG: {{BASH: Invent}}
 FF00_Clothes.esp
@@ -4713,6 +4716,7 @@ Goma Cloths.esp
 Gondorian Ranger Gear.esp
 GothFreak's Celtic Rings and Swords.esp
 Gothic Fetish Outfit.esp
+Greek hero armors and weapons.esp
 Grenth Set.esp
 GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
@@ -4870,6 +4874,7 @@ Insanity's Kill Bill Katanas.esp
   TAG: {{BASH: Invent}}
 Insanity's Blue Glass Armor.esp
 Insanity's Scarves.esp
+Instruments of Cyrodiil.esp
 Invisibility Robe.esp
 IP_Magerobes.esp
   TAG: {{BASH: Graphics}}
@@ -9766,6 +9771,7 @@ Better Benirus Manor - AN Patch.esp
 Better Benirus Manor - RL Patch.esp
 Better Benirus Manor - SYS Patch.esp
 BBM - Ghorak's House Patch.esp
+Better Mining Patch.esp
 Better Rosethorn Hall.esp
 Better Rosethorn Hall - Cobl Patch.esp
 Better Shady Sam.esp
@@ -10962,6 +10968,7 @@ jauOgreRide.esp
 Jeral View Chalet.esp
 JHraesvelgrsTalon_1C.esp
 Jobs Patch.esp
+Jobs Shivering Isles Patch.esp
 JolardHome.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats}}
 JQ-AssassinQuest.esp
@@ -13009,6 +13016,7 @@ DLCFrostcrag.esp
   IF CHECKSUM("DLCFrostcrag.esp", E91BC831) DIRTY: 98 ITM, 185 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DSoSFrostCragRebornExteriorStairsFix.esp
   IF CHECKSUM("DSoSFrostCragRebornExteriorStairsFix.esp", D2621E65) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Frostcrag_LOD.esp
 Kvatch Rebuilt_Frostcrag Reborn.esp
 Kvatch Rebuilt_Frostcrag.esp
 DLCFrostcrag - Unofficial Patch.esp
@@ -13516,7 +13524,10 @@ Unofficial PatchesRefurbished -- ALL.esp
 
 BrewHouse.esp
   SAY: Use v1.5 or later to avoid extensive compatibility issues.
-
+Imperial Outpost Bruma.esp
+Imperial Outpost Jerall Mtn.esp
+Imperial Outpost Leyawiin.esp
+Imperial Outpost Wilderness.esp
 LegionOutposts.esp
 GoldenCrest-LegionOutposts Patch.esp
 Kragenirs-LegionOutposts Patch.esp 
@@ -13732,6 +13743,8 @@ MTCEV-RoC Patch.esp
 Trails of Cyrodiil Bleakersway.esp
 ROC-TOCBleakerPatch.esp
 
+//Needs to load after Roads of Cyrodiil to avoid conflicts
+Grass Overhaul.esp
 Immersive Prison sewer exit.esp
   IF CHECKSUM("Immersive Prison sewer exit.esp", D607A66) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 NRBsewer exit.esp
@@ -16535,6 +16548,8 @@ P-Froggys NPC-Respawning 3 Tage NORMAL.esp
 Respawnable NPC Mod.esp
 PalaceGuard+EmporerArmorLoot v1.0.1.esp
 Panzer_Kleidung.esp
+Passive Mudcrabs 1.esp
+IF CHECKSUM("Passive Mudcrabs 1.esp", AE9E8BD8) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Pearl Farming.esp
 PersuasionOverhaul.esp
   IF CHECKSUM("PersuasionOverhaul.esp", 8948EEF4) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -17642,7 +17657,7 @@ quickstart1.2.esp
 
 ROM Patch - Alternative Start.esp
   TAG: {{BASH: Scripts}}
-
+scarycave-SETGateStart.esp
 Shorter Escape.esp
 Skip the Tutorial Dungeon.esp
 SkipTutor.esp
@@ -22487,7 +22502,8 @@ OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
   IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
   IF FILE("TalosGatehouse + ULImperialIsle.esp") WARN: You Only need this patch. Remove the TalosGatehouse + ULImperialIsle.esp
   IF FILE("wb_TBG_RR-LR_UL-II_patch.esp") WARN: You Only need this patch. Remove the wb_TBG_RR-LR_UL-II_patch.esp
-  TAG: {{BASH: C.Water}}  
+  TAG: {{BASH: C.Water}} 
+OSPS-BC_Imperial_Isle-UL_Imperial_Isle_Talos_Bridge_Gatehouse-Region_Revive_Patch.esp  
 RegionalFarms-BCPatch.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp

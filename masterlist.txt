@@ -337,7 +337,7 @@ TIE4MODS.esm
 Portal.esm
 MigMaster.esm
 CustomSpellIcons.esm
-CustomSpellIcons-OBME.esm
+CustomSpellIcons - OBME.esm
 Extended Game Mechanics.esm
 HorseCombatMaster.esm
 Horse Combat Master.esm
@@ -1404,7 +1404,7 @@ BEGINGROUP: Sound mods
 Ayleid Well Sounds.esp
 Better Bell Sounds.esp
   TAG: {{BASH: Scripts}}
-BettysJungleAmbience.esp
+BettysJungleAmb.esp
 HBM.esp
 Idle Dialogue.esp
   IF CHECKSUM("Idle Dialogue.esp", F3DDD964) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -1513,6 +1513,7 @@ QuietFeet HorseArmor.esp
 Silent Player Voice.esp
 ElzMoreVoice.esp
 ElzMoreVoice-For Companion.esp
+EMC2 StreamMusic - Filter.esp
 Drum_Fix.esp
 NoPlayerGrunts.esp
 NoPlayerGroans.esp
@@ -4562,6 +4563,7 @@ Fall Hair Wig - DV.esp
 FalxMod.esp
   TAG: {{BASH: Invent}}
 fang-flakpak.esp
+Fang of Haynekhtnamet.esp
 Fans for Helain.esp
 Fantasy Lingerie.esp
 Fantasy Mod.esp
@@ -7679,6 +7681,7 @@ OMOBS_Optionial Combat Settings.esp
   SAY: Do not use with OOO or FCOM.
 OMOBS Optional Combat Settings.esp
   SAY: Do not use with OOO or FCOM.
+OMOBS 2 Vanilla+SI.esp
 
 mg19obsefix.esp
   REQ: OBSE
@@ -12598,7 +12601,6 @@ ENDGROUP: Quests U
 BEGINGROUP: Quests V
 
 Valenwood Improved.esp
-ValenwoodIslands.esp
 AkaviriKojima.esp
 Valley_View_Estate.esp
   IF CHECKSUM("Valley_View_Estate.esp", 0BC0E798) DIRTY: 28 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13430,6 +13432,15 @@ Adense AFK_Weye RR Rumare Patch Patcher.esp
 AFKWeye_MTC_RRLRumarePatch.esp
 Weye_Armory1.esp
 
+Battlehorn Castle Refined.esp
+Battlehorn Castle Refined - GoldenCrest Patch.esp
+Battlehorn Castle Refined - Servant of the Dawn Patch.esp
+Battlehorn Castle Refined - Tona Store Patch.esp
+Battlehorn Castle Refined - AFK_Weye Patch.esp
+Battlehorn Castle Refined - AFK_Weye + Tona Store Patch.esp
+Battlehorn Castle Refined - AFK_Weye + VHBloodlines Patch
+Battlehorn Castle Refined - AFK_Weye + VHBloodlines + Tona Store Patch.esp
+
 House of Healing at Weye.esp
 House of Healing at Weye Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -13861,6 +13872,9 @@ Better daedric shrine Azura.esp
 Better daedric shrines full.esp
   IF CHECKSUM("Better daedric shrines full.esp", 5B2AC7E3) DIRTY: 35 ITM, 158 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 BettysJungleNamriel.esp
+BettysNamriel.esp
+BettysNamrielPalms.esp
+BettysNamrielPalms2.esp
 CorboloFisheries.esp
 HammerfellBorders.esp
 TheImperialShipyards.esp
@@ -13879,6 +13893,8 @@ Oblivifall - Losing My Religion Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Palms.esp
 Tropical Cyrodiil.esp
+Trees Overhaul.esp
+  IF CHECKSUM("Trees Overhaul.esp", ACA6F616) DIRTY: 336 ITM, 363 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Tundra Bruma.esp
 Unique Forts Fort Strand.esp
   IF CHECKSUM("Unique Forts Fort Strand.esp", 5AAF40DC) DIRTY: 4 ITM, 35 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -14068,6 +14084,9 @@ StalhrimVillage - AN Patch.esp
 Pinevale-Stahlrim Patch.esp
 Sutch Reborn.esp
 OOO-Sutch patch.esp
+
+CloudTopManor.esp
+ShezriesTownRavensViewPatch.esp
 
 Urasek.esp
 Urasek Vwalk.esp
@@ -14774,6 +14793,13 @@ TrailsOfCyrodiilWest-UL merged patch.esp
 TrailsOfCyrodiilWest-UL merged patch DV.esp
 TrailsOfCyrodiil-UL merged patch.esp
   IF CHECKSUM("TrailsOfCyrodiil-UL merged patch.esp", 17FBD2C7) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+
+ValenwoodIslands.esp
+ValenwoodIslands - Marriage.esp  
+ValenwoodIslands - Shezries Towns patch.esp
+ValenwoodIslands - ULSnowdalepatch.esp
+ValenwoodIslands - ULCliffsOfAnvilpatch.esp
+  
 ENDGROUP: Unique Landscapes and Compatibility Patches
 
 BEGINGROUP: Post UL, Pre BC
@@ -16339,6 +16365,7 @@ Mage_Guild_Teleport.esp
 Mages Guild Services.esp
 MagicArrows_1.0.esp
 MagicArrows.esp
+MagicJump.esp
 Magic Spell Perks Balanced.esp
   REQ: OBSE
 MancarCamoranReplacer.esp
@@ -16627,6 +16654,7 @@ Regional Legion Soldiers by Ionis.esp
 Relevant Scrolls.esp
 Relevant Potions.esp
 Relevant Scrolls and Potions.esp
+Relevant Scrolls & Potions & Staves.esp
 ReneerNPCSneakMod.esp
 Repair Anytime-9384.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch Tweak Combat Repair [Allowed] instead.
@@ -17076,6 +17104,7 @@ SnusDungeons.esp
 SnusDungeons - OOO patch.esp
 SnusDungeons - TAS patch.esp
 SnusDungeons - BD patch.esp
+SoC Ingredient Patch.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
 Soul Gem Bigger Capacity.esp
@@ -17302,6 +17331,7 @@ Docile SI Creatures.esp
 Tamriel's Glittering Geology- No Gold Weight.esp
 tbskGuardsFeatures.esp
   REQ: Universal Skeleton, HG Eyecandy Body, Roberts Male Body Replacer
+tbskGuardsFeatures OOO Patch.esp
 TD_All_House_For_Sale_Replacer.esp
 Teleport Everywhere.esp
   REQ: OBSE.
@@ -17784,6 +17814,7 @@ WeightLifter.esp
 Vim_and_Vigor.esp
 Vim_and_Vigor_rus.esp
 REGEX: Vim_and_Vigor_\d(\.\d)?x(_rus)?\.esp
+FF_VV_Overhauled.esp
 Vim_and_Vigor_rus_OOO.esp
 Vim_and_Vigor_H2H.esp
 Vim_and_Vigor_H2H_rus.esp
@@ -18306,6 +18337,8 @@ Summon Dremora Lord Saved.esp
 Summon Fairy_v0.91xDS.esp
 SummonKnightofOrderOBME.esp
   REQ: SI and OBSE and OBME
+Summon Oblivion Gate v08c.esp
+Summon Oblivion Gate v08d.esp
 Summon Shadowmere.esp
 SummonVampire.esp
 TeachSpell.esp
@@ -18331,7 +18364,7 @@ training spells.esp
 //Turn the below into a checksum-based warning at some point. CRC = DD4985A
   SAY: DO NOT USE. This plugin is corrupt. It may be fixed by loading it in the CS and truncating the file when prompted.
 Transmutation Spell.esp
-Tropical Weather.esp
+TropicalWeather.esp
 Tylaars Multimark.esp
 (Un)Holy Heal.esp
 Unique Summons & Banish Flesh.esp
@@ -19052,6 +19085,7 @@ SuddenViolence_Push.esp
 SuddenViolence_Sprint.esp
 SuddenViolence_ElementalSpells.esp
 
+Push Combat Ability.esp
 Push_Spin_Fly.esp
   REQ: OBSE.
 Push_Shove_Die.esp

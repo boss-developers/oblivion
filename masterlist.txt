@@ -22524,7 +22524,6 @@ Better Cities - Open Better Cities.esp
   TAG: {{BASH: Actors.AIPackages}}
 FCOM_BetterCities-Bravil.esp
 MercerIngredientsBC.esp
-OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
 OSPS-BC_IC-II_UL-II_Patch.esp
   IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
 OSPS_BC_IC-II_UL-II_TalosBridge_Patch.esp
@@ -22533,12 +22532,20 @@ OSPS_BC_IC-II_UL-II_TalosBridge_Patch.esp
 OSPS-BC_IC-II_UL-II_RRLR_Patch.esp
   IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
   TAG: {{BASH: C.Water}}
+OSPS-BC_IC-II_RRLR_Patch.esp
+  IF FILE("xulImperialIsle.esp") WARN: Use OSPS-BC_IC-II_UL-II_Patch.esp instead.
+  TAG: {{BASH: C.Water}}
 OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
   IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
   IF FILE("TalosGatehouse + ULImperialIsle.esp") WARN: You Only need this patch. Remove the TalosGatehouse + ULImperialIsle.esp
   IF FILE("wb_TBG_RR-LR_UL-II_patch.esp") WARN: You Only need this patch. Remove the wb_TBG_RR-LR_UL-II_patch.esp
   TAG: {{BASH: C.Water}} 
-OSPS-BC_Imperial_Isle-UL_Imperial_Isle_Talos_Bridge_Gatehouse-Region_Revive_Patch.esp  
+OSPS-BC_Imperial_Isle-UL_Imperial_Isle_Talos_Bridge_Gatehouse-Region_Revive_Patch.esp
+  IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
+  IF FILE("TalosGatehouse + ULImperialIsle.esp") WARN: You Only need this patch. Remove the TalosGatehouse + ULImperialIsle.esp
+  IF FILE("wb_TBG_RR-LR_UL-II_patch.esp") WARN: You Only need this patch. Remove the wb_TBG_RR-LR_UL-II_patch.esp
+  IF FILE("OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp") WARN: You Only need this patch. Remove the OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
+  TAG: {{BASH: C.Water}}
 RegionalFarms-BCPatch.esp
 
 Oblivifall - Losing My Religion BC Anvil.esp

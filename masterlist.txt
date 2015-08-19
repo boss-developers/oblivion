@@ -785,6 +785,7 @@ ArUderfrykteFix.esp
 Finger of the Mountain Fix.esp
   SAY: Obsolete. Included in the UOP.
 MG01-fix.esp
+Fix_OghmaInfiniumCrash.esp
 Primate Rank Fix.esp
   TAG: {{BASH: Factions}}
 Permanent Effects from Quest Items fix.esp
@@ -2020,14 +2021,11 @@ Clamrespawn.esp
 
 Clocks Of Cyrodiil.esp
 ClocksOfCyrodiil.esp
-  SAY: For use with Better Cities use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
   IF CHECKSUM("ClocksOfCyrodiil.esp", 06910C69) DIRTY: 46 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ClocksOfCyrodiilBC.esp
-  IF FILE("ClocksOfCyrodiil.esp") SAY: Deactivate CLocksOfCyrodiil.esp
-  SAY: Obsolete. Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+  SAY: Obsolete. Not compatible with Better Cities version 6.0 or later.
 ClocksOfCyrodiilOBC.esp
-  IF FILE("ClocksOfCyrodiil.esp") SAY: Deactivate CLocksOfCyrodiil.esp
-  SAY: Use 'ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp' instead.
+  SAY: Obsolete. Not compatible with Better Cities version 6.0 or later.
 ClocksOfCyrodiilNoArcane.esp
 ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
   IF FILE("ClocksOfCyrodiil.esp") WARN: Deactivate CLocksOfCyrodiil.esp
@@ -4171,6 +4169,7 @@ BlackPuppetLight.esp
   IF CHECKSUM("BlackPuppetLight.esp", ADCD53A4) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 BlackPuppetUltraLight.esp
   IF CHECKSUM("BlackPuppetUltraLight.esp", 50D6E645) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+BreakArmor.esp
 Brigand's Gear.esp
   TAG: {{BASH: Invent}}
 Brittainy's Finery Addon.esp
@@ -4301,6 +4300,7 @@ ColourWheel_Uniforms_v1.5.esp
 chainmailsdezi.esp
 CasquetteCamisoleX117.esp
 Corset Dress.esp
+Cute Apron.esp
 Cute Leather Dress.esp
 Cute Lily Armor.esp
 Cute Summer Wears.esp
@@ -4632,6 +4632,8 @@ FlameGlassEquipment.esp
 FLY Armor and Clothing - Non-replacers.esp
   IF CHECKSUM("FLY Armor and Clothing - Non-replacers.esp", B0FDF6F) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 FLY Armor and Clothing - NR Leveled Lists.esp
+Folklore Dress.esp
+Folk Dress Collection.esp
 Forest Friend.esp
 Forestlight Armor.esp
 ForgedSteelDaggers.esp
@@ -4738,6 +4740,7 @@ Grenth Set.esp
 GriffinArmor.esp
 GothFreak's Crystal Weapons.esp
 GothicGirls.esp
+Goth Minidress.esp
 GrayFoxLeatherFree.esp
 Grigors_Grimoires.esp
 Griffon Fortress.esp
@@ -4772,6 +4775,7 @@ BEGINGROUP: Items H
 Hades.esp
 Handschuhe.esp
 Harlequin Armour 0.6.esp
+Harness wear.esp
 HaroK Arrow Forge Revisited.esp
   TAG: {{BASH: Invent}}
 Hashshashin Armor.esp
@@ -4820,6 +4824,7 @@ Hentai_Compilation.esp
 Hentai_Lily_Angel'sWing.esp
 Hentai_LilyClothes.esp
 HentaiNightmareArmor.esp
+Hentai Raven Suit_BBB.esp
 HentaiSchoolGirlCollection.esp
 HentaiSeraphimArmour.esp
 Hentai_Seraphim_Blade.esp
@@ -5175,6 +5180,7 @@ MDMM.esp
 mECB_Collection.esp
 Medieval leather armors.esp
 Medieval Swords.esp
+MenaceoutfitHgec.esp
 Mephala Artifacts.esp
 Miche_Elvaan_Underwear.esp
 Midlander.esp
@@ -5278,6 +5284,7 @@ Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp
   TAG: {{BASH: Relev}}
 Neck Ornament.esp
 NecroArmour.esp
+Negligee.esp
 Negotiator Sword.esp
 NemakkiArrows_1C.esp
 Neo-Amidala.esp
@@ -5409,6 +5416,7 @@ Peasant_Gowns_HGEC.esp
 Pekka_Shields_Light.esp
 Pekka_Shields_Heavy.esp
 PEDress.esp
+Petal Dress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
   IF CHECKSUM("PhoenixEquipment.esp", 88C21554) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -5662,6 +5670,7 @@ SilverPhoenixArmor.esp
 Simple coordinate.esp
   REQ: HGEC Body & Corronera's Maximum Compatibility Skeleton
 Simple Knit.esp
+Simple leather armor.esp
 Simple Outfits Collection.esp
 Sin's Expanded Light Armor Kit [Chest].esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
@@ -5748,6 +5757,7 @@ sluggosilkdancer.esp
 SMDR 001 DM Dress.esp
 smkTamrielicLoreItems01.esp
 SnakeArmor.esp
+Sneak peek Bodysuit.esp
 Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
   IF CHECKSUM("SnowySignatureOutfit.esp", 20498F08) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -5783,6 +5793,7 @@ Spellbreaker Replacer No Tweak With Reflection.esp
 Spellbreaker Replacer No Tweak No Reflection.esp
   TAG: {{BASH: Graphics}}
 SpeedBuster Collection.esp
+SPBabydoll.esp
 SPB Wrapping Armors.esp
 SPBAllinone.esp
 SPB Belt Girl.esp
@@ -8912,6 +8923,8 @@ beardy.esp
   TAG: {{BASH: NpcFaces}}
 FCOM 300_Resource.esp
   SAY: Plugin used for testing - do not use in game, deactivate.
+Skyrimesque Counts and Countesses.esp
+  TAG: {{BASH: Invent}}
 
 BEGINGROUP: CNRP
 CNRP Brumav02.esp
@@ -9931,6 +9944,8 @@ DeepHackdairt.esp
 
 BrotherhoodRenewed.esp
   TAG: {{BASH: Actors.AIPackages, Factions}}
+BrotherhoodRenewed Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 BrotherhoodRenewed - Oblivion XP Patch.esp
   REQ: OBSE, Oblivion XP
 Oblivifall - Losing My Religion Vwalk.esp
@@ -12066,6 +12081,7 @@ SilverSoul Hideaway_v1.1.esp
 SIMushroomHouse.esp
 Simple Cabin.esp
 Simple Life - Antus Family.esp
+SinbloodShop.esp
 SingingStablehandInn.esp
 Serene Cabin.esp
 Settlement of Tanis.esp
@@ -16827,6 +16843,7 @@ GoldRingOfViagra.esp
 HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp
+HiyokoGeneratorBroodMother.esp
 HiyokoQuestTarget.esp
 TamagoSetBody.esp
 TamagoClubIcons.esp
@@ -16915,6 +16932,7 @@ LoversBrute.esp
 LoversDarkLessons.esp
 LoversHarvest.esp
 LoversHiyokoShooter.esp
+HiyokoFutureDream.esp
 LoversHorseRider.esp
 LoversHypnosis.esp
 LoversImmoralGuards.esp
@@ -16942,6 +16960,7 @@ Lovers_pkr.esp
   SAY: Old, update to version 1.3b3 Rev05a or later.
 Lovers with PK.esp
 LoversBitch.esp
+LBPMill.esp
 LoversCreature.esp
 LoversCreatureExtender.esp
 LoversCreatureVoiceForceEnabler.esp
@@ -17011,6 +17030,7 @@ LoversTrueCrimeEx.esp
 LoversSlaveTrader.esp
 LSTBravilUnderground.esp
 LoversSexKariBurne.esp
+LoversSexSense.esp
 LoversStupidNpc.esp
 LoversSurrender.esp
 LoversHVirus.esp
@@ -19844,6 +19864,7 @@ Goma Pose 14.esp
 Goma Pose 15.esp
 Goma Pose 16.esp
 
+Goma Pose Merged.esp
 
 LainPose.esp
 LainPoseMOD.esp
@@ -22513,6 +22534,7 @@ BCSkingrad-SkingradOutskirts patch.esp
   SAY: Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.
 Better Cities - Unique Landscape Skingrad Outskirts.esp
   TAG: {{BASH: C.Water}}
+Better Cities - Unique Landscape Snowdale.esp
 Better Cities - Skyrim Nords.esp
 Better Cities - Storms & Sound.esp
   REQ: "http://www.nexusmods.com/oblivion/mods/8711 Storms and Sounds"

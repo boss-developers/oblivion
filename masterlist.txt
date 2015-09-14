@@ -1953,6 +1953,8 @@ CATSDeerPeltsAndAntlers.esp
   SAY: Moving after overhauls may restore this mod's functionality but may break some overhaul mod settings. Untested.
 ColourWheels LOD project (Imperial City).esp
 
+CCC - All in One.esp
+
 Complete Names.esp
   TAG: {{BASH: Names}}
 Complete Names - DV.esp
@@ -4000,7 +4002,6 @@ ENDGROUP: Items A
 
 BEGINGROUP: Items B
 
-BMEnchantmentRebalance.esp
 BAB Cold Steel.esp
 BABnecklacesbykalikut.esp
 Bad Lady.esp
@@ -7570,7 +7571,7 @@ a4sFlamingNightmare-OOO.esp
   TAG: {{BASH: Graphics, Scripts}}
 Vanilla House Prices for OOO.esp
 Boethia_OOO.esp
-
+BMEnchantmentRebalance.esp
 Alluring Potion Bottles.esp
   TAG: {{BASH: Graphics}}
 Alluring Potion Bottles v2.esp
@@ -9708,7 +9709,7 @@ Banes Artifacts for Adventurers 2.esp
 
 Brothers Trade Goods.esp
 Banes Bruma Merchant Upgrade.esp
-Red Diamond Jewelry.esp
+Red Diamond Jewerly.esp
 Banes Anvil Merchant Upgrade.esp
 Banes Chorrol Store Upgrade.esp
 Banes Fallen Angel Sanctuary.esp
@@ -10318,7 +10319,7 @@ delivery_job - OAG.esp
 Delivery Job - BC.esp
   SAY: Must deactivate delivery_job.esp if using it. This ESP replaces that file.
   SAY: Obsolete: Now integrated with Better Cities 4.6+. Update and delete this plugin.
-DivineEleganceEnglishV.esp
+Divine EleganceEnglishV.esp
 DJZ Archmage's Study.esp
 DJ Markov Manor.esp
   IF CHECKSUM("DJ Markov Manor.esp", 6CB134C6) DIRTY: 245 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -10596,6 +10597,7 @@ Gift of Kynareth v2.1 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 Giskards Tales From the Tomb.esp
   IF CHECKSUM("Giskards Tales From the Tomb.esp", 090F0F66) DIRTY: 1 ITM, 24 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Glenmoril Covens.esp
 GlowplugSilatari.esp
 GoblinwatchKeep.esp
 goblinworld.esp
@@ -11437,6 +11439,7 @@ MountainRetreat.esp
 MountainTower.esp
 SYS Patch-Mountain Tower.esp
 mrSiikas_DwemerTechnology_DwemerSubway.esp
+Mr Siika Dwemer Subway Expanded.esp
 mr_Siikas_MerchantShip.esp
 mrSiikasBetterPorts_CorvetteExpansion.esp
   IF CHECKSUM("mrSiikasBetterPorts_CorvetteExpansion.esp", A7EEA5FC) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -15298,6 +15301,7 @@ ImpeREAL Empire - Unique Castles - All The Castles - OCC B&M.esp
 Better Cities - Open Cities Reborn.esp
 Better Cities - Open Cities Reborn B&M Compatibility.esp
 Open Cities new script for city doors.esp
+Mr Siika Dwemer Subway Expanded - OCR Patch.esp
 OC+Bravil Docks Patch.esp
   SAY: Note - Be sure this is being used on Bravil Docks by Greg Simmonds. Will cause a CTD with the wrong file.
 OCC-ABE-LC-Land Patch.esp
@@ -15348,6 +15352,7 @@ OC+ULSkingradOutskirts Patch.esp
   SAY: Upgrade to Open Cities Classic or Open Cities Reborn and use the corresponding patch file.
 OCC+ULSkingradOutskirts Patch.esp
 OCR+ULSkingradOutskirts Patch.esp
+Open Cities Reborn - CoO1 Patch.esp
 OC+ULSO+WestRoads Patch.esp
   SAY: Obsolete. Update West Roads to version 1.2. Download and use "Open Cities - Skingrad Outskirts Patch v1_0" instead.
 OCR + MTCRiverShack Patch.esp
@@ -15705,6 +15710,7 @@ Better dungeons.esp
   TAG: {{BASH: C.Light, C.Water}}
   IF CHECKSUM("Better dungeons.esp", 4908CB39) DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Better dungeons.esp", ADC761D9) DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+TreasureChest - Better Dungeons.esp
 IF ACTIVE("Better Dungeons.esp") MOD: SunderedKeep.esp
   // Has conflicts with Better Dungeons.esp and should loaded after Better Dungeons.esp on time of quests execution of the SunderedKeep.esp
 SunderedKeep Vwalk.esp
@@ -16027,6 +16033,7 @@ E0ThievesGuildFence-High.esp
 EasierSpeechcraftTrainingQuest.esp
 ecatSmartBookshelf.esp
 Elys Invest More.esp
+Elz - No Floating Weapon.esp
 em_extrabedLeyaw.esp
 em_extrabedChey.esp
 em_extrabedBravil.esp
@@ -16346,6 +16353,7 @@ LootAllowBlades+Emporer+Extras.esp
 Loot All Armor.esp
 Lootable Captain Renault.esp
 Lootable Merchant Chests.esp
+Looting Mechanics Overhaul.esp
 LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
@@ -17456,6 +17464,7 @@ undercover.esp
   IF CHECKSUM("undercover.esp", 757F1F42) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 UnleveledQuestRewards.esp
   TAG: {{BASH: Delev, Relev}}
+UnleveledQuestRewardsDLCFilter.esp
 Updated! Gem Price Fix_rus.esp
 upperGothicClutter.esp
   TAG: {{BASH: Graphics}}
@@ -22002,6 +22011,8 @@ ZUSIO-Map MarkerOverhaul SI-patch.esp
   IF CHECKSUM("ZUSIO-Map MarkerOverhaul SI-patch.esp", B66FCFAE) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ZUSIO-SM Plugin Refurbish SI-patch.esp
   TAG: {{BASH: Scripts}}
+OOOShiveringIsles.esp  
+OOOSI-Map MarkerOverhaul SI-patch.esp
 ENDGROUP: ZU SI Overhaul
 
 BEGINGROUP: L.A.M.E.
@@ -22467,11 +22478,12 @@ BCChorrol-ChorrolHinterland patch.esp
 WeynonRetreat-Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
   TAG: {{BASH: C.Water}}
+xulChorrolHinterland-BC6.esp
 Better Cities CHORROL - Werewolf.esp
-
 Better Cities BRUMA - Werewolf.esp
-Side's Bruma House (BC patch).esp
+Better Cities Bruma - The Elder Council.esp
 
+Side's Bruma House (BC patch).esp
 Better Cities - Knightly Armory.esp
 Better Cities - Knights of the Nine.esp
   IFNOT FILE("Better Cities - Open Better Cities.esp") ERROR: This patch should only be used with "Better Cities - Open Better Cities.esp".
@@ -22510,9 +22522,10 @@ Better Cities - Alternative Start Arrive by Ship.esp
 Better Cities - MOBS.esp
 Better Cities - Origin of the Mages Guild.esp
 Better Cities - Reclaiming Sancre Tor.esp
+Better Cities Chorrol - Reclaiming Sancre Tor.esp
 Better Cities IC Arena - Reclaiming Sancre Tor.esp
 Better Cities Skingrad - Reclaiming Sancre Tor.esp
-
+Better Cities IC Arena - WAC Gladiator.esp
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp
 Better Cities Full B&M - CUO Leyawiin Patch.esp
@@ -22632,6 +22645,8 @@ Oblivifall - Losing My Religion BC Full B&M.esp
 Oblivifall - Losing My Religion BC Full.esp
 Oblivifall - Losing My Religion BC Leyawiin.esp
 Oblivifall - Losing My Religion BC Skingrad.esp
+Better Cities Chorrol - Oblivifall Losing My Religion.esp
+Better Cities Skingrad - Oblivifall Losing My Religion.esp
 Qarl's Harvest - Full BC+UL patch.esp
 SMChorrol - BC Patch.esp
 ENDGROUP: BC Compatibility patches

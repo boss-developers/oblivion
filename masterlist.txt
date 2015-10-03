@@ -13974,6 +13974,8 @@ TWMP_ProvinceHighRock.esp
   REQ: Tamriel Heightmaps, Tamriel Landscape Pack, Tamriel Resource Pack, Mr_Siikas Highrock Resources
   IF CHECKSUM("TWMP_ProvinceHighRock.esp", C429C648) DIRTY: 98 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TWMP_Skyrim.esp
+TWMP_SkyrimImproved.esp
+TWMP_Locations.esp
 TWMP_Morrowind.esp
 AK- Morroblivion in Tamriel.esp
 TWMP_ BlackMarsh.esp
@@ -14192,6 +14194,46 @@ Willowoak Farm-7981.esp
 Woodelvendon.esp
 
 ENDGROUP: Towns and Villages
+
+BEGINGROUP: HESU Mods and Patches
+//--------------------------------
+
+HESU5 AppleOnsen.esp
+  WARN: Obsolete. Update to the latest version.
+HESU AppleHotSprings.esp
+ROC-AppleHotSprings Patch.esp
+HESU5 JigokuDani.esp
+HESU HellLands.esp
+HESU5 PoisonNuma.esp
+HESU PoisonSwamp.esp
+HESU4 SkyrimSinden.esp
+HESU SkyrimTemple.esp
+HESU5 EUdaBear.esp
+HESU GnollMountain.esp
+HESU5 SmokeTown.esp
+HESU SmokeTown.esp
+HESU5 ValenwoodMine.esp
+HESU ValenwoodMine.esp
+HESU4 Garagara.esp
+HESU GreatForestGorge.esp
+HESU4 NomutonMura.esp
+HESU Shipton.esp
+HESU5 DiveRock.esp
+HESU DiveRock.esp
+HESU5 IsobeGyoson.esp
+HESU SeasideSettlement.esp
+HESU5 KoYoTown.esp
+HESU KoyoTown.esp
+HESU6 Patch Nomuton Isobe.esp
+HESU ShiptonSeaside Patch.esp
+HESU5 GFbedtown.esp
+HESU WolfsBorough.esp
+HESU5 GreenRoad.esp
+HESU WhiteRoseRiver.esp
+HESU5 UraraMura.esp
+HESU FairmereVillage.esp
+
+ENDGROUP: HESU Mods and Patches
 
 BEGINGROUP: CUO Cities
 //-----------------------
@@ -14630,6 +14672,7 @@ TOC ColovianHighlandVanilla-BrenaRiver Patch.esp
 TOC ColovianHighlandUL-BrenaRiver Patch.esp
 TOC MergedVanilla-BrenaRiver Patch.esp
 TOC MergedCH-BrenaRiver Patch.esp
+TWMP_Hammerfell-xulBrenaRiverRavine-xulBeachesOfCyrodiil-xulTheHeath_Patch.esp
 NakedNord.esp
   IF CHECKSUM("NakedNord.esp", AB1B9D3C) DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OCC+NakedNord Patch.esp
@@ -15147,6 +15190,7 @@ Sutch Village Vwalk.esp
 NagaiaMolag-SutchVillage Patch.esp
 SutchUnificationPatch.esp
 LostCoast + SutchVillage Patch.esp
+TWMP_Hammerfell - Sutch Village.esp
 Sutch Village Mehrunes Maze Patch.esp
 
 Trees_In_Cities.esp
@@ -17716,6 +17760,7 @@ Alternative Beginnings.esp
   IF CHECKSUM("Alternative Beginnings.esp", 4B2AE0D9) DIRTY: 17 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Alternative Beginnings - Kvatch Intact.esp
 AlternativeBeginningsDV.esp
+AppleHotSprings-AltBeginnings Patch.esp
 Alternative Start by Robert Evrae.esp
   TAG: {{BASH: Relations, Invent}}
 Alternative Start v1.2.esp
@@ -22428,13 +22473,16 @@ ENDGROUP: Better Cities FPS Patches
 
 BEGINGROUP: BC Compatibility patches
 
+ShippingOnNiben.esp
+
 All Natural Real Lights - Better Cities IC Patch.esp
 An Unexpected Company - Better Cities.esp
 
 Better Abandoned House - BC_OBC Patch.esp
-
+Better Cities - Vanilla Hair.esp
 Better Cities Resources Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Better Cities Chorrol - Immersive Interiors.esp
 Better Cities - All Natural.esp
 
 Better Cities - Dark Brotherhood Chronicles.esp
@@ -22578,6 +22626,7 @@ IslandPalace-LostCoast-BCF Patch.esp
 IslandPalace-LostCoast-BC6 Patch.esp
 SnowyRoad-BetterCities Patch.esp
 Suliin-BC6 Patch.esp
+Suliin-Barrowfields-BC6 Patch.esp
 Lindum-BC6 Patch.esp
 FGQ-BC6 Patch.esp
 Highrock-FGQ-BC6 Patch.esp

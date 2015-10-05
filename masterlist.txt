@@ -10344,6 +10344,7 @@ DMwardropemergednoenchant.esp
   IF CHECKSUM("DMwardropemergednoenchant.esp", ED3C0B97) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Draelins Hidden Abode.esp
 DragonClawCastle.esp
+Dunharrow.esp
 DragonInvasion.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, SpellStats}}
   REQ: Akatosh Mount By Saiden Storm.esp
@@ -14203,8 +14204,11 @@ HESU5 AppleOnsen.esp
   WARN: Obsolete. Update to the latest version.
 HESU AppleHotSprings.esp
 ROC-AppleHotSprings Patch.esp
+TOC-AppleHotSprings Patch.esp
 HESU5 JigokuDani.esp
+  WARN: Obsolete. Update to the latest version.
 HESU HellLands.esp
+PinePeak-HellLands Patch.esp
 HESU5 PoisonNuma.esp
 HESU PoisonSwamp.esp
 HESU4 SkyrimSinden.esp
@@ -14339,6 +14343,7 @@ TheWellOfMinlorada-ColovianHighlands patch.esp
 
 Trails Of Cyrodiil Merged UL Colovian Highlands.esp
   SAY: Contains xulColovianHighlands.esp. ONLY load Meshes and Textures from UL Colovian Highlands when using this plugin.
+AppleHotSprings-TOC patch.esp
 TOC MergedCH-FallenleafEverglade Patch.esp
 
 xulChorrolHinterland.esp
@@ -14554,6 +14559,8 @@ Mimics+Ravenview+Cloudtop Patch.esp
 PinePeakLodge-CloudtopMountains patch.esp
   SAY: Obsolete. Update to Cloudtop Mountains 1.0.1 or higher. Then delete this patch.
 GoldenCrest-CloudtopMountains patch.esp
+HellLands-Cloudtop Patch.esp
+PinePeak-HellLands-Cloudtop Patch.esp
 RST+Cloudtop Mountains.esp
 TOC ColovianHighlandVanilla-CloudtopMountains Patch.esp
 TOC ColovianHighlandUL-CloudtopMountains Patch.esp

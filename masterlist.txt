@@ -13728,6 +13728,7 @@ Elsweyr - Valenwood Patch DV.esp
   REQ: 'ElsweyrAnequina.esp', 'Valenwood Improved.esp'
   IF CHECKSUM("Elsweyr - Valenwood Patch DV.esp", 535E4F5D) DIRTY: 104 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Tales from Elsweyr Anequina.esp
+Tales from Elsweyr Anequina Vwalk.esp
 CastleKnightstone-TalesFromElsweyrPatch.esp
 Elsweyr Valenwood Daedric Shrine Patch.esp
   REQ: 'Daedric Shrine Ruins.esp', 'ElsweyrAnequina.esp', 'Valenwood Improved.esp', 'ElsweyrValenwoodImprovedPatch.esp'

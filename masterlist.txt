@@ -14234,8 +14234,10 @@ HESU6 Patch Nomuton Isobe.esp
 HESU ShiptonSeaside Patch.esp
 HESU5 GFbedtown.esp
 HESU WolfsBorough.esp
+Shezries-WolfsBorough Patch.esp
 HESU5 GreenRoad.esp
 HESU WhiteRoseRiver.esp
+MTC-WhiteRose Patch.esp
 HESU5 UraraMura.esp
 HESU FairmereVillage.esp
 
@@ -22637,6 +22639,9 @@ SnowyRoad-BetterCities Patch.esp
 Suliin-BC6 Patch.esp
 Suliin-Barrowfields-BC6 Patch.esp
 Lindum-BC6 Patch.esp
+Lindum-BloodRaven-BC6 Patch.esp
+Lindum-LushWoodland-BC6 Patch.esp
+Lindum-BloodRaven-Woodland-BC6 Patch.esp
 FGQ-BC6 Patch.esp
 Highrock-FGQ-BC6 Patch.esp
 TopalIsland-BetterCities Patch.esp
@@ -22647,6 +22652,12 @@ Kragenirs-LegionOuposts-BC Patch.esp
 Kragenirs-LegionOutposts-BC6 Patch.esp
 TopalIsland-LegionOutposts-BC Patch.esp
 TopalIsland-LegionOutposts-BC6 Patch.esp
+
+BattlehornUpgraded-AltCH Patch.esp
+Lindum-BC6-AltCH Patch.esp
+Lindum-BloodRaven-BC6-AltCH Patch.esp
+Lindum-Woodland-BC6-AltCH Patch.esp
+Lindum-BloodRaven-Woodland-BC6-AltCH Patch.esp
 
 Better Imperial City Rwalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.

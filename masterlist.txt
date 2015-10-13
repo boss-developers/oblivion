@@ -13816,7 +13816,6 @@ Trails of Cyrodiil Bleakersway.esp
 ROC-TOCBleakerPatch.esp
 
 //Needs to load after Roads of Cyrodiil to avoid conflicts
-Grass Overhaul.esp
 Immersive Prison sewer exit.esp
   IF CHECKSUM("Immersive Prison sewer exit.esp", D607A66) DIRTY: 19 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 NRBsewer exit.esp
@@ -14726,6 +14725,7 @@ xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
 CastleDunkerlore-BlackwoodForest patch.esp
 UnholyChatedral-BlackwoodForest patch.esp
+PoisonSwamp-BlackwoodForest Patch.esp
 
 xulCheydinhalFalls.esp
   TAG: {{BASH: C.Water}}
@@ -16243,6 +16243,9 @@ gq Chapel Altars become Wayshrines.esp
   TAG: {{BASH: Scripts}}
 Grass Overhaul.esp
   TAG: {{BASH: Graphics, NoMerge, Deactivate}}
+  IF CHECKSUM("Grass Overhaul.esp", 8D734199) DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Grass Overhaul_xUL_Imperial_Isle_patch.esp
+  IF CHECKSUM("Grass Overhaul_xUL_Imperial_Isle_patch.esp", 3DA0FF70) DIRTY: 1 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Great Gate Essential NPC's.esp
 Green Velvet Shoes.esp
 Grummite Bows.esp
@@ -17229,6 +17232,7 @@ SMDropLitTorch.esp
 SM Essential Kills.esp
 SnusAmbience English.esp
 SnusDungeons.esp
+  IF CHECKSUM("SnusDungeons.esp", AD3BF4C8) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 SnusDungeons - OOO patch.esp
 SnusDungeons - TAS patch.esp
 SnusDungeons - BD patch.esp

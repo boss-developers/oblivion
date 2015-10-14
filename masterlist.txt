@@ -11077,6 +11077,7 @@ Kriegerburg.esp
 Kynareth Beach Area.esp
 Kragenir's Death Quest.esp
   IF CHECKSUM("Kragenir's Death Quest.esp", 3CC0B31F) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Kragenir's Death Quest.esp", FAA53F6E) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Kragenir's Death Quest Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 KDQ - Rural Line Additions.esp
@@ -13016,6 +13017,7 @@ DBSQR - Battlehorn Castle.esp
 ORM-TamriellicGlassDLC6.esp
   TAG: {{BASH: Graphics}}
   IF CHECKSUM("ORM-TamriellicGlassDLC6.esp", 0631088B) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+GoldenCrest-BattlehornUpgraded Patch.esp
 TonasModStore-BattlehornUpgraded Patch.esp
 VHB-BattlehornUpgraded patch.esp
 
@@ -13740,6 +13742,7 @@ Walkabout.esp
   IF CHECKSUM("Walkabout.esp", 594A8E9B) DIRTY: 27 ITM, 11 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Walkabout.esp", 379F2A1B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Walkabout.esp", 1796E52D) DIRTY: 41 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Walkabout.esp", F29AAD99) DIRTY: 27 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 LegionOutposts-Walkabout Patch.esp
 ElsweyrAnequina - FixRespawnPoint.esp
 WAC - Elsweyr Anequina.esp
@@ -13902,6 +13905,7 @@ BEGINGROUP: Landscape and City overhauls 1
 //----------------------------
 
 00SnowyRoadToBruma.esp
+OOTD-SnowyRoad Patch.esp
 MTC-SnowyRoad Patch.esp
 DLCFrostcrag-SnowyRoad Patch.esp
 Better daedric shrines Namira.esp
@@ -14210,6 +14214,7 @@ HESU5 JigokuDani.esp
 HESU HellLands.esp
 PinePeak-HellLands Patch.esp
 HESU5 PoisonNuma.esp
+  WARN: Obsolete. Update to the latest version.
 HESU PoisonSwamp.esp
 HESU4 SkyrimSinden.esp
 HESU SkyrimTemple.esp
@@ -14229,6 +14234,7 @@ HESU5 IsobeGyoson.esp
 HESU SeasideSettlement.esp
 HESU5 KoYoTown.esp
 HESU KoyoTown.esp
+Clearwater-KoyoTown Patch.esp
 HESU6 Patch Nomuton Isobe.esp
 HESU ShiptonSeaside Patch.esp
 HESU5 GFbedtown.esp
@@ -14236,7 +14242,12 @@ HESU WolfsBorough.esp
 Shezries-WolfsBorough Patch.esp
 HESU5 GreenRoad.esp
 HESU WhiteRoseRiver.esp
+Glenvar-WhiteRose Patch.esp
 MTC-WhiteRose Patch.esp
+LostSpires-WhiteRose Patch.esp
+Faregyl-WhiteRose Patch.esp
+Shezries-WhiteRose Patch.esp
+WhiteRoseFarm-WhiteRoseRiver Patch.esp
 HESU5 UraraMura.esp
 HESU FairmereVillage.esp
 
@@ -15775,6 +15786,7 @@ Better dungeons.esp
   TAG: {{BASH: C.Light, C.Water}}
   IF CHECKSUM("Better dungeons.esp", 4908CB39) DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Better dungeons.esp", ADC761D9) DIRTY: 68 ITM, 4164 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Better dungeons.esp", F6E3D7C4) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TreasureChest - Better Dungeons.esp
 IF ACTIVE("Better Dungeons.esp") MOD: SunderedKeep.esp
   // Has conflicts with Better Dungeons.esp and should loaded after Better Dungeons.esp on time of quests execution of the SunderedKeep.esp

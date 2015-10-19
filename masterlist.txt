@@ -14009,6 +14009,7 @@ Billsburg.esp
 English Billsburg v1.5.esp
 English Billsburg_Rens_Hair.esp
 English Billsburg_Rens_Hair_1.51.esp
+BattlehornUpgraded-Billsburg Patch.esp
 BogwaterDowns.esp
 Boqwater_Settlement_V103.esp
 
@@ -14220,7 +14221,10 @@ HESU PoisonSwamp.esp
 HESU4 SkyrimSinden.esp
 HESU SkyrimTemple.esp
 HESU5 EUdaBear.esp
+  WARN: Obsolete. Update to the latest version.
 HESU GnollMountain.esp
+DLCFrostcrag-GnollMountain Patch.esp
+SnowyRoad-GnollMountain Patch.esp
 HESU5 SmokeTown.esp
 HESU SmokeTown.esp
 HESU5 ValenwoodMine.esp
@@ -14810,6 +14814,7 @@ MTC-SnowyRoad-Snowdale Patch.esp
 TOC NorthShortcut-Snowdale Patch.esp
 TOC MergedVanilla-Snowdale Patch.esp
 TOC MergedCH-Snowdale Patch.esp
+GnollMountain-Snowdale Patch.esp
 JMC - Layer 1.esp
 
 xulGoldCoastFarmlands.esp
@@ -15058,6 +15063,7 @@ JMC - Layer 1b+2.esp
 DLCFrostcrag Reborn - Frostcrag Village Patch.esp
 JMC - Layer 3.esp
 SnowyRoad-FrostcragVillage Patch.esp
+GnollMountain-FrostcragVillage Patch.esp
 Fort Akatosh Redux.esp
   TAG: {{BASH: Relations}}
 Fort Akatosh Redux Vwalk.esp
@@ -15086,6 +15092,7 @@ Lilyvale.esp
   IF CHECKSUM("Lilyvale.esp", 881F401E) DIRTY: 35 ITM, 384 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 LilyvaleULcompatibility.esp
 LilyBATTLEHORNcompatibility.esp
+BattlehornUpgraded-Lilyvale1 Patch.esp
 ROC+Lilyvale Patch.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 
@@ -22669,7 +22676,7 @@ Kragenirs-LegionOuposts-BC Patch.esp
 Kragenirs-LegionOutposts-BC6 Patch.esp
 TopalIsland-LegionOutposts-BC Patch.esp
 TopalIsland-LegionOutposts-BC6 Patch.esp
-
+GnollMountain-BC6 Patch.esp
 BattlehornUpgraded-AltCH Patch.esp
 Lindum-BC6-AltCH Patch.esp
 Lindum-BloodRaven-BC6-AltCH Patch.esp

@@ -1514,7 +1514,7 @@ QuietFeet HorseArmor.esp
 Silent Player Voice.esp
 ElzMoreVoice.esp
 ElzMoreVoice-For Companion.esp
-EMC2 StreamMusic - Filter.esp
+Excellent magic sound.esp
 Drum_Fix.esp
 NoPlayerGrunts.esp
 NoPlayerGroans.esp
@@ -1693,6 +1693,9 @@ BEGINGROUP: Base #
 
 00crystalTorch.esp
   IF CHECKSUM("00crystalTorch.esp", E7A1BCE7) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+00 Realistic Player Speech.esp
+  IF CHECKSUM("00 Realistic Player Speech.esp", 46716219) Dirty: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: Names}}
 1vampirescocktail.esp
 13rings.esp
 1440-1-Black Soul Merchant-TESSource.esp
@@ -1849,6 +1852,7 @@ bgShaderStandAloneEV.esp
   TAG: {{BASH: Graphics}}
   REQ: Wrye Bash if using spell mods.
 Bestiary (SI version).esp
+birds in oblivion.esp
 Bitches of the Duke.esp
   REQ: Shivering Isles
 Black Screen Sneak Fix.esp
@@ -1888,6 +1892,7 @@ BPMerchantStorage.esp
   TAG: {{BASH: Invent}}
 BTMoreEnemies.esp
   IF CHECKSUM("BTMoreEnemies.esp", 3BDE7DD3) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+BuyableChests_100.esp
 BuyableTorch.esp
 ENDGROUP: Base B
 
@@ -2027,6 +2032,7 @@ ClocksOfCyrodiilNoArcane.esp
 ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp
   IF FILE("ClocksOfCyrodiil.esp") WARN: Deactivate CLocksOfCyrodiil.esp
   IF CHECKSUM("ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp", D83FBB37) DIRTY: 9 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  SAY: Obsolete. Not compatible with Better Cities version 6.0 or later.
 OCC-CoC-Patch.esp
   SAY: Obsolete. Use ClocksOfCyrodiil_BC_OBC_OC_OCLR_Vanilla.esp instead.
 ClocksOfCyrodiil - ChorrolTextureChange.esp
@@ -2146,6 +2152,7 @@ Diverse Dungeons - Subtle Color v.1.05.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 Doomstones.esp
+Drakens More Drinks.esp
 DragonStatuesv1.esp
 DragonStatues_1C.esp
 DrinksForSale.esp
@@ -2520,6 +2527,8 @@ BEGINGROUP: Base P
 
 Packhorses v1.esp
 paladin.esp
+PalePassIce.esp
+  IF CHECKSUM("PalePassIce.esp", 10547198) DIRTY: 0 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Paradisebird_2.esp
 PassengerShips_BetterCities.esp
 Passion Fruit.esp
@@ -3305,6 +3314,7 @@ Put Me In My Place - PlayerInSEWorld.esp
 Purge Cell Buffers - Cell Change.esp
 Purge Cell Buffers - Loading.esp
 Purger.esp
+Purge Cell Buffers ++.esp
 
 Quest Log Manager.esp
 Quick Wardrobe.esp
@@ -3933,6 +3943,7 @@ AyleidGlass.esp
   TAG: {{BASH: Graphics}}
 Ayleid Armor and weapons.esp
 Ayleid Armor Standalone.esp
+AyleidClutter.esp
 
 ACCCGR SI.esp
   IF CHECKSUM("ACCCGR SI.esp", EA8628A4) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -4088,6 +4099,8 @@ Bloodworm_Helm_Replacer.esp
 BLRollingPinEV.esp
 Blue and White.esp
 Blue Daedric.esp
+Blue Glass.esp
+  IF CHECKSUM("Blue Glass.esp", F4D8C3F8) CLEAN: 0 ITM, 0 UDR records. 
 Blue Destinys Paladin Armor.esp
 Blue Destiny's Paladin Armor.esp
 Bluefire Claymore by Mr. V.esp
@@ -4439,6 +4452,7 @@ Dollparts_CorsetsoftheRose.esp
 Dollparts_RoseCorsets - Dark & Light.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
+dragontorch.esp
 DragonTorch_1C.esp
 Drake Knight Armor and Weapons v1.0.esp
 Dread Knight Armor Addon.esp
@@ -5732,6 +5746,7 @@ SpeechcraftEnhanced.esp
 Slof's Sea Armour.esp
 sluggosilkdancer.esp
 SMDR 001 DM Dress.esp
+smkTamrielicLoreItems01.esp
 SnakeArmor.esp
 Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
@@ -8860,6 +8875,11 @@ WAC - Magic.esp
 WAC - QuietFeet.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 
+WAC - Druid_HealingFix.esp
+WAC - Player Summons_Fix.esp
+WAC - Gargoyles Fix.esp
+WAC - Iron ShieldFix.esp  
+
 WACESM_MiscItemsRebal.esp
   TAG: {{BASH: Stats}}
 WACESM_Ingredients_Rebalance.esp
@@ -9088,6 +9108,7 @@ BEGINGROUP: Quests and Locations 1
 
 BEGINGROUP: Quests Early
 
+Farolillo.esp
 Orden des Drachen.esp
 OC+Orden Patch.esp
 
@@ -9785,6 +9806,8 @@ Better Elven Gardens.esp
 Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 Better Waterfront House.esp
+BettysMedalsOfHonor.esp
+  IF CHECKSUM("BettysMedalsOfHonor.esp", 026B2B41) Clean: 0 ITM, 0 UDR records. 
 BF_FortRapture.esp
 BF_Vincents.esp
 Big Business.esp
@@ -10694,6 +10717,9 @@ HermitageCropsford.esp
 Hero Hill Redone.esp
 HiddenTreasures.esp
 Hidden Treasures-8745.esp
+Hidden Treasures.esp
+  IF CHECKSUM("Hidden Treasures.esp", 0E4E79A3) CLEAN: 0 ITM, 0 UDR records.
+
 Hidden Treasure Chests-UL edition.esp
 Highcross House.esp
 High Rock.esp
@@ -10734,6 +10760,9 @@ Heroes of Cyrodiil Part 2.esp
 Heroes of Cyrodiil Part 3.esp
 Heroes of Cyrodiil Part 4.esp
 Heroes of Cyrodiil Part 5.esp
+Heroes of Cyrodiil full.esp
+  IF CHECKSUM("Heroes of Cyrodiil full.esp", 4101D41E) CLEAN: 0 ITM, 0 UDR records.
+
 Hero's Retreat.esp
 01_Helms_Deep.esp
   REQ: 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
@@ -11856,6 +11885,7 @@ RosenrotManor01.esp
 Rosethorn Hall Necrmancy Study.esp
 Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
+Rosethorn Hall Sanctuary v1.02.esp
 RosethornHallCave.esp
 RoxeyCottage.esp
 RoxeyCottageCOBLaddon.esp
@@ -13706,6 +13736,8 @@ ReclaimSancreTor Vwalk.esp
 CastleWestWeald-RSTpatch.esp
 Domrose-RSTpatch.esp
 Kragenir'sDeathQuest-RSTpatch.esp
+ReclaimSancreTor - ImpeREAL City Patch.esp
+  IF CHECKSUM("ReclaimSancreTor - ImpeREAL City Patch.esp", AF8A1F8E) CLEAN: 0 ITM, 0 UDR records.
 
 road+bridges.esp
   IF CHECKSUM("road+bridges.esp", CA103402) DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -16656,6 +16688,7 @@ Relevant Scrolls.esp
 Relevant Potions.esp
 Relevant Scrolls and Potions.esp
 Relevant Scrolls & Potions & Staves.esp
+ SAY: If used with another potion graphics replacer, remove the "Graphics" tag to ensure compatibility. I.e. only the mod you want to be dominant should have a "Graphics" tag.
 ReneerNPCSneakMod.esp
 Repair Anytime-9384.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch Tweak Combat Repair [Allowed] instead.
@@ -17755,6 +17788,7 @@ BathingMod_Placeable_Bathtubs.esp
 BathingMod_ABMCP_Bathtubs_and_Bathrooms.esp
 BathingMod_ABMCP_Bathtubs.esp
 BathingMod_InnsHaveTubs.esp
+RealisticEncumbranceAndBurden.esp
 SM Encumbrance and Fatigue.esp
 Oblivion Wound Effects & Penalties.esp
 OWE&P.esp
@@ -21892,6 +21926,23 @@ OCOv2-BR.esp
   TAG: {{BASH: NpcFaces, R.Head, R.Body}}
 1em_Vilja_OCOV2_By_jet4571.esp
 OCO2-MR patch.esp
+OCO_DLCHorseArmor_Patch.esp
+  TAG: {{BASH: Actors.ACBS, Actors.Skeleton, Actors.AIPackages, Actors.Stats, NpcFaces}}
+OCO_DLCOrrery_Patch.esp
+  TAG: {{BASH: Actors.AIPackages, NpcFaces}}
+OCO_DLCMehrunesRazor_Patch.esp
+  TAG: {{BASH: Actors.ACBS, Actors.Skeleton, NpcFaces}}
+OCO_DLCThievesDen_Patch.esp
+  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Skeleton, Actors.Stats, NpcFaces}}
+OCO_KvatchRebuilt_Patch.esp
+  IF CHECKSUM("OCO_KvatchRebuilt_Patch.esp", 9E89E850) CLEAN: 0 ITM, 0 UDR records.
+OCO_KnightsOTN_Patch.esp
+  IF CHECKSUM("OCO_KnightsOTN_Patch.esp", 2874D8A1) CLEAN: 0 ITM, 0 UDR records.
+  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Stats, NpcFaces}}
+OCO_UOP_USIP_Patch.esp
+  IF CHECKSUM("OCO_UOP_USIP_Patch.esp", 5F735EFC) CLEAN: 0 ITM, 0 UDR records.
+  TAG: {{BASH: Actors.ACBS, Actors.Stats, Actors.Skeleton, NpcFaces}}
+
 Jjiinx_Long Ears.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, NpcFaces}}
 Head06 Replacer.esp
@@ -22351,6 +22402,8 @@ Better Cities Full Rwalk.esp
 Better Cities Full Swalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
 
+Better Cities IC Imperial Isle - Roads of Cyrodiil.esp  
+  
 Better Cities - Skingrad Outer District.esp
 
 Better Cities - CUO Bravil Patch.esp
@@ -22402,6 +22455,7 @@ Side's Bruma House (BC patch).esp
 Better Cities - Knightly Armory.esp
 Better Cities - Knights of the Nine.esp
   IFNOT FILE("Better Cities - Open Better Cities.esp") ERROR: This patch should only be used with "Better Cities - Open Better Cities.esp".
+  Say: Obsolete. Not compatible with Better Cities version 6.0 or later.
 Better Cities Anvil Open - Knights of the Nine.esp
   IFNOT FILE("Better Cities - Open Better Cities.esp") ERROR: This patch should only be used with "Better Cities - Open Better Cities.esp"
 Better Cities Chorrol - Knights of the Nine.esp
@@ -22451,6 +22505,9 @@ Better Cities Full B&M - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
 
 Better Cities - Unique Landscape Panther River patch.esp
+  SAY: Obsolete. Not compatible with Better Cities version 6.0 or later.
+Better Cities Bravil - Unique Landscape Panther River patch.esp
+
 BCSkingrad-SkingradOutskirts patch.esp
   TAG: {{BASH: C.Water}}
   SAY: Same as 'Better Cities - Unique Landscape Skingrad Outskirts.esp' - only use ONE of these.
@@ -22506,6 +22563,9 @@ Better Cities - COBL.esp
   IF CHECKSUM("Better Cities - COBL.esp", 52344AB9) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Better Cities - Dwemer Subway.esp
 Better Cities - Unique Landscape Imperial Isle.esp
+  SAY: Obsolete. Not compatible with Better Cities version 6.0 or later.
+Better Cities IC Waterfront - Unique Landscape Imperial Isle.esp  
+
 Better Cities - Vvardenfell Imports.esp
 
 Better Cities and IC Rwalk.esp
@@ -23617,6 +23677,8 @@ TIE Weapon + Armor Filter.esp
   TAG: {{BASH: Filter, Stats, NoMerge, Deactivate}}
   IFNOT VAR(BP) ERROR: Required Bashed Patch.
 LandMagicPatch.esp
+
+EMC2 StreamMusic - Filter.esp
 
 amGE_Races.esp
 AOBrokenVoicesFix.esp

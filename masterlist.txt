@@ -9157,7 +9157,7 @@ Ghorak's House - AN Patch.esp
 LOTRArtifacts.esp
 Oblivifall - Something's Not Right.esp
   IF CHECKSUM("Oblivifall - Something's Not Right.esp", 274BA125) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-
+Oblivifall - Something Is Definately Not Right.esp
 Roleplaying_Expansion.esp
   INC: 'Mysteries Of Atrene Camp.esp', 'Kragenir's Death Quest.esp' and 'xulCheydinhalFalls.esp'.
 
@@ -16565,6 +16565,7 @@ TI-MM v04d.esp
   REQ: Shivering Isles, Qarl's Harvest, Tamrielic Ingredients.
 More SoulGems for Sale.esp
 More_Training-1908.esp
+More Training-1908.esp
 MoreTraining.esp
 More Valuable Gems.esp
 Morrowind-style Legion Shield Replacer.esp

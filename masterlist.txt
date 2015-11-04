@@ -165,6 +165,7 @@ Oscuro's_Oblivion_Overhaul.esm
 DarkDale.esm
 Mart's Monster Mod.esm
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+  IF CHECKSUM("Mart's Monster Mod.esm", FA08DE55) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Mart's Monster Mod for OOO.esm
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
   TAG: {{BASH: Delev, Factions, Relations, Relev}}
@@ -7974,6 +7975,7 @@ BEGINGROUP: FCOM/MMM optionals 2.
 //'''''''''''''''''''''
 
 IF VAR(FCOM) MOD: Mart's Monster Mod - Extra Wounding.esp
+  IF CHECKSUM("Mart's Monster Mod - Extra Wounding.esp", D8C0168F) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IF VAR(FCOM) MOD: Mart's Monster Mod - Looting NPCs & Creatures.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - Increased Spawn Rates.esp
   ERROR: Delete. Old version of MMM. Update MMM to 3.6beta3 or later.
@@ -7981,6 +7983,7 @@ IF VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates Increased.esp
   ERROR: Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
 IF VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates - Increased.esp
   ERROR: Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
+  IF CHECKSUM("Mart's Monster Mod - Spawn Rates - Increased.esp", 16438018) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IF VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates - Moderate Increased.esp
   ERROR: Not recommended. Not fully tested with FCOM and creatures from other FCOM related mods may not appear.
 IF VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates Moderate.esp
@@ -8004,6 +8007,7 @@ IF VAR(FCOM) MOD: Mart's Monster Mod - No Blood.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Bone Loot.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Giants.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Undead Rise.esp
+  IF CHECKSUM("Mart's Monster Mod - No Undead Rise.esp", 1E8FCF0B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Slimes.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Fiends.esp
 IF VAR(FCOM) MOD: Mart's Monster Mod - No Werewolves.esp
@@ -8060,6 +8064,7 @@ BEGINGROUP: MMM for non-FCOM installs
 Mart's Monster Mod.esp
   IF VAR(FCOM) ERROR: Delete. Not needed with FCOM.
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+  IF CHECKSUM("Mart's Monster Mod.esp", 8528FB34) DIRTY: 904 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 More Effective Enchantments MMM.esp
 Mart's Monster Mod for Fran.esp
   IF VAR(FCOM) ERROR: Delete. Not needed with FCOM.
@@ -8090,6 +8095,7 @@ Mart's Monster Mod for OOO - COBL Races TNR.esp
   INC: COBL Races TNR.
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Shivering Isles.esp
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+  IF CHECKSUM("Mart's Monster Mod - Shivering Isles.esp", DF4B7C20) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 
 IFNOT VAR(FCOM) MOD: Choices and Consequences - MMM.esp
   SAY: Obsolete. Remove this and update to latest version.
@@ -8167,6 +8173,7 @@ IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Blood.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Bone Loot.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Giants.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Undead Rise.esp
+  IF CHECKSUM("Mart's Monster Mod - No Undead Rise.esp", 1E8FCF0B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Spiders.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Fiends.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Slimes.esp
@@ -8183,6 +8190,7 @@ IFNOT VAR(FCOM) MOD: Mart's Monster Mod - No Balrogs.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Increased Spawn Rates.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates Increased.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates - Increased.esp
+  IF CHECKSUM("Mart's Monster Mod - Spawn Rates - Increased.esp", 16438018) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates - Moderate Increased.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates Moderate.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Spawn Rates - Reduced.esp
@@ -8209,6 +8217,7 @@ IFNOT VAR(FCOM) MOD: Mart's Monster Mod - City Defences.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Curse of Hircine.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Extra Wounding.esp
+  IF CHECKSUM("Mart's Monster Mod - Extra Wounding.esp", D8C0168F) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Friendlier Factions MMM+Fran.esp
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Friendlier Factions OOO+FCOM.esp
   SAY: Obsolete. Remove this and update to 3.7b3+. Use 'Mart's Monster Mod - Friendlier Factions OOO.esp' instead.
@@ -8413,6 +8422,7 @@ BEGINGROUP: FCOM\MMM optionals 3.
 
 IF VAR(FCOM) MOD: Mart's Monster Mod - Diverse Imperial Armor.esp
   ERROR: Delete already integrated into FCOM components, use 'FCOM_DiverseGuardUnity.esp' instead.
+  IF CHECKSUM("Mart's Monster Mod - Diverse Imperial Armor.esp", 2A650097) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 FCOM_DiverseGuardUnity.esp
   TAG: {{BASH: Actors.CombatStyle, Actors.Spells, Invent, Scripts}}
 Choices and Consequences - FCOM - Diverse Guards.esp
@@ -8490,6 +8500,7 @@ BEGINGROUP: Overhaul compatibility
 //''''''''''''''''''''''
 
 Cobl Tweaks - MMM.esp
+  IF CHECKSUM("Cobl Tweaks - MMM.esp", 1CC5CCCC) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Cobl Tweaks - MMM and OOO.esp
 Cobl Tweaks - MMM and OOO Mergeable.esp
 Cobl Tweaks - OOO Mergeable.esp
@@ -8618,6 +8629,7 @@ BEGINGROUP: Additional MMM OOO Patches
 
 IF VAR(FCOM) MOD: Mart's Monster Mod - Shivering Isles.esp
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Graphics, Invent, Names, Relations, Relev, Scripts, Stats}}
+  IF CHECKSUM("Mart's Monster Mod - Shivering Isles.esp", DF4B7C20) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Mart's Monster Mod - Legion Shield Replacer.esp
   TAG: {{BASH: Graphics}}
 Legion Shield Replacer - OOO.esp
@@ -8918,6 +8930,9 @@ WAC-TestingMarauderArmor.esp
 
 WAC - Races RM-HGEC patch by Xtudo.esp
 WAC - Races RM-HGEC-BR patch by Xtudo.esp
+WAC - Races RM-HGEC-DV patch by Xtudo.esp
+WAC - Races RM-HGEC-DV-BR patch by Xtudo.esp
+
 ENDGROUP: Waalx Animals and Creatures
 ENDGROUP: Overhauls
 
@@ -13239,6 +13254,7 @@ Mart's Monster Mod - Knights of the Nine Patch.esp
 Mart's Monster Mod - Knights.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
+  IF CHECKSUM("Mart's Monster Mod - Knights.esp", 51DBA3E6) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Mart's Monster Mod for OOO - Knights.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM. Use FCOM_knights.esp instead.
   TAG: {{BASH: Actors.AIData, Actors.AIPackages, Actors.Stats, Delev, Factions, Relations, Relev, Stats}}
@@ -14219,7 +14235,10 @@ HESU5 PoisonNuma.esp
   WARN: Obsolete. Update to the latest version.
 HESU PoisonSwamp.esp
 HESU4 SkyrimSinden.esp
+  WARN: Obsolete. Update to the latest version.
 HESU SkyrimTemple.esp
+OOTD-SkyrimTemple Patch.esp
+SnowyRoad-SkyrimTemple Patch.esp
 HESU5 EUdaBear.esp
   WARN: Obsolete. Update to the latest version.
 HESU GnollMountain.esp
@@ -14509,6 +14528,7 @@ Suliin-Anequina-TFE-Barrowfields patch.esp
 xulLushWoodlands.esp
   IF CHECKSUM("xulLushWoodlands.esp", 62FB2C49) DIRTY: 0 ITM, 648 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("xulLushWoodlands.esp", FA59EB15) DIRTY: 52 ITM, 940 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("xulLushWoodlands.esp", 1D0DA13D) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unique Landscapes - Lush Woodlands DV.esp
 VeronaHouseBloodlines-LushWoodlands fix.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
@@ -14792,6 +14812,7 @@ ROC+RST+Skingrad Outskirts.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 
 xulSnowdale.esp
+  IF CHECKSUM("xulSnowdale.esp", B61FB7EE) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Unique Landscapes - Snowdale DV.esp
 ApachiiHeroesStore-Snowdale patch.esp
 CastleDracula-Snowdale patch.esp
@@ -14814,6 +14835,7 @@ MTC-SnowyRoad-Snowdale Patch.esp
 TOC NorthShortcut-Snowdale Patch.esp
 TOC MergedVanilla-Snowdale Patch.esp
 TOC MergedCH-Snowdale Patch.esp
+SkyrimTemple-Snowdale Patch.esp
 GnollMountain-Snowdale Patch.esp
 JMC - Layer 1.esp
 
@@ -14864,6 +14886,7 @@ FortFerrion-JerallGlacier patch.esp
 AgainstTheZealotsOfTheNine-JerallGlacier patch.esp
 SnowyRoad-JerallGlacier Patch.esp
 SnowyRoad-ULCombo Patch.esp
+SkyrimTemple-JerallGlacier Patch.esp
 
 xulTheEasternPeaks.esp
 xulTheEasternPeaks Vwalk.esp
@@ -17252,6 +17275,7 @@ SM Essential Kills.esp
 SnusAmbience English.esp
 SnusDungeons.esp
   IF CHECKSUM("SnusDungeons.esp", AD3BF4C8) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+SnusDungeons - WeatherAllNatural Patch.esp
 SnusDungeons - OOO patch.esp
 SnusDungeons - TAS patch.esp
 SnusDungeons - BD patch.esp
@@ -22526,7 +22550,7 @@ Better Cities Full Rwalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
 Better Cities Full Swalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
-
+Better Cities Skingrad - Roads of Cyrodiil.esp
 Better Cities IC Imperial Isle - Roads of Cyrodiil.esp  
   
 Better Cities - Skingrad Outer District.esp
@@ -22623,6 +22647,19 @@ Better Cities IC Arena - WAC Gladiator.esp
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp
 Better Cities Full B&M - CUO Leyawiin Patch.esp
+
+Better Cities Anvil - OOO.esp
+Better Cities Bravil - OOO.esp
+Better Cities Bruma - OOO.esp
+Better Cities Cheydinhal - OOO.esp
+Better Cities Leyawiin - OOO.esp
+Better Cities Skingrad - OOO.esp
+Better Cities Full - OOO.esp
+  SAY: Do not use this plugin together with any of the individual city-OOO plugins.
+
+Better Cities IC Arboretum - OOO.esp
+Better Cities IC Market - OOO.esp
+Better Imperial City - OOO.esp
 
 Better Cities - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.

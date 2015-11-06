@@ -8130,6 +8130,7 @@ IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Extra Reavers.esp
 
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Diverse Imperial Armor.esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
+  IF CHECKSUM("Mart's Monster Mod - Diverse Imperial Armor.esp", 2A650097) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 IFNOT VAR(FCOM) MOD: Mart's Monster Mod - Diverse Creature Skins.esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
   SAY: Outdated. Update to MMM 3.7+.
@@ -8499,7 +8500,7 @@ BEGINGROUP: Overhaul compatibility
 //''''''''''''''''''''''
 
 Cobl Tweaks - MMM.esp
-  IF CHECKSUM("Cobl Tweaks - MMM.esp", 1CC5CCCC) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  IF CHECKSUM("Cobl Tweaks - MMM.esp", 1CC5CCCC) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Cobl Tweaks - MMM and OOO.esp
 Cobl Tweaks - MMM and OOO Mergeable.esp
 Cobl Tweaks - OOO Mergeable.esp
@@ -14226,6 +14227,7 @@ HESU5 AppleOnsen.esp
 HESU AppleHotSprings.esp
 ROC-AppleHotSprings Patch.esp
 TOC-AppleHotSprings Patch.esp
+BleakerWayRevamp-AppleHotSprings Patch.esp
 HESU5 JigokuDani.esp
   WARN: Obsolete. Update to the latest version.
 HESU HellLands.esp
@@ -14247,6 +14249,7 @@ HESU5 SmokeTown.esp
 HESU SmokeTown.esp
 HESU5 ValenwoodMine.esp
 HESU ValenwoodMine.esp
+ValenwoodImproved-ValenwoodMine Patch.esp
 HESU4 Garagara.esp
 HESU GreatForestGorge.esp
 HESU4 NomutonMura.esp
@@ -14273,6 +14276,8 @@ Shezries-WhiteRose Patch.esp
 WhiteRoseFarm-WhiteRoseRiver Patch.esp
 HESU5 UraraMura.esp
 HESU FairmereVillage.esp
+Elsweyr-Fairmere Patch.esp
+ROC-Fairmere Patch.esp
 
 ENDGROUP: HESU Mods and Patches
 
@@ -14636,6 +14641,7 @@ Dschinni - UL Arrius Creek Patch EV.esp
 Dschinni - UL Arrius Creek Patch DV.esp
 NPCsTravel - Unique Landscapes - Arrius Creek Patch.esp
 AFK_Weye Arrius_Creek Patch.esp
+SmokeTown-ArriusCreek Patch.esp
 
 xulRollingHills_EV_withoutWheat.esp
   SAY: Only use one UL Rolling Hills plugin.
@@ -14886,6 +14892,8 @@ AgainstTheZealotsOfTheNine-JerallGlacier patch.esp
 SnowyRoad-JerallGlacier Patch.esp
 SnowyRoad-ULCombo Patch.esp
 SkyrimTemple-JerallGlacier Patch.esp
+SmokeTown-JerallGlacier Patch.esp
+SkyrimTemple-SmokeTown-JerallGlacier Patch.esp
 
 xulTheEasternPeaks.esp
 xulTheEasternPeaks Vwalk.esp

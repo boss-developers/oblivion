@@ -3301,6 +3301,8 @@ OBGEv3.1_CommonComponents.esp
 OBGEv3.1_StandAloneEffects(MultiModuleInstall).esp
 OBGEv3.1_StandAloneEffects(SingleModuleInstall).esp
 
+OblivionReloaded.esp
+
 P-Froggys Automatic NPC-Respawner (1).esp
 P-Froggys Automatic NPC-Respawner (2).esp
 P-Froggys Automatic NPC-Respawner (3).esp
@@ -4041,8 +4043,6 @@ bcrich.esp
 BisDancerPumps.esp
 BetterBedroll.esp
   TAG: {{BASH: Invent}}
-Better Unique Items.esp
-  TAG: {{BASH: Graphics}}
 Belles Bouteilles.esp
   TAG: {{BASH: Graphics}}
 BFF4L.esp
@@ -13278,6 +13278,9 @@ DBSQR - Knights of the Nine.esp
 PONLights.esp
 PONWindows.esp
 
+Better Unique Items.esp
+  TAG: {{BASH: Graphics}}
+
 Consequences.esp
 Consequences_Knights.esp
 Consequences_Vile.esp
@@ -15250,6 +15253,7 @@ Sutch Village Vwalk.esp
 NagaiaMolag-SutchVillage Patch.esp
 SutchUnificationPatch.esp
 LostCoast + SutchVillage Patch.esp
+HammerfellEG-LostCoast-SutchVillage Patch.esp
 TWMP_Hammerfell - Sutch Village.esp
 Sutch Village Mehrunes Maze Patch.esp
 
@@ -15820,6 +15824,10 @@ betterArena.esp
 Better_Blade_Equipment.esp
 Better Bookshelves In Buyable Houses.esp
 BetterCoins.esp
+
+  // Needs to load after OWCND-Dungeons.esp but before Better Dungeons.esp and SnusDungeons.esp
+Expanded Dungeons - Play Nice Edition.esp  
+
 Better dungeons.esp
   TAG: {{BASH: C.Light, C.Water}}
   IF CHECKSUM("Better dungeons.esp", 4908CB39) DIRTY: 43 ITM, 2842 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -16091,6 +16099,7 @@ dhsRTentwithSorter.esp
   REQ: COBL.
 Direnni Alchemy Apparatus.esp
 Dismiss Guards for SI.esp
+Disarm Traps.esp
 DJS_Realistic_Creatures.esp
 DoB10mins.esp
   SAY: Use only one DoB**mins.esp.
@@ -16493,6 +16502,8 @@ ENDGROUP: overrides L
 
 BEGINGROUP: overrides M
 
+Maeva Scribonias Bookshop BookPlacing.esp
+Maeva Scribonias Bookshop No BookPlacement.esp
 Mature Spriggan.esp
 M.O.E. - Bone Names and Priced Skull.esp
   SAY: May not be compatible with MMM bone loot - untested.
@@ -17198,6 +17209,7 @@ SexDarknessAmuletSlot.esp
 SexDarknessTailSlot.esp
 SexDarknessAmuletSlot.esp
 DarkBloodline.esp
+TSS The Sex System.esp
 Vagina.esp
 ZAZHorseRidesYou.esp
 ENDGROUP: Sexual Stuff
@@ -17287,6 +17299,8 @@ SnusDungeons - WeatherAllNatural Patch.esp
 SnusDungeons - OOO patch.esp
 SnusDungeons - TAS patch.esp
 SnusDungeons - BD patch.esp
+EveryCellsSettingsOfOblivionReloaded.esp
+  IF CHECKSUM("EveryCellsSettingsOfOblivionReloaded.esp", 2984A2FD) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 SoC Ingredient Patch.esp
 SOLS CREATURE MERGE.esp
 SOLS ECONOMY MERGE.esp
@@ -19358,6 +19372,7 @@ Pfeilgeschwindigkeit.esp
 Arrow Realism.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 CombatFPSOptimizer.esp
+ORfps.esp
 All Natural Combat FPS Optimizer Updated Patch.esp
 Oss133FrameRateOptimizer.esp
 Realistic Arrow Flight.esp
@@ -23483,8 +23498,12 @@ Life Detected - Enhanced Shader.esp
 Life Detected - OMOD.esp
 lumi_enchantments.esp
   SAY: Use only one lumi_enchantments esp
+  TAG: {{BASH: Graphics}}
+  WARN: If using with Supreme Magicka manually place lumi_enchantments.esp above SupremeMagicka.esp
 lumi_enchantments_subtle.esp
   SAY: Use only one lumi_enchantments esp
+  TAG: {{BASH: Graphics}}
+  WARN: If using with Supreme Magicka manually place lumi_enchantments_subtle.esp above SupremeMagicka.esp
 BubbleFx.esp
   SAY: Most likely incompatible with Supreme Magicka.
 GW71_Life_Detect.esp
@@ -23881,7 +23900,7 @@ Wrye Morph-See You Sleep.esp
 ShowRaceMenu StatsFix.esp
 The Big Merger.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, Graphics, Names, Invent, Stats, Relations, Factions, Delev, Relev, Actors.ACBS, Actors.Stats}}
-OblivionReloaded.esp
+
 ENDGROUP: Pre Bash
 
 BEGINGROUP: Bashed Patch

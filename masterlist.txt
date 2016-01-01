@@ -131,6 +131,7 @@ Slof's Clouded Leopard.esm
 DASkeleton.esm
 Crafting Skill Engine.esm
 IF FILE("Retros Fletching and Imbueing 1.7.1_rus.esp") ERROR: Delete. Included in Retros Fletching and Imbueing 1.7.1_rus.esp
+SNcrafting.esm
 HTSClight.esm
 NPC With Jobs.esm
 Better Mining.esm
@@ -4233,6 +4234,7 @@ Change Undies Everyday.esp
 Chapel Shop.esp
 CharacterChangeAmulet.esp
 Charon's Call by Nicoroshi.esp
+Chess Set Basic.esp
 ChunliClothes.esp
 Claymore Sheath.esp
 CM_Better Wine.esp
@@ -8512,6 +8514,7 @@ Cobl Tweaks - OOO.esp
 Cobl Patch - MMM Gems and Gem Dust.esp
   TAG: {{BASH: Delev, Invent}}
 Cobl Tweaks - FCOM.esp
+Cobl Tweaks - FCOM Mergeable.esp
 
 //Not misplaced. Please don't move.
 WAC - ItemLootFix4v1.0bTIE.esp
@@ -11564,6 +11567,7 @@ New Anvil Flora.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities Anvil components.
 New Biger Your Personal Dungeon Biger.esp
 //Yes, "Biger" is correct...
+NewHome.esp
 New Imperial City.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities IC components.
 NewLeyawiinHouse.esp
@@ -12151,6 +12155,7 @@ Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
 SMChorrol.esp
 SMAbriaelHuman.esp
+SNSmallLogCabin.esp
 SN_Forest_Cottage.esp
 SN_Shivering_Shack.esp
 SN_Sunset_Cottage.esp
@@ -17303,6 +17308,17 @@ Slof's Dogs.esp
 Slof's Epona.esp
 SMDropLitTorch.esp
 SM Essential Kills.esp
+
+SNcrafting.esp
+SNcrafting-Minning.esp
+SNcrafting-Shop.esp
+SNcrafting-Wildlife.esp
+SNLumber-Mill.esp
+SNcrafting_DLCMehrunesRazorAddOn.esp
+Slof's Horses Base-SNcrafting-Patch.esp
+SNcrafting_NewHouse_addon.esp
+SNcrafting_SNsmalllogcabin-Addon.esp
+
 SnusAmbience English.esp
 SnusDungeons.esp
   IF CHECKSUM("SnusDungeons.esp", AD3BF4C8) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -21750,6 +21766,12 @@ sexycompanion Vwalk.esp
 Shard.esp
 Shivering Creature Companion.esp
 Sher Ja Lion Companion.esp
+
+KMLiz.esp
+SNcrafting_KMLiz_AddOn.esp
+SNMysticFollower.esp
+SNcrafting-MysticFollowerAddOn.esp
+
 SnowAndHarukoCMPartners.esp
   TAG: {{BASH: Hair, Eyes}}
 Sonia.esp
@@ -22777,6 +22799,7 @@ Better Cities - Sexlivion.esp
 Better Cities - Stranded Light.esp
   SAY: Obsolete. Remove this.
 Better Cities - The Lost Spires.esp
+Better Cities - Lost Spires - Adventurers Guild.esp
 Better Cities - Old Crow Inn.esp
 Better Cities - COBL.esp
   IF CHECKSUM("Better Cities - COBL.esp", 52344AB9) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"

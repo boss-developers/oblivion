@@ -39,7 +39,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF FILE("Cosmetic Compilation.esp") SET: CC1
 
 // Upgrade message for 1.7+ users:
-  IF VERSION("BOSS", "2.3.1.0", <) GLOBAL WARN: An update for BOSS (v2.3.1) has been released. Download it at "http://boss-developers.github.io". With this release, the BOSS Log plugin submitter is now operational again. Users are advised to upgrade to maintain functionality.
+  IF VERSION("BOSS", "2.3.1.0", <) GLOBAL WARN: An update for BOSS (v2.3.1) has been released. Download it at "http://boss-developers.github.io". With this release, the BOSS Log plugin submitter is now operational again and this is the last release that will support XP. Users are advised to upgrade to maintain functionality.
 
 // BOSS Thread
 GLOBAL SAY: "http://forums.bethsoft.com/topic/1540888-boss-for-oblivion-thread-50/ Latest BOSS thread"

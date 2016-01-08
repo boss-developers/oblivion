@@ -248,6 +248,7 @@ VVAdvanced.esm
 Adrenaline Locational Masterfile.esm
 CLS-craftybits.esm
 Horadric Cube.esm
+HrmnsOblivionScriptOptimizationSIv1.0.esm
 StaticRepairItems.esm
 TLS Modded Mannequins.esm
   INC: Reznod's Mannequins.
@@ -4622,6 +4623,7 @@ FF00_Clothes.esp
 FF00_SA-LightArmor.esp
 FF7 Blades Complete (No Quest).esp
 FF7 Weapons.esp
+fg109PortablePortals.esp
 FinalFantasy.esp
 FinalFantasy10BrotherhoodSword.esp
 FinalFantasy10BrotherhoodswordNEW.esp
@@ -5807,6 +5809,7 @@ SPBAllinone.esp
 SPB Belt Girl.esp
 SPB Belt Girl 2.esp
 SPB Boots Set.esp
+SPB E Kunoichi.esp
 SPB E Suits.esp
 SPB Glass Girls.esp
 SPB GW Armors.esp
@@ -5816,6 +5819,7 @@ SPB Serpent Suits.esp
 SPB Suicup 2.esp
 SPB Rider Suits.esp
 SPB BodyCon Suits.esp
+SPB Body Suit 2.esp
 SPB Suicup Dress.esp
 SPB Tatakau Maid San.esp
 MDP - BG1 Companion.esp
@@ -6583,6 +6587,8 @@ IFNOT FILE("Colourwheels Sexy Oblivion OverHaul.esp") MOD: DMRA BBB Complete Clo
   TAG: {{BASH: Graphics}}
 DMRA BBB Better Cities.esp
   TAG: {{BASH: Graphics}}
+DMRA BBB R18PN Lingerie.esp
+DMRA GUTS BBB BB R18PN Lingerie.esp
 DMRA BBB Skimpy Emperor Robe.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Shivering Royalty.esp
@@ -6614,6 +6620,7 @@ Double Crimson HGEC.esp
 Dwavenremodel.esp
 
 EC_BlackDeathWarrRetex.esp
+Edhildil DMRA-GUTS collection.esp
 Edhildils Seductive Poison Armors.esp
 Elegance_HGEC.esp
 Elven Armours.esp
@@ -7031,6 +7038,7 @@ a4sFlamingNightmare3.esp
 Athletics While Riding.esp
   REQ: OBSE v18+.
 Shivering Isles Horse.esp
+SIhorse.esp
 CDM-Horses.esp
   REQ: Shivering Isles.
 Immortal Horses.esp
@@ -9077,6 +9085,7 @@ Weapon Expansion Pack for Oblivion Nthusiasts.esp
   TAG: {{BASH: Delev, Graphics, Invent, Names, Relev, Scripts, Stats}}
   INC: Mithril and Orcish Weapon Sets v1 and v2, Fine Weapons, Rusty Items
   IF CHECKSUM("Weapon Expansion Pack for Oblivion Nthusiasts.esp", 13F4CF76) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  WARN: Do not use version 1.10, it is bugged and can cause crash to desktop. Upgrade to version 1.11 instead.
 ENDGROUP: Post Overhaul
 
 BEGINGROUP: Morroblivion
@@ -9197,6 +9206,7 @@ County Kvatch version 5.2.esp
 Halcyon Island.esp
 Halcyon Island_LowConflict.esp
   SAY: Rename to Halcyon Island.esp if using the file 'Better Cities - Halcyon Island.esp'.
+HeavenStoneNirn.esp
 KnightlyArmory.esp
   IF CHECKSUM("KnightlyArmory.esp", CB971F26) DIRTY: 7 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 LE_GrowPlants.esp
@@ -10239,6 +10249,7 @@ Darbinshire Keep.esp
 DarelothFrontDoorFix.esp
   INC: Apachii's Goddess Store.
 Dark_Altar_of_Sithis-4161.esp
+DarkArgonians.esp
 Dark Sanctuary Display Room.esp
 Dark Brotherhood House.esp
 Dark Brotherhood Outpost v2.esp
@@ -12488,6 +12499,7 @@ __thermae.esp
 __thermae_CustomVisitor.esp
   SAY: Old, update to latest version.
 __thermae_LLCustomizer.esp
+ThermaeIC.esp
 TheRunesOfThu'um.esp
   IF CHECKSUM("TheRunesOfThu'um.esp", 5277C565) DIRTY: 97 ITM, 238 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TheStorytellersBrotherQuest.esp
@@ -14115,6 +14127,8 @@ Lakeview2 DV.esp
 Lakewood Village Ver 2.0.esp
 
 MagesCross.esp
+Highwood-MagesCross Patch.esp
+  IF FILE("ROC+Highwood Patch.esp") ERROR: ROC+Highwood Patch.esp has been detected. Will conflict with Highwood-MagesCross Patch.esp and should be removed before playing.
 Midland.esp
 Milewood.esp
 Molapi.esp
@@ -15653,6 +15667,7 @@ WD's Auto Harvest.esp
 DZ_Auto_Harvest.esp
 LCs Auto Harvest.esp
 D2k-AutoHarvest.esp
+skill_based_harvest 1.2.1.esp
 Diseased Corpses.esp
   SAY: If using HC decide which you want to have priority and move that one after the other (needs compatibility patch that is not currently available)
   TAG: {{BASH: Scripts}}
@@ -16610,6 +16625,7 @@ Muggrug's Sub tropical south.esp
 Music Controller.esp
 MYR_AyleidKing.esp
 MQ Consideration.esp
+MQ Persuasion.esp
 mzBe A Beggar.esp
 
 ENDGROUP: overrides M
@@ -17684,6 +17700,7 @@ BEGINGROUP: overrides XYZ
 X-Skills.esp
 XiDr_Advanced_Inns.esp
 za_less_NPC_conversations.esp
+Zek's Universal Movement Speed.esp
 Zek's Universal Movement Speed - Slower Walk.esp
 zzzArenaBFGCR.esp
 zzzBookreadingEnhanced.esp
@@ -22673,6 +22690,9 @@ Better Clocks for Better Cities 2_0.esp
 
 TopalsDeep-BetterImperialCity Patch.esp
 TrailsOfCyrodiil-BC patch.esp
+Better Cities Cheydinhal - Trails of Cyrodiil.esp
+Better Cities Skingrad - Trails of Cyrodiil.esp
+Better Cities Full - Trails of Cyrodiil.esp
 
 Better Cities - Tears of the Fiend.esp
 BCCheydinhal-CheydinhalFalls patch.esp
@@ -22748,6 +22768,7 @@ BICFull_OotD_Patch.esp
 BICDist_OotD_Patch.esp
   IFNOT FILE("Better Cities IC Green Emperor Way.esp") ERROR: This patch should only be used with Better Cities IC Green Emperor Way.esp!
 BlackcatJewelry-SkingradOutskirts-BC Patch.esp
+BlackCatJewelry-BC6 Patch.esp
 IslandPalace-BetterCities Patch.esp
 IslandPalace-BC6 Patch.esp
 IslandPalace-LostCoast-BCF Patch.esp

@@ -6589,6 +6589,7 @@ DMRA BBB Better Cities.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB R18PN Lingerie.esp
 DMRA GUTS BBB BB R18PN Lingerie.esp
+DMRA-GUTS-SG_Attractive.esp
 DMRA BBB Skimpy Emperor Robe.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Shivering Royalty.esp
@@ -7243,6 +7244,8 @@ Goblin Realswords.esp
 Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
   TAG: {{BASH: Invent}}
 PSMainQuestDelayer.esp
+Reaction.esp
+Reaction - Additions Only.esp
 RealBanditsAndHighwaymen.esp
   TAG: {{BASH: Invent}}
 SIRMS.esp
@@ -7573,6 +7576,7 @@ More Effective Enchantments OOO.esp
 OOO_XiaNewAmulets Addon.esp
 OOO_XiaNewAmulets Addon - LLOnly.esp
 OOOHangoverRemedy.esp
+OOOSI-EyeDisabler.esp
 OOO SI Hunger Replacer.esp
 OMOBS_OOO_missing_Oblivion_Bow_Ammo.esp
   TAG: {{BASH: Stats}}
@@ -8851,6 +8855,7 @@ WAC Giants Patch.esp
   TAG: {{BASH: Graphics}}
 WAC GiantPatch plus.esp
   TAG: {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
+WAC - Arrow_MOBS.esp
 WAC BM plus.esp
   TAG: {{BASH: Actors.ACBS, Actors.Spells, Actors.Stats, Graphics}}
 WAC - CAIF.esp
@@ -8999,6 +9004,7 @@ BEGINGROUP: Creatures - New
 //Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
 Centaur Enemies.esp
 Giants.esp
+HBArgonianAndOrcZombies.esp
 John's Creature Mod.esp
   TAG: {{BASH: Relev}}
 LBVermin.esp
@@ -9468,6 +9474,7 @@ All New House.esp
   SAY: Old, update to latest version (which is called Vaernlor Manor).
 Vaernlor Manor.esp
 SYS Patch-Vaernlor Manor.esp
+Alnwick.esp
 Along Came A Spider.esp
 AlternateParadise.esp
 alto angelos proveing ground.esp
@@ -10044,6 +10051,7 @@ CitadelOfMadness.esp
 Civilian Storage.esp
 Colossus_01.esp
 Colmir Manor.esp
+Colovian Barrow Mounds.esp
 CottageInColoviaV1.6.esp
   INC: Waalx Animals and Creatures.
 CountryHome.esp
@@ -13837,6 +13845,8 @@ ROC+AranMathi Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+CastleWestWeald Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+ROC-Elsweyr DOA - Patch.esp
+  IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+Fighters Guild Quests.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
   INC: Quest for the Elements (and its ROC patch)
@@ -14824,6 +14834,7 @@ Cheydinhal Land Texture Fix UL.esp
 
 xulAspenWood.esp
 Unique Landscapes - Aspen Wood DV.esp
+Alnwick-AspenWood Patch.esp
 Blackscar Citadel - Aspenwood Patch.esp
 Cardac-xulAspenWood-patch.esp
   IF CHECKSUM("Cardac-xulAspenWood-patch.esp", 8B508D9F) DIRTY: 0 ITM, 30 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -16041,6 +16052,7 @@ Compass-Disable_Both.esp
   SAY: If using Wrye Bash use Bashed Patch tweaker instead.
 Compass_Marker_Reducer.esp
   SAY: If using Wrye Bash use Bashed Patch tweaker instead.
+Corpse Grabber v1.esp
 Create NPCs Duplicates.esp
 Create NPC Duplicates - Beta.esp
 Creature Language Skills -Ver 3.3-.esp
@@ -16093,6 +16105,7 @@ DaedricRequirements.esp
 Daedra_Shrine_Level_Requirement_Remover-2011.esp
 Dans-Necromancey.esp
 DarkAltars.esp
+Dark Seducers and Golden Saints Playable.esp
 DarkUI Fix.esp
   SAY: Old file. Not needed with DarkUI'd DarN 1.5.5 or newer.
 DarNified Books.esp
@@ -16195,6 +16208,7 @@ Emporer's Armor.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Encumbrance Mod 9338.esp
+EnhancedMountedCombat.esp
 Enhanced Quest Items.esp
 EnemyFace3.esp
   TAG: {{BASH: Actors.AIPackages, Actors.Spells, NpcFaces, Scripts}}
@@ -17013,6 +17027,8 @@ HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp
 HiyokoGeneratorBroodMother.esp
+HiyokoGeneratorGeneForge.esp
+HiyokoGenerator withDB.esp
 HiyokoQuestTarget.esp
 TamagoSetBody.esp
 TamagoClubIcons.esp
@@ -17104,6 +17120,7 @@ LoversHiyokoShooter.esp
 HiyokoFutureDream.esp
 LoversHorseRider.esp
 LoversHypnosis.esp
+LoversImHere.esp
 LoversImmoralGuards.esp
 LoversImmoralSisters.esp
 LoversLandE.esp
@@ -17207,6 +17224,7 @@ LoversHideMenus.esp
 LoversSoulTrap.esp
 LoversSoundVolumeDown.esp
 LoversVictims.esp
+PEM_LoversTools withDB.esp
 Sexlivion_0.4a_Full_English_v1.esp
   SAY: Old, update to version 0.8.2
 stripper.esp
@@ -18573,6 +18591,7 @@ stickyfingers.esp
 Stirk_Port.esp
 StrongholdTeleport.esp
 SummonAnyV005.esp
+Summon Armored Horse Spells.esp
 SummonAuroranOBME.esp
   REQ: Knights.esp and OBSE and OBME
 Summon Arrow.esp
@@ -22447,6 +22466,7 @@ BEGINGROUP: Other race/birthsign mods
 Appler's Passive Birthsigns.esp
 A Purist's Fix for Default Birthsigns.esp
 Custom_Birthsigns_Chris.esp
+Races Rebalance.esp
 Rebalanced Races and Birthsigns.esp
 Better Oblivion Pack 04 - Better Birthsigns.esp
 Better Oblivion Pack 03 - Racial Affinities.esp

@@ -12538,7 +12538,7 @@ TheRunesOfThu'um.esp
   IF CHECKSUM("TheRunesOfThu'um.esp", 5277C565) DIRTY: 97 ITM, 238 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TheStorytellersBrotherQuest.esp
   IF CHECKSUM("TheStorytellersBrotherQuest.esp", 2414A8EF) || IF CHECKSUM("TheStorytellersBrotherQuest.esp", 3B237D7C) DIRTY: 17 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-  SAY: A fixed version can be found here: "http://oblivion.nexusmods.com/downloads/file.php?id=7809"
+  SAY: A fixed version can be found here: "http://www.nexusmods.com/oblivion/mods/7809"
 The Topal Vessel.esp
 The Tritons Of Cyrodiil .esp
 TheUndercity.esp

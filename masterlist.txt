@@ -42,7 +42,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF VERSION("BOSS", "2.3.2.0", <) GLOBAL WARN: An update for BOSS (v2.3.2) has been released. Download it at "http://boss-developers.github.io". With this release, the BOSS Log plugin submitter is now operational again and this is the last release that will support XP. This also fixes a crash with the User List and an issue with line-endings. Users are advised to upgrade to maintain functionality.
 
 // BOSS Thread
-GLOBAL SAY: "http://forums.bethsoft.com/topic/1540888-boss-for-oblivion-thread-50/ Latest BOSS thread"
+GLOBAL SAY: "http://forums.bethsoft.com/topic/1584798-boss-for-oblivion-thread-51/ Latest BOSS thread"
 
 BEGINGROUP: ESMs
 //----

@@ -1290,6 +1290,8 @@ Immersive Interiors - Landscape Addon.esp
 
 ReneerInteriorsMod.esp
 
+TD_Interiors.esp
+
 Natural Interiors.esp
   TAG: {{BASH: C.Climate}}
   INC: All Natural - NI is merged with it.
@@ -2437,6 +2439,7 @@ More Effective Enchantments.esp
 More Effective Enchantments SI.esp
 More Female Servants.esp
 More Poisened Food!0.3.esp
+More Skooma Dealers.esp
 More_Vegetables.esp
   IF CHECKSUM("More_Vegetables.esp", 2EAEE466) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Morrowind Ingredients.esp
@@ -9332,6 +9335,7 @@ Trade and Commerce.esp
   IF CHECKSUM("Trade and Commerce.esp", C5C1D187) DIRTY: 17 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("Trade and Commerce.esp", 955A7549) || IF CHECKSUM("Trade and Commerce.esp", 111317D8) DIRTY: 0 ITM, 18 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Trade and Commerce Update.esp
+Umbra the Unfortunate.esp
 ENDGROUP: Quests Early
 
 BEGINGROUP: Quests #
@@ -11300,6 +11304,7 @@ Legends - Zefaro Cottage.esp
 Legion Faction Mod.esp
   TAG: {{BASH: Relations}}
   IF CHECKSUM("Legion Faction Mod.esp", 32E46BF4) DIRTY: 244 ITM, 990 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Legion Hates Bandits x.esp
 LFScreenshootersAbyss.esp
 Lost Grove.esp
 Love Suite Room.esp
@@ -14048,6 +14053,7 @@ Better daedric shrine Azura.esp
   IF CHECKSUM("Better daedric shrine Azura.esp", 8EE4EA11) DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Better daedric shrines full.esp
   IF CHECKSUM("Better daedric shrines full.esp", 5B2AC7E3) DIRTY: 35 ITM, 158 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+BettysFlowerPower.esp
 BettysVinhHaLong.esp
 BettysJungleNamriel.esp
 BettysNamriel.esp
@@ -14887,6 +14893,7 @@ xulBlackwoodForest.esp
 Unique Landscapes - Blackwood Forest DV.esp
 CastleDunkerlore-BlackwoodForest patch.esp
 UnholyChatedral-BlackwoodForest patch.esp
+LegionOutposts-BlackwoodForest Patch.esp
 PoisonSwamp-BlackwoodForest Patch.esp
 
 xulCheydinhalFalls.esp
@@ -16294,6 +16301,7 @@ Emporer's Armor.esp
 Empty_Soul_Gems-2529.esp
 EnchantedArchMageRobeandHood.esp
 Encumbrance Mod 9338.esp
+English Silent Voice Fix.esp
 EnhancedMountedCombat.esp
 Enhanced Quest Items.esp
 EnemyFace3.esp
@@ -17781,6 +17789,7 @@ Wayshrine_Redesign.esp
 Wayshrines Improved.esp
   IF CHECKSUM("Wayshrines Improved.esp", A200A48) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 WeaponAndStaffSpecs.esp
+Weightless Alchemy.esp
 Weightless Alchemy-5695.esp
 Weightless Arrows.esp
 Weightless arrows SI compatable.esp
@@ -18685,6 +18694,7 @@ Stalk'em SI.esp
 stickyfingers.esp
 Stirk_Port.esp
 StrongholdTeleport.esp
+Suicide target.esp
 SummonAnyV005.esp
 Summon Armored Horse Spells.esp
 SummonAuroranOBME.esp
@@ -21357,6 +21367,7 @@ F2LAddon.esp
 F2LAddon_Kasuga&Sisimaru.esp
 F2LMiqoteAddon.esp
 F2LAddon_MSElves.esp
+Ta22's Chocolates.esp
 ENDGROUP: From2ch Lives
 
 A Crudius Companion Orc.esp
@@ -22266,6 +22277,7 @@ Oblivion_Character_Overhaul.esp
 Oblivion_Character_Overhaul Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 OCO v2 Balanced - Bonus Races Only.esp
+OCO v2 Balanced - Cobl.esp
 OCOv2-BR.esp
   TAG: {{BASH: NpcFaces, R.Head, R.Body}}
 1em_Vilja_OCOV2_By_jet4571.esp
@@ -22802,7 +22814,7 @@ xulChorrolHinterland-BC6.esp
 Better Cities CHORROL - Werewolf.esp
 Better Cities BRUMA - Werewolf.esp
 Better Cities Bruma - The Elder Council.esp
-
+Better Cities Chorrol - ODD patch.esp
 Side's Bruma House (BC patch).esp
 Better Cities - Knightly Armory.esp
 Better Cities - Knights of the Nine.esp
@@ -22915,6 +22927,7 @@ TopalIsland-BetterCities Patch.esp
 TopalIsland-BC6 Patch.esp
 LegionOutposts-BCFullPatch.esp
 LegionOutposts-BC6 Patch.esp
+LegionOutposts-BlackwoodForest-BC6 Patch.esp
 Kragenirs-LegionOuposts-BC Patch.esp
 Kragenirs-LegionOutposts-BC6 Patch.esp
 TopalIsland-LegionOutposts-BC Patch.esp
@@ -22991,7 +23004,7 @@ OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
   TAG: {{BASH: C.Water}} 
 OSPS-BC_Imperial_Isle-UL_Imperial_Isle_Talos_Bridge_Gatehouse-Region_Revive_Patch.esp  
 RegionalFarms-BCPatch.esp
-
+RegionalFarms-BC6 Patch.esp
 Oblivifall - Losing My Religion BC Anvil.esp
 Oblivifall - Losing My Religion BC Bravil B&M.esp
 Oblivifall - Losing My Religion BC Bravil.esp

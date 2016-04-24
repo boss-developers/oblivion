@@ -1400,6 +1400,7 @@ Skyrimized Waters HD - SI Addon.esp
   TAG: {{BASH: C.Water}}
 Underwater.esp
 UnderwaterVisibilityMod.esp
+Water.esp
 Wavy_Water.esp
 
 ENDGROUP: Water and lava tweaks
@@ -1703,6 +1704,7 @@ BEGINGROUP: Base #
 
 00crystalTorch.esp
   IF CHECKSUM("00crystalTorch.esp", E7A1BCE7) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+00OldePaintings.esp
 00 Realistic Player Speech.esp
   IF CHECKSUM("00 Realistic Player Speech.esp", 46716219) Dirty: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   TAG: {{BASH: Names}}
@@ -1868,6 +1870,7 @@ Bitches of the Duke.esp
   REQ: Shivering Isles
 Black Screen Sneak Fix.esp
 Black Sheep.esp
+Black Soul Merchant.esp
 BlackMarket.esp
 BlackMarket_1C.esp
 Blackpowder_bombs v04.esp
@@ -1921,6 +1924,7 @@ CDM - Name That Home.esp
 ChapelsOfCyrodiilLOD.esp
 CharGenAmulet.esp
 Character_Changer-2826.esp
+Chest O Gold-8209.esp
 Circling Ravens.esp
 Clintmichs Market District Merchants.esp
 crafting.esp
@@ -4949,6 +4953,7 @@ IrohaClothes.esp
 Iron Maiden Set.esp
 Iron Maiden - Jo's Rest.esp
   IF CHECKSUM("Iron Maiden - Jo's Rest.esp", C7862667) DIRTY: 15 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ISbrandSwords.esp
 ISEmpireSwords.esp
 IvyArmor_Black.esp
 IvyArmor_Full.esp
@@ -5815,6 +5820,7 @@ SMDR 001 DM Dress.esp
 smkTamrielicLoreItems01.esp
 SnakeArmor.esp
 Sneak peek Bodysuit.esp
+snow crystals dress.esp
 Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
   IF CHECKSUM("SnowySignatureOutfit.esp", 20498F08) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -6156,6 +6162,7 @@ Unique Ebony Sets.esp
 Unique Enticing Skill Books.esp
   TAG: {{BASH: Graphics}}
 Universal_Armor_Stands.esp
+Universal Armor Stand v2.0.esp
 Unlimited Wear.esp
 UU! Female Undies.esp
   SAY: Consider upgrading to version 4.2.1+.
@@ -6649,6 +6656,7 @@ DMRA BBB Skimpy Emperor Robe.esp
   TAG: {{BASH: Graphics}}
 DMRA BBB Skimpy Shivering Royalty.esp
   TAG: {{BASH: Graphics}}
+DMRA BBB Apparel Collection.esp
 DMRA Stock Clothing Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}} if using overhaul mods.
 DMRA Stock Clothing Skimpy.esp
@@ -6709,6 +6717,7 @@ FF7 Swords 04 side rune.esp
 FF7 Swords 05 back butterfly.esp
 Fingernails For HGEC.esp
 Forbidden.esp
+FullDMRA.esp
 FWAD.esp
 
 Ghost Armor DMRA-BBB.esp
@@ -9062,6 +9071,7 @@ ENDGROUP: CNRP
 BEGINGROUP: Creatures - New
 //Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
 Centaur Enemies.esp
+FatBellyMinotaur.esp
 Giants.esp
 HBArgonianAndOrcZombies.esp
 John's Creature Mod.esp
@@ -9071,6 +9081,7 @@ LBUndeadAdditions.esp
 LBWaterBeasts.esp
 Mythical Creatures - Frost Troll.esp
 Skeleton Diversity.esp
+Zombie Arm Creature.esp
 ENDGROUP: Creatures - New
 
 Creature Restorations.esp
@@ -9223,6 +9234,7 @@ BEGINGROUP: Quests Early
 
 Orden des Drachen.esp
 Orden des Drachen Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
 OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
@@ -10495,6 +10507,7 @@ aaaJNF-&-DS-Pirate-Isles-Beta.esp
 Dungeons 1.esp
 Dunmer's Inn.esp
 Dwemer_Skyship_1_1_0.esp
+Dwemer_Skyship_1_1_0_noQuest.esp
 Dwarven Mines.esp
   IF CHECKSUM("Dwarven Mines.esp", 16E9E81E) DIRTY: 141 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Dwarven Mines Vwalk.esp
@@ -10821,6 +10834,7 @@ HauntedHouse.esp
 Enhanced Weather -  Haunted House (WillieSea) Patch.esp
 Haunted Woods.esp
 HAZBravilFestival.esp
+Hazode's Cheat Mod.esp
 hchouse408.esp
 HeavenlyIslands.esp
 Hedge Home.esp
@@ -10954,6 +10968,9 @@ SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp
 IC Palace Topper.esp
 IC Palace Topper - BBC.esp
 ictunnel.esp
+
+//This needs to load before ImpeREAL Empire - Unique Castles to prevent conflicts 
+MSFCheydinhal.esp
 
 ImbelManor.esp
 imperial armors shop.esp
@@ -16683,6 +16700,8 @@ LowRechargeCost.esp
 Cheaper Recharge.esp
 LG's Unique Enemies.esp
 Lem - Easy Construction.esp
+LtH_Armor_Replacer.esp
+LtH_Weapon_Replacer.esp
 Lush & Gaudy Aurora Borealis.esp
 Lush & Gaudy CH Trees.esp
 Lush & Gaudy Damn Greens.esp
@@ -17106,6 +17125,7 @@ RingRobeHGEC.esp
 RMDailyIncomeV2.esp
 Robes with Clothes Fix.esp
 Rock Remover - Shore.esp
+Room207RemodeledSteelArmorBodybuilder.esp
 RTSOblivionNoCorpses.esp
 RTSWelkyndClstrTreasure.esp
 Rowboats.esp
@@ -17401,6 +17421,7 @@ Eroblivion.esp
 Guard Sex.esp
 sexdarkness.esp
 sexdarkness_Eng_only_last.esp
+sexdarknessmodern.esp
 MaternityClothes.esp
 Nudeshy X.esp
 Nude Spell.esp
@@ -18073,6 +18094,7 @@ Alternative Start v1.26.esp
 AltStart.esp
 AltStart - Zombie Mayhem.esp
 Alternative Start for Better Cities Fix.esp
+Alternate Start.esp
 anb.esp
 Arks Tutorial Terminator.esp
 
@@ -18232,6 +18254,7 @@ Addendum - Thirsty.esp
   SAY: Old, update to 'Tyler's Hungry, Thirsty, Sleepy, Tired.esp'.
 
 Q - Carrying Capacity x2 v1.0.esp
+Q - Carrying Capacity x5 v1.0.esp
 Q - Carrying Capacity x20 v1.0.esp
 WeightLifter.esp
 
@@ -19286,6 +19309,7 @@ BEGINGROUP: Thievery, Sneaking and Crime
 //
 //Overrides overhauls.
 
+BanditsSneak.esp
 Better Oblivion Pack 09 - Sneaking Penalties.esp
 Better Oblivion Pack 10 - Improved Traps.esp
 Better Thiefloot.esp
@@ -19404,6 +19428,8 @@ Morrowind Lockpicking.esp
 
 kuerteeNoLootingDuringCombat.esp
 kuerteeNPCsAreSuspicious.esp
+
+SDR_Mechanics.esp
 ENDGROUP: Thievery, Sneaking and Crime
 
 BEGINGROUP: Guards and Bounty
@@ -22498,8 +22524,14 @@ Recastable Summons.esp
   IF CHECKSUM("Recastable Summons.esp", 970CACD1) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 sr_casting_time.esp
 SDR_Oblivion.esp
+  SAY: For compatibility info please look here: "http://sdr.saebel.net/compatibility"
+SDR_Oblivion_noDDLS.esp
+  SAY: For compatibility info please look here: "http://sdr.saebel.net/compatibility"
 SDR_OBME additions [Oblivion].esp
 SDR_Nehrim.esp
+  SAY: For compatibility info please look here: "http://sdr.saebel.net/compatibility"
+SDR_Nehrim_noDDLS.esp
+  SAY: For compatibility info please look here: "http://sdr.saebel.net/compatibility"
 RenGuardOverhaul_PatchForSDR.esp
 TML_SummonsUnlocked.esp
 Tougher Magic Settings v1.1.esp
@@ -23520,6 +23552,7 @@ Chameleon-NoRefraction-2411.esp
 1310-chamelion-norefraction-tessource.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Disable_Weapon_Membrane_Shaders-3127.esp
+Refractionless Chameleon.esp
 spellstrip 1.0.esp
   TAG: {{BASH: Graphics, NoMerge}}
 ENDGROUP: Shader removers

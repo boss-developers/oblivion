@@ -182,6 +182,7 @@ Enhanced Daedric Invasion.esm
 ORP.esm
 Capes4NPCs.esm
 CyrodiilUpgradeResourcePack.esm
+a2core.esm
 AGC-TARDISmstr.esm
 (DC)A Saints Tale Master.esm
   IF CHECKSUM("(DC)A Saints Tale Master.esm", 42FB8723) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -1314,6 +1315,7 @@ NoWind.esp
 No wind.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 
+BetterOblivionGateWeather.esp
 CyrodiilSnowMod.esp
 FarView.esp
 PTAutumnTrees.esp
@@ -1324,6 +1326,8 @@ Sunnier Weather V1.esp
 LM_LongerNights.esp
 Remove Oblivion Sky in Tamriel.esp
 atmospheres.esp
+Weather Control Cyrodiil.esp
+Weather Control Shivering Isles.esp
 ENDGROUP: Weather mods and overhauls
 
 BEGINGROUP: Water and lava tweaks
@@ -1738,6 +1742,8 @@ ENDGROUP: Base #
 
 BEGINGROUP: Base A
 
+a2coreif.esp
+a2configreader.esp
 abcMagicChest.esp
 AddActorValues_example.esp
   SAY: demo mod, illustrates how to use the basic features of AddActorValues. Not need for use.
@@ -1842,6 +1848,8 @@ Book Jackets Oblivion.esp
   IF CHECKSUM("Book Jackets Oblivion.esp", 88936850) DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Book Jackets Oblivion - BP.esp
   TAG: {{BASH: Graphics}}
+Book Jackets Oblivion ITA - BP.esp
+  TAG: {{BASH: Graphics}}
 !Book Jackets Oblivion - PL.esp
 Book Jackets Oblivion VF.esp
 OBG - Buechermod - Bilder.esp
@@ -1940,6 +1948,7 @@ ChaseCameraMod_1C.esp
 CET-Utility-Belt.esp
 Third Person View Camera Distance Lock -Tight-.esp
 Custom 3rd person view.esp
+External Camera.esp
 FlyingCameraMod.esp
 Flying Camera.esp
 FOV Modifier.esp
@@ -2276,6 +2285,7 @@ HeresATip.esp
 Hide Away.esp
 Hot Coffee and Tea-Base.esp
 Hot Coffee and Tea-Cobl.esp
+Hourglass - Show Time.esp
 HUDI.esp
   INC: with UI systems other than DarNified UI/Dark'd DarN/other DarN variants.
 ENDGROUP: Base H
@@ -3984,6 +3994,7 @@ AyleidGlass.esp
 Ayleid Armor and weapons.esp
 Ayleid Armor Standalone.esp
 AyleidClutter.esp
+AyleidLegacy.esp
 
 ACCCGR SI.esp
   IF CHECKSUM("ACCCGR SI.esp", EA8628A4) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -4248,6 +4259,7 @@ CheatsBook.esp
 CheeseCutter.esp
 Chin CatSuit.esp
 CET_Crossbow.esp
+CET_CrossbowAddon001.esp
 CET_DwemerPrecisionBow_v2.esp
 CG - Necessity Pack.esp
   TAG: {{BASH: Actors.AIData, Invent}}
@@ -4499,6 +4511,7 @@ DragonTorch_1C.esp
 Drake Knight Armor and Weapons v1.0.esp
 Dread Knight Armor Addon.esp
 Drake Knight Complete.esp
+DRChaos_Sword_and_Shield.esp
 Dreadweave Complete_Heavy.esp
 Dreadweave Complete_Light.esp
 Dress WBBW DMRA+.esp
@@ -4881,6 +4894,7 @@ HentaiSummerFesta_ACEdit.esp
 Hentai_SnowFlower.esp
 Hentai Recolours.esp
 Hentai Armors Retextured.esp
+HepsCloth04-BlackKitty.esp
 Heretic Robe Replacer.esp
   TAG: {{BASH: Graphics}}
 
@@ -4938,6 +4952,7 @@ Imperial Dragon Fix.esp
 Imperial Guard Cuirass.esp
 Imperial Legion Light Armor.esp
 Imperial Legion Scout Armour.esp
+ImperialPlate.esp
 ImperialPlateRedux.esp
 impguardpalkey.esp
 Insanity's Kill Bill Katanas.esp
@@ -7314,6 +7329,8 @@ Reaction.esp
 Reaction - Additions Only.esp
 RealBanditsAndHighwaymen.esp
   TAG: {{BASH: Invent}}
+RealBanditsAndHighwaymenHigherlevel.esp
+  TAG: {{BASH: Invent}}
 SIRMS.esp
   TAG: {{BASH: Invent, Names}}
 The Last Queen Of The Ayleids.esp
@@ -9179,6 +9196,7 @@ Morroblivion_Chargen_And_Transport_Mod_v6.esp
 Morroblivion_Chargen_And_Transport_Mod_v7.esp
 MorroblivionPortaltoVvardenfell.esp
 Morroblivion - Clothing Galore.esp
+ClothingReplacer.esp
 Morroblivion COBL.esp
 Morroblivion Conversation.esp
 Morroblivion Dungeon Interior Music.esp
@@ -9217,7 +9235,7 @@ ProtocolledDialogs.esp
 MorroblivionLoadingScreens.esp
 
 MorrOblivionRussiA.esp
-
+Ravenloft.esp
 ENDGROUP: Morroblivion
 
 BEGINGROUP: Quests and Locations 1
@@ -9235,6 +9253,8 @@ BEGINGROUP: Quests Early
 Orden des Drachen.esp
 Orden des Drachen Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+ODD Map Addon.esp  
+ODD Map Icon Markers FastTravel.esp
 OC+Orden Patch.esp
 
 Enhanced Quest Roleplaying.esp
@@ -10237,6 +10257,7 @@ Cheydinhal Petshop.esp
   SAY: Has critical flaw affecting numerous mods. Remove immediately. Recommend replacing with Insanity's Pet Shop for same functionality.
 Cheydinhal Petshop_DV.esp
 ChorrolFirstHouse.esp
+ChorrolPlateau.esp
 Christmas Peaks.esp
 Cinderella Craft V2.0.esp
 City Morning Glory.esp
@@ -10483,6 +10504,7 @@ DragonInvasion.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, SpellStats}}
   REQ: Akatosh Mount By Saiden Storm.esp
 DragonHouse.esp
+DragonflyHouse_v1.2.esp
 DragonSlayer.esp
 Drand.esp
 DreamersIsland.esp
@@ -10576,6 +10598,7 @@ Emertxe.esp
 EM_FarmAnimals1.esp
 EM_Packdonkeys.esp
 em_packrideponies1.esp
+EmptyHouses_v1.0.esp
 The Emerald Isle.esp
 Enchanting and Spell Making Altars.esp
 Epic Dark Brotherhood.esp
@@ -12787,6 +12810,7 @@ BEGINGROUP: Quests U
 
 UA_ArmorOfTotality.esp
 Ubanga2.57.0.esp
+UbangaDOORS.esp
 UbangaDOORS1.7.16.esp
 UFF Gypsy Market.esp
 ultimatehouse.esp
@@ -13421,6 +13445,7 @@ TGND2 Knights Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Oscuro's_Oblivion_Overhaul - Knights of Nine.esp
   IF VAR(FCOM) ERROR: Use "FCOM_Knights.esp" instead.
+Oscuro's_Oblivion_Overhaul - Unofficial Patch.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
@@ -14734,6 +14759,7 @@ Blood Raven Lush Woodlands Patch.esp
 DarkBrotherhoodChronicles-LushWoodlands patch.esp
 LittleSparrow-LushWoodlands Patch.esp
 HoarfrostCastle-LushWoodlands patch.esp
+LittleSparrow-Hoarfrost-LushWoodlands Patch.esp
 EtInArkay-LushWoodlands patch.esp
   SAY: Obsolete if using Lush Woodlands 1.3 or higher.
 Rustle House - UL Patch.esp
@@ -14762,6 +14788,7 @@ BetterDaedricShrineVaermina-AncientYews patch.esp
 BetterDaedricShrinesVaermina-AncientYews patch.esp
 BetterDaedricShrinesFull-AncientYews patch.esp
 DarkBrotherhoodChronicles-AncientYews patch.esp
+DarkBrotherhoodChronicles-UniqueLandscapes Merged patch.esp
 DwarvenMines-AncientYews patch.esp
 xulAncientYews 20x8 fix.esp
   SAY: Obsolete, update to latest AY and delete.
@@ -14881,6 +14908,7 @@ Unique Landscapes - Panther River DV.esp
 Blood&Mud-PantherRiver patch.esp
 TrailsOfCyrodiil-PantherRiver patch.esp
 TrailsOfCyrodiil- PantherRiver patch DV.esp
+TrailsOfCyrodiilSouthEast-PantherRiver patch.esp
 TOC MergedVanilla-PantherRiver Patch.esp
 TOC MergedCH-PantherRiver Patch.esp
 
@@ -15036,6 +15064,7 @@ GatesToAesgaardEp2-Snowdale patch.esp
 Snowdale - Fighters Guild Quests Patch.esp
 MTCExpandedVillages-Snowdale patch.esp
 MTCExpandedVillages-UniqueLandscapes patch.esp
+MTCThievesGrotto-Snowdale patch.esp
 RiseOfASamurai-Snowdale patch.esp
 SnowyRoad-Snowdale Patch.esp
 MTC-SnowyRoad-Snowdale Patch.esp
@@ -15141,7 +15170,6 @@ LtPD+NRB4+UL-II Patch.esp
   SAY: Obsolete. Patch needs to be updated, then delete this file.
 
 BetterDaedricShrinesFull-UniqueLandscapes patch.esp
-DarkBrotherhoodChronicles-UniqueLandscapes Merged patch.esp
 EtInArkay-UniqueLandscapes Merged patch.esp
 DwarvenMines-UniqueLandscapes Merged patch.esp
 GoldenCrest-UniqueLandscapes Merged patch.esp
@@ -15874,6 +15902,7 @@ ENDGROUP: overrides Early
 
 BEGINGROUP: overrides #
 
+1SigilStrengthAndHorseFast.esp
 100%FloraHarvest.esp
   SAY: Use Bashed Patch tweak instead if using Wrye Bash.
 100% Harvest Chance.esp
@@ -16790,6 +16819,7 @@ MinotaurHeadButt.esp
 MMDrink100Potions.esp
 MM_TorchLight80.esp
 more books teach.esp
+more expensive gems vr.1.1.esp
 More (Generic) Potions.esp
 MoreHealthMoreMP.esp
 more rewarding loot list.esp
@@ -17433,6 +17463,7 @@ Oblivion Pose Pack.esp
 PAPlayer1200Eng.esp
 PlayerSlaveEncounters_V0.69.esp
 PlayerSlaveEncounters_V0.691.esp
+PlayerSlaveEncounters.esp
 Pose Compendium.esp
 SexDarknessAmuletSlot.esp
 SexDarknessTailSlot.esp
@@ -18530,6 +18561,7 @@ thScroll Vendors0.01.esp
 
 BEGINGROUP: General Spells
 
+a2ultimate_teleport_spell.esp
 [Leshik] - Mark & Recall Spells.esp
 Academy 1.02.esp
 Acidon_EnchantmentFixes.esp
@@ -18601,6 +18633,7 @@ Finders Keepers.esp
 Nighteye Glasses.obse.esp
 ForecastersWill.esp
 Freeze Tag.esp
+Frenzy Spell.esp
 Friendly Fire.esp
 Gather Ye Rosebuds.esp
 grmblf Weather Spell.esp
@@ -20081,6 +20114,7 @@ Oblivion XP - The Ayleid Steps.esp
 Oblivion XP - The Lost Spires.esp
 Oblivion XP - Journal Mod Patch.esp
   SAY: Edits "ObXPMiscScript" from version 4.1.5. Important: use this patch with that version only!
+Oblivion_XP_-_morroblivion.esp
 CoH ObXP Patch.esp
 LoversOblivionXP.esp
 Oblivion XP Character Generation.esp
@@ -20375,6 +20409,7 @@ KamiCAS.esp
 
 xxJump.esp
   IF CHECKSUM("xxJump.esp", 6F92CD7C) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+WalkAnimSwitcher_v1.0.esp
 ENDGROUP: Pose and Animation Mods
 
 BEGINGROUP: Semi-final overrides
@@ -20784,6 +20819,7 @@ Asian Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 AsianElves.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+ASTDemonRace.esp
 Avariel.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Ayleid Arcane Archer.esp
@@ -20825,6 +20861,7 @@ AmethystLRCoolsimsforNPCs.esp
   TAG: {{BASH: Hair}}
 Coolsims Hair for Rens.esp
   TAG: {{BASH: Hair}}
+DATrolls.esp
 DarkNephilim.esp
 Dark Seducer Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
@@ -22385,6 +22422,7 @@ OCO_DLCMehrunesRazor_Patch.esp
   TAG: {{BASH: Actors.ACBS, Actors.Skeleton, NpcFaces}}
 OCO_DLCThievesDen_Patch.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Actors.Skeleton, Actors.Stats, NpcFaces}}
+[SR] Khats & Args.esp
 OCO_KvatchRebuilt_Patch.esp
   IF CHECKSUM("OCO_KvatchRebuilt_Patch.esp", 9E89E850) CLEAN: 0 ITM, 0 UDR records.
 OCO_KnightsOTN_Patch.esp
@@ -22978,7 +23016,7 @@ Better Cities Full - OOO.esp
 Better Cities IC Arboretum - OOO.esp
 Better Cities IC Market - OOO.esp
 Better Imperial City - OOO.esp
-Better Cities IC Arboretum - Kragenir's Death Quest
+Better Cities IC Arboretum - Kragenir's Death Quest.esp
 Better Cities - CUO Bruma Patch.esp
   SAY: Only use one version of the Better Cities - CUO Bruma Patch.
 Better Cities Full - CUO Bruma Patch.esp
@@ -23529,8 +23567,10 @@ BEGINGROUP: Shader removers
 
 _No__persistant_enchantment_glow_fix-1843.esp
 -No-_persistant_enchantment_glow_fix-1843.esp
+_No_persistant enchantment glow fix-1843.esp
 No persistant enchantment glow fix.esp
 No_Glow_a_go_go_Version_10-4987.esp
+No Glow a go go Version 10-4987.esp
 MagicEffectDim.esp
 P1DshieldNoGlow.esp
 [GFX]_Initial_Glow-all.esp

@@ -92,6 +92,7 @@ BP-CosmeticLibraryBase-Public.esm
 BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
   TAG: {{BASH: Eyes, Graphics, Hair, R.Relations}}
+Enhanced Genetics Overhaul.esm
 CCC.esm
 Hair Master.esm
 Maxim - Cazy and Kijiko Hair.esm
@@ -1696,6 +1697,7 @@ aKALAmbientDungeonsBeta2.esp
 AmbientDungeons.esp
   REQ: OBSE and 'You Are Here'. ScreenEffects for versions below 1.3.
 Dark Red Pure Ligth.esp
+BrumasNorthernLights.esp
 ENDGROUP: Lighting
 
 BEGINGROUP: General Base Mods
@@ -2240,6 +2242,7 @@ Fishing in Cyrodiil.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Flamering.esp
+Fluffy Follower Frill.esp
 FLY_creatures.esp
 Fox Companion.esp
 Foxfire Mushrooms.esp
@@ -2494,6 +2497,7 @@ Mud Crabs!_MMM.esp
 Mud Crabs!_OOO.esp
   SAY: Use only one Mud Crabs! file
 My Voice Extender.esp
+Mysterium Xarxes Translation Mod.esp
 ENDGROUP: Base M
 
 BEGINGROUP: Base N
@@ -3164,6 +3168,7 @@ WAC - Crowded Roads Revisited.esp
 WAC - Crowded Roads Revisited Fix4v1.0b.esp
   TAG: {{BASH: Delev, Relev}}
 
+Samurai in Cyrodiil.esp
 
 travellers-new balance.esp
 travellers a.esp
@@ -4472,6 +4477,7 @@ DefianceOfSubtlety.esp
 DeliveranceFireEnch.esp
 Demon Lilith.esp
 Demonocus-entertheninja.esp
+demonocus-revengeoftheninja.esp
 DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
@@ -5237,11 +5243,13 @@ mageitems.esp
 Mage Leather Armor.esp
 MagicElvenCapes1a.esp
 maidarmorRetexKABOPAN.esp
+maksninja.esp
 MaleSweaterMod.esp
 Marara's Ring.esp
 Marine Bunny.esp
 Masks.esp
 Mass Outfit Redesign.esp
+Master Gray Fox.esp
 MasterSpells.esp
 MasterSwordDX.esp
 MasterSwordDX_no_god.esp
@@ -8928,6 +8936,7 @@ WAC - WeaponReachMOBS.esp
 WAC - NoSCWeapons.esp
 WAC - WeaponNoScript.esp
 WAC - WeaponNoScriptMOBS.esp
+WAC - Weapon and Armor Tweak MOBS.esp
 WAC OgrePatch.esp
   TAG: {{BASH: Graphics}}
 WAC.esp
@@ -8984,8 +8993,11 @@ WAC - Horses.esp
   IF CHECKSUM("WAC - Horses.esp", 1ABE5A11) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 WAC HorsePath v1.esp
   TAG: {{BASH: Graphics}}
+WAC - FCOM.esp
 WAC - TCOS.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, Eyes, Delev, Graphics, Invent, NPC.Race, R.Teeth, Relev}}
+FCOM_WAC TCOS.esp
+WAC - TCOS FCOM.esp
 WAC - TCOS Invent only.esp
   TAG: {{BASH: Invent}}
 WAC - TCOS Shops.esp
@@ -13293,6 +13305,7 @@ DLCFrostcragMysticEmporiumPatch.esp
 DLCFrostcrag_MysticEmporiumPatch.esp
 brumaguild.esp
 BrumaGuildReconstructed.esp
+BrumaMagiReborn.esp
 Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
   IF CHECKSUM("BrumaMGRestored.esp", 2610B3EA) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13408,6 +13421,7 @@ SM Plugin Refurbish(Merged).esp
   REQ: all DLCs and Shivering Isles to be installed and active.
   INC: 'CDM-CGO Compatibility plugins'.
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
+SM Plugin Refurbish.esp
 Choices and Consequences - SM Plugin Refurbish - Orrery.esp
 DBSQR - Vile Lair SMPR Full.esp
 Knights Patch.esp
@@ -14188,6 +14202,7 @@ TWMP_ProvinceHighRock.esp
   IF CHECKSUM("TWMP_ProvinceHighRock.esp", C429C648) DIRTY: 98 ITM, 130 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TWMP_Skyrim.esp
 TWMP_SkyrimImproved.esp
+TWMP Skyrim Guard Armors & Shields.esp
 TWMP_Locations.esp
 TWMP_Morrowind.esp
 AK- Morroblivion in Tamriel.esp
@@ -14426,6 +14441,7 @@ HESU5 JigokuDani.esp
   WARN: Obsolete. Update to the latest version.
 HESU HellLands.esp
 PinePeak-HellLands Patch.esp
+StarsRest-HellLands Patch.esp
 HESU5 PoisonNuma.esp
   WARN: Obsolete. Update to the latest version.
 HESU PoisonSwamp.esp
@@ -14487,6 +14503,8 @@ HESU5 GreenRoad.esp
 HESU WhiteRoseRiver.esp
 Glenvar-WhiteRose Patch.esp
 MTC-WhiteRose Patch.esp
+HESU-TAS Patch.esp
+TAS-HESU Patch.esp
 LostSpires-WhiteRose Patch.esp
 Faregyl-WhiteRose Patch.esp
 Shezries-WhiteRose Patch.esp
@@ -15480,6 +15498,9 @@ Salmo WV, Cobl.esp
   SAY: MAY cause CTDs. Cause uncertain despite extensive debugging. Disable if experiencing a persistant crash.
 BetterInns - Salmo the Baker, Cobl PATCH.esp
 
+Rolling_Hills_Manor.esp
+Rolling_Hills_Manor_ULAY_patch.esp
+
 Sutch Village.esp
 Sutch Village Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -16114,6 +16135,7 @@ BlackScreenSneakFix.esp
 Blade Skills.esp
 Bloody_Mess.esp
 Bloody_Mess - Bloody_Fights.esp
+A Bloody Mess_Fix.esp
 A Bloody Mess - Bloody Fights.esp
 A Bloody Mess - Armor Shader Supression.esp
 A Bloody Mess - Arena Wash Basin.esp
@@ -16415,7 +16437,7 @@ Equivalent_Exchange.esp
 Essential_Trainers-8374.esp
 
 EVE_ShiveringIslesEasterEggs.esp
-
+Everburn Torches- 1921.esp
 ExpandedGreetings.esp
 
 Dungeon Actors Have Torches 1.6 CT.esp
@@ -16735,6 +16757,7 @@ Lush & Gaudy Aurora Borealis.esp
 Lush & Gaudy CH Trees.esp
 Lush & Gaudy Damn Greens.esp
 Lush & Gaudy Damn Greens GC CH Tree Cull 5.esp
+Lush & Gaudy Give Me Some Moor Trees.esp
 Lush & Gaudy FG.esp
 Lush & Gaudy Lava.esp
 Lush & Gaudy Oblivion Weather.esp
@@ -16818,6 +16841,7 @@ MIEO-ae.esp
 MinotaurHeadButt.esp
 MMDrink100Potions.esp
 MM_TorchLight80.esp
+More Arrows Recovered.esp
 more books teach.esp
 more expensive gems vr.1.1.esp
 More (Generic) Potions.esp
@@ -16883,6 +16907,7 @@ NightMother_Money-6759.esp
 NirnrootPermPotions.esp
 NirnrootPlants.esp
   TAG: {{BASH: Graphics}}
+NirnrootRespawn.esp
 Nirnroot Tweak.esp
 Nobody Loves Me.esp
 No Beginning Travel.esp
@@ -16918,6 +16943,7 @@ No Troll Regen - Regen + Shady Sam Fire Arrows.esp
 No Wait Regenerate.esp
   REQ: OBSE.
 NoWorthlessItems.esp
+Noticeable Skill Books.esp
 NPCsMoreGold.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
@@ -17036,6 +17062,7 @@ pmRepairRecharge.esp
 Potable Pastiche.esp
 Potable Pastiche with New Potions.esp
 Potions Recolored.esp
+Pociones Colores.esp
 JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
@@ -17437,6 +17464,7 @@ Sexlivion_0.4a_Full_English_v1.esp
   SAY: Old, update to version 0.8.2
 stripper.esp
 sexlivion.esp
+Sexlivion-ForBP2ch.esp
 Sex Shop.esp
 SexGGodess.esp
 SPS.esp
@@ -18534,6 +18562,7 @@ Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp
 LithiansNatureOfTheBeastModBeta.esp
 Scorn_Vampirism_Mod.esp
 Scorns Vampirism Revised.esp
+Scorn's Vampirism Revised.esp
 Vampire Fire by Darkhart.esp
 The Vampire Experience.esp
 No Vampirism.esp
@@ -21375,6 +21404,7 @@ Nazrin-Race.esp
 Neo_Ahrum_race.esp
 O88_Advent Child Race 11.esp
 Ohmes Race.esp
+Ohmes-Raht.esp
 opaquan.esp
 Flan - Enayla Races for HEAD06.esp
 Sharingan and Uchiha Clan.esp
@@ -22404,6 +22434,12 @@ Slof's Better Bodies.esp
   TAG: {{BASH: Body-M, Body-Size-M, Body-F, Body-Size-F, Eyes, Graphics, R.Mouth, R.Teeth}}
   REQ: Robert's Male (v3, v4 or v5) and Robert's Female body mods.
   INC: Non-Robert's body mods, Slof's Oblivion Better Beasts.esp (included in this), Improved Facial Textures, Facial Textures by Enayla, Cobl Races Resource and Luchairs HGEC body seam reducer.
+Enhanced Genetics Overhaul - Vanilla Races.esp
+Enhanced Genetics Overhaul - Playable Dremora.esp
+Enhanced Genetics Overhaul - Playable SI Races.esp 
+Enhanced Genetics Overhaul - Cosmetic Addons.esp
+Enhanced Genetics Overhaul - Tweaked NPCs.esp
+Enhanced Genetics Overhaul - AllInOne.esp
 Oblivion_Character_Overhaul.esp
   TAG: {{BASH: Eyes, NpcFaces, R.Head, R.Mouth}}
 Oblivion_Character_Overhaul Vwalk.esp
@@ -23567,7 +23603,7 @@ BEGINGROUP: Shader removers
 
 _No__persistant_enchantment_glow_fix-1843.esp
 -No-_persistant_enchantment_glow_fix-1843.esp
-_No_persistant enchantment glow fix-1843.esp
+_No_ persistant enchantment glow fix-1843.esp
 No persistant enchantment glow fix.esp
 No_Glow_a_go_go_Version_10-4987.esp
 No Glow a go go Version 10-4987.esp
@@ -23581,6 +23617,8 @@ GFX_Initial_Glow-all.esp
   TAG: {{BASH: Graphics, NoMerge}}
 [GFX]_Initial_Glow-creatures.esp
   TAG: {{BASH: Graphics, NoMerge}}
+Initial Glow Redux.esp
+Initial Glow Redux - Creatures.esp
 GP_No-Glo.esp
 No_More_Gatestorm_on_Oblivion_gates-9654.esp
 AlterFX.esp

@@ -1916,6 +1916,7 @@ BPMerchantStorage.esp
   TAG: {{BASH: Invent}}
 BTMoreEnemies.esp
   IF CHECKSUM("BTMoreEnemies.esp", 3BDE7DD3) DIRTY: 0 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ButterflyLamp.esp
 BuyableChests_100.esp
 BuyableTorch.esp
 ENDGROUP: Base B
@@ -2254,6 +2255,7 @@ ENDGROUP: Base F
 BEGINGROUP: Base G
 
 GauntletMagicDestruction - 1.2.esp
+GBRsAntiCTD.esp
 Glowing Wonders.esp
   IF CHECKSUM("Glowing Wonders.esp", 1D521050) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Gold is now Gold.esp
@@ -2374,6 +2376,7 @@ Lamps of Oblivion.esp
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Life1.2Rusb.esp
+LightVWD.esp
 Lock Bash v1.1.esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
 Lock Bash v99.9.esp
@@ -2553,6 +2556,7 @@ OblivionOnline.esp
 OBSE Test Plugin.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
+Order of the Lamp.esp
 Oscars_Nicer_Grass-3346.esp
 FullGrass.esp
 OSRCustom.esp
@@ -2566,6 +2570,7 @@ paladin.esp
 PalePassIce.esp
   IF CHECKSUM("PalePassIce.esp", 10547198) DIRTY: 0 ITM, 27 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Paradisebird_2.esp
+ParpsAyleidGuidebook 1.0.esp
 PassengerShips_BetterCities.esp
 Passion Fruit.esp
   TAG: {{BASH: Graphics}}
@@ -2633,6 +2638,7 @@ PMVisibleMapMarkersSI.esp
 Poisonous_Food-9719.esp
 Posters.esp
 Pitchable_Tent_anywhere.esp
+PoisonFist.esp
 Poisonous Apple for poison fix.esp
 Portable Bedroll.esp
 Portable Campsite.esp
@@ -2835,6 +2841,7 @@ SilverFence.esp
 SigilStonesExpanded1.5.esp
 SigilStonesExpanded1.52.esp
 Sigil_Stone_Chest-5050.esp
+Sigil Stone Chest-5050.esp
 Sigil Stone Spawner-3025.esp
 Sigil_Stone_Spawner-3025.esp
 Silver and Gold Respawns.esp
@@ -2878,7 +2885,7 @@ SummonChest_v2.0.esp
   SAY: Outdated. Upgrade to v2.1.
 SummonChest_v2.1.esp
 Summon Bed.esp
-
+Sutch Corrections.esp
 svaToMoveObjects_1C.esp
 Shader Hotkey.esp
 Slow Motion_OBSE.esp
@@ -3938,6 +3945,7 @@ AC2-Revisited_DV.esp
 AC2 Revisited HGEC.esp
 AC2Gear_HGEC.esp
 Auras.esp
+Azura's Clothing.esp
 azsTHouse.esp
 azsTrHouse.esp
 azsLeatherArmor.esp
@@ -4728,6 +4736,7 @@ Gabe's Oblivion Amulets.esp
 Galadhrim_DV.esp
 Galadhrim_EV.esp
 Galadhrim_RU.esp
+Gandalf_Lightstaff.esp
 GandalfStaff.esp
 Garak's Sealable Soulgem Bag.esp
 Garak's Sealable Soulgem Bag_loot edition.esp
@@ -7411,7 +7420,7 @@ IFNOT VAR(FCOM) MOD: Fran Armor Add-on.esp
   REQ: Francesco's Leveled Creatures-Items 4.5b.
 IFNOT VAR(FCOM) MOD: Fran_Lv30Item_Maltz.esp
   REQ: Francesco's Leveled Creatures-Items 4.5b.
-
+FCOM_Fran_Lv30Item_Maltz.esp
 Francesco's More Wilderness Life.esp
   IF VAR(FCOM) ERROR: Delete. Not compatible with FCOM.
 IFNOT VAR(FCOM) MOD: Francesco's Optional Chance of Stronger Bosses.esp
@@ -10084,6 +10093,7 @@ Bravil Docks.esp
   INC: Better Cities. Already included in Better Cities Bravil.
 Bravil House For Sale Upgrade.esp
 Bravil House For Sale Upgrade - COBL Compatibility Patch.esp
+Bravil Mages Guild Basement.esp
 Bravil Store Upgrade.esp
 BravurasBarrel.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
@@ -10415,6 +10425,7 @@ DarkstarTower.esp
 DarksullTower1point1.esp
 Dark Brotherhood Dungeon.esp
 Dancer_Undress0_6.esp
+Dawnspire Manor COBL.esp
 (DC) Sutch Reborn.esp
   IF FILE("xulBeachesOfCyrodiilLostCoast.esp") REQ: SutchReborn-LostCoast patch.esp
   IF CHECKSUM("(DC) Sutch Reborn.esp", E88717D7) || IF CHECKSUM("(DC) Sutch Reborn.esp", 3A3BEC75) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -11730,6 +11741,9 @@ Necromancer Shop.esp
 Necromancer's Tower.esp
 NemoriaCottage.esp
 Nerussa The Wine Collector v1.0.esp
+Nerussa's Wine Collection version A.esp
+Nerussa's Wine Collection version B.esp
+Nerussa's Wine Collection version C.esp
 Nenalata_Niryaweye.esp
 New Anvil Flora.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities Anvil components.
@@ -11925,6 +11939,7 @@ Pine Lodge ver2.esp
 PinePeakLodge.esp
   IF CHECKSUM("PinePeakLodge.esp", 1D4C3E0C) DIRTY: 96 ITM, 46 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Pinewood.esp
+Pinewoodnew.esp
 Pinnacle Citadel.esp
 Pit Trap.esp
 Pirate Cove Cavern.esp
@@ -12106,6 +12121,9 @@ Rosethorn Hall Necrmancy Study v1.5.esp
 Rosethorn Hall Remodel.esp
 Rosethorn Hall Sanctuary v1.02.esp
 RosethornHallCave.esp
+Roving Renrijra Krin vanilla.esp
+Roving Renrijra Krin.esp
+RRK - Skooma Paraphernalia
 RoxeyCottage.esp
 RoxeyCottageCOBLaddon.esp
 royaume_d_almar_v1_4.esp
@@ -12555,6 +12573,7 @@ Aylied Steps - AN Real Lights patch.esp
   REQ: The Ayleid Steps, All Natural Real Lights.
 Amen'thalas - Ayleid Steps Patch.esp
 TGND - The Ayleid Steps.esp
+The Ayleid Steps - GRV&WS 14-28 Days.esp
 CDEP_FanaCeya.esp
   TAG: {{BASH: C.Light}}
   IF CHECKSUM("CDEP_FanaCeya.esp", 84B74D3F) DIRTY: 13 ITM, 122 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -12710,6 +12729,7 @@ Tombstone Epitaphs - The Unveiling.esp
 Tona's_ModsStore.esp
   IF CHECKSUM("Tona's_ModsStore.esp", 8DD1E120) DIRTY: 0 ITM, 103 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Tona's_ModsStore UU Patch.esp
+Pinewood-Tonas Patch.esp
 Topal Bay Camp.esp
 TopalsDeep.esp
 VileLair-TopalsDeep Patch.esp
@@ -13219,6 +13239,9 @@ DBSQR - Battlehorn Castle.esp
 ORM-TamriellicGlassDLC6.esp
   TAG: {{BASH: Graphics}}
   IF CHECKSUM("ORM-TamriellicGlassDLC6.esp", 0631088B) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Pinewood-DLCBattlehorn Patch.esp
+Pinewood-BattlehornUpgraded Patch.esp 
+Pinewood-Tonas-Battlehorn Patch.esp 
 GoldenCrest-BattlehornUpgraded Patch.esp
 TonasModStore-BattlehornUpgraded Patch.esp
 VHB-BattlehornUpgraded patch.esp
@@ -13540,6 +13563,9 @@ Cybiades v2.1 Delayer.esp
 
 Castle_Knightstone.esp
   IF CHECKSUM("Castle_Knightstone.esp", 69EB3112) DIRTY: 14 ITM, 249 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+
+DaedraShrinesProddedWithAStick.esp
+KOTNPokedWithAStick.esp
 
 TOTF.esp
   IF CHECKSUM("TOTF.esp", 14BBA6EE) DIRTY: 76 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -14035,6 +14061,10 @@ MTCEV-RoC Patch.esp
 Trails of Cyrodiil   Bleakersway.esp
 ROC-TOCBleakerPatch.esp
 TOCMergedVanilla-ROC Patch.esp
+
+Pinewood-ROC Patch.esp
+Pinewood-Battlehorn-ROC Patch.esp
+Pinewood-Tonas-Battlehorn-ROC Patch.esp
 
 //Needs to load after Roads of Cyrodiil to avoid conflicts
 Immersive Prison sewer exit.esp
@@ -15987,6 +16017,7 @@ Arch Mage Chest Remake OBSE.esp
 Arch_Mages_Robe_Enchanted-2185.esp
 Arch_Mages_Robe_Enchanted_--_Expert_Level-2207.esp
 Arch_Mages_Robe_Enchanted_--_Master_Level-2205.esp
+Arch Mages Robe Enchanted -- Master Level-2205.esp
 ArgonianSwiftSwim - Leopard.esp
 Arkestar - Name Rat 1 - Potions.esp
   TAG: {{BASH: Names}}
@@ -16659,6 +16690,7 @@ Improved_potion_of_exploration_11.esp
 Improved Barter Gold 1.0.3.esp
 cf_Improved_Barter_Gold.esp
   IF CHECKSUM("cf_Improved_Barter_Gold.esp", A4F37E72) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Improved Ring of Vitality for Atronach Users.esp 
 ImprovedWaterfrontShips.esp
 IWS-OCR patch.esp
 Increased Fog of War Radius - 5X.esp
@@ -16738,6 +16770,7 @@ Leveling Quick Fix 20.esp
 Light Elven Weapons and Mithril Armor.esp
 Light Glass Weapons and Armor.esp
 LightArrows.esp
+lighterGear.esp
 Lights.esp
 Listener Overhaul.esp
 Live at Gweden Farm.esp
@@ -17865,6 +17898,7 @@ ENDGROUP: overrides T
 
 BEGINGROUP: overrides U
 
+UltimateSigilStones.esp
 Unarmored Skill for Everyone.esp
 Unarmored skill.esp
 Undead Legion.esp
@@ -17921,6 +17955,8 @@ vendorfreedom.esp
   TAG: {{BASH: Relev}}
 Vincente Valtieri Imperial.esp
   TAG: {{BASH: Voice-M}}
+visualshield
+  {{BASH: Graphics, Deactivate}}
 vn_goldweight.esp
 VCEClassOverhaul.esp
 ENDGROUP: overrides V
@@ -18949,6 +18985,7 @@ Knights - MMR Patch.esp
 MannimarcoRevisited - MMR Patch.esp
 MannimarcoRevisitedOOO - MMR Patch.esp
 Shivering Magick.esp
+Shivering Magick Reborn.esp
 Mighty Magick Mod Upgrades.esp
 Alter Weight Spells - MM.esp
 Chaos Spells - MM.esp
@@ -19743,6 +19780,7 @@ JM's Bar Fights mortal.esp
   SAY: Pick and use only 1 of the 2 JM's Bar Fight mod files.
 JM's Bar Fights.esp
   SAY: Pick and use only 1 of the 2 JM's Bar Fight mod files.
+JOES damage mod v1.esp
 Longer_KnockOut-6523.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 Unconscious For 5min.esp
@@ -20008,6 +20046,7 @@ SlowerOblivion_x4_TM.esp
 SlowerOblivion_x6_TM.esp
 SlowerOblivion_x8_TM.esp
 SlowerOblivion_x10_TM.esp
+SlowerRun.esp
 AttributeInfluenceSkill.esp
 Enchanting Skill.esp
 Rathe's Better Intelligence.esp
@@ -22444,6 +22483,9 @@ Oblivion_Character_Overhaul.esp
   TAG: {{BASH: Eyes, NpcFaces, R.Head, R.Mouth}}
 Oblivion_Character_Overhaul Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+OCO v2 Balanced.esp
+DMAPlayable.esp
+OCOv2 Mazken race.esp
 OCO v2 Balanced - Bonus Races Only.esp
 OCO v2 Balanced - Cobl.esp
 OCOv2-BR.esp
@@ -23971,6 +24013,7 @@ STX NoLightScriptSpell.esp
 STX WhiteLightSpellNoEffect.esp
 LightSpellBlue.esp
 LightSpellEvilRed.esp
+Light Spell Recolor Soft Gold.esp
 LightSpellTorch.esp
 LightSpellWhite.esp
 LightSpellWhiteDimmer.esp

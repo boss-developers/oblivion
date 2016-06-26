@@ -177,6 +177,7 @@ Waalx Animals & Creatures.esm
   INC: Other overhaul mods.
 Natural_Habitat_by_Max_Tael.esm
 Diverse Wisps - Base.esm
+Dynamic Underwear System.esm
 VASE - core.esm
 Gems and Gem Dusts.esm
 SoS Library.esm
@@ -1112,6 +1113,7 @@ _darker_nights_2_with_burning_kvatch.esp
 darker nights for shivering isles.esp
   INC: weather overhauls that affect SI.
 Darker N8.esp
+Disable Gate Storms.esp
 
 fog.esp
   INC: weather mods.
@@ -1125,6 +1127,7 @@ sdn LOD Fog Lite.esp
   INC: weather mods.
 
 Lem - Modified Weather.esp
+LessRain.esp
 
 AWS-Main.esp
 AWS-ShiveringIsles.esp
@@ -2187,6 +2190,7 @@ DragonStatues_1C.esp
 Drifting seeds.esp
 DrinksForSale.esp
 DropLPUI.esp
+Ducks.esp
 Ducks in IC.esp
 Ducks and Swans.esp
 Duke Patricks - Basic Alchemic Immersion.esp
@@ -2374,6 +2378,8 @@ FGPorter_nofollow.esp
 
 Lamps of Oblivion.esp
   IF CHECKSUM("Lamps of Oblivion.esp", EF38FAAC) DIRTY: 18 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Lazare Milvan Duel.esp
+  REQ: OBSE
 Let the Duke Sit.esp
 LeyawiinChapelDoorFix.esp
 Life1.2Rusb.esp
@@ -2522,6 +2528,7 @@ New_Potions_Fixed_Icons-25822.esp
   TAG: {{BASH: Graphics, NoMerge}}
 New Oblivion Moons.esp
 NewThirdPerson.esp
+NightBanditsOnRoads.esp
 nu_female_player_idle.esp
 Never die.esp
 NOAH.esp
@@ -2529,6 +2536,7 @@ NOAH - Remove Cloud Effect.esp
 noreplicas.esp
 No Respawning Containers.esp
 NoGuildmasterKick.esp
+NoRoadPredators.esp
 NoSunRobe.esp
 No weapon litter.esp
 Nosvertu's Wearable Daemer Wings.esp
@@ -4300,6 +4308,7 @@ Claymore Sheath.esp
 CM_Better Wine.esp
   TAG: {{BASH: Graphics, Deactivate}}
 CM_Better Wine_SI.esp
+CM Iron Battle Shields.esp
 CM_Redguard_Scaled_Armor.esp
 Collectible Figurines.esp
 Collectible T-Shirts V1.0.esp
@@ -5015,6 +5024,8 @@ JediLightsabersWithSheathFIX.esp
   REQ: OBSE
 JediLightsabersCollectionV1.3.esp
 JediLightsabersCollectionV1.5.esp
+JediLightsabersConverted.esp
+  REQ: OBSE
 Jewels Collection.esp
 JGAyleidRoyals.esp
 JG Elven.esp
@@ -7091,7 +7102,7 @@ Wonder Woman Classic.esp
 Wonder Woman New Uniform.esp
 
 XiaNewAmuletsV1.esp
-
+Xia_SilkDragonImportsV1_for_BAB.esp
 YAARM_Steel.esp
   TAG: {{BASH: Graphics, NoMerge}}
 
@@ -9773,6 +9784,7 @@ Arkshtrumz.esp
 Armageddon.esp
   IF CHECKSUM("Armageddon.esp", E3E69608) DIRTY: 62 ITM, 7 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ArmorerGuild.esp
+Armoured Arms.esp
 Armoured Arms Altered.esp
 Armoured Arms Redone.esp
 ArmoryLab.esp
@@ -13235,6 +13247,7 @@ SM Plugin Refurbish - Battlehorn.esp
 Artificerens Battlehorn Coblized.esp
 BattleHorn_MOBS.esp
   TAG: {{BASH: Deactivate, NoMerge, Stats}}
+BattlehornFarmhouse.esp
 Princess Battlehorn.esp
 DBSQR - Battlehorn Castle.esp
 ORM-TamriellicGlassDLC6.esp
@@ -13242,7 +13255,7 @@ ORM-TamriellicGlassDLC6.esp
   IF CHECKSUM("ORM-TamriellicGlassDLC6.esp", 0631088B) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Pinewood-DLCBattlehorn Patch.esp
 Pinewood-BattlehornUpgraded Patch.esp 
-Pinewood-Tonas-Battlehorn Patch.esp 
+Pinewood-Tonas-DLCBattlehorn Patch.esp 
 GoldenCrest-BattlehornUpgraded Patch.esp
 TonasModStore-BattlehornUpgraded Patch.esp
 VHB-BattlehornUpgraded patch.esp
@@ -13487,6 +13500,7 @@ Oscuro's_Oblivion_Overhaul - Unofficial Patch.esp
 
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
+NineDivinesTitleFix.esp
 DBSQR - Knights of the Nine.esp
 
 PONLights.esp
@@ -14064,7 +14078,9 @@ ROC-TOCBleakerPatch.esp
 TOCMergedVanilla-ROC Patch.esp
 
 Pinewood-ROC Patch.esp
-Pinewood-Battlehorn-ROC Patch.esp
+Tona's-ROC Patch.esp
+Pinewood-Tonas-ROC Patch.esp
+Pinewood-DLCBattlehorn-ROC Patch.esp
 Pinewood-Tonas-Battlehorn-ROC Patch.esp
 
 //Needs to load after Roads of Cyrodiil to avoid conflicts
@@ -15997,6 +16013,7 @@ Amelion Brusef's armor enhanced.esp
 AmnesiaStone.esp
 Amulets and Rings for everybody.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, Invent, Stats}}
+Amulets On Robes.esp
 ANB_WeaponAddons_Enhanced.esp
 ANBBobbingMotion.esp
 ANB_Item_Switchers.esp
@@ -16505,6 +16522,7 @@ Factions Dark Brotherhood.esp
 faster-grass.esp
 Faster-trees.esp
 Fast Travel Expanded.esp
+Fasttravelfromeverywhere.esp
 FG_Merchant Inventory Realism V 1_5.esp
   TAG: {{BASH: Invent}}
 FrbitchapelAltars.esp
@@ -16529,6 +16547,7 @@ First Person Messages.esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
 
 Fiery Arrows v3.3.esp
+FixContDisappearBug.esp
 Two Fiery Arrows - optional.esp
 
 Flee Further.esp
@@ -17101,6 +17120,7 @@ JQ-PotionReplacer.esp
 PPPickUpBook.esp
 Player's Diary.esp
 PlayersDiary_1C.esp
+Price.esp
 Prox - Arena Loot v1.1.esp
 PSS-normal.esp
 PSS-vampire.esp
@@ -19666,6 +19686,7 @@ Arrows Remain 10min.esp
   IF VAR(BP) SAY: Use Wrye Bash Bashed Patch tweak instead.
 AutoOffhand.esp
 Can´t touch me!.esp
+CombatFPSBooster.esp
 VeryFastArrows_v2.0.esp
 
 cancelattack.esp
@@ -20742,6 +20763,8 @@ CynthiasFantasyEyes.esp
 ElaborateEyes.esp
   TAG: {{BASH: Eyes}}
 Ethereal - Eyes.esp
+  TAG: {{BASH: Eyes}}
+Etherealeyes_Khajiit_BasicReplace.esp
   TAG: {{BASH: Eyes}}
 DaMage's_Eye_Pack.esp
   TAG: {{BASH: Eyes}}
@@ -22964,6 +22987,7 @@ ENDGROUP: Better Cities FPS Patches
 
 BEGINGROUP: BC Compatibility patches
 
+Better Cities Map Fix.esp
 ShippingOnNiben.esp
 
 All Natural Real Lights - Better Cities IC Patch.esp
@@ -23756,7 +23780,9 @@ Detect Life Yellow Shader.esp
   TAG: {{BASH: Graphics, Deactivate}}
 DS Flaming Arrows.esp
 EvenLessGreenLight.esp
+Geno's_Life_Detect_v1.0.esp
 HVH_LifeDetect.esp
+IMPChameleonSEV.esp
 Lem - Lighter Fire Effect.esp
   TAG: {{BASH: Graphics, Deactivate}}
 Li-Glassphials.esp

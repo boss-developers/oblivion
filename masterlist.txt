@@ -1847,6 +1847,7 @@ AFC v2 Damage Text.esp
 AFC v2 Gauntlet Weaponry.esp
 AFC v2 Locational Damage.esp
 AFK_PrayerIdles.esp
+Animals+_in Cities.esp
 Arena Ring.esp
 Arena_Ring_V2.esp
 ArrowAutoEquipper.esp
@@ -2167,6 +2168,7 @@ Daggerfallbooks.esp
 Daedric Wargames.esp
   REQ: Shivering Isles expansion.
 Damsels In Distress.esp
+DID2_GentlemenInJeopardyV1-1.esp
 DID3_DoubleTrouble.esp
 Dancertest.esp
 Dancer_Undress0_6-1175895728-TESSource.esp
@@ -2234,6 +2236,7 @@ Enhanced Key Functionality [Shivering Isles].esp
   SAY: Only use one EKF esp.
 EquipmentConvertor.esp
 ES4_Alchemists Reference.esp
+etbluggage.esp
 Eterniums Chest Of Arrows.esp
 OCC-Eternium-Patch.esp
 Even Oddities.esp
@@ -2290,6 +2293,7 @@ Grand Potions.esp
   SAY: May need Wrye Bashed Patch to work with overhaul mods.
   TAG: {{BASH: Delev, Relev}} ??? Untested.
 SwampGrass.esp
+Guard and pet dogs.esp
 Guardianalcset.esp
 Guide Books.esp
 Guiding Beacons.esp
@@ -2448,6 +2452,7 @@ Menu and Camera Toggler.esp
 MeosPotionReplacer.esp
   TAG: {{BASH: Graphics}}
 Mephaniel's More Ingredients.esp
+MERCHANT01.esp
 merchant chest fix.esp
 MG Recommendation Skip.esp
 MidnightRecharge.esp
@@ -2733,6 +2738,7 @@ RAZ's Dishes.esp
 RAZ's Fuds.esp
 Real World Time.esp
 Reaper's Adjustable Oil Lamp.esp
+Recharging Orb.esp
 Remove QuestItem OBSE.esp
 Respawning Clams1.esp
 Respawning Clams2.esp
@@ -3232,7 +3238,8 @@ orc_adventurer_respawn.esp
 PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
-
+Wilderness Travelers.esp
+Shivering Isles Travelers.esp
 FF_Real_Thirst.esp
   INC: Vampire mods.
 
@@ -3350,6 +3357,7 @@ MigFEA.esp
 MigMagipuke.esp
 MigMiscellanea.esp
 MigNoDeath.esp
+MigTraining.esp
 MiscTracker.esp
 MotionBlur.esp
   SAY: Fix available for 'Over-Darkening' issue: "http://tr.im/scy6"
@@ -3778,6 +3786,7 @@ ENDGROUP: Items Early
 BEGINGROUP: Items #
 
 000torturearmorbw.esp
+00CrimsonWings.esp
 00 chakaru wigs.esp
 00 lux mea.esp
 00 Pyms Equipment.esp
@@ -7766,6 +7775,7 @@ DBOO - MOBS.esp
 DBOO - OOO.esp
 DBOO - ShiveringIsles.esp
 DBOO - TNR ALL RACES FINAL.esp
+DMRA BBB Oscuro's Oblivion Overhaul.esp
 Fine Weapons for OOO.esp
 Gold Smelting.esp
   TAG: {{BASH: Scripts}}
@@ -9304,6 +9314,7 @@ Morrowind_ob - UCWUS.esp
   TAG: {{BASH: Invent, Names}}
   IF CHECKSUM("Morrowind_ob - UCWUS.esp", 9F7F8D5F) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Morrowind_ob - Silt Striders.esp
+Morrowind_ob - Storms and Sound Patch.esp
 Morrowind_ob - Unique Grass.esp
 Voice Overs V002.esp
 ProtocolledDialogs.esp
@@ -9750,6 +9761,7 @@ AnavirsPool.esp
   IF CHECKSUM("AnavirsPool.esp", 3ADED84A) DIRTY: 115 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Anvill Abandoned House v1.esp
 Anvil Abandoned House Remade.esp
+AnvilBalloonlHouse.esp
 AnvilBayExpansion.esp
   INC: Better Cities. Already included in Better Cities Anvil.
   INC: Open Cities Reborn.
@@ -10567,6 +10579,7 @@ DKImprovementBruma_v1.0.esp
 DocksideCoffeeHouse.esp
 Dom.esp
 Don't Forget Nirn!.esp
+DOPHammerfell3.esp
 DopplersArmory.esp
 DoTheUnderdark.esp
   IF CHECKSUM("DoTheUnderdark.esp", 61246D9A) DIRTY: 22 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -11389,6 +11402,7 @@ KvatchRising.esp
   TAG: {{BASH: Actors.AIPackages}}
   IF CHECKSUM("KvatchRising.esp", 6C91CBEB) DIRTY: 202 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide#KvatchRising.esp_Special_Cleaning_Instructions"
 kvFoyada01.esp
+kvKalosan11.esp
 kvNagasteim024.esp
 Gold Road Cottage - Classy.esp
   SAY: Use only one 'Gold Road Cottage - X.esp'.
@@ -11844,6 +11858,7 @@ Nine Divines Robes.esp
 Nocturne.esp
 NocturneCallSteed.esp
 NoldaTheShipHome.esp
+NoldaTheShipHomeRenovated.esp
 NordBattleWolf.esp
 nordinkarst_1.0.1_en.esp
 nordinkarst_1.0.1_dv.esp
@@ -13800,6 +13815,8 @@ Rumare-AFK_Weye Patch.esp
 Rumare-AFK-Weye Relocation Patch.esp
 Adense AFK_Weye RR Rumare Patch Patcher.esp
 AFKWeye_MTC_RRLRumarePatch.esp
+FOMO-II-UL AFKWeye MTC Patch.esp
+FOMO-II-BC+UL AFKWeye MTC Patch.esp
 Weye_Armory1.esp
 
 Battlehorn Castle Refined.esp
@@ -13819,7 +13836,10 @@ Weye.esp
 Healer WEYE_TICS Patch.esp
 AFKWeye_MTC_RRLRumare_HOH Patch.esp
 WeyeOverhaulModsPatch.esp
-
+FOMO-II-UL AFKWeye MTC HOH Patch.esp
+FOMO-II-BC+UL AFKWeye MTC HOH Patch.esp
+FOMO-II-UL AFKWeye MTC HOH FarmersM Patch.esp
+FOMO-II-BC+UL AFKWeye MTC HOH FarmersM Patch.esp
 LanternMonastery.esp
 FiveLanterns-HoarfrostCastle patch.esp
 
@@ -14259,6 +14279,7 @@ Better daedric shrine Azura.esp
   IF CHECKSUM("Better daedric shrine Azura.esp", 8EE4EA11) DIRTY: 6 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Better daedric shrines full.esp
   IF CHECKSUM("Better daedric shrines full.esp", 5B2AC7E3) DIRTY: 35 ITM, 158 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+BlackwoodJungle.esp
 BettysButterflies.esp
 BettysFlowerPower.esp
 BettysVinhHaLong.esp
@@ -16976,6 +16997,7 @@ More Lockpicks.esp
 TI-MM v04d.esp
   REQ: Shivering Isles, Qarl's Harvest, Tamrielic Ingredients.
 More SoulGems for Sale.esp
+More Summonable Creatures.esp
 More_Training-1908.esp
 More Training-1908.esp
 MoreTraining.esp
@@ -17065,6 +17087,7 @@ No Wait Regenerate.esp
   REQ: OBSE.
 NoWorthlessItems.esp
 Noticeable Skill Books.esp
+NPC and Creature Buffer.esp
 NPCsMoreGold.esp
 NPC Water-Sink.esp
 NPC Static Level.esp
@@ -17590,6 +17613,7 @@ Sexlivion_0.4a_Full_English_v1.esp
 stripper.esp
 sexlivion.esp
 Sexlivion-ForBP2ch.esp
+Sexlivion-NoBP2ch.esp
 Sex Shop.esp
 SexGGodess.esp
 SPS.esp
@@ -18798,6 +18822,7 @@ Friendly Fire.esp
 Gather Ye Rosebuds.esp
 grmblf Weather Spell.esp
 HarryPotterSpells.esp
+Harvest Nearby Flora.esp
 Healers.esp
 hilarity_121.esp
 HMRepairRecharge.esp
@@ -18899,6 +18924,7 @@ NewSpells_1C.esp
 Nightmare.esp
 NollesMadnessPortalT2.esp
 NudeSpell.esp
+Modified Junges Nudespell-2992.esp
 OblivionGateTraveller.esp
 Oblivion Gate Closer Spell.esp
 Oblivion Gate Closer Spell V2.esp
@@ -18988,6 +19014,7 @@ SummonKnightofOrderOBME.esp
   REQ: SI and OBSE and OBME
 Summon Oblivion Gate v08c.esp
 Summon Oblivion Gate v08d.esp
+SummonRats.esp
 Summon Shadowmere.esp
 SummonVampire.esp
 TeachSpell.esp
@@ -21076,6 +21103,7 @@ Hidden_Elves.esp
 High Rock's Sorcerers.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 InariRace.esp
+Jolierace2.esp
 kaleen.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 Kaleencolors.esp
@@ -24218,7 +24246,7 @@ KSE_v3.esp
   INC: Vim_and_Vigor.esp, HotkeyCasting.esp, RenGuardOverhaul.esp, 7roads.esp
 KSEv3ext.esp
   TAG: {{BASH: Graphics, Names, Sound}}
-
+OOO-Rebalanced.esp
 OOO-Magic_Script_Effect_Fix.esp
   TAG: {{BASH: Sound, Graphics}}
 bgScriptEffectSilencer.esp
@@ -24601,6 +24629,7 @@ BEGINGROUP: Map Changes
 Ak- Morroblivion Maps.esp
 Ak- Morroblivion Maps HD.esp
 AK- Morroblivion in Tamriel Map.esp
+Glorious_Map.esp
 Hiboriamap.esp
 MWakeMap.esp
 MergedMaps.esp

@@ -85,6 +85,8 @@ CastleWestWeald.esm
 ElsweyrValenwood.esm
 SettlementsOfCyrodiil.esm
 SpokCommon.esm
+Timinus1010_^CommonFunctions.esm
+Timinus1010_^CompleteControl.esm
 UBANGA.esm
 MenuSysFramework.esm
 MathFunctions.esm
@@ -98,6 +100,7 @@ CCC.esm
 Hair Master.esm
 Hair Style Master.esm
 Maxim - Cazy and Kijiko Hair.esm
+Maxim and Flan hair pack.esm
 xeoex.esm
   TAG: {{BASH: Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes}}
 Jog_X_Mod.esm
@@ -1893,6 +1896,7 @@ bgShaderStandAloneEV.esp
   REQ: Wrye Bash if using spell mods.
 Bestiary (SI version).esp
 BettysRedPanda2.esp
+BieneAmelionAIFix.esp
 birds in oblivion.esp
 Bit and Bridle Restored.esp
 Bitches of the Duke.esp
@@ -2263,6 +2267,7 @@ Fish! - v1.1.esp
   IF CHECKSUM("Fish! - v1.1.esp", 872545DE) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Fishing in Cyrodiil.esp
   SAY: If using MMM or FCOM use 'Mart's Monster Mod - Diverse WaterLife.esp' instead.
+  SAY: If using the optional merged version (Fish, Alive Waters, Player Fishing Mod) you can safely ignore the dirty mod warning. File needs no cleaning.
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Flamering.esp
@@ -2733,6 +2738,7 @@ RAEVWD New Sheoth.esp
 RAEVWD Imperial City.esp
   INC: Better Cities' VWD plugin.
 Random Welkynd and Varla Stones and Stone Bricks.esp
+RangersFoxV1_2.esp
 Rats!.esp
 Ravens and Seagulls.esp
 RAZ's Dishes.esp
@@ -2956,6 +2962,8 @@ Thingamajigs Broken Armor DD Edit Hard.esp
 Time Keeper.esp
 Timescale Options.esp
 TimeControl.esp
+Timinus1010_^TorchControl.esp
+Timinus1010_^CommonFunctionsChild.esp
 ToggleCrosshair.esp
 ToggleShaders.esp
 Toggle Shield and Quiver v1.1.esp
@@ -3210,6 +3218,9 @@ WAC - Crowded Roads Revisited.esp
   IF CHECKSUM("WAC - Crowded Roads Revisited.esp", E49CCD66) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 WAC - Crowded Roads Revisited Fix4v1.0b.esp
   TAG: {{BASH: Delev, Relev}}
+CRRR AW ENG.esp
+
+Extras.esp
 
 Samurai in Cyrodiil.esp
 
@@ -3239,6 +3250,7 @@ orc_adventurer_respawn.esp
 PTRoamingNPCs.esp
 PTRoamingNPCs Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+WildernessTravelers.esp
 Wilderness Travelers.esp
 Shivering Isles Travelers.esp
 FF_Real_Thirst.esp
@@ -6147,6 +6159,7 @@ The Sword of Cyrodiil.esp
 The Sword of Skyrim.esp
 The Sword of Truth.esp
 ThiefArmor.esp
+Thieves Guild Armor.esp
 Thori'Dal, The Stars' Furyl - Legends of Azeroth Armory.esp
   IF CHECKSUM("Thori'Dal, The Stars' Furyl - Legends of Azeroth Armory.esp", D50A68CC) DIRTY: 8 ITM, 0 UDR records. Needs "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide TES4Edit cleaning".
 Throne Armor.esp
@@ -7910,6 +7923,7 @@ OOOCreatureAddons.esp
   SAY: DO NOT USE with OOOAddonUndead.esp, OOOAddonWilderness.esp, OOODangerousDaedra.esp. This plugin is a merged version of all three.
 OOOEquipmentAddon.esp
   IF CHECKSUM("OOOEquipmentAddon.esp", B951292D) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+OOOEquipmentArcheryPatch.esp
 OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -9290,6 +9304,7 @@ Morroblivion__-__Few_armor_fixes.esp
 Morroblivion Improved Map Markers.esp
 Morroblivion item rebalance.esp
   TAG: {{BASH: Stats}}
+Morroblivion - Silt Striders.esp
 MorroblivionTreeReplacer.esp
 Morroblivion Water Level Fix.esp
 MorrowOblivion_Eloth Soulgem Replacer.esp
@@ -11315,6 +11330,7 @@ ENDGROUP: Quests J
 BEGINGROUP: Quests K
 
 k1_CW7heaven.esp
+KaraidusMansion.esp
 KarewManor.esp
 Kariba.esp
 Katana Store v2.0.esp
@@ -12388,6 +12404,7 @@ skingrad guild castle upgrade.esp
 SkingradHoleInTheWall.esp
 SkingradHouseAdds.esp
 Skingrad_House_Basement_Addon-4110.esp
+Skingrad House Basement Addon-4110.esp
 Skingrad Store Upgrade.esp (Version 2)
 Skingrad_OpenRoad.esp
 Skingrad Market 1.0.esp
@@ -12647,6 +12664,7 @@ The Ayleid Steps.esp
   IF CHECKSUM("The Ayleid Steps.esp", 6669B5B6) DIRTY: 0 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Ayleid Steps Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+The Ayleid Steps - Patches.esp
 Aylied Steps - AN Real Lights patch.esp
 //Yes, that spelling error is correct.
   REQ: The Ayleid Steps, All Natural Real Lights.
@@ -13409,6 +13427,7 @@ DLCFrostcragMysticEmporiumPatch.esp
 DLCFrostcrag_MysticEmporiumPatch.esp
 brumaguild.esp
 BrumaGuildReconstructed.esp
+Immersive Interiors - Bruma Guild Reconstructed.esp
 BrumaMagiReborn.esp
 Bruma mages guild rebuilded (Finaly).esp
 BrumaMGRestored.esp
@@ -13486,6 +13505,7 @@ WnA of Righteousness.esp
 Knights - Unofficial Patch.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Factions, Relations}}
 Correctif Knights.esp
+Oblivion Content Restoration Project -- Knights.esp
 DLCMergedBooks.esp
 Knights - Revelation.esp
 DBOO - Knights.esp
@@ -14288,6 +14308,7 @@ BettysJungleNamriel.esp
 BettysNamriel.esp
 BettysNamrielPalms.esp
 BettysNamrielPalms2.esp
+duckweed.esp
 NamPalms.esp
 CorboloFisheries.esp
 HammerfellBorders.esp
@@ -15122,6 +15143,7 @@ xulImperialIsle Vwalk.esp
 BladeOfTheHaunted_UL_ImperialIsle_Patch.esp
   SAY: Obselete - update to version 2.2.1 of BladeOfTheHaunted.esp, then disable/remove this esp.
 Fuses Snail Racing Unique Landscapes Imperial Isle patch.esp
+LevelerCheat-ULII Patch.esp
 RegionReviveLakeRumare-ImperialIsle patch.esp
 FuseSnailRacing-ImperialIsle patch.esp
 ImperialCitySuburbs-ImperialIsle patch.esp
@@ -15196,6 +15218,7 @@ ROC+UL Skingrad Outskirts Patch.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+RST+Skingrad Outskirts.esp
   IF FILE("West Roads.esp") ERROR: West Roads.esp has been detected. West Roads and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+Oranstad-SkingradOutskirts Patch.esp
 
 xulSnowdale.esp
   IF CHECKSUM("xulSnowdale.esp", B61FB7EE) DIRTY: 0 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -15529,6 +15552,7 @@ Millstone_Farm.esp
   IF CHECKSUM("Millstone_Farm.esp", 8BAB5B62) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Millstone_Farm_COBL.esp
   IF CHECKSUM("Millstone_Farm_COBL.esp", A67E4087) DIRTY: 0 ITM, 17 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+MillstoneCoblAN.esp
 Millstone_UL_Patch.esp
   IF CHECKSUM("Millstone_UL_Patch.esp", F7081B36) DIRTY: 13 ITM, 116 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MillstoneCOBL_UL_Patch.esp
@@ -17003,6 +17027,7 @@ More_Training-1908.esp
 More Training-1908.esp
 MoreTraining.esp
 More Valuable Gems.esp
+MoreWomen ListReplacer.esp
 Morrowind-style Legion Shield Replacer.esp
 MouseCast.esp
 movablebodies.esp
@@ -17371,6 +17396,7 @@ SoulGemCreation_ru.esp
 Statues.esp
 
 BEGINGROUP: Sexual Stuff
+666_Modified_Contraception_esp_1_0.esp
 All NPC Nude and Naked.esp
 BUDungeonCore.esp
 BUDequipment.esp
@@ -17406,6 +17432,7 @@ LoversEncounter.esp
 FuroGeneratorTrap.esp
 FuroTrapModEstrus.esp
 GoldRingOfViagra.esp
+hggf_hiyokoclub_fix.esp
 HiyokoGenetics.esp
 HiyokoGenerator.esp
 HiyokoGeneratorCreature.esp
@@ -17413,8 +17440,10 @@ HiyokoGeneratorBroodMother.esp
 HiyokoGeneratorGeneForge.esp
 HiyokoGenerator withDB.esp
 HiyokoQuestTarget.esp
+HiyokoUtilitySpells.esp
 TamagoSetBody.esp
 TamagoClubIcons.esp
+TamagoFertilityClinic.esp
 AAQv1.esp
 AACV1.esp
 Brothel of Cyrodiil.esp
@@ -17436,8 +17465,10 @@ LoversCalm.esp
 Lovers_ChildRaceType.esp
 Lovers_ChildRaceNPC.esp
 LoversChildDataBase.esp
+LoversChorus.esp
 LoversDiag.esp
 LoversSetBody.esp
+LoversSetFlags.esp
 LoversSetScale.esp
 LoversSoundCreature.esp
 LoversAphrodisia.esp
@@ -17450,6 +17481,7 @@ LoversFSE.esp
 LoversGalgatBeastRape.esp
 LoversGGBlackmail.esp
 LoversGGBlackmail111.esp
+LoversGhostFix.esp
 LoversDRader.esp
 LoversHudInformation.esp
 LoversOrgy.esp
@@ -17479,6 +17511,7 @@ LoversHooker.esp
 LoversAdultPlayPlusforSSP_HookerPatch.esp
 LoversVoiceSSPplus.esp
 LoversVoiceSSPx117.esp
+LoversVoiceSSPplusDialogue Patch.esp
 LoversTachiCat.esp
   SAY: Obsolete. Use LoversTachiCat2.esp instead.
 LoversTachiCat2.esp
@@ -17503,6 +17536,7 @@ LoversHarvest.esp
 LoversHiyokoShooter.esp
 HiyokoFutureDream.esp
 LoversHorseRider.esp
+LoversHorseRider2.esp
 LoversHypnosis.esp
 LoversImHere.esp
 LoversImmoralGuards.esp
@@ -17608,6 +17642,9 @@ LoversHideMenus.esp
 LoversSoulTrap.esp
 LoversSoundVolumeDown.esp
 LoversVictims.esp
+MOVE-IN ON HER or HIM MOD.esp
+Move-In On Her or Him MOD COBL Patch.esp
+Nudify and Dress.esp
 PEM_LoversTools withDB.esp
 Sexlivion_0.4a_Full_English_v1.esp
   SAY: Old, update to version 0.8.2
@@ -17649,6 +17686,7 @@ SexDarknessAmuletSlot.esp
 DarkBloodline.esp
 TSS The Sex System.esp
 Vagina.esp
+Vanilla Maternity Clothes.esp
 ZAZHorseRidesYou.esp
 ENDGROUP: Sexual Stuff
 
@@ -18022,6 +18060,7 @@ Unarmored skill.esp
 Undead Legion.esp
 GalerionTrueUnarmored-v20.esp
 lwb_unarmored_stats_skills.esp
+Unique Loot Deleveled.esp
 university cosmetics.esp
 university cosmetics-no orrery dome.esp
 UNKNOWNYMOUS Social NPCs.esp
@@ -19745,7 +19784,7 @@ BEGINGROUP: Combat
 
 QDX Respawning Arrows.esp
 Attack Failure Chance v2.esp
-
+Better battles.esp
 Better Oblivion Pack 07 - Combat Revamped.esp
 Better Oblivion Pack 16 - Bleeding.esp
 bgCombatMessage.esp
@@ -20791,7 +20830,7 @@ ScriptEffectSubduer.esp
   TAG: {{BASH: Graphics}}
 
 Stat Restore.esp
-
+TimeEnough.esp
 Arena betting.esp
 Useful Houses.esp
   REQ: OBSE & MenuQue.
@@ -22688,6 +22727,9 @@ ZUSIO-Map MarkerOverhaul SI-patch.esp
 ZUSIO-SM Plugin Refurbish SI-patch.esp
   TAG: {{BASH: Scripts}}
 OOOShiveringIsles.esp  
+  SAY: If using OOOShiveringIsles with Oblivion Character Overhaul, disable the "R.Head" Bash Tag from OOOShiveringIsles.esp to avoid conflicts.
+OOOSIArcheryPatch.esp
+  TAG: {{BASH: NoMerge}}
 OOOSI-Map MarkerOverhaul SI-patch.esp
 ENDGROUP: ZU SI Overhaul
 

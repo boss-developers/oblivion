@@ -1358,6 +1358,7 @@ AdvancedWater.esp
 Advanced_Water.esp
   TAG: {{BASH: C.Water}}
 Advanced_Water_Modification-2734.esp
+Advanced Water Modification-2734.esp
 Advanced_Water_Modification.esp
 Advanced Water Modification.esp
 Bessere Unterwassersicht.esp
@@ -2269,6 +2270,7 @@ Fishing in Cyrodiil.esp
   SAY: If using the optional merged version (Fish, Alive Waters, Player Fishing Mod) you can safely ignore the dirty mod warning. File needs no cleaning.
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Fishing in Cyrodiil.esp", A2300D21) DIRTY: 36 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Fixed Oblivion.esp
 Flamering.esp
 Fluffy Follower Frill.esp
 FLY_creatures.esp
@@ -2588,6 +2590,7 @@ Oblivion Collectible Cards.esp
   TAG: {{BASH: Invent}}
   IF CHECKSUM("Oblivion Collectible Cards.esp", AC9752E5) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OblivionOnline.esp
+Oblivion Uncut.esp
 OBSE Test Plugin.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
@@ -2887,6 +2890,8 @@ Sigil_Stone_Spawner-3025.esp
 Silver and Gold Respawns.esp
 SimpleHUDIcons.esp
 Simple Portable Tent.esp
+Simple Saves.esp
+  REQ: OBSE
 Doomstones Expanded.esp
 ShriekingBolete.esp
 SkeletonShaders.esp
@@ -2935,6 +2940,7 @@ ENDGROUP: Base S
 
 BEGINGROUP: Base T
 
+Tail-Slot Equipment Helper.esp
 Tamriel VWD v0.5.esp
 Tamerelic Lore book volume 2.esp
 Tc2rPoisonsOfNamira.esp
@@ -8885,6 +8891,7 @@ Shield on Back Plugin - OOO.esp
 BladesSmithySTANDARD.esp
   IF VAR(OOO) SAY: Use 'BladesSmithyOOO.esp' instead.
 BladesSmithyOOO.esp
+Blades Smith.esp
 OOO_ThievesGuildFix.esp
   SAY: This plugin is for OOO users. Don't use at the same time as 'ArmamentariumLL.esp'.
   SAY: This 'Complete' version is incompatible with any .ESP files from previous/other versions.
@@ -11830,6 +11837,7 @@ Necromancer Lair.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
 NemoriaCottage.esp
+Nerastarels House Player Owned.esp
 Nerussa The Wine Collector v1.0.esp
 Nerussa's Wine Collection version A.esp
 Nerussa's Wine Collection version B.esp
@@ -12136,6 +12144,8 @@ Reaper's Sexy Shower Everywhere.esp
 Reaper's Sorcerer's Shop.esp
 Reaper's The Necromancer's Tower.esp
 SYS Patch-The Necromancer Tower.esp
+The Dark Conversion.esp
+  REQ: COBL, OBSE
 Reaper's Tower V_1.esp
 Reaper_Tree_Home.esp
 SYS Patch-Reaper's Tree Home.esp
@@ -12401,6 +12411,7 @@ Serene Cabin.esp
 Settlement of Tanis.esp
 skingrad guild castle upgrade.esp
 SkingradHoleInTheWall.esp
+Skingrad house.esp
 SkingradHouseAdds.esp
 Skingrad_House_Basement_Addon-4110.esp
 Skingrad House Basement Addon-4110.esp
@@ -14631,15 +14642,20 @@ OOO-MagesCross-Shipton Patch.esp
 HESU5 DiveRock.esp
 HESU DiveRock.esp
 HESU5 IsobeGyoson.esp
+  WARN: Obsolete. Update to the latest version.
+HESU6 Patch Nomuton Isobe.esp
+  WARN: Obsolete.
 HESU SeasideSettlement.esp
-ThievesDen-Seaside Patch.esp
+OOO-Seaside Patch.esp
 Kragenirs-Seaside Patch.esp
+SidesSailing-Seaside Patch.esp
+VI-Seaside Patch.esp
 RST-Seaside Patch.esp
+HESU Shipton-Seaside Patch.esp
 HESU5 KoYoTown.esp
+  WARN: Obsolete. Update to the latest version.
 HESU KoyoTown.esp
 Clearwater-KoyoTown Patch.esp
-HESU6 Patch Nomuton Isobe.esp
-HESU ShiptonSeaside Patch.esp
 HESU5 GFbedtown.esp
 HESU WolfsBorough.esp
 CastleWestWeald-WolfsBorough Patch.esp
@@ -14712,6 +14728,7 @@ WindspearTower-StendarrValley compatibility patch.esp
 
 xulTheHeath.esp
   IF CHECKSUM("xulTheHeath.esp", 64C34F7D) DIRTY: 25 ITM, 704 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: C.Water}}
 Unique Landscapes - The Heath - with Creatures DV.esp
 DarkBrotherhoodChronicles-TheHeath patch.esp
 FCOM MWL-TheHeath patch.esp
@@ -14726,7 +14743,9 @@ xulHeathCreatureAddon.esp
 
 XulEntiusGorge.esp
   IF CHECKSUM("XulEntiusGorge.esp", CE1FE795) DIRTY: 12 ITM, 1319 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: C.Water}}
 Unique Landscapes - Entius Gorge DV.esp
+OblivionUncut-EntiusGorge Patch.esp
 KvatchAftermath-EntiusGorge compatibility patch.esp
 DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
 TheNecromancer-EntiusGorge patch.esp
@@ -14737,6 +14756,7 @@ ULFallenLeafEverglade.esp
   SAY: Obsolete. Update to latest version, then delete.
 xulFallenleafEverglade.esp
   IF CHECKSUM("xulFallenleafEverglade.esp", E17D276D) DIRTY: 0 ITM, 697 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: C.Water}}
 Unique Landscapes - Fallenleaf Everglade DV.esp
 LostSpires-Everglade patch.esp
 TheElderCouncil-FallenleafEverglade patch.esp
@@ -14775,6 +14795,7 @@ TOC MergedCH-FallenleafEverglade Patch.esp
 
 xulChorrolHinterland.esp
   IF CHECKSUM("xulChorrolHinterland.esp", B7B4334A) DIRTY: 0 ITM, 2326 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: C.Water}}
 Unique Landscapes - ChorrolHinterland DV.esp
 xulChorrolHinterland Rwalk.esp
   SAY: Obsolete. Remove this and install Sensual Walks.
@@ -15085,6 +15106,7 @@ TOC MergedCH-PantherRiver Patch.esp
 
 xulRiverEthe.esp
   IF CHECKSUM("xulRiverEthe.esp", D3959EE4) DIRTY: 0 ITM, 7847 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  TAG: {{BASH: C.Water}}
 Unique Landscapes - River Ethe DV.esp
 TWMP_ValenwoodImproved - River Ethe EV - Patch.esp
 BetterDaedricShrinesMeridia-RiverEthe.esp
@@ -15463,6 +15485,8 @@ Castle Wolfspike2.esp
 SYS Patch Castle Wolfspike V2.esp
 
 // This Colourwheel's stuff doesn't work well with UL unless loaded after.
+Colourwheels Sexy Arena Revised HGEC.esp
+  TAG: {{BASH: Actors.ACBS, Invent, NpcFacesForceFullImport}}  
 Colourwheels Sexy Tavern HGEC.esp
   IF CHECKSUM("Colourwheels Sexy Tavern HGEC.esp", 4223626A) DIRTY: 5 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 xulImperialIsle-ColourwheelSexyTavern Patch.esp

@@ -1896,6 +1896,7 @@ bgShaderStandAloneEV.esp
   TAG: {{BASH: Graphics}}
   REQ: Wrye Bash if using spell mods.
 Bestiary (SI version).esp
+BettySummonUnicorn.esp
 BettysRedPanda2.esp
 BieneAmelionAIFix.esp
 birds in oblivion.esp
@@ -2191,7 +2192,7 @@ DBCEndOfMayTeaser.esp
 Defensive Katana Store v1.0.esp
 Decoration Pillows.esp
 DecorationPillows_1C.esp
-
+demonocus- ICfence.esp
 //Must load before DialogTweaks.esp
 Oblivion Content Restoration Project.esp
 DialogTweaks.esp
@@ -2253,6 +2254,7 @@ ENDGROUP: Base E
 
 BEGINGROUP: Base F
 
+Faction Followers.esp
 Falling leaves Chorrol.esp
 Falling Pollen Leyawiin.esp
 Falling Rubbish Bravil.esp
@@ -2277,6 +2279,8 @@ Fluffy Follower Frill.esp
 FLY_creatures.esp
 Fox Companion.esp
 Foxfire Mushrooms.esp
+FrostCompanion.esp
+Fufu.esp
 FullGrass1.1.esp
 Fundies.esp
 fwRaceChangeRing.esp
@@ -2857,6 +2861,7 @@ Sexual_SpiderDaedra.esp
 OSM-All Genders.esp
   TAG: {{BASH: Graphics, Invent, Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 OSM-Only female.esp
+ShadeCompanion.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
   SAY: MMM users are probably better to use MMM Farm Animals plugin.
@@ -4671,6 +4676,7 @@ elgrande_newclothing.esp
 Elvenguard.esp
 Emperor's Heavy War Armor.esp
   TAG: {{BASH: Invent}}
+EnchantedArrowsForSale.esp
 Eternal Dragon Armor light.esp
 Eternal Dragon Armor Heavy.esp
 Ethereal - Armor Imperial Legion Edition.esp
@@ -7426,6 +7432,7 @@ Mart's Monster Mod - Hemingweys NPC and Guard Capes.esp
 PSMainQuestDelayer.esp
 Reaction.esp
 Reaction - Additions Only.esp
+Real Black Bow Bandits.esp
 RealBanditsAndHighwaymen.esp
   TAG: {{BASH: Invent}}
 RealBanditsAndHighwaymenHigherlevel.esp
@@ -7930,6 +7937,8 @@ OOOCreatureAddons.esp
 OOOEquipmentAddon.esp
   IF CHECKSUM("OOOEquipmentAddon.esp", B951292D) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OOOEquipmentArcheryPatch.esp
+OOOExtended.esp
+OOOExtendedArcheryPatch.esp
 OOONoLockBash.esp
 OOO-NoLockBash.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
@@ -8534,6 +8543,7 @@ OWC - New Dimension.esp
   IF CHECKSUM("OWC - New Dimension.esp", 6450282) DIRTY: 198 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OWC - New Dimension UOP.esp
 OWCND EnPath.esp
+TiansAyla_NNW04.esp
 OWC - VanilaLevelUp.esp
 OWC - VanillaSkill.esp
 OWC - VanillaPotion.esp
@@ -9807,7 +9817,6 @@ Anvil_MorningGloryBetterCities_Mixed.esp
 AoshisStealthEntrancesUL.esp
 AoshisStealthEntrances.esp
 APlaceToSleep.esp
-AppleWatch extended 1.1.esp
 APSFortIronyBETA.esp
 APS Rare Stones.esp
 APS Abundant Stones.esp
@@ -10925,6 +10934,7 @@ Guards.esp
 GwedenBrothel.esp
   IF CHECKSUM("GwedenBrothel.esp", 1433B9E8) DIRTY: 0 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 GwedenExpansion.esp
+Gweden Villa.esp
 Ghogiels Dreugh Armor Plugin.esp
 GM's Deadly Oblivion Overhaul Full.esp
 GuilesHuntsmansLodge.esp
@@ -11800,6 +11810,7 @@ Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
 Murderer.esp
+MvCQuellArkadiensDV.esp
 MvCQuellArkadiensEV.esp
   IF CHECKSUM("MvCQuellArkadiensEV.esp", B9CE0619) DIRTY: 0 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Mysteries Of Atrene Camp.esp
@@ -12130,6 +12141,7 @@ Ramy Monster.esp
 Rangerhouse v 1.0.esp
 Raubritter.esp
 Rascals Rest Cave.esp
+Ravenheart.esp
 Really Boring Dungeon.esp
 Reaper's A Friendly Back-Up.esp
 Reaper's Animated Lute.esp
@@ -13824,7 +13836,7 @@ HoarfrostCastle v1.2.2 Delayer.esp
   SAY: Versions less than 3.1 may cause the quest being patched to restart if installed after the quest has started. Update to the latest delayer if you suspect a problem.
 HoarfrostCastle Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
-
+Arielles_Weye_Dorf_V1.1.esp
 Arielles_Weye_Dorf_V1.2.esp
 Arielles_Weye_Village_V.1.2_EV.esp
 FOMO Imperial Isles.esp
@@ -14378,6 +14390,104 @@ TWMP_Pearl Islands.esp
 Rost3_Topal.esp
 ENDGROUP: Tamriel Worldspace Modding Project
 
+
+BEGINGROUP: Extended Cyrodiil
+//-------------------------------
+
+AppleWatch extended 1.1.esp
+Imperial Bridge extended 1.2.esp
+Brindles Home extended.esp
+Brindles Home extended 1.1.esp
+Pellsgate extended 1.1.esp
+Roxey Extended 1.2.esp
+Tempel der Ahnenmotten 1.1.esp
+CadlewPriory extended.esp
+Cadlew Priory extended 1.1.esp
+Gottlesfont extended 1.1.esp
+Grenzburg extended 1.1.esp
+Faregyl extended 1.1.esp
+Herberge zum schlechten Omen extended 1.1.esp
+Herberge zum Brina Kreuz extended 1.1.esp
+Herberge zum betrunkenem Drachen extended 1.1.esp
+Blanekenmark extendet1.0.esp
+Blanekenmark extendet1.1.esp
+Blanekenmark extended 1.1.esp
+Lord Rugdhumphs Anwesen extended 1.2.esp
+Blockbierquell extended 1.2.esp
+Bleichersweg extended 1.2.esp
+
+Cyrodiil extended- AppleWatch.esp
+Cyrodiil extended- Blockbierquell1.1.esp
+Cyrodiil extended Dreckshack 1.3 und ausbgrenante Insel.esp
+Cyrodiil extended Roxey Extendet1.1.esp
+Cyrodiil extended- Tempel der Ahnenmotten.esp
+
+Extended Cyrodiil - Apfelwacht.esp
+Extended Cyrodiil - Blankenmark.esp
+Extended Cyrodiil - Bleichersweg.esp
+Extended Cyrodiil - Bockbierquell.esp
+Extended Cyrodiil - Brindles Home.esp
+Extended Cyrodiil - Cadlew Priory.esp
+Extended Cyrodiil - Dreckshack und die ausgebrannte Insel.esp
+Extended Cyrodiil - Faregyl.esp
+Extended Cyrodiil - Gottlesfont Priory.esp
+Extended Cyrodiil - Grenzburg.esp
+Extended Cyrodiil - Harms Folly.esp
+Extended Cyrodiil - Herberge zum betrunkenen Drachen.esp
+Extended Cyrodiil - Herberge zum Brina Kreuz.esp
+Extended Cyrodiil - Kaiserbrücke Herberge.esp
+Extended Cyrodiil - Lord Rugdhumphs Anwesen.esp
+Extended Cyrodiil - Pellsgate.esp
+Extended Cyrodiil - Pells Tor Haus.esp
+Extended Cyrodiil - Roxey.esp
+Extended Cyrodiil - Rund um die Alchemie.esp
+Extended Cyrodiil - Schenke zum schlecten Omen.esp
+Extended Cyrodiil - Scherbenfels.esp
+Extended Cyrodiil - Tempel der Ahnenmotten.esp
+
+Cyrodiil_Extended_Apfelwacht.esp
+Cyrodiil_Extended_Blankenmark.esp
+Cyrodiil_Extended_Bleichersweg.esp
+Cyrodiil_Extended_Bockbierquell.esp
+Cyrodiil_Extended_Brindle.esp
+Cyrodiil_Extended_Cadlew_Prioei.esp
+Cyrodiil_Extended_Dreckhack_und_die_ausgebrannte_Insel.esp
+Cyrodiil_Extended_Faregyl.esp
+Cyrodiil_Extended_Fuerst_Rugdumphs_Anwesen.esp
+Cyrodiil_Extended_Gottlesfont.esp
+Cyrodiil_Extended_Grenzburg.esp
+Cyrodiil_Extended_Harms_Torheit.esp
+Cyrodiil_Extended_Herberge_zum_betrunkenen_Drachen.esp
+Cyrodiil_Extended_Herberge_zum_Brina_Kreuz.esp
+Cyrodiil_Extended_Kaiserbruecke_Herberge.esp
+Cyrodiil_Extended_Pells_Gate.esp
+Cyrodiil_Extended_Roxey_Herberge.esp
+Cyrodiil_Extended_Rund_um_die_Alchemie.esp
+Cyrodiil_Extended_Schenke_zum_schlechten_Omen.esp
+Cyrodiil_Extended_Scherbenfels.esp
+Cyrodiil_Extended_Tempel_der_Ahnenmotte.esp
+HarlunsWachtImproved.esp
+StaadeImproved.esp
+
+ExtendedAleswellEV.esp
+  IF CHECKSUM("ExtendedAleswellEV.esp", 969F8F4B) DIRTY: 2 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ExtendedAleswellEV Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+ExtendedBlankenmarchEV.esp
+  IF CHECKSUM("ExtendedBlankenmarchEV.esp", 02CB4BB1) DIRTY: 7 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ExtendedBlankenmarchEV Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+ExtendedBleakerswayEV.esp
+  IF CHECKSUM("ExtendedBleakerswayEV.esp", 85311F42) DIRTY: 39 ITM, 356 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ExtendedBleakerswayEV Vwalk.esp
+  TAG: {{BASH: Actors.Anims, NoMerge}}
+WatersEdgeImproved.esp
+  IF CHECKSUM("WatersEdgeImproved.esp", 53A73FA1) DIRTY: 30 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+  SAY: Needs Wrye Bash "Remove World Orphans" fix.
+
+ENDGROUP: Extended Cyrodiil
+
+
 BEGINGROUP: Towns and Villages
 //-------------------------------
 
@@ -14408,18 +14518,6 @@ EastbrinkCM.esp
 ElsweyrRiverhold.esp
   SAY: Border region restrictions must be turned off: use Wrye Bash tweak or hand edit .ini file.
   SAY: Do not use if using ElsweyrAnequina.esp.
-ExtendedAleswellEV.esp
-  IF CHECKSUM("ExtendedAleswellEV.esp", 969F8F4B) DIRTY: 2 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-ExtendedAleswellEV Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-ExtendedBlankenmarchEV.esp
-  IF CHECKSUM("ExtendedBlankenmarchEV.esp", 02CB4BB1) DIRTY: 7 ITM, 21 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-ExtendedBlankenmarchEV Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
-ExtendedBleakerswayEV.esp
-  IF CHECKSUM("ExtendedBleakerswayEV.esp", 85311F42) DIRTY: 39 ITM, 356 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-ExtendedBleakerswayEV Vwalk.esp
-  TAG: {{BASH: Actors.Anims, NoMerge}}
 
 Faregyl.esp
   TAG: {{BASH: Actors.AIPackages, Factions, Relations}}
@@ -14571,9 +14669,6 @@ WaterfrontMarket.esp
   IF CHECKSUM("WaterfrontMarket.esp", 72EB5289) DIRTY: 17 ITM, 8 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 WaterfrontMarketNoShack.esp
   IF VAR(BC) SAY: Probably incompatible with Better Cities.
-WatersEdgeImproved.esp
-  IF CHECKSUM("WatersEdgeImproved.esp", 53A73FA1) DIRTY: 30 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
-  SAY: Needs Wrye Bash "Remove World Orphans" fix.
 Wellspring Vale.esp
   IF CHECKSUM("Wellspring Vale.esp", 3E9D0614) || IF CHECKSUM("Wellspring Vale.esp", 0AFCCFE8) || IF CHECKSUM("Wellspring Vale.esp", 3E90D614) DIRTY: 2 ITM, 134 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ROC+WellspringVale Patch.esp
@@ -14600,6 +14695,7 @@ BleakerWayRevamp-AppleHotSprings Patch.esp
 HESU5 JigokuDani.esp
   WARN: Obsolete. Update to the latest version.
 HESU HellLands.esp
+KvatchRebuilt-HellLands Patch.esp
 PinePeak-HellLands Patch.esp
 StarsRest-HellLands Patch.esp
 HESU5 PoisonNuma.esp
@@ -23640,24 +23736,6 @@ CastleAlmgard-CyrodiilRebuild Patch.esp
 KOTN-CyrodiilRebuild Patch.esp
 LegionOutposts-CyrodiilRebuild Patch.esp
 ROC-CyrodiilRebuild Patch.esp
-
-/*Cyrodiil Extended*/
-Imperial Bridge extended 1.2.esp
-Brindles Home extended 1.1.esp
-Pellsgate extended 1.1.esp
-Roxey Extended 1.2.esp
-Tempel der Ahnenmotten 1.1.esp
-Cadlew Priory extended 1.1.esp
-Gottlesfont extended 1.1.esp
-Grenzburg extended 1.1.esp
-Faregyl extended 1.1.esp
-Herberge zum schlechten Omen extended 1.1.esp
-Herberge zum Brina Kreuz extended 1.1.esp
-Herberge zum betrunkenem Drachen extended 1.1.esp
-Blanekenmark extended 1.1.esp
-Lord Rugdhumphs Anwesen extended 1.2.esp
-Blockbierquell extended 1.2.esp
-Bleichersweg extended 1.2.esp
 
 CSV_Farms_Better_Cities.esp
   SAY: Use only one CSV Farms * Cities esp.

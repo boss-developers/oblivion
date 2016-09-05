@@ -90,6 +90,7 @@ UBANGA.esm
 MenuSysFramework.esm
 MathFunctions.esm
 Plugin Resources.esm
+Resource Pack.esm
 BP-CosmeticLibraryBase-Public.esm
 BP-CosmeticLibraryBase.esm
 Beautiful People 2ch-Ed.esm
@@ -2191,7 +2192,7 @@ DBCEndOfMayTeaser.esp
 Defensive Katana Store v1.0.esp
 Decoration Pillows.esp
 DecorationPillows_1C.esp
-demonocus- ICfence.esp
+demonocus-ICfence.esp
 //Must load before DialogTweaks.esp
 Oblivion Content Restoration Project.esp
 DialogTweaks.esp
@@ -3868,6 +3869,7 @@ A_Simple_Ring-8333.esp
 A Study of the Shemayle Book Series.esp
 A89ES4_MageoftheArena.esp
 AAbuiesdaqun.esp
+Abalone Armour.esp
 ABC.esp
 ACCR5055.esp
 ACCW50.esp
@@ -3926,11 +3928,13 @@ Alir'sArmor.esp
 Allods_Weapons_Pack.esp
 Alluring Books.esp
   TAG: {{BASH: Graphics}}
+AlrondSword.esp
 AltEnchAndSpell.esp
 AlteredPistols!.esp
   IF FILE("Pistols!.esp") INC: The original Pistols! plugin.
 Alternative_Light_Armors-3931.esp
 AmmonJerroArmor.esp
+AmmonJerroArmor2.esp
 ArmorHeroOfKvatch.esp
 AyleidFiringa.esp
 AyleidMeteorIronWeaponsBASE.esp
@@ -3964,6 +3968,7 @@ ANB_WeaponAddons_SI.esp
 ANBWearableEars.esp
 Animated Weapons-JX3.esp
 Adamant Set.esp
+Ancient Daedric Weapons and Armour.esp
 Ancient Dwarven Armour.esp
 Ancient Elven Set.esp
 Ancient Oak Set v1.0.esp
@@ -3976,6 +3981,7 @@ Aperture Cube.esp
 Aragorns Royal Gear.esp
 ArchmageSorceress.esp
   IF CHECKSUM("ArchmageSorceress.esp", A18BB8A9) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+ares.esp
 ares-HGEC.esp
 Armblade.esp
   TAG: {{BASH: Invent}}
@@ -4054,6 +4060,7 @@ AlternativeLightArmors12.esp
 AlternativeLightArmors1.2.esp
 Animated Capes.esp
 Animated Staves.esp
+Argonian Hide.esp
 AS_ElvenStrappedbyFlonne.esp
 ASlof'sBraceletsandClaws.esp
 AW_Wings.esp
@@ -4065,8 +4072,10 @@ Aspiria_EV.esp
   IF CHECKSUM("Aspiria_EV.esp", 30904F56) DIRTY: 0 ITM, 16 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Assassin_Blade.esp
 AssassinBow.esp
+AST_SI_ArcherAmber.esp
 AyleidGlass.esp
   TAG: {{BASH: Graphics}}
+Ayleid-Armors-1.1.esp
 Ayleid Armor and weapons.esp
 Ayleid Armor Standalone.esp
 AyleidClutter.esp
@@ -4208,6 +4217,9 @@ Blade Of Woe Replacer by Allomerus.esp
 BladeofWoeReplacer9Tongues.esp
   TAG: {{BASH: Graphics}}
 BladesArmorReplace.esp
+Blades Akatosh Dragonscale.esp
+Blades Captains Armor.esp
+Blades Polished.esp
 Blakeley's Lachrymal Bow.esp
 BlessedMageKnightDress.esp
 Blood Glass Armor.esp
@@ -4266,6 +4278,7 @@ Blades Ceremonial Armour.esp
   TAG: {{BASH: Graphics}} if using overhaul mods.
 Banes Archer Paradox.esp
   SAY: Do not use with Cet's Dwarven Precision Bow or the Fletchers mod.
+Blood Glass.esp
 Blood Widow.esp
 Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
 1630-1.0-Bloodworm Helm + Necro helm for ArchMage-TESSource.esp
@@ -4301,6 +4314,7 @@ BlackPuppetUltraLight.esp
 BreakArmor.esp
 Brigand's Gear.esp
   TAG: {{BASH: Invent}}
+BrigandineArmor.esp
 Brittainy's Finery Addon.esp
 Brown Hood.esp
 BryntrollTheBoneArbitor.esp
@@ -4325,6 +4339,7 @@ BEGINGROUP: Items C
 
 c_dagcol.esp
 c_dragondagger.esp
+CAL_Rebalance_Daedric_1.02.esp
 Caliburn.esp
 Cane of Sheogorath.esp
 Caine's Outfit.esp
@@ -4338,9 +4353,11 @@ CB Dark Enchantress.esp
 CB Elegant Dress.esp
 CB Gothic Mistress.esp
   IF CHECKSUM("CB Gothic Mistress.esp", 64F42FD6) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+CentaurArmor.esp
 CheatsBook.esp
 CheeseCutter.esp
 Chin CatSuit.esp
+Chitin Armour.esp
 CET_Crossbow.esp
 CET_CrossbowAddon001.esp
 CET_DwemerPrecisionBow_v2.esp
@@ -4378,6 +4395,7 @@ Collectible_TShirts_V11.esp
 Collectible T-Shirts V2.1.esp
 Collectible Wooden Figurines Hidden.esp
 Colonial Clothing.esp
+ColorfulGlass.esp
 Colovian Fur Helm.esp
 ComicBookSuits.esp
 ComfortableClothing.esp
@@ -4415,6 +4433,7 @@ crimson dagger.esp
   SAY: To get the weapon open the console and enter player.additem xx000ED3 where xx is the hexadecimal mod index (LO number).
 crusadercg.esp
   TAG: {{BASH: Invent}}
+Crusader Commander Armor.esp
 Crystalline Sword.esp
 CrystalStaff.esp
 Crystal Weapons and Armor.esp
@@ -4452,9 +4471,14 @@ BEGINGROUP: Items D
 
 D35DaedricLightArmour.esp
 DaedraSpiderArmor.esp
+Daedric Artifacts.esp
 Daedric Face of Terror.esp
 Daedric Healer Robes.esp
   TAG: {{BASH: Invent}}
+DaedricHellRazors.esp  
+DaedricHellRazorsEnch.esp
+Daedric Immersion.esp
+Daedric Weapons retex.esp
 Daethic Armor.esp
 Dagger Master.esp
 dagger_o_a.esp
@@ -4468,6 +4492,7 @@ DSR&BSKMergedSet.esp
 Dante's Scythe.esp
 Dark_Beast_Clothes.esp
 DarkBrotherhoodPoison.esp
+DarkShield.esp
 Dark Rider Armor.esp
 Dark Sorceress.esp
 DarkSaintUFF.esp
@@ -4548,6 +4573,7 @@ DarkFlameRing.esp
 Dark_Targe.esp
 DarthRevan.esp
 DC-Armor-Pack.esp
+Deadmold Armour.esp
 DeathKnightChampion.esp
 Deathlilith.esp
 Dedicated.esp
@@ -4590,8 +4616,11 @@ DMMagesGloves.esp
 DM-Lingerie.esp
 DMoMM Weapons - Kriss Dagger.esp
 DMRangerArmor.esp
+Dogskull.esp
+Dogskull_Eng.esp
 Dollparts_CorsetsoftheRose.esp
 Dollparts_RoseCorsets - Dark & Light.esp
+DragonArmorMod.esp
 Dragon Broadswords.esp
 Dragon Knight Armor v. 1.1.esp
 dragontorch.esp
@@ -4669,9 +4698,11 @@ Edhildils Skeleton Armors.esp
 EleidonsWard.esp
 ElegantVests.esp
 Elegant Vests.esp
+Elemental Glass Armors.esp
 Elemental_Hell.esp
 ElementalWeapons.esp
 elgrande_newclothing.esp
+Elven Armor.esp
 Elvenguard.esp
 Emperor's Heavy War Armor.esp
   TAG: {{BASH: Invent}}
@@ -4863,6 +4894,7 @@ Gizmodian - Real Silver Swords.esp
 GizmodianSothaDagger.esp
 GladiatorArmor.esp
 GladiatorShoes.esp
+Glass Armor And Weapon Pack.esp
 GLoF_Potion_of_Vampirism.esp
 GloriousMageDress.esp
 Gloves.esp
@@ -4878,6 +4910,7 @@ Goldbrand Rapier.esp
 GoldbrandDEF.esp
 Golden Arrows of the Serpent.esp
 Golden Daedric Armor.esp
+Golden Saint Set.esp
 Golden Saint and Dark Seducer Gear for Sale.esp
 GoldenShadowArmor.esp
 Goma Cloths.esp
@@ -4925,6 +4958,7 @@ ENDGROUP: Items G
 BEGINGROUP: Items H
 
 Hades.esp
+Hammeritearmor_by_SeventyFour.esp
 Handschuhe.esp
 Harlequin Armour 0.6.esp
 Harness wear.esp
@@ -4950,6 +4984,7 @@ Hel Borne's Vampire Slayer Sword.esp
 HD Aragorn Armor.esp
 HDespair.esp
 HelmetCollection.esp
+Helms of Legend.esp
 Hellonya IC GoodyChest.esp
 HellspawnBlades.esp
 HellSpawnDaedric for Exnem.esp
@@ -5077,6 +5112,7 @@ jackal1.esp
 Jade Dishes.esp
 javrmb.esp
 javbmb.esp
+JBBHCGM.esp
 JBlades!.esp
   SAY: Update to version 1.1+.
 JBlades!1.1.esp
@@ -5189,6 +5225,7 @@ KohdiScimitar.esp
 KohdiWrathofAkapheri.esp
 kolovian_robes.esp
 KORE- Salient Daggers.esp
+KOTNBow.esp
 KOTN steel armor.esp
 Krakens.esp
 KrisTa.esp
@@ -5410,6 +5447,8 @@ mycastle.esp
 mycastle2.esp
 mycastlebugfix.esp
 Mystic Emporium.esp
+MythicDawnArmoredrobe-KoW.esp
+Mythic Dawn Ghost Armors.esp
 MythicDawnTiein - Lite.esp
 MythicDemon Armor V1.0.esp
 Mythsword.esp
@@ -5588,6 +5627,7 @@ Peasant_Gowns_HGEC.esp
 Pekka_Shields_Light.esp
 Pekka_Shields_Heavy.esp
 PEDress.esp
+PersianArmor.esp
 Petal Dress.esp
 phinix_dual-wield_imports.esp
 PhoenixEquipment.esp
@@ -5599,6 +5639,7 @@ PinkGlassArmor.esp
 Piratelords Recharging Enchantments.esp
 Pistols!.esp
 pizz_NINJA_outfit.esp
+PJ_armor_french.esp
 PJ_armor_set.esp
 Plasma Sabers 1.2.esp
 Plate of the Shadow.esp
@@ -5625,6 +5666,8 @@ Priests of Dibella.esp
 PTArtifacts.esp
 Phitts-Artifacts_DV.esp
 Princess line Dress.esp
+Prometheus's Blades Armour.esp
+Prometheus's Ebony Armour.esp
 PTRepairKits.esp
 PureSteelBlade.esp
 Ppurplerecolor.esp
@@ -5837,6 +5880,8 @@ Shrouded Armor X.esp
 ShroudedCowl.esp
 SickleIrons.esp
 SickleIrons_RT.esp
+Silver Daedric.esp
+Silver Dwarven Armor.esp
 Silverlight Armor Addon by Xcytress.esp
 SilverwareWeapons.esp
   SAY: if using FCOM use Silverware Weapons - FCOM.esp instead
@@ -5847,6 +5892,7 @@ Simple coordinate.esp
 Simple Knit.esp
 Simple leather armor.esp
 Simple Outfits Collection.esp
+Sin's Expanded Light Armor [Chest].esp
 Sin's Expanded Light Armor Kit [Chest].esp
   IF VAR(OOO) SAY: Not compatible with OOO. Already included in OOO.
   TAG: {{BASH: Invent}}
@@ -5938,6 +5984,7 @@ Sonja Sexy Armors.esp
 SnowySignatureOutfit.esp
   IF CHECKSUM("SnowySignatureOutfit.esp", 20498F08) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("SnowySignatureOutfit.esp", 7E4799B7) DIRTY: 4 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+SOLDNER_Rustung.esp
 SOLS CLUTTER MERGE.esp
 SOLS CLUTTER_B MERGE.esp
 SOLS MASSIVE ATIRE PART 1.esp
@@ -6085,6 +6132,7 @@ Sweet ranger costume.esp
 Swimming Costume.esp
 SwordDancer.esp
   IF CHECKSUM("SwordDancer.esp", E5EF8132) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+SwordmasterArmor.esp
 Sword of Lightning.esp
 Sword of the Rivan King.esp
 Sword-of-power.esp
@@ -6131,6 +6179,7 @@ Tesw.esp
 TETE Veleritte.esp
 TGG- Treasure Placement.esp
 The Adventurer's Guide.esp
+The Anicent Ayelid Armors.esp
 The Arsenal.esp
   IF CHECKSUM("The Arsenal.esp", 4D20F120) DIRTY: 15 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 The Arsenal - Ancient Ayleid Weaponry.esp
@@ -6217,6 +6266,7 @@ Tyrael Shield V1.2.esp
 Templer-Armor.esp
 The Soul Reaver.esp
 TW3 dresses.esp
+TWElvenBoots.esp
 Twilight Assassin.esp
 Twin Blades of Ichtyon.esp
 Twinkle.esp
@@ -6356,6 +6406,7 @@ White Leather Armor.esp
 WhiteRoseArmor.esp
 WhiteRoseArmor_RW.esp
 White Monk Robes with Hoods by Cass v1.0.esp
+WitchhunterArmor.esp
 Wm-Portable-Coffins.esp
 SYS Patch-Portable Coffin.esp
 Wolf Pelt Armor.esp
@@ -16074,6 +16125,8 @@ FightersGuildContracts.esp
   IF CHECKSUM("FightersGuildContracts.esp", BB0D71D0) DIRTY: 28 ITM, 9 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 (JQ) Fighters Guild United.esp
   TAG: {{BASH: Invent}}
+JQ-Fighters_guild_united_FR.esp
+  TAG: {{BASH: Invent}}
 JQ-Fighters_Guild_United.esp
   TAG: {{BASH: Invent}}
 (JQ&SG) Fighters Guild United.esp
@@ -21338,11 +21391,16 @@ PaganRaces.esp
 Moonshadow Elves - Sc.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
   REQ: OBSE
+Moonshadow Elves - Sc - Alternate Stats.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+  REQ: OBSE
 Moonshadow-Elves_Sc_DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
   REQ: OBSE
 Moonshadow Elves - NoSc.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
+Moonshadow Elves - NoSc - Alternate Stats.esp
+  TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}  
 Moonshadow-Elves_NoSc_DV.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 MSE Hairs And Eyes 03.esp

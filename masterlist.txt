@@ -2177,6 +2177,7 @@ CT-Com's Torch Compendium.esp
   IF CHECKSUM("CT-Com's Torch Compendium.esp", C3C7144B) || IF CHECKSUM("CT-Com's Torch Compendium.esp", E0C0457D) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 CT-Backpacks.esp
 CT-Just Another Combatant.esp
+Custom Class Description.esp
 Cyrodilic Brandy.esp
   TAG: {{BASH: Graphics, Deactivate}}
 CyrodiilCemeteries.esp
@@ -2633,6 +2634,7 @@ Oblivion Collectible Cards.esp
   IF CHECKSUM("Oblivion Collectible Cards.esp", AC9752E5) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 OblivionOnline.esp
 Oblivion Uncut.esp
+OENSFallingStars.esp
 OBSE Test Plugin.esp
 OL_CustomPaintings.esp
 OMP-NewFood.esp
@@ -2881,7 +2883,6 @@ Rings of Infiltration.esp
 RioMod.esp
 RK9s Dogs Demo.esp
 RMShieldOnBack.esp
-Reworked Posts.esp
 RoadSigns.esp
 Robes Under Armor.esp
 Robe_over_armor.esp
@@ -2902,6 +2903,7 @@ Sexual_SpiderDaedra.esp
 OSM-All Genders.esp
   TAG: {{BASH: Graphics, Invent, Deactivate}} This is just an educated guess - needs confirming by someone who uses this.
 OSM-Only female.esp
+OSM-FixedMixed.esp
 ShadeCompanion.esp
 Shads Coffee.esp
 Shads Hunting & Fauna.esp
@@ -4426,6 +4428,7 @@ Classic-Wizard-Robes-UL.esp
 Classic-Wizard-Robes-U.esp
 Claws+MonkGear.esp
 ClearGlassArmorSet.esp
+Clit Rings.esp
 ClosedSteelHelmet.esp
 ClothGloves.esp
   TAG: {{BASH: Invent}}
@@ -6773,6 +6776,7 @@ Accompt of the Delitescent.esp
 AdventurerPlateArmor.esp
 AGS-Type2 SMDR Outfits.esp
 AGS-Type2 Nexus Outfits.esp
+AGS-Type2 SPB Outfits.esp
 All Manly.esp
   TAG: {{BASH: Graphics, NoMerge}}
 ANBMiniMicroBikini.esp
@@ -7875,7 +7879,6 @@ Oscuro's_Oblivion_Overhaul.esp
   TAG: {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Spells, Actors.Stats, Delev, Factions, Graphics, Invent, Names, R.ChangeSpells, Relations, Relev, Scripts, Stats}}
   IF FILE("Mart's Monster Mod for OOO.esm") || IF VAR(FCOM) TAG: Remove [Factions, Relations] tag, when used as part of FCOM or with MMM for OOO. More info("http://u.to/PCQMAg")
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
-OOOScriptChanges&Fixes.esp
 Gem_Fix_OOO.esp
 OOO Harvest Containers SI.esp
 OOO-Water_Weeds.esp
@@ -10546,6 +10549,7 @@ ceme.esp
 ChangeinManagement.esp
   IF CHECKSUM("ChangeinManagement.esp", 9715A726) DIRTY: 40 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Chapels.esp
+Chapels Statues.esp
 Clamshell_Cottage.esp
 Clamshell_Cottage_v1.5.esp
   IF CHECKSUM("Clamshell_Cottage_v1.5.esp", 021CF774) DIRTY: 0 ITM, 15 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13826,7 +13830,7 @@ TGND2 Knights Replacer.esp
 Oscuro's_Oblivion_Overhaul - Knights of Nine.esp
   IF VAR(FCOM) ERROR: Use "FCOM_Knights.esp" instead.
 Oscuro's_Oblivion_Overhaul - Unofficial Patch.esp
-
+OOOScriptChanges&Fixes.esp
 Wayshrine Fix.esp
 KotN Wayshrine Fix.esp
 NineDivinesTitleFix.esp
@@ -14418,6 +14422,7 @@ MTCEV-RoC Patch.esp
 
 //Needs to load after Roads of Cyrodiil for patch to work
 Trails of Cyrodiil   Bleakersway.esp
+Trails of Cyrodiil   BleakerswayC.esp
 ROC-TOCBleakerPatch.esp
 TOCMergedVanilla-ROC Patch.esp
 
@@ -14922,6 +14927,7 @@ BleakerWayRevamp-AppleHotSprings Patch.esp
 HESU5 JigokuDani.esp
   WARN: Obsolete. Update to the latest English version.
 HESU HellLands.esp
+OOO-HellLands Patch.esp
 KvatchRebuilt-HellLands Patch.esp
 PinePeak-HellLands Patch.esp
 StarsRest-HellLands Patch.esp
@@ -14974,6 +14980,7 @@ OOO-Seaside Patch.esp
 Kragenirs-Seaside Patch.esp
 SidesSailing-Seaside Patch.esp
 VI-Seaside Patch.esp
+AFK-Seaside Patch.esp
 RST-Seaside Patch.esp
 Kragenirs-RST-Seaside Patch.esp
 VI-RST-Seaside Patch.esp
@@ -16497,6 +16504,7 @@ Anvil_MorningGlory_Mixed.esp
 ApparatusIcons.esp
   TAG: {{BASH: Graphics, NoMerge, Deactivate}}
 Arena Agronak always aggressive.esp
+Arena Increased Betting.esp
 ArenaLootAllow v1.2.esp
 Arena No Raiment.esp
 Arcane_university_access_cheat-2328.esp
@@ -17162,6 +17170,8 @@ Horadric Cube.gem.lvlist.override.esp
 HorseJumpFixer.esp
 HTBBeautifullOblivion.esp
 HUDcompanions.esp
+Human Oblivion Argonians.esp
+Human Oblivion Orcs.esp
 Hurt Me Traps.esp
 Hurt me Bad Traps.esp
 //-----------------------
@@ -17737,6 +17747,9 @@ Retros Fletching and Imbueing 1.7.1_rus.esp
 ReteroX_OBEvilSkeletons.esp
 Retroactive Fatigue Regeneration.esp
 Revealed Classes 1.1-1915.esp
+Reworked Posts.esp
+RoC+RP Patch.esp
+xulBravilBarrowfields + RP Patch.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
 RingRobeHGEC.esp
@@ -20952,6 +20965,8 @@ Goma Pose 15.esp
 Goma Pose 16.esp
 
 Goma Pose Merged.esp
+
+FOMO Moments - A Pose Mod.esp
 
 LainPose.esp
 LainPoseMOD.esp

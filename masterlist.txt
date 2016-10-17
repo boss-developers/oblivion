@@ -14555,6 +14555,7 @@ BlackwoodJungle.esp
 BlackwoodJungleCombined.esp
 BettysButterflies.esp
 BettysFlowerPower.esp
+BettysPoppies.esp
 BettysGoldenTime.esp
 BettysVinhHaLong.esp
 BettysJungleNamriel.esp
@@ -15687,6 +15688,9 @@ TOC MergedVanilla-EasternPeaks Patch.esp
 TOC MergedCH-EasternPeaks Patch.esp
 TOC MergedVanilla-ULMaster Patch.esp
 TOC MergedCH-ULMaster Patch.esp
+
+//A merged file containing all UL mods. 
+Unique Landscapes.esp
 
 Ogramirad's Unmarked Campsites-UL edition.esp
 NRB4+LtPD Patch.esp
@@ -19301,6 +19305,7 @@ K2_Summons.esp
 Lockpicking Spells.esp
 Polymorph DV.esp
 Master_of_Puppets-7132.esp
+Jedi Powers.esp
 JIM_Summon_Doppleganger.esp
   SAY: use only one 'JIM_Summon_Doppleganger.esp' or 'JIM_Balanced_Doppleganger.esp'
 JIM_Balanced_Doppleganger.esp

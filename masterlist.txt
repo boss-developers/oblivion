@@ -1888,6 +1888,7 @@ BEGINGROUP: Base B
 Battlemage Friends.esp
 BBB Better Bouncing Bread Loafs.esp
 beautyobfps.esp
+beautyobfpssnlr.esp
 Book Jackets Oblivion.esp
   TAG: {{BASH: Graphics}}
   IF CHECKSUM("Book Jackets Oblivion.esp", 88936850) DIRTY: 8 ITM, 234 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -2260,6 +2261,7 @@ Effect Shader Warehouse.esp
 Elder Scrolls Book Club - Oblivion.esp
 Elys - Yuda The Elder Trainer.esp
 Elytramount.esp
+Elz - Improved UE.esp
 Encyclopaedia Cyrodilica.esp
 Energy - Bandits.esp
   TAG: {{BASH: Delev, Relev}}
@@ -3866,6 +3868,7 @@ BEGINGROUP: Items #
 000torturearmorbw.esp
 00CrimsonWings.esp
 00 chakaru wigs.esp
+00 Forester.esp
 00 lux mea.esp
 00 Pyms Equipment.esp
 00 shield rings.esp
@@ -8104,6 +8107,7 @@ OOOExtended.esp
 OOOExtendedArcheryPatch.esp
 OOONoLockBash.esp
 OOO-NoLockBash.esp
+OOO-SpellNums.esp
 Oscuro's_Oblivion_Overhaul - Boar Addon.esp
 Oscuro's_Oblivion_Overhaul - DropLitTorchOBSE.esp
 RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp
@@ -9917,6 +9921,7 @@ AleswellHomeFree.esp
 AleswellHomeQuest.esp
 AleswellCOBLaddon.esp
 Aleswell House.esp
+Aleswell Inn Room Upgrade.esp
 Alternate Daedric Artifacts.esp
 Ancient Dwemer Ruins.esp
 AyleidMarket.esp
@@ -13143,6 +13148,7 @@ Treasure Maps-Revenge of the Nords-UL edition.esp
 Treasuresofthedeep.esp
   REQ: OOO.
 TreasureTrailsPart1.esp
+Trees in Anvil (2).esp
 Trees_In_Cities.esp
 Trescoulle__Treetop_House-5228.esp
 Trial of Achilles.esp
@@ -14935,6 +14941,8 @@ StarsRest-HellLands Patch.esp
 HESU5 PoisonNuma.esp
   WARN: Obsolete. Update to the latest English version.
 HESU PoisonSwamp.esp
+TOS+Hesu Poison Swamp.esp
+MTCExpanded+HesuPoisonSwamp.esp
 HESU4 SkyrimSinden.esp
   WARN: Obsolete. Update to the latest English version.
 HESU SkyrimTemple.esp
@@ -14952,6 +14960,7 @@ HESU5 ValenwoodMine.esp
   WARN: Obsolete. Update to the latest English version.
 HESU ValenwoodMine.esp
 ValenwoodImproved-ValenwoodMine Patch.esp
+ValenwoodMine+DaedricShrineRuins.esp
 HESU4 Garagara.esp
   WARN: Obsolete. Update to the latest English version.
 HESU GreatForestGorge.esp
@@ -15677,6 +15686,7 @@ xulEasternPeaks_TWMPBlackMarshPatch.esp
 MythsAndLegends2-EasternPeaks patch.esp
 Tantrivaylia-EasternPeaks patch.esp
 KragenirsDeathQuest-EasternPeaks patch.esp
+Minotaur Encampments + Unique Landscapes.esp
 TOC SouthEast-EasternPeaks Patch.esp
   SAY: For Use ONLY with Trail Southeast
 TOC East-EasternPeaks Patch.esp
@@ -15801,6 +15811,7 @@ BrinaCrossVillage -- COBL.esp
 Brina Cross Village--Unique Forts Patch.esp
 BrinaCrossVillages.esp
 BrinaCrossConsolidated.esp
+Kvatch Rebuilt + Brina Cross Consolidated.esp
 
 Castle_Seaview.esp
   IF CHECKSUM("Castle_Seaview.esp", D347242F) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -16036,7 +16047,6 @@ HammerfellEG-LostCoast-SutchVillage Patch.esp
 TWMP_Hammerfell - Sutch Village.esp
 Sutch Village Mehrunes Maze Patch.esp
 
-Trees_In_Cities.esp
 
 OotDPS-Necro-FAR-FotA-Patch.esp
   IF FILE("xulJerallGlacier.esp") WARN: Use the UL Jerall Glacier version of this patch!
@@ -16810,6 +16820,17 @@ Compass-Disable_Both.esp
 Compass_Marker_Reducer.esp
   SAY: If using Wrye Bash use Bashed Patch tweaker instead.
 Corpse Grabber v1.esp
+CPR SI Unique Weapons.esp
+CPR Leveled Apparel.esp
+CPR Unique Weapons.esp
+CPR Unique Apparel.esp
+CPR Unique Armor.esp
+CPR Leveled Weapons.esp
+CPR Daedric Artifacts.esp
+CPR Leveled Armor.esp
+CPR SI Armor.esp
+CPR Mehrunes Razor.esp
+CPR SI Apparel.esp
 Create NPCs Duplicates.esp
 Create NPC Duplicates - Beta.esp
 Creature Language Skills -Ver 3.3-.esp
@@ -17506,6 +17527,7 @@ No Wait Regenerate.esp
   REQ: OBSE.
 NoWorthlessItems.esp
 Noticeable Skill Books.esp
+NPC_RLW.esp
 NPC and Creature Buffer.esp
 NPCsMoreGold.esp
 NPC Water-Sink.esp
@@ -17753,6 +17775,11 @@ Retroactive Fatigue Regeneration.esp
 Revealed Classes 1.1-1915.esp
 Reworked Posts.esp
 RoC+RP Patch.esp
+xxReworkedFaregyl.esp
+xxreworkedgottshaw.esp
+xxReworkedReedstand.esp
+xxreworkedSutch.esp
+xxreworkedvillages.esp
 xulBravilBarrowfields + RP Patch.esp
 Ring of console.esp
 RingOfWings_Wingless.esp
@@ -18173,6 +18200,7 @@ Sleeping Wildlife v1.0.esp
 OMPSlofTiger.esp
 Slof's Dogs.esp
   SAY: Don't need to use this if you use MMM as it already includes dogs.
+Slof's DogsRU.esp
 Slof's Epona.esp
 SMDropLitTorch.esp
 SM Essential Kills.esp
@@ -18207,6 +18235,8 @@ Speedy Disrobe OBSE.esp
 SpellMenu.esp
 SpicyFoxVanillaArmorReplacer.esp
   REQ: BBB, HGEC
+SpicyFox_KoTNFimaleArmor.esp
+SpicyFox_KoTNReplicaArmors.esp
 
 BEGINGROUP: SPT Diverse Guards
 //..............................
@@ -23850,6 +23880,7 @@ Better Cities - Open Better Cities.esp
   TAG: {{BASH: Actors.AIPackages}}
 FCOM_BetterCities-Bravil.esp
 MercerIngredientsBC.esp
+OSPS-BC_IC-II_RRLR_TalosBridge_Patch.esp
 OSPS_BC_IC-II_UL-II_TalosBridge_RRLR_Patch.esp
 OSPS-BC_IC-II_UL-II_Patch.esp
   IF FILE("Better Cities - Unique Landscape Imperial Isle.esp") WARN: You Only need this patch. Remove the Better Cities - Unique Landscape Imperial Isle.esp
@@ -24225,6 +24256,7 @@ No More Annoying Merchant Comments - Combined.esp
 Remove_Persuasion_Game_Replies-3059.esp
 No More Annoying__.esp
 No Load Screen on Death v1.0.esp
+No TextLoadingArea.esp
 No Vampire Feeding Message Box.esp
 MessageBox Remover.esp
 Zero Annoying Comments and Messages.esp

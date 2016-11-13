@@ -9702,6 +9702,8 @@ Trade and Commerce Update.esp
 
 //This needs to load before "Umbra the Unfortunate" to avoid conflicts.
 BeautifulUmbra.esp
+Beautiful_Umbra V1.1.esp
+  TAG: {{BASH: Eyes, Hair, NPC.Race, NPCFaces}}
 Umbra the Unfortunate.esp
 //----------------------
 ENDGROUP: Quests Early
@@ -11281,8 +11283,8 @@ Heroes of Cyrodiil Part 4.esp
 Heroes of Cyrodiil Part 5.esp
 Heroes of Cyrodiil full.esp
   IF CHECKSUM("Heroes of Cyrodiil full.esp", 4101D41E) CLEAN: 0 ITM, 0 UDR records.
-
 Hero's Retreat.esp
+Hero's Retreat v1.2.esp
 01_Helms_Deep.esp
   REQ: 'HelmsDeep-ArriusCreek patch.esp' compatibility patch if using Unique Landscapes Arrius Creek.
 02_Helms_Deep.esp
@@ -11905,6 +11907,7 @@ Markets of Cyrodiil LO.esp
 marketway.esp
 marodan_osdakal.esp
   IF CHECKSUM("marodan_osdakal.esp", 5028BB9E) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Marshal Manor.esp
 MathmoraCottage.esp
 Maze of Fog.esp
 MDRisheren.esp
@@ -15624,6 +15627,7 @@ Unique Landscapes - Skingrad Outskirts DV.esp
 xulSkingradOutskirts Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 TheBlackCatJewlryStore-SkingradOutskirts patch.esp
+TheBlackcatJewelryStore-SkingradOutskirts patch.esp
 BlackcatJewelry-SkingradOutskirts Patch.esp
 TrailsOfCyrodiil-SkingradOutskirts patch.esp
 TrailsOfCyrodiilWest-SkingradOutskirts patch.esp

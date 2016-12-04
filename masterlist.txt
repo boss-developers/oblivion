@@ -15055,9 +15055,9 @@ HESU FairmereVillage.esp
 SilverflowCamp-Fairmere Patch.esp
 VHB-Fairmere Patch.esp
 KOTNR-Fairmere Patch.esp
+VHB-KOTNR-Fairmere Patch.esp
 Elsweyr-Fairmere Patch.esp
 ROC-Fairmere Patch.esp
-Elsweyr-ROC-Fairmere Patch.esp
 ROC-WolfsBorough-Fairmere Patch.esp
 //------------------------------
 ENDGROUP: HESU Mods and Patches
@@ -23782,9 +23782,15 @@ BCChorrol-ChorrolHinterland patch.esp
   TAG: {{BASH: C.Water}}
   SAY: Same as 'Better Cities - Unique Landscape Chorrol Hinterland.esp' - only use ONE of these.
 WeynonRetreat-Patch.esp
+Better Cities 6 Chorrol - Tamriel Travellers Patch.esp
+Better Cities 6 Chorrol - Tamriel Travellers OOO Patch.esp
 Better Cities - Unique Landscape Chorrol Hinterland.esp
   TAG: {{BASH: C.Water}}
 xulChorrolHinterland-BC6.esp
+BC6 - Chorrol Hinterland - TT.esp
+BC6 - Chorrol Hinterland - TT (OOO).esp
+Chorrol Hinterland BC6 - Tamriel Travellers Patch.esp
+Chorrol Hinterland BC6 - Tamriel Travellers OOO Patch.esp
 Better Cities CHORROL - Werewolf.esp
 Better Cities BRUMA - Werewolf.esp
 Better Cities Bruma - The Elder Council.esp

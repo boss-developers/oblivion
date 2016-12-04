@@ -2383,6 +2383,7 @@ Immersive FOV for BMS.esp
 Immersive FOV No SI.esp
 Immersive FOV No SI for BMS.esp
 Immersive Woodcutting.esp
+Imperial Legion Backup.esp
 Insanity's Beverage Replacer.esp
   TAG: {{BASH: Graphics, NoMerge}}
 Inscription Profession.esp
@@ -2602,6 +2603,7 @@ New_Potions_Fixed_Icons-25822.esp
 New Oblivion Moons.esp
 New Sheoth Palace LOD fix-10076.esp
 NewThirdPerson.esp
+Nine Guardians.esp
 NightBanditsOnRoads.esp
 nu_female_player_idle.esp
 Never die.esp
@@ -2901,6 +2903,7 @@ BEGINGROUP: Base S
 Sams_Recipe_Mod1.0.esp
 Screenshooter's Illumination.esp
 SD.esp
+SDCrystalBallLamps.esp
 Sexual_SpiderDaedra.esp
   TAG: {{BASH: Graphics, Deactivate}}
   SAY: Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
@@ -3459,7 +3462,7 @@ Note to Self.esp
   REQ: OBSE 0018+
 
 Oblivion Fragrance.esp
-  
+natural ambience - mist only.esp
 OBGE.esp
 Oblivion Graphics Extender Support.esp
 OBGE Controller.esp
@@ -4510,6 +4513,7 @@ CV - Kilij.esp
 Cy.esp
 Cyrodiil Roman Legion.esp
 CaptureBalls.esp
+Colourwheels Sexy & extremely short dress.esp
 Colourwheels Sexy Holy Knight Armor.esp
 Colourwheels Sexy Lingerie HGEC.esp
 Colourwheels Sexy Regal Uniforms.esp
@@ -4517,6 +4521,7 @@ ColourWheels Sexy Servant Uniform.esp
 Colourwheels Sexy Nami.esp
 Colourwheels Sexy Hentais DarkRose.esp
 Colourwheels Sexy minisuka Uniforms.esp
+Colourwheels Sexy Silk Lingerie HGEC.esp
 Colourwheels_Sexy_Sweetclothes.esp
 Colourwheels Sexy Clothing Collection.esp
 ColourWheel_Uniforms_v1.5.esp
@@ -5017,6 +5022,7 @@ GruntsSigilStones.esp
   TAG: {{BASH: Invent}}
 GrayFoxArmor.esp
 Noviere's Gray Fox Armor.esp
+GSRingOfShadows.esp
 Guide Cities of Cyrodiil.esp
 GuildmasterChests.esp
 Ghogiel's Jian.esp
@@ -5834,6 +5840,7 @@ Ring of Sunwalker V1.35.esp
 RingOfFenix - New.esp
 RinzeiCrystalStaff_Unenchanted.esp
 RLGFrostweave.esp
+RM Underwear.esp
 ROADCourtesan.esp
 ROADForestElfRangerOutfit.esp
 ROADMasterOutift.esp
@@ -7553,6 +7560,8 @@ Legion's Horses Armored With Slof's Horse Bases.esp
   TAG: {{BASH: Graphics}} untested.
 MD Saddlebags v3.0 Alternative Trader Script.esp
 SBsaddlebags.esp
+SBsaddlebagsMult.esp
+  REQ: OBSE
 sbSlof's.esp
 IC Horse Ranch.esp
 MELF_HorseSanity.esp
@@ -10299,6 +10308,7 @@ BF_FortRapture.esp
 BF_Vincents.esp
 Big Business.esp
   IF CHECKSUM("Big Business.esp", CEC8BC70) DIRTY: 2 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Bigger Elder Council.esp
 Biotavion On Water.esp
 ElsweyrFaregylRoad.esp
   SAY: Do not use if using ElsweyrAnequina.esp.
@@ -12028,6 +12038,7 @@ Malamath.esp
 Marketplace.esp
 Marketplace_Eng.esp
 MetherlanceManor.esp
+Mora Sal.esp
 Murderer.esp
 MvCQuellArkadiensDV.esp
 MvCQuellArkadiensEV.esp
@@ -12069,6 +12080,7 @@ Necromancer Lair.esp
 Necromancer Shop.esp
 Necromancer's Tower.esp
 NemoriaCottage.esp
+Neo-White Stallion Lodge Mod.esp
 Nerastarels House Player Owned.esp
 Nerussa The Wine Collector v1.0.esp
 Nerussa's Wine Collection version A.esp
@@ -12415,6 +12427,7 @@ Region Revive - Lake Rumare.esp
   INC: most Weye-related mods.
   IF FILE("xulImperialIsle.esp") REQ: "RegionReviveLakeRumare-ImperialIsle patch.esp"
   IF CHECKSUM("Region Revive - Lake Rumare.esp", 4D8FA617) DIRTY: 0 ITM, 45 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+RRLR - NPC Patch.esp
 Region Revive - Lake Rumare - OOO LockBash.esp
 Region Revive - Lake Rumare Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
@@ -13056,6 +13069,7 @@ thievery - EE patch.esp
 ReclaimSancreTor-ThieveryInTheImperialCity patch.esp
 TiansAyla_NNW.esp
   REQ: OWC New Dimensions
+Timberville.esp
 TinyHouse.esp
 COBLaddonTinyHouse.esp
 TiredVampireShipRu.esp
@@ -13385,6 +13399,7 @@ witcher2.esp
   REQ: Shivering Isles+OBSE+HGEyeCandyBody+MaleBodyReplacer
 Witch's Throne.esp
   IF CHECKSUM("Witch's Throne.esp", 6F1BEFB0) DIRTY: 12 ITM, 14 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Witchy Cottage.esp
 fix.esp
 Wizards_Eye_Tower-9776.esp
 wk_Tree House.esp
@@ -15024,6 +15039,7 @@ RST-WolfsBorough Patch.esp
 ROC-WolfsBorough Patch.esp
 Oranstad-WolfsBorough Patch.esp
 Shezries-WolfsBorough Patch.esp
+RST-Shezries-WolfsBorough Patch.esp
 HESU5 GreenRoad.esp
 HESU WhiteRoseRiver.esp
 Glenvar-WhiteRose Patch.esp
@@ -15037,10 +15053,12 @@ WhiteRoseFarm-WhiteRoseRiver Patch.esp
 HESU5 UraraMura.esp
 HESU FairmereVillage.esp
 SilverflowCamp-Fairmere Patch.esp
+VHB-Fairmere Patch.esp
 KOTNR-Fairmere Patch.esp
 Elsweyr-Fairmere Patch.esp
 ROC-Fairmere Patch.esp
 Elsweyr-ROC-Fairmere Patch.esp
+ROC-WolfsBorough-Fairmere Patch.esp
 //------------------------------
 ENDGROUP: HESU Mods and Patches
 
@@ -17293,6 +17311,7 @@ Increased_Training_Allowance-TESSource.esp
 Increased_Training_Allowance.esp
 Improved Skooma Lab.esp
 Ingredient Storage Shelves.esp
+Innkeepers stop staring.esp
 In_Game_Map.esp
 IS_CaskOfSouls_1.1.esp
 //-----------------------
@@ -17631,6 +17650,7 @@ Oblivion grass overhaul.esp
   TAG: {{BASH: Graphics, NoMerge, Deactivate}}
 Oblivion Scaling Unclusterfucked.esp
   REQ: Knights of The Nine DLC  
+Oblivion Scaling Unclusterfucked 0.131.0.esp
 Oblivion Unleveled.esp
 obliviousterrainreplacer.esp
 Ohgma Infinium OverHaul.esp
@@ -17942,6 +17962,7 @@ Vtoy.esp
   IF CHECKSUM("Vtoy.esp", E80F82B8) DIRTY: 314 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 SMVtoyCross.esp
 SMVtoyImperial.esp
+LL Nudes.esp
 Lovers.esp
 Lovers3dorgasm.esp
 Lovers3dorgasm2.esp
@@ -18530,6 +18551,7 @@ ATakesAll.esp
 dyseso_PromptAt2Items.esp
 Lyn-DontAskMeHowMany.esp
 TmeppDoubleTap.esp
+TML_AdoringFan.esp
 TML_InfiniteCharges.esp
 TML_LootableArena.esp
 TML_WieldableTorches_v10.esp
@@ -23562,6 +23584,8 @@ DBWBMR.esp
   SAY: Only use one willpower equals magicka resistance/weakness type mod at once.
 ArgonianFeets.esp
   TAG: {{BASH: Invent}}
+GMBirthsignsRebalance.esp  
+GMRacesRebalance.esp
 Health Regen.esp
 Hunter Birthsign.esp
 NecromancerAndPaladinSigns.esp
@@ -24443,6 +24467,7 @@ a4sEWVE_Shock.esp
   TAG: {{BASH: Graphics, NoMerge}}
 a4sEWVE_SoulTrap.esp
   TAG: {{BASH: Graphics, NoMerge}}
+Alternate ghost shader.esp
 AznarsLifeDetect.esp
 AznarsLifeDection-3052.esp
 Aznars Life Dection.esp

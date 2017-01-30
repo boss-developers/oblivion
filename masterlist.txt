@@ -1902,6 +1902,7 @@ Book Jackets Oblivion ITA - BP.esp
   TAG: {{BASH: Graphics}}
 !Book Jackets Oblivion - PL.esp
 Book Jackets Oblivion VF.esp
+Book Jackets Rus.esp
 OBG - Buechermod - Bilder.esp
 OBG - Buechermod - Bilder - BP.esp
   TAG: {{BASH: Graphics}}
@@ -2236,6 +2237,7 @@ Diverse Dungeons - Subtle Color v.1.05.esp
 Diverse Dungeons - Intense Color v.1.05.esp
 diversegrasses.esp
 DKTrainingGuideExtended.esp
+DogMaks.1.1.esp
 Doomstones.esp
 Drakens More Drinks.esp
 DragonStatuesv1.esp
@@ -2501,6 +2503,7 @@ MagesGuildPortalTowerV1.1.esp
 MagesGuildPortalTowerV1.2.esp
 Magicka.esp
 Marriage Patch.esp
+Marriage - Lovers Comfort.esp
 Marriage Store Profit.esp
 CParchmagetele.esp
 Medic!.esp
@@ -3723,9 +3726,9 @@ DLCOrreryLoreBook.esp
 DLCVileLair.esp
   IF CHECKSUM("DLCVileLair.esp", 74D2CA6F) || IF CHECKSUM("DLCVileLair.esp", 2C59F2F0) || IF CHECKSUM("DLCVileLair.esp", 34AFAD8C) DIRTY: 26 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF REGEX("Kumiko.?Manor.+\.esp") INC: Kumiko Manor esp
-VileLair Redux.esp
 DLCVileLair - Unofficial Patch.esp
   TAG: {{BASH: Graphics}}
+VileLairRedux.esp  
 Correctif VileLair.esp
 Correctif VileLair RP.esp
 DLCVileLairLoreBook.esp
@@ -4985,6 +4988,7 @@ GloriousMageDress.esp
 Gloves.esp
 Glypha_Giltal.esp
 Glyphmod.esp
+Godly Valor Arena Armor-2657.esp
 Godslayer and Divine Protection.esp
 God Ring 1.esp
 the god ring.esp
@@ -8917,6 +8921,7 @@ Cobl Tweaks - MMM.esp
 Cobl Tweaks - MMM and OOO.esp
 Cobl Tweaks - MMM and OOO Mergeable.esp
 Cobl Tweaks - MMM4OOO.esp
+Cobl Tweaks - MMM4OOO Mergeable.esp
 Cobl Tweaks - OOO Mergeable.esp
 MyFix_COBL-OOO_CheckOOOVersion.esp
 Cobl Tweaks - OOO.esp
@@ -9538,6 +9543,7 @@ Morroblivion Water Level Fix.esp
 MorrowOblivion_Eloth Soulgem Replacer.esp
 MorrowOblivion_Visual Overhaul Landscape & Grass.esp
 MorrowOblivion_World Transport.esp
+Morrowind - Oblivion Crisis.esp
 Morrowind_ob - MorrowOblivion Eloth Landscape & Grass for v033.esp
 Morrowind_ob - Chargen and Transport Mod.esp
 Morrowind_ob - Morroblivion_Chargen_And_Transport_Mod_v8.esp
@@ -10846,6 +10852,7 @@ DJ Markov Manor.esp
 DKImprovementBruma_v1.0.esp
 DocksideCoffeeHouse.esp
 Dom.esp
+DomaVseRepleser.esp
 Don't Forget Nirn!.esp
 DOPHammerfell3.esp
 DopplersArmory.esp
@@ -11301,6 +11308,7 @@ Home Improvement - Imperial City Shack 1.0.esp
 Home in Bleakers Way.esp
 HomeShipTWW.esp
 Horse Dreamland.esp
+HouseAgarmira.esp
 HouseFires.esp
 House of Corpses.esp
 House On The Bluff .V2.esp
@@ -11481,6 +11489,7 @@ ImpeREAL City Dragon House patch.esp
 
 Imperial Library.esp
 Imperial City Ranch.esp
+Imperial Palace.esp
 Mad Mike's Imperial Undercity.esp
 Implementor.esp
 ImprovedChorrol.esp
@@ -12076,6 +12085,7 @@ mystery of mausoleum.esp
 mystery of mausoleum Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 MysticAcrhives.esp
+MysticalCastle_2_2.esp
 My Farm House.esp
 Mysterious Bear's Ramshackle Armory.esp
   IF CHECKSUM("Mysterious Bear's Ramshackle Armory.esp", 9708EC51) DIRTY: 49 ITM, 5 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -12805,6 +12815,8 @@ sunk ships.esp
   IF CHECKSUM("sunk ships.esp", E238F1EC) DIRTY: 126 ITM, 34 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Shield of the Gods v0.82.esp
 Ship Wrack.esp
+Sinderion.esp
+Cob Glue Patch - Grinder.esp
 sinked ship.esp
 Sins_of_the_Dream.esp
   IF CHECKSUM("Sins_of_the_Dream.esp", E238F1EC) DIRTY: 57 ITM, 159 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13697,6 +13709,7 @@ Lynges_Thieves_Highway.esp
 Lynges_Thieves_Highway-10256.esp
   IF VAR(BC) SAY: Not Better Cities compatible. Already included with Better Cities IC plugins.
   IF CHECKSUM("Lynges_Thieves_Highway-10256.esp", 24FE4781) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Lynges Thieves Highway-10256.esp
 Thieves Highway.esp
   IF VAR(BC) SAY: Not Better Cities compatible. Already included with Better Cities IC plugins.
 Lynges Thieves Highway.esp
@@ -13829,7 +13842,7 @@ KnightsBabFemaleArmors.esp
 WnA of Righteousness.esp
 
 Knights - Unofficial Patch.esp
-  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Factions, Relations}}
+  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Factions, Relations, Relev}}
 Correctif Knights.esp
 Oblivion Content Restoration Project -- Knights.esp
 PSMainQuestDelayer -- Knights.esp
@@ -15020,6 +15033,7 @@ HESU5 PoisonNuma.esp
   WARN: Obsolete. Update to the latest English version.
 HESU PoisonSwamp.esp
 ToS+Hesu Poison Swamp.esp
+DOTM-PoisonSwamp Patch.esp
 MTCExpanded+HesuPoisonSwamp.esp
 HESU4 SkyrimSinden.esp
   WARN: Obsolete. Update to the latest English version.
@@ -15089,10 +15103,10 @@ Oranstad-WolfsBorough Patch.esp
 Shezries-WolfsBorough Patch.esp
 RST-Shezries-WolfsBorough Patch.esp
 HESU5 GreenRoad.esp
+  WARN: Obsolete. Update to the latest English version.  
 HESU WhiteRoseRiver.esp
 Artifacts-WRR Patch.esp
 Glenvar-WRR Patch.esp
-Glenvar-WhiteRose Patch.esp
 MTC-WRR Patch.esp
 HESU-TAS Patch.esp
 TAS-HESU Patch.esp
@@ -15101,11 +15115,15 @@ LostSpires-WRR Patch.esp
 MTC-LostSpires-WRR Patch.esp
 Elsweyr-WRR Patch.esp
 ROC-WRR Patch.esp
+Elsweyr-ROC-WRR Patch.esp
 Faregyl-WRR Patch.esp
+MTC-Faregyl-WRR Patch.esp
 Shezries-WRR Patch.esp
 LostSpires-Shezries-WRR Patch.esp
+MTC-LostSpires-Shezries-WRR Patch.esp
 WRF-WRR Patch.esp
-WhiteRoseFarm-WhiteRoseRiver Patch.esp
+KOTNR-WRF-WRR Patch.esp
+MTC-KOTNR-Faregyl-WRF-WRR Patch.esp
 HESU5 UraraMura.esp
   WARN: Obsolete. Update to the latest English version.
 HESU FairmereVillage.esp
@@ -15823,6 +15841,7 @@ MythsAndLegends2-EasternPeaks patch.esp
 Tantrivaylia-EasternPeaks patch.esp
 KragenirsDeathQuest-EasternPeaks patch.esp
 Minotaur Encampments + Unique Landscapes.esp
+MysticalCastle_2_2PatchLandscape.esp
 TOC SouthEast-EasternPeaks Patch.esp
   SAY: For Use ONLY with Trail Southeast
 TOC East-EasternPeaks Patch.esp
@@ -18301,6 +18320,7 @@ Enhanced Vegetation [125%].esp
   SAY: Use only one Enhanced Vegetation plugin.
 Enhanced Vegetation [150%].esp
   SAY: Use only one Enhanced Vegetation plugin.
+Enhanced Vegetation SI.esp
 Short Grass V2.esp
 Short Grass V3.esp
 Short_Grass-2044.esp
@@ -20742,7 +20762,9 @@ Vanilla_Oblivion_Skill_Rates.esp
 LRM_Generic.esp
 Master Trainers Upgraded.esp
 
+AdvancedMercantileLeveling.esp
 AdvancedMagicLeveling.esp
+AdvancedWeaponSkillLeveling.esp
 AttributePlusX_v1.1.esp
 AttributePlusX_V1.2.esp
 Bonsai's Modified Skills.esp
@@ -20801,6 +20823,7 @@ Faster Level Up X100.esp
 Faster Skills x5.esp
 Faster Restoration.esp
 Increased Restoration and Mercantile Leveling Rates.esp
+GalerionSlowerLeveling-v10.esp
 G_'s-Level-Slow.esp
 Kami Leveling.esp
 LevelSlow-3x.esp
@@ -21527,6 +21550,8 @@ BEGINGROUP: Eyes
 //---------------
 ArdigaWolfessRealEyesAddonVanilla.esp
   TAG: {{BASH: Eyes}}
+Argonian natural eyes 2.esp
+  TAG: {{BASH: Eyes}}
 CynthiasFantasyEyes.esp
   TAG: {{BASH: Eyes}}
 ElaborateEyes.esp
@@ -21647,6 +21672,7 @@ Naruto's_Eyes_bY_Van_Groud.esp
   TAG: {{BASH: Graphics, Hair, Eyes}}
 idkrrr_sarameyesNhairs4originalrace.esp
   TAG: {{BASH: Graphics, Hair, Eyes}}
+RaceAbilityFortEyeMod.esp
 VipCxj_HairEyeSet.esp
   TAG: {{BASH: Hair, Eyes}}
 //---------------
@@ -21744,6 +21770,8 @@ DTC-AR-PluginLeveledNPCs.esp
 Elf.esp
 AIRrace Evy.esp
   TAG: {{BASH: Hair, Eyes}}
+GhostRaceRPEdition.esp
+  TAG: {{BASH: Scripts}}  
 Golden Saint Race.esp
   TAG: {{BASH: NpcFaces, Hair, Eyes, R.Relations}}
 PlayableSheogorathMod.esp
@@ -22232,6 +22260,7 @@ REGEX: Dragorian and dranaugh( \(No Claws and Feet\))?\.esp
   SAY: Use only one Dragorian and dranaugh*.esp
 Flan - Forest Demon Race.esp
 Flan - Natural Skins.esp
+Flan - Pale Victim.esp
 flying argnian.esp
   REQ: OBSE
   REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked

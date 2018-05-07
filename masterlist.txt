@@ -35,6 +35,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
   IF FILE("Oscuro's_Oblivion_Overhaul.esm") SET: OOO
   IF FILE("Better Cities Resources.esm") SET: BC
   IF FILE("FCOM_Convergence.esm") SET: FCOM
+  IF FILE("Open Cities Resources.esm") SET: OCR
   IF REGEX("Bashed Patch.*\.esp") SET: BP
   IF FILE("Cosmetic Compilation.esp") SET: CC1
 
@@ -105,6 +106,7 @@ Hair Master.esm
 Hair Style Master.esm
 Maxim - Cazy and Kijiko Hair.esm
 Maxim and Flan hair pack.esm
+_Ren_BeautyPack_full.esm
 xeoex.esm
   TAG: {{BASH: Body-F, Body-Size-F, Body-M, Body-Size-M, Eyes}}
 Jog_X_Mod.esm
@@ -3418,7 +3420,7 @@ CBMS_V2.esp
   REQ: OBSE 16+, Enhanced Music & Control v0.72+ (OBSE-Plugin).
 CTEFastSaver.esp
 Custom Autosave.esp
-
+Climb.esp
 Damage Text v2.esp
 DarNifiedUI Config Addon.esp
   REQ: OBSE v19+, Pluggy v125b+ or ConScribe v9.0+ and DarNified UI or DarkUI'd DarN.
@@ -3485,6 +3487,7 @@ Lock Bash Omega.esp
 LootMenu.esp
 marksman_challenge.esp
 MigFEA.esp
+MigFTLtravel.esp
 MigMagipuke.esp
 MigMiscellanea.esp
 MigNoDeath.esp
@@ -8015,6 +8018,9 @@ G_'s-Loot-Mod_v2.5[Valkynaz Loot Plugin].esp
 G_'s-Loot-Mod_v2.5[Unscaled Equipment Addon].esp
 G_'s-Loot-Mod_v2.5[Scaled Equipment Addon].esp
 
+//Not sure why, but the following requires loading before OOO. Typically patches go after the master.
+SigilStoneSelector-OOO.esp
+
 Free Levelling.esp
 //----------------------------------------------------------------------------
 ENDGROUP: OOO; FCOM optional and related components; MMM and optional plugins
@@ -9636,6 +9642,7 @@ BEGINGROUP: Creatures - New
 //============================
 //Really needs Wrye Bash or a compatibility patch if using almost any overhaul.
 //
+BettysCreatureCreations.esp
 Centaur Enemies.esp
 FatBellyMinotaur.esp
 Giants.esp
@@ -9917,6 +9924,7 @@ _NDibellaFlw.esp
 101_Anvil Cottage.esp
 1841-1.1-The Lost Temple 2-TESSource.esp
 1373-More Skingrad-TESSource.esp
+15LamRealEstate.esp
 2423-1.00-Town Armor To House-TESSource.esp
 2HFluch.esp
   IF CHECKSUM("2HFluch.esp", 32D57F9E) DIRTY: 94 ITM, 1 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -10483,6 +10491,7 @@ Better Elfen Gardens.esp
 Better_Alchemy_Shops-2482.esp
 Better Waterfront House.esp
 BettysAnimalPlanet.esp
+BettysAsianRoofs.esp
 BettysMedalsOfHonor.esp
   IF CHECKSUM("BettysMedalsOfHonor.esp", 026B2B41) Clean: 0 ITM, 0 UDR records. 
 BettysVehicleTravelers.esp
@@ -11538,6 +11547,7 @@ ICEGHouse_cobl.esp
 ICEGHouse_jp.esp
 IceMarshTC01.esp
 IC_Emperors_Quarters.esp
+ic park.esp
 icPlayerHome.esp
 SYS Patch IC Player Home.esp
 SB IC Palace Tower Light Mod v1.1.esp
@@ -11879,6 +11889,7 @@ kvatch essential.esp
 KvatchRising.esp
   TAG: {{BASH: Actors.AIPackages}}
   IF CHECKSUM("KvatchRising.esp", 6C91CBEB) DIRTY: 202 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also see special cleaning instructions: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide#KvatchRising.esp_Special_Cleaning_Instructions"
+kvAnalenDaelkhun01.esp
 kvCoralReefs01.esp
 kvFoyada01.esp
 kvKalosan11.esp
@@ -15103,6 +15114,7 @@ SRGottshaw0.9 Beta.esp
 
 HackdirtAlive.esp
   IF CHECKSUM("HackdirtAlive.esp", BA4902D9) DIRTY: 12 ITM, 4 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Hackdirt Overhaul Patch.esp
 HanstHolm village.esp
 
 JDNT_Brina Cross.esp
@@ -16627,6 +16639,7 @@ ULM HentaiLovelyHouse2-AncientYews patch.esp
 ULE RedcourtCastle-AncientYews patch.esp
 ULE ZSkeletonHorse-AncientYews patch.esp
 ULM-Oblivion Uncut-AncientYews patch.esp 
+ULM-Oblivion Uncut Ancient Yews patch.esp
 ULS DarkBrotherhoodChronicles-AncientYews patch.esp
 ULS BetterDaedricShrinesVaermina-AncientYews patch.esp
 ULM BetterDaedricShrinesVaermina-AncientYews patch.esp
@@ -17013,6 +17026,8 @@ Open Cities Reborn - Skingrad.esp
 Open Cities Reborn - Full Merge.esp
   SAY: Obsolete. Update to Open Cities Reborn 0.8.1 or higher.
 
+IF VAR(OCR) MOD: ImprovedWaterfrontShips.esp  
+  
 Open Cities Reborn.esp
   TAG: {{BASH: C.Name}}
 Open Cities Reborn B&M Additions.esp
@@ -17030,6 +17045,7 @@ Better Abandoned House - OCR Patch.esp
 // These need to load after OCR plugins to prevent delinquent master warnings.
 Crowded Cities for OCR.esp
 IF CHECKSUM("Crowded Cities 15.esp", 273CD554) MOD: Crowded Cities 15.esp
+Dom_V_Gorode_Na_SI_PatchOCR.esp
 Immersive Interiors - Imperial City - Open Cities Outer Districts.esp
 OCR-East Wind.esp
 OCR-Flags Removed.esp
@@ -17079,6 +17095,7 @@ IslandPalace-OpenCities Patch.esp
 IslandPalace-LostCoast-OCR Patch.esp
 ULS IslandPalace-OpenCitiesReborn-LostCoast patch.esp
 ULM IslandPalace-OpenCitiesReborn-LostCoast patch.esp
+IWS-OCR patch.esp
 LegionOutposts-OCR Patch.esp
 OCLR+ULBWForest Patch.esp
   SAY: Outdated. Upgrade to Open Cities Reborn and use the corresponding patch.
@@ -17297,6 +17314,7 @@ Deadly_Lava.esp
 Improved Lava.esp
 KoldornsImprovedLava.esp
 KoldornsImprovedLava2.esp
+obliviousbetterlava.esp
 Real Lava.esp
   SAY: Update to 1.3 or later.
 Real Lava v1.1.esp
@@ -17537,6 +17555,7 @@ BlackFineryWithAmulet.esp
   SAY: If using Wrye Bash use the 'clothing show amulets' tweak instead.
 BlackScreenSneakFix.esp
 Blade Skills.esp
+Blessings of the Divines.esp
 Bloody_Mess.esp
 Bloody_Mess - Bloody_Fights.esp
 A Bloody Mess_Fix.esp
@@ -18108,8 +18127,7 @@ cf_Improved_Barter_Gold.esp
   IF CHECKSUM("cf_Improved_Barter_Gold.esp", A4F37E72) DIRTY: 3 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ImprovedHuntingRewards.esp
 Improved Ring of Vitality for Atronach Users.esp 
-ImprovedWaterfrontShips.esp
-IWS-OCR patch.esp
+IFNOT VAR(OCR) MOD: ImprovedWaterfrontShips.esp
 Increased Fog of War Radius - 5X.esp
 Increased_Training_Allowance-1853.esp
 Increased_Training_Allowance-TESSource.esp
@@ -18461,6 +18479,7 @@ Oblivifall - New Classes.esp
   TAG: {{BASH: R.Description}}
 Oblivifall - New Classes Regular Fonts.esp
   TAG: {{BASH: R.Description}}
+OblivionGateCooldown.esp
 Oblivion Gates From the Beginning.esp
 Oblivion grass overhaul.esp
   TAG: {{BASH: Graphics, NoMerge, Deactivate}}
@@ -18635,6 +18654,7 @@ realistic_weapon_reach_mod_ks.esp
   TAG: {{BASH: Stats}}
 realistic-weapon-reach-mod.esp
   TAG: {{BASH: Stats}}
+Really damage.esp
 ReneerRainMod.esp
 RemoveTrainerBounds.esp
 ReneerNPCNameMod.esp
@@ -18817,6 +18837,7 @@ LoversGGBlackmail111.esp
 LoversGhostFix.esp
 LoversDRader.esp
 LoversHudInformation.esp
+loversneed.esp
 LoversOrgy.esp
 LoversPrimalUrge.esp
 LoversProstitute.esp
@@ -19457,6 +19478,7 @@ undercover.esp
 UnleveledQuestRewards.esp
   TAG: {{BASH: Delev, Relev}}
 UnleveledQuestRewardsDLCFilter.esp
+unleveled-rewards.esp
 Updated! Gem Price Fix_rus.esp
 upperGothicClutter.esp
   TAG: {{BASH: Graphics}}
@@ -20043,6 +20065,7 @@ kuerteeSimpleVampirism.esp
 kuerteeSimpleVampirismExpanded.esp
 kuerteeSimpleVampirismExpandedVerB.esp
 KINewVampires.esp
+Leonick -- Vampires.esp
 LTDVampireOverhaul.esp
   IF CHECKSUM("LTDVampireOverhaul.esp", BC307C34) DIRTY: 53 ITM, 10 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 LTDVampireOverhaul - Vile Lair Compatibility Patch.esp
@@ -20058,6 +20081,7 @@ Twillith vampirism 1.71.esp
   SAY: Old update to 'Twillith vampirism.esp'.
 Twillith vampirism.esp
 Vampire Diversity.esp
+VampireMod.esp
 vampire_without_disadvantages-7944.esp
 VampireLife2.0.esp
 Vampirismless Vampires.esp
@@ -20225,6 +20249,7 @@ Darkness Unleashed.esp
 Darkness Unleashed - Blood Magick.esp
 DeathKightSpells v1_3.esp
 Deflect.esp
+demonocus-sandmanKOmerchant.esp
 demonocuspayFinespell.esp
 Disenchant.esp
 Divine Magicka.esp
@@ -20298,6 +20323,7 @@ MCS extension.esp
 Madgod Powers.esp
 Magic Effects OBSE Tweaks.esp
 magicfgodp.esp
+Magic Spell Perks.esp
 Magus Lost Alteration Spells.esp
 Maintained Spells.esp
 Mark & Recall.esp
@@ -20492,6 +20518,7 @@ UnnaturalAura.esp
 WaldelfsLevitation.esp
 WaldelfsLevitation_1C.esp
 Weatherspell.esp
+WillSpells1.esp
 Witchcraft.esp
 Wizard's Vengeance Spells.esp
 WizardLock.esp
@@ -21160,6 +21187,7 @@ kuerteeLootingDeadGuardsIsStealing.esp
 DD_NPCArrest.esp
 DW_FameInfamyBounty.esp
 Infamy Pilgrimage.esp
+InfamyReduction.esp
 Ranokoas Undercover Overhaul TRN compatible.esp
 TRN One of the Gang.esp
   IF CHECKSUM("TRN One of the Gang.esp", A3C5ADAC) DIRTY: 89 ITM, 28 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -24214,6 +24242,10 @@ MergedMouth.esp
 JoinedJaws.esp
   TAG: {{BASH: R.Teeth}}
 pussyfur.esp
+
+//Pretty far down, but these two say they require Oblivion Character Overhaul v2.
+SeaElvesRace.esp
+SinistralElfRace.esp
 //-------------------------------
 ENDGROUP: Body and Head Changes
 
@@ -24276,7 +24308,7 @@ bgMagicItemSigil.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
 bgMagicDVItemSigil.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
-bgMagicEVStartspells.esp
+IFNOT FILE("SupremeMagicka.esp") MOD: bgMagicEVStartspells.esp
 bgMagicDVStartspells.esp
 bgMagicBonus.esp
   DIRTY: Do not clean. "Dirty" edits are intentional and required for the mod to function.
@@ -24312,6 +24344,8 @@ bgMagicEV_Conjuration_for_Supreme_Magicka.esp
   REQ: Supreme Magicka.
   SAY: Only use if placing L.A.M.E. files before Supreme Magika to keep SM spell stats.
   SAY: Always place this file after Supreme Magika.
+IF FILE("SupremeMagicka.esp") MOD: bgMagicEVStartspells.esp
+  
 //=================================================
 ENDGROUP: L.A.M.E. - Supreme Magicka Compatibility
 
@@ -24817,6 +24851,7 @@ Better Cities - Reclaiming Sancre Tor.esp
 Better Cities Chorrol - Reclaiming Sancre Tor.esp
 Better Cities IC Arena - Reclaiming Sancre Tor.esp
 Better Cities Skingrad - Reclaiming Sancre Tor.esp
+BC-ROC-RST-ULM Skingrad Patch.esp
 Better Cities IC Arena - WAC Gladiator.esp
 Better Cities - CUO Leyawiin Patch.esp
 Better Cities Full - CUO Leyawiin Patch.esp

@@ -18264,6 +18264,7 @@ haz_ct_REMOVE.esp
   SAY: ONLY Activate this if you want to remove the changes made by the Classic Travel mod components ct4 & ct1.
 haz_ctx_REMOVE.esp
 haz_spawn_oblivion_gates.esp
+HealthIndication.esp
 HelmetFOV.esp
 HelmetFOV-OBSE.esp
 HexRattCampnstyle.esp
@@ -18291,7 +18292,6 @@ BEGINGROUP: Overrides I
 IC_BattleMage_Remark_Removed-6373.esp
 Idles.esp
 ILLight -Soldiers.esp
-HealthIndication.esp
 ImmersiveHealthIndication.esp
 SaturationHealthIndication.esp
 Visual Health Indication.esp

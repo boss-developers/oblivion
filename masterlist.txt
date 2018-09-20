@@ -3859,6 +3859,7 @@ DBOO - MehrunesRazor.esp
 NLF MehrunesRazor.esp
 MOBS MehrunesRazor.esp
   TAG: {{BASH: Stats}}
+More Effective Enchantments Mehrunes Razor.esp
 Mehrunes_mobs.esp
   TAG: {{BASH: NoMerge, Stats}}
 MehrunesRazor_MOBS.esp
@@ -7633,6 +7634,7 @@ DallsPaladinHorse.esp
 DAWoolyWarMammothMount.esp
 DarkUnicorn Ver 0.3.esp
 demonocus-fasterHorses.esp
+DragonAion'sEssentialHorses.esp 
 Dude Wheres My Horse.esp
 Essential Unicorn-TESSource.esp
 FastHorse v03.esp
@@ -9606,6 +9608,9 @@ WAC - No Custom Races CRR.esp
   TAG: {{BASH: NPC.Race}}
 //=====================================
 ENDGROUP: Waalx Animals and Creatures
+
+Zensalins Oblivion Overhaul.esp
+//=========================
 ENDGROUP: Overhauls
 
 BEGINGROUP: Post Overhaul
@@ -10224,6 +10229,7 @@ allinonebasement_COBLnoCM.esp
 Alexandria.esp
 AleswellMerchant Cobl.esp
 AleswellMerchant Cobl SI.esp
+AleswellHomeCobl.esp
 AleswellHomeFree.esp
 AleswellHomeQuest.esp
 AleswellCOBLaddon.esp
@@ -10659,6 +10665,7 @@ Blitz's Dungeons & Realms - Molag Fel.esp
 Blitz's Dungeons & Realms - Molag Fel 1.4.esp
 Blood Raven.esp
 Lindum-BloodRaven Patch.esp
+LindumOverhaul-BloodRaven Patch.esp
 Laughing_Maw.esp
 BD&R - Laughing Maw.esp
   IF CHECKSUM("BD&R - Laughing Maw.esp", E3E69608) DIRTY: 10 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -10778,6 +10785,7 @@ Cadbury_Castle.esp
 CampFires.esp
 Cardac.esp
   IF CHECKSUM("Cardac.esp", 39F1A5A7) DIRTY: 23 ITM, 427 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
+Carnhay.esp
 Casa Bella Vista.esp
 CastleKnightsOfThornSword.esp
 Camp Simplicity.esp
@@ -11248,6 +11256,7 @@ EirikWythringSpellmaker.esp
 EK_InitialHome.esp
 Elemental Witches.esp
 Elfengesang.esp
+Ellesynd_Estate.esp
 Elven Baths.esp
   IF CHECKSUM("Elven Baths.esp", B14D2EA1) DIRTY: 5 ITM, 20 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Elven_Gardens_Apartment.esp
@@ -14689,6 +14698,7 @@ Daedric Ruins House of Healing Patch.esp
   IF CHECKSUM("Daedric Ruins House of Healing Patch.esp", 9617DA75) DIRTY: 14 ITM, 6 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 DarkBrotherhoodChronicles.esp
   TAG: {{BASH: Actors.AIPackages, Actor.Spells}}
+LindumOverhaul-DarkBrotherhoodChronicles Patch.esp
 DBC-ImpeREAL City Unique Districts Waterfront Patch.esp
   SAY: DO NOT Use together with the DBC-ImpeREAL Merged Patch. Use one or the other.
 DBC-ImpeREAL City Unique Districts-Merged Patch.esp
@@ -14856,7 +14866,7 @@ ReclaimSancreTor Vwalk.esp
 CastleWestWeald-RSTpatch.esp
 CastleWestWeald-RST Patch.esp
 Domrose-RSTpatch.esp
-Kragenir'sDeathQuest-RSTpatch.esp
+Kragenir'sDeathQuest-RST Patch.esp
 ReclaimSancreTor - ImpeREAL City Patch.esp
   IF CHECKSUM("ReclaimSancreTor - ImpeREAL City Patch.esp", AF8A1F8E) CLEAN: 0 ITM, 0 UDR records.
 
@@ -15069,6 +15079,7 @@ Oblivifall - Female Armors.esp
 Oblivifall - Losing My Religion Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
 Palms.esp
+Tales of Cyrodiil.esp
 Tropical Cyrodiil.esp
 Mainland.esp
 Trees Overhaul.esp
@@ -16694,6 +16705,7 @@ ULE GrowPlants-ChorrolHinterland patch.esp
 ULS WeynonPrioryAlive-ChorrolHinterland patch.esp
 ULM WeynonPrioryAlive-ChorrolHinterland patch.esp
 ULS Lindum-ChorrolHinterland patch.esp
+ULS LindumOverhaul-ChorrolHinterland Patch.esp
 ULS Lindum-BloodRaven-ChorrolHinterland patch.esp
 ULE ChorrolPlateau-ChorrolHinterland patch.esp
 ULS WeynonRetreat-ChorrolHinterland patch.esp
@@ -16766,7 +16778,9 @@ ULM ShiveringStore-BravilBarrowfields patch.esp
 ULE Blood&Mud-BravilBarrowfields patch.esp
 
 ULS Lindum-LushWoodlands patch.esp
+ULS LindumOverhaul-LushWoodlands Patch.esp
 ULS Lindum-ULCombo patch.esp
+ULS LindumOverhaul-UniqueLandscapes Patch.esp
 ULM Lindum-UniqueLandscapes patch.esp
 ULS Lindum-BloodRaven-LushWoodlands patch.esp
 ULS Lindum-BloodRaven-ULCombo patch.esp
@@ -17014,6 +17028,8 @@ ULE MannimarcoResurrection-CliffsOfAnvil patch.esp
 ULS ReclaimingSancreTor-CliffsOfAnvil patch.esp
 ULS ReclaimingSancreTor-Unique Landscapes merged patch.esp
 ULM ReclaimingSancreTor-UniqueLandscapes patch.esp
+ULS Kragenir'sDeathQuest-RST-CliffsOfAnvil Patch.esp
+ULM Kragenir'sDeathQuest-RST-CliffsOfAnvil Patch.esp
 ULE MTCThievesGrotto-CliffsOfAnvil patch.esp
 ULS MTCThievesGrotto-UniqueLandscapes merged patch.esp
 ULM MTCThievesGrotto-UniqueLandscapes patch.esp
@@ -18925,6 +18941,7 @@ ENDGROUP: Overrides R
 
 BEGINGROUP: Overrides S
 //------------------------
+SafeChests.esp
 Safe Traveling NPC.esp
 Safer Roads v1.0.esp
   SAY: Don't use with MMM or FCOM - unkown with other overhauls
@@ -19606,6 +19623,7 @@ tbskGuardsFeatures.esp
   REQ: Universal Skeleton, HG Eyecandy Body, Roberts Male Body Replacer
   TAG: {{BASH: Actors.stats, Factions, Invent, NPC.Class}}
 tbskGuardsFeatures OOO Patch.esp
+Oblivion Uncut - Guard Features Patch.esp
 TD_All_House_For_Sale_Replacer.esp
 Teleport Everywhere.esp
   REQ: OBSE.
@@ -21928,6 +21946,7 @@ tweaked_smarter_mercantile.esp
 CLS-OldFriends-OBSE.esp
 RetroHealth.esp
 MagicBasedSkillProgression.esp
+Magic Skill Perks Nerfed.esp
 SD Skill Diary.esp
 SkillDiaryOBSE.esp
 MagesGuildSkillRewards.esp
@@ -23342,13 +23361,16 @@ CapsAdmin.esp
 Classic Witcher.esp
 Classic Witcher RMBR.esp
 Feyri elves.esp
+Flan's Drow Race.esp
+FLAN - DROW Morvus.esp
 FLAN - Enayla Demonic.esp
 REGEX: Dragorian and dranaugh( \(No Claws and Feet\))?\.esp
   SAY: Use only one Dragorian and dranaugh*.esp
 Flan - Forest Demon Race.esp
+Flan's Lemure.esp
 Flan - Natural Skins.esp
 Flan - Pale Victim.esp
-Flan's Drow Race.esp
+Flan's Swan Race.esp
 flying argnian.esp
   REQ: OBSE
   REQ: Dragorian and dranaugh.esp & it's requirements + Dragorian and Dranaugh Races Reworked
@@ -23632,6 +23654,7 @@ CM Companion Megan Fox.esp
 CM DESTINY GB.esp
 Cm Dimych.esp
 cmDrianna.esp
+CM HidesInShadow.esp
 CM Hoarfrost Castle Guard.esp
 cm_Housecats.esp
 cmLegacy.esp
@@ -25150,6 +25173,7 @@ SnowyRoad-BetterCities Patch.esp
 Suliin-BC6 Patch.esp
 Suliin-Barrowfields-BC6 Patch.esp
 Lindum-BC6 Patch.esp
+LindumOverhaul-BetterCities Patch.esp
 Lindum-BloodRaven-BC6 Patch.esp
 Lindum-LushWoodland-BC6 Patch.esp
 Lindum-BloodRaven-Woodland-BC6 Patch.esp
@@ -25171,6 +25195,7 @@ GnollMountain-BC6 Patch.esp
 BattlehornUpgraded-AltCH Patch.esp
 Lindum-BC6-AltCH Patch.esp
 ULS Lindum-BetterCitiesChorrol-AltChorrolHinterland patch.esp
+ULS LindumOverhaul-BetterCities-AltChorrolHinterland Patch.esp
 Lindum-BloodRaven-BC6-AltCH Patch.esp
 ULS Lindum-BloodRaven-BetterCitiesChorrol-AltChorrolHinterland patch.esp
 Lindum-Woodland-BC6-AltCH Patch.esp

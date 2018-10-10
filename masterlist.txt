@@ -4793,7 +4793,10 @@ Demon Lilith.esp
 demonocus_BlackArrowChest.esp
 Demonocus-entertheninja.esp
 demonocus-MasterMageRing.esp
+demonocus-merchantsRing.esp
 demonocus-revengeoftheninja.esp
+demonocus-secretninjatrainers.esp
+demonocus-superVillainGrayCowl.esp
 DesuChan's Demon Huntress.esp
 DesuChan's Lolita Finery.esp
 DesuChan's Macabre Dancer.esp
@@ -4968,6 +4971,7 @@ BEGINGROUP: Items F
 Fable Swords.esp
   TAG: {{BASH: Invent}}
 Faded Dress.esp
+FairyTail-LucyHeartfiliaOutfit.esp
 Fall Hair Wig - EV.esp
 Fall Hair Wig - DV.esp
 FalxMod.esp
@@ -5257,6 +5261,7 @@ Hentai Recolours.esp
 Hentai Armors Retextured.esp
 HepsCloth002-BasicWears.esp
 HepsCloth04-BlackKitty.esp
+HepsCloth17-KanGinPei.esp
 Heretic Robe Replacer.esp
   TAG: {{BASH: Graphics}}
 
@@ -5654,7 +5659,7 @@ Medieval Swords.esp
 Meerkat Clothing.esp
 MenaceoutfitHgec.esp
 Mephala Artifacts.esp
-
+MH Khezu Armor.esp
 Miche_Elvaan_Underwear.esp
 Midlander.esp
 Midlander_HGEC.esp
@@ -7636,6 +7641,7 @@ DarkUnicorn Ver 0.3.esp
 demonocus-fasterHorses.esp
 DragonAion'sEssentialHorses.esp 
 Dude Wheres My Horse.esp
+Eri's Simple Sprint n Gallop.esp
 Essential Unicorn-TESSource.esp
 FastHorse v03.esp
 Faster Horses.esp
@@ -9920,9 +9926,6 @@ GP_Safe Water.esp
 
 zzzImperialCityUpgradeb.esp
 
-Slof's Goth Shop.esp
-  REQ: original plugins 'Slof's Oblivion Goth Shop.esp' , 'Slof's Oblivion Goth Shop II.esp' , 'Slof's Giger Armour.esp', deactivated.
-
 Lyre's Imperial City Bab Boutique.esp
 BabShop.esp
 BABFinal_AdventuressWaresShop.esp
@@ -10303,6 +10306,7 @@ AnvilBayExpansion.esp
 AnvilBayMisteryHouse.esp
   IF CHECKSUM("AnvilBayMisteryHouse.esp", 7BA6C2D6) DIRTY: 6 ITM, 42 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Anvil Docks Abode.esp
+Anvil_Dungeon.esp
 Anvil Industrial.esp
 AnvilManor2.0.esp
 Anvil Mansion Walls Rebuilt 1.esp
@@ -10495,7 +10499,7 @@ Banes Lair of the Witchking.esp
 Banu v1.4.esp
 Beneath_The_Wall-2287.esp
 Divine Elegance Upgrade.esp
-
+Bandit_Creepy_Castle.esp
 Bandit Hideouts.esp
   IF CHECKSUM("Bandit Hideouts.esp", EB5BF385) DIRTY: 12 ITM, 2 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   INC: Castle West Weald.
@@ -10722,6 +10726,7 @@ Bravil House For Sale Upgrade.esp
 Bravil House For Sale Upgrade - COBL Compatibility Patch.esp
 Bravil house Redone.esp
 Bravil Mages Guild Basement.esp
+Bravil Player Shack.esp
 Bravil Store Upgrade.esp
 BravurasBarrel.esp
 1654-1.0-Bruma House Fireplace with Fire-TESSource.esp
@@ -10752,6 +10757,7 @@ BrotherhoodRenewed - Oblivion XP Patch.esp
   REQ: OBSE, Oblivion XP
 Oblivifall - Losing My Religion Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+Bruma_Dungeon.esp
 Bruma Farm Updated.esp
 Bruma House.esp
 Bruma House For Sale.esp
@@ -11170,6 +11176,7 @@ DMwardropemergednoenchant.esp
   IF CHECKSUM("DMwardropemergednoenchant.esp", 33C8AE99) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   IF CHECKSUM("DMwardropemergednoenchant.esp", ED3C0B97) DIRTY: 8 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Draelins Hidden Abode.esp
+Drafty Cave.esp
 DragonBones.esp
 DragonClawCastle.esp
 Dragonsbane Manor.esp
@@ -11715,6 +11722,7 @@ Imperial City Townhouse.esp
 Imperial City Welcome Sign.esp
 Imperial Cult.esp
 Unique Chapels.esp
+Unique Chapels UOP patch.esp
 ImpeREAL Empire - Unique Castles.esp
   INC: Better Cities Full or Better Cities IC components.
 IC Market District  malachi delacot.esp
@@ -12587,7 +12595,6 @@ BEGINGROUP: Quests O
 //-------------------
 OakmoorFarmhouse.esp
 Oaksdale.esp
-Oaksdale-Oblivion Uncut-Patch.esp
 Oblivion 4ever.esp
 Oblivion Achievements Core.esp
 Oblivion Acheivement Rewards.esp
@@ -13005,6 +13012,7 @@ Shady Merchants.esp
 ShadySamFence.esp
 ShatteredDreamsHome.esp
 Sheogorad.esp
+Sheogorad Update.esp
 Sheogoraths_Accords_of_Madness.esp
   TAG: {{BASH: Actors.ACBS, Actors.Stats, Invent}}
   IF CHECKSUM("Sheogoraths_Accords_of_Madness.esp", C7AFC21D) DIRTY: 98 ITM, 71 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -13110,6 +13118,13 @@ SleepyCatInn.esp
 Slimy Mudhole.esp
 Slof's Oblivion Goth Shop.esp
 Slof's Oblivion Goth Shop II.esp
+Slof's Goth Shop.esp
+  REQ: original plugins 'Slof's Oblivion Goth Shop.esp' , 'Slof's Oblivion Goth Shop II.esp' , 'Slof's Giger Armour.esp', deactivated.
+Slof's Goth Shop 3.esp
+Slof's Goth Shops.esp
+Green Velvet Shoes fix.eps
+  SAY: Fix for Slof's shop
+  
 SMChorrol.esp
 SMAbriaelHuman.esp
 SNSmallLogCabin.esp
@@ -14232,6 +14247,8 @@ Knights-Chrysamere.esp
 Merged DLCs - OOO.esp
 Oblivion Uncut.esp
 Oblivion Uncut - OOO Adaptation.esp
+Oaksdale-Oblivion Uncut-Patch.esp
+Archfiend-OblivionUncut Patch.esp
 ScarletMonastery-OblivionUncut Patch.esp
 DLCBattlehorn-OblivionUncut Patch.esp
 Knights - Revelation.esp
@@ -16683,6 +16700,7 @@ ULE DarkBrotherhoodChronicles-TheHeath patch.esp
 ULE SutchReborn-TheHeath patch.esp
 
 ULS DibellaTempleWillowLakeVillage-EntiusGorge patch.esp
+OLDArchfiend - ULM Patch.esp
 ULS OblivionUncut-EntiusGorge patch.esp
 ULM OblivionUncut-EntiusGorge patch.esp
 ULE TheNecromancer-EntiusGorge patch.esp
@@ -17257,6 +17275,8 @@ OCC-ABE-Patch.esp
   SAY: Obsolete. Delete this patch.
 OCC + Golden Crest Patch.esp
 OCR + Golden Crest Patch.esp
+Unique Chapels OCC patch.esp
+Unique Chapels OCR patch.esp
 Oblivifall - Losing My Religion OC.esp
 Oblivifall - Losing My Religion OC Reborn.esp
 OCC-OOO-Patch.esp
@@ -17277,6 +17297,7 @@ ROC+ClassBeginning Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+UL-II+OCOD Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+ULM ROC+UL-II+OCOD Patch.esp
 ROC+UL-II+LtPD+OCOD Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+OCOD Patch.esp
@@ -18078,6 +18099,7 @@ EnchantedGems.esp
 EnchantedArchMageRobeandHood.esp
 Encumbrance Mod 9338.esp
 English Silent Voice Fix.esp
+Enhanced Cyrodiil - Arena Raiments.esp
 EnhancedMountedCombat.esp
 Enhanced Quest Items.esp
 EnemyFace3.esp
@@ -19622,6 +19644,7 @@ Tamriel's Glittering Geology- No Gold Weight.esp
 tbskGuardsFeatures.esp
   REQ: Universal Skeleton, HG Eyecandy Body, Roberts Male Body Replacer
   TAG: {{BASH: Actors.stats, Factions, Invent, NPC.Class}}
+tbskGuardsFeaturesKvatchAddon.esp
 tbskGuardsFeatures OOO Patch.esp
 Oblivion Uncut - Guard Features Patch.esp
 TD_All_House_For_Sale_Replacer.esp
@@ -21378,6 +21401,7 @@ Stealth Entrances v1.esp
 StealthOverhaul.esp
 Stealth Overhaul.esp
 StealthOverhaul, Cobl.esp
+StealthRedone.esp
 STEALTHIER THIEVING.esp
 StolenItemOwnership.esp
 Thievery_Easy_Thrill.esp
@@ -22646,6 +22670,8 @@ ArdigaWolfessRealEyesAddonVanilla.esp
   TAG: {{BASH: Eyes}}
 Argonian natural eyes 2.esp
   TAG: {{BASH: Eyes}}
+Agronian natural eyes 2.esp
+  TAG: {{BASH: Eyes}}  
 CynthiasFantasyEyes.esp
   TAG: {{BASH: Eyes}}
 ElaborateEyes.esp
@@ -24862,6 +24888,7 @@ Slightly_Better_Birthsigns_v1.0.esp
 Sr_birthsigns_nomax.esp
 DrowRacesofFaerunVampire.esp
 DrowRacesofFaerunEyeFix.esp
+Ultimate BirthSigns.esp
 Xereau's Better Birthsigns 1.0.esp
 
 KT_CustomRaceFix.esp
@@ -24983,7 +25010,7 @@ BEGINGROUP: BC Compatibility Patches
 //-----------------------------------
 Better Cities Map Fix.esp
 ShippingOnNiben.esp
-
+Jobs_BetterCities_Compatibility.esp
 All Natural Real Lights - Better Cities IC Patch.esp
 An Unexpected Company - Better Cities.esp
 
@@ -25124,6 +25151,7 @@ Better Cities Full - OOO.esp
 Better Cities IC Arboretum - OOO.esp
 Better Cities IC Market - OOO.esp
 Better Cities Market District - Oblivion Uncut.esp
+OblivionUncut-BetterCitiesArena Patch.esp
 Better Imperial City - OOO.esp
 Better Cities IC Arboretum - Kragenir's Death Quest.esp
 Better Cities - CUO Bruma Patch.esp

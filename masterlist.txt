@@ -4697,6 +4697,7 @@ Dark Sorceress.esp
 DarkSaintUFF.esp
 DarkSeducerGoldenSaintArmor.esp
 DarksidersWAR.esp
+Dark Sweet Dress.esp
 UFF Dark Saint Armor.esp
 DarkWings.esp
 DarkWoods_Weapons_Armor.esp
@@ -4818,6 +4819,7 @@ DMC4Weapons.esp
 DMCDanteClothes.esp
 DLCRequestedCaps.esp
 DMACArmor.esp
+DMC4 Dante-Vergil.esp
 DMCWeapons.esp
 DMGloves.esp
 DMMagesGloves.esp
@@ -4946,6 +4948,7 @@ EmpressRobes.esp
 EpeeDuHero.esp
 EpeeHaeliaLatta.esp
 ercGigerBattleclaws_EV.esp
+ESFCompass.esp
 EY_AoD.esp
 EY_KazaiPhantasm.esp
 EY_Queens Armory.esp
@@ -6487,6 +6490,7 @@ Tempo Jewellery.esp
 Ten Pace Boots.esp
 Tenko_Cloth.esp
 Tepals Dress.esp
+TestBarabusCookingRange.esp
 TestShuriken.esp
 Tesw.esp
 TETE Veleritte.esp
@@ -12719,6 +12723,8 @@ PirateIsland.esp
 Pirates!_Demo.esp
 Pirates Grave V1.1.esp
 Pirate Ship Home.esp
+Placid Point House.esp
+Placid Point House - Green.esp
 PlayerCampsite.esp
 Player House.esp
 PlayerHomeNaheema.esp
@@ -14280,6 +14286,8 @@ PSMainQuestDelayer -- Knights.esp
 DLCMergedBooks.esp
 Knights-Chrysamere.esp
 Merged DLCs - OOO.esp
+SkyrimizedFollowersBattlehorn.esp
+SkyrimizedFollowersKnights.esp
 Oblivion Uncut.esp
 Oblivion Uncut - OOO Adaptation.esp
 Oaksdale-Oblivion Uncut-Patch.esp
@@ -15135,6 +15143,16 @@ Palms.esp
 Tales of Cyrodiil.esp
 Tropical Cyrodiil.esp
 Mainland.esp
+
+TOCC Trail Bleakers Way.esp
+TOCC Trail Central.esp
+TOCC Trail Colovian.esp
+TOCC Trail East.esp
+TOCC Trail North Short Cut.esp
+TOCC Trail Southeast.esp
+TOCC Trail West.esp
+Trails Of Cyrodiil Complete.esp
+
 Trees Overhaul.esp
   IF CHECKSUM("Trees Overhaul.esp", ACA6F616) DIRTY: 336 ITM, 363 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 TreeToPalmBlackwood.esp
@@ -16939,6 +16957,8 @@ ULE Dschinni-ArriusCreek patch.esp
 ULE VillageOfLily-xulPatch_AY_AC patch.esp
 ULS SmokeTown-ArriusCreek patch.esp
 ULM SmokeTown-ArriusCreek patch.esp
+ULS DiveRock-ArriusCreek Patch.esp
+ULM DiveRock-ArriusCreek Patch.esp
 
 ULS BeldaElysium-RollingHills patch.esp
 ULM BeldaElysium-RollingHills patch.esp
@@ -17942,6 +17962,7 @@ Cliff's Shacks Basements-Radiant AI.esp
 Cliff's Daggerfall Uriel Septim and Ocato.esp
   TAG: {{BASH: NpcFaces, NoMerge}}
 CloudRulerTrainingRoom.esp
+Clutter and container ownership.esp
 Coffinbag's Better Potions.esp
   TAG: {{BASH: Graphics}}
 Cobl Hmm.esp
@@ -18482,6 +18503,7 @@ LessHealthfulRest.esp
   SAY: Don't use with LessHealthfulWaiting.esp, use one or the other.
 LessHealthfulWaiting.esp
   SAY: Don't use with LessHealthfulRest.esp, use one or the other.
+LFArchMageQuarterSafeStorage.esp
 Leveling Quick Fix 15.esp
 Leveling Quick Fix 20.esp
 Light Elven Weapons and Mithril Armor.esp
@@ -18775,6 +18797,10 @@ Oblivion Scaling Unclusterfucked.esp
   REQ: Knights of The Nine DLC  
 Oblivion Scaling Unclusterfucked 0.131.0.esp
 Oblivion Scaling Unclusterfucked 0.131.1.esp
+
+//Loaded here as it appears to be the newest version of the plugins above
+Scaling v2.esp
+  
 Oblivion Unleveled.esp
 Oblivion-WeaponWeight.esp
 obliviousterrainreplacer.esp
@@ -21897,7 +21923,7 @@ AttributesEasy.esp
 Better Oblivion Pack 05 - Slower Leveling.esp
 Better Oblivion Pack 06 - Grand Mastery.esp
 Druid.esp
-
+Better Races Powers.esp
 4836-1.0-Vanilla Oblivion Skill Rates-TESSource.esp
 Vanilla_Oblivion_Skill_Rates.esp
 Vanilla Oblivion Skill Rates-6548.esp
@@ -24851,6 +24877,7 @@ OCRAnvil+Integration Path Grid Fix.esp
   SAY: Obsolete: Update to version 3.0 of the Open Cities Integration patch. Then delete this plugin.
 bgIntegrationEV Vwalk.esp
   TAG: {{BASH: Actors.Anims, NoMerge}}
+ElsweyrAnequina - Integration Patch v1.0.esp
 MobsStrandedlightpatch.esp
 ShetcombeFarm-Integration Patch.esp
 Silverfish&bgIntegrationPatch.esp

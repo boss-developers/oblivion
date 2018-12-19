@@ -748,7 +748,7 @@ Mages Guild Quest Fixes.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
 id_CompetitionFix.esp
   SAY: Obsolete. Remove this and use UOP v3.0.1 or later instead.
-
+LandFishProblemSolved.esp
 SwampyCaveFix.esp
   SAY: Obsolete. Remove this and use UOP v3.2.0 or later instead.
 ClavicusFix.esp
@@ -1380,6 +1380,8 @@ Remove Oblivion Sky in Tamriel.esp
 atmospheres.esp
 Weather Control Cyrodiil.esp
 Weather Control Shivering Isles.esp
+BrumasNorthernLights.esp
+lNorthernLights.esp
 //-----------------------------------
 ENDGROUP: Weather Mods and Overhauls
 
@@ -1760,7 +1762,7 @@ aKALAmbientDungeonsBeta2.esp
 AmbientDungeons.esp
   REQ: OBSE and 'You Are Here'. ScreenEffects for versions below 1.3.
 Dark Red Pure Ligth.esp
-BrumasNorthernLights.esp
+
 //-----------------
 ENDGROUP: Lighting
 
@@ -2022,7 +2024,7 @@ Circling Ravens.esp
 Clintmichs Market District Merchants.esp
 crafting.esp
 CWar's Chest of Fun v1.4.esp
-
+cashbarrel.esp
 007camera.esp
 Calender.esp
 Camera Redone.esp
@@ -2969,6 +2971,7 @@ SD.esp
 SDCrystalBallLamps.esp
 Seagulls.esp
 SeptimGold.esp
+SeptimNotGold.esp
 Sexual_SpiderDaedra.esp
   TAG: {{BASH: Graphics, Deactivate}}
   SAY: Obsolete. Remove this and install Oblivion Sexualized Monsters, choosing the All Genders plugin.
@@ -3004,6 +3007,7 @@ Shouts of the Dovahkiin.esp
   IF CHECKSUM("Shouts of the Dovahkiin.esp", 844A23D8) DIRTY: 13 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 ShowHideAmulet.esp
 Show_amulets.esp
+ShowCrosshairTarget.esp
 show my amulets.esp
 ShowRaceMenu.esp
 SilverFence.esp
@@ -6435,6 +6439,7 @@ Summer Clothes.esp
 Summer Onepiece.esp
 superSP_fatigue_restore_ring.esp
 superspeedrings100.esp
+SurCoatArmor.esp
 Svetovoimech.esp
 SM Cosplay 01.esp
 SM Cosplay 02.esp
@@ -7571,6 +7576,9 @@ YAARM_Steel.esp
   TAG: {{BASH: Graphics, NoMerge}}
 
 ZKEC.esp
+ZKEC Tiny Dress.esp
+  REQ: VipCxj_HighHeels.esp
+
 Zombie Slayer Armor.esp
   IF CHECKSUM("Zombie Slayer Armor.esp", ABA4972B) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 //========================================
@@ -8605,6 +8613,7 @@ IF VAR(FCOM) MOD: CoH Werewolves Clothed.esp
 IF VAR(FCOM) MOD: CoH Werewolves Mixed.esp
 IF VAR(FCOM) MOD: CoH Spawn Rates Increased.esp
 IF VAR(FCOM) MOD: CoH 1st Person Anims.esp
+IF VAR(FCOM) MOD: CoH Animated Werewolf Heads.esp
 IF VAR(FCOM) MOD: Curse of Hircine - Werewolf Hunters.esp
 IF VAR(FCOM) MOD: CurseOfHircine - Symphony of Night.esp
 IF VAR(FCOM) MOD: CoH Unarmored.esp
@@ -8750,6 +8759,7 @@ IFNOT VAR(FCOM) MOD: CoH Werewolves Clothed.esp
 IFNOT VAR(FCOM) MOD: CoH Werewolves Mixed.esp
 IFNOT VAR(FCOM) MOD: CoH Spawn Rates Increased.esp
 IFNOT VAR(FCOM) MOD: CoH 1st Person Anims.esp
+IFNOT VAR(FCOM) MOD: CoH Animated Werewolf Heads.esp
 IFNOT VAR(FCOM) MOD: Curse of Hircine - Werewolf Hunters.esp
 IFNOT VAR(FCOM) MOD: CurseOfHircine - Symphony of Night.esp
 IFNOT VAR(FCOM) MOD: CoH Unarmored.esp
@@ -9769,6 +9779,7 @@ BEGINGROUP: Creatures - New
 //
 BettysCreatureCreations.esp
 BettysSIFish.esp
+BlooperTheSeaMonster.esp
 Centaur Enemies.esp
 FatBellyMinotaur.esp
 Giants.esp
@@ -10678,6 +10689,7 @@ BladeSong v1.3 Delayer.esp
 BladeSong - High Imperial Tess by Xtudo.esp
 CreditsVideoBladeSong.esp
 Blankenmarch Home.esp
+Bleak Isle.esp
 Blessed Cloud Ruler Temple.esp
 Blissful_Condo.esp
 Blissful_Dreams.esp
@@ -11276,6 +11288,7 @@ BEGINGROUP: Quests E
 Eagles Landing v1.esp
 Eagle'sNest.esp
 EaglesRest.esp
+EC Chambers 1.1.esp
 eden castle.esp
 Edgar's little secret.esp
 Edhildils Underdark.esp
@@ -11318,6 +11331,7 @@ Enhanced Wayshrines.esp
 Epic Dark Brotherhood.esp
 fg109EscortMission.esp
 Eska Cair.esp
+ESOImports.esp
 EspadaIsland.esp
 EstateFortess.esp
 EstateInterior.esp
@@ -11732,8 +11746,17 @@ IC Palace Topper.esp
 IC Palace Topper - BBC.esp
 ictunnel.esp
 
-//This needs to load before ImpeREAL Empire - Unique Castles to prevent conflicts 
+MSFCAnvil.esp
+MSFCArboretum.esp
+//This needs to load before ImpeREAL Empire - Unique Castles to prevent conflicts. The rest are just grouped here for continuity 
 MSFCheydinhal.esp
+MSFCChorrol.esp
+MSFCElvengardens.esp
+MsFElvenGardenCafe.esp
+MSFCMarketDistrict.esp
+MSFCPalace.esp
+MSFCTalosPlazaDistrict.esp
+MSFCWaterfront.esp
 
 ImbelManor.esp
 imperial armors shop.esp
@@ -12703,6 +12726,7 @@ PearlFarm.esp
 pegasus_alpha.esp
 Pek_Halls_of_The_Phoenix_Order.esp
   IF CHECKSUM("Pek_Halls_of_The_Phoenix_Order.esp", D96DB828) DIRTY: 2 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide". Also makes wild edits to the FGC010 script.
+Pellanodiil Village.esp
 Peruggia's Passage.esp
 PeryitesLowestRealmofOblivion.esp
 photoroom.esp
@@ -13324,6 +13348,7 @@ Tavern-Goers 2 Vwalk.esp
 Tchos Alchemy Tower.esp
 tchos' breakfast food.esp
 TelValus1pt1c.esp
+Temius Castle.esp
 Temple District Rebuild.esp
   SAY: Don't use unless you've finished the main quest!
 Temple District Rebuild_1C.esp
@@ -13540,6 +13565,7 @@ TiansAyla_NNW.esp
 Timberville.esp
 TinyHouse.esp
 COBLaddonTinyHouse.esp
+RegionRevive-MapleCottage Patch.esp
 TiredVampireShipRu.esp
 TMSilverhopVillage.esp
 TML The Box.esp
@@ -13879,6 +13905,7 @@ fix.esp
 Wizards_Eye_Tower-9776.esp
 wk_Tree House.esp
 Wolf Manor.esp
+Wolfdol Castle Alessia.esp
 Woodcutters_Cabin.esp
 Woodcutters_Cabin_COBL.esp
 Woodland Village.esp
@@ -14417,6 +14444,7 @@ Servant of the Dawn DLC Compatibility Patch.esp
 
 This Mortal Crag.esp
 Fall of the Ayleids.esp
+Fall of the Ayleids - Non-OCO Patch.esp
 //===============
 ENDGROUP: DLC 4
 
@@ -14480,6 +14508,7 @@ Ruined Tale 3.0.esp
 RTT.esp
   IF CHECKSUM("RTT.esp", 65F14171) DIRTY: 32 ITM, 3 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 Enhanced Weather - Ruined Tail's Tale Patch.esp
+RTT-horse-patch.esp
 RTT RR Lake Rumare Patch.esp
   SAY: Obsolete. Use RTT-Weye Relocation Patch.esp instead.
 JADWayeDogShop.esp
@@ -14963,6 +14992,8 @@ ROC+Hemingweys Capes Addon.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
 ROC+Highwood Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
+RL+ROC Patch.esp
+  IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.  
 ROC+QFE Patch.esp
   IF FILE("road+bridges.esp") ERROR: road+bridges.esp has been detected. New Roads & Bridges Revised and all dependent patches must be uninstalled before using Roads of Cyrodiil. See Roads of Cyrodiil readme for upgrade instructions.
   INC: Fighters Guild Quests (and its ROC patch)
@@ -16805,7 +16836,7 @@ ULE SeawatchAbode-LostCoast patch.esp
 ULE ShipwreckHome-LostCoast patch.esp
 ULE SkingradMarket-LostCoast patch.esp
 ULE SkingradMarketMoC-LostCoast patch.esp
-ULE FishermansCottage-LostCoast patch.esp
+ULE FishermansCottage-LostCoast Patch.esp
 ULS Cybiades-LostCoast patch.esp
 ULM Cybiades-LostCoast patch.esp
 ULS IslandPalace-LostCoast Patch.esp
@@ -16892,6 +16923,8 @@ ULM HauntedHouseQuest-AncientYews patch.esp
 ULS HentaiLovelyHouse2-AncientYews patch.esp
 ULM HentaiLovelyHouse2-AncientYews patch.esp
 ULE RedcourtCastle-AncientYews patch.esp
+ULS WaterlilyCottage-AncientYews Patch.esp
+ULM WaterlilyCottage-AncientYews Patch.esp
 ULE ZSkeletonHorse-AncientYews patch.esp
 ULS OblivionUncut-AncientYews patch.esp
 ULM-Oblivion Uncut-AncientYews patch.esp 
@@ -17002,6 +17035,8 @@ ULS PlayerHomeNaheema-ImperialIsle patch.esp
 ULM PlayerHomeNaheema-ImperialIsle patch.esp
 ULS RegionReviveLakeRumare-ImperialIsle patch.esp
 ULM RegionReviveLakeRumare-ImperialIsle patch.esp
+ULS MapleCottage-ImperialIsle Patch.esp
+ULM MapleCottage-ImperialIsle Patch.esp
 ULS ROC+UL-II Patch.esp
 ULE ReapersWaterfront-ImperialIsle patch.esp
 ULS ColourwheelSexyTavern-ImperialIsle patch.esp
@@ -17335,6 +17370,7 @@ OCC-ABE-LC-Land Patch.esp
   SAY: Obsolete. Delete this patch.
 OCC-ABE-Patch.esp
   SAY: Obsolete. Delete this patch.
+OCR - Fighters Guild Quests Patch.esp
 OCC + Golden Crest Patch.esp
 OCR + Golden Crest Patch.esp
 Unique Chapels OCC patch.esp
@@ -19713,9 +19749,11 @@ Tamriel's Glittering Geology- No Gold Weight.esp
 tbskGuardsFeatures.esp
   REQ: Universal Skeleton, HG Eyecandy Body, Roberts Male Body Replacer
   TAG: {{BASH: Actors.stats, Factions, Invent, NPC.Class}}
-tbskGuardsFeaturesKvatchAddon.esp
-tbskGuardsFeatures OOO Patch.esp
+tbskGuardsFeatures OOO Patch.esp  
 Oblivion Uncut - Guard Features Patch.esp
+tbskGuardsFeaturesKvatchAddon.esp
+tbskGuardsFeaturesSutchAddon.esp
+tbskGuardsFeaturesThornAddon.esp
 TD_All_House_For_Sale_Replacer.esp
 Teleport Everywhere.esp
   REQ: OBSE.
@@ -20533,6 +20571,7 @@ BEGINGROUP: General Spells
 //-------------------------
 00SpawnBodyguards.esp
 a2ultimate_teleport_spell.esp
+a2uts_extra_spells.esp
 [Leshik] - Mark & Recall Spells.esp
 Academy 1.02.esp
 Acidon_EnchantmentFixes.esp
@@ -20580,6 +20619,7 @@ CompanionRepair.esp
   REQ: RefStuff, OBSE.
 CompanionsTreaty.esp
 ConduitMagic.esp
+Create Enchanted Arrows.esp
 DaedricImmunities.esp
 Darkness Unleashed - Master.esp
 Darkness Unleashed - Bone Magick.esp
@@ -22964,6 +23004,7 @@ Drover Collie.esp
 DTC-AR-PluginElaborateEyesFix.esp
   TAG: {{BASH: Eyes}}
 DTC-AR-PluginLeveledNPCs.esp
+DwemerRace.esp
 Elf.esp
 AIRrace Evy.esp
   TAG: {{BASH: Hair, Eyes}}
@@ -23135,6 +23176,7 @@ Playable Flame Atronach.esp
 Playable Goblin.esp
   SAY: Requires OBSE 18+
 Playable Rat.esp
+Playable Skeleton.esp
 Ragnarok.esp
 Riflers Races.esp
   TAG: {{BASH: Hair, Eyes, R.Relations}}
@@ -23617,7 +23659,7 @@ Ta22's Chocolates.esp
 ENDGROUP: From2ch Lives
 
 A Crudius Companion Orc.esp
-
+DwemerPartners.esp
 shinyFollowMe.esp
 shinyFollowMe_ru.esp
 sundukmod.esp
@@ -24062,6 +24104,7 @@ Companion_Ab_Human.esp
 Companion_Ab_Human_2.esp
 Companion_Ab_Human_3.esp
 Companion_Ab_Human_4.esp
+CompanionArchie.1.1.esp
 Companion-Hilda.esp
   INC: Companion Neeshka.esp
 Companion Maria.esp
@@ -24187,6 +24230,7 @@ SNcrafting-MysticFollowerAddOn.esp
 
 SnowAndHarukoCMPartners.esp
   TAG: {{BASH: Hair, Eyes}}
+Sofia.esp
 Sonia.esp
   IF CHECKSUM("Sonia.esp", D87BC592) DIRTY: 1 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
   TAG: {{BASH: Hair, Eyes}}
@@ -26125,6 +26169,8 @@ New Disintegration Effect.esp
   TAG: {{BASH: Graphics, Deactivate}}
 New_NightEye_Toggle.esp
   TAG: {{BASH: Graphics, Deactivate}}
+AutoChangeNightEye.esp
+  TAG: {{BASH: Graphics, Deactivate}}
 _auto_night-eye.esp
   TAG: {{BASH: Graphics, Deactivate}}
 QTdof.esp
@@ -26497,6 +26543,10 @@ EMC2 StreamMusic - Filter.esp
 
 amGE_Races.esp
 AOBrokenVoicesFix.esp
+VoicesForFemaleDremora.esp
+UOPversionVoicesForFemaleDremora.esp
+  Say: Do Not Clean. Plugin contains 1 ITM which is required for the mod to work.
+  TAG: {{BASH: Actors.ACBS, NoMerge}}
 MQ05Commentaries.esp
 WAC - NoMapMarker.esp
   IF CHECKSUM("WAC - NoMapMarker.esp", 9BD8F9C2) DIRTY: 16 ITM, 0 UDR records. Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
@@ -26684,6 +26734,8 @@ tamriel_50_res.esp
 TamrielWorldspaceCompleteWorldMap.esp
 TWMP_Tamriel_Ingame_ Map.esp
 DWIngameMap.esp
+WorldMapWithLandmarksShown.esp
+WorldMapsForAllWorldspaces.esp
 //----------------------
 ENDGROUP: Map Changes
 
